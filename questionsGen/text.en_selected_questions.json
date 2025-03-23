@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What are the main groups of animals studied in the topic of animal diversity?",
+    "context": "In this topic, you will study the main groups of animals, defining features of their structure and biological characteristics.",
+    "difficulty": "easy",
+    "category": "factual",
+    "evaluation": {
+      "answerable": false,
+      "context_relevance": 0.7,
+      "diversity_score": 0.8472222222222222
+    }
+  },
+  {
+    "question": "Why was it agreed to give all animal classification names in Latin?",
+    "context": "To avoid confusion, it was agreed to give all names in Latin.",
+    "difficulty": "medium",
+    "category": "analytical",
+    "evaluation": {
+      "answerable": true,
+      "context_relevance": 0.5555555555555556,
+      "diversity_score": 0.9128787878787878
+    }
+  },
+  {
+    "question": "What is the difference between a species and a breed according to the document?",
+    "context": "Species should not be confused with breed. Breeds are formed as a result of the activity of a person who creates them for his own purposes, and are not different species.",
+    "difficulty": "medium",
+    "category": "factual",
+    "evaluation": {
+      "answerable": false,
+      "context_relevance": 0.375,
+      "diversity_score": 0.8541666666666666
+    }
+  },
+  {
+    "question": "How do scientists classify a new species of animal?",
+    "context": "When scientists come across a new species, they first classify it, that is, determine which group of animals it belongs to. To do this, scientists study it in detail.",
+    "difficulty": "hard",
+    "category": "inferential",
+    "evaluation": {
+      "answerable": false,
+      "context_relevance": 0.75,
+      "diversity_score": 0.8981481481481481
+    }
+  }
+]

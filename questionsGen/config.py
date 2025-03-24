@@ -19,9 +19,9 @@ class Config:
         # Default
         self._config = {
             "llm": {
-                "provider": "gpt4o", # PUT here "local" if wanted! + fill in model_path
+                "provider": "local", # gpt4o or PUT here "local" if wanted! + fill in model_path
                 "api_key": os.environ.get("OPENAI_API_KEY", ""),
-                "model_path": "",
+                "model_path": "llama3.2:latest",
                 "temperature": 0.7,
                 "max_tokens": 2000
             },

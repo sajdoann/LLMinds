@@ -67,9 +67,11 @@ class LocalLLMInterface(LLMInterface):
         self.model_path = model_path
         self.kwargs = kwargs
         # This is a placeholder - TODO implement 
-   
-        # from llama_cpp import Llama
-        # self.model = Llama(model_path=model_path, **kwargs)
+
+        import ollama
+        self.client = ollama.Client()
+        self.model = model_path
+        
     
     def generate_completion(self, prompt: str, max_tokens: int = 1000, temperature: float = 0.7) -> str:
         """Generate a completion using a local LLM.
@@ -82,17 +84,10 @@ class LocalLLMInterface(LLMInterface):
         Returns:
             The generated text completion
         """
-        # This is a placeholder -  TODO implement 
         
-        # response = self.model.generate(
-        #     prompt,
-        #     max_tokens=max_tokens,
-        #     temperature=temperature
-        # )
-        # return response
-        
-        # dummy response
-        return f"This is a placeholder for local LLM ({self.model_path}) response to: {prompt[:30]}..."
+        response = self.client.generate(model=self.model, prompt=prompt)
+        return response.response
+    
 
 
 def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
@@ -111,7 +106,7 @@ def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
             raise ValueError("API key is required for GPT-4o interface")
         return GPT4Interface(api_key)
     elif provider.lower() == 'local':
-        model_path = kwargs.get('model_path')
+        model_path = kwargs.pop('model_path') 
         if not model_path:
             raise ValueError("Model path is required for local LLM interface")
         return LocalLLMInterface(model_path, **kwargs)

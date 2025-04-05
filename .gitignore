@@ -1,3 +1,15 @@
+
+# Ignore everything in MSMacroQA
+MSMacroQA/*
+
+# But don't ignore these specific files
+!MSMacroQA/EDA_qa.ipynb
+!MSMacroQA/make_data.py
+!MSMacroQA/qa_data_55578.zip
+
+
+#### GENERATED
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -34,7 +34,7 @@ def generate_response(model, tokenizer, inputs):
             if safe_max_new_tokens <= 0:
                 raise ValueError("Input is already too long to generate any new tokens.")
 
-            print(f"[INFO] Generating with max_new_tokens = {safe_max_new_tokens}")
+            print(f"[INFO] Answer will have on maximum: {safe_max_new_tokens} tokens.")
 
             outputs = model.generate(
                 **inputs,

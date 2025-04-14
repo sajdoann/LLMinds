@@ -1,5 +1,5 @@
-from RAG.loader_saver import load_questions, save_responses
-from RAG.retriever import Retriever
+from loader_saver import load_questions, save_responses
+from retriever import Retriever
 from loading_spinner import generate_response
 from model_loader import load_model
 import argparse

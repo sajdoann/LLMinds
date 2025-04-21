@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Why is evaluation placed as the first lecture topic in the course on machine translation?",
+    "reference-answers": [
+      "Because without evaluation, it is impossible to measure progress or compare MT systems.",
+      "Evaluation drives the direction of research in MT."
+    ]
+  },
+  {
+    "question": "What are the two main types of MT evaluation methods discussed in the lecture?",
+    "reference-answers": [
+      "Manual evaluation and automatic evaluation."
+    ]
+  },
+  {
+    "question": "What is a major downside of using a single reference translation in evaluation metrics like BLEU?",
+    "reference-answers": [
+      "It limits the chance of matching valid translations, underestimating system performance.",
+      "It may penalize correct translations that differ from the single reference."
+    ]
+  },
+  {
+    "question": "What are adequacy and fluency in manual evaluation, and how are they related?",
+    "reference-answers": [
+      "Adequacy measures how well the meaning is preserved, and fluency measures the grammatical and natural-sounding quality of the output.",
+      "They are correlated because poor fluency can make it hard to judge adequacy."
+    ]
+  },
+  {
+    "question": "What is Direct Assessment (DA), and why was it introduced in WMT 2013?",
+    "reference-answers": [
+      "A manual evaluation method using a single slider score (0–100) comparing MT output to a reference.",
+      "It was introduced to simplify evaluation and make it suitable for crowdsourcing platforms."
+    ]
+  },
+  {
+    "question": "How does BLEU score evaluate machine translation outputs?",
+    "reference-answers": [
+      "By checking how many n-grams (up to 4-grams) in the MT output match those in the reference translation.",
+      "It also includes a brevity penalty to avoid short translations getting high scores."
+    ]
+  },
+  {
+    "question": "Why can optimizing for BLEU lead to suboptimal MT systems?",
+    "reference-answers": [
+      "Because BLEU emphasizes local n-gram matches, which can lead systems to ignore overall sentence meaning.",
+      "It may reward systems that produce common, piece-wise correct phrases rather than truly accurate translations."
+    ]
+  },
+  {
+    "question": "What is the difference between black-box, gray-box, and glass-box evaluation?",
+    "reference-answers": [
+      "Black-box: evaluates output without knowing internal system structure.",
+      "Gray-box: evaluates using linguistic analysis (e.g. types of errors).",
+      "Glass-box: evaluates internal components to find where information is lost."
+    ]
+  },
+  {
+    "question": "Why do evaluation results differ when comparing manual and automatic evaluation methods?",
+    "reference-answers": [
+      "Because they focus on different aspects: humans may value adequacy or completeness more, while automatic metrics like BLEU may reward superficial matches.",
+      "Manual evaluation is subjective and context-aware, while automatic is objective but limited."
+    ]
+  },
+  {
+    "question": "What does the lecture suggest about the role of context in evaluating MT outputs?",
+    "reference-answers": [
+      "Evaluating without context (sentence-level) can lead to misleading results.",
+      "Document-level or context-aware evaluation gives a better understanding of translation quality, especially for coherence."
+    ]
+  }
+]

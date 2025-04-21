@@ -2,6 +2,7 @@ import itertools
 import threading
 import time
 import torch
+import gc
 
 # Define a threading event to control the spinner
 stop_loading_event = threading.Event()
@@ -52,4 +53,9 @@ def generate_response(model, tokenizer, inputs):
     
     # Decode the output
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+    # Clear cache immediately after generation
+    torch.cuda.empty_cache()
+    gc.collect()
+
     return response

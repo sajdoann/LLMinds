@@ -12,8 +12,9 @@ class Retriever:
         self.document_store = {}
         self.nlp = spacy.load("en_core_web_sm")
 
-    def load_documents(self):
-        with open('../documents.txt', 'r', encoding='utf-8') as f:
+    def load_documents(self, filepath='documents.txt'):
+        print("Loading documents from: ", filepath)
+        with open(filepath, 'r', encoding='utf-8') as f:
             raw_text = f.read()
 
         chunks = self.split_into_chunks(raw_text, max_words=100)

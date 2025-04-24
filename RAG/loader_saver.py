@@ -6,6 +6,7 @@ import re
 
 
 def load_questions(filepath="questions.json"):
+    print("Loading questions from:" ,filepath)
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -32,9 +33,13 @@ def extract_qa_structure(text):
     }
 
 
-def save_responses(responses, args):
+def save_responses(responses, args, outdir='responses',save='def'):
+
+    #create folder if it does not exist
+    os.makedirs(outdir, exist_ok=True)
+
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"responses/response_{args.model}_k{args.top_k}_r{args.reserved_tokens}_{timestamp}.json"
+    filename = f"{outdir}/{save}_{args.model}_k{args.top_k}_r{args.reserved_tokens}_{timestamp}.json"
 
     # Convert each response to a string from characters
     responses = [str(r) for r in responses]

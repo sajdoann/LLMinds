@@ -56,7 +56,7 @@ def main():
         gc.collect()
         torch.cuda.empty_cache()
 
-    with open(f"responses_{datetime.datetime.now().isoformat(timespec="seconds")}.json", "w") as f:
+    with open(f"responses_{datetime.datetime.now().isoformat(timespec="seconds").replace(":", "")}.json", "w") as f:
         json.dump(responses, f, ensure_ascii=False, indent=4)
 
 

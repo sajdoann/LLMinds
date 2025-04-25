@@ -19,7 +19,7 @@ class Config:
         # Default
         self._config = {
             "llm": {
-                "provider": "ollama", # gpt4o or PUT here "local" if wanted! + fill in model_path
+                "provider": "ollama", # huggingface, ollama or gpt4o
                 "api_key": os.environ.get("OPENAI_API_KEY", ""),
                 "model_path": "deepseek-r1:1.5b",
                 "temperature": 0.7,

@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from typing import List, Dict, Any, Optional
 
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
 import requests
 
 
@@ -109,6 +111,53 @@ class OllamaInterface(LLMInterface):
         response.raise_for_status()
         return response.json()["response"]
 
+class HuggingFaceInterface(LLMInterface):
+    """Implementation for loading and generating from Hugging Face models."""
+
+    def __init__(self, model_name: str, device: Optional[str] = None):
+        """Initialize the Hugging Face interface.
+
+        Args:
+            model_name: Name or path of the Hugging Face model
+            device: Computation device ('cuda' or 'cpu'), auto-detected if not specified
+        """
+        self.model_name = model_name
+        self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
+
+        print(f"Loading Hugging Face model '{model_name}' on '{self.device}'...")
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        self.model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            torch_dtype=torch.float16 if self.device == 'cuda' else torch.float32
+        ).to(self.device)
+        self.model.eval()
+        print("Model and tokenizer loaded successfully.")
+
+    def generate_completion(self, prompt: str, max_tokens: int = 1000, temperature: float = 0.7) -> str:
+        """Generate text using the Hugging Face model.
+
+        Args:
+            prompt: Input prompt
+            max_tokens: Maximum number of tokens to generate
+            temperature: Sampling temperature
+
+        Returns:
+            Generated text completion
+        """
+        inputs = self.tokenizer(prompt, return_tensors="pt").to(self.device)
+        with torch.no_grad():
+            outputs = self.model.generate(
+                **inputs,
+                max_new_tokens=max_tokens,
+                temperature=temperature,
+                do_sample=True,
+                eos_token_id=self.tokenizer.eos_token_id,
+                pad_token_id=self.tokenizer.eos_token_id
+            )
+        completion = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+        return completion[len(prompt):].strip()
+
+
 
 def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
     """Factory function to get the appropriate LLM interface.
@@ -130,5 +179,11 @@ def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
         if not model_name:
             raise ValueError("Model name (model_path) is required for Ollama interface")
         return OllamaInterface(model_name)
+    elif provider == 'huggingface':
+        model_name = kwargs.get('model_path')
+        if not model_name:
+            raise ValueError("Model name (model_path) is required for Hugging Face interface")
+        device = kwargs.get('device', None)
+        return HuggingFaceInterface(model_name=model_name, device=device)
     else:
         raise ValueError(f"Unsupported LLM provider: {provider}")

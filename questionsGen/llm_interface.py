@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from typing import List, Dict, Any, Optional
 
+import requests
+
 
 class LLMInterface(ABC):
     """Abstract base class for LLM interfaces."""
@@ -72,7 +74,7 @@ class LocalLLMInterface(LLMInterface):
         self.client = ollama.Client()
         self.model = model_path
         
-    
+
     def generate_completion(self, prompt: str, max_tokens: int = 1000, temperature: float = 0.7) -> str:
         """Generate a completion using a local LLM.
         
@@ -87,7 +89,25 @@ class LocalLLMInterface(LLMInterface):
         
         response = self.client.generate(model=self.model, prompt=prompt)
         return response.response
-    
+
+class OllamaInterface(LLMInterface):
+    def __init__(self, model_name: str, host: str = "http://localhost:11434"):
+        self.model_name = model_name
+        self.host = host
+
+    def generate_completion(self, prompt, max_tokens=1000, temperature=0.7):
+        payload = {
+            "model": self.model_name,
+            "prompt": prompt,
+            "options": {
+                "temperature": temperature,
+                "num_predict": max_tokens
+            },
+            "stream": False
+        }
+        response = requests.post(f"{self.host}/api/generate", json=payload)
+        response.raise_for_status()
+        return response.json()["response"]
 
 
 def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
@@ -105,10 +125,10 @@ def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
         if not api_key:
             raise ValueError("API key is required for GPT-4o interface")
         return GPT4Interface(api_key)
-    elif provider.lower() == 'local':
-        model_path = kwargs.pop('model_path') 
-        if not model_path:
-            raise ValueError("Model path is required for local LLM interface")
-        return LocalLLMInterface(model_path, **kwargs)
+    elif provider.lower() == 'ollama':
+        model_name = kwargs.get('model_path')
+        if not model_name:
+            raise ValueError("Model name (model_path) is required for Ollama interface")
+        return OllamaInterface(model_name)
     else:
         raise ValueError(f"Unsupported LLM provider: {provider}")

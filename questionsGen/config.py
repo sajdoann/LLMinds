@@ -19,9 +19,9 @@ class Config:
         # Default
         self._config = {
             "llm": {
-                "provider": "local", # gpt4o or PUT here "local" if wanted! + fill in model_path
+                "provider": "ollama", # gpt4o or PUT here "local" if wanted! + fill in model_path
                 "api_key": os.environ.get("OPENAI_API_KEY", ""),
-                "model_path": "llama3.2:latest",
+                "model_path": "deepseek-r1:1.5b",
                 "temperature": 0.7,
                 "max_tokens": 2000
             },

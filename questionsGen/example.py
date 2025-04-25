@@ -28,17 +28,16 @@ def main():
     config = Config()
     
     # Check for API key in environment
-    if not config.get("llm", "api_key"):
-        print("Error: API key not found. Please set the OPENAI_API_KEY environment variable.")
-        sys.exit(1)
+    # if not config.get("llm", "api_key"):
+    #     print("Error: API key not found. Please set the OPENAI_API_KEY environment variable.")
+    #     sys.exit(1)
     
     llm = get_llm_interface(
         provider=config.get("llm", "provider"),
-        api_key=config.get("llm", "api_key"),
         model_path=config.get("llm", "model_path")
     )
     
-    doc_path = sys.argv[1] if len(sys.argv) > 1 else "./questionsGen/text.en.txt"
+    doc_path = sys.argv[1] if len(sys.argv) > 1 else "./text.en.txt"
     
     if not os.path.exists(doc_path):
         print(f"Error: Document not found at {doc_path}")

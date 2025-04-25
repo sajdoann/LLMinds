@@ -9,13 +9,23 @@ import tqdm
 from instances import Instance, llama32_3b_instruct, llama32_1b, deepseek_r1_gguf_14b_q4_k_l
 from data_loader import load_data, list_subfolders
 
-FOLDERS: list[tuple[str, str]] = [
-    ("devset/ukrbiology/book01/topic01-Різноманітність тварин", "text.en.txt"),
-    ("devset/ukrbiology/book01/topic02-Процеси життєдіяльностітварин", "text.en.txt"),
-    ("devset/ukrbiology/book01/topic03-Поведінка тварин", "text.en.txt"),
-    ("devset/popular/video-22", "text.en.txt"),
-    *((str(x), "text.txt") for x in list_subfolders("devset/nmtclass/lecture01-eval")),
+FOLDERS_DEVSET: list[tuple[str, str]] = [
+    *((str(x), "text.txt") for x in list_subfolders("devset/nmtclass")),
+    *((str(x), "text.en.txt") for x in list_subfolders("devset/popular")),
+    *((str(x), "text.en.txt") for x in list_subfolders("devset/ukrbiology")),
 ]
+
+FOLDERS_TESTSET: list[tuple[str, str]] = [
+    *((str(x), "text.en.txt") for x in list_subfolders("testset/demagog-statements-public")),
+    *((str(x), "text.txt") for x in list_subfolders("testset/flat-earth-book")),
+    *((str(x), "text.txt") for x in list_subfolders("testset/nmt-book")),
+    *((str(x), "text.txt") for x in list_subfolders("testset/nmt-class")),
+    *((str(x), "text.en.txt") for x in list_subfolders("testset/popular")),
+    *((str(x), "text.en.txt") for x in list_subfolders("testset/ukr-biology")),
+    *((str(x), "text.txt") for x in list_subfolders("testset/world-history")),
+]
+
+FOLDERS: list[tuple[str, str]] = FOLDERS_TESTSET
 
 INSTANCES: list[Instance] = [
     llama32_3b_instruct,
@@ -28,7 +38,7 @@ QUESTIONS_PER_DOCUMENT = 3
 MAX_CHARS = 1024 * 16
 
 def main():
-    responses: dict[str, dict[int, list[str]]] = defaultdict(dict)
+    responses: dict[str, list[str]] = {}
 
     for instance in INSTANCES:
         llm = instance.model.llm_factory()
@@ -40,17 +50,16 @@ def main():
                     print(f"Warning: No data found in {folder} with name {txt_file}")
                     continue
 
-                txt = "\n".join(txt_data)
-                if len(txt) > MAX_CHARS:
-                    print(f"Warning: input text of {folder} / {txt_file} is too long, truncating from {len(txt)} to last {MAX_CHARS} characters.")
-                    txt = txt[-MAX_CHARS:]
+                for txt_path, txt in txt_data:
+                    print(f"Processing {txt_path}")
 
-                response = llm(instance.prompt_generator(txt, instance.prompt), QUESTIONS_PER_DOCUMENT)
+                    if len(txt) > MAX_CHARS:
+                        print(f"Warning: input text of {txt_path} is too long, truncating from {len(txt)} to last {MAX_CHARS} characters.")
+                        txt = txt[-MAX_CHARS:]
 
-                responses[instance.model.MODEL_ID][i] = response
+                    response = llm(instance.prompt_generator(txt, instance.prompt), QUESTIONS_PER_DOCUMENT)
 
-                gc.collect()
-                torch.cuda.empty_cache()
+                    responses[str(txt_path)] = response
 
         del llm
         gc.collect()

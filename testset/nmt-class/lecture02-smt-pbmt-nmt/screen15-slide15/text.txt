@@ -1,0 +1,1 @@
+ The way we do it, if we are defining the probability of a trigram, we simply look at the observations, we search for all the triples of words, all the trigrams from a text, they will have some count, each of them, and we divide it by the number of occurrences of the antecedent of the history, the words at the beginning of the n-gram.

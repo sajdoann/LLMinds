@@ -1,0 +1,1 @@
+ of the sentence. Yeah, so there is various pruning strategies like maybe you want to keep at most K hypothesis in a stack or you can want to keep the best score and hypotheses which are not worse than 10 times the best score or one tenth of the best score. So here is the complexities and depending on the number of translation options we have quadratic complexity in terms

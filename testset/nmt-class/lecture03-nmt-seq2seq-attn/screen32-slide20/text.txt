@@ -1,0 +1,1 @@
+ What works better in practice is somehow like read sentences from more directions at once. So the bidirectional recurrent neural network uses two recurrent neural networks to digest the input from left to right and from right to left. And you do this digestion and then you always concatenate the states at the corresponding positions. So the benefit of this approach

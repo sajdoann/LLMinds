@@ -1,0 +1,1 @@
+ One thing that has to be taken into account is the vocabulary size and the subword vocabularies. So if you have a parent corpus, which is typically big, and the child corpus, which is typically small, then if you would extract the subword dictionary from these two corpora together, then the subword dictionary would be heavily overfitted to the parent.

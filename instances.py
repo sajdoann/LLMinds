@@ -30,9 +30,9 @@ llama32_1b = Instance(
         MODEL_ID="meta-llama/Llama-3.2-1B",
         max_new_tokens=128,
     ),
-    prompt_generator=lambda docs, prompt: f"{prompt}\n\nTEXT:\n{docs}",
+    prompt_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
     prompt="""
-Based on following TEXT generate a single QUESTION for an exam which is answerable using only the information in the TEXT.
+Based on previous TEXT generate a single QUESTION for an exam which is answerable using only the information in the TEXT.
 Do not answer the question.
 Respond only with the QUESTION and nothing else. 
 """.strip()

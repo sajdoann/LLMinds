@@ -1,0 +1,1 @@
+ You emit the final word based on what the decoder says. So the decoder consults its previous state, the context vector, the last word produced and it decides what should be the next word. You again do the output projection to the full vocabulary size of the target language and then you pick the most probable token or you perform some clever

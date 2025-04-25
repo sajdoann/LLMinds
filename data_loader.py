@@ -8,16 +8,16 @@ def _find_text_files(folder_path: str, file_name: str = 'text.txt') -> list[Path
     return res
 
 
-def load_data(folder_path: str, file_name: str):
+def load_data(folder_path: str, file_name: str) -> list[tuple[Path, str]]:
     files = _find_text_files(folder_path,  file_name)
     if not files:
         print(f"No files found in {folder_path} with name {file_name}")
         return []
 
-    data = []
+    data: list[tuple[Path, str]] = []
     for file in files:
         with open(file, 'r', encoding='utf-8') as f:
-            data.append(f.read())
+            data.append((file, f.read()))
 
     return data
 

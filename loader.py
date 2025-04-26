@@ -38,7 +38,7 @@ QUESTIONS_PER_DOCUMENT = 3
 MAX_CHARS = 1024 * 16
 
 def main():
-    responses: dict[str, list[str]] = {}
+    responses: dict[str, dict[str, list[str]]] = defaultdict(dict)
 
     for instance in INSTANCES:
         llm = instance.model.llm_factory()
@@ -59,7 +59,7 @@ def main():
 
                     response = llm(instance.prompt_generator(txt, instance.prompt), QUESTIONS_PER_DOCUMENT)
 
-                    responses[str(txt_path)] = response
+                    responses[instance.model.MODEL_ID][str(txt_path)] = response
 
         del llm
         gc.collect()

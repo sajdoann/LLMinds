@@ -1,0 +1,1804 @@
+Loading checkpoint shards: 100%|██████████| 2/2 [00:03<00:00,  1.57s/it]
+Device set to use cuda:0
+Using model: meta-llama/Llama-3.2-3B-Instruct
+Processing testset/demagog-statements-public/s_id21794/text.en.txt
+  1%|          | 1/86 [00:02<03:14,  2.29s/it]Processing testset/demagog-statements-public/s_id21452/text.en.txt
+  2%|▏         | 2/86 [00:05<03:37,  2.59s/it]Processing testset/demagog-statements-public/s_id21519/text.en.txt
+  3%|▎         | 3/86 [00:08<03:52,  2.80s/it]Processing testset/demagog-statements-public/s_id21793/text.en.txt
+  5%|▍         | 4/86 [00:11<04:03,  2.97s/it]Processing testset/demagog-statements-public/s_id22921/text.en.txt
+  6%|▌         | 5/86 [00:15<04:39,  3.45s/it]Processing testset/demagog-statements-public/s_id21477/text.en.txt
+  7%|▋         | 6/86 [00:18<04:27,  3.34s/it]Processing testset/demagog-statements-public/s_id21480/text.en.txt
+  8%|▊         | 7/86 [00:22<04:32,  3.45s/it]Processing testset/demagog-statements-public/s_id22492/text.en.txt
+Processing testset/demagog-statements-public/s_id22954/text.en.txt
+ 10%|█         | 9/86 [00:28<03:54,  3.04s/it]Processing testset/demagog-statements-public/s_id23626/text.en.txt
+ 12%|█▏        | 10/86 [00:35<05:20,  4.22s/it]You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+Processing testset/demagog-statements-public/s_id21804/text.en.txt
+ 13%|█▎        | 11/86 [00:37<04:28,  3.58s/it]Processing testset/demagog-statements-public/s_id21471/text.en.txt
+ 14%|█▍        | 12/86 [00:39<03:52,  3.14s/it]Processing testset/demagog-statements-public/s_id23177/text.en.txt
+ 15%|█▌        | 13/86 [00:44<04:24,  3.62s/it]Processing testset/demagog-statements-public/s_id21244/text.en.txt
+ 16%|█▋        | 14/86 [00:46<03:46,  3.14s/it]Processing testset/demagog-statements-public/s_id22635/text.en.txt
+ 17%|█▋        | 15/86 [00:47<03:12,  2.71s/it]Processing testset/demagog-statements-public/s_id22620/text.en.txt
+Processing testset/demagog-statements-public/s_id22878/text.en.txt
+ 20%|█▉        | 17/86 [00:55<03:24,  2.97s/it]Processing testset/demagog-statements-public/s_id21531/text.en.txt
+ 21%|██        | 18/86 [00:57<03:12,  2.83s/it]Processing testset/demagog-statements-public/s_id23655/text.en.txt
+ 22%|██▏       | 19/86 [01:04<04:24,  3.95s/it]Processing testset/demagog-statements-public/s_id22632/text.en.txt
+ 23%|██▎       | 20/86 [01:09<04:41,  4.27s/it]Processing testset/flat-earth-book/SECTION-9/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-9/text.txt is too long, truncating from 20384 to last 16384 characters.
+ 24%|██▍       | 21/86 [01:15<05:22,  4.97s/it]Processing testset/flat-earth-book/SECTION-12/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-12/text.txt is too long, truncating from 41599 to last 16384 characters.
+ 26%|██▌       | 22/86 [01:22<05:58,  5.61s/it]Processing testset/flat-earth-book/SECTION-11/text.txt
+ 27%|██▋       | 23/86 [01:28<06:00,  5.73s/it]Processing testset/flat-earth-book/SECTION-13/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-13/text.txt is too long, truncating from 25807 to last 16384 characters.
+ 28%|██▊       | 24/86 [01:36<06:33,  6.35s/it]Processing testset/flat-earth-book/SECTION-7/text.txt
+ 29%|██▉       | 25/86 [01:38<05:00,  4.93s/it]Processing testset/flat-earth-book/SECTION-4/text.txt
+ 30%|███       | 26/86 [01:39<03:43,  3.73s/it]Processing testset/flat-earth-book/SECTION-6/text.txt
+ 31%|███▏      | 27/86 [01:42<03:32,  3.59s/it]Processing testset/flat-earth-book/SECTION-8/text.txt
+ 33%|███▎      | 28/86 [01:43<02:46,  2.87s/it]Processing testset/flat-earth-book/SECTION-5/text.txt
+ 34%|███▎      | 29/86 [01:45<02:33,  2.69s/it]Processing testset/flat-earth-book/SECTION-3/text.txt
+ 35%|███▍      | 30/86 [01:47<02:12,  2.37s/it]Processing testset/flat-earth-book/SECTION-10/text.txt
+ 36%|███▌      | 31/86 [01:50<02:24,  2.62s/it]Processing testset/flat-earth-book/SECTION-2/text.txt
+ 37%|███▋      | 32/86 [01:54<02:37,  2.91s/it]Processing testset/flat-earth-book/SECTION-1/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-1/text.txt is too long, truncating from 73505 to last 16384 characters.
+ 38%|███▊      | 33/86 [02:01<03:38,  4.13s/it]Processing testset/nmt-book/chapter07-Alternate-Architectures/text.txt
+ 40%|███▉      | 34/86 [02:06<03:50,  4.43s/it]Processing testset/nmt-book/chapter06-Refinements/text.txt
+Warning: input text of testset/nmt-book/chapter06-Refinements/text.txt is too long, truncating from 55853 to last 16384 characters.
+ 41%|████      | 35/86 [02:12<04:08,  4.87s/it]Processing testset/nmt-book/chapter01-Introduction/text.txt
+ 42%|████▏     | 36/86 [02:14<03:24,  4.10s/it]Processing testset/nmt-book/chapter02-Neural-Networks/text.txt
+Warning: input text of testset/nmt-book/chapter02-Neural-Networks/text.txt is too long, truncating from 29704 to last 16384 characters.
+ 43%|████▎     | 37/86 [02:21<03:54,  4.79s/it]Processing testset/nmt-book/chapter03-Computation-Graphs/text.txt
+ 44%|████▍     | 38/86 [02:26<03:56,  4.92s/it]Processing testset/nmt-book/chapter05-Neural-Translation-Models/text.txt
+Warning: input text of testset/nmt-book/chapter05-Neural-Translation-Models/text.txt is too long, truncating from 20731 to last 16384 characters.
+ 45%|████▌     | 39/86 [02:32<04:11,  5.36s/it]Processing testset/nmt-book/chapter04-Neural-Language-Models/text.txt
+Warning: input text of testset/nmt-book/chapter04-Neural-Language-Models/text.txt is too long, truncating from 31699 to last 16384 characters.
+ 47%|████▋     | 40/86 [02:39<04:28,  5.83s/it]Processing testset/nmt-book/chapter08-Current-Challenges/text.txt
+Warning: input text of testset/nmt-book/chapter08-Current-Challenges/text.txt is too long, truncating from 20294 to last 16384 characters.
+ 48%|████▊     | 41/86 [02:46<04:39,  6.20s/it]Processing testset/nmt-class/lecture11-multimodal-mt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen10-slide11/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen11-slide12/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen12-slide13/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen13-slide14/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen14-slide15/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen15-slide16/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen16-slide17/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen17-slide18/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen23-slide24/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen24-slide25/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen25-slide26/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen26-slide27/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen27-slide28/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen28-slide29/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen29-slide31/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen30-slide32/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen31-slide33/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen32-slide35/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen33-slide36/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen34-slide37/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen35-slide38/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen36-slide39/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen37-slide40/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen38-slide41/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen39-slide42/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen40-slide43/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen41-slide44/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen42-slide46/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen43-slide47/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen44-slide48/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen45-slide49/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen47-slide49/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen48-slide50/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen49-slide51/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen50-slide52/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen51-slide53/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen52-slide54/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen53-slide55/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen54-slide56/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen55-slide57/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen56-slide58/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen57-slide59/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen58-slide60/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen59-slide61/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen60-slide62/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen61-slide63/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen62-slide64/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen63-slide65/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen64-slide66/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen65-slide67/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen66-slide69/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen67-slide70/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen68-slide71/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen69-slide72/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen70-slide73/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen71-slide74/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen72-slide75/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen73-slide76/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen74-slide77/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen75-slide76/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen76-slide77/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen77-slide78/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen78-slide79/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen79-slide80/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen80-slide81/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen81-slide80/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen82-slide81/text.txt
+ 49%|████▉     | 42/86 [03:53<17:55, 24.45s/it]Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen23-slide24/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen24-slide25/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen25-slide26/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen26-slide28/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen27-slide29/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen28-slide30/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen29-slide31/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen30-slide32/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen31-slide33/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen32-slide34/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen33-slide35/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen34-slide36/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen35-slide37/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen36-slide38/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen37-slide39/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen38-slide40/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen39-slide41/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen40-slide42/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen41-slide43/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen42-slide44/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen43-slide45/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen44-slide46/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen45-slide47/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen46-slide48/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen47-slide49/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen48-slide50/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen49-slide51/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen50-slide52/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen51-slide53/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen52-slide52/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen53-slide53/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen54-slide54/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen55-slide55/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen56-slide56/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen57-slide57/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen58-slide58/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen59-slide59/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen60-slide60/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen61-slide61/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen62-slide62/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen63-slide63/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen64-slide64/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen65-slide65/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen66-slide66/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen67-slide67/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen68-slide68/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen69-slide69/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen70-slide70/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen71-slide71/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen72-slide72/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen73-slide73/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen74-slide74/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen75-slide75/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen76-slide76/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen77-slide77/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen78-slide78/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen79-slide79/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen80-slide80/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen81-slide81/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen82-slide82/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen83-slide83/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen84-slide84/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen85-slide85/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen86-slide86/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen87-slide87/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen88-slide88/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen89-slide89/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen90-slide90/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen91-slide91/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen92-slide92/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen93-slide93/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen94-slide94/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen95-slide95/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen96-slide96/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen97-slide97/text.txt
+ 50%|█████     | 43/86 [05:10<28:52, 40.28s/it]Processing testset/nmt-class/lecture04-alignment/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen09-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen18-slide18/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen19-slide19/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen20-slide20/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen21-slide21/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen22-slide22/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen23-slide23/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen24-slide24/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen25-slide25/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen26-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen27-slide27/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen28-slide28/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen29-slide29/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen30-slide30/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen31-slide31/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen32-slide31/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen33-slide32/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen34-slide32/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen35-slide33/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen36-slide34/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen37-slide35/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen38-slide36/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen39-slide37/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen40-slide38/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen41-slide39/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen42-slide40/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen43-slide41/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen44-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen45-slide43/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen46-slide44/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen47-slide45/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen48-slide46/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen49-slide28/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen50-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen51-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen52-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen53-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen54-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen55-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen56-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen57-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen58-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen59-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen60-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen61-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen62-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen64-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen66-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen67-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen68-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen69-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen71-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen73-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen74-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen75-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen76-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen77-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen78-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen79-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen80-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen81-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen82-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen83-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen84-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen85-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen86-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen87-slide32/text.txt
+ 51%|█████     | 44/86 [06:21<34:28, 49.24s/it]Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen05-slide03/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen06-slide05/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen07-slide06/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen08-slide07/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen09-slide05/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen10-slide07/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen100-slide83/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen101-slide84/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen11-slide08/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen12-slide09/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen13-slide10/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen14-slide11/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen15-slide10/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen18-slide07/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen21-slide11/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen22-slide12/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen23-slide13/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen24-slide14/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen25-slide15/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen26-slide13/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen27-slide15/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen28-slide16/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen29-slide17/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen30-slide18/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen31-slide19/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen32-slide20/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen33-slide22/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen34-slide23/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen35-slide24/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen37-slide27/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen38-slide28/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen39-slide30/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen40-slide32/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen41-slide31/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen42-slide32/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen43-slide33/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen44-slide34/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen45-slide35/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen46-slide36/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen47-slide37/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen48-slide38/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen49-slide39/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen50-slide40/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen51-slide42/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen52-slide43/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen53-slide45/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen54-slide46/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen55-slide47/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen56-slide48/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen57-slide49/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen58-slide50/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen59-slide51/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen60-slide53/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen61-slide55/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen62-slide56/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen63-slide57/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen64-slide58/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen65-slide59/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen66-slide60/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen71-slide40/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen76-slide60/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen77-slide61/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen78-slide62/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen79-slide63/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen80-slide64/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen81-slide66/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen82-slide67/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen83-slide68/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen84-slide67/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen85-slide68/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen86-slide69/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen88-slide72/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen90-slide72/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen91-slide73/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen92-slide74/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen93-slide76/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen95-slide76/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen96-slide77/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen97-slide78/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen98-slide79/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen99-slide81/text.txt
+ 52%|█████▏    | 45/86 [07:29<37:35, 55.02s/it]Processing testset/nmt-class/lecture06-morphology/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen18-slide18/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen19-slide19/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen20-slide20/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen21-slide21/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen22-slide22/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen23-slide23/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen24-slide24/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen25-slide25/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen26-slide26/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen27-slide27/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen29-slide30/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen30-slide31/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen31-slide33/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen32-slide34/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen33-slide35/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen34-slide36/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen35-slide38/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen36-slide39/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen37-slide40/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen38-slide41/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen39-slide42/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen40-slide43/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen41-slide44/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen42-slide45/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen43-slide46/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen44-slide47/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen45-slide48/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen46-slide49/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen47-slide50/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen48-slide51/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen49-slide52/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen50-slide53/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen51-slide54/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen52-slide55/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen53-slide56/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen54-slide57/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen55-slide58/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen56-slide59/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen57-slide60/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen58-slide61/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen59-slide63/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen60-slide64/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen61-slide65/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen62-slide66/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen63-slide67/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen64-slide68/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen65-slide69/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen66-slide70/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen67-slide71/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen68-slide72/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen69-slide73/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen70-slide74/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen71-slide75/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen72-slide76/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen73-slide77/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen74-slide78/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen75-slide79/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen76-slide80/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen77-slide81/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen78-slide82/text.txt
+ 53%|█████▎    | 46/86 [08:35<38:53, 58.33s/it]Processing testset/nmt-class/lecture05-pbmt/screen01-slide02/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen02-slide03/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen03-slide04/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen04-slide05/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen05-slide06/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen06-slide07/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen07-slide08/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen08-slide09/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen09-slide10/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen10-slide09/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen11-slide10/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen12-slide11/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen13-slide12/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen14-slide13/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen15-slide14/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen16-slide15/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen17-slide16/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen18-slide17/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen19-slide18/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen20-slide19/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen21-slide18/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen22-slide19/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen23-slide20/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen24-slide21/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen25-slide22/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen26-slide23/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen27-slide24/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen28-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen29-slide26/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen30-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen31-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen32-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen33-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen34-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen35-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen36-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen37-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen38-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen39-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen40-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen41-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen42-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen43-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen44-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen45-slide25/text.txt
+ 55%|█████▍    | 47/86 [09:19<35:01, 53.87s/it]Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen03-slide13/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen16-slide14/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen17-slide15/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen18-slide16/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen19-slide17/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen20-slide18/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen21-slide17/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen22-slide18/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen23-slide19/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen24-slide20/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen25-slide21/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen26-slide22/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen27-slide23/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen28-slide24/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen29-slide25/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen30-slide26/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen31-slide27/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen32-slide28/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen33-slide29/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen34-slide31/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen35-slide30/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen36-slide31/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen37-slide30/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen38-slide31/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen39-slide32/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen40-slide33/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen41-slide34/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen42-slide35/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen43-slide36/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen44-slide37/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen45-slide38/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen46-slide39/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen47-slide40/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen48-slide41/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen49-slide42/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen50-slide43/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen51-slide44/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen52-slide45/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen53-slide46/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen54-slide45/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen55-slide46/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen56-slide47/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen57-slide48/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen58-slide49/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen59-slide50/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen60-slide51/text.txt
+ 56%|█████▌    | 48/86 [10:14<34:24, 54.34s/it]Processing testset/nmt-class/lecture07-syntax-in-smt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen09-slide10/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen10-slide11/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen11-slide12/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen12-slide13/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen13-slide14/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen14-slide15/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen15-slide16/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen16-slide17/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen17-slide18/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen23-slide24/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen24-slide25/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen25-slide26/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen26-slide27/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen27-slide28/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen28-slide29/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen29-slide30/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen30-slide31/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen31-slide32/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen32-slide33/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen33-slide34/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen34-slide35/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen35-slide36/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen36-slide37/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen37-slide38/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen38-slide39/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen39-slide40/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen40-slide41/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen41-slide42/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen42-slide43/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen43-slide44/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen44-slide45/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen46-slide47/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen47-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen48-slide49/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen49-slide50/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen50-slide51/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen51-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen52-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen53-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen54-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen55-slide56/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen56-slide57/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen57-slide58/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen58-slide59/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen59-slide60/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen60-slide61/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen61-slide62/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen62-slide63/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen63-slide64/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen64-slide65/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen65-slide66/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen66-slide67/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen67-slide68/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen68-slide69/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen69-slide70/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen70-slide71/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen71-slide72/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen72-slide73/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen73-slide74/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen74-slide75/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen75-slide76/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen76-slide77/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen77-slide78/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen78-slide79/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen79-slide80/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen80-slide81/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen81-slide82/text.txt
+ 57%|█████▋    | 49/86 [11:26<36:48, 59.70s/it]Processing testset/nmt-class/lecture10-multilingual-mt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen18-slide18/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen19-slide19/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen20-slide20/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen21-slide21/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen22-slide22/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen23-slide23/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen24-slide24/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen25-slide25/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen26-slide26/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen27-slide27/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen28-slide28/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen29-slide29/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen30-slide30/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen31-slide31/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen32-slide32/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen33-slide33/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen34-slide34/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen35-slide35/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen36-slide36/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen37-slide37/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen38-slide38/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen39-slide39/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen40-slide40/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen41-slide41/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen42-slide42/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen43-slide43/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen44-slide44/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen45-slide45/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen46-slide46/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen47-slide45/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen48-slide46/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen49-slide48/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen50-slide47/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen51-slide49/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen52-slide50/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen53-slide52/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen54-slide50/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen55-slide52/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen56-slide53/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen57-slide54/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen58-slide55/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen59-slide56/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen60-slide57/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen61-slide58/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen62-slide59/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen63-slide60/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen64-slide61/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen65-slide62/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen66-slide61/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen67-slide62/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen68-slide63/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen69-slide64/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen70-slide63/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen71-slide64/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen72-slide65/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen73-slide66/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen74-slide67/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen75-slide68/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen76-slide69/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen77-slide70/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen78-slide71/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen79-slide72/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen80-slide73/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen81-slide74/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen82-slide75/text.txt
+ 58%|█████▊    | 50/86 [12:38<37:55, 63.22s/it]Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen01-slide02/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen02-slide03/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen03-slide04/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen04-slide05/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen05-slide07/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen06-slide07/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen07-slide08/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen08-slide09/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen09-slide10/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen10-slide11/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen11-slide12/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen12-slide13/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen13-slide14/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen14-slide15/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen15-slide16/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen16-slide17/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen17-slide18/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen23-slide22/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen24-slide23/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen25-slide24/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen26-slide25/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen27-slide26/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen28-slide27/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen29-slide28/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen30-slide29/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen31-slide30/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen32-slide31/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen33-slide33/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen34-slide33/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen35-slide34/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen36-slide35/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen37-slide36/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen38-slide37/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen39-slide38/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen40-slide39/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen41-slide39/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen42-slide39/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen43-slide40/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen44-slide41/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen45-slide42/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen46-slide43/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen47-slide44/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen48-slide45/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen49-slide46/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen50-slide47/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen51-slide48/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen52-slide49/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen53-slide50/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen54-slide51/text.txt
+ 59%|█████▉    | 51/86 [13:27<34:31, 59.17s/it]Processing testset/popular/video-02/text.en.txt
+ 60%|██████    | 52/86 [13:29<23:49, 42.05s/it]Processing testset/popular/video-07/text.en.txt
+ 62%|██████▏   | 53/86 [13:32<16:36, 30.19s/it]Processing testset/popular/video-13/text.en.txt
+ 63%|██████▎   | 54/86 [13:33<11:28, 21.52s/it]Processing testset/popular/audio-10/text.en.txt
+ 64%|██████▍   | 55/86 [13:36<08:08, 15.76s/it]Processing testset/popular/video-14/text.en.txt
+ 65%|██████▌   | 56/86 [13:38<05:51, 11.72s/it]Processing testset/popular/audio-09/text.en.txt
+ 66%|██████▋   | 57/86 [13:40<04:17,  8.87s/it]Processing testset/popular/video-04/text.en.txt
+ 67%|██████▋   | 58/86 [13:44<03:28,  7.44s/it]Processing testset/popular/video-23/text.en.txt
+ 69%|██████▊   | 59/86 [13:46<02:35,  5.75s/it]Processing testset/popular/video-15/text.en.txt
+ 70%|██████▉   | 60/86 [13:48<02:00,  4.65s/it]Processing testset/popular/video-08/text.en.txt
+ 71%|███████   | 61/86 [13:50<01:35,  3.81s/it]Processing testset/popular/video-06/text.en.txt
+ 72%|███████▏  | 62/86 [13:53<01:22,  3.45s/it]Processing testset/popular/audio-24/text.en.txt
+ 73%|███████▎  | 63/86 [13:56<01:18,  3.42s/it]Processing testset/popular/audio-12/text.en.txt
+ 74%|███████▍  | 64/86 [13:59<01:11,  3.26s/it]Processing testset/popular/audio-19/text.en.txt
+ 76%|███████▌  | 65/86 [14:02<01:08,  3.28s/it]Processing testset/ukr-biology/book02/topic01-Обмін речовин та перетворення енергії в організмі людини/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic01-Обмін речовин та перетворення енергії в організмі людини/text.en.txt is too long, truncating from 17542 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic02-Травлення/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic02-Травлення/text.en.txt is too long, truncating from 22338 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic03-Дихання/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic03-Дихання/text.en.txt is too long, truncating from 26109 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic04-Транспорт речовин/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic04-Транспорт речовин/text.en.txt is too long, truncating from 64780 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic05-Опора та рух/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic05-Опора та рух/text.en.txt is too long, truncating from 27966 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic06-Зв’язок організму людини із зовнішнім середовищем. Нервова система/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic06-Зв’язок організму людини із зовнішнім середовищем. Нервова система/text.en.txt is too long, truncating from 30164 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic07-Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic07-Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи/text.en.txt is too long, truncating from 28814 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic08-Вища нервова діяльність/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic08-Вища нервова діяльність/text.en.txt is too long, truncating from 39911 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic09-Регуляція функцій організму/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic09-Регуляція функцій організму/text.en.txt is too long, truncating from 31150 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic10-Розмноження та розвиток людини/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic10-Розмноження та розвиток людини/text.en.txt is too long, truncating from 27694 to last 16384 characters.
+ 77%|███████▋  | 66/86 [15:04<07:00, 21.01s/it]Processing testset/ukr-biology/book05/topic01-Адаптації/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic01-Адаптації/text.en.txt is too long, truncating from 81839 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic02-Біологічні основи здорового способу життя/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic02-Біологічні основи здорового способу життя/text.en.txt is too long, truncating from 49755 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic03-Екологія/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic03-Екологія/text.en.txt is too long, truncating from 57773 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic04-Сталий розвиток та раціональне природокористування/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic04-Сталий розвиток та раціональне природокористування/text.en.txt is too long, truncating from 65182 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic05-Застосування результатів біологічних досліджень у медицині, селекції та біотехнології/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic05-Застосування результатів біологічних досліджень у медицині, селекції та біотехнології/text.en.txt is too long, truncating from 66014 to last 16384 characters.
+ 78%|███████▊  | 67/86 [15:34<07:25, 23.46s/it]Processing testset/ukr-biology/book03/topic01-Хімічний склад клітинита біологічні молекули/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic01-Хімічний склад клітинита біологічні молекули/text.en.txt is too long, truncating from 51717 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic02-Структура клітини/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic02-Структура клітини/text.en.txt is too long, truncating from 35228 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic03-Принципи функціонування клітини/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic03-Принципи функціонування клітини/text.en.txt is too long, truncating from 26461 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic04-Збереження та реалізаціяспадкової інформації/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic04-Збереження та реалізаціяспадкової інформації/text.en.txt is too long, truncating from 50511 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic05-Закономірності успадкування ознак/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic05-Закономірності успадкування ознак/text.en.txt is too long, truncating from 61487 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic06-Еволюція органічного світу/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic06-Еволюція органічного світу/text.en.txt is too long, truncating from 43743 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic07-Біорізноманіття/text.en.txt
+Processing testset/ukr-biology/book03/topic08-Надорганізмові біологічні системи/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic08-Надорганізмові біологічні системи/text.en.txt is too long, truncating from 30640 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic09-Біологія як основа біотехнологіїта медицини/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic09-Біологія як основа біотехнологіїта медицини/text.en.txt is too long, truncating from 27964 to last 16384 characters.
+ 79%|███████▉  | 68/86 [16:31<10:04, 33.61s/it]Processing testset/ukr-biology/book04/topic01-Біорізноманіття/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic01-Біорізноманіття/text.en.txt is too long, truncating from 69357 to last 16384 characters.
+Processing testset/ukr-biology/book04/topic02-Обмін речовин і перетворення енергії/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic02-Обмін речовин і перетворення енергії/text.en.txt is too long, truncating from 78321 to last 16384 characters.
+Processing testset/ukr-biology/book04/topic03-Спадковість і мінливість/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic03-Спадковість і мінливість/text.en.txt is too long, truncating from 98502 to last 16384 characters.
+Processing testset/ukr-biology/book04/topic04-Репродукція та розвиток організмів/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic04-Репродукція та розвиток організмів/text.en.txt is too long, truncating from 51603 to last 16384 characters.
+ 80%|████████  | 69/86 [16:56<08:47, 31.01s/it]Processing testset/world-history/chapter05-Asia-in-Ancient-Times/text.txt
+Warning: input text of testset/world-history/chapter05-Asia-in-Ancient-Times/text.txt is too long, truncating from 122475 to last 16384 characters.
+ 81%|████████▏ | 70/86 [17:02<06:16, 23.52s/it]Processing testset/world-history/chapter04-The-Near-East/text.txt
+Warning: input text of testset/world-history/chapter04-The-Near-East/text.txt is too long, truncating from 91296 to last 16384 characters.
+ 83%|████████▎ | 71/86 [17:07<04:31, 18.12s/it]Processing testset/world-history/chapter15-States-and-Societies-in-Sub-Saharan-Africa/text.txt
+Warning: input text of testset/world-history/chapter15-States-and-Societies-in-Sub-Saharan-Africa/text.txt is too long, truncating from 86832 to last 16384 characters.
+ 84%|████████▎ | 72/86 [17:15<03:30, 15.01s/it]Processing testset/world-history/chapter07-Experiencing-the-Roman-Empire/text.txt
+Warning: input text of testset/world-history/chapter07-Experiencing-the-Roman-Empire/text.txt is too long, truncating from 58436 to last 16384 characters.
+ 85%|████████▍ | 73/86 [17:21<02:40, 12.34s/it]Processing testset/world-history/chapter14-Pax-Mongolica-The-Steppe-Empire-of-the-Mongols/text.txt
+Warning: input text of testset/world-history/chapter14-Pax-Mongolica-The-Steppe-Empire-of-the-Mongols/text.txt is too long, truncating from 101472 to last 16384 characters.
+ 86%|████████▌ | 74/86 [17:28<02:09, 10.76s/it]Processing testset/world-history/chapter06-Mediterranean-Peoples/text.txt
+Warning: input text of testset/world-history/chapter06-Mediterranean-Peoples/text.txt is too long, truncating from 101292 to last 16384 characters.
+ 87%|████████▋ | 75/86 [17:35<01:43,  9.37s/it]Processing testset/world-history/chapter09-Africa-in-Ancient-Times/text.txt
+Warning: input text of testset/world-history/chapter09-Africa-in-Ancient-Times/text.txt is too long, truncating from 84059 to last 16384 characters.
+ 88%|████████▊ | 76/86 [17:41<01:24,  8.44s/it]Processing testset/world-history/chapter03-Early-Civilizations-and-Urban-Societies/text.txt
+Warning: input text of testset/world-history/chapter03-Early-Civilizations-and-Urban-Societies/text.txt is too long, truncating from 70671 to last 16384 characters.
+ 90%|████████▉ | 77/86 [17:47<01:08,  7.64s/it]Processing testset/world-history/chapter08-The-Americas-in-Ancient-Times/text.txt
+Warning: input text of testset/world-history/chapter08-The-Americas-in-Ancient-Times/text.txt is too long, truncating from 91756 to last 16384 characters.
+ 91%|█████████ | 78/86 [17:52<00:56,  7.06s/it]Processing testset/world-history/chapter12-India,-the-Indian-Ocean-Basin,-and-East-Asia/text.txt
+Warning: input text of testset/world-history/chapter12-India,-the-Indian-Ocean-Basin,-and-East-Asia/text.txt is too long, truncating from 88332 to last 16384 characters.
+Processing testset/world-history/chapter10-Empires-of-Faith/text.txt
+Warning: input text of testset/world-history/chapter10-Empires-of-Faith/text.txt is too long, truncating from 67483 to last 16384 characters.
+ 93%|█████████▎| 80/86 [18:05<00:40,  6.82s/it]Processing testset/world-history/chapter02-Early-Humans/text.txt
+Warning: input text of testset/world-history/chapter02-Early-Humans/text.txt is too long, truncating from 65360 to last 16384 characters.
+ 94%|█████████▍| 81/86 [18:11<00:32,  6.49s/it]Processing testset/world-history/chapter01-Understanding-the-Past/text.txt
+Warning: input text of testset/world-history/chapter01-Understanding-the-Past/text.txt is too long, truncating from 44398 to last 16384 characters.
+ 95%|█████████▌| 82/86 [18:18<00:25,  6.47s/it]Processing testset/world-history/chapter17-The-Ottomans,-the-Mamluks,-and-the-Ming/text.txt
+Warning: input text of testset/world-history/chapter17-The-Ottomans,-the-Mamluks,-and-the-Ming/text.txt is too long, truncating from 58477 to last 16384 characters.
+ 97%|█████████▋| 83/86 [18:24<00:19,  6.46s/it]Processing testset/world-history/chapter11-The-Rise-of-Islam-and-the-Caliphates/text.txt
+Warning: input text of testset/world-history/chapter11-The-Rise-of-Islam-and-the-Caliphates/text.txt is too long, truncating from 67412 to last 16384 characters.
+ 98%|█████████▊| 84/86 [18:30<00:12,  6.31s/it]Processing testset/world-history/chapter16-Climate-Change-and-Plague-in-the-Fourteenth-Century/text.txt
+Warning: input text of testset/world-history/chapter16-Climate-Change-and-Plague-in-the-Fourteenth-Century/text.txt is too long, truncating from 67937 to last 16384 characters.
+ 99%|█████████▉| 85/86 [18:37<00:06,  6.43s/it]Processing testset/world-history/chapter13-The-Post-Roman-West-and-the-Crusading-Movement/text.txt
+Warning: input text of testset/world-history/chapter13-The-Post-Roman-West-and-the-Crusading-Movement/text.txt is too long, truncating from 95502 to last 16384 characters.
+100%|██████████| 86/86 [18:42<00:00, 13.06s/it]
+Device set to use cuda:0
+  0%|          | 0/86 [00:00<?, ?it/s]Using model: meta-llama/Llama-3.2-1B
+Processing testset/demagog-statements-public/s_id21794/text.en.txt
+  1%|          | 1/86 [00:00<00:39,  2.13it/s]Processing testset/demagog-statements-public/s_id21452/text.en.txt
+Processing testset/demagog-statements-public/s_id21519/text.en.txt
+  3%|▎         | 3/86 [00:01<00:46,  1.80it/s]Processing testset/demagog-statements-public/s_id21793/text.en.txt
+  5%|▍         | 4/86 [00:02<00:47,  1.74it/s]Processing testset/demagog-statements-public/s_id22921/text.en.txt
+Processing testset/demagog-statements-public/s_id21477/text.en.txt
+  7%|▋         | 6/86 [00:03<00:50,  1.59it/s]Processing testset/demagog-statements-public/s_id21480/text.en.txt
+  8%|▊         | 7/86 [00:04<00:55,  1.42it/s]Processing testset/demagog-statements-public/s_id22492/text.en.txt
+  9%|▉         | 8/86 [00:05<00:58,  1.33it/s]Processing testset/demagog-statements-public/s_id22954/text.en.txt
+ 10%|█         | 9/86 [00:05<00:49,  1.55it/s]Processing testset/demagog-statements-public/s_id23626/text.en.txt
+ 12%|█▏        | 10/86 [00:07<01:11,  1.06it/s]Processing testset/demagog-statements-public/s_id21804/text.en.txt
+ 13%|█▎        | 11/86 [00:09<01:42,  1.37s/it]Processing testset/demagog-statements-public/s_id21471/text.en.txt
+ 14%|█▍        | 12/86 [00:10<01:17,  1.04s/it]Processing testset/demagog-statements-public/s_id23177/text.en.txt
+ 15%|█▌        | 13/86 [00:11<01:16,  1.05s/it]Processing testset/demagog-statements-public/s_id21244/text.en.txt
+Processing testset/demagog-statements-public/s_id22635/text.en.txt
+ 17%|█▋        | 15/86 [00:11<00:46,  1.53it/s]Processing testset/demagog-statements-public/s_id22620/text.en.txt
+ 19%|█▊        | 16/86 [00:13<01:01,  1.13it/s]Processing testset/demagog-statements-public/s_id22878/text.en.txt
+Processing testset/demagog-statements-public/s_id21531/text.en.txt
+ 21%|██        | 18/86 [00:13<00:43,  1.57it/s]Processing testset/demagog-statements-public/s_id23655/text.en.txt
+Processing testset/demagog-statements-public/s_id22632/text.en.txt
+ 23%|██▎       | 20/86 [00:16<01:04,  1.02it/s]Processing testset/flat-earth-book/SECTION-9/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-9/text.txt is too long, truncating from 20384 to last 16384 characters.
+Processing testset/flat-earth-book/SECTION-12/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-12/text.txt is too long, truncating from 41599 to last 16384 characters.
+ 26%|██▌       | 22/86 [00:19<01:22,  1.30s/it]Processing testset/flat-earth-book/SECTION-11/text.txt
+ 27%|██▋       | 23/86 [00:21<01:24,  1.35s/it]Processing testset/flat-earth-book/SECTION-13/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-13/text.txt is too long, truncating from 25807 to last 16384 characters.
+Processing testset/flat-earth-book/SECTION-7/text.txt
+ 29%|██▉       | 25/86 [00:23<01:06,  1.08s/it]Processing testset/flat-earth-book/SECTION-4/text.txt
+Processing testset/flat-earth-book/SECTION-6/text.txt
+ 31%|███▏      | 27/86 [00:23<00:44,  1.32it/s]Processing testset/flat-earth-book/SECTION-8/text.txt
+Processing testset/flat-earth-book/SECTION-5/text.txt
+ 34%|███▎      | 29/86 [00:24<00:30,  1.85it/s]Processing testset/flat-earth-book/SECTION-3/text.txt
+Processing testset/flat-earth-book/SECTION-10/text.txt
+ 36%|███▌      | 31/86 [00:25<00:27,  2.01it/s]Processing testset/flat-earth-book/SECTION-2/text.txt
+Processing testset/flat-earth-book/SECTION-1/text.txt
+Warning: input text of testset/flat-earth-book/SECTION-1/text.txt is too long, truncating from 73505 to last 16384 characters.
+ 38%|███▊      | 33/86 [00:27<00:47,  1.11it/s]Processing testset/nmt-book/chapter07-Alternate-Architectures/text.txt
+ 40%|███▉      | 34/86 [00:29<00:54,  1.06s/it]Processing testset/nmt-book/chapter06-Refinements/text.txt
+Warning: input text of testset/nmt-book/chapter06-Refinements/text.txt is too long, truncating from 55853 to last 16384 characters.
+ 41%|████      | 35/86 [00:34<01:56,  2.29s/it]Processing testset/nmt-book/chapter01-Introduction/text.txt
+ 42%|████▏     | 36/86 [00:34<01:26,  1.72s/it]Processing testset/nmt-book/chapter02-Neural-Networks/text.txt
+Warning: input text of testset/nmt-book/chapter02-Neural-Networks/text.txt is too long, truncating from 29704 to last 16384 characters.
+ 43%|████▎     | 37/86 [00:36<01:20,  1.65s/it]Processing testset/nmt-book/chapter03-Computation-Graphs/text.txt
+Processing testset/nmt-book/chapter05-Neural-Translation-Models/text.txt
+Warning: input text of testset/nmt-book/chapter05-Neural-Translation-Models/text.txt is too long, truncating from 20731 to last 16384 characters.
+ 45%|████▌     | 39/86 [00:38<01:10,  1.50s/it]Processing testset/nmt-book/chapter04-Neural-Language-Models/text.txt
+Warning: input text of testset/nmt-book/chapter04-Neural-Language-Models/text.txt is too long, truncating from 31699 to last 16384 characters.
+ 47%|████▋     | 40/86 [00:40<01:07,  1.48s/it]Processing testset/nmt-book/chapter08-Current-Challenges/text.txt
+Warning: input text of testset/nmt-book/chapter08-Current-Challenges/text.txt is too long, truncating from 20294 to last 16384 characters.
+ 48%|████▊     | 41/86 [00:42<01:10,  1.56s/it]Processing testset/nmt-class/lecture11-multimodal-mt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen10-slide11/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen11-slide12/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen12-slide13/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen13-slide14/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen14-slide15/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen15-slide16/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen16-slide17/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen17-slide18/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen23-slide24/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen24-slide25/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen25-slide26/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen26-slide27/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen27-slide28/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen28-slide29/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen29-slide31/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen30-slide32/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen31-slide33/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen32-slide35/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen33-slide36/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen34-slide37/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen35-slide38/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen36-slide39/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen37-slide40/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen38-slide41/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen39-slide42/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen40-slide43/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen41-slide44/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen42-slide46/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen43-slide47/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen44-slide48/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen45-slide49/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen47-slide49/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen48-slide50/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen49-slide51/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen50-slide52/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen51-slide53/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen52-slide54/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen53-slide55/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen54-slide56/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen55-slide57/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen56-slide58/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen57-slide59/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen58-slide60/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen59-slide61/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen60-slide62/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen61-slide63/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen62-slide64/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen63-slide65/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen64-slide66/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen65-slide67/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen66-slide69/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen67-slide70/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen68-slide71/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen69-slide72/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen70-slide73/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen71-slide74/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen72-slide75/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen73-slide76/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen74-slide77/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen75-slide76/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen76-slide77/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen77-slide78/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen78-slide79/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen79-slide80/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen80-slide81/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen81-slide80/text.txt
+Processing testset/nmt-class/lecture11-multimodal-mt/screen82-slide81/text.txt
+ 49%|████▉     | 42/86 [01:14<07:51, 10.72s/it]Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen23-slide24/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen24-slide25/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen25-slide26/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen26-slide28/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen27-slide29/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen28-slide30/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen29-slide31/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen30-slide32/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen31-slide33/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen32-slide34/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen33-slide35/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen34-slide36/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen35-slide37/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen36-slide38/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen37-slide39/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen38-slide40/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen39-slide41/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen40-slide42/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen41-slide43/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen42-slide44/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen43-slide45/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen44-slide46/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen45-slide47/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen46-slide48/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen47-slide49/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen48-slide50/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen49-slide51/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen50-slide52/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen51-slide53/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen52-slide52/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen53-slide53/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen54-slide54/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen55-slide55/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen56-slide56/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen57-slide57/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen58-slide58/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen59-slide59/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen60-slide60/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen61-slide61/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen62-slide62/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen63-slide63/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen64-slide64/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen65-slide65/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen66-slide66/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen67-slide67/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen68-slide68/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen69-slide69/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen70-slide70/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen71-slide71/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen72-slide72/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen73-slide73/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen74-slide74/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen75-slide75/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen76-slide76/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen77-slide77/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen78-slide78/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen79-slide79/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen80-slide80/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen81-slide81/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen82-slide82/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen83-slide83/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen84-slide84/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen85-slide85/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen86-slide86/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen87-slide87/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen88-slide88/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen89-slide89/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen90-slide90/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen91-slide91/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen92-slide92/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen93-slide93/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen94-slide94/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen95-slide95/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen96-slide96/text.txt
+Processing testset/nmt-class/lecture09-word-and-sent-reprs/screen97-slide97/text.txt
+ 50%|█████     | 43/86 [01:50<13:14, 18.47s/it]Processing testset/nmt-class/lecture04-alignment/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen09-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen18-slide18/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen19-slide19/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen20-slide20/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen21-slide21/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen22-slide22/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen23-slide23/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen24-slide24/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen25-slide25/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen26-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen27-slide27/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen28-slide28/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen29-slide29/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen30-slide30/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen31-slide31/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen32-slide31/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen33-slide32/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen34-slide32/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen35-slide33/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen36-slide34/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen37-slide35/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen38-slide36/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen39-slide37/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen40-slide38/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen41-slide39/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen42-slide40/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen43-slide41/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen44-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen45-slide43/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen46-slide44/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen47-slide45/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen48-slide46/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen49-slide28/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen50-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen51-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen52-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen53-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen54-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen55-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen56-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen57-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen58-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen59-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen60-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen61-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen62-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen64-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen66-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen67-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen68-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen69-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen71-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen73-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen74-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen75-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen76-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen77-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen78-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen79-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen80-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen81-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen82-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen83-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen84-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen85-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen86-slide26/text.txt
+Processing testset/nmt-class/lecture04-alignment/screen87-slide32/text.txt
+ 51%|█████     | 44/86 [02:21<15:27, 22.07s/it]Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen05-slide03/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen06-slide05/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen07-slide06/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen08-slide07/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen09-slide05/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen10-slide07/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen100-slide83/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen101-slide84/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen11-slide08/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen12-slide09/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen13-slide10/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen14-slide11/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen15-slide10/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen18-slide07/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen21-slide11/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen22-slide12/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen23-slide13/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen24-slide14/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen25-slide15/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen26-slide13/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen27-slide15/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen28-slide16/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen29-slide17/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen30-slide18/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen31-slide19/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen32-slide20/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen33-slide22/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen34-slide23/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen35-slide24/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen37-slide27/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen38-slide28/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen39-slide30/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen40-slide32/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen41-slide31/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen42-slide32/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen43-slide33/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen44-slide34/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen45-slide35/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen46-slide36/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen47-slide37/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen48-slide38/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen49-slide39/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen50-slide40/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen51-slide42/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen52-slide43/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen53-slide45/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen54-slide46/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen55-slide47/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen56-slide48/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen57-slide49/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen58-slide50/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen59-slide51/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen60-slide53/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen61-slide55/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen62-slide56/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen63-slide57/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen64-slide58/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen65-slide59/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen66-slide60/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen71-slide40/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen76-slide60/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen77-slide61/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen78-slide62/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen79-slide63/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen80-slide64/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen81-slide66/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen82-slide67/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen83-slide68/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen84-slide67/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen85-slide68/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen86-slide69/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen88-slide72/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen90-slide72/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen91-slide73/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen92-slide74/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen93-slide76/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen95-slide76/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen96-slide77/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen97-slide78/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen98-slide79/text.txt
+Processing testset/nmt-class/lecture03-nmt-seq2seq-attn/screen99-slide81/text.txt
+ 52%|█████▏    | 45/86 [03:05<19:33, 28.61s/it]Processing testset/nmt-class/lecture06-morphology/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen18-slide18/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen19-slide19/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen20-slide20/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen21-slide21/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen22-slide22/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen23-slide23/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen24-slide24/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen25-slide25/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen26-slide26/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen27-slide27/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen29-slide30/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen30-slide31/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen31-slide33/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen32-slide34/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen33-slide35/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen34-slide36/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen35-slide38/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen36-slide39/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen37-slide40/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen38-slide41/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen39-slide42/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen40-slide43/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen41-slide44/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen42-slide45/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen43-slide46/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen44-slide47/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen45-slide48/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen46-slide49/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen47-slide50/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen48-slide51/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen49-slide52/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen50-slide53/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen51-slide54/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen52-slide55/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen53-slide56/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen54-slide57/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen55-slide58/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen56-slide59/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen57-slide60/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen58-slide61/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen59-slide63/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen60-slide64/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen61-slide65/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen62-slide66/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen63-slide67/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen64-slide68/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen65-slide69/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen66-slide70/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen67-slide71/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen68-slide72/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen69-slide73/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen70-slide74/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen71-slide75/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen72-slide76/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen73-slide77/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen74-slide78/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen75-slide79/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen76-slide80/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen77-slide81/text.txt
+Processing testset/nmt-class/lecture06-morphology/screen78-slide82/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen01-slide02/text.txt
+ 53%|█████▎    | 46/86 [03:37<19:46, 29.67s/it]Processing testset/nmt-class/lecture05-pbmt/screen02-slide03/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen03-slide04/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen04-slide05/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen05-slide06/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen06-slide07/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen07-slide08/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen08-slide09/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen09-slide10/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen10-slide09/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen11-slide10/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen12-slide11/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen13-slide12/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen14-slide13/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen15-slide14/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen16-slide15/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen17-slide16/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen18-slide17/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen19-slide18/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen20-slide19/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen21-slide18/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen22-slide19/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen23-slide20/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen24-slide21/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen25-slide22/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen26-slide23/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen27-slide24/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen28-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen29-slide26/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen30-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen31-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen32-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen33-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen34-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen35-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen36-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen37-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen38-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen39-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen40-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen41-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen42-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen43-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen44-slide25/text.txt
+Processing testset/nmt-class/lecture05-pbmt/screen45-slide25/text.txt
+ 55%|█████▍    | 47/86 [03:58<17:40, 27.18s/it]Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen03-slide13/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen16-slide14/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen17-slide15/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen18-slide16/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen19-slide17/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen20-slide18/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen21-slide17/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen22-slide18/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen23-slide19/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen24-slide20/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen25-slide21/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen26-slide22/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen27-slide23/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen28-slide24/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen29-slide25/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen30-slide26/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen31-slide27/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen32-slide28/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen33-slide29/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen34-slide31/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen35-slide30/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen36-slide31/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen37-slide30/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen38-slide31/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen39-slide32/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen40-slide33/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen41-slide34/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen42-slide35/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen43-slide36/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen44-slide37/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen45-slide38/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen46-slide39/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen47-slide40/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen48-slide41/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen49-slide42/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen50-slide43/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen51-slide44/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen52-slide45/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen53-slide46/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen54-slide45/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen55-slide46/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen56-slide47/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen57-slide48/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen58-slide49/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen59-slide50/text.txt
+Processing testset/nmt-class/lecture02-smt-pbmt-nmt/screen60-slide51/text.txt
+ 56%|█████▌    | 48/86 [04:22<16:35, 26.19s/it]Processing testset/nmt-class/lecture07-syntax-in-smt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen09-slide10/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen10-slide11/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen11-slide12/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen12-slide13/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen13-slide14/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen14-slide15/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen15-slide16/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen16-slide17/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen17-slide18/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen23-slide24/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen24-slide25/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen25-slide26/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen26-slide27/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen27-slide28/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen28-slide29/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen29-slide30/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen30-slide31/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen31-slide32/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen32-slide33/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen33-slide34/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen34-slide35/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen35-slide36/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen36-slide37/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen37-slide38/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen38-slide39/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen39-slide40/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen40-slide41/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen41-slide42/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen42-slide43/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen43-slide44/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen44-slide45/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen46-slide47/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen47-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen48-slide49/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen49-slide50/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen50-slide51/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen51-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen52-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen53-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen54-slide52/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen55-slide56/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen56-slide57/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen57-slide58/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen58-slide59/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen59-slide60/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen60-slide61/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen61-slide62/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen62-slide63/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen63-slide64/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen64-slide65/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen65-slide66/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen66-slide67/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen67-slide68/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen68-slide69/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen69-slide70/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen70-slide71/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen71-slide72/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen72-slide73/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen73-slide74/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen74-slide75/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen75-slide76/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen76-slide77/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen77-slide78/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen78-slide79/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen79-slide80/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen80-slide81/text.txt
+Processing testset/nmt-class/lecture07-syntax-in-smt/screen81-slide82/text.txt
+ 57%|█████▋    | 49/86 [04:56<17:33, 28.47s/it]Processing testset/nmt-class/lecture10-multilingual-mt/screen01-slide01/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen02-slide02/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen03-slide03/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen04-slide04/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen05-slide05/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen06-slide06/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen07-slide07/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen08-slide08/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen09-slide09/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen10-slide10/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen11-slide11/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen12-slide12/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen13-slide13/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen14-slide14/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen15-slide15/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen16-slide16/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen17-slide17/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen18-slide18/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen19-slide19/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen20-slide20/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen21-slide21/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen22-slide22/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen23-slide23/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen24-slide24/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen25-slide25/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen26-slide26/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen27-slide27/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen28-slide28/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen29-slide29/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen30-slide30/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen31-slide31/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen32-slide32/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen33-slide33/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen34-slide34/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen35-slide35/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen36-slide36/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen37-slide37/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen38-slide38/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen39-slide39/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen40-slide40/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen41-slide41/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen42-slide42/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen43-slide43/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen44-slide44/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen45-slide45/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen46-slide46/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen47-slide45/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen48-slide46/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen49-slide48/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen50-slide47/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen51-slide49/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen52-slide50/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen53-slide52/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen54-slide50/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen55-slide52/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen56-slide53/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen57-slide54/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen58-slide55/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen59-slide56/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen60-slide57/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen61-slide58/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen62-slide59/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen63-slide60/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen64-slide61/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen65-slide62/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen66-slide61/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen67-slide62/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen68-slide63/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen69-slide64/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen70-slide63/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen71-slide64/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen72-slide65/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen73-slide66/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen74-slide67/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen75-slide68/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen76-slide69/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen77-slide70/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen78-slide71/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen79-slide72/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen80-slide73/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen81-slide74/text.txt
+Processing testset/nmt-class/lecture10-multilingual-mt/screen82-slide75/text.txt
+ 58%|█████▊    | 50/86 [05:35<18:56, 31.56s/it]Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen01-slide02/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen02-slide03/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen03-slide04/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen04-slide05/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen05-slide07/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen06-slide07/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen07-slide08/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen08-slide09/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen09-slide10/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen10-slide11/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen11-slide12/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen12-slide13/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen13-slide14/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen14-slide15/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen15-slide16/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen16-slide17/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen17-slide18/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen18-slide19/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen19-slide20/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen20-slide21/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen21-slide22/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen22-slide23/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen23-slide22/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen24-slide23/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen25-slide24/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen26-slide25/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen27-slide26/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen28-slide27/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen29-slide28/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen30-slide29/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen31-slide30/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen32-slide31/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen33-slide33/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen34-slide33/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen35-slide34/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen36-slide35/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen37-slide36/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen38-slide37/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen39-slide38/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen40-slide39/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen41-slide39/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen42-slide39/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen43-slide40/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen44-slide41/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen45-slide42/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen46-slide43/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen47-slide44/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen48-slide45/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen49-slide46/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen50-slide47/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen51-slide48/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen52-slide49/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen53-slide50/text.txt
+Processing testset/nmt-class/lecture08-transformer-and-syntax-in-nmt/screen54-slide51/text.txt
+ 59%|█████▉    | 51/86 [05:54<16:17, 27.92s/it]Processing testset/popular/video-02/text.en.txt
+ 60%|██████    | 52/86 [05:54<11:08, 19.67s/it]Processing testset/popular/video-07/text.en.txt
+ 62%|██████▏   | 53/86 [05:55<07:39, 13.91s/it]Processing testset/popular/video-13/text.en.txt
+ 63%|██████▎   | 54/86 [05:55<05:13,  9.81s/it]Processing testset/popular/audio-10/text.en.txt
+ 64%|██████▍   | 55/86 [05:56<03:36,  7.00s/it]Processing testset/popular/video-14/text.en.txt
+ 65%|██████▌   | 56/86 [05:56<02:31,  5.06s/it]Processing testset/popular/audio-09/text.en.txt
+ 66%|██████▋   | 57/86 [05:57<01:46,  3.68s/it]Processing testset/popular/video-04/text.en.txt
+ 67%|██████▋   | 58/86 [05:57<01:18,  2.81s/it]Processing testset/popular/video-23/text.en.txt
+Processing testset/popular/video-15/text.en.txt
+ 70%|██████▉   | 60/86 [05:58<00:41,  1.58s/it]Processing testset/popular/video-08/text.en.txt
+ 71%|███████   | 61/86 [05:59<00:30,  1.21s/it]Processing testset/popular/video-06/text.en.txt
+Processing testset/popular/audio-24/text.en.txt
+ 73%|███████▎  | 63/86 [06:00<00:19,  1.17it/s]Processing testset/popular/audio-12/text.en.txt
+ 74%|███████▍  | 64/86 [06:00<00:16,  1.34it/s]Processing testset/popular/audio-19/text.en.txt
+ 76%|███████▌  | 65/86 [06:01<00:14,  1.43it/s]Processing testset/ukr-biology/book02/topic01-Обмін речовин та перетворення енергії в організмі людини/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic01-Обмін речовин та перетворення енергії в організмі людини/text.en.txt is too long, truncating from 17542 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic02-Травлення/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic02-Травлення/text.en.txt is too long, truncating from 22338 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic03-Дихання/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic03-Дихання/text.en.txt is too long, truncating from 26109 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic04-Транспорт речовин/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic04-Транспорт речовин/text.en.txt is too long, truncating from 64780 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic05-Опора та рух/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic05-Опора та рух/text.en.txt is too long, truncating from 27966 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic06-Зв’язок організму людини із зовнішнім середовищем. Нервова система/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic06-Зв’язок організму людини із зовнішнім середовищем. Нервова система/text.en.txt is too long, truncating from 30164 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic07-Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic07-Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи/text.en.txt is too long, truncating from 28814 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic08-Вища нервова діяльність/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic08-Вища нервова діяльність/text.en.txt is too long, truncating from 39911 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic09-Регуляція функцій організму/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic09-Регуляція функцій організму/text.en.txt is too long, truncating from 31150 to last 16384 characters.
+Processing testset/ukr-biology/book02/topic10-Розмноження та розвиток людини/text.en.txt
+Warning: input text of testset/ukr-biology/book02/topic10-Розмноження та розвиток людини/text.en.txt is too long, truncating from 27694 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic01-Адаптації/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic01-Адаптації/text.en.txt is too long, truncating from 81839 to last 16384 characters.
+ 77%|███████▋  | 66/86 [06:21<02:12,  6.61s/it]Processing testset/ukr-biology/book05/topic02-Біологічні основи здорового способу життя/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic02-Біологічні основи здорового способу життя/text.en.txt is too long, truncating from 49755 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic03-Екологія/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic03-Екологія/text.en.txt is too long, truncating from 57773 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic04-Сталий розвиток та раціональне природокористування/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic04-Сталий розвиток та раціональне природокористування/text.en.txt is too long, truncating from 65182 to last 16384 characters.
+Processing testset/ukr-biology/book05/topic05-Застосування результатів біологічних досліджень у медицині, селекції та біотехнології/text.en.txt
+Warning: input text of testset/ukr-biology/book05/topic05-Застосування результатів біологічних досліджень у медицині, селекції та біотехнології/text.en.txt is too long, truncating from 66014 to last 16384 characters.
+ 78%|███████▊  | 67/86 [06:42<03:30, 11.08s/it]Processing testset/ukr-biology/book03/topic01-Хімічний склад клітинита біологічні молекули/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic01-Хімічний склад клітинита біологічні молекули/text.en.txt is too long, truncating from 51717 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic02-Структура клітини/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic02-Структура клітини/text.en.txt is too long, truncating from 35228 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic03-Принципи функціонування клітини/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic03-Принципи функціонування клітини/text.en.txt is too long, truncating from 26461 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic04-Збереження та реалізаціяспадкової інформації/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic04-Збереження та реалізаціяспадкової інформації/text.en.txt is too long, truncating from 50511 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic05-Закономірності успадкування ознак/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic05-Закономірності успадкування ознак/text.en.txt is too long, truncating from 61487 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic06-Еволюція органічного світу/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic06-Еволюція органічного світу/text.en.txt is too long, truncating from 43743 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic07-Біорізноманіття/text.en.txt
+Processing testset/ukr-biology/book03/topic08-Надорганізмові біологічні системи/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic08-Надорганізмові біологічні системи/text.en.txt is too long, truncating from 30640 to last 16384 characters.
+Processing testset/ukr-biology/book03/topic09-Біологія як основа біотехнологіїта медицини/text.en.txt
+Warning: input text of testset/ukr-biology/book03/topic09-Біологія як основа біотехнологіїта медицини/text.en.txt is too long, truncating from 27964 to last 16384 characters.
+ 79%|███████▉  | 68/86 [07:04<04:18, 14.35s/it]Processing testset/ukr-biology/book04/topic01-Біорізноманіття/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic01-Біорізноманіття/text.en.txt is too long, truncating from 69357 to last 16384 characters.
+Processing testset/ukr-biology/book04/topic02-Обмін речовин і перетворення енергії/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic02-Обмін речовин і перетворення енергії/text.en.txt is too long, truncating from 78321 to last 16384 characters.
+Processing testset/ukr-biology/book04/topic03-Спадковість і мінливість/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic03-Спадковість і мінливість/text.en.txt is too long, truncating from 98502 to last 16384 characters.
+Processing testset/ukr-biology/book04/topic04-Репродукція та розвиток організмів/text.en.txt
+Warning: input text of testset/ukr-biology/book04/topic04-Репродукція та розвиток організмів/text.en.txt is too long, truncating from 51603 to last 16384 characters.
+Processing testset/world-history/chapter05-Asia-in-Ancient-Times/text.txt
+Warning: input text of testset/world-history/chapter05-Asia-in-Ancient-Times/text.txt is too long, truncating from 122475 to last 16384 characters.
+ 81%|████████▏ | 70/86 [07:12<02:20,  8.80s/it]Processing testset/world-history/chapter04-The-Near-East/text.txt
+Warning: input text of testset/world-history/chapter04-The-Near-East/text.txt is too long, truncating from 91296 to last 16384 characters.
+ 83%|████████▎ | 71/86 [07:18<01:56,  7.78s/it]Processing testset/world-history/chapter15-States-and-Societies-in-Sub-Saharan-Africa/text.txt
+Warning: input text of testset/world-history/chapter15-States-and-Societies-in-Sub-Saharan-Africa/text.txt is too long, truncating from 86832 to last 16384 characters.
+ 84%|████████▎ | 72/86 [07:19<01:22,  5.93s/it]Processing testset/world-history/chapter07-Experiencing-the-Roman-Empire/text.txt
+Warning: input text of testset/world-history/chapter07-Experiencing-the-Roman-Empire/text.txt is too long, truncating from 58436 to last 16384 characters.
+Processing testset/world-history/chapter14-Pax-Mongolica-The-Steppe-Empire-of-the-Mongols/text.txt
+Warning: input text of testset/world-history/chapter14-Pax-Mongolica-The-Steppe-Empire-of-the-Mongols/text.txt is too long, truncating from 101472 to last 16384 characters.
+ 86%|████████▌ | 74/86 [07:30<01:08,  5.74s/it]Processing testset/world-history/chapter06-Mediterranean-Peoples/text.txt
+Warning: input text of testset/world-history/chapter06-Mediterranean-Peoples/text.txt is too long, truncating from 101292 to last 16384 characters.
+ 87%|████████▋ | 75/86 [07:32<00:49,  4.47s/it]Processing testset/world-history/chapter09-Africa-in-Ancient-Times/text.txt
+Warning: input text of testset/world-history/chapter09-Africa-in-Ancient-Times/text.txt is too long, truncating from 84059 to last 16384 characters.
+Processing testset/world-history/chapter03-Early-Civilizations-and-Urban-Societies/text.txt
+Warning: input text of testset/world-history/chapter03-Early-Civilizations-and-Urban-Societies/text.txt is too long, truncating from 70671 to last 16384 characters.
+ 90%|████████▉ | 77/86 [07:39<00:37,  4.18s/it]Processing testset/world-history/chapter08-The-Americas-in-Ancient-Times/text.txt
+Warning: input text of testset/world-history/chapter08-The-Americas-in-Ancient-Times/text.txt is too long, truncating from 91756 to last 16384 characters.
+ 91%|█████████ | 78/86 [07:40<00:26,  3.36s/it]Processing testset/world-history/chapter12-India,-the-Indian-Ocean-Basin,-and-East-Asia/text.txt
+Warning: input text of testset/world-history/chapter12-India,-the-Indian-Ocean-Basin,-and-East-Asia/text.txt is too long, truncating from 88332 to last 16384 characters.
+Processing testset/world-history/chapter10-Empires-of-Faith/text.txt
+Warning: input text of testset/world-history/chapter10-Empires-of-Faith/text.txt is too long, truncating from 67483 to last 16384 characters.
+ 93%|█████████▎| 80/86 [07:44<00:14,  2.42s/it]Processing testset/world-history/chapter02-Early-Humans/text.txt
+Warning: input text of testset/world-history/chapter02-Early-Humans/text.txt is too long, truncating from 65360 to last 16384 characters.
+ 94%|█████████▍| 81/86 [07:45<00:10,  2.11s/it]Processing testset/world-history/chapter01-Understanding-the-Past/text.txt
+Warning: input text of testset/world-history/chapter01-Understanding-the-Past/text.txt is too long, truncating from 44398 to last 16384 characters.
+ 95%|█████████▌| 82/86 [07:46<00:07,  1.90s/it]Processing testset/world-history/chapter17-The-Ottomans,-the-Mamluks,-and-the-Ming/text.txt
+Warning: input text of testset/world-history/chapter17-The-Ottomans,-the-Mamluks,-and-the-Ming/text.txt is too long, truncating from 58477 to last 16384 characters.
+ 97%|█████████▋| 83/86 [07:52<00:09,  3.06s/it]Processing testset/world-history/chapter11-The-Rise-of-Islam-and-the-Caliphates/text.txt
+Warning: input text of testset/world-history/chapter11-The-Rise-of-Islam-and-the-Caliphates/text.txt is too long, truncating from 67412 to last 16384 characters.
+ 98%|█████████▊| 84/86 [07:53<00:05,  2.56s/it]Processing testset/world-history/chapter16-Climate-Change-and-Plague-in-the-Fourteenth-Century/text.txt
+Warning: input text of testset/world-history/chapter16-Climate-Change-and-Plague-in-the-Fourteenth-Century/text.txt is too long, truncating from 67937 to last 16384 characters.
+ 99%|█████████▉| 85/86 [07:55<00:02,  2.19s/it]Processing testset/world-history/chapter13-The-Post-Roman-West-and-the-Crusading-Movement/text.txt
+Warning: input text of testset/world-history/chapter13-The-Post-Roman-West-and-the-Crusading-Movement/text.txt is too long, truncating from 95502 to last 16384 characters.
+100%|██████████| 86/86 [07:56<00:00,  5.54s/it]
+
+Process finished with exit code 0

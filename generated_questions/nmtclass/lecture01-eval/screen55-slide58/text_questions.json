@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Was the evaluation of the system ever conducted on a large scale?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6590909090909091
+      }
+    },
+    {
+      "question": "What was the primary challenge in running the evaluation of the system?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "Was the system ever tested for its performance?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "Why was the evaluation of the system not conducted on a larger scale?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What can be inferred about the priority given to running evaluations in the context of this system?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9140625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was the system ever tested for its performance?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "Why was the evaluation of the system not conducted on a larger scale?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What was the primary challenge in running the evaluation of the system?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What can be inferred about the priority given to running evaluations in the context of this system?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9140625
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the guidelines for generating questions?",
+      "context": "IMPORTANT GUIDELINES:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "How many questions should be generated according to the guidelines?",
+      "context": "Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "What type of questions can be answered using only the information in the document?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8546380090497738
+      }
+    },
+    {
+      "question": "What is considered as not following the guidelines for generating questions?",
+      "context": "no external knowledge should be required.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "How will alignment of documents affect the interpretation of information?",
+      "context": "And then you align these two. And this will kind of indicate which bits of information, whether the event or some of the participants got lost, because you cannot align them, or they got somehow distorted in the meaning.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9083333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many questions should be generated according to the guidelines?",
+      "context": "Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "What type of questions can be answered using only the information in the document?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8546380090497738
+      }
+    },
+    {
+      "question": "How will alignment of documents affect the interpretation of information?",
+      "context": "And then you align these two. And this will kind of indicate which bits of information, whether the event or some of the participants got lost, because you cannot align them, or they got somehow distorted in the meaning.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9083333333333333
+      }
+    },
+    {
+      "question": "What is considered as not following the guidelines for generating questions?",
+      "context": "no external knowledge should be required.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    }
+  ]
+}

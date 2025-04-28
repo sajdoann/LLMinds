@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of running a blind editing or comprehension test?",
+      "context": "Ideally we would want to check whether the translation is saying the same thing as the source.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "How do humans correct errors in MT output during a blind editing test?",
+      "context": "If it's fluent, perfect. There is no change needed.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8717948717948718
+      }
+    },
+    {
+      "question": "What happens to the corrected sentence after a second person reviews it?",
+      "context": "We can just ship it. It says what it says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8784722222222222
+      }
+    },
+    {
+      "question": "Why is it important to run a comprehension test on MT output?",
+      "context": "Ideally we would want to check whether the translation is saying the same thing as the source.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "What type of error does the sentence from MT output likely contain?",
+      "context": "Because the sentence will contain many errors. It's from MT output.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8721590909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the corrected sentence after a second person reviews it?",
+      "context": "We can just ship it. It says what it says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8784722222222222
+      }
+    },
+    {
+      "question": "What type of error does the sentence from MT output likely contain?",
+      "context": "Because the sentence will contain many errors. It's from MT output.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8721590909090909
+      }
+    },
+    {
+      "question": "How do humans correct errors in MT output during a blind editing test?",
+      "context": "If it's fluent, perfect. There is no change needed.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8717948717948718
+      }
+    }
+  ]
+}

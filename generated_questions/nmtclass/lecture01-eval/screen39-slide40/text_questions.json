@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main purpose of using GCSE-style evaluation for auditing machine-translated audit reports?",
+      "context": "The introduction, where it discusses the evaluation method used to assess machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7693452380952381
+      }
+    },
+    {
+      "question": "According to the evaluation, in which category did human translation outperform machine translation?",
+      "context": "The section discussing the results of the evaluation, where it mentions that humans were better than machines except in one category",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.673582995951417
+      }
+    },
+    {
+      "question": "What was found to be a category where machine translation outperformed human translation?",
+      "context": "The section discussing the results of the evaluation, where it mentions that humans were better than machines except in one category",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.673582995951417
+      }
+    },
+    {
+      "question": "Why did the researchers conduct this test, and what was their goal?",
+      "context": "The introduction, where it discusses why the evaluation method was used",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7041666666666666
+      }
+    },
+    {
+      "question": "What does the researcher mean when they say that 'different questions give you different results'?",
+      "context": "The section discussing the limitations of the evaluation, where it mentions that different tests may yield varying results",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.746875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main purpose of using GCSE-style evaluation for auditing machine-translated audit reports?",
+      "context": "The introduction, where it discusses the evaluation method used to assess machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7693452380952381
+      }
+    },
+    {
+      "question": "What was found to be a category where machine translation outperformed human translation?",
+      "context": "The section discussing the results of the evaluation, where it mentions that humans were better than machines except in one category",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.673582995951417
+      }
+    },
+    {
+      "question": "According to the evaluation, in which category did human translation outperform machine translation?",
+      "context": "The section discussing the results of the evaluation, where it mentions that humans were better than machines except in one category",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.673582995951417
+      }
+    }
+  ]
+}

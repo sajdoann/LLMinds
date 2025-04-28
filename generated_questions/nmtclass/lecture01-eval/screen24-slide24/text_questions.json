@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the basis for ranking systems?",
+      "context": "A description of that in the paper and the description says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8154761904761905
+      }
+    },
+    {
+      "question": "What was the author trying to achieve by reading the paper and downloading judgments?",
+      "context": "So when having read this, I was looking at the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8788461538461538
+      }
+    },
+    {
+      "question": "How did the author approach ranking systems in relation to the paper's description?",
+      "context": "I downloaded the judgments and I was trying to come up with the same ranking as was in the paper.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8567708333333334
+      }
+    },
+    {
+      "question": "What is meant by 'judged to be better than or equal to any other system'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9464285714285714
+      }
+    },
+    {
+      "question": "Why was the author's goal in ranking systems not explicitly stated?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9090909090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the basis for ranking systems?",
+      "context": "A description of that in the paper and the description says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8154761904761905
+      }
+    },
+    {
+      "question": "What was the author trying to achieve by reading the paper and downloading judgments?",
+      "context": "So when having read this, I was looking at the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8788461538461538
+      }
+    },
+    {
+      "question": "How did the author approach ranking systems in relation to the paper's description?",
+      "context": "I downloaded the judgments and I was trying to come up with the same ranking as was in the paper.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8567708333333334
+      }
+    }
+  ]
+}

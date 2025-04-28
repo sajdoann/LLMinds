@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main focus of the first three lectures in the course?",
+      "context": "We start at the end. We will discuss the evaluation first and you will learn very quickly why evaluation is so important for all the research that you are doing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7471590909090909
+      }
+    },
+    {
+      "question": "What is the current understanding of machine translation systems, according to the instructor?",
+      "context": "It's simply automatic that all the systems are statistical.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How has neural machine translation changed the field of machine translation?",
+      "context": "Neural machine translation has changed the field a few years ago, so we're going to discuss it very briefly already on the third lecture and then we'll get to that later on as well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8064516129032258
+      }
+    },
+    {
+      "question": "What is the main concern of the last lecture towards the end of the semester?",
+      "context": "one of the last lectures towards the end of the semester is also going to be devoted to the question of meaning, how much the systems actually internally kind of understand, whatever it means, and whether the neural MT is making this understanding more accessible or actually less accessible.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7784090909090909
+      }
+    },
+    {
+      "question": "What will be the cornerstone of this seminar?",
+      "context": "And I'm again highlighting the last point. At the very end of the semester your projects will be presented and that's the cornerstone of this seminar.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7269345238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What will be the cornerstone of this seminar?",
+      "context": "And I'm again highlighting the last point. At the very end of the semester your projects will be presented and that's the cornerstone of this seminar.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7269345238095238
+      }
+    },
+    {
+      "question": "How has neural machine translation changed the field of machine translation?",
+      "context": "Neural machine translation has changed the field a few years ago, so we're going to discuss it very briefly already on the third lecture and then we'll get to that later on as well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8064516129032258
+      }
+    },
+    {
+      "question": "What is the current understanding of machine translation systems, according to the instructor?",
+      "context": "It's simply automatic that all the systems are statistical.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the main concern of the last lecture towards the end of the semester?",
+      "context": "one of the last lectures towards the end of the semester is also going to be devoted to the question of meaning, how much the systems actually internally kind of understand, whatever it means, and whether the neural MT is making this understanding more accessible or actually less accessible.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7784090909090909
+      }
+    }
+  ]
+}

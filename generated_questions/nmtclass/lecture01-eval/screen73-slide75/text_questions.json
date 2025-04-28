@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using reference translations in a way that can be manipulated?",
+      "context": "If you have... well, you can somehow fiddle with the way you use the reference translations, and you will arrive at a higher scores because of this fiddling trick.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.6133333333333333
+      }
+    },
+    {
+      "question": "What does 'fiddling with the way you use the reference translations' actually change?",
+      "context": "But it doesn't do anything. It doesn't change any consequence, and you don't get any new implication by this trick on the ....",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What is the result of using reference translations in a way that can be manipulated?",
+      "context": "On the previous slide",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5958333333333333
+      }
+    },
+    {
+      "question": "Is there any new information gained by manipulating the use of reference translations?",
+      "context": "If you have... well, you can somehow fiddle with the way you use the reference translations, and you will arrive at a higher scores because of this fiddling trick.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6761538461538461
+      }
+    },
+    {
+      "question": "What is implied about the relationship between manipulating reference translation use and scores?",
+      "context": "But it doesn't do anything. It doesn't change any consequence, and you don't get any new implication by this trick on the ....",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6490384615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any new information gained by manipulating the use of reference translations?",
+      "context": "If you have... well, you can somehow fiddle with the way you use the reference translations, and you will arrive at a higher scores because of this fiddling trick.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6761538461538461
+      }
+    },
+    {
+      "question": "What does 'fiddling with the way you use the reference translations' actually change?",
+      "context": "But it doesn't do anything. It doesn't change any consequence, and you don't get any new implication by this trick on the ....",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What is implied about the relationship between manipulating reference translation use and scores?",
+      "context": "But it doesn't do anything. It doesn't change any consequence, and you don't get any new implication by this trick on the ....",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6490384615384616
+      }
+    },
+    {
+      "question": "What is the result of using reference translations in a way that can be manipulated?",
+      "context": "On the previous slide",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5958333333333333
+      }
+    }
+  ]
+}

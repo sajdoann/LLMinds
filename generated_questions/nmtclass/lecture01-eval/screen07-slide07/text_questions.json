@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the three main methods for evaluating machine translation?",
+      "context": "So what are you asking. And I kind of divide those into techniques where you only consider the MT output as such so that's the blackbox method.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7229166666666667
+      }
+    },
+    {
+      "question": "What is a grey box evaluation in machine translation?",
+      "context": "And then some kind of grey box evaluation in which you already look at the content of the sentences from a linguistic point of view or other points of view.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5651709401709402
+      }
+    },
+    {
+      "question": "What is a glass box evaluation in machine translation?",
+      "context": "And then if you are an author of the system, you are most interested in knowing which component fails, doesn't do its job properly, and that would be kind of glass box evaluation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.564176245210728
+      }
+    },
+    {
+      "question": "What is the relationship between adequacy and fluency in machine translation?",
+      "context": "These two scales are also correlated. You cannot speak about the adequacy of the output if the fluency is so bad that you don't understand it at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6840909090909091
+      }
+    },
+    {
+      "question": "What is a task-based evaluation in machine translation?",
+      "context": "So today they are kind of revisited in something which is direct assessment which we will see on a slide in a second. And this direct assessment uses just one scale normally.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5590277777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the three main methods for evaluating machine translation?",
+      "context": "So what are you asking. And I kind of divide those into techniques where you only consider the MT output as such so that's the blackbox method.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7229166666666667
+      }
+    },
+    {
+      "question": "What is a glass box evaluation in machine translation?",
+      "context": "And then if you are an author of the system, you are most interested in knowing which component fails, doesn't do its job properly, and that would be kind of glass box evaluation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.564176245210728
+      }
+    },
+    {
+      "question": "What is a grey box evaluation in machine translation?",
+      "context": "And then some kind of grey box evaluation in which you already look at the content of the sentences from a linguistic point of view or other points of view.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5651709401709402
+      }
+    }
+  ]
+}

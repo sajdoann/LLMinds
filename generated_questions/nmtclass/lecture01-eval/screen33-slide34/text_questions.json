@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is an example of a situation where E's score could be 100%?",
+      "context": "Sometimes the score is the same. So E took part in one screen and won.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8070054945054945
+      }
+    },
+    {
+      "question": "How does E perform in pairwise comparisons?",
+      "context": "It took part in three pairwise comparisons and won of all of those.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7797619047619048
+      }
+    },
+    {
+      "question": "What does the document imply about the nature of the score?",
+      "context": "Sometimes the score is the same.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "Why might E's performance in pairwise comparisons be relevant to their overall score?",
+      "context": "It took part in three pairwise comparisons and won of all of those.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.766025641025641
+      }
+    },
+    {
+      "question": "What is the implication of E's performance being consistent across different screens?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.90625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an example of a situation where E's score could be 100%?",
+      "context": "Sometimes the score is the same. So E took part in one screen and won.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8070054945054945
+      }
+    },
+    {
+      "question": "How does E perform in pairwise comparisons?",
+      "context": "It took part in three pairwise comparisons and won of all of those.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7797619047619048
+      }
+    },
+    {
+      "question": "Why might E's performance in pairwise comparisons be relevant to their overall score?",
+      "context": "It took part in three pairwise comparisons and won of all of those.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.766025641025641
+      }
+    },
+    {
+      "question": "What is the implication of E's performance being consistent across different screens?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What does the document imply about the nature of the score?",
+      "context": "Sometimes the score is the same.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ]
+}

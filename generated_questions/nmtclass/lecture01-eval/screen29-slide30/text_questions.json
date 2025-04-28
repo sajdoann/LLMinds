@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of pairwise comparisons mentioned in the document?",
+      "context": "Then you have a large number of pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Why are larger numbers considered more stable for this evaluation?",
+      "context": "because it is based on more numbers",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9267857142857143
+      }
+    },
+    {
+      "question": "What does the term 'evaluation' refer to in the context of pairwise comparisons?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "Is there a specific goal or outcome being achieved through this evaluation process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9807692307692307
+      }
+    },
+    {
+      "question": "How does the size of the numbers (pairwise comparisons) impact the stability of the evaluation?",
+      "context": "larger numbers, so that this evaluation is more stable",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8926767676767677
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of pairwise comparisons mentioned in the document?",
+      "context": "Then you have a large number of pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Is there a specific goal or outcome being achieved through this evaluation process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9807692307692307
+      }
+    },
+    {
+      "question": "Why are larger numbers considered more stable for this evaluation?",
+      "context": "because it is based on more numbers",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9267857142857143
+      }
+    },
+    {
+      "question": "What does the term 'evaluation' refer to in the context of pairwise comparisons?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ]
+}

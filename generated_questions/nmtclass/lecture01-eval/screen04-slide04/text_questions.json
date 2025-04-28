@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why is measuring output quality in machine translation important?",
+      "context": "The importance of measuring output quality in machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "How did people assess the quality of a Russian to English translation system in the 1970s?",
+      "context": "Example from the history of machine translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7583333333333333
+      }
+    },
+    {
+      "question": "What is the significance of choosing the right metric for measuring output quality in machine translation?",
+      "context": "The impact of metrics on research direction",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7023809523809524
+      }
+    },
+    {
+      "question": "How does the BLEU score metric influence the focus of machine translation research?",
+      "context": "BLEU score as a metric",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "What happens if another metric is chosen instead of BLEU score for measuring output quality in machine translation?",
+      "context": "Consequences of choosing a different metric",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7222222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is measuring output quality in machine translation important?",
+      "context": "The importance of measuring output quality in machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "How does the BLEU score metric influence the focus of machine translation research?",
+      "context": "BLEU score as a metric",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "How did people assess the quality of a Russian to English translation system in the 1970s?",
+      "context": "Example from the history of machine translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7583333333333333
+      }
+    }
+  ]
+}

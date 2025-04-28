@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What issue is found with the English translation of the sentence 'perhaps there are better times ahead'?",
+      "context": "The problem is with this English there which is just a syntactic word it should not be used in the Czech language at all",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8806818181818181
+      }
+    },
+    {
+      "question": "How do some systems fail to produce correct conjugation or declination forms of words?",
+      "context": "some of the systems fail to produce the correct conjugation or declination forms of the words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8976648351648352
+      }
+    },
+    {
+      "question": "What is mistranslated in one of the cases as multiplication instead of its actual meaning?",
+      "context": "It is mistranslated as multiplication in one of the cases",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "How does Czech distinguish between 'ahead' in terms of time and space?",
+      "context": "So in Czech we have a slight distinction whether ahead is in terms of time or in terms of space and that was like wrongly chosen",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "What label is applied incorrectly due to this mistranslation?",
+      "context": "So that's another of this label",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8263888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What label is applied incorrectly due to this mistranslation?",
+      "context": "So that's another of this label",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "How does Czech distinguish between 'ahead' in terms of time and space?",
+      "context": "So in Czech we have a slight distinction whether ahead is in terms of time or in terms of space and that was like wrongly chosen",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "How do some systems fail to produce correct conjugation or declination forms of words?",
+      "context": "some of the systems fail to produce the correct conjugation or declination forms of the words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8976648351648352
+      }
+    }
+  ]
+}

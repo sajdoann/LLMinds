@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the recommended number of sentences for evaluation in order to achieve high correlation?",
+      "context": "in the evaluation. This is just highlighted in numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.73125
+      }
+    },
+    {
+      "question": "Why are fewer sentences better than more sentences for evaluation correlation?",
+      "context": "So you get a higher correlation with a fewer number of sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7534090909090909
+      }
+    },
+    {
+      "question": "What is the benefit of using six or seven post-edit references compared to independently created references?",
+      "context": "So if you have a chance to correct empty",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7760416666666667
+      }
+    },
+    {
+      "question": "Can the quality of evaluation be improved by reducing the number of sentences used?",
+      "context": "This is just highlighted in numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the implication of using a smaller number of references for post-editing compared to independently created references?",
+      "context": "So you get a higher correlation with a fewer number of sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.679144385026738
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the recommended number of sentences for evaluation in order to achieve high correlation?",
+      "context": "in the evaluation. This is just highlighted in numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.73125
+      }
+    },
+    {
+      "question": "Why are fewer sentences better than more sentences for evaluation correlation?",
+      "context": "So you get a higher correlation with a fewer number of sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7534090909090909
+      }
+    },
+    {
+      "question": "Can the quality of evaluation be improved by reducing the number of sentences used?",
+      "context": "This is just highlighted in numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

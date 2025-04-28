@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two types of automatic evaluation methods mentioned in the document?",
+      "context": "Automatic evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.47916666666666674
+      }
+    },
+    {
+      "question": "Why is automatic evaluation considered fast and cheap compared to human translation?",
+      "context": "Automatic evaluation benefits",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What can be done with the final scores from reinforcement learning in automatic evaluation?",
+      "context": "Reinforcement learning in automatic evaluation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7696428571428571
+      }
+    },
+    {
+      "question": "When is automatic evaluation useful for checking progress, according to the document?",
+      "context": "Automatic evaluation use cases",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What problem does BLEU have when comparing systems of different types, according to the document?",
+      "context": "BLEU limitations",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two types of automatic evaluation methods mentioned in the document?",
+      "context": "Automatic evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.47916666666666674
+      }
+    },
+    {
+      "question": "What problem does BLEU have when comparing systems of different types, according to the document?",
+      "context": "BLEU limitations",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Why is automatic evaluation considered fast and cheap compared to human translation?",
+      "context": "Automatic evaluation benefits",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6666666666666667
+      }
+    }
+  ]
+}

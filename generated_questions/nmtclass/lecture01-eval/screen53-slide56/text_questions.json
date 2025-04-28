@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being evaluated in this task?",
+      "context": "You are more confident when doing this evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "Why might it be too complicated to show the task to turkers?",
+      "context": "It is too complicated to show it to turkers.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8295454545454546
+      }
+    },
+    {
+      "question": "What can make an evaluation more confident?",
+      "context": "You are more confident when doing this evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How might showing a task to turkers affect its complexity?",
+      "context": "It is too complicated to show it to turkers.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What can make an evaluation more confident for the person doing it?",
+      "context": "You are more confident when doing this evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6666666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being evaluated in this task?",
+      "context": "You are more confident when doing this evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "How might showing a task to turkers affect its complexity?",
+      "context": "It is too complicated to show it to turkers.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "Why might it be too complicated to show the task to turkers?",
+      "context": "It is too complicated to show it to turkers.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8295454545454546
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Why does the actual calculation of the score affect the result of pairwise comparisons?",
+      "context": "But in some cases the results will differ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8934659090909091
+      }
+    },
+    {
+      "question": "What is the problem with interpreting five eye tracking scores as pairwise comparisons when people are shown five systems at once?",
+      "context": "If they don't do pairwise comparisons, these pairwise comparisons can be unreliable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What does the phrase 'statistically better' imply in this context?",
+      "context": "So we have something which is statistically better because it is based on more numbers,",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8017857142857143
+      }
+    },
+    {
+      "question": "Why should people keep questioning the way things are evaluated according to the text?",
+      "context": "And this is something that you should always keep questioning.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8701923076923077
+      }
+    },
+    {
+      "question": "What does the phrase 'the human process behind that is less stable' imply in this context?",
+      "context": "So that is why people keep questioning the way things are evaluated.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.828125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why does the actual calculation of the score affect the result of pairwise comparisons?",
+      "context": "But in some cases the results will differ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8934659090909091
+      }
+    },
+    {
+      "question": "What is the problem with interpreting five eye tracking scores as pairwise comparisons when people are shown five systems at once?",
+      "context": "If they don't do pairwise comparisons, these pairwise comparisons can be unreliable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What does the phrase 'the human process behind that is less stable' imply in this context?",
+      "context": "So that is why people keep questioning the way things are evaluated.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What does the phrase 'statistically better' imply in this context?",
+      "context": "So we have something which is statistically better because it is based on more numbers,",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8017857142857143
+      }
+    }
+  ]
+}

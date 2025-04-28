@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What ranking did system A receive compared to systems B and C?",
+      "context": "system A was the best, B and C were on par",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8589015151515151
+      }
+    },
+    {
+      "question": "How does annotator perceive the difference between system D and one bit worse?",
+      "context": "annotator said it's like a little more worse than just one bit worse",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.796474358974359
+      }
+    },
+    {
+      "question": "What will be shown to one person on this screen?",
+      "context": "This block of annotation is the dots where you put them. That will show to one person.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8382352941176471
+      }
+    },
+    {
+      "question": "Why is it mentioned that system D was worse than other systems?",
+      "context": "D was the worst, and the annotator even said it's like a little more worse than just one bit worse",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What will be shown to another person after seeing what is shown to one person?",
+      "context": "Then maybe to another person",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8604166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What will be shown to another person after seeing what is shown to one person?",
+      "context": "Then maybe to another person",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8604166666666666
+      }
+    },
+    {
+      "question": "How does annotator perceive the difference between system D and one bit worse?",
+      "context": "annotator said it's like a little more worse than just one bit worse",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.796474358974359
+      }
+    },
+    {
+      "question": "Why is it mentioned that system D was worse than other systems?",
+      "context": "D was the worst, and the annotator even said it's like a little more worse than just one bit worse",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ]
+}

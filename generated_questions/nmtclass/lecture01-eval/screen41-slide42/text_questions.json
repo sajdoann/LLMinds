@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the best systems or systems mentioned in the text?",
+      "context": "Put it to these best systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "How does the author feel about these superhuman systems?",
+      "context": "these superhuman systems, this is what you get and I'm hardly",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.73989898989899
+      }
+    },
+    {
+      "question": "What tone or emotion is conveyed by the phrase 'I'm hardly'?",
+      "context": "and I'm hardly",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6022727272727273
+      }
+    },
+    {
+      "question": "Are the best systems referred to as a single entity or multiple entities?",
+      "context": "Put it to these best systems, these superhuman systems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7259615384615384
+      }
+    },
+    {
+      "question": "What is the relationship between the author's tone and the phrase 'I'm hardly'?",
+      "context": "these superhuman systems, this is what you get and I'm hardly",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6704545454545454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the best systems or systems mentioned in the text?",
+      "context": "Put it to these best systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "How does the author feel about these superhuman systems?",
+      "context": "these superhuman systems, this is what you get and I'm hardly",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.73989898989899
+      }
+    },
+    {
+      "question": "Are the best systems referred to as a single entity or multiple entities?",
+      "context": "Put it to these best systems, these superhuman systems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7259615384615384
+      }
+    }
+  ]
+}

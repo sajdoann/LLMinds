@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What comparisons were made to evaluate the system's performance?",
+      "context": "And then you evaluate in these pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7743055555555556
+      }
+    },
+    {
+      "question": "How did the system perform compared to its competitors?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What type of comparisons were used to evaluate the system's performance?",
+      "context": "pairwise comparisons",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Was the comparison process objective or subjective?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9285714285714286
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the system's performance based on the comparisons?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What comparisons were made to evaluate the system's performance?",
+      "context": "And then you evaluate in these pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7743055555555556
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the system's performance based on the comparisons?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What type of comparisons were used to evaluate the system's performance?",
+      "context": "pairwise comparisons",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Was the comparison process objective or subjective?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9285714285714286
+      }
+    },
+    {
+      "question": "How did the system perform compared to its competitors?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ]
+}

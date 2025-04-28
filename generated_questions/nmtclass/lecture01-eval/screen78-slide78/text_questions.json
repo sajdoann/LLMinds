@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are BLEU scores not comparable across?",
+      "context": "BLEU scores are not comparable across languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why are BLEU scores sensitive to tokenization?",
+      "context": "So the good thing that you can do is to rely on one fixed reference implementation and one has been done recently by a Matt Post, it's called SACREBLEU.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7276785714285714
+      }
+    },
+    {
+      "question": "What problem does the SACREBLEU implementation aim to solve?",
+      "context": "So that's something which removes some of these problems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "Why is it not recommended to compare BLEU scores across different test sets or implementations?",
+      "context": "BLEU scores are not comparable across different test sets.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What would happen if you use different tokenization methods for the same text?",
+      "context": "So the good thing that you can do is to rely on one fixed reference implementation and one has been done recently by a Matt Post, it's called SACREBLEU.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8320741758241759
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What problem does the SACREBLEU implementation aim to solve?",
+      "context": "So that's something which removes some of these problems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "Why are BLEU scores sensitive to tokenization?",
+      "context": "So the good thing that you can do is to rely on one fixed reference implementation and one has been done recently by a Matt Post, it's called SACREBLEU.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7276785714285714
+      }
+    },
+    {
+      "question": "Why is it not recommended to compare BLEU scores across different test sets or implementations?",
+      "context": "BLEU scores are not comparable across different test sets.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the method used in the eye tracking study?",
+      "context": "I had, I think, just eight colleagues, so a small study.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6291666666666667
+      }
+    },
+    {
+      "question": "What is the suggested analysis for the data from the eye tracking study?",
+      "context": "So this is some analysis which was no longer done with the data.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7736013986013985
+      }
+    },
+    {
+      "question": "In what order do people typically read through the candidates in the assessment?",
+      "context": "Indeed, they mostly start with reading the source, then they read the reference and then they read one by one the candidates and then they score it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8536096256684492
+      }
+    },
+    {
+      "question": "What additional analysis would be interesting to conduct on the data?",
+      "context": "I like the number of pairwise comparisons compared to like rereading and it would be interesting to see whether people like focused on errors and whether the score correlates with the errors appearing there and so on.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8599837662337663
+      }
+    },
+    {
+      "question": "How many colleagues participated in the eye tracking study?",
+      "context": "I had, I think, just eight colleagues, so a small study.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6708333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many colleagues participated in the eye tracking study?",
+      "context": "I had, I think, just eight colleagues, so a small study.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6708333333333334
+      }
+    },
+    {
+      "question": "In what order do people typically read through the candidates in the assessment?",
+      "context": "Indeed, they mostly start with reading the source, then they read the reference and then they read one by one the candidates and then they score it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8536096256684492
+      }
+    },
+    {
+      "question": "What is the suggested analysis for the data from the eye tracking study?",
+      "context": "So this is some analysis which was no longer done with the data.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7736013986013985
+      }
+    },
+    {
+      "question": "What additional analysis would be interesting to conduct on the data?",
+      "context": "I like the number of pairwise comparisons compared to like rereading and it would be interesting to see whether people like focused on errors and whether the score correlates with the errors appearing there and so on.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8599837662337663
+      }
+    }
+  ]
+}

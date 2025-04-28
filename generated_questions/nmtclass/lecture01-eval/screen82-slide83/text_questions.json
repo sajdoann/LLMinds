@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of methods have been discussed in the lecture as being used for automatic evaluation of metrics?",
+      "context": "The introduction section discussing manual and automatic methods",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.8483455882352942
+      }
+    },
+    {
+      "question": "Is the correlation between automatic metrics and human judgment stable, according to the lecturer?",
+      "context": "The statement about the difficulty of correlation with humans being unstable",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What is the result when considering only the top eight systems in English-German translation?",
+      "context": "The mention of the BLEU score correlating around zero for this subset",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7666083916083917
+      }
+    },
+    {
+      "question": "Why does the correlation between BLEU and human rank become negative when only four systems are considered in English-German translation?",
+      "context": "The explanation that top-performing systems correlate negatively with human rank",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What is the SACREBLEU line's significance in the competition, according to the text?",
+      "context": "The mention of the violet line being SACREBLEU and its comparison to other metrics",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7657342657342657
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of methods have been discussed in the lecture as being used for automatic evaluation of metrics?",
+      "context": "The introduction section discussing manual and automatic methods",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.8483455882352942
+      }
+    },
+    {
+      "question": "Is the correlation between automatic metrics and human judgment stable, according to the lecturer?",
+      "context": "The statement about the difficulty of correlation with humans being unstable",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "Why does the correlation between BLEU and human rank become negative when only four systems are considered in English-German translation?",
+      "context": "The explanation that top-performing systems correlate negatively with human rank",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.8375
+      }
+    }
+  ]
+}

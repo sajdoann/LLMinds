@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Why did machine translation results improve in 2018?",
+      "context": "An underlying reason for this particular result",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8883928571428572
+      }
+    },
+    {
+      "question": "How was evaluation done for individual segments vs. document level context?",
+      "context": "Evaluation was also done at the level of individual segments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9159090909090909
+      }
+    },
+    {
+      "question": "Can sentence-level evaluations be misleading when considering document context?",
+      "context": "But if you evaluate the sentence in the proper context of the document, then suddenly I'm quite confident that the human scores would be higher.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9128787878787878
+      }
+    },
+    {
+      "question": "What is the critical question when assessing machine translation progress?",
+      "context": "So there people have then later on followed up on this and there are many studies that like discuss how much we are on par with humans, but it's the",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8961538461538462
+      }
+    },
+    {
+      "question": "What was a major limitation of machine translation in 2018?",
+      "context": "No one cared about document level context in 2018.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8583333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why did machine translation results improve in 2018?",
+      "context": "An underlying reason for this particular result",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8883928571428572
+      }
+    },
+    {
+      "question": "Can sentence-level evaluations be misleading when considering document context?",
+      "context": "But if you evaluate the sentence in the proper context of the document, then suddenly I'm quite confident that the human scores would be higher.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9128787878787878
+      }
+    },
+    {
+      "question": "How was evaluation done for individual segments vs. document level context?",
+      "context": "Evaluation was also done at the level of individual segments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9159090909090909
+      }
+    },
+    {
+      "question": "What is the critical question when assessing machine translation progress?",
+      "context": "So there people have then later on followed up on this and there are many studies that like discuss how much we are on par with humans, but it's the",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8961538461538462
+      }
+    }
+  ]
+}

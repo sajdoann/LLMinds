@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'pairwise comparisons' mean in this context?",
+      "context": "Well, we do this simulated pairwise thing actually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "How many pairwise judgments are created by one screen with four systems?",
+      "context": "one screen here creates six pairwise judgments because it's four systems and if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6957236842105263
+      }
+    },
+    {
+      "question": "What is the relationship between system number and the number of pairwise judgments created?",
+      "context": "if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6104166666666666
+      }
+    },
+    {
+      "question": "How does one screen with four systems compare to one screen with five systems in terms of pairwise judgments?",
+      "context": "one screen here creates six pairwise judgments because it's four systems and if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6894736842105263
+      }
+    },
+    {
+      "question": "What is the implication of 'A is compared with B and it is better' for system A?",
+      "context": "A is compared with B and it is better. A is compared with C and it is better.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8472222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'pairwise comparisons' mean in this context?",
+      "context": "Well, we do this simulated pairwise thing actually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "How does one screen with four systems compare to one screen with five systems in terms of pairwise judgments?",
+      "context": "one screen here creates six pairwise judgments because it's four systems and if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6894736842105263
+      }
+    },
+    {
+      "question": "What is the relationship between system number and the number of pairwise judgments created?",
+      "context": "if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6104166666666666
+      }
+    }
+  ]
+}

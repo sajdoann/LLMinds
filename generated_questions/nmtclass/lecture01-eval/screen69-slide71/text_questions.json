@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a mechanism designed in the BLEU score to avoid cheating?",
+      "context": "You want to make sure that there is no simple way to fool your metric into thinking that you're good.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8576388888888888
+      }
+    },
+    {
+      "question": "What happens if a system produces only reliable words, like definite articles?",
+      "context": "If we just produce the definite articles? So if we just produce the the the the as the output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How does the brevity penalty affect the BLEU score?",
+      "context": "The brevity penalty simply strikes a score, reduces the score if the output is too short compared to the reference.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8400735294117647
+      }
+    },
+    {
+      "question": "What is the purpose of using n-grams in the BLEU score?",
+      "context": "The same strategy, this clipped count, is used obviously also for the higher n-grams.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8173076923076923
+      }
+    },
+    {
+      "question": "Why are BLEU scores less reliable if there are fewer references used at a time?",
+      "context": "If the number of references is lower, then the BLEU scores are less reliable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8605769230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are BLEU scores less reliable if there are fewer references used at a time?",
+      "context": "If the number of references is lower, then the BLEU scores are less reliable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8605769230769231
+      }
+    },
+    {
+      "question": "What happens if a system produces only reliable words, like definite articles?",
+      "context": "If we just produce the definite articles? So if we just produce the the the the as the output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the purpose of using n-grams in the BLEU score?",
+      "context": "The same strategy, this clipped count, is used obviously also for the higher n-grams.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8173076923076923
+      }
+    }
+  ]
+}

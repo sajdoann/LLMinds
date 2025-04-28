@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'the meaning' refer to in this context?",
+      "context": "the meaning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "Is there any indication of where 'it' refers to in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Does the phrase 'the meaning is distorted, but you know where it was' suggest that something has changed?",
+      "context": "the meaning is distorted, but you know where it was",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.8430555555555556
+      }
+    },
+    {
+      "question": "Is there any implication of loss or damage in the phrase 'but you know where it was'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8529411764705882
+      }
+    },
+    {
+      "question": "Does the use of the phrase 'the meaning is distorted' suggest a change in interpretation, rather than physical location?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8680555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'the meaning' refer to in this context?",
+      "context": "the meaning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "Does the use of the phrase 'the meaning is distorted' suggest a change in interpretation, rather than physical location?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8680555555555556
+      }
+    },
+    {
+      "question": "Does the phrase 'the meaning is distorted, but you know where it was' suggest that something has changed?",
+      "context": "the meaning is distorted, but you know where it was",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.8430555555555556
+      }
+    },
+    {
+      "question": "Is there any implication of loss or damage in the phrase 'but you know where it was'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8529411764705882
+      }
+    }
+  ]
+}

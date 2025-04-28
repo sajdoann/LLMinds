@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the standard automatic evaluation metric used in machine translation systems?",
+      "context": "The one that still remains the standard in the field is called BLEU and it is simply checking the number of n-grams that are confirmed by the reference.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7926136363636364
+      }
+    },
+    {
+      "question": "How do systems score for individual words, bigrams, trigrams, and four-grams in BLEU?",
+      "context": "If a particular sequence of four words is confirmed by the reference, then the system is getting one four-gram.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8127828054298643
+      }
+    },
+    {
+      "question": "Why did phrase-based translation systems like Moses outperform rule-based systems like PC Translator in terms of BLEU scores?",
+      "context": "BLEU has promoted the use of phrase based systems because they got, they were getting higher BLEU scores, they were getting the four grams correct.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.8729440789473684
+      }
+    },
+    {
+      "question": "What is the process for aggregating n-gram scores in BLEU?",
+      "context": "And then you apply on ... which we will discuss in a second. So there could be some weights in the geometric mean, but the weights are always said uniformly, because for some situations the longer sentences could be potentially more important than the shorter ones, but people don't care much.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    },
+    {
+      "question": "What happened to PC Translator's score in comparison to Moses' score?",
+      "context": "In that year I think PC Translator was already losing but still it was not losing by that much as the BLEU score suggests.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8166666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happened to PC Translator's score in comparison to Moses' score?",
+      "context": "In that year I think PC Translator was already losing but still it was not losing by that much as the BLEU score suggests.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "What is the process for aggregating n-gram scores in BLEU?",
+      "context": "And then you apply on ... which we will discuss in a second. So there could be some weights in the geometric mean, but the weights are always said uniformly, because for some situations the longer sentences could be potentially more important than the shorter ones, but people don't care much.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    },
+    {
+      "question": "How do systems score for individual words, bigrams, trigrams, and four-grams in BLEU?",
+      "context": "If a particular sequence of four words is confirmed by the reference, then the system is getting one four-gram.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8127828054298643
+      }
+    },
+    {
+      "question": "Why did phrase-based translation systems like Moses outperform rule-based systems like PC Translator in terms of BLEU scores?",
+      "context": "BLEU has promoted the use of phrase based systems because they got, they were getting higher BLEU scores, they were getting the four grams correct.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.8729440789473684
+      }
+    }
+  ]
+}

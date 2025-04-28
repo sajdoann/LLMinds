@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What makes the document's text particularly easy to read?",
+      "context": "This is easier to do because this is fluent sentence, so there is",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of providing guidelines for generating questions?",
+      "context": "IMPORTANT GUIDELINES:",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "How many questions are required to be generated according to the guidelines?",
+      "context": "Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9090909090909091
+      }
+    },
+    {
+      "question": "What is the context in which each question should be answerable?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9090909090909091
+      }
+    },
+    {
+      "question": "Why are the questions categorized as factual, inferential, or analytical?",
+      "context": "factual/inferential/analytical",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What makes the document's text particularly easy to read?",
+      "context": "This is easier to do because this is fluent sentence, so there is",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of providing guidelines for generating questions?",
+      "context": "IMPORTANT GUIDELINES:",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "What is the context in which each question should be answerable?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9090909090909091
+      }
+    }
+  ]
+}

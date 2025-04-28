@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the outcome of the manual evaluation for Google's system in 2019?",
+      "context": "This year in 2019 we have seen that the best systems match humans in the GCSE style scoring but they score worse in the pseudo document or direct assessments and they are absolutely terrible when translating agreements.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7838541666666666
+      }
+    },
+    {
+      "question": "Why is it important to consider different evaluation methods?",
+      "context": "different evaluation methods, and most of them are manual evaluation methods, they will give you different results. So that's why I'm always highlighting the friendly competition and not the competition competition, not who is going to win, but who has the lowest number of errors of a particular type aspect.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.920940170940171
+      }
+    },
+    {
+      "question": "What was the outcome when considering ties in the manual evaluation?",
+      "context": "So we have discussed the ranking and in the ranking in that year Google won when we were considering the ties.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7375
+      }
+    },
+    {
+      "question": "How did Google's system perform in automatic evaluations versus human evaluation?",
+      "context": "Google also won in the automatic evaluations, but in the quiz based evaluation it was actually our deep syntactic system which preserve the meaning of the sentences for the purposes of this testing best.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "What is the significance of the number of edits deemed acceptable in comprehensibility checks?",
+      "context": "The number of edits deems acceptable, that's the comprehensibility check.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7951388888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is it important to consider different evaluation methods?",
+      "context": "different evaluation methods, and most of them are manual evaluation methods, they will give you different results. So that's why I'm always highlighting the friendly competition and not the competition competition, not who is going to win, but who has the lowest number of errors of a particular type aspect.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.920940170940171
+      }
+    },
+    {
+      "question": "What is the significance of the number of edits deemed acceptable in comprehensibility checks?",
+      "context": "The number of edits deems acceptable, that's the comprehensibility check.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7951388888888888
+      }
+    },
+    {
+      "question": "What was the outcome of the manual evaluation for Google's system in 2019?",
+      "context": "This year in 2019 we have seen that the best systems match humans in the GCSE style scoring but they score worse in the pseudo document or direct assessments and they are absolutely terrible when translating agreements.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7838541666666666
+      }
+    }
+  ]
+}

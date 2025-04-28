@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two main options for showing source text to annotators during manual evaluation?",
+      "context": "When designing a manual evaluation method, you need to decide what to show to the annotators.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8285714285714285
+      }
+    },
+    {
+      "question": "What is the main challenge in using reference translations for machine translation evaluations?",
+      "context": "The single reference translation could have highlighted something which was not so important in the source.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7948717948717949
+      }
+    },
+    {
+      "question": "What is a key difference between deterministic and non-deterministic machine translation systems?",
+      "context": "If you shuffle the sentences, you get the same outputs.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8072916666666667
+      }
+    },
+    {
+      "question": "What type of evaluation asks human assessors to judge the whole document and consider cross-sentence phenomena?",
+      "context": "Document level score would be something which asks the human assessor to judge the whole document.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8557291666666667
+      }
+    },
+    {
+      "question": "What is the purpose of asking annotators to relatively sort different outputs in machine translation evaluations?",
+      "context": "You can show people two different outputs or more different outputs and ask them to relatively sort them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two main options for showing source text to annotators during manual evaluation?",
+      "context": "When designing a manual evaluation method, you need to decide what to show to the annotators.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8285714285714285
+      }
+    },
+    {
+      "question": "What type of evaluation asks human assessors to judge the whole document and consider cross-sentence phenomena?",
+      "context": "Document level score would be something which asks the human assessor to judge the whole document.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8557291666666667
+      }
+    },
+    {
+      "question": "What is the purpose of asking annotators to relatively sort different outputs in machine translation evaluations?",
+      "context": "You can show people two different outputs or more different outputs and ask them to relatively sort them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the main challenge in using reference translations for machine translation evaluations?",
+      "context": "The single reference translation could have highlighted something which was not so important in the source.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7948717948717949
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who garnered attention after the referee was mentioned?",
+      "context": "the reference translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7864583333333334
+      }
+    },
+    {
+      "question": "What is the correct order of the candidates A and B in the ranking evaluation?",
+      "context": "the last sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6025641025641026
+      }
+    },
+    {
+      "question": "What does 'H' represent in this context?",
+      "context": "the last sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6547619047619049
+      }
+    },
+    {
+      "question": "Is the ranking evaluation a subjective or objective assessment?",
+      "context": "the overall tone and language used",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "What is the purpose of the reference translation provided?",
+      "context": "the introductory sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who garnered attention after the referee was mentioned?",
+      "context": "the reference translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7864583333333334
+      }
+    },
+    {
+      "question": "Is the ranking evaluation a subjective or objective assessment?",
+      "context": "the overall tone and language used",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "What is the correct order of the candidates A and B in the ranking evaluation?",
+      "context": "the last sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6025641025641026
+      }
+    },
+    {
+      "question": "What does 'H' represent in this context?",
+      "context": "the last sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6547619047619049
+      }
+    }
+  ]
+}

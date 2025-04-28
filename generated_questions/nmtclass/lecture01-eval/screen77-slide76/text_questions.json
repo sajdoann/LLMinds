@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the outcome when the author applied a similar tokenization to their reference and MT output?",
+      "context": "me a better improvement and then also I applied a similar tokenization to the reference and my MT output and that gave me plus 10 points",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "What is the main message about the impact of complicated methods on BLEU scores?",
+      "context": "So obviously this just highlights that I was very young and stupid and I didn't know that the tokenization absolutely has to match, but because I didn't know it I just learned the hard way in that experiment",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7915521978021978
+      }
+    },
+    {
+      "question": "What is the author's advice for comparing systems with other systems?",
+      "context": "And for this reason, it is absolutely critical that when you are comparing your system with other systems, that you get the outputs, and you look at the numbers, and you run the same processing pipeline on these outputs",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7243401759530792
+      }
+    },
+    {
+      "question": "What type of errors can be made when comparing BLEU scores from different sources?",
+      "context": "You cannot copy numbers from any paper because you don't know what type of tokenization they use and all that",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8453947368421053
+      }
+    },
+    {
+      "question": "Why is it important to run the same processing pipeline on comparison outputs?",
+      "context": "And for this reason, it is absolutely critical that when you are comparing your system with other systems, that you get the outputs, and you look at the numbers, and you run the same processing pipeline on these outputs",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7593052109181141
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the author's advice for comparing systems with other systems?",
+      "context": "And for this reason, it is absolutely critical that when you are comparing your system with other systems, that you get the outputs, and you look at the numbers, and you run the same processing pipeline on these outputs",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7243401759530792
+      }
+    },
+    {
+      "question": "What is the main message about the impact of complicated methods on BLEU scores?",
+      "context": "So obviously this just highlights that I was very young and stupid and I didn't know that the tokenization absolutely has to match, but because I didn't know it I just learned the hard way in that experiment",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7915521978021978
+      }
+    },
+    {
+      "question": "What was the outcome when the author applied a similar tokenization to their reference and MT output?",
+      "context": "me a better improvement and then also I applied a similar tokenization to the reference and my MT output and that gave me plus 10 points",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8522727272727273
+      }
+    }
+  ]
+}

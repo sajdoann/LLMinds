@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Is a decision tree mentioned in the document?",
+      "context": "So this is the decision tree",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7395833333333333
+      }
+    },
+    {
+      "question": "What is the purpose of mentioning the full version of the decision tree?",
+      "context": "Yeah, still the full version is kind of excessive.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7722222222222221
+      }
+    },
+    {
+      "question": "How does the author feel about the full version of the decision tree?",
+      "context": "Yeah",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What is implied by the phrase 'still the full version'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Is the decision tree considered important enough to be mentioned multiple times in the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the author feel about the full version of the decision tree?",
+      "context": "Yeah",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "Is the decision tree considered important enough to be mentioned multiple times in the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the purpose of mentioning the full version of the decision tree?",
+      "context": "Yeah, still the full version is kind of excessive.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7722222222222221
+      }
+    },
+    {
+      "question": "What is implied by the phrase 'still the full version'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    }
+  ]
+}

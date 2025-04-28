@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main difference between the direct assessment and the Suckerblatt score?",
+      "context": "The introduction of the document, where it mentions 'So this is what happens here'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.791958041958042
+      }
+    },
+    {
+      "question": "Why does the correlation in BLEU scores disappear when limiting to top four systems?",
+      "context": "The paragraph that talks about the correlation vanishing with top four systems",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7930194805194806
+      }
+    },
+    {
+      "question": "What is the main problem with comparing metrics across different sets of systems in each language or language pair?",
+      "context": "The sentence that mentions 'so we want to have some stable and general impression'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7341269841269842
+      }
+    },
+    {
+      "question": "What is the significance of identifying outliers in different areas when comparing metrics?",
+      "context": "The paragraph that discusses avoiding outliers",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6794871794871795
+      }
+    },
+    {
+      "question": "How does the correlation in BLEU scores being negatively correlated relate to the position of systems in a language pair?",
+      "context": "The sentence that mentions 'So this is something that we still have to work on. Like what is a fair way'",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7635233918128654
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main difference between the direct assessment and the Suckerblatt score?",
+      "context": "The introduction of the document, where it mentions 'So this is what happens here'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.791958041958042
+      }
+    },
+    {
+      "question": "Why does the correlation in BLEU scores disappear when limiting to top four systems?",
+      "context": "The paragraph that talks about the correlation vanishing with top four systems",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7930194805194806
+      }
+    },
+    {
+      "question": "What is the significance of identifying outliers in different areas when comparing metrics?",
+      "context": "The paragraph that discusses avoiding outliers",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6794871794871795
+      }
+    },
+    {
+      "question": "How does the correlation in BLEU scores being negatively correlated relate to the position of systems in a language pair?",
+      "context": "The sentence that mentions 'So this is something that we still have to work on. Like what is a fair way'",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7635233918128654
+      }
+    }
+  ]
+}

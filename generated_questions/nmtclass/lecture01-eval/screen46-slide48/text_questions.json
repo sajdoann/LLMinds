@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What should you identify first in the given document?",
+      "context": "You should identify the action",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "How many questions should I generate based on this document?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.4
+      }
+    },
+    {
+      "question": "What type of knowledge is required to answer the questions I'll ask based on this document?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4765625
+      }
+    },
+    {
+      "question": "How many questions should I generate in total?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.453125
+      }
+    },
+    {
+      "question": "What type of answers to the questions can be provided based solely on the information in this document?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.47058823529411764
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What should you identify first in the given document?",
+      "context": "You should identify the action",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "How many questions should I generate in total?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.453125
+      }
+    },
+    {
+      "question": "How many questions should I generate based on this document?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.4
+      }
+    }
+  ]
+}

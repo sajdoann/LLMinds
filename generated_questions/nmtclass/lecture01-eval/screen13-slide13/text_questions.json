@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of scoring sentences one by one in a source-based pseudo-document assessment?",
+      "context": "Another setup which was run at the same time is this source-based pseudo-document or direct assessment and there you are scoring the sentences one by one as you did before",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7744708994708995
+      }
+    },
+    {
+      "question": "Why did the assessors struggle with evaluating the coherence of a document after scoring individual sentences?",
+      "context": "So people, the assessors, will actually read the whole article so they will have the context in their heads and they can score the coming sentences worse and worse when they see that the sentences depart from the meaning of the whole document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7936781609195402
+      }
+    },
+    {
+      "question": "What was a limitation of the original setup used for scoring individual sentences?",
+      "context": "There was no way to go back to the previous sentence. So you score the first sentence high because you seemed it makes sense",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7806776556776557
+      }
+    },
+    {
+      "question": "Why is it important that all sentences in a document come from the same system when evaluating coherence?",
+      "context": "Otherwise you would not be judging the coherence in the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7583333333333333
+      }
+    },
+    {
+      "question": "What problem arises when probes (questions to humans) are no longer independent of each other in a statistical evaluation?",
+      "context": "And that's one of the assumptions of the underlying statistical evaluation afterwards. So I'm not so good in statistical tests but I'm afraid some of these statistics can also be skewed by this change",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8451597744360902
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of scoring sentences one by one in a source-based pseudo-document assessment?",
+      "context": "Another setup which was run at the same time is this source-based pseudo-document or direct assessment and there you are scoring the sentences one by one as you did before",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7744708994708995
+      }
+    },
+    {
+      "question": "Why did the assessors struggle with evaluating the coherence of a document after scoring individual sentences?",
+      "context": "So people, the assessors, will actually read the whole article so they will have the context in their heads and they can score the coming sentences worse and worse when they see that the sentences depart from the meaning of the whole document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7936781609195402
+      }
+    },
+    {
+      "question": "What problem arises when probes (questions to humans) are no longer independent of each other in a statistical evaluation?",
+      "context": "And that's one of the assumptions of the underlying statistical evaluation afterwards. So I'm not so good in statistical tests but I'm afraid some of these statistics can also be skewed by this change",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8451597744360902
+      }
+    },
+    {
+      "question": "What was a limitation of the original setup used for scoring individual sentences?",
+      "context": "There was no way to go back to the previous sentence. So you score the first sentence high because you seemed it makes sense",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7806776556776557
+      }
+    }
+  ]
+}

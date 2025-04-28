@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Did you reverse the order of punctuation marks?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.63125
+      }
+    },
+    {
+      "question": "What were the specific punctuation marks that were reversed?",
+      "context": "I reversed the order of full stop and quote mark",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "Who performed these tricks?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What was the purpose of reversing the punctuation marks?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "Why did you reverse the order of punctuation marks?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8055555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who performed these tricks?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What were the specific punctuation marks that were reversed?",
+      "context": "I reversed the order of full stop and quote mark",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "What was the purpose of reversing the punctuation marks?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "Why did you reverse the order of punctuation marks?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8055555555555556
+      }
+    }
+  ]
+}

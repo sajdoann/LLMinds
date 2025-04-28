@@ -21,12 +21,12 @@ class Config:
             "llm": {
                 "provider": "ollama", # huggingface, ollama or gpt4o
                 "api_key": os.environ.get("AZURE_GPT35_KEY", ""), #OPENAI_API_KEY
-                "model_path": "deepseek-r1:1.5b",
+                "model_path": "llama3.2:latest",
                 "temperature": 0.7,
                 "max_tokens": 2000
             },
             "question_generation": {
-                "default_num_questions": 1,  # Let LLM decide by default
+                "default_num_questions":5,  # Let LLM decide by default
                 "prompt_template": "default"  # Use default prompt template
             },
             "evaluation": {

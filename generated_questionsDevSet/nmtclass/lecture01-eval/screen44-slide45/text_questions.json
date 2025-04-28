@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who garnered some attention according to the reference translation?",
+      "context": "The reference translation says the referee Wolfgang Stark",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9226190476190477
+      }
+    },
+    {
+      "question": "What was the outcome of ranking candidate A and B in the ranking evaluation?",
+      "context": "If you were to rank A and B in the ranking evaluation, you would probably know where to put them",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6215277777777778
+      }
+    },
+    {
+      "question": "What is the purpose of the sentence 'H' in this context?",
+      "context": "Here, H is meant ...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "How would ranking candidate A and B help you determine their relative positions on a continuous scale?",
+      "context": "If you were to put these sentences on a continuous scale, that would not help you either",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8046875
+      }
+    },
+    {
+      "question": "What is the correct ordering of candidate A and B based on the ranking evaluation?",
+      "context": "So if you were to rank A and B in the ranking evaluation, you would probably know where to put them",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.650375939849624
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who garnered some attention according to the reference translation?",
+      "context": "The reference translation says the referee Wolfgang Stark",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9226190476190477
+      }
+    },
+    {
+      "question": "How would ranking candidate A and B help you determine their relative positions on a continuous scale?",
+      "context": "If you were to put these sentences on a continuous scale, that would not help you either",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8046875
+      }
+    },
+    {
+      "question": "What was the outcome of ranking candidate A and B in the ranking evaluation?",
+      "context": "If you were to rank A and B in the ranking evaluation, you would probably know where to put them",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6215277777777778
+      }
+    },
+    {
+      "question": "What is the correct ordering of candidate A and B based on the ranking evaluation?",
+      "context": "So if you were to rank A and B in the ranking evaluation, you would probably know where to put them",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.650375939849624
+      }
+    }
+  ]
+}

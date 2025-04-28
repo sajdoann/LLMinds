@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the typical range for a human translation score against humans, and what percentage is commonly used?",
+      "context": "The human translation, humans against humans, is usually around 60 percent",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8231534090909091
+      }
+    },
+    {
+      "question": "Why is it suggested to use four different translations as a reference in the original paper, but the standard in competitions uses only one?",
+      "context": "I've said that the original paper expects people to use four different translations as the reference, but the standard in all these competitions is to have just one",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6470588235294118,
+        "diversity_score": 0.7411363636363637
+      }
+    },
+    {
+      "question": "What is a potential drawback of using only one reference for BLEU score calculations?",
+      "context": "So I've said that the original paper expects people to use four different translations as the reference, but the standard in all these competitions is to have just one",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.665521978021978
+      }
+    },
+    {
+      "question": "Why does using more than one reference improve the reliability of BLEU score calculations?",
+      "context": "So why it is a bad idea to use just one reference. Well that's just the balance between the price you are willing to pay for the creation of the test set and a reasonable performance in terms of correlation with humans",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8053571428571429
+      }
+    },
+    {
+      "question": "How did researchers determine that four translations were sufficient, but one translation was not enough?",
+      "context": "Well that means that one is not really enough. And everybody uses one",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.825
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the typical range for a human translation score against humans, and what percentage is commonly used?",
+      "context": "The human translation, humans against humans, is usually around 60 percent",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8231534090909091
+      }
+    },
+    {
+      "question": "Why is it suggested to use four different translations as a reference in the original paper, but the standard in competitions uses only one?",
+      "context": "I've said that the original paper expects people to use four different translations as the reference, but the standard in all these competitions is to have just one",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6470588235294118,
+        "diversity_score": 0.7411363636363637
+      }
+    },
+    {
+      "question": "What is a potential drawback of using only one reference for BLEU score calculations?",
+      "context": "So I've said that the original paper expects people to use four different translations as the reference, but the standard in all these competitions is to have just one",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.665521978021978
+      }
+    },
+    {
+      "question": "How did researchers determine that four translations were sufficient, but one translation was not enough?",
+      "context": "Well that means that one is not really enough. And everybody uses one",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.825
+      }
+    }
+  ]
+}

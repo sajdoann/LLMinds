@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who took part in two screens?",
+      "context": "So, A took part in two screens",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8869047619047619
+      }
+    },
+    {
+      "question": "What score did system E get out of one screen?",
+      "context": "E is the only system which gets one out of one",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "Why is the evaluation considered unreliable?",
+      "context": "Obviously this is too small evaluation, so this is an unreliable number",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9541666666666666
+      }
+    },
+    {
+      "question": "Which system was better than any other system in one case?",
+      "context": "So, A got one out of two possible points, B got zero of two points and so on",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8708333333333333
+      }
+    },
+    {
+      "question": "What can be inferred about the performance of system E in the overall evaluation?",
+      "context": "So, better than any other system judged",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8695054945054945
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who took part in two screens?",
+      "context": "So, A took part in two screens",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8869047619047619
+      }
+    },
+    {
+      "question": "Why is the evaluation considered unreliable?",
+      "context": "Obviously this is too small evaluation, so this is an unreliable number",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9541666666666666
+      }
+    },
+    {
+      "question": "What can be inferred about the performance of system E in the overall evaluation?",
+      "context": "So, better than any other system judged",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8695054945054945
+      }
+    }
+  ]
+}

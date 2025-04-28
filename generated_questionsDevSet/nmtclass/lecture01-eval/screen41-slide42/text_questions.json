@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the 'best systems' being referred to?",
+      "context": "Put it to these best systems, these superhuman systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Who or what are these 'superhuman systems'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the 'best systems' being referred to?",
+      "context": "Put it to these best systems, these superhuman systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Who or what are these 'superhuman systems'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    }
+  ]
+}

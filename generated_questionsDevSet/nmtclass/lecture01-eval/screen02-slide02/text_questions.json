@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main focus of the course outline?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.684375
+      }
+    },
+    {
+      "question": "How do current machine translation systems differ from their predecessors?",
+      "context": "The phrase 'all machine translation systems are statistical in some sense'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8590909090909091
+      }
+    },
+    {
+      "question": "What is the significance of neural machine translation in the field of machine translation?",
+      "context": "The sentence describing how neural machine translation has changed the field",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7397727272727272
+      }
+    },
+    {
+      "question": "Why can performing well in machine translation be seen as 'mocked', 'simulated', or 'faked'?",
+      "context": "The sentence discussing how human translations can be easily replicated by clever copy-pasting and adjusting texts",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.9006696428571429
+      }
+    },
+    {
+      "question": "What is the main emphasis of the last lecture towards the end of the semester?",
+      "context": "The phrase 'how much the systems actually internally kind of understand'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8102272727272728
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main focus of the course outline?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.684375
+      }
+    },
+    {
+      "question": "Why can performing well in machine translation be seen as 'mocked', 'simulated', or 'faked'?",
+      "context": "The sentence discussing how human translations can be easily replicated by clever copy-pasting and adjusting texts",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.9006696428571429
+      }
+    },
+    {
+      "question": "How do current machine translation systems differ from their predecessors?",
+      "context": "The phrase 'all machine translation systems are statistical in some sense'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8590909090909091
+      }
+    }
+  ]
+}

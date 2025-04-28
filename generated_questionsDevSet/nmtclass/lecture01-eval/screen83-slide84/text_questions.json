@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What metrics are used for direct assessment in the Suckerblatt score?",
+      "context": "The direct assessment and the Suckerblatt score",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6988636363636364
+      }
+    },
+    {
+      "question": "Why does the correlation between language pair scores seem to vanish when limiting to top four systems?",
+      "context": "The seemingly high correlation in particle language pair was caused by outliers and this correlation vanishes when limited to top four systems",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7950148809523809
+      }
+    },
+    {
+      "question": "What is the concern with comparing metrics across different sets of systems in each language or language pair?",
+      "context": "The set of systems is different in each language, language pairs, and there are outliers in different areas",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7357536764705882
+      }
+    },
+    {
+      "question": "What happens to the BLEU score when considering only the top four systems?",
+      "context": "The correlation vanishes when limiting to top four systems and BLEU score correlates negatively",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7247023809523809
+      }
+    },
+    {
+      "question": "How can a fair way of comparing metrics be achieved given the different underlying sets of systems in each language or language pair?",
+      "context": "The picture suggests that there will be many counterexamples and a stable general impression is desired but challenging to achieve",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05,
+        "diversity_score": 0.8178571428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What metrics are used for direct assessment in the Suckerblatt score?",
+      "context": "The direct assessment and the Suckerblatt score",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6988636363636364
+      }
+    },
+    {
+      "question": "Why does the correlation between language pair scores seem to vanish when limiting to top four systems?",
+      "context": "The seemingly high correlation in particle language pair was caused by outliers and this correlation vanishes when limited to top four systems",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7950148809523809
+      }
+    },
+    {
+      "question": "What happens to the BLEU score when considering only the top four systems?",
+      "context": "The correlation vanishes when limiting to top four systems and BLEU score correlates negatively",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7247023809523809
+      }
+    },
+    {
+      "question": "What is the concern with comparing metrics across different sets of systems in each language or language pair?",
+      "context": "The set of systems is different in each language, language pairs, and there are outliers in different areas",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7357536764705882
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two types of automatic evaluation methods used in machine translation?",
+      "context": "Automatic evaluation will compare machine translation outputs to some reference translation and there is also another type of automatic evaluation which doesn't require the reference.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7972027972027972
+      }
+    },
+    {
+      "question": "What are the benefits of using automatic evaluation compared to human evaluation?",
+      "context": "The main benefit is that it is fast and cheap. So you translate the test sets once by humans, and then you can repeatedly do it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7973484848484849
+      }
+    },
+    {
+      "question": "How does automatic evaluation relate to reinforcement learning?",
+      "context": "These days, we would do some reinforcement learning on the final scores.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8385416666666667
+      }
+    },
+    {
+      "question": "Why is automatic evaluation often better for checking progress than comparing systems of different types?",
+      "context": "And it is usually very bad for comparing systems of different types.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What is the issue with BLEU that has already been mentioned in the text?",
+      "context": "I've already mentioned the problems of BLEU and we're going to discuss them in more",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8673076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the issue with BLEU that has already been mentioned in the text?",
+      "context": "I've already mentioned the problems of BLEU and we're going to discuss them in more",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8673076923076923
+      }
+    },
+    {
+      "question": "How does automatic evaluation relate to reinforcement learning?",
+      "context": "These days, we would do some reinforcement learning on the final scores.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8385416666666667
+      }
+    },
+    {
+      "question": "What are the benefits of using automatic evaluation compared to human evaluation?",
+      "context": "The main benefit is that it is fast and cheap. So you translate the test sets once by humans, and then you can repeatedly do it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7973484848484849
+      }
+    }
+  ]
+}

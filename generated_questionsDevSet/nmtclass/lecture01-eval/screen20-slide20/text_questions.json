@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main message about evaluation methods in different fields?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48863636363636365
+      }
+    },
+    {
+      "question": "What are 'screens of annotations' or 'blocks' in the context of MT system evaluation?",
+      "context": "The main message",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6346153846153846
+      }
+    },
+    {
+      "question": "How do you get the winner of the MT system if you have certain scores?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5576923076923077
+      }
+    },
+    {
+      "question": "What does 'whatever field you are working in' imply about evaluation methods?",
+      "context": "The main message",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What is the underlying idea behind establishing an evaluation method in a specific field?",
+      "context": "The introduction",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5267857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do you get the winner of the MT system if you have certain scores?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5576923076923077
+      }
+    },
+    {
+      "question": "What does 'whatever field you are working in' imply about evaluation methods?",
+      "context": "The main message",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What are 'screens of annotations' or 'blocks' in the context of MT system evaluation?",
+      "context": "The main message",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6346153846153846
+      }
+    }
+  ]
+}

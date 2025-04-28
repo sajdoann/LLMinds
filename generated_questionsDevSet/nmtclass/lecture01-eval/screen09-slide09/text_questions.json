@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using direct assessment for fluency?",
+      "context": "So if two systems score around the same value in adequacy, then the fluency would help one of these systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6282894736842105
+      }
+    },
+    {
+      "question": "How does the direct assessment for fluency differ from the other version?",
+      "context": "And there is also a version of direct assessment used for fluency, but it is used less frequently and it was only used to break ties.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8160173160173161
+      }
+    },
+    {
+      "question": "What happens when two systems score around the same value in adequacy?",
+      "context": "So if two systems score around the same value in adequacy, then the fluency would help one of these systems.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7428728070175439
+      }
+    },
+    {
+      "question": "How is direct assessment for fluency used in conjunction with other assessment methods?",
+      "context": "But if we use it as a complement, then it works",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the importance of considering the meaning when evaluating fluency?",
+      "context": "So this is something which if we would rely only on this, then we would totally lose the meaning and systems which would produce fluent sentences would win.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7771739130434783
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the direct assessment for fluency differ from the other version?",
+      "context": "And there is also a version of direct assessment used for fluency, but it is used less frequently and it was only used to break ties.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8160173160173161
+      }
+    },
+    {
+      "question": "What happens when two systems score around the same value in adequacy?",
+      "context": "So if two systems score around the same value in adequacy, then the fluency would help one of these systems.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7428728070175439
+      }
+    },
+    {
+      "question": "What is the importance of considering the meaning when evaluating fluency?",
+      "context": "So this is something which if we would rely only on this, then we would totally lose the meaning and systems which would produce fluent sentences would win.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7771739130434783
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of test is proposed to check whether the translation is saying the same thing as the source?",
+      "context": "In this blind editing, you first show only the output and you ask humans to correct it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8984375
+      }
+    },
+    {
+      "question": "What happens if a human guesses that a sentence is fluent?",
+      "context": "If it's fluent, perfect. There is no change needed. We can just ship it.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9071428571428571
+      }
+    },
+    {
+      "question": "How do humans deal with sentences that contain errors in the MT output?",
+      "context": "We make a guess, fix the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8695054945054945
+      }
+    },
+    {
+      "question": "What is the goal of running this type of test for MT output?",
+      "context": "Like does this sentence say what it should say?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8715277777777778
+      }
+    },
+    {
+      "question": "Who participates in fixing sentences that require correction?",
+      "context": "And then a second person comes",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of test is proposed to check whether the translation is saying the same thing as the source?",
+      "context": "In this blind editing, you first show only the output and you ask humans to correct it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8984375
+      }
+    },
+    {
+      "question": "What happens if a human guesses that a sentence is fluent?",
+      "context": "If it's fluent, perfect. There is no change needed. We can just ship it.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9071428571428571
+      }
+    },
+    {
+      "question": "Who participates in fixing sentences that require correction?",
+      "context": "And then a second person comes",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "How do humans deal with sentences that contain errors in the MT output?",
+      "context": "We make a guess, fix the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8695054945054945
+      }
+    }
+  ]
+}

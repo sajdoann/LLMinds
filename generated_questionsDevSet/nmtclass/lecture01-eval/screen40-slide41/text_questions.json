@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of translation has been used for the sub-lease agreement?",
+      "context": "we've used these superhuman machine translation systems to translate agreements.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do Czech residents who live outside of Prague typically receive their sub-lease agreements?",
+      "context": "And then if you are Czech living somewhere else, you may get the agreement in English and you want to machine translate it into Czech so that you understand better.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7246428571428571
+      }
+    },
+    {
+      "question": "What is the typical format of a sub-lease agreement that Czech residents will receive?",
+      "context": "One side will be in Czech, you don't understand it at all. The other side will be in English, some vague, some maybe bad English, but it will indicate what is the agreement about.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7732142857142857
+      }
+    },
+    {
+      "question": "Why would someone want to machine translate a sub-lease agreement from English to Czech?",
+      "context": "And then if you are Czech living somewhere else, you may get the agreement in English and you want to machine translate it into Czech so that you understand better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7376923076923076
+      }
+    },
+    {
+      "question": "What is the purpose of the sub-lease agreement mentioned in the document?",
+      "context": "So, well, let's not read this as a whole, but it's some sublease agreement that some person, Marta Boreshova and Karolina Cherna, they are entering this and... Yeah, so there's a lot of details.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7725806451612903
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of translation has been used for the sub-lease agreement?",
+      "context": "we've used these superhuman machine translation systems to translate agreements.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is the typical format of a sub-lease agreement that Czech residents will receive?",
+      "context": "One side will be in Czech, you don't understand it at all. The other side will be in English, some vague, some maybe bad English, but it will indicate what is the agreement about.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7732142857142857
+      }
+    },
+    {
+      "question": "Why would someone want to machine translate a sub-lease agreement from English to Czech?",
+      "context": "And then if you are Czech living somewhere else, you may get the agreement in English and you want to machine translate it into Czech so that you understand better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7376923076923076
+      }
+    }
+  ]
+}

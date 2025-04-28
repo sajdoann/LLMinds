@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the main purpose of conducting tests with the PC translator on different test sets?",
+      "context": "PC translator was in domain. Yes, so this is mainly to illustrate the observation on two different test sets.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.5421052631578948
+      }
+    },
+    {
+      "question": "How does the label of a test set being 'in domain' or 'out of domain' affect the interpretation of the results?",
+      "context": "Yes, so this is just... Yes, so the label whether the test set is in domain or out of domain applies only to the train systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.6234375
+      }
+    },
+    {
+      "question": "Why was it important to run the PC translator on both in-domain and out-of-domain test sets?",
+      "context": "Yes, so this is just... Yes, so the label whether the test set is in domain or out of domain applies only to the train systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.5765625
+      }
+    },
+    {
+      "question": "How does the fact that PC translator was run on specific systems affect our understanding of its performance?",
+      "context": "So it applies only to the MOSES system and our tech-to-md system and PC translator was simply ran on those, so we don't know if it was in domain for PC translator or not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.712962962962963
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between a test set's domain status and its performance with PC translator?",
+      "context": "PC translator was in domain. Yes, so this is mainly to illustrate the observation on two different test sets.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.618421052631579
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the main purpose of conducting tests with the PC translator on different test sets?",
+      "context": "PC translator was in domain. Yes, so this is mainly to illustrate the observation on two different test sets.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.5421052631578948
+      }
+    },
+    {
+      "question": "How does the label of a test set being 'in domain' or 'out of domain' affect the interpretation of the results?",
+      "context": "Yes, so this is just... Yes, so the label whether the test set is in domain or out of domain applies only to the train systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.6234375
+      }
+    },
+    {
+      "question": "Why was it important to run the PC translator on both in-domain and out-of-domain test sets?",
+      "context": "Yes, so this is just... Yes, so the label whether the test set is in domain or out of domain applies only to the train systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.5765625
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between a test set's domain status and its performance with PC translator?",
+      "context": "PC translator was in domain. Yes, so this is mainly to illustrate the observation on two different test sets.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.618421052631579
+      }
+    }
+  ]
+}

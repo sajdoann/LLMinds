@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many pairwise comparisons did A take part in?",
+      "context": "A took part in six pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "In how many of the comparisons was A the better option?",
+      "context": "And in three of them it was the better one",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8374999999999999
+      }
+    },
+    {
+      "question": "What can be inferred about the results of the pairwise comparisons?",
+      "context": "",
+      "difficulty": "inferential",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "Did A perform better than average in the pairwise comparisons?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What can be concluded about the overall outcome of the pairwise comparisons?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many pairwise comparisons did A take part in?",
+      "context": "A took part in six pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "In how many of the comparisons was A the better option?",
+      "context": "And in three of them it was the better one",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8374999999999999
+      }
+    },
+    {
+      "question": "What can be concluded about the overall outcome of the pairwise comparisons?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ]
+}

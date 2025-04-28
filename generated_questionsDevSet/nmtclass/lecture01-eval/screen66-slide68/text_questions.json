@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Is manual evaluation expensive in terms of money?",
+      "context": "So we are summarizing, finally we are summarizing manual evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "How can results from manual evaluation differ between judges and the same person?",
+      "context": "Different judges can be more picky and more fussy about grammar and so on. It is obviously the results will differ across judges, but the results will also differ for a single person.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8682336182336182
+      }
+    },
+    {
+      "question": "Why is it not reproducible to have multiple annotators evaluate the same sentence?",
+      "context": "It is not reproducible. That's the hardest problem of manual evaluation because as soon as an annotator has read a sentence they will remember it even if you give it to them in a week they will still be biased by that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8736645299145299
+      }
+    },
+    {
+      "question": "What is the primary goal of source-based evaluation?",
+      "context": "And then the source-based evaluation allows to compare with humans, so there we can check whether in the evaluated aspect we are on par with humans or not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.82125
+      }
+    },
+    {
+      "question": "Why is sentence-level evaluation no longer relevant for certain language pairs?",
+      "context": "And the sentence level is going to happened on for languages where we have sufficient resources and good enough systems because, well, that was the 2018 result, beating humans at the level of sentences, but not",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8615056818181819
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is manual evaluation expensive in terms of money?",
+      "context": "So we are summarizing, finally we are summarizing manual evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "How can results from manual evaluation differ between judges and the same person?",
+      "context": "Different judges can be more picky and more fussy about grammar and so on. It is obviously the results will differ across judges, but the results will also differ for a single person.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8682336182336182
+      }
+    },
+    {
+      "question": "What is the primary goal of source-based evaluation?",
+      "context": "And then the source-based evaluation allows to compare with humans, so there we can check whether in the evaluated aspect we are on par with humans or not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.82125
+      }
+    }
+  ]
+}

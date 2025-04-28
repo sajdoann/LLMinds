@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of evaluation is this?",
+      "context": "This variant relies on semantic trees for the source language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What benefit does this Hume style evaluation provide?",
+      "context": "The benefit of this Hume style evaluation is that the semantic trees are something which can be like automatically created by some parser.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8465909090909091
+      }
+    },
+    {
+      "question": "What is the main difference between this variant and reference-based evaluations?",
+      "context": "It's not reference based.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "Can this evaluation be performed on non-grammatical output?",
+      "context": "you are relying on good grammatical sentences and not non-grammatical output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8650568181818181
+      }
+    },
+    {
+      "question": "Does the evaluation include reference translation?",
+      "context": "because you do not need it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Does the evaluation include reference translation?",
+      "context": "because you do not need it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Can this evaluation be performed on non-grammatical output?",
+      "context": "you are relying on good grammatical sentences and not non-grammatical output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8650568181818181
+      }
+    },
+    {
+      "question": "What benefit does this Hume style evaluation provide?",
+      "context": "The benefit of this Hume style evaluation is that the semantic trees are something which can be like automatically created by some parser.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8465909090909091
+      }
+    },
+    {
+      "question": "What is the main difference between this variant and reference-based evaluations?",
+      "context": "It's not reference based.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8693181818181819
+      }
+    }
+  ]
+}

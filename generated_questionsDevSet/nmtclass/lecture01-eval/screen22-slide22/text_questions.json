@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who was the worst system in the assessment?",
+      "context": "So here the system A was the worst one, actually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "Which systems were on par with each other?",
+      "context": "B and C were again on par",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.984375
+      }
+    },
+    {
+      "question": "What was the best system in the assessment?",
+      "context": "E was the best one.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7357142857142858
+      }
+    },
+    {
+      "question": "How many people were assessed in the study?",
+      "context": "So now if you have these assessments, you have asked many people",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.840625
+      }
+    },
+    {
+      "question": "What was the method used to collect data in the assessment?",
+      "context": "you have collected many of such screens",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8089285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who was the worst system in the assessment?",
+      "context": "So here the system A was the worst one, actually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "Which systems were on par with each other?",
+      "context": "B and C were again on par",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.984375
+      }
+    },
+    {
+      "question": "How many people were assessed in the study?",
+      "context": "So now if you have these assessments, you have asked many people",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.840625
+      }
+    }
+  ]
+}

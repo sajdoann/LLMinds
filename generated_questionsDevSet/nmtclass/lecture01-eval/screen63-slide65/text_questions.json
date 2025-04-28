@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the problem with the English sentence 'perhaps there are better times ahead'?",
+      "context": "The result that we have done in our simple evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8423076923076923
+      }
+    },
+    {
+      "question": "Why should the word 'perhaps' not be used in Czech language?",
+      "context": "The sentence was perhaps there are better times ahead and the problem is with this English there",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7643939393939394
+      }
+    },
+    {
+      "question": "What is incorrect about the translation of some systems in terms of word conjugation or declination?",
+      "context": "And there is another problem with the form. Some of the systems fail to produce the correct conjugation or declination forms of the words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "What time scale does 'ahead' have in Czech language?",
+      "context": "So in Czech we have a slight distinction whether ahead is in terms of time or in terms of space and that was like wrongly chosen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "Why was the label 'times' mistranslated?",
+      "context": "And this times is mistranslated. It is mistranslated as multiplication in one of the cases.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7827380952380952
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the problem with the English sentence 'perhaps there are better times ahead'?",
+      "context": "The result that we have done in our simple evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8423076923076923
+      }
+    },
+    {
+      "question": "What time scale does 'ahead' have in Czech language?",
+      "context": "So in Czech we have a slight distinction whether ahead is in terms of time or in terms of space and that was like wrongly chosen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "Why should the word 'perhaps' not be used in Czech language?",
+      "context": "The sentence was perhaps there are better times ahead and the problem is with this English there",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7643939393939394
+      }
+    },
+    {
+      "question": "Why was the label 'times' mistranslated?",
+      "context": "And this times is mistranslated. It is mistranslated as multiplication in one of the cases.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7827380952380952
+      }
+    }
+  ]
+}

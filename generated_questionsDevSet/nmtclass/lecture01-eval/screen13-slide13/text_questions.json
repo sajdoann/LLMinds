@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the alternative setup for scoring sentences, where assessors read the whole article to maintain context?",
+      "context": "Another setup which was run at the same time",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "Why can't assessors go back and change previous sentence scores in this alternative setup?",
+      "context": "But the way it was done, it was again like a very quick hack.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9300595238095238
+      }
+    },
+    {
+      "question": "What is a consequence of using sentences from different systems when evaluating document coherence?",
+      "context": "Otherwise you would not be judging the coherence in the document.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8714285714285714
+      }
+    },
+    {
+      "question": "How might statistical evaluation be affected by probes that are no longer independent of each other?",
+      "context": "And that's one of the assumptions of the underlying statistical evaluation afterwards.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9296875
+      }
+    },
+    {
+      "question": "What is a problem with the current setup, according to the author?",
+      "context": "So I'm not so good in statistical tests but I'm afraid some of these statistics can also be skewed by this change.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8829545454545454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a problem with the current setup, according to the author?",
+      "context": "So I'm not so good in statistical tests but I'm afraid some of these statistics can also be skewed by this change.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8829545454545454
+      }
+    },
+    {
+      "question": "Why can't assessors go back and change previous sentence scores in this alternative setup?",
+      "context": "But the way it was done, it was again like a very quick hack.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9300595238095238
+      }
+    },
+    {
+      "question": "How might statistical evaluation be affected by probes that are no longer independent of each other?",
+      "context": "And that's one of the assumptions of the underlying statistical evaluation afterwards.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9296875
+      }
+    },
+    {
+      "question": "What is a consequence of using sentences from different systems when evaluating document coherence?",
+      "context": "Otherwise you would not be judging the coherence in the document.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8714285714285714
+      }
+    }
+  ]
+}

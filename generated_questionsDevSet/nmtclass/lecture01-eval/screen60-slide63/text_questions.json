@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of labeling errors according to the instructions?",
+      "context": "the flowcharts. So there is an order of preference for labeling the errors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6041666666666667
+      }
+    },
+    {
+      "question": "How should the labeling process be referred to in the instructions?",
+      "context": "So instead of you are labeling the errors you are",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.575
+      }
+    },
+    {
+      "question": "What is the implication of referring to the labeling process by a different phrase?",
+      "context": "So instead of you are labeling the errors you are",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5961538461538461
+      }
+    },
+    {
+      "question": "Can the instructions be taken literally or do they contain any ambiguity?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9479166666666666
+      }
+    },
+    {
+      "question": "How does the instruction to 'So instead of you are' contribute to a better understanding of the labeling process?",
+      "context": "the flowcharts. So there is an order of preference for labeling the errors.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.6822916666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can the instructions be taken literally or do they contain any ambiguity?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9479166666666666
+      }
+    },
+    {
+      "question": "How does the instruction to 'So instead of you are' contribute to a better understanding of the labeling process?",
+      "context": "the flowcharts. So there is an order of preference for labeling the errors.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.6822916666666667
+      }
+    },
+    {
+      "question": "How should the labeling process be referred to in the instructions?",
+      "context": "So instead of you are labeling the errors you are",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.575
+      }
+    },
+    {
+      "question": "What is the implication of referring to the labeling process by a different phrase?",
+      "context": "So instead of you are labeling the errors you are",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5961538461538461
+      }
+    }
+  ]
+}

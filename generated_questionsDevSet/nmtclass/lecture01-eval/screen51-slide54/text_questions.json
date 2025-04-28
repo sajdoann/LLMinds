@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'and then' indicate in the context of document alignment?",
+      "context": "and then you align these two",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7651515151515151
+      }
+    },
+    {
+      "question": "What is the effect of not being able to align certain information, such as events or participants?",
+      "context": "because you cannot align them, or they got somehow distorted in the meaning",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7720588235294118
+      }
+    },
+    {
+      "question": "What problem can occur when there are distortions in the meaning of certain information during document alignment?",
+      "context": "or they got somehow distorted in the meaning",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.6957720588235294
+      }
+    },
+    {
+      "question": "How does 'obviously' relate to the discussion of document alignment and its effects?",
+      "context": "So, obviously,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    },
+    {
+      "question": "What is implied about the nature of document alignment based on the information provided?",
+      "context": "the event or some of the participants got lost",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7427884615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does 'obviously' relate to the discussion of document alignment and its effects?",
+      "context": "So, obviously,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    },
+    {
+      "question": "What is the effect of not being able to align certain information, such as events or participants?",
+      "context": "because you cannot align them, or they got somehow distorted in the meaning",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7720588235294118
+      }
+    },
+    {
+      "question": "What is implied about the nature of document alignment based on the information provided?",
+      "context": "the event or some of the participants got lost",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7427884615384616
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What scoring system is being discussed?",
+      "context": "The GCSE style of evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9041666666666667
+      }
+    },
+    {
+      "question": "How did the auditors assess machine translated audit reports?",
+      "context": "They gave scores similar to what students are tested on when they write their essays for GCSE",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8637152777777778
+      }
+    },
+    {
+      "question": "In which category were human translations better than machine translations in the evaluation?",
+      "context": "The one category where humans were significantly better",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8536931818181819
+      }
+    },
+    {
+      "question": "What did the scores indicate about the performance of the best systems?",
+      "context": "They were always like statistically impossible to distinguish from the reference translation except for one category",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "How did the results of different questions vary in the evaluation?",
+      "context": "Different results gave you different answers",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What scoring system is being discussed?",
+      "context": "The GCSE style of evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9041666666666667
+      }
+    },
+    {
+      "question": "How did the auditors assess machine translated audit reports?",
+      "context": "They gave scores similar to what students are tested on when they write their essays for GCSE",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8637152777777778
+      }
+    },
+    {
+      "question": "What did the scores indicate about the performance of the best systems?",
+      "context": "They were always like statistically impossible to distinguish from the reference translation except for one category",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "How did the results of different questions vary in the evaluation?",
+      "context": "Different results gave you different answers",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8625
+      }
+    }
+  ]
+}

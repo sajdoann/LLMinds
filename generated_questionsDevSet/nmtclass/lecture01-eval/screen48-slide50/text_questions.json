@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Where was the action described in the document performed?",
+      "context": "stood and somewhere",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Why was a reference made for the action in the document?",
+      "context": "when you did the same for the reference",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6642857142857143
+      }
+    },
+    {
+      "question": "What is being compared or related to the action described in the document?",
+      "context": "the same",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What is being implied about the speaker's actions by making a reference?",
+      "context": "when you did the same for the reference",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of standing somewhere and making a reference, as described in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where was the action described in the document performed?",
+      "context": "stood and somewhere",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is being implied about the speaker's actions by making a reference?",
+      "context": "when you did the same for the reference",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "Why was a reference made for the action in the document?",
+      "context": "when you did the same for the reference",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6642857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of standing somewhere and making a reference, as described in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    }
+  ]
+}

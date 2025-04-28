@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the standard metric used in the field for automatic evaluation of machine translation?",
+      "context": "The text mentions that there were years and still running competitions, and how people like to know which metric matches better with human assessments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7992753623188406
+      }
+    },
+    {
+      "question": "How does the BLEU metric work for calculating scores?",
+      "context": "The text explains that BLEU simply checks the number of n-grams confirmed by the reference and awards points accordingly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7361111111111112
+      }
+    },
+    {
+      "question": "What is the difference between the phrase-based translation system (Moses) and the rule-based system (PC Translator)?",
+      "context": "The text compares the two systems in terms of their performance on individual words, bigrams, trigrams, and four-grams.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7624434389140271
+      }
+    },
+    {
+      "question": "Why did the phrase-based system (Moses) perform better than the rule-based system (PC Translator)?",
+      "context": "The text mentions that Moses produced many long sequences in line with the reference and got higher BLEU scores.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the effect of using weights in the geometric mean for calculating BLEU scores?",
+      "context": "The text discusses how weights can be used to consider the importance of longer sentences versus shorter ones.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7778361344537815
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the standard metric used in the field for automatic evaluation of machine translation?",
+      "context": "The text mentions that there were years and still running competitions, and how people like to know which metric matches better with human assessments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7992753623188406
+      }
+    },
+    {
+      "question": "What is the difference between the phrase-based translation system (Moses) and the rule-based system (PC Translator)?",
+      "context": "The text compares the two systems in terms of their performance on individual words, bigrams, trigrams, and four-grams.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7624434389140271
+      }
+    },
+    {
+      "question": "How does the BLEU metric work for calculating scores?",
+      "context": "The text explains that BLEU simply checks the number of n-grams confirmed by the reference and awards points accordingly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7361111111111112
+      }
+    },
+    {
+      "question": "What is the effect of using weights in the geometric mean for calculating BLEU scores?",
+      "context": "The text discusses how weights can be used to consider the importance of longer sentences versus shorter ones.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7778361344537815
+      }
+    },
+    {
+      "question": "Why did the phrase-based system (Moses) perform better than the rule-based system (PC Translator)?",
+      "context": "The text mentions that Moses produced many long sequences in line with the reference and got higher BLEU scores.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    }
+  ]
+}

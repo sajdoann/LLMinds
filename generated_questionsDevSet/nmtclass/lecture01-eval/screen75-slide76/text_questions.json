@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the result of the author's first experiment with BLEU cores?",
+      "context": "I was working on translation from Czech to English and I was doing some clever stuff with like corpus expansion using dependency trees and all that. And that gave me just plus 0.3 BLEU core.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.716642228739003
+      }
+    },
+    {
+      "question": "What problem did the author try to fix in their experiment?",
+      "context": "...I don't know if I...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7636363636363637
+      }
+    },
+    {
+      "question": "How did the author's experiment with BLEU cores relate to corpus expansion using dependency trees?",
+      "context": "I was doing some clever stuff with like corpus expansion using dependency trees and all that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7276041666666666
+      }
+    },
+    {
+      "question": "What was the impact of fixing clear BLEU problems on the author's experiment?",
+      "context": "...so like, I don't know if I...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7291666666666666
+      }
+    },
+    {
+      "question": "What translation task did the author initially work on?",
+      "context": "Yeah, so here is something like my first experiment with BLEU cores many years ago. I was working on translation from Czech to English.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the result of the author's first experiment with BLEU cores?",
+      "context": "I was working on translation from Czech to English and I was doing some clever stuff with like corpus expansion using dependency trees and all that. And that gave me just plus 0.3 BLEU core.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.716642228739003
+      }
+    },
+    {
+      "question": "What problem did the author try to fix in their experiment?",
+      "context": "...I don't know if I...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7636363636363637
+      }
+    },
+    {
+      "question": "What was the impact of fixing clear BLEU problems on the author's experiment?",
+      "context": "...so like, I don't know if I...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7291666666666666
+      }
+    },
+    {
+      "question": "How did the author's experiment with BLEU cores relate to corpus expansion using dependency trees?",
+      "context": "I was doing some clever stuff with like corpus expansion using dependency trees and all that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7276041666666666
+      }
+    }
+  ]
+}

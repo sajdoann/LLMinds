@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Was the evaluation of the system ever conducted on a large scale?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.34090909090909083
+      }
+    },
+    {
+      "question": "Why wasn't the evaluation of the system conducted on a large scale?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "What was the implication of not testing the system on a large scale?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "Was the evaluation of the system ever tested in any way?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.42500000000000004
+      }
+    },
+    {
+      "question": "What is the general statement about running evaluations of this system?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5227272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was the evaluation of the system ever tested in any way?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.42500000000000004
+      }
+    },
+    {
+      "question": "What is the general statement about running evaluations of this system?",
+      "context": "It is always complicated to run these evaluations, so it was not run on large scale and never tested in",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5227272727272727
+      }
+    },
+    {
+      "question": "What was the implication of not testing the system on a large scale?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333334
+      }
+    }
+  ]
+}

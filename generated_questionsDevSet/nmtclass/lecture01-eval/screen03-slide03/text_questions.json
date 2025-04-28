@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two main types of machine translation evaluation methods?",
+      "context": "And then we'll go over well maybe two high number of evaluation methods",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7473776223776224
+      }
+    },
+    {
+      "question": "What is required for manual evaluation methods?",
+      "context": "manual evaluation methods where you need humans annotators or assessors",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8553571428571429
+      }
+    },
+    {
+      "question": "What are the two types of automatic evaluation methods mentioned in the document?",
+      "context": "And these algorithms somehow estimate the quality of the MT output",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7895833333333333
+      }
+    },
+    {
+      "question": "Are there any limitations or considerations for evaluating machine translation systems, as hinted at by the speaker?",
+      "context": "if I have the time at the end I'll also briefly mention empirical confidence bounds on these scores",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8897058823529411
+      }
+    },
+    {
+      "question": "Should individual components of a machine translation system be evaluated separately from evaluating the system as a whole?",
+      "context": "And whether you should evaluate the system end-to-end",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8359375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two types of automatic evaluation methods mentioned in the document?",
+      "context": "And these algorithms somehow estimate the quality of the MT output",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7895833333333333
+      }
+    },
+    {
+      "question": "What is required for manual evaluation methods?",
+      "context": "manual evaluation methods where you need humans annotators or assessors",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8553571428571429
+      }
+    },
+    {
+      "question": "Are there any limitations or considerations for evaluating machine translation systems, as hinted at by the speaker?",
+      "context": "if I have the time at the end I'll also briefly mention empirical confidence bounds on these scores",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8897058823529411
+      }
+    }
+  ]
+}

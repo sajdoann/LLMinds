@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does HMENT evaluate?",
+      "context": "So one evaluation was called HMENT and it was checking whether the basic even structure was understandable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6604166666666667
+      }
+    },
+    {
+      "question": "What is the purpose of the previous evaluation?",
+      "context": "So the previous evaluation was only score the system, tell me which system is better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "What is being evaluated in this document?",
+      "context": "arise. Yeah, now we are entering the part where we are trying to understand what was wrong in the MT output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7628968253968254
+      }
+    },
+    {
+      "question": "How does the evaluation of HMENT differ from previous evaluations?",
+      "context": "Now we would like to learn more what is what is the output like.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is being highlighted in this document?",
+      "context": "So one evaluation was called HMENT and it was checking whether the basic even structure was understandable. And I will only highlight it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6955357142857144
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being highlighted in this document?",
+      "context": "So one evaluation was called HMENT and it was checking whether the basic even structure was understandable. And I will only highlight it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6955357142857144
+      }
+    },
+    {
+      "question": "How does the evaluation of HMENT differ from previous evaluations?",
+      "context": "Now we would like to learn more what is what is the output like.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is the purpose of the previous evaluation?",
+      "context": "So the previous evaluation was only score the system, tell me which system is better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "What is being evaluated in this document?",
+      "context": "arise. Yeah, now we are entering the part where we are trying to understand what was wrong in the MT output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7628968253968254
+      }
+    }
+  ]
+}

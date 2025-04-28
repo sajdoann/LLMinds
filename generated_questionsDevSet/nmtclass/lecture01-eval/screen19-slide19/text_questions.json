@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How do you rank sentences when they have different levels of badness at different places?",
+      "context": "The introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8482142857142857
+      }
+    },
+    {
+      "question": "What approach did researchers take to evaluate the whole document, given that direct comparison between two documents is not possible?",
+      "context": "The same sentence in a different context",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8723214285714286
+      }
+    },
+    {
+      "question": "Why were sentences deemed too long for comparison?",
+      "context": "A subordinate clause",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9010416666666666
+      }
+    },
+    {
+      "question": "How did the approach of relative ranking of just a part of a sentence compare to evaluating the whole sentence?",
+      "context": "The conclusion paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8046875
+      }
+    },
+    {
+      "question": "What simplification did annotators receive by assessing only highlighted phrases in the given document?",
+      "context": "A transitional phrase",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8630952380952381
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why were sentences deemed too long for comparison?",
+      "context": "A subordinate clause",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9010416666666666
+      }
+    },
+    {
+      "question": "What approach did researchers take to evaluate the whole document, given that direct comparison between two documents is not possible?",
+      "context": "The same sentence in a different context",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8723214285714286
+      }
+    },
+    {
+      "question": "What simplification did annotators receive by assessing only highlighted phrases in the given document?",
+      "context": "A transitional phrase",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8630952380952381
+      }
+    }
+  ]
+}

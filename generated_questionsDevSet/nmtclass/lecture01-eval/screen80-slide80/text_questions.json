@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What units can be used instead of exact word forms for evaluating a fundamental problem?",
+      "context": "So to fix this fundamental problem we can evaluate coarser units, so not exact word forms, but lemmas or deep-lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8223684210526316
+      }
+    },
+    {
+      "question": "What is an alternative metric for calculating the similarity between machine translation outputs and human-generated texts?",
+      "context": "That's something which is equally simple to the BLEU score calculation and it should be popular because it is simpler and correlates better with humans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8338068181818181
+      }
+    },
+    {
+      "question": "What can be used instead of longer sequences for evaluating machine translation outputs?",
+      "context": "We can focus on characters instead of words, so that's chrF3 or chrF3.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "How does using references created from MT outputs affect the evaluation of machine translation outputs?",
+      "context": "If you use more references alone that helps, but it is costly. If you use references which are created from the MT outputs, then you will indeed have a mismatch only when there was an error that the post editor had to fix.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "What type of references serve better for evaluating machine translation outputs?",
+      "context": "So these other metrics are a bit more complicated and there is a number of, a large number of other metrics. And another option is that you could use better references.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7027272727272728
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What units can be used instead of exact word forms for evaluating a fundamental problem?",
+      "context": "So to fix this fundamental problem we can evaluate coarser units, so not exact word forms, but lemmas or deep-lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8223684210526316
+      }
+    },
+    {
+      "question": "What is an alternative metric for calculating the similarity between machine translation outputs and human-generated texts?",
+      "context": "That's something which is equally simple to the BLEU score calculation and it should be popular because it is simpler and correlates better with humans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8338068181818181
+      }
+    },
+    {
+      "question": "How does using references created from MT outputs affect the evaluation of machine translation outputs?",
+      "context": "If you use more references alone that helps, but it is costly. If you use references which are created from the MT outputs, then you will indeed have a mismatch only when there was an error that the post editor had to fix.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "What type of references serve better for evaluating machine translation outputs?",
+      "context": "So these other metrics are a bit more complicated and there is a number of, a large number of other metrics. And another option is that you could use better references.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7027272727272728
+      }
+    }
+  ]
+}

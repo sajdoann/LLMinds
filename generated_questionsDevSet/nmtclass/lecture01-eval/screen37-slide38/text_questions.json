@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of texts were used for the quiz-like questions?",
+      "context": "We found them so that the text will be hopefully written by native speakers, and then we machine translated them into Czech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What was done to ensure the accuracy of the quiz-like questions?",
+      "context": "We equipped each of these texts with three questions and these questions were already in check",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7571428571428571
+      }
+    },
+    {
+      "question": "Where did the texts come from?",
+      "context": "We prepared English texts from different areas such as when do you meet and where do we go, then directions, how do you get to a monument, some basic quizzes from various areas",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What was the goal of using machine translation systems in this context?",
+      "context": "We also the domain of the machine translation systems which is the news articles. So election chances and similar stuff.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8159722222222222
+      }
+    },
+    {
+      "question": "Why were native speakers' texts chosen for the quiz-like questions?",
+      "context": "We found them so that the text will be hopefully written by native speakers",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6892857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of texts were used for the quiz-like questions?",
+      "context": "We found them so that the text will be hopefully written by native speakers, and then we machine translated them into Czech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "Why were native speakers' texts chosen for the quiz-like questions?",
+      "context": "We found them so that the text will be hopefully written by native speakers",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6892857142857143
+      }
+    },
+    {
+      "question": "What was done to ensure the accuracy of the quiz-like questions?",
+      "context": "We equipped each of these texts with three questions and these questions were already in check",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7571428571428571
+      }
+    },
+    {
+      "question": "What was the goal of using machine translation systems in this context?",
+      "context": "We also the domain of the machine translation systems which is the news articles. So election chances and similar stuff.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8159722222222222
+      }
+    }
+  ]
+}

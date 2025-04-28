@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "How many competitions did B take part in?",
+      "context": "B took part in six competitions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "In how many competitions was B better?",
+      "context": "it was better in four of them",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.4464285714285714
+      }
+    },
+    {
+      "question": "How does the performance of B compare to its participation in all competitions?",
+      "context": "B took part in six competitions, and it was better in four of them",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5769230769230769
+      }
+    },
+    {
+      "question": "What can be inferred about the quality or ranking of B's performance in the less successful competitions?",
+      "context": "it was better in four of them",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5212053571428572
+      }
+    },
+    {
+      "question": "Can we determine if there is a correlation between the number of competitions and the quality of B's performance?",
+      "context": "B took part in six competitions, and it was better in four of them",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.626131221719457
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many competitions did B take part in?",
+      "context": "B took part in six competitions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "How does the performance of B compare to its participation in all competitions?",
+      "context": "B took part in six competitions, and it was better in four of them",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5769230769230769
+      }
+    },
+    {
+      "question": "Can we determine if there is a correlation between the number of competitions and the quality of B's performance?",
+      "context": "B took part in six competitions, and it was better in four of them",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.626131221719457
+      }
+    },
+    {
+      "question": "What can be inferred about the quality or ranking of B's performance in the less successful competitions?",
+      "context": "it was better in four of them",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5212053571428572
+      }
+    }
+  ]
+}

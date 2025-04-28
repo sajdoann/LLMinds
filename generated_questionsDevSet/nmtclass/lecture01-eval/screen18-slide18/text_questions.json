@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the primary task of the eye tracking study?",
+      "context": "They were doing these assessments under an eye tracker.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "How many colleagues participated in the eye tracking study?",
+      "context": "I had, I think, just eight colleagues.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What order did people follow when reading the candidates?",
+      "context": "They read the reference and then they read one by one the candidates and then they score it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8598484848484849
+      }
+    },
+    {
+      "question": "Would analyzing the data on pairwise comparisons be interesting?",
+      "context": "So this is an invitation for anyone to analyze the data.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8598484848484849
+      }
+    },
+    {
+      "question": "What potential benefit of pairwise comparisons compared to re-reading was mentioned in the document?",
+      "context": "It would be interesting to see whether people like focused on errors and whether the score correlates with the errors appearing there and so on.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8660714285714286
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the primary task of the eye tracking study?",
+      "context": "They were doing these assessments under an eye tracker.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "How many colleagues participated in the eye tracking study?",
+      "context": "I had, I think, just eight colleagues.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What potential benefit of pairwise comparisons compared to re-reading was mentioned in the document?",
+      "context": "It would be interesting to see whether people like focused on errors and whether the score correlates with the errors appearing there and so on.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "Would analyzing the data on pairwise comparisons be interesting?",
+      "context": "So this is an invitation for anyone to analyze the data.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8598484848484849
+      }
+    }
+  ]
+}

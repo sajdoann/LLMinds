@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one way to cheat the BLEU score metric?",
+      "context": "So what if we just produce the definite articles? So if we are translation into English, it's absolutely certain that there will be the definite article in the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7315217391304348
+      }
+    },
+    {
+      "question": "How does the BLEU score metric handle cases where an output has more n-grams than a reference?",
+      "context": "So the same strategy, this clipped count, is used obviously also for the higher n-grams.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.796218487394958
+      }
+    },
+    {
+      "question": "What is the purpose of the brevity penalty in the BLEU score metric?",
+      "context": "So, brevity penalty is precision based because it is checking whether all your words or your n-grams were confirmed by the reference.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6761363636363636
+      }
+    },
+    {
+      "question": "How does the brevity penalty affect the BLEU score when an output has fewer references than the original design?",
+      "context": "If the number of references is lower, then the BLEU scores are less reliable.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7420814479638009
+      }
+    },
+    {
+      "question": "What is the formula for calculating the brevity penalty in the BLEU score metric?",
+      "context": "The brevity penalty simply strikes a score, reduces the score if the output is too short compared to the reference.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6721813725490196
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one way to cheat the BLEU score metric?",
+      "context": "So what if we just produce the definite articles? So if we are translation into English, it's absolutely certain that there will be the definite article in the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7315217391304348
+      }
+    },
+    {
+      "question": "What is the purpose of the brevity penalty in the BLEU score metric?",
+      "context": "So, brevity penalty is precision based because it is checking whether all your words or your n-grams were confirmed by the reference.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6761363636363636
+      }
+    },
+    {
+      "question": "How does the BLEU score metric handle cases where an output has more n-grams than a reference?",
+      "context": "So the same strategy, this clipped count, is used obviously also for the higher n-grams.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.796218487394958
+      }
+    },
+    {
+      "question": "How does the brevity penalty affect the BLEU score when an output has fewer references than the original design?",
+      "context": "If the number of references is lower, then the BLEU scores are less reliable.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7420814479638009
+      }
+    }
+  ]
+}

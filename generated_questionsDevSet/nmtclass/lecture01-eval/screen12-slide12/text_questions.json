@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main issue with the current method of evaluating news articles?",
+      "context": "The introduction paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45833333333333337
+      }
+    },
+    {
+      "question": "How does the proposed new assessment method differ from the previous one?",
+      "context": "The first sentence of the second paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What is a potential consequence of using this new assessment method?",
+      "context": "The last sentence of the introduction paragraph",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5681818181818181
+      }
+    },
+    {
+      "question": "Why might the reliability of statistics be affected by this new assessment method?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4807692307692307
+      }
+    },
+    {
+      "question": "What is the main goal of the proposed new assessment method?",
+      "context": "The introduction paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.33333333333333337
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main issue with the current method of evaluating news articles?",
+      "context": "The introduction paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45833333333333337
+      }
+    },
+    {
+      "question": "How does the proposed new assessment method differ from the previous one?",
+      "context": "The first sentence of the second paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "Why might the reliability of statistics be affected by this new assessment method?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4807692307692307
+      }
+    },
+    {
+      "question": "What is a potential consequence of using this new assessment method?",
+      "context": "The last sentence of the introduction paragraph",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5681818181818181
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the document suggest should be done?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "How many questions are required to generate according to the guidelines?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why is external knowledge not allowed for answering the questions?",
+      "context": "3. Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9152777777777777
+      }
+    },
+    {
+      "question": "What type of questions are being asked based on the document?",
+      "context": "The document contains a list of question types (factual, inferential, analytical).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "How many different categories of questions are mentioned in the document?",
+      "context": "The document mentions three categories: factual, inferential, and analytical.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7941919191919192
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of questions are being asked based on the document?",
+      "context": "The document contains a list of question types (factual, inferential, analytical).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "Why is external knowledge not allowed for answering the questions?",
+      "context": "3. Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9152777777777777
+      }
+    },
+    {
+      "question": "How many different categories of questions are mentioned in the document?",
+      "context": "The document mentions three categories: factual, inferential, and analytical.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7941919191919192
+      }
+    }
+  ]
+}

@@ -10,11 +10,22 @@ from question_evaluator import QuestionEvaluator
 
 def find_txt_files(base_dir: str) -> List[str]:
     """Find all .txt files in the specified directory (recursively)."""
+    if not os.path.exists(base_dir):
+        print(f"Warning: Directory does not exist: {base_dir}")
+        return []
+        
     txt_files = []
-    for root, _, files in os.walk(base_dir):
+    # Print directories being searched for debugging
+    print(f"Searching for .txt files in: {base_dir}")
+    
+    for root, dirs, files in os.walk(base_dir):
+        print(f"Checking directory: {root}")
+        print(f"Found files: {len(files)}")
+        
         for file in files:
-            if file.endswith('.txt'):
+            if file.lower().endswith('.txt'):  # Case-insensitive matching
                 txt_files.append(os.path.join(root, file))
+                
     return txt_files
 
 
@@ -95,10 +106,10 @@ if __name__ == "__main__":
     config = Config()
     
     # Base directory for the devset
-    devset_dir = "/Users/hlava/Library/Mobile Documents/com~apple~CloudDocs/MFF/Mgr.2semestr/LLMinds/devset"
+    devset_dir = "/Users/hlava/Library/Mobile Documents/com~apple~CloudDocs/MFF/Mgr.2semestr/LLMinds/testset"
     
     # Directory to save the generated questions
-    output_dir = "/Users/hlava/Library/Mobile Documents/com~apple~CloudDocs/MFF/Mgr.2semestr/LLMinds/generated_questions"
+    output_dir = "/Users/hlava/Library/Mobile Documents/com~apple~CloudDocs/MFF/Mgr.2semestr/LLMinds/generated_questionsTestSet"
     
     failed_files = []
     txt_files = find_txt_files(devset_dir)

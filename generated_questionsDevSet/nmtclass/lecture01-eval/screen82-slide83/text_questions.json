@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the general correlation between automatic metrics and human judgment for English-to-German translation?",
+      "context": "The statement that 'the standard BLEU score correlates almost perfectly' (around 0.99)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6651785714285714
+      }
+    },
+    {
+      "question": "Why does the correlation between automatic metrics and human judgment vary when using different sets of systems?",
+      "context": "The explanation that 'the correlation depends on the underlying set of systems' (referring to 20 systems, top eight systems, and four systems)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7246323529411764
+      }
+    },
+    {
+      "question": "What is the behavior of a specific metric when using only the top eight systems?",
+      "context": "The statement that 'suddenly you are around zero' (implying no correlation) when reducing the set to top eight systems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6984126984126984
+      }
+    },
+    {
+      "question": "How does the BLEU score correlate with human rank when using only four systems and English-to-German translation?",
+      "context": "The statement that 'the BLEU correlates negatively' (implying a negative correlation) in this specific scenario",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7019607843137254
+      }
+    },
+    {
+      "question": "What is the behavior of another metric when used in the competition, aside from correlating well with human judgment?",
+      "context": "The statement that 'one of the metrics is very bad, like it's always under zero' (referring to a specific metric)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7496345029239766
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the general correlation between automatic metrics and human judgment for English-to-German translation?",
+      "context": "The statement that 'the standard BLEU score correlates almost perfectly' (around 0.99)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6651785714285714
+      }
+    },
+    {
+      "question": "What is the behavior of another metric when used in the competition, aside from correlating well with human judgment?",
+      "context": "The statement that 'one of the metrics is very bad, like it's always under zero' (referring to a specific metric)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7496345029239766
+      }
+    },
+    {
+      "question": "Why does the correlation between automatic metrics and human judgment vary when using different sets of systems?",
+      "context": "The explanation that 'the correlation depends on the underlying set of systems' (referring to 20 systems, top eight systems, and four systems)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7246323529411764
+      }
+    }
+  ]
+}

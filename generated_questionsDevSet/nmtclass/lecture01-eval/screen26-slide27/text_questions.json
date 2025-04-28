@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the source of the rankings that were different from what was in the papers?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Who answered the question about how to get the scores from the judgments?",
+      "context": "The person who answered the question",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8022727272727272
+      }
+    },
+    {
+      "question": "What was the initial ranking that was different from what was in the papers?",
+      "context": "Not provided directly, but implied as 'these numbers'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7375
+      }
+    },
+    {
+      "question": "How did the person respond to the question about getting the scores from the judgments?",
+      "context": "The response 'they said' without specifying what they said",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8368055555555556
+      }
+    },
+    {
+      "question": "What was implied as the reason for the difference in rankings?",
+      "context": "Not provided directly, but inferred from the context of the conversation",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How did the person respond to the question about getting the scores from the judgments?",
+      "context": "The response 'they said' without specifying what they said",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8368055555555556
+      }
+    },
+    {
+      "question": "Who answered the question about how to get the scores from the judgments?",
+      "context": "The person who answered the question",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8022727272727272
+      }
+    },
+    {
+      "question": "What was implied as the reason for the difference in rankings?",
+      "context": "Not provided directly, but inferred from the context of the conversation",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    }
+  ]
+}

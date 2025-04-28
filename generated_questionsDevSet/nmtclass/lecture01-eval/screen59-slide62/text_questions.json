@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the proposed categorization system?",
+      "context": "This is the full version of that. So actually the categories can be much more refined.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6791666666666667
+      }
+    },
+    {
+      "question": "Why do you think humans will get lost with this classification task?",
+      "context": "Everybody will get lost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is the outcome of creating a system that requires humans to label words with a fine hierarchy?",
+      "context": "If you have a very difficult classification task for humans, then what they did, that's a clever idea, they've actually created a",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8845588235294117
+      }
+    },
+    {
+      "question": "What type of task is being discussed in the document?",
+      "context": "This is the full version of that. So actually the categories can be much more refined.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7166666666666667
+      }
+    },
+    {
+      "question": "What is implied about the complexity of human classification tasks based on the author's statement?",
+      "context": "Everybody will get lost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7589285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of task is being discussed in the document?",
+      "context": "This is the full version of that. So actually the categories can be much more refined.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7166666666666667
+      }
+    },
+    {
+      "question": "Why do you think humans will get lost with this classification task?",
+      "context": "Everybody will get lost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is implied about the complexity of human classification tasks based on the author's statement?",
+      "context": "Everybody will get lost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7589285714285714
+      }
+    },
+    {
+      "question": "What is the outcome of creating a system that requires humans to label words with a fine hierarchy?",
+      "context": "If you have a very difficult classification task for humans, then what they did, that's a clever idea, they've actually created a",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8845588235294117
+      }
+    }
+  ]
+}

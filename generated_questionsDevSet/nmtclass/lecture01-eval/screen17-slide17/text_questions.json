@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the simplification used in WMT evaluation for 80 years?",
+      "context": "So what was in the past? And let's quickly discuss this because there was a period of 80 years of WMT evaluation where some other simplification was used and it's called the relative ranking.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.8001567398119123
+      }
+    },
+    {
+      "question": "How are five MT systems evaluated in relative ranking?",
+      "context": "You run by sentences and you are showing the source, the reference, and you are showing five outputs of MT systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7305555555555556
+      }
+    },
+    {
+      "question": "What is the limitation of using relative ranking in WMT evaluation?",
+      "context": "The benefit is that you are saving time, you are reading the source sentence only once and you are assessing five systems at a time. So that is some saving, but the limitation is that the context of the document is not considered and also the interpretation of",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7279829545454546
+      }
+    },
+    {
+      "question": "How would human output be incorporated into the relative ranking system?",
+      "context": "Possibly there could be human output as well, but you would have to pay twice for the test set translation because you would have to",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8198051948051948
+      }
+    },
+    {
+      "question": "What is the method of scoring used in relative ranking?",
+      "context": "You could run this also without showing the reference, but if you want to show the reference you need to create a separate human translation independently. So this is what you see and this is kind of people who are used to looking at this.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6944444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the simplification used in WMT evaluation for 80 years?",
+      "context": "So what was in the past? And let's quickly discuss this because there was a period of 80 years of WMT evaluation where some other simplification was used and it's called the relative ranking.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.8001567398119123
+      }
+    },
+    {
+      "question": "How would human output be incorporated into the relative ranking system?",
+      "context": "Possibly there could be human output as well, but you would have to pay twice for the test set translation because you would have to",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8198051948051948
+      }
+    },
+    {
+      "question": "How are five MT systems evaluated in relative ranking?",
+      "context": "You run by sentences and you are showing the source, the reference, and you are showing five outputs of MT systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7305555555555556
+      }
+    }
+  ]
+}

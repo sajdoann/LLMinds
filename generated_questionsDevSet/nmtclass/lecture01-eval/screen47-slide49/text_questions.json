@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who are the participants?",
+      "context": "Identify the participants",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is the purpose of identifying the participants?",
+      "context": "so someone",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6071428571428572
+      }
+    },
+    {
+      "question": "What type of information is being sought through the identification of participants?",
+      "context": "Identify the participants",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7386363636363636
+      }
+    },
+    {
+      "question": "Is there any specific context or purpose mentioned for identifying the participants in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    },
+    {
+      "question": "Can the question about the purpose of identifying the participants be answered based solely on the information provided?",
+      "context": "so someone",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who are the participants?",
+      "context": "Identify the participants",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Can the question about the purpose of identifying the participants be answered based solely on the information provided?",
+      "context": "so someone",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What type of information is being sought through the identification of participants?",
+      "context": "Identify the participants",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7386363636363636
+      }
+    },
+    {
+      "question": "Is there any specific context or purpose mentioned for identifying the participants in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    }
+  ]
+}

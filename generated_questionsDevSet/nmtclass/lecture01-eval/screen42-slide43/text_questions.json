@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of agreements does the system struggle with when it has three parties involved?",
+      "context": "This is again to highlight that depending on the setting, different results will",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6147435897435898
+      }
+    },
+    {
+      "question": "Why do superhuman systems produce unusable outputs for agreement when there are three parties involved?",
+      "context": "So this is again to highlight that depending on the setting, different results will",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6696428571428572
+      }
+    },
+    {
+      "question": "What word in Czech means 'tenant' and is used in both parties of a sublease agreement?",
+      "context": "So it says things like that the that the tenant as one side of the party and the tenant as the other side of the party, it uses the same Czech word",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8333333333333333
+      }
+    },
+    {
+      "question": "What is the effect of a sublease agreement on the parties involved?",
+      "context": "the choice of the words made these parties totally mixed. You don't know who is promising to do what to whom because it is a sublease agreement.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.6349431818181819
+      }
+    },
+    {
+      "question": "Why does the system struggle with translating agreements when there are three parties involved?",
+      "context": "So the choice of the words made these parties totally mixed. You don't know who is promising to do what to whom because it is a sublease agreement.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the effect of a sublease agreement on the parties involved?",
+      "context": "the choice of the words made these parties totally mixed. You don't know who is promising to do what to whom because it is a sublease agreement.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.6349431818181819
+      }
+    },
+    {
+      "question": "Why do superhuman systems produce unusable outputs for agreement when there are three parties involved?",
+      "context": "So this is again to highlight that depending on the setting, different results will",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6696428571428572
+      }
+    },
+    {
+      "question": "What word in Czech means 'tenant' and is used in both parties of a sublease agreement?",
+      "context": "So it says things like that the that the tenant as one side of the party and the tenant as the other side of the party, it uses the same Czech word",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8333333333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of fiddling with reference translations?",
+      "context": "I'm going to skip these dirty tricks. If you have... well, you can somehow fiddle with the way you use the reference translations",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.46597222222222223
+      }
+    },
+    {
+      "question": "What is the effect of fiddling with reference translations on scores?",
+      "context": "If you have... well, you can somehow fiddle with the way you use the reference translations, and you will arrive at a higher scores because of this fiddling trick",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6277272727272727
+      }
+    },
+    {
+      "question": "What does fiddling with reference translations change?",
+      "context": "It doesn't do anything. It doesn't change any consequence, and you don't get any new implication by this trick on the .... On the previous slide",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What is meant by 'dirty tricks' in the context of reference translations?",
+      "context": "I'm going to skip these dirty tricks.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5729166666666666
+      }
+    },
+    {
+      "question": "What can be inferred about the tone of the document from the mention of 'dirty tricks'?",
+      "context": "I'm going to skip these dirty tricks. If you have... well, you can somehow fiddle with the way you use the reference translations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6379807692307693
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the effect of fiddling with reference translations on scores?",
+      "context": "If you have... well, you can somehow fiddle with the way you use the reference translations, and you will arrive at a higher scores because of this fiddling trick",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6277272727272727
+      }
+    },
+    {
+      "question": "What does fiddling with reference translations change?",
+      "context": "It doesn't do anything. It doesn't change any consequence, and you don't get any new implication by this trick on the .... On the previous slide",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What can be inferred about the tone of the document from the mention of 'dirty tricks'?",
+      "context": "I'm going to skip these dirty tricks. If you have... well, you can somehow fiddle with the way you use the reference translations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6379807692307693
+      }
+    }
+  ]
+}

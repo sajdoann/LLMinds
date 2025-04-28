@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the result of comparing human translations with BLEU scores?",
+      "context": "The author shares an example from a 2007 experiment where they compared human translations with BLEU scores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7981283422459893
+      }
+    },
+    {
+      "question": "Why do BLEU scores differ between translation directions (Czech to English and English to Czech)?",
+      "context": "The author explains that the language difference is a major factor in the varying scores.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7884615384615384
+      }
+    },
+    {
+      "question": "What happens to BLEU scores when the number of references increases?",
+      "context": "The author discusses how more references lead to higher scores.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Why is it important to evaluate BLEU scores yourself and not just rely on numbers?",
+      "context": "The author emphasizes the importance of evaluating outputs and running evaluations oneself.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8090909090909091
+      }
+    },
+    {
+      "question": "What is the main message that the author wants to convey about BLEU scores?",
+      "context": "The author summarizes their key takeaway from the experiment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.734375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the result of comparing human translations with BLEU scores?",
+      "context": "The author shares an example from a 2007 experiment where they compared human translations with BLEU scores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7981283422459893
+      }
+    },
+    {
+      "question": "Why is it important to evaluate BLEU scores yourself and not just rely on numbers?",
+      "context": "The author emphasizes the importance of evaluating outputs and running evaluations oneself.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8090909090909091
+      }
+    },
+    {
+      "question": "Why do BLEU scores differ between translation directions (Czech to English and English to Czech)?",
+      "context": "The author explains that the language difference is a major factor in the varying scores.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7884615384615384
+      }
+    }
+  ]
+}

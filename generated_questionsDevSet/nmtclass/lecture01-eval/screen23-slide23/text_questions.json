@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the point of the competition?",
+      "context": "The introduction sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "Why are medals not given out at the competition?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6555555555555556
+      }
+    },
+    {
+      "question": "What is the main goal of the evaluation process?",
+      "context": "A general statement in the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6510416666666667
+      }
+    },
+    {
+      "question": "How do you interpret scores if there are many caveats to this evaluation?",
+      "context": "A specific sentence in the second paragraph of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.782051282051282
+      }
+    },
+    {
+      "question": "What is meant by 'mutual cross-fertilization' in the context of system development?",
+      "context": "The phrase 'mutual cross-fertilization' mentioned in the text",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7991071428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the point of the competition?",
+      "context": "The introduction sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "How do you interpret scores if there are many caveats to this evaluation?",
+      "context": "A specific sentence in the second paragraph of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.782051282051282
+      }
+    },
+    {
+      "question": "Why are medals not given out at the competition?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6555555555555556
+      }
+    },
+    {
+      "question": "What is the main goal of the evaluation process?",
+      "context": "A general statement in the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6510416666666667
+      }
+    }
+  ]
+}

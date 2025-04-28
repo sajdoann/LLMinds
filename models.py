@@ -21,7 +21,7 @@ class DeepSeekR1GGUF(AbstractModel):
     MODEL_ID: str = "bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF"
     GGUF_FILE: str = "DeepSeek-R1-Distill-Qwen-14B-Q4_K_L.gguf"
     max_new_tokens: int = 2048
-    system_prompt: str = "You are a teacher making questions for an exam."
+    system_prompt: str = "You are a teacher preparing for an exam."
 
     def llm_factory(self) -> Callable[[str, int], list[str]]:
         context_window = 1024 * 16
@@ -65,7 +65,7 @@ class DeepSeekR1GGUF(AbstractModel):
 @dataclass
 class LLAMAInstruct(AbstractModel):
     MODEL_ID: str = "meta-llama/Llama-3.2-3B-Instruct"
-    system_prompt: str = "You are a teacher making questions for an exam."
+    system_prompt: str = "You are a teacher preparing for an exam."
     max_new_tokens: int = 256
 
     def llm_factory(self) -> Callable[[str, int], list[str]]:
@@ -133,7 +133,6 @@ class LLAMADefault(AbstractModel):
                     eos_token_id=eos_tokens,
                     pad_token_id=gen_pipeline.tokenizer.eos_token_id,
                 )
-                print(outputs)
-                res.append(outputs[0]["generated_text"][-1]['content'])
+                res.append(outputs[0]["generated_text"][-1])
             return res
         return _llm

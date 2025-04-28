@@ -27,8 +27,8 @@ FOLDERS_TESTSET: list[tuple[str, str]] = [
 FOLDERS: list[tuple[str, str]] = FOLDERS_TESTSET
 
 INSTANCES: list[Instance] = [
-    llama32_3b_instruct,
     llama32_1b,
+    llama32_3b_instruct,
     deepseek_r1_gguf_14b_q4_k_l,
 ]
 

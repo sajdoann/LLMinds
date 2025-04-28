@@ -16,7 +16,6 @@ class Instance:
 llama32_3b_instruct = Instance(
     model=LLAMAInstruct(
         MODEL_ID="meta-llama/Llama-3.2-3B-Instruct",
-        system_prompt="You are a helpful assistant.",
         max_new_tokens=128,
     ),
     prompt_question_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
@@ -56,7 +55,6 @@ deepseek_r1_gguf_14b_q4_k_l = Instance(
         MODEL_ID="bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF",
         GGUF_FILE="DeepSeek-R1-Distill-Qwen-14B-Q4_K_L.gguf",
         max_new_tokens=2048,
-        system_prompt="You are a helpful assistant."
     ),
     prompt_question_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
     prompt_answer_generator=lambda docs, question, prompt: f"TEXT:\n{docs}\n\nQUESTION:\n{question}\n\n{prompt}",

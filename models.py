@@ -133,6 +133,7 @@ class LLAMADefault(AbstractModel):
                     eos_token_id=eos_tokens,
                     pad_token_id=gen_pipeline.tokenizer.eos_token_id,
                 )
+                print(outputs)
                 res.append(outputs[0]["generated_text"][-1]['content'])
             return res
         return _llm

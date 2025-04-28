@@ -1,0 +1,149 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary reason for day and night occurring on different days around the world?",
+      "context": "The Sun S describes the circle A A A on the 21st December once in 24 hours; hence in that period day and night occur to every part of the Earth, except within the Arctic circle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.830316091954023
+      }
+    },
+    {
+      "question": "What causes the difference in daylight hours between England and the polar regions?",
+      "context": "The arc 4 E is the advancing or morning twilight, and 6 E the receding or evening twilight; to every place underneath a line drawn across the circle through S to N it is noonday.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "Why does the duration of Summer and Winter vary differently between the Northern and Southern hemispheres?",
+      "context": "If the Earth is a globe, it is evident that Winter and Summer, and long and short days, will be of the same character and duration in corresponding latitudes, in the southern as in the northern hemisphere.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7388392857142857
+      }
+    },
+    {
+      "question": "What is the main difference in day length between New Zealand and England?",
+      "context": "The longest day in New Zealand is 1 hour and 36 minutes shorter than the longest day in England; and the shortest day in New Zealand is 1 hour and 17 minutes longer than the shortest day in England.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7307692307692307
+      }
+    },
+    {
+      "question": "How does the duration of Summer and Winter vary differently between New Zealand and England?",
+      "context": "Compared with an English summer, that of Auckland is but little warmer, though much longer; but the nights in New Zealand are always cool and refreshing.... The days are one hour shorter in the summer, and one hour longer in the winter than in England! of twilight there is little or none.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7425193050193051
+      }
+    },
+    {
+      "question": "How does the transition between Summer and Winter seasons appear to be in New Zealand?",
+      "context": "The summer mornings, even in the warmest parts of the colony are sufficiently fresh to exhilarate without chilling; and the seasons glide imperceptibly into each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7768115942028986
+      }
+    },
+    {
+      "question": "How does the Earth's shape affect the duration of twilight?",
+      "context": "The southern hemisphere cannot revolve more rapidly than the northern! The distance round a globe would be the same at 50° south as at 50° north, and as the whole globe would revolve once in 24 hours, the surface at the two places would move underneath the Sun with the same velocity, and the light would approach in the morning and recede in the evening in exactly the same manner; yet the very contrary is the fact! The twilight in England in summer is slow and gradual, but in New Zealand it is rapid and abrupt; a difference which is altogether incompatible with the doctrine of the Earth’s rotundity.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "Why does the author think the Earth's shape can be deduced from its shadow at night?",
+      "context": "the radius N W and its consequent circle round the same point. But as the larger circle, radius N W is passed over by the sunlight in the same time (24 hours) as the smaller circle, radius N E, the velocity is proportionately greater.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8347701149425287
+      }
+    },
+    {
+      "question": "What conclusion can be logically drawn from the author's argument about sunlight and Earth's shadow?",
+      "context": "it might be said with strictly logical accuracy, the Earth is a Plane, and cannot possibly be a Globe!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7754901960784314
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the transition between Summer and Winter seasons appear to be in New Zealand?",
+      "context": "The summer mornings, even in the warmest parts of the colony are sufficiently fresh to exhilarate without chilling; and the seasons glide imperceptibly into each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7768115942028986
+      }
+    },
+    {
+      "question": "Why does the author think the Earth's shape can be deduced from its shadow at night?",
+      "context": "the radius N W and its consequent circle round the same point. But as the larger circle, radius N W is passed over by the sunlight in the same time (24 hours) as the smaller circle, radius N E, the velocity is proportionately greater.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8347701149425287
+      }
+    },
+    {
+      "question": "What is the primary reason for day and night occurring on different days around the world?",
+      "context": "The Sun S describes the circle A A A on the 21st December once in 24 hours; hence in that period day and night occur to every part of the Earth, except within the Arctic circle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.830316091954023
+      }
+    },
+    {
+      "question": "What conclusion can be logically drawn from the author's argument about sunlight and Earth's shadow?",
+      "context": "it might be said with strictly logical accuracy, the Earth is a Plane, and cannot possibly be a Globe!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7754901960784314
+      }
+    }
+  ]
+}

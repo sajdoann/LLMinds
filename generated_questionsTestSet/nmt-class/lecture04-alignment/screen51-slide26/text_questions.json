@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What method is used to calculate the probabilities?",
+      "context": "You can easily extract the probabilities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7604166666666667
+      }
+    },
+    {
+      "question": "How do you count the occurrences of each observation?",
+      "context": "So observing the whole corpus, we will count how often the was observed and how often of these total observations of the LAW was at the other end of the alignment",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8630050505050505
+      }
+    },
+    {
+      "question": "What is calculated as a result of counting the occurrences?",
+      "context": "that will give us the conditional probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "How is the maximum likelihood estimate used in this context?",
+      "context": "So at the end you use simply maximum likelihood estimate for this award.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7951923076923076
+      }
+    },
+    {
+      "question": "What is the purpose of using maximum likelihood estimate?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is calculated as a result of counting the occurrences?",
+      "context": "that will give us the conditional probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "How do you count the occurrences of each observation?",
+      "context": "So observing the whole corpus, we will count how often the was observed and how often of these total observations of the LAW was at the other end of the alignment",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8630050505050505
+      }
+    },
+    {
+      "question": "How is the maximum likelihood estimate used in this context?",
+      "context": "So at the end you use simply maximum likelihood estimate for this award.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7951923076923076
+      }
+    }
+  ]
+}

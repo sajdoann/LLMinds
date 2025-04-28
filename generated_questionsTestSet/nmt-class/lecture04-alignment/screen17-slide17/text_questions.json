@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of extending a collection of words or phrases with professional translations?",
+      "context": "The last sentence of the passage about extending your collection",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7876984126984127
+      }
+    },
+    {
+      "question": "How does extending a collection with professional translations affect sentence quality?",
+      "context": "A general statement about language translation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "What is the main idea of the passage about language translation?",
+      "context": "The introduction to the document about language translation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6660714285714285
+      }
+    },
+    {
+      "question": "How does professional translation affect language learning?",
+      "context": "A general statement about language translation and its applications",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6388888888888888
+      }
+    },
+    {
+      "question": "What is the role of a collection in language translation?",
+      "context": "A general statement about language translation and collections",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.546875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of extending a collection of words or phrases with professional translations?",
+      "context": "The last sentence of the passage about extending your collection",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7876984126984127
+      }
+    },
+    {
+      "question": "How does professional translation affect language learning?",
+      "context": "A general statement about language translation and its applications",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6388888888888888
+      }
+    },
+    {
+      "question": "How does extending a collection with professional translations affect sentence quality?",
+      "context": "A general statement about language translation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "What is the main idea of the passage about language translation?",
+      "context": "The introduction to the document about language translation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6660714285714285
+      }
+    }
+  ]
+}

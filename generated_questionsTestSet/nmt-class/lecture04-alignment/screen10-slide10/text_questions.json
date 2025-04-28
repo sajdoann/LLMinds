@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the total data that was available in 2008?",
+      "context": "So now let's talk about the effect that the training data has on translation quality. So this is the total data that we had in 2008.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7732142857142857
+      }
+    },
+    {
+      "question": "What types of data were labeled with copyright text?",
+      "context": "We have discussed this in-domain and professional translation. So that is the legal text that we had and the stories. Then there is some out-of-domain professional translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8243055555555556
+      }
+    },
+    {
+      "question": "Why is the data from community supplied sources considered unclear?",
+      "context": "And then we have this unclear status of the data. It's community supplied but it's not labeled.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7734375
+      }
+    },
+    {
+      "question": "What is the legal status of subtitles created from movies?",
+      "context": "All these subtitles stand in like shaky legal position. But everybody uses these subtitles. Everybody relies on them.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8234375
+      }
+    },
+    {
+      "question": "Why is it recommended to use subtitles for research and non-commercial purposes in the Czech Republic?",
+      "context": "So in the Czech Republic for the research and non-commercial purposes it's actually good to go.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8463541666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is the data from community supplied sources considered unclear?",
+      "context": "And then we have this unclear status of the data. It's community supplied but it's not labeled.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7734375
+      }
+    },
+    {
+      "question": "What types of data were labeled with copyright text?",
+      "context": "We have discussed this in-domain and professional translation. So that is the legal text that we had and the stories. Then there is some out-of-domain professional translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8243055555555556
+      }
+    },
+    {
+      "question": "Why is it recommended to use subtitles for research and non-commercial purposes in the Czech Republic?",
+      "context": "So in the Czech Republic for the research and non-commercial purposes it's actually good to go.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8463541666666666
+      }
+    }
+  ]
+}

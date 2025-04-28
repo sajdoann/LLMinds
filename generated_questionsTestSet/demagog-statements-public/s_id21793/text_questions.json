@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "Who was sentenced to three years in prison?",
+      "context": "Trest následně 24.&nbsp;března&nbsp;2022 <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.97375
+      }
+    },
+    {
+      "question": "How much money did the firm ESB have to pay as a penalty?",
+      "context": "Doplňme, že ačkoliv Miloš Zeman používá zkratku „ESG“, zjevně má na mysli právě společnost ESB. Firma ESB dostala peněžitý trest 5,4&nbsp;milionů korun",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9770979020979021
+      }
+    },
+    {
+      "question": "Kolik milionů korun má tendr na zajištění a odvodnění svahů vodní nádrže Klíčava?",
+      "context": "zky v hodnocí více než 200 milionů korun. Konkrétně jde o tendr na zajištění a odvodnění svahů vodní nádrže Klíčava v Lánské oboře.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9431818181818181
+      }
+    },
+    {
+      "question": "Kolik milionů korun měla být hodnota zakázky?",
+      "context": "Původně však мала být hodnota zakázky 230 milionů korun.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8849206349206349
+      }
+    },
+    {
+      "question": "Kdo je současným ředitelem Lesní správy Lán?",
+      "context": "šéf Lesní správy Lán je nyní obžalován",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9428571428571428
+      }
+    },
+    {
+      "question": "Proč Miloš Balák je obžalován?",
+      "context": "prodej kamene ze.sidla prezidenta a&nbsp;neoprávněné získání zakázky pro firmu ESB",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Kolik milionů korun má být zisk ESB z&nbsp;neoprávněného obtením zakázky?",
+      "context": "zisk ESB z&nbsp;neoprávněného obdržení zakázky",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.87
+      }
+    },
+    {
+      "question": "Kdo je současným ředitelem Lesní správy Lán v roce 2017?",
+      "context": "<a href=\\",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.935
+      }
+    },
+    {
+      "question": "Je zřejmé, zda Miloš Balák direktně zvýhodnil společnost ESB?",
+      "context": "nedostupné informace",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9555555555555556
+      }
+    },
+    {
+      "question": "Kolik tisíc tun kamene bylo vytěženo bez patřičného povolení?",
+      "context": "bez&nbsp;patřičného povolení&nbsp;kamenolom, vytěžit celkem 40&nbsp;tisíc tun kamene",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9706349206349206
+      }
+    },
+    {
+      "question": "Kolik milionů korun má být Miloš Balák zvýhodit firmě ESB?",
+      "context": "zvýhodnění společnosti ESB",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.855
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Kolik tisíc tun kamene bylo vytěženo bez patřičného povolení?",
+      "context": "bez&nbsp;patřičného povolení&nbsp;kamenolom, vytěžit celkem 40&nbsp;tisíc tun kamene",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9706349206349206
+      }
+    },
+    {
+      "question": "Who was sentenced to three years in prison?",
+      "context": "Trest následně 24.&nbsp;března&nbsp;2022 <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.97375
+      }
+    },
+    {
+      "question": "Je zřejmé, zda Miloš Balák direktně zvýhodnil společnost ESB?",
+      "context": "nedostupné informace",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9555555555555556
+      }
+    },
+    {
+      "question": "Kolik milionů korun má být Miloš Balák zvýhodit firmě ESB?",
+      "context": "zvýhodnění společnosti ESB",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.855
+      }
+    }
+  ]
+}

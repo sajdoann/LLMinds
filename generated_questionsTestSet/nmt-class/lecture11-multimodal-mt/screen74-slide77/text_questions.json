@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary function of an image encoder in the context of image captioning?",
+      "context": "the images are processed with convolution networks to reduce down the dimensionality.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7774621212121212
+      }
+    },
+    {
+      "question": "How does the attention mechanism work in the image captioning task, as opposed to other tasks like source language translation?",
+      "context": "And you run the attention mechanism not over these one-dimensional sequences of input tokens, but you run it over the 2D parts of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.756578947368421
+      }
+    },
+    {
+      "question": "What is unique about the decoder used in image captioning compared to other NLP tasks?",
+      "context": "And you use the same decoder afterwards, so this image captioning task has no source language, it has only the image and it's producing the expected output of the description of that image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7528846153846154
+      }
+    },
+    {
+      "question": "How does the attention mechanism in image captioning attend to different parts of the image?",
+      "context": "And you attend to the various parts of the image as it's producing the output.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6586538461538461
+      }
+    },
+    {
+      "question": "What is implied about the process of image captioning, when considering its relationship with source language translation?",
+      "context": "And if you put these two...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7218137254901961
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary function of an image encoder in the context of image captioning?",
+      "context": "the images are processed with convolution networks to reduce down the dimensionality.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7774621212121212
+      }
+    },
+    {
+      "question": "How does the attention mechanism work in the image captioning task, as opposed to other tasks like source language translation?",
+      "context": "And you run the attention mechanism not over these one-dimensional sequences of input tokens, but you run it over the 2D parts of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.756578947368421
+      }
+    },
+    {
+      "question": "What is unique about the decoder used in image captioning compared to other NLP tasks?",
+      "context": "And you use the same decoder afterwards, so this image captioning task has no source language, it has only the image and it's producing the expected output of the description of that image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7528846153846154
+      }
+    },
+    {
+      "question": "How does the attention mechanism in image captioning attend to different parts of the image?",
+      "context": "And you attend to the various parts of the image as it's producing the output.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6586538461538461
+      }
+    }
+  ]
+}

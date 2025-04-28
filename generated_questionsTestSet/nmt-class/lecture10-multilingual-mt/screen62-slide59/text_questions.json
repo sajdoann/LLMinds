@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected performance of using a true parallel corpus compared to the explicit pivoting setup?",
+      "context": "If we use a true parallel corpus, then we get towards the performance of the explicit pivoting setup.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7421875
+      }
+    },
+    {
+      "question": "How does sampling with one million pairs affect the baseline models' performance?",
+      "context": "So we can reach the performance, but we need true parallel data. And unfortunately, if we have these single pair baseline models and we use one million",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8084239130434783
+      }
+    },
+    {
+      "question": "What is the outcome of trying to use separate encoders and decoders across the setup?",
+      "context": "Having separate encoders and separate decoders and trying to use new language pairs, test these encoders and decoders across the setup",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8482142857142857
+      }
+    },
+    {
+      "question": "How does the size of a true parallel corpus affect the performance of baseline models?",
+      "context": "But if the true parallel corpus was rather small, like 100,000 sentences, then the performance of the baseline would be worse than this.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7509157509157509
+      }
+    },
+    {
+      "question": "Would the trivial transfer learning previously discussed give a significant improvement in performance?",
+      "context": "I think that the trivial transfer learning that we discussed previously would give us equally big improvement.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8780048076923077
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Would the trivial transfer learning previously discussed give a significant improvement in performance?",
+      "context": "I think that the trivial transfer learning that we discussed previously would give us equally big improvement.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8780048076923077
+      }
+    },
+    {
+      "question": "How does sampling with one million pairs affect the baseline models' performance?",
+      "context": "So we can reach the performance, but we need true parallel data. And unfortunately, if we have these single pair baseline models and we use one million",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8084239130434783
+      }
+    },
+    {
+      "question": "What is the expected performance of using a true parallel corpus compared to the explicit pivoting setup?",
+      "context": "If we use a true parallel corpus, then we get towards the performance of the explicit pivoting setup.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7421875
+      }
+    }
+  ]
+}

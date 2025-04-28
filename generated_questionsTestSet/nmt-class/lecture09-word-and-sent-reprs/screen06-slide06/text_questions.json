@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the author mean by 'this sentence is actually ambiguous'?",
+      "context": "The last paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.46590909090909094
+      }
+    },
+    {
+      "question": "How many different situations can a single symbol or sentence refer to, according to the author?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5963541666666667
+      }
+    },
+    {
+      "question": "What is the 'thought or reference' that completes the triangle in the author's explanation?",
+      "context": "The last sentence of the first paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "In what situation is Danny holding the bag and approaching the chair, according to the author?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5505952380952381
+      }
+    },
+    {
+      "question": "What does the author mean by 'meaning representation of this particle symbol'?",
+      "context": "The last sentence of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6854166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the author mean by 'this sentence is actually ambiguous'?",
+      "context": "The last paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.46590909090909094
+      }
+    },
+    {
+      "question": "How many different situations can a single symbol or sentence refer to, according to the author?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5963541666666667
+      }
+    },
+    {
+      "question": "In what situation is Danny holding the bag and approaching the chair, according to the author?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5505952380952381
+      }
+    }
+  ]
+}

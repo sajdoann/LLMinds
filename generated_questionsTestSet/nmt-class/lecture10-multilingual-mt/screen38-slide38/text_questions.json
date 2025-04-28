@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the ideal setup for a flexible multilingual machine translation system?",
+      "context": "And the ideal setup would be this flexible multilingual machine translation system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Can you translate from multiple sources into different target languages at once?",
+      "context": "It would be one neural network where you would you could ask for many target languages at once and you could provide one or many of possible sources and it would",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7017045454545454
+      }
+    },
+    {
+      "question": "How does the system handle multiple targets languages?",
+      "context": "and you could ask for many target languages at once",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "What are some possible scenarios where you can use this system?",
+      "context": "and you could provide one or many of possible sources and it would translate from whatever set of inputs you have into whatever set of outputs you like.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7418831168831169
+      }
+    },
+    {
+      "question": "What is the nature of the neural network in this system?",
+      "context": "It would be one neural network where you would you could ask for many target languages at once and you could provide one or many of possible sources and it would",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6329545454545454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the ideal setup for a flexible multilingual machine translation system?",
+      "context": "And the ideal setup would be this flexible multilingual machine translation system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Can you translate from multiple sources into different target languages at once?",
+      "context": "It would be one neural network where you would you could ask for many target languages at once and you could provide one or many of possible sources and it would",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7017045454545454
+      }
+    },
+    {
+      "question": "What are some possible scenarios where you can use this system?",
+      "context": "and you could provide one or many of possible sources and it would translate from whatever set of inputs you have into whatever set of outputs you like.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7418831168831169
+      }
+    },
+    {
+      "question": "How does the system handle multiple targets languages?",
+      "context": "and you could ask for many target languages at once",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.640625
+      }
+    }
+  ]
+}

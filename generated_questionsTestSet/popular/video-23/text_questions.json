@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What kind of toys did children play with during this time?",
+      "context": "Wir haben zum Beispiel Holz sammeln gespielt. Wir hatten andere Sorgen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9193181818181818
+      }
+    },
+    {
+      "question": "Why were children considered in an advantage when playing Kohleklauen?",
+      "context": "Bloß auf Kinder wurde nicht geschossen. Und deswegen waren wir Kinder im Vorteil.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9541666666666666
+      }
+    },
+    {
+      "question": "What was a common material used to make toys during this time?",
+      "context": "Das hatte irgendein Vater oder ein Onkel oder jemand, der geschickt war. Ausgesägt mit der Laubsäge oder geschnitzt.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9208333333333334
+      }
+    },
+    {
+      "question": "When was the Rutschbahn/Abenteuerspielplatz built?",
+      "context": "Rutschbahn 1946. Abenteuerspielplatz 1946.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    },
+    {
+      "question": "Abenteuerspielplatz 1946.",
+      "context": "Das mit dem Spielzeug endete sich erst, als die Kinder in den amerikanischen Schulen Spielzeug für uns deutsche Kinder gesammelt haben.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9802631578947368
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When was the Rutschbahn/Abenteuerspielplatz built?",
+      "context": "Rutschbahn 1946. Abenteuerspielplatz 1946.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    },
+    {
+      "question": "Abenteuerspielplatz 1946.",
+      "context": "Das mit dem Spielzeug endete sich erst, als die Kinder in den amerikanischen Schulen Spielzeug für uns deutsche Kinder gesammelt haben.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9802631578947368
+      }
+    },
+    {
+      "question": "Why were children considered in an advantage when playing Kohleklauen?",
+      "context": "Bloß auf Kinder wurde nicht geschossen. Und deswegen waren wir Kinder im Vorteil.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9541666666666666
+      }
+    }
+  ]
+}

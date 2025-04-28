@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "When did the Prague linguistic circle start to formally formulate the theory of the textogrammatic layer?",
+      "context": "The mid-war era",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8184523809523809
+      }
+    },
+    {
+      "question": "What was the main goal of the three banking effort around the millennium?",
+      "context": "Culminating around 2001 or 2004 where we had many languages or many sentences in Czech and English even and in parallel annotation at this deep syntactic level.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8038537549407114
+      }
+    },
+    {
+      "question": "What was the purpose of creating tools to automate the process of getting deep syntactic trees from given input text?",
+      "context": "So there was all the necessary tools to automate that process.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.8617424242424243
+      }
+    },
+    {
+      "question": "How far back does the theory of the textogrammatic layer go in terms of linguistics?",
+      "context": "The textogrammatic layer is a long-standing theory. The theory goes back to the Panini grammar and thousands of years of linguistics.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8595085470085471
+      }
+    },
+    {
+      "question": "What was the significance of parallel annotation in the deep syntactic level?",
+      "context": "even and in parallel annotation at this deep syntactic level.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6920454545454545
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the purpose of creating tools to automate the process of getting deep syntactic trees from given input text?",
+      "context": "So there was all the necessary tools to automate that process.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.8617424242424243
+      }
+    },
+    {
+      "question": "What was the significance of parallel annotation in the deep syntactic level?",
+      "context": "even and in parallel annotation at this deep syntactic level.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6920454545454545
+      }
+    },
+    {
+      "question": "When did the Prague linguistic circle start to formally formulate the theory of the textogrammatic layer?",
+      "context": "The mid-war era",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8184523809523809
+      }
+    }
+  ]
+}

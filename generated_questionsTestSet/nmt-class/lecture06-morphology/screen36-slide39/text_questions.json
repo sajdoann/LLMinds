@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of testing a sentence in English-German or German-English?",
+      "context": "Also, when tested on English-German or German-English, it increases the BLEU score a little because the overall fluency of the sentence is better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6592261904761905
+      }
+    },
+    {
+      "question": "Why do you think human judgments would show a better increase than the BLEU score?",
+      "context": "I think that human judgments would be more happy, would show a better increase than the BLEU score, which is limited to 4 grams.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.7206521739130435
+      }
+    },
+    {
+      "question": "What is the primary factor limiting the BLEU score?",
+      "context": "So it is probably not so sensitive to improvements in this respect.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7372159090909091
+      }
+    },
+    {
+      "question": "How does testing a sentence in English-German or German-English affect the overall fluency of the sentence?",
+      "context": "Also, when tested on English-German or German-English, it increases the BLEU score a little because the overall fluency of the sentence is better.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7154761904761905
+      }
+    },
+    {
+      "question": "What can be inferred about human judgments compared to the BLEU score?",
+      "context": "I think that human judgments would be more happy, would show a better increase than the BLEU score, which is limited to 4 grams.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6956521739130435
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary factor limiting the BLEU score?",
+      "context": "So it is probably not so sensitive to improvements in this respect.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7372159090909091
+      }
+    },
+    {
+      "question": "Why do you think human judgments would show a better increase than the BLEU score?",
+      "context": "I think that human judgments would be more happy, would show a better increase than the BLEU score, which is limited to 4 grams.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.7206521739130435
+      }
+    },
+    {
+      "question": "How does testing a sentence in English-German or German-English affect the overall fluency of the sentence?",
+      "context": "Also, when tested on English-German or German-English, it increases the BLEU score a little because the overall fluency of the sentence is better.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7154761904761905
+      }
+    },
+    {
+      "question": "What can be inferred about human judgments compared to the BLEU score?",
+      "context": "I think that human judgments would be more happy, would show a better increase than the BLEU score, which is limited to 4 grams.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6956521739130435
+      }
+    }
+  ]
+}

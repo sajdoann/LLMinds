@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is an emerging technology that may be used for visual guidance during translation?",
+      "context": "I'm going to discuss, but what is still a very interesting emerging technology",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6998626373626373
+      }
+    },
+    {
+      "question": "How can visual guided translation aid in the processing of source text?",
+      "context": "if you have the speech and the speech is present in the video, or if you have just a sequence of images",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8046875
+      }
+    },
+    {
+      "question": "What can be provided in addition to speech during translation to enhance the process?",
+      "context": "a video which is related to the text that you are translating",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7796474358974359
+      }
+    },
+    {
+      "question": "What status is being attributed to the development of visual guided translation?",
+      "context": "They're only first attempts so far, and I'm not going to discuss them today",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7827380952380952
+      }
+    },
+    {
+      "question": "Is visual guided translation a new concept or an existing one?",
+      "context": "I'm going to discuss, but what is still a very interesting emerging technology",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6844405594405594
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be provided in addition to speech during translation to enhance the process?",
+      "context": "a video which is related to the text that you are translating",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7796474358974359
+      }
+    },
+    {
+      "question": "How can visual guided translation aid in the processing of source text?",
+      "context": "if you have the speech and the speech is present in the video, or if you have just a sequence of images",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8046875
+      }
+    },
+    {
+      "question": "Is visual guided translation a new concept or an existing one?",
+      "context": "I'm going to discuss, but what is still a very interesting emerging technology",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6844405594405594
+      }
+    },
+    {
+      "question": "What status is being attributed to the development of visual guided translation?",
+      "context": "They're only first attempts so far, and I'm not going to discuss them today",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7827380952380952
+      }
+    }
+  ]
+}

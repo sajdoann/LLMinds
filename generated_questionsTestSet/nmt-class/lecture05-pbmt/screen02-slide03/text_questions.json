@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the mathematical basis of phrase-based MT?",
+      "context": "We'll first start with just one slide summary of phrase-based MT.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8096590909090909
+      }
+    },
+    {
+      "question": "How do you obtain the features used in the log-linear model?",
+      "context": "And I'll have to remind you of the log-linear model, which is the mathematical basis or statistical basis of that system.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is the main focus of the decoding part of the lecture?",
+      "context": "And an important part of the lecture will be devoted to the so-called decoding, so translation with the model.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7655228758169934
+      }
+    },
+    {
+      "question": "How do you translate a given input sentence using the model?",
+      "context": "Once you have everything ready, once you have the translation tables, the automatically extracted translation dictionaries, how do you translate a given input sentence? And the last bit is devoted to something which is the actual training in the current or in the proper machine learning terms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8555194805194806
+      }
+    },
+    {
+      "question": "What type of training is involved in the current machine learning terms?",
+      "context": "And that's the the weight optimization, the minimum error rate training.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8020833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the mathematical basis of phrase-based MT?",
+      "context": "We'll first start with just one slide summary of phrase-based MT.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8096590909090909
+      }
+    },
+    {
+      "question": "How do you translate a given input sentence using the model?",
+      "context": "Once you have everything ready, once you have the translation tables, the automatically extracted translation dictionaries, how do you translate a given input sentence? And the last bit is devoted to something which is the actual training in the current or in the proper machine learning terms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8555194805194806
+      }
+    },
+    {
+      "question": "How do you obtain the features used in the log-linear model?",
+      "context": "And I'll have to remind you of the log-linear model, which is the mathematical basis or statistical basis of that system.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7833333333333333
+      }
+    }
+  ]
+}

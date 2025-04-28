@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the initial proposed state budget deficit for next year according to the Ministry of Finance?",
+      "context": "The draft (budget for next year, note Demagog.cz) of the Ministry of Finance counted on a deficit of 235 billion crowns",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7100694444444444
+      }
+    },
+    {
+      "question": "Why was the initial proposed state budget deficit considered not a government proposal?",
+      "context": "It was not a government proposal, but it was a calculation of some parameters",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7814685314685315
+      }
+    },
+    {
+      "question": "What is the planned total revenue for next year according to the final budget proposal?",
+      "context": "<p>The budget deficit is thus planned at 252 billion CZK (<a href=\"https://1drv.ms/w/s!AuXRjwyZOj5-szj-hbJ8QyXVm69H?e=n9R2tm\">.docx</a>, p.&nbsp;1).</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5769230769230769
+      }
+    },
+    {
+      "question": "How did the government's budget deficit ceiling influence the final proposed state budget deficit for next year?",
+      "context": "<p>Prime Minister Petr Fiala added to the proposal that the final budget deficit would not exceed CZK 270 billion, which the government had already set as the budget deficit ceiling before adopting the resolution.</p>",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7589285714285714
+      }
+    },
+    {
+      "question": "What is the total expenditure for next year according to the final budget proposal?",
+      "context": "<p>The budget deficit is thus planned at 252 billion CZK (<a href=\"https://1drv.ms/w/s!AuXRjwyZOj5-szj-hbJ8QyXVm69H?e=n9R2tm\">.docx</a>, p.&nbsp;1).</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5576923076923077
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the initial proposed state budget deficit for next year according to the Ministry of Finance?",
+      "context": "The draft (budget for next year, note Demagog.cz) of the Ministry of Finance counted on a deficit of 235 billion crowns",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7100694444444444
+      }
+    },
+    {
+      "question": "Why was the initial proposed state budget deficit considered not a government proposal?",
+      "context": "It was not a government proposal, but it was a calculation of some parameters",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7814685314685315
+      }
+    },
+    {
+      "question": "How did the government's budget deficit ceiling influence the final proposed state budget deficit for next year?",
+      "context": "<p>Prime Minister Petr Fiala added to the proposal that the final budget deficit would not exceed CZK 270 billion, which the government had already set as the budget deficit ceiling before adopting the resolution.</p>",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7589285714285714
+      }
+    }
+  ]
+}

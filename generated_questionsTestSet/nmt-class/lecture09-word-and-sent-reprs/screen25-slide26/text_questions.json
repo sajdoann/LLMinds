@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does it mean to have a good representation according to the network's training purpose?",
+      "context": "The representations can be also good for some other task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7732142857142857
+      }
+    },
+    {
+      "question": "How do pre-trained word embeddings, such as those used in language modeling tasks, relate to secondary tasks like sentiment classification?",
+      "context": "Good representations will also serve well on task interfaces.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.8868055555555555
+      }
+    },
+    {
+      "question": "What are the requirements for training speech recognition and translation tasks?",
+      "context": "For the speech recognition, you need the audio and the transcription. For the translation, you need a parallel corpus.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8548951048951049
+      }
+    },
+    {
+      "question": "How do we know if a representation makes sense?",
+      "context": "And this making sense that is visible only when we like observe the representations on a given test set.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8377192982456141
+      }
+    },
+    {
+      "question": "What can be observed in the activations of representations to check if a particular feature, such as tense, is easily accessible for a classifier?",
+      "context": "So for example, we can attach some to this representation and check whether some particular feature, such as the tense of the sentence, is easily accessible for this classifier in the representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5882352941176471,
+        "diversity_score": 0.873792270531401
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does it mean to have a good representation according to the network's training purpose?",
+      "context": "The representations can be also good for some other task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7732142857142857
+      }
+    },
+    {
+      "question": "How do we know if a representation makes sense?",
+      "context": "And this making sense that is visible only when we like observe the representations on a given test set.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8377192982456141
+      }
+    },
+    {
+      "question": "How do pre-trained word embeddings, such as those used in language modeling tasks, relate to secondary tasks like sentiment classification?",
+      "context": "Good representations will also serve well on task interfaces.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.8868055555555555
+      }
+    },
+    {
+      "question": "What can be observed in the activations of representations to check if a particular feature, such as tense, is easily accessible for a classifier?",
+      "context": "So for example, we can attach some to this representation and check whether some particular feature, such as the tense of the sentence, is easily accessible for this classifier in the representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5882352941176471,
+        "diversity_score": 0.873792270531401
+      }
+    }
+  ]
+}

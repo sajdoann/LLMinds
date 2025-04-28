@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is considered a lexical translation?",
+      "context": "The description of how machine can be translated as počítač, stroj or strojový",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How does the subject typically get its translation?",
+      "context": "The explanation that subject can usually be translated as nominative",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "What alternative way is used to translate an attribute in some cases?",
+      "context": "The mention of using a genitive noun or an adjective in this attributive position",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8869047619047619
+      }
+    },
+    {
+      "question": "Why are the choices for translating lexical labels not explicitly listed?",
+      "context": "The statement about there being many choices and that the hidden information is used",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9003496503496503
+      }
+    },
+    {
+      "question": "What distinction is made between syntactic and morphological information?",
+      "context": "The explanation that lexical translation is separate from this kind of information",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is considered a lexical translation?",
+      "context": "The description of how machine can be translated as počítač, stroj or strojový",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "Why are the choices for translating lexical labels not explicitly listed?",
+      "context": "The statement about there being many choices and that the hidden information is used",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9003496503496503
+      }
+    },
+    {
+      "question": "How does the subject typically get its translation?",
+      "context": "The explanation that subject can usually be translated as nominative",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.83125
+      }
+    }
+  ]
+}

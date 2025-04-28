@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process by which the model attends to different words in the input sentence?",
+      "context": "You have the input sentence. You process it with bidirectional recurrent neural network and then you attend to these states that correspond to different words in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7954192546583851
+      }
+    },
+    {
+      "question": "How does the attention mechanism change as the model produces output?",
+      "context": "And then you are producing the output and this attention mechanism will always focus on another part of the input sentence as you proceed and produce the output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8239130434782609
+      }
+    },
+    {
+      "question": "In what way has the attention mechanism been used in the past?",
+      "context": "This attention mechanism was used in the past not only for input sentencing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7442307692307693
+      }
+    },
+    {
+      "question": "What is the specific architecture used to process the input sentence?",
+      "context": "So here is a reminder how the visual information can be used. So before I describe how the visual information can be used, let me remind you of the attention architecture that we discussed very early in the series of these lectures.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.778125
+      }
+    },
+    {
+      "question": "What is the main purpose of using an attention mechanism?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main purpose of using an attention mechanism?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What is the process by which the model attends to different words in the input sentence?",
+      "context": "You have the input sentence. You process it with bidirectional recurrent neural network and then you attend to these states that correspond to different words in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7954192546583851
+      }
+    },
+    {
+      "question": "How does the attention mechanism change as the model produces output?",
+      "context": "And then you are producing the output and this attention mechanism will always focus on another part of the input sentence as you proceed and produce the output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8239130434782609
+      }
+    }
+  ]
+}

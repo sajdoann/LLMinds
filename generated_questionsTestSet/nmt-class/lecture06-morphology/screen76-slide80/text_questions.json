@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the byte-per-encoding method mentioned in the document?",
+      "context": "There is also Google Word pieces which were introduced for speech processing around the same year.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "How does the STE (sub-bord text encoder) handle word boundaries?",
+      "context": "STE has always added an underscore at the end of the word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8465909090909091
+      }
+    },
+    {
+      "question": "Why is it beneficial for models to share subwords like 'tramvaj' across sentences?",
+      "context": "This sharing of this unit, the fact that you observe the word tramvaj, the token tramvaj, in both of these sentences, gives the model the necessary generalization power.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9308608058608059
+      }
+    },
+    {
+      "question": "How does BPE (byte-per-encoding) handle empty suffixes?",
+      "context": "If you use the BPE in its default variation, bliží se kto be tramvaj, stramvaj nevy stoupil, then unfortunately there is no way to separate an empty suffix.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8883928571428572
+      }
+    },
+    {
+      "question": "What happens when the underscores are added before processing with BPE?",
+      "context": "If we add the underscores before processing the corpus with the BPE, and we can be lucky now. This tramvaj will get the ampersand as an unfinished word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9086174242424243
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the byte-per-encoding method mentioned in the document?",
+      "context": "There is also Google Word pieces which were introduced for speech processing around the same year.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "What happens when the underscores are added before processing with BPE?",
+      "context": "If we add the underscores before processing the corpus with the BPE, and we can be lucky now. This tramvaj will get the ampersand as an unfinished word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9086174242424243
+      }
+    },
+    {
+      "question": "How does the STE (sub-bord text encoder) handle word boundaries?",
+      "context": "STE has always added an underscore at the end of the word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8465909090909091
+      }
+    },
+    {
+      "question": "Why is it beneficial for models to share subwords like 'tramvaj' across sentences?",
+      "context": "This sharing of this unit, the fact that you observe the word tramvaj, the token tramvaj, in both of these sentences, gives the model the necessary generalization power.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9308608058608059
+      }
+    }
+  ]
+}

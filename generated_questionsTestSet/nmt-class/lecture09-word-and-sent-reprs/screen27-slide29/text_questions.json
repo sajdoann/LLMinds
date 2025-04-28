@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of space do embeddings represent?",
+      "context": "the representation level of the embeddings",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7785714285714286
+      }
+    },
+    {
+      "question": "How can you relate the embedding of a word to the age of another word?",
+      "context": "if you take the embedding of the word king and subtract the embedding of the word man and add the embedding of the word woman, you will get to the age of the king",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8642533936651584
+      }
+    },
+    {
+      "question": "What is another relation observed in the highly dimensional space?",
+      "context": "Another relation that was observed there was that verbs and their different tenses such as past tense are also in some like particle direction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9147727272727273
+      }
+    },
+    {
+      "question": "Can you explain why a relationship exists between country names and capital names?",
+      "context": "And you can also see a similar relation to between country names and capital names.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.9175824175824175
+      }
+    },
+    {
+      "question": "What does the statement imply about the nature of the embeddings?",
+      "context": "What is interesting is the representation level of the embeddings.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8229166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of space do embeddings represent?",
+      "context": "the representation level of the embeddings",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7785714285714286
+      }
+    },
+    {
+      "question": "What is another relation observed in the highly dimensional space?",
+      "context": "Another relation that was observed there was that verbs and their different tenses such as past tense are also in some like particle direction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9147727272727273
+      }
+    },
+    {
+      "question": "How can you relate the embedding of a word to the age of another word?",
+      "context": "if you take the embedding of the word king and subtract the embedding of the word man and add the embedding of the word woman, you will get to the age of the king",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8642533936651584
+      }
+    },
+    {
+      "question": "Can you explain why a relationship exists between country names and capital names?",
+      "context": "And you can also see a similar relation to between country names and capital names.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.9175824175824175
+      }
+    }
+  ]
+}

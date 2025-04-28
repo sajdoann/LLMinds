@@ -1,0 +1,138 @@
+{
+  "all_questions": [
+    {
+      "question": "Where does heroin addiction originate from?",
+      "context": "Das ist eine ganz schön dumme Frage, oder? Ist doch ganz klar, Heroinsucht kommt von Heroin.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9484126984126984
+      }
+    },
+    {
+      "question": "Why did Bruce Alexander's rat experiment show that rats didn't develop an addiction to heroin?",
+      "context": "Er baute daraufhin einen Rattenpark. Ein wahres Paradies für Ratten.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "Was sind die Ergebnisse einer Studie über amerikanische Soldaten, die nach dem Krieg mit Heroin konsumierten?",
+      "context": "Es wurde befürchtet, dass die USA nach Ende des Krieges von Hunderttausenden Junkies überrannt werden würden. Aber eine Studie, die nach dem Krieg durchgeführt wurde, zeigte, dass die Soldaten weder in Kliniken landeten noch einen Entzug durchmachten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.9717171717171718
+      }
+    },
+    {
+      "question": "Warum betrachtet der Autor Abhängigkeit neu und wie kommt er zu dieser Neubetrachtung?",
+      "context": "Menschen haben ein angeborenes Bedürfnis, enge Beziehungen zu Mitmenschen aufzubauen. Wenn es uns gut geht, fällt es uns leicht, das zu tun.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9780701754385965
+      }
+    },
+    {
+      "question": "What is the main point of the author's argument?",
+      "context": "Wir reden immer nur über die Besserung des Individuums und sehen nicht die Rolle der Gesellschaft in diesem Genesungsprozess.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9016203703703703
+      }
+    },
+    {
+      "question": "What should be the first step in the fight against addiction?",
+      "context": "Der erste Schritt im Kampf gegen die Sucht sollte nicht harte Bestrafung sein, sondern Empathie.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9388888888888889
+      }
+    },
+    {
+      "question": "Why is it important to consider the social environment of individuals struggling with addiction?",
+      "context": "Wir müssen vielmehr das Umfeld der betroffenen Menschen in Betracht ziehen und dürfen keine vorschnellen Urteile fällen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9142156862745098
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was sind die Ergebnisse einer Studie über amerikanische Soldaten, die nach dem Krieg mit Heroin konsumierten?",
+      "context": "Es wurde befürchtet, dass die USA nach Ende des Krieges von Hunderttausenden Junkies überrannt werden würden. Aber eine Studie, die nach dem Krieg durchgeführt wurde, zeigte, dass die Soldaten weder in Kliniken landeten noch einen Entzug durchmachten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.9717171717171718
+      }
+    },
+    {
+      "question": "Warum betrachtet der Autor Abhängigkeit neu und wie kommt er zu dieser Neubetrachtung?",
+      "context": "Menschen haben ein angeborenes Bedürfnis, enge Beziehungen zu Mitmenschen aufzubauen. Wenn es uns gut geht, fällt es uns leicht, das zu tun.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9780701754385965
+      }
+    },
+    {
+      "question": "Why did Bruce Alexander's rat experiment show that rats didn't develop an addiction to heroin?",
+      "context": "Er baute daraufhin einen Rattenpark. Ein wahres Paradies für Ratten.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "Why is it important to consider the social environment of individuals struggling with addiction?",
+      "context": "Wir müssen vielmehr das Umfeld der betroffenen Menschen in Betracht ziehen und dürfen keine vorschnellen Urteile fällen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9142156862745098
+      }
+    },
+    {
+      "question": "What is the main point of the author's argument?",
+      "context": "Wir reden immer nur über die Besserung des Individuums und sehen nicht die Rolle der Gesellschaft in diesem Genesungsprozess.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9016203703703703
+      }
+    }
+  ]
+}

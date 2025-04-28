@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is another term for 'the other view' mentioned in the document?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "How do words are aligned in the corpus according to the document?",
+      "context": "The alignment of words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7869318181818181
+      }
+    },
+    {
+      "question": "What is an example sentence pair that can be used to align words, as described in the document?",
+      "context": "An example sentence pair",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "How do we indicate word translations according to the document?",
+      "context": "Indicating word translations",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is implied about word translation according to the document's description of alignment?",
+      "context": "Implicit meaning",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an example sentence pair that can be used to align words, as described in the document?",
+      "context": "An example sentence pair",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "How do words are aligned in the corpus according to the document?",
+      "context": "The alignment of words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7869318181818181
+      }
+    },
+    {
+      "question": "How do we indicate word translations according to the document?",
+      "context": "Indicating word translations",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is implied about word translation according to the document's description of alignment?",
+      "context": "Implicit meaning",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of input can generate the output 'tenista se prepara'?",
+      "context": "This sentence describes how an English sentence can be converted to Spanish",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "How does a tennis player's name in English translate to Spanish?",
+      "context": "This example shows the conversion of 'tennis player' to its Spanish equivalent",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7982954545454546
+      }
+    },
+    {
+      "question": "What is being emphasized by the author in this document?",
+      "context": "The introduction mentions a motivation for converting English sentences to Spanish",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "Can any type of sentence be converted to Spanish using this method?",
+      "context": "This section does not provide information on the limitations of the conversion process",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Is there more than one possible way to convert an English sentence to its Spanish equivalent?",
+      "context": "The document only provides a single example of this conversion method",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136363636363637
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of input can generate the output 'tenista se prepara'?",
+      "context": "This sentence describes how an English sentence can be converted to Spanish",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "How does a tennis player's name in English translate to Spanish?",
+      "context": "This example shows the conversion of 'tennis player' to its Spanish equivalent",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7982954545454546
+      }
+    },
+    {
+      "question": "What is being emphasized by the author in this document?",
+      "context": "The introduction mentions a motivation for converting English sentences to Spanish",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8352272727272727
+      }
+    }
+  ]
+}

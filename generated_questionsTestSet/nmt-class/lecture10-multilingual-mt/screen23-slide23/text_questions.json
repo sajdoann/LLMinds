@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being tested in the experiment?",
+      "context": "The child with this three-wheel transfer",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5892857142857143
+      }
+    },
+    {
+      "question": "Where are Finnish and English now being used as a language pair in the experiment?",
+      "context": "moving to the child where the Finnish and English were the language pair of interest",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7198717948717949
+      }
+    },
+    {
+      "question": "What is the purpose of pre-training on Estonian, Estonian-English, in the experiment?",
+      "context": "pre-training on Estonian, Estonian English",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6568181818181819
+      }
+    },
+    {
+      "question": "Is the goal of the experiment to learn a new language or transfer knowledge from one language to another?",
+      "context": "Let's try to transfer some knowledge",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "What is the relationship between the size of the child and the resources available in the experiment?",
+      "context": "And so when we tested this on Finnish, so we're now pre-training on Estonian, Estonian English, and we were moving to the child where the Finnish and English were the language pair of interest",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7211538461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of pre-training on Estonian, Estonian-English, in the experiment?",
+      "context": "pre-training on Estonian, Estonian English",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6568181818181819
+      }
+    },
+    {
+      "question": "Is the goal of the experiment to learn a new language or transfer knowledge from one language to another?",
+      "context": "Let's try to transfer some knowledge",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "Where are Finnish and English now being used as a language pair in the experiment?",
+      "context": "moving to the child where the Finnish and English were the language pair of interest",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7198717948717949
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using a hierarchical model for sentence construction?",
+      "context": "This rule says that if you have this symbol and something and that symbol and something, that can be translated as half the second something with the first something.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6056547619047619
+      }
+    },
+    {
+      "question": "What is the unique non-terminal used in the hierarchical model?",
+      "context": "The only non-terminal here that is used is one single non-terminal x and only the only thing that you have is the co-indexation between the source phrase and the target phrase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6465277777777778
+      }
+    },
+    {
+      "question": "How does the hierarchical model handle recursive structures in sentences?",
+      "context": "So these gappy phrases were allowed to contain up to two gaps. and anything, any other phrase including like recursive structure could be put into that phrase.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8173076923076923
+      }
+    },
+    {
+      "question": "What is the effect of using this symbol and something and that symbol and something on sentence construction?",
+      "context": "This rule says that if you have this symbol and something and that symbol and something, that can be translated as half the second something with the first something.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6696428571428572
+      }
+    },
+    {
+      "question": "What is the significance of co-indexation in the hierarchical model?",
+      "context": "So you know which part goes where. So this is the x non-terminal. It's the unch Alumni criminal numbered in the source size and target size.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.657608695652174
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of using a hierarchical model for sentence construction?",
+      "context": "This rule says that if you have this symbol and something and that symbol and something, that can be translated as half the second something with the first something.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6056547619047619
+      }
+    },
+    {
+      "question": "What is the significance of co-indexation in the hierarchical model?",
+      "context": "So you know which part goes where. So this is the x non-terminal. It's the unch Alumni criminal numbered in the source size and target size.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.657608695652174
+      }
+    },
+    {
+      "question": "What is the unique non-terminal used in the hierarchical model?",
+      "context": "The only non-terminal here that is used is one single non-terminal x and only the only thing that you have is the co-indexation between the source phrase and the target phrase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6465277777777778
+      }
+    }
+  ]
+}

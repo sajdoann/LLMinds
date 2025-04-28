@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the estimated amount of money that would be saved if all tax exemptions were abolished?",
+      "context": "Kdyby došlo ke zrušení všech daňových výjimek, říkal jsem, že by to ušetřilo 380 miliard korun.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8299632352941176
+      }
+    },
+    {
+      "question": "In what year did Miloš Zeman mention the need for abolishing tax exemptions in the Poslanecké sněmovna?",
+      "context": "<p>O&nbsp;potřebě zrušení daňových výjimek mluvil Miloš Zeman v&nbsp;Poslanecké sněmovně v&nbsp;roce <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7958333333333334
+      }
+    },
+    {
+      "question": "What is the estimated value of tax exemptions in 2018?",
+      "context": "<p>Zároveň nicméně <a href=",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.575
+      }
+    },
+    {
+      "question": "What is the total amount of tax relief in the Czech Republic for 2018?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5192307692307692
+      }
+    },
+    {
+      "question": "What type of tax relief is a decrease in taxation?",
+      "context": "Snížená sazba daně",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the estimated amount of money that would be saved if all tax exemptions were abolished?",
+      "context": "Kdyby došlo ke zrušení všech daňových výjimek, říkal jsem, že by to ušetřilo 380 miliard korun.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8299632352941176
+      }
+    },
+    {
+      "question": "In what year did Miloš Zeman mention the need for abolishing tax exemptions in the Poslanecké sněmovna?",
+      "context": "<p>O&nbsp;potřebě zrušení daňových výjimek mluvil Miloš Zeman v&nbsp;Poslanecké sněmovně v&nbsp;roce <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7958333333333334
+      }
+    },
+    {
+      "question": "What type of tax relief is a decrease in taxation?",
+      "context": "Snížená sazba daně",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    }
+  ]
+}

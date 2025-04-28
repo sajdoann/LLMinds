@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using slashes in CCG text?",
+      "context": "The CCG text just to illustrate them. The text is the subscript here and in the sentence which has the in at the end you have the requirement for preposition",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6215909090909091
+      }
+    },
+    {
+      "question": "What type of information does CCG text provide about verb complements?",
+      "context": "The valence information the word asks for complements and by knowing the tags the super text you know that you have to produce these additional elements in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.5085227272727273
+      }
+    },
+    {
+      "question": "How does CCG text specify the complement of a verb?",
+      "context": "So the CCG text specify to make me a fully saturated element in the sentence please provide these. So this is the valence information the word asks for complements",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.49749999999999994
+      }
+    },
+    {
+      "question": "What does 'propositional phrase from the left hand side' refer to?",
+      "context": "So the CCG text specify to make me a fully saturated element in the sentence please provide these. So this is the valence information the word asks for complements and by knowing the tags the super text you know that you have to produce these additional elements in the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5917832167832168
+      }
+    },
+    {
+      "question": "What is the expected outcome when using CCG text to make a verb fully saturated?",
+      "context": "So the CCG text specify to make me a fully saturated element in the sentence please provide these. So this is the valence information the word asks for complements and by knowing the tags the super text you know that you have to produce these additional elements in the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.5576923076923077
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of using slashes in CCG text?",
+      "context": "The CCG text just to illustrate them. The text is the subscript here and in the sentence which has the in at the end you have the requirement for preposition",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6215909090909091
+      }
+    },
+    {
+      "question": "How does CCG text specify the complement of a verb?",
+      "context": "So the CCG text specify to make me a fully saturated element in the sentence please provide these. So this is the valence information the word asks for complements",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.49749999999999994
+      }
+    },
+    {
+      "question": "What type of information does CCG text provide about verb complements?",
+      "context": "The valence information the word asks for complements and by knowing the tags the super text you know that you have to produce these additional elements in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.5085227272727273
+      }
+    }
+  ]
+}

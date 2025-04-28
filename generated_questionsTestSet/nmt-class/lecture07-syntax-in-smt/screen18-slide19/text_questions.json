@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the formal equivalence between synchronous tree substitution grammars and synchronous context-free grammars?",
+      "context": "The good thing is that the synchronous tree substitution grammars are actually formally equivalent.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6826923076923077
+      }
+    },
+    {
+      "question": "How can the inner structure of subtrees be condensed in synchronous tree substitution grammars?",
+      "context": "Because what you can do is you can condense all this inner structure of these subtrees and only increase the set of non-terminals that you use.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.702922077922078
+      }
+    },
+    {
+      "question": "What is the purpose of using a special non-terminal VP in synchronous tree substitution grammars?",
+      "context": "So we could use a special non-terminal VP which includes PP, P and N and has these terminals in love then.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7416666666666667
+      }
+    },
+    {
+      "question": "How do the productions in synchronous tree substitution grammars match across languages?",
+      "context": "The set of productions in this contents tree will match across the languages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is the main goal of generalization in synchronous tree substitution grammars?",
+      "context": "But that is not the type of generalization that we are after.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.5833333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the formal equivalence between synchronous tree substitution grammars and synchronous context-free grammars?",
+      "context": "The good thing is that the synchronous tree substitution grammars are actually formally equivalent.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6826923076923077
+      }
+    },
+    {
+      "question": "How can the inner structure of subtrees be condensed in synchronous tree substitution grammars?",
+      "context": "Because what you can do is you can condense all this inner structure of these subtrees and only increase the set of non-terminals that you use.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.702922077922078
+      }
+    },
+    {
+      "question": "How do the productions in synchronous tree substitution grammars match across languages?",
+      "context": "The set of productions in this contents tree will match across the languages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6875
+      }
+    }
+  ]
+}

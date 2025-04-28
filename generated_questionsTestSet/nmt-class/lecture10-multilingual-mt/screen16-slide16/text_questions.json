@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What method was used to balance the vocabulary?",
+      "context": "So what we do, what worked better was to balance the vocabulary",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7116477272727273
+      }
+    },
+    {
+      "question": "From what corpus were the corpora subsampled?",
+      "context": "we subsampled from the parent corpus",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What was the purpose of extracting the corpora?",
+      "context": "to have the corpora of the same sizes and then we extracted this",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7127976190476191
+      }
+    },
+    {
+      "question": "Why did balancing the vocabulary work better?",
+      "context": "what worked better was to balance the vocabulary",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7566964285714286
+      }
+    },
+    {
+      "question": "What was the outcome of extracting the corpora?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7857142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "From what corpus were the corpora subsampled?",
+      "context": "we subsampled from the parent corpus",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What was the outcome of extracting the corpora?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "What was the purpose of extracting the corpora?",
+      "context": "to have the corpora of the same sizes and then we extracted this",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7127976190476191
+      }
+    },
+    {
+      "question": "Why did balancing the vocabulary work better?",
+      "context": "what worked better was to balance the vocabulary",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7566964285714286
+      }
+    }
+  ]
+}

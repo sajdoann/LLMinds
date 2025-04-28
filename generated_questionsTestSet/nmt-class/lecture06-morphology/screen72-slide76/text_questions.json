@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the most frequent pair in the merge operation?",
+      "context": "And here the most frequent pair happens to be this V followed by R.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Why is treating 'V, E, R' as a single unit useful for text compression?",
+      "context": "because it is",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6071428571428572
+      }
+    },
+    {
+      "question": "What new merge operation is introduced in the setup?",
+      "context": "a new merge operation that you introduce in your setup.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What are 'V, E, R' treated as in the context of text compression?",
+      "context": "as a single unit because it is",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "Why would 'V, E, R' being treated as a single unit be useful?",
+      "context": "because it is",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the most frequent pair in the merge operation?",
+      "context": "And here the most frequent pair happens to be this V followed by R.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What are 'V, E, R' treated as in the context of text compression?",
+      "context": "as a single unit because it is",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "Why is treating 'V, E, R' as a single unit useful for text compression?",
+      "context": "because it is",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6071428571428572
+      }
+    },
+    {
+      "question": "Why would 'V, E, R' being treated as a single unit be useful?",
+      "context": "because it is",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.625
+      }
+    }
+  ]
+}

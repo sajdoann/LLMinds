@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the framework being described?",
+      "context": "The framework is called LoglingerModal",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "How do the feature functions contribute to the overall score of a sentence pair?",
+      "context": "You run all these feature functions and you combine, you will collect their scores and you will combine them with a weighted sum.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7959401709401709
+      }
+    },
+    {
+      "question": "What is the purpose of normalizing the score of a sentence pair?",
+      "context": "To have a proper probability of that afterwards, so the easiest way is to see how many points you are distributing in sum and then divide every score of a particular sentence pair by this total sum of the points that you have distributed.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6904411764705882
+      }
+    },
+    {
+      "question": "What is the key insight or simplification mentioned when dealing with normalization?",
+      "context": "Like you have to consider all the sentences in both languages and see how many points they got from the feature functions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7648809523809523
+      }
+    },
+    {
+      "question": "What is the overall goal of scoring sentence pairs according to the LoglingerModal framework?",
+      "context": "The only thing you have to make it a probability is that if you consider all the possible input sentences, all the possible output sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7115384615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the framework being described?",
+      "context": "The framework is called LoglingerModal",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "What is the overall goal of scoring sentence pairs according to the LoglingerModal framework?",
+      "context": "The only thing you have to make it a probability is that if you consider all the possible input sentences, all the possible output sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "How do the feature functions contribute to the overall score of a sentence pair?",
+      "context": "You run all these feature functions and you combine, you will collect their scores and you will combine them with a weighted sum.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7959401709401709
+      }
+    }
+  ]
+}

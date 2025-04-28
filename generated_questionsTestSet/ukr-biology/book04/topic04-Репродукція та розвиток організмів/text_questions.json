@@ -1,0 +1,809 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main purpose of reproduction in living organisms?",
+      "context": "Репродукція — це здатність живих organisмів до самовідтворення, утворення ними нащадків, які є засобом збереження видів та яких забезпечують безперервність їхнього існування.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8306648575305291
+      }
+    },
+    {
+      "question": "What is the main difference between vegetative and asexual reproduction?",
+      "context": "Вегетативне розмноження, виокремлюючи його з нестатевого. У такому випадку нестатевим вважають розмноження, під час якого утворюються спеціалізовані клітини, які не є гаметами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8547619047619048
+      }
+    },
+    {
+      "question": "What is regeneration in organisms?",
+      "context": "Регенерація — це здатність живих організмів відновлювати свої пошкоджені або втрачені структури.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8095771144278607
+      }
+    },
+    {
+      "question": "What are the types of regeneration in humans?",
+      "context": "Залежно від завдань, які вирішує в організмі людина процес регенерації, розрізняють фізіологічну й репаративну регенерацію.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8326492537313432
+      }
+    },
+    {
+      "question": "What is the difference between физіологічна регенерація and репаративна регенерація?",
+      "context": "Фізіологічна регенерація  призначена для відновлення структур  organisersму, які зазнають пошкодження у ході нормальних фізіологічних процесїв. Цей тип regsenerації відбувається протягом усього життя людини (мал. 44.1). Наприклад, за рахунок фізіологічної регенерації ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8727010110736639
+      }
+    },
+    {
+      "question": "What happens to the immune system when it recognizes a foreign biological object?",
+      "context": "Як імунна система організму розпізнає сторонні біологічні об’єкти?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9268082663605052
+      }
+    },
+    {
+      "question": "Що таке імунітет?",
+      "context": "імунітет - ця система організу розпізнає сторонні біологічні об’єкти",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9792703150912107
+      }
+    },
+    {
+      "question": "Як імунна система організму розпізнає сторонніх біологічних об’єктів?",
+      "context": "Будь-які чужі органи й тканини імунна система організму розпізнає і починає атакувати",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9800995024875622
+      }
+    },
+    {
+      "question": "Що таке антиген?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9850746268656716
+      }
+    },
+    {
+      "question": "Що таке антитіло?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9850746268656716
+      }
+    },
+    {
+      "question": "What is Xenotransplantation?",
+      "context": "Донором є не людина, а тварина. Крім проблем із відторгненням трансплантата, ця технологія вимагає урахування моральних та соціальних аспектів, бо використання таких трансплантатів може суперечити моральним чи релігійним переконанням реципієнта",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7614427860696518
+      }
+    },
+    {
+      "question": "What are the principles of biological ethics?",
+      "context": "Трансплантація тканин і органів робить актуальною проблему біоетики — моральних аспектів застосування цих технологій. Основні принципи біоетики, яких бажано дотримуватися для недопущення етичних problem, запропонували американські вчені Т. Л. Бічамп і Дж. Ф. Чілдрес.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8476448924210118
+      }
+    },
+    {
+      "question": "What is apoptosis?",
+      "context": "Апоптоз — це запрограмована загибель клітин. Він ініціюється спеціальними молекулярними сигналами й відбувається за певним алгоритмом процесв у клітині.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7454831107619796
+      }
+    },
+    {
+      "question": "What is necrosis?",
+      "context": "Некроз — це випадкова або патологічна загибель клітин. Він може відбуватися під дією фізичних, хімічних чи біологічних факторів і є менш упорядкованим, ніж апоптоз.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7472014925373134
+      }
+    },
+    {
+      "question": "What is the difference between apoptosis and necrosis?",
+      "context": "У багатоклітинних живих організмах (у тому числі й людині) вирізняєте два основні способи загибелі клітин — апоптоз і некроз.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8281127258444619
+      }
+    },
+    {
+      "question": "Що таке апоптоз?",
+      "context": ".Під час некрозу клі-тинна мембрана руйнується й уміст клітини потрапляє в зовнішнє сере довище. це часто стає причиною розвитку запалення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9682835820895522
+      }
+    },
+    {
+      "question": "Чим обмежені розмноження клітин, які не поширюються в сусідні тканини?",
+      "context": "Доброякісні пухлини — це новоутворення в організмі, що зумовлені неконтрольованим, але обмеженим розмноженням клітин, які не поширюються в сусідні тканини (не здатні до інвазії) та віддалені органи (не утворюють ме-\nтастази).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9786670097786927
+      }
+    },
+    {
+      "question": "Чим відрізь інтерфази може залежити від рівня спеціалізації клітини?",
+      "context": "А тривалість інтерфазиøreє різної й залежить від рівня спеціалізації клітини. Чим більше спеціалізована клітина, тим більша тривалість інтерфази її клітинного циклу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9917081260364843
+      }
+    },
+    {
+      "question": "What are the main factors that can lead to the formation of benign tumors?",
+      "context": "Біологічні. Деякі віруси, мобільні генетичні елементи, помилки систем репарації клітини, дія епігенетичних факторів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.912743972445465
+      }
+    },
+    {
+      "question": "What is the main way melanoma cells are similar?",
+      "context": "клітини в злоякісних пухлинах слабо диференційовані, тому серед них можна розрізнити клітини різних типів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.860568950121189
+      }
+    },
+    {
+      "question": "What are the main methods of treating carcinomas?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8684701492537313
+      }
+    },
+    {
+      "question": "What is the purpose of hormonal therapy in cancer treatment?",
+      "context": "(деякі типи пухlín є чутливими до дії гормонів);",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8408582089552239
+      }
+    },
+    {
+      "question": "What is the most effective way to fight cancer?",
+      "context": "Профілактика цих захворювань спрямована на уникнення або ослаблення дії канцерогенних факторів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.868083823307704
+      }
+    },
+    {
+      "question": "What are the main ways to prevent the development of cancer?",
+      "context": "Профілактика цих захворювань спрямована на використовування канцерогенних факторів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8744402985074626
+      }
+    },
+    {
+      "question": "What is the significance of regular examination for early detection of cancer?",
+      "context": "Шанси вилікувати рак на ранніх стадіях становлять більш ніж 90 %. Тому регулярне обстеження для виявлення ранніх стадій онкологічних захворювань також можна віднести до засобів профілактики важких форм раку.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8784163597596434
+      }
+    },
+    {
+      "question": "What is the purpose of the study on gametogenesis in humans?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8567164179104477
+      }
+    },
+    {
+      "question": "When do the males' and females' sex cells form?",
+      "context": "Чоловічі й жіночі статеві клітини мають різний розмір. Під час статевого дозрівання у сім’яних каналах яєчок утворюються чоловічі статеві клітини —  сперматозоїди.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9265514532600158
+      }
+    },
+    {
+      "question": "What is the role of the mitochondria in spermatogenesis?",
+      "context": "В шийці зосереджені мітохондрії, що виробляють енергію, яка використовується для руху.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.810888738127544
+      }
+    },
+    {
+      "question": "What is the function of the acrosome in spermatogenesis?",
+      "context": "Головка клітини містить ядро зі спадковим матеріалом і спеціальна органелу —  акросому. Вона потрібна для того, щоб сперматозоїд міг подолати оболонки яйцеклітини під час запліднення: ферменти, які містяться в акросомі, цю оболонку розчиняють.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8118215739484396
+      }
+    },
+    {
+      "question": "What is the difference between spermatozoa and oocytes?",
+      "context": "Яйцеклітина набагато більша, ніж сперматозоїд. Вона містить поживні речовини, які забезпечують перші поділи майбутнього зародка, і не має джгутика.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8391103692065986
+      }
+    },
+    {
+      "question": "What is gametogenesis?",
+      "context": "Процес утворення статевих клітин у статевих залозах називають гаметогенезом.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7484452736318408
+      }
+    },
+    {
+      "question": "Where does spermatogenesis occur in humans?",
+      "context": "Сперматогенез відбувається в сім’яних канальцях чоловічої статевої залозі — сім’янику.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9390547263681592
+      }
+    },
+    {
+      "question": "What is the result of the process of spermatogenesis in humans?",
+      "context": "Сперматогенез завершується в період статевої зрілості утворенням сперматозоїдів — зрілих чоловічих статевих клітин, здатних до запліднення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8187707296849088
+      }
+    },
+    {
+      "question": "What is the main difference between spermatogenesis and oogenesis?",
+      "context": "Після іншого по-делу). З одного сперматоциту першого порядку утворюються спочатку два сперматоцити(drugi) дру-Mal. 49.1.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8540037905709548
+      }
+    },
+    {
+      "question": "What is the purpose of the polar cells in oogenesis?",
+      "context": "Полярні тільця не беруть участі у процесах розмноження й виконують функцію видалення зайвого генетичного матеріалу.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8280265339966832
+      }
+    },
+    {
+      "question": "What is the role of the Y-chromosome in gametogenesis?",
+      "context": "Ген R tif локалізованого на Х-хромосомі блокує ген Тif, що дозволяє працювати гену О. Те, який з цих генів буде працювати, залежить від гена R tif, локізованого на Y-хромосомі.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8193168771526981
+      }
+    },
+    {
+      "question": "What are the stages of fertilization in humans?",
+      "context": "Процеси, які відбуваються в цьому процесі виділяють кілька етапів.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8345771144278606
+      }
+    },
+    {
+      "question": "Where do gametes in humans form?",
+      "context": "В результаті якого утворюється одна клітина (зигота), що є початком нового організму.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9539800995024875
+      }
+    },
+    {
+      "question": "What are the special features of spermatozoa and oocytes in humans?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8860244233378561
+      }
+    },
+    {
+      "question": "What is the definition of Reproductive Health according to WHO?",
+      "context": "Reproductive health — this is a state of complete physical, mental and social well-being in relation to all aspects of reproductive life.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8597014925373134
+      }
+    },
+    {
+      "question": "What are the main goals of Reproductive Medicine?",
+      "context": "Reproductive medicine — this is a field of medicine that deals with the prevention, diagnosis and treatment of infertility in humans.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8543794186959937
+      }
+    },
+    {
+      "question": "What is ectocorpioreal fertilization?",
+      "context": "ненсна — це процес, під час якого від-буває запліднення яйцеклітини безпосередньо в організмі людини шляхом штучного введення сперми до матки за допомогою спеціальноїcatetora.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8044289422452953
+      }
+    },
+    {
+      "question": "What is the main purpose of reproductive medicine?",
+      "context": "Репродуктивна медицина є галуззю, яка зараз активно-в-ся. Основні її перспективи пов’язані з розв’язанням таких питань, як подолання безпліддя, регуляція народжуваності...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8216417910447762
+      }
+    },
+    {
+      "question": "How does social environment affect reproductive health?",
+      "context": "Проблеми патологій вагітності, дитячої та материнської смертності тісно пов’язані з екологічними й соціальними проблемами.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9813432835820896
+      }
+    },
+    {
+      "question": "What is the relationship between technology and reproductive behavior?",
+      "context": "Нівітні розробки у цій галузі дають можливість мати дітей парам, які ще донедавна не могли про це й мріяти.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8501789299118443
+      }
+    },
+    {
+      "question": "What is the role of instinct in human reproduction?",
+      "context": "Основою репродуктивної поведінки є інстинктивні програми, які закріплювалися мільйони років у процесі еволюції людини.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8238569059464582
+      }
+    },
+    {
+      "question": "What percentage of children died before the age of 1 year in Ukraine in 1910?",
+      "context": "У 1910 році у віці до 1 року помирало 24 % діть",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8908777789374804
+      }
+    },
+    {
+      "question": "What percentage of children died before the age of 5 years in Ukraine in 1910?",
+      "context": "До 5 років тоді в середньому не доживало 43 % дітей",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8829454127961591
+      }
+    },
+    {
+      "question": "What percentage of children died before the age of 5 years in Ukraine in 2013?",
+      "context": "У України у 2013 році смертність dětí до 5 років становила 1 %",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8887772675086107
+      }
+    },
+    {
+      "question": "What is the term for the individual development of an organism from conception to natural death?",
+      "context": "Онтогенез — це індивідуальний розвиток організму від момента зародження до природної смерті",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.879228855721393
+      }
+    },
+    {
+      "question": "What is ontogenetic development?",
+      "context": "Термін «онтогенез» був запропонований німецьким ученим Е. Геккелем (1866 р.). В основі онтогенезу певного організму лежить процес послідовної та необоротної реалізації його спадкової інформації.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8149875621890548
+      }
+    },
+    {
+      "question": "What is the duration of embryonal development?",
+      "context": "Ембріональний період розвитку Ембріональний (зародковий) період триває від моменту утворен-\nнього зиготи до народження дитини (мал. 52.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8069651741293533
+      }
+    },
+    {
+      "question": "What is the process of embryonal induction?",
+      "context": "У процесі розвитку частини зародка взаємодіють між собою. Така взаємодія є причиною так званої ембріональної індукції.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8089019189765458
+      }
+    },
+    {
+      "question": "What is the difference between a plod and a fetus?",
+      "context": "Плодом називають організм починаючи від 9-го тижня внутріш-\nньоутробного розвитку й до моменту народження.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8505685856432126
+      }
+    },
+    {
+      "question": "What is the function of the placenta?",
+      "context": "Пуповина — це шнуроподібний орган, що відходить від плаценті та з’єднує плід з материнським організмом.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.764179104477612
+      }
+    },
+    {
+      "question": "What is the name given to an organism starting from the 9th week of intrauterine development and up to the moment of birth?",
+      "context": "Плід має своє на-нвколишнє середовище, яке складається із зародкових оболонок, на-вколоплідних вод і пуповини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9172371226573898
+      }
+    },
+    {
+      "question": "What is the name of the shnuropodobiy organ that connects the fetus to the maternal organism?",
+      "context": "Пуповина — це шнуроподібний орган,що відходить від плацента і з’єднує плід з материнським організмом.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8670247662784976
+      }
+    },
+    {
+      "question": "What is the postembryonal period?",
+      "context": "Постембріональний період — це період життя людини після народження (мал. 52.3).",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7664179104477612
+      }
+    },
+    {
+      "question": "When does the postembryonal period start?",
+      "context": "Мал. 52.3. Постембріональний розвиток чоловіків і жінок",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.923951670220327
+      }
+    },
+    {
+      "question": "What is the period of rapid growth in human development?",
+      "context": "інці періоду темпи росту",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8589552238805971
+      }
+    },
+    {
+      "question": "At what age do boys' and girls' growth rates slow down?",
+      "context": "в другому дитинстві (8–12 років у хлопчиків, 8–11 років у ді-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9247700889491934
+      }
+    },
+    {
+      "question": "When do boys' and girls' puberty begin?",
+      "context": "Підлітковий період (13–16 років у хлопців, 12–15 років у ді-",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9601545842217484
+      }
+    },
+    {
+      "question": "What is Regenерація?",
+      "context": "Регенерація",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7537313432835822
+      }
+    },
+    {
+      "question": "What is клітинна інженерія ?",
+      "context": "Вирощування потрібних реципієнту органів і тканин із клітин, вилучених з організму самого пацієнта",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8451205510907003
+      }
+    },
+    {
+      "question": "What is Ксенотрансплантація?",
+      "context": "Донором є тварина",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7437810945273632
+      }
+    },
+    {
+      "question": "What is regeneratio for the human organism?",
+      "context": "оти1. Поясніть значення регенерації для organisedmu людини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8422174840085288
+      }
+    },
+    {
+      "question": "Who is Protoktiści?",
+      "context": "Тварини і Рослини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8681592039800995
+      }
+    },
+    {
+      "question": "What was Protoktisti?",
+      "context": "в) Протоктисти (нижчі еукаріоти), Тварини і Рослини.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8542999289267946
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who is Protoktiści?",
+      "context": "Тварини і Рослини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8681592039800995
+      }
+    },
+    {
+      "question": "Чим відрізь інтерфази може залежити від рівня спеціалізації клітини?",
+      "context": "А тривалість інтерфазиøreє різної й залежить від рівня спеціалізації клітини. Чим більше спеціалізована клітина, тим більша тривалість інтерфази її клітинного циклу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9917081260364843
+      }
+    },
+    {
+      "question": "Як імунна система організму розпізнає сторонніх біологічних об’єктів?",
+      "context": "Будь-які чужі органи й тканини імунна система організму розпізнає і починає атакувати",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9800995024875622
+      }
+    },
+    {
+      "question": "Що таке антиген?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9850746268656716
+      }
+    },
+    {
+      "question": "Що таке антитіло?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9850746268656716
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What languages were tested for BLEUS scores?",
+      "context": "into English and from English",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "What type of model performs better when going into English compared to other languages?",
+      "context": "multilingual model vs single paired models",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "What was the benefit for producing other language outputs?",
+      "context": "knowledge in decoder and extra words",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "Were there any benefits to using multilingual models when going into languages other than English?",
+      "context": "BLEUS scores and knowledge in decoder",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "What is the purpose of the **test set** mentioned in the document?",
+      "context": "description of test set, BLEUS score, loss, log probabilities",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9236111111111112
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What languages were tested for BLEUS scores?",
+      "context": "into English and from English",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "What type of model performs better when going into English compared to other languages?",
+      "context": "multilingual model vs single paired models",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "Were there any benefits to using multilingual models when going into languages other than English?",
+      "context": "BLEUS scores and knowledge in decoder",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "What is the purpose of the **test set** mentioned in the document?",
+      "context": "description of test set, BLEUS score, loss, log probabilities",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9236111111111112
+      }
+    }
+  ]
+}

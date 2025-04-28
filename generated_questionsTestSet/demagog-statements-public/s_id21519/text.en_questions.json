@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the threshold for automatic pension valorization?",
+      "context": "if since the last month taken for the valorization of pensions, which took place from January, which is July last year, inflation increases by more than 5% in total",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7075320512820513
+      }
+    },
+    {
+      "question": "What is the period used for determining price increases during extraordinary pension valorization?",
+      "context": "<i>in which the price increase reached at least 5%</i>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7357549857549858
+      }
+    },
+    {
+      "question": "When does the government must issue a decree for pension increases?",
+      "context": "The government must issue this within 50 days from the end of the month in which prices increased by at least 5%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8208333333333333
+      }
+    },
+    {
+      "question": "What is the expected increase in inflation rate for 2022?",
+      "context": "The Ministry of Finance expects that during 2022 there will be a relatively sharp increase in the average inflation rate to 8.5%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5948412698412698
+      }
+    },
+    {
+      "question": "What is the expected average inflation rate in 2022?",
+      "context": "The Ministry of Finance expects that during 2022 there will be a relatively sharp increase in the average inflation rate to 8.5%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.593915343915344
+      }
+    },
+    {
+      "question": "What was the average inflation rate in 2021?",
+      "context": "<a href=\"https://www.czso.cz/csu/czso/cri/indexy-spotrebitelskych-cen-inflace-prosinec-2021\">3.8%</a>.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What is the expected increase in inflation rate from January to January?",
+      "context": "The Ministry of Labor and Social Affairs is probably counting on an even faster increase of at least 1.5% in January, to a total of 5%.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7083333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the average inflation rate in 2021?",
+      "context": "<a href=\"https://www.czso.cz/csu/czso/cri/indexy-spotrebitelskych-cen-inflace-prosinec-2021\">3.8%</a>.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What is the expected increase in inflation rate from January to January?",
+      "context": "The Ministry of Labor and Social Affairs is probably counting on an even faster increase of at least 1.5% in January, to a total of 5%.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "What is the period used for determining price increases during extraordinary pension valorization?",
+      "context": "<i>in which the price increase reached at least 5%</i>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7357549857549858
+      }
+    }
+  ]
+}

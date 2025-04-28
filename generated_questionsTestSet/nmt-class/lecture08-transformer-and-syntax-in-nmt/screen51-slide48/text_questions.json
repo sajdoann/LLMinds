@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of matrices can the self-attention heads in a transformer model be seen as?",
+      "context": "I would like to report more in more detail on experiment that we did. So we realized that the attention heads, the self-attention heads in the transformer model are square matrices",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8049999999999999
+      }
+    },
+    {
+      "question": "What happens if the attention matrix is very peaked and resembles a one-hot vector?",
+      "context": "So if one of the heads of the source sentence, then it would always attend to the governor and no other words. So if the if the attention matrices were very peaked, if they would be like one hot, then the the this particle head would strictly follow the syntactic structure of the sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.785218253968254
+      }
+    },
+    {
+      "question": "How does adding a penalty to the training objective for not producing a parse with the attention head work?",
+      "context": "And since we can parse the sentence at the upfront, we can very easily like add it to the training objective and penalize the network for not producing the parse with this particle head",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.813631221719457
+      }
+    },
+    {
+      "question": "What is the purpose of constraining the training of the encoder to also produce dependency parts of the source sentence?",
+      "context": "So we have source tokens. We have the multi layer, multi hatch transformer encoder and we constrain the training of the encoder. So that not only it's trying to be most useful for the decoder and match the output sentence, but also its head number one has to produce the dependency parts of the source sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8063008130081301
+      }
+    },
+    {
+      "question": "What is the value of the parameter theta (number 20) in the document?",
+      "context": "Number 20, equals to theetta is this parameter",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7542613636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of matrices can the self-attention heads in a transformer model be seen as?",
+      "context": "I would like to report more in more detail on experiment that we did. So we realized that the attention heads, the self-attention heads in the transformer model are square matrices",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8049999999999999
+      }
+    },
+    {
+      "question": "How does adding a penalty to the training objective for not producing a parse with the attention head work?",
+      "context": "And since we can parse the sentence at the upfront, we can very easily like add it to the training objective and penalize the network for not producing the parse with this particle head",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.813631221719457
+      }
+    },
+    {
+      "question": "What happens if the attention matrix is very peaked and resembles a one-hot vector?",
+      "context": "So if one of the heads of the source sentence, then it would always attend to the governor and no other words. So if the if the attention matrices were very peaked, if they would be like one hot, then the the this particle head would strictly follow the syntactic structure of the sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.785218253968254
+      }
+    }
+  ]
+}

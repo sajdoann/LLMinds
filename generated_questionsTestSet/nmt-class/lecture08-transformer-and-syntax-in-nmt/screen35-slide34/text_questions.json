@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a limitation of plain LSTM or GRU models in capturing long-range dependencies?",
+      "context": "...the previous token in the sequence and that is, that can very easily lead to loss of information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7767857142857143
+      }
+    },
+    {
+      "question": "How do tree LSTMs help address the issue of long-range dependencies?",
+      "context": "...the dependence in the tree.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.65
+      }
+    },
+    {
+      "question": "What is a mathematical approximation used for dependency trees that ignores the order of children?",
+      "context": "...sum the memories from all the children and that will disregard the order and it will allow for any number of children that the node happens to have in the current parse.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8010416666666667
+      }
+    },
+    {
+      "question": "How do constituency trees relate to the construction of tree LSTMs?",
+      "context": "...the grammars of constituency trees are designed so that there is often a fixed number of children.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8004261363636364
+      }
+    },
+    {
+      "question": "What are some differences in formulas for LSTM cells used in tree and constituency-based models?",
+      "context": "...the formulas are slightly different for this LSTM cell and they differ in whether the children can be ...of any number and whether their order is ...of any number.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8285714285714285
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a limitation of plain LSTM or GRU models in capturing long-range dependencies?",
+      "context": "...the previous token in the sequence and that is, that can very easily lead to loss of information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7767857142857143
+      }
+    },
+    {
+      "question": "What is a mathematical approximation used for dependency trees that ignores the order of children?",
+      "context": "...sum the memories from all the children and that will disregard the order and it will allow for any number of children that the node happens to have in the current parse.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8010416666666667
+      }
+    },
+    {
+      "question": "How do tree LSTMs help address the issue of long-range dependencies?",
+      "context": "...the dependence in the tree.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.65
+      }
+    }
+  ]
+}

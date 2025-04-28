@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the effect of including Russian in the parent training data?",
+      "context": "One thing that I would like to highlight is that Russian is written in another script",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6834415584415585
+      }
+    },
+    {
+      "question": "Why does the inclusion of Russian improve the outcome of the experiment?",
+      "context": "we do get this big improvement",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the conclusion drawn from the experiment regarding the importance of related parent and child language?",
+      "context": "So the conclusion from this experiment is that it's not too important how related the parent and child language",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7305555555555555
+      }
+    },
+    {
+      "question": "What is a significant aspect of the training data that was considered in the experiment?",
+      "context": "Russian is written in another script",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6726190476190477
+      }
+    },
+    {
+      "question": "How does the inclusion of Russian in the parent training data compare to other language factors?",
+      "context": "So the conclusion from this experiment is that it's not too important how related the parent and child language",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6888888888888889
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the effect of including Russian in the parent training data?",
+      "context": "One thing that I would like to highlight is that Russian is written in another script",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6834415584415585
+      }
+    },
+    {
+      "question": "Why does the inclusion of Russian improve the outcome of the experiment?",
+      "context": "we do get this big improvement",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the conclusion drawn from the experiment regarding the importance of related parent and child language?",
+      "context": "So the conclusion from this experiment is that it's not too important how related the parent and child language",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7305555555555555
+      }
+    }
+  ]
+}

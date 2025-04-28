@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is morphological explosion in other languages?",
+      "context": "There is also morphological explosion in other languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8995535714285714
+      }
+    },
+    {
+      "question": "Why did the word millennium win as the word of the year?",
+      "context": "The word millennium then won for some reason.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8680555555555556
+      }
+    },
+    {
+      "question": "What is the purpose of breaking down German words into small pieces when translating?",
+      "context": "If you have to translate this word you have to break it into small pieces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9032738095238095
+      }
+    },
+    {
+      "question": "How does agglutination differ from compounding in word formation?",
+      "context": "The agglutination is not compounding. That's another phenomenon and in a word formation.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8771367521367521
+      }
+    },
+    {
+      "question": "Can you give an example of how to create a single word with different meaning using prefixes and suffixes?",
+      "context": "I don't speak Finnish or Hungarian, but I found somewhere that this istua is to sit down and with some prefixes and suffixes you can make",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.9306469298245614
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of breaking down German words into small pieces when translating?",
+      "context": "If you have to translate this word you have to break it into small pieces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9032738095238095
+      }
+    },
+    {
+      "question": "How does agglutination differ from compounding in word formation?",
+      "context": "The agglutination is not compounding. That's another phenomenon and in a word formation.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8771367521367521
+      }
+    },
+    {
+      "question": "Why did the word millennium win as the word of the year?",
+      "context": "The word millennium then won for some reason.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8680555555555556
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What age group will be guaranteed a dignified pension under the proposed reform?",
+      "context": "výrok",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "When did Minister of Labour and Social Affairs Marian Jurečka mention that the planned pension reforms would not affect people born before 1973?",
+      "context": "<a href='https://ct24.ceskatelevize.cz/domaci/3564561-dnesni-tricatniky-ceka-penze-v-68-letech-ukazuje-interni-dokument-ministerstva-prace'>planned pension reforms</a>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8016304347826086
+      }
+    },
+    {
+      "question": "What did Minister of Labour and Social Affairs Marian Jurečka say about the generation that will have to deal with the change?",
+      "context": "<p>Ministr práce a&nbsp;sociálních věcí Marian Jurečka...</p>",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Who said that the pension age might be adjusted for people who retire at an older age?",
+      "context": "<a href='https://ct24.ceskatelevize.cz/ekonomika/3565087-posun-duchodoveho-veku-nad-65-let-se-podle-fialy-tykal-tech-kdo-pujdou-do-penze-za'>Petr Fiala</a>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "When did Minister of Finance Zbyněk Stanjura mention that the pension age might be adjusted?",
+      "context": "<a href='https://ct24.ceskatelevize.cz/domaci/3558744-vlada-lidem-penize-nedava-jen-jim-bere-mene-rika-stanjura'>Interview ČT24</a>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7250000000000001
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What age group will be guaranteed a dignified pension under the proposed reform?",
+      "context": "výrok",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "When did Minister of Labour and Social Affairs Marian Jurečka mention that the planned pension reforms would not affect people born before 1973?",
+      "context": "<a href='https://ct24.ceskatelevize.cz/domaci/3564561-dnesni-tricatniky-ceka-penze-v-68-letech-ukazuje-interni-dokument-ministerstva-prace'>planned pension reforms</a>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8016304347826086
+      }
+    },
+    {
+      "question": "When did Minister of Finance Zbyněk Stanjura mention that the pension age might be adjusted?",
+      "context": "<a href='https://ct24.ceskatelevize.cz/domaci/3558744-vlada-lidem-penize-nedava-jen-jim-bere-mene-rika-stanjura'>Interview ČT24</a>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7250000000000001
+      }
+    },
+    {
+      "question": "What did Minister of Labour and Social Affairs Marian Jurečka say about the generation that will have to deal with the change?",
+      "context": "<p>Ministr práce a&nbsp;sociálních věcí Marian Jurečka...</p>",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

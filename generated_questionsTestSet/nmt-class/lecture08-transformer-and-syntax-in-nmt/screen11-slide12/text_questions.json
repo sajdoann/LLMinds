@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the standard thing done after subword processing with an input sequence?",
+      "context": "You do some subword processing. So you create some subword units.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9074519230769231
+      }
+    },
+    {
+      "question": "How does self-attention allow information to flow between words?",
+      "context": "...self-attention allows every word to consider every other word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What is the purpose of residual connections in this network architecture?",
+      "context": "The position one remains to reflect information from the word number one. But this is not needed.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Can the words in an input sequence be shuffled for later processing?",
+      "context": "...the network is free to move the information anywhere.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "What effect do intermediate representations have on the output of this network architecture?",
+      "context": "In some sense, they correspond to the positions of the input words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8452797202797203
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the standard thing done after subword processing with an input sequence?",
+      "context": "You do some subword processing. So you create some subword units.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9074519230769231
+      }
+    },
+    {
+      "question": "How does self-attention allow information to flow between words?",
+      "context": "...self-attention allows every word to consider every other word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "Can the words in an input sequence be shuffled for later processing?",
+      "context": "...the network is free to move the information anywhere.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of residual connections in this network architecture?",
+      "context": "The position one remains to reflect information from the word number one. But this is not needed.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

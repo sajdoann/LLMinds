@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What triggered the development of sparse-gated mixtures of experts?",
+      "context": "These 50 billion parameters of transformer needed these sparsely gated mixtures of experts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8338068181818181
+      }
+    },
+    {
+      "question": "How does the gating network decide which expert to use for a particular input sample?",
+      "context": "The gating network will observe what is the current input and it will decide which of the experts should be used which are most relevant for this.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8018115942028985
+      }
+    },
+    {
+      "question": "What is the effect on model size when training only a subset of parameters?",
+      "context": "At each of the training rounds you have only a subset of the parameters loaded in or you're operating only on this lower number of parameters.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.859577922077922
+      }
+    },
+    {
+      "question": "What is the main challenge when trying to train models for low-resource languages?",
+      "context": "The low resource languages would not use that capacity of that model anyway because they don't have enough data for that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8283653846153847
+      }
+    },
+    {
+      "question": "How does the gating network decide which experts to train more or less frequently?",
+      "context": "It's up to the gating network to decide when which of the experts should be trained.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7589285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What triggered the development of sparse-gated mixtures of experts?",
+      "context": "These 50 billion parameters of transformer needed these sparsely gated mixtures of experts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8338068181818181
+      }
+    },
+    {
+      "question": "What is the effect on model size when training only a subset of parameters?",
+      "context": "At each of the training rounds you have only a subset of the parameters loaded in or you're operating only on this lower number of parameters.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.859577922077922
+      }
+    },
+    {
+      "question": "How does the gating network decide which expert to use for a particular input sample?",
+      "context": "The gating network will observe what is the current input and it will decide which of the experts should be used which are most relevant for this.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8018115942028985
+      }
+    },
+    {
+      "question": "How does the gating network decide which experts to train more or less frequently?",
+      "context": "It's up to the gating network to decide when which of the experts should be trained.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7589285714285714
+      }
+    }
+  ]
+}

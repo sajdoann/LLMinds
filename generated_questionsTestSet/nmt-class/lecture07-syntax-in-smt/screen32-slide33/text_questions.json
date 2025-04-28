@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the approach used for machine translation?",
+      "context": "So here is a brief summary of the constituency syntax in machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8052884615384616
+      }
+    },
+    {
+      "question": "How do the smaller pieces combine with bigger pieces during bottom-up parsing?",
+      "context": "Smaller pieces are combined with bigger pieces.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8603896103896104
+      }
+    },
+    {
+      "question": "What is the purpose of keeping record of what is in the boxes during bottom-up parsing?",
+      "context": "So that when you are putting the smaller boxes together with the bigger boxes, your language model can run over all the words and score it.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8385416666666667
+      }
+    },
+    {
+      "question": "What is the goal of using proper labels for syntactic trees?",
+      "context": "If we use the proper labels, proper non-terminal labels in the syntactic trees...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "Why is binarization used to extract non-isomorphic trees?",
+      "context": "...you need to do these tricks such as binarization to extract non-isomorphic trees.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.921875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the approach used for machine translation?",
+      "context": "So here is a brief summary of the constituency syntax in machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8052884615384616
+      }
+    },
+    {
+      "question": "How do the smaller pieces combine with bigger pieces during bottom-up parsing?",
+      "context": "Smaller pieces are combined with bigger pieces.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8603896103896104
+      }
+    },
+    {
+      "question": "What is the purpose of keeping record of what is in the boxes during bottom-up parsing?",
+      "context": "So that when you are putting the smaller boxes together with the bigger boxes, your language model can run over all the words and score it.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8385416666666667
+      }
+    },
+    {
+      "question": "What is the goal of using proper labels for syntactic trees?",
+      "context": "If we use the proper labels, proper non-terminal labels in the syntactic trees...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ]
+}

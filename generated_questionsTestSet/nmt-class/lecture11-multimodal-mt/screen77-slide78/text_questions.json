@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the attention mechanism illustrated in the picture?",
+      "context": "The first sentence of the text",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "How often did the decoder consider the image in the hierarchical attention setup?",
+      "context": "The second line of the text",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5431818181818182
+      }
+    },
+    {
+      "question": "What is the purpose of the 'self-attention' step in the hierarchical attention mechanism?",
+      "context": "The third line of the text",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5227272727272727
+      }
+    },
+    {
+      "question": "Under what conditions did the decoder take a look at the visual information in the setup?",
+      "context": "When discussing the lighter spots on the second line",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "What can be inferred about the role of color in the hierarchical attention mechanism?",
+      "context": "The discussion around the color green and its salience",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7548076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the attention mechanism illustrated in the picture?",
+      "context": "The first sentence of the text",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "Under what conditions did the decoder take a look at the visual information in the setup?",
+      "context": "When discussing the lighter spots on the second line",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "How often did the decoder consider the image in the hierarchical attention setup?",
+      "context": "The second line of the text",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5431818181818182
+      }
+    },
+    {
+      "question": "What can be inferred about the role of color in the hierarchical attention mechanism?",
+      "context": "The discussion around the color green and its salience",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7548076923076923
+      }
+    }
+  ]
+}

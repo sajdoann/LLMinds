@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the main objective of the experiment described in the paper?",
+      "context": "So what they were doing, or actually that was Desmond's, Eliot's paper, sorry.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8365384615384616
+      }
+    },
+    {
+      "question": "How did the non-multimodal system perform in translating sentences with degraded input?",
+      "context": "The NMT, the non-multimodal setup produced a buoy.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8318452380952381
+      }
+    },
+    {
+      "question": "What was different about the way the multimodal system translated sentences compared to the non-multimodal system?",
+      "context": "And here similarly the color of the towel was in the source text and the multimodal system was able to pick it up from the image.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8642857142857143
+      }
+    },
+    {
+      "question": "Why did the authors replace a gender-specific term with a more ambiguous term in their example?",
+      "context": "I have replaced that with the gender ambiguous term tennis player, the data set actually mentioned the gender.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8738839285714286
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the capabilities of architectures trained on text and visual information?",
+      "context": "The final message is that the architectures really are capable of finding the relevant information at least concerning colors and some key other aspects such as the gender.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8975
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why did the authors replace a gender-specific term with a more ambiguous term in their example?",
+      "context": "I have replaced that with the gender ambiguous term tennis player, the data set actually mentioned the gender.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8738839285714286
+      }
+    },
+    {
+      "question": "What was different about the way the multimodal system translated sentences compared to the non-multimodal system?",
+      "context": "And here similarly the color of the towel was in the source text and the multimodal system was able to pick it up from the image.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8642857142857143
+      }
+    },
+    {
+      "question": "How did the non-multimodal system perform in translating sentences with degraded input?",
+      "context": "The NMT, the non-multimodal setup produced a buoy.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8318452380952381
+      }
+    }
+  ]
+}

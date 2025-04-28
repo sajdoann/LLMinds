@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the author mean by 'the inputs here'?",
+      "context": "The first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.3472222222222222
+      }
+    },
+    {
+      "question": "Why does the attention mechanism consider the first word the most?",
+      "context": "The second sentence of the first paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5347222222222222
+      }
+    },
+    {
+      "question": "How do the weights get identified as most useful?",
+      "context": "The third sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5902777777777778
+      }
+    },
+    {
+      "question": "What is the effect of the attention mechanism on the decoder's state?",
+      "context": "The fourth and fifth sentences of the first paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.653125
+      }
+    },
+    {
+      "question": "What does the author mean by 'alignment between the states of the encoder and the decoder'?",
+      "context": "The last sentence of the first paragraph",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.530448717948718
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do the weights get identified as most useful?",
+      "context": "The third sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5902777777777778
+      }
+    },
+    {
+      "question": "What is the effect of the attention mechanism on the decoder's state?",
+      "context": "The fourth and fifth sentences of the first paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.653125
+      }
+    },
+    {
+      "question": "Why does the attention mechanism consider the first word the most?",
+      "context": "The second sentence of the first paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5347222222222222
+      }
+    },
+    {
+      "question": "What does the author mean by 'alignment between the states of the encoder and the decoder'?",
+      "context": "The last sentence of the first paragraph",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.530448717948718
+      }
+    }
+  ]
+}

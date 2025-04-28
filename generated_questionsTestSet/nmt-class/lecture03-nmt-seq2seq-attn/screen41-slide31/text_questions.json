@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the source of the input in machine translation?",
+      "context": "The input is just a sequence of source language tokens.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6819444444444445
+      }
+    },
+    {
+      "question": "How are the target language and source vocabulary related in machine translation?",
+      "context": "Then you have the input.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7979166666666666
+      }
+    },
+    {
+      "question": "What do sub-work units refer to in the context of machine translation?",
+      "context": "These are sub-work units obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How does the input relate to the output in machine translation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What is the primary function of machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What do sub-work units refer to in the context of machine translation?",
+      "context": "These are sub-work units obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How are the target language and source vocabulary related in machine translation?",
+      "context": "Then you have the input.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7979166666666666
+      }
+    },
+    {
+      "question": "How does the input relate to the output in machine translation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    }
+  ]
+}

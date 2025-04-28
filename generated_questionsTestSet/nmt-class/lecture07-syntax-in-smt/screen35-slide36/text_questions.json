@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was one of the errors found in the translation from English to Czech?",
+      "context": "The sentence where the first error was found",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.793956043956044
+      }
+    },
+    {
+      "question": "Why is the word 'cut' considered an unspecific verb in English?",
+      "context": "The explanation of why the word 'cut' is unspecific",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7301136363636364
+      }
+    },
+    {
+      "question": "How does the syntactic structure of a sentence with a long distance dependency work?",
+      "context": "The explanation of long distance dependencies in sentences",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7355769230769231
+      }
+    },
+    {
+      "question": "What is the correct case for the word 'trava' when it is the subject in a passive sentence?",
+      "context": "The explanation of the case for 'trava' in Czech sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "Why did the translator choose to use an active voice instead of a passive one when translating from English to Czech?",
+      "context": "The explanation of the translation choice between active and passive voice",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.76875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was one of the errors found in the translation from English to Czech?",
+      "context": "The sentence where the first error was found",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.793956043956044
+      }
+    },
+    {
+      "question": "Why is the word 'cut' considered an unspecific verb in English?",
+      "context": "The explanation of why the word 'cut' is unspecific",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7301136363636364
+      }
+    },
+    {
+      "question": "What is the correct case for the word 'trava' when it is the subject in a passive sentence?",
+      "context": "The explanation of the case for 'trava' in Czech sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "Why did the translator choose to use an active voice instead of a passive one when translating from English to Czech?",
+      "context": "The explanation of the translation choice between active and passive voice",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.76875
+      }
+    }
+  ]
+}

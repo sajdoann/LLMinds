@@ -1,0 +1,413 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main aim of domesticating plants and animals?",
+      "context": "Domestication occurs with the aim of obtaining food, industrial products (leather, fiber, etc.) from plants and animals, or for other purposes (transport, protection, etc.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8384408602150537
+      }
+    },
+    {
+      "question": "Why were there only a few centers of plant origin?",
+      "context": "These centers were discovered by the outstanding scientist, geneticist and breeder M. I. Vavilov (Fig. 53.1). The regions themselves in which domestication occurred had certain peculiarities.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9287096774193548
+      }
+    },
+    {
+      "question": "What was one of the ways to domesticate animals?",
+      "context": "The process of domestication of animals could occur in two ways. The first is the classic formation of mutualistic relationships between two species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8405017921146953
+      }
+    },
+    {
+      "question": "When were modern domestic dogs domesticated?",
+      "context": "Modern domestic dogs were domesticated about 10,000 years ago in Asia.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9599217986314761
+      }
+    },
+    {
+      "question": "Why were cats domesticated?",
+      "context": "Cats became domesticated a little later. They occupied the niche of “rodent hunters” when grain reserves began to be created in the Near Asian center of plant origin.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9261786600496278
+      }
+    },
+    {
+      "question": "What are some requirements for successful animal domestication?",
+      "context": "Animals must grow fast enough, be unpretentious to food, form groups with a certain social structure in natural conditions (herds or packs), not show excessive aggression towards humans, etc.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9073275862068966
+      }
+    },
+    {
+      "question": "Where did most domestic animals originate from?",
+      "context": "Most domestic animals were domesticated in Eurasia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9423963133640553
+      }
+    },
+    {
+      "question": "What is selection, according to the text?",
+      "context": "Selection is the science of methods for creating new varieties and hybrids of plants, animal breeds and strains (genetically identical) of microorganisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8234295415959253
+      }
+    },
+    {
+      "question": "What are the main uses of classical methods in organism selection?",
+      "context": "Mainly in plant and microorganism selection, very rarely in animal selection due to the small number of offspring",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8319820596860446
+      }
+    },
+    {
+      "question": "What is biotechnology used for?",
+      "context": "to produce various substances using living organisms, biological processes or phenomena",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8357771260997068
+      }
+    },
+    {
+      "question": "What is traditional biotechnology based on?",
+      "context": "Traditional biotechnology is based on the phenomenon of fermentation - the use of microorganisms' enzymes in production processes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.830981182795699
+      }
+    },
+    {
+      "question": "What is the scope of application for cell engineering technologies?",
+      "context": "Promising directions of using cell engineering technologies Direction Scope of application Industrial production of valuable biologically active substances of plant origin Pharmacy, household chemicals, food industry",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8495792426367461
+      }
+    },
+    {
+      "question": "What are the main applications of cell engineering?",
+      "context": "Cell engineering has several areas of practical use, including industrial production of valuable biologically active substances of plant origin, pharmacy, household chemicals, food industry, and use of tissue and cell cultures for rapid clonal micropropagation and plant health improvement.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8432459677419355
+      }
+    },
+    {
+      "question": "What is the purpose of the GFP gene in molecular genetic studies?",
+      "context": "The GFP gene, isolated from jellyfish, is used to label certain cells of organisms and provides the synthesis of a fluorescent protein that glows in the dark.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8244134897360704
+      }
+    },
+    {
+      "question": "What are some examples of applications of genetic engineering?",
+      "context": "Genetic engineering is widely used both in scientific research and in the latest breeding methods, including cloning of animals and plants, obtaining hybridomas, and plant cloning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8309957924263675
+      }
+    },
+    {
+      "question": "What is the essence of genetic engineering?",
+      "context": "The essence of genetic engineering is the artificial creation of genes with the desired properties and their introduction into the appropriate cell.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7753456221198156
+      }
+    },
+    {
+      "question": "What is transduction?",
+      "context": "This process is known to them as transduction - the transfer of bacterial genes to other bacteria using bacteriophages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7535842293906809
+      }
+    },
+    {
+      "question": "Why did gene exchange between rice and millet occur without human involvement?",
+      "context": "Recent studies have revealed gene exchange between rice and millet, and humans had nothing to do with it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.9455249841872233
+      }
+    },
+    {
+      "question": "What is horizontal gene transfer?",
+      "context": "h horizontal gene transfer from bacteria using viruses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8399193548387096
+      }
+    },
+    {
+      "question": "How much of the human genome is composed of viral genes?",
+      "context": "A detailed analysis has shown that 1% of the human genome is viral genes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8693548387096774
+      }
+    },
+    {
+      "question": "How long does it take to develop new forms using genetic engineering?",
+      "context": "Works with one gene",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9422043010752689
+      }
+    },
+    {
+      "question": "Is there reliable experimental data on the negative impact of transgenic plants on non-target organisms?",
+      "context": "To date, no reliable experimental data on the negative impact of transgenic plants resistant to pests on non-target organisms have been obtained.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.9048387096774193
+      }
+    },
+    {
+      "question": "Why are GMO products cheaper than products of conventional breeding?",
+      "context": "GMO products are cheaper than products of conventional breeding and may contain compounds useful for humans.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.9139784946236559
+      }
+    },
+    {
+      "question": "What are some diseases that can be diagnosed using genetic engineering technologies?",
+      "context": "Infectious, hereditary diseases, as well as various forms of cancer can be diagnosed in this way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9088709677419355
+      }
+    },
+    {
+      "question": "What is the main purpose of gene therapy?",
+      "context": "Its main purpose is the treatment of hereditary diseases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7676971326164874
+      }
+    },
+    {
+      "question": "What was the first successful date of gene therapy for humans?",
+      "context": "The most promising directions of using genetic engineering in modern biotechnology and medicine are the production of medicines, gene therapy, diagnostics of diseases and the production of agricultural products.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8196480938416422
+      }
+    },
+    {
+      "question": "In what year was the journal 'Human Gene Therapy' first published?",
+      "context": "The most promising directions of using genetic engineering in modern biotechnology and medicine are the production of medicines, gene therapy, diagnostics of diseases and the production of agricultural products.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8460410557184751
+      }
+    },
+    {
+      "question": "On what date was the first successful gene therapy for humans carried out?",
+      "context": "The first successful gene therapy for humans was carried out on September 14, 1990.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "What is biotechnology?",
+      "context": "The set of industrial methods used to produce various substances using living organisms, biological processes or phenomena is:\nbiotechnology",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7478777589134126
+      }
+    },
+    {
+      "question": "Which process involves changing plant or animal populations to become adapted to being kept in captivity and used by humans?",
+      "context": "The process of changing plant or animal populations, due to which\nthey become adapted to being kept in captivity and used by humans, is:\n\nnatural selection",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.875,
+        "diversity_score": 0.9177928692699491
+      }
+    },
+    {
+      "question": "What is a vector?",
+      "context": "A special DNA molecule, constructed on the basis of DNA of viruses or plasmids, which contains the desired gene, is able to ¬transport it into a cell and ensure its integration into its genetic apparatus, is:\n\nvector",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.808792924037461
+      }
+    },
+    {
+      "question": "Which technology involves using fermentation processes?",
+      "context": "Match the processes and technologies to\nwhich they belong.\n\na) technologies for obtaining recombinant DNA\nb) technologies for cell engineering\nc) technologies using fermentation processes\n1 gene therapy 2 cheese production 3 kefir production 4 GMO production\n5 hybrid production 6 bread production",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.946078431372549
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where did most domestic animals originate from?",
+      "context": "Most domestic animals were domesticated in Eurasia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9423963133640553
+      }
+    },
+    {
+      "question": "What are some diseases that can be diagnosed using genetic engineering technologies?",
+      "context": "Infectious, hereditary diseases, as well as various forms of cancer can be diagnosed in this way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9088709677419355
+      }
+    },
+    {
+      "question": "How much of the human genome is composed of viral genes?",
+      "context": "A detailed analysis has shown that 1% of the human genome is viral genes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8693548387096774
+      }
+    },
+    {
+      "question": "Why did gene exchange between rice and millet occur without human involvement?",
+      "context": "Recent studies have revealed gene exchange between rice and millet, and humans had nothing to do with it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.9455249841872233
+      }
+    },
+    {
+      "question": "What is the essence of genetic engineering?",
+      "context": "The essence of genetic engineering is the artificial creation of genes with the desired properties and their introduction into the appropriate cell.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7753456221198156
+      }
+    }
+  ]
+}

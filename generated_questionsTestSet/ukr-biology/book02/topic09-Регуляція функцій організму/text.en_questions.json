@@ -1,0 +1,534 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the three main systems that regulate processes related to maintaining homeostasis in the human body?",
+      "context": "In the human body, the regulation of processes related to maintaining homeostasis is carried out by three main systems: the nervous, endocrine, and immune systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8572722567287785
+      }
+    },
+    {
+      "question": "How do signals from the nervous system cause a release of hormones that mobilize the body's resources?",
+      "context": "When a person finds himself in a dangerous situation, signals from the nervous system cause the release of hormones that mobilize the body's resources to save him.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7857142857142857,
+        "diversity_score": 0.8692956349206349
+      }
+    },
+    {
+      "question": "What is homeostasis?",
+      "context": "The term 'homeostasis' was proposed by the American physiologist W. Cannon in 1929.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7400793650793651
+      }
+    },
+    {
+      "question": "Why is nervous regulation mainly designed for a quick and short-term effect?",
+      "context": "However, nervous regulation is designed mainly for a quick and short-term effect, so if prolonged intervention in the activity of an organ or system of organs is required, the humoral mechanism of regulation works more effectively.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.9075780849974399
+      }
+    },
+    {
+      "question": "What glands are there in the human body that produce hormones?",
+      "context": "Endocrine glands (endocrine glands) secrete the substances they have produced into the blood.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8617424242424243
+      }
+    },
+    {
+      "question": "What is the significance of vasopressin (antidiuretic hormone)?",
+      "context": "The significance of some hormones\nHormone Site of synthesis Functions\nVasopressin (antidiuretic hormone)\nPituitary gland Decrease in diuresis (urine excretion). Influence on social behavior",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8042184265010353
+      }
+    },
+    {
+      "question": "What is humoral regulation?",
+      "context": "Humoral regulation is carried out in the human body with the help of metabolic products and hormones.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7492559523809523
+      }
+    },
+    {
+      "question": "What does the endocrine system regulate and coordinate?",
+      "context": "the endocrine system regulates and coordinates important functions of the human body: growth, reproduction, metabolism, adaptation processes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8072916666666667
+      }
+    },
+    {
+      "question": "What is the function of the hypothalamus?",
+      "context": "The organs of the central department coordinate the activities of all other parts of the endocrine system. These include the pituitary gland, hypothalamus and pineal gland.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.751984126984127
+      }
+    },
+    {
+      "question": "What hormones are produced in the human body?",
+      "context": "egulation is. What functions do hormones perform? What hormones are produced in the human body?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8239468864468864
+      }
+    },
+    {
+      "question": "What is hypoglycemia?",
+      "context": "(insulin shock) - a significant decrease in the level of glucose in the blood",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6865079365079365
+      }
+    },
+    {
+      "question": "Where are the ovaries located?",
+      "context": "Located in a separate recess of the peritoneum in women",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7812169312169313
+      }
+    },
+    {
+      "question": "What are the symptoms of hypoglycemia?",
+      "context": "Insufficient secretion of insulin leads to the development of diabetes mellitus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.721031746031746
+      }
+    },
+    {
+      "question": "How does a lack of iodine affect the thyroid gland?",
+      "context": "A lack of iodine in food is very dangerous for humans. Iodine is a component of hormones synthesized by the thyroid gland.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8161375661375662
+      }
+    },
+    {
+      "question": "What are some common causes of endocrine gland dysfunction?",
+      "context": "Causes of endocrine gland dysfunction There are many reasons for the dysfunction of the endocrine glands.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "What is hyperfunction of the pituitary gland?",
+      "context": "Excessive iodine in food or medications also provokes the development of hyperfunction.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.733843537414966
+      }
+    },
+    {
+      "question": "How does stress adaptation work?",
+      "context": "The main function of stress is the adaptation of the body to changed conditions, its adaptation to a specific situation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8634920634920635
+      }
+    },
+    {
+      "question": "What triggers physiological stress?",
+      "context": "Physiological stress occurs under the influence of noise, vibration, natural disasters (earthquakes, floods, etc.), climate change.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8400297619047619
+      }
+    },
+    {
+      "question": "How does psycho-emotional stress affect a person?",
+      "context": "Psycho-emotional stress arises as a result of a person's emotional perception of a certain situation. It significantly depends on the characteristics of a person's character and his perception of a particular situation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8890692640692641
+      }
+    },
+    {
+      "question": "What is reduced thyroid function?",
+      "context": "Reduced thyroid function often occurs as a result of a lack of iodine compounds in food products.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8087301587301587
+      }
+    },
+    {
+      "question": "What is the main way the body protects itself from foreign organisms and its own cells?",
+      "context": "Immunity is the ability of the body to protect its own integrity and biological individuality. It has to be protected both from foreign organisms that can cause diseases, and from its own cells (for example, cancer cells), in which negative changes have occurred.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8692406692406692
+      }
+    },
+    {
+      "question": "What is the purpose of antibodies?",
+      "context": "To destroy the corresponding antigen, B-lymphocytes, like T-lymphocytes, multiply intensively, forming a multitude of cells that synthesize special proteins - antibodies, specific for this antigen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.753015873015873
+      }
+    },
+    {
+      "question": "What is the difference between cellular immunity and humoral immunity?",
+      "context": "Although in both of these cases, certain types of white blood cells - T-lymphocytes and B-lymphocytes - are responsible for immune reactions. Cellular immunity is provided by T-lymphocytes, which have receptors on the surface of their membranes that can recognize a certain antigen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8348595848595849
+      }
+    },
+    {
+      "question": "What is the function of B-lymphocytes?",
+      "context": "Humoral immunity is provided by B-lymphocytes, which also contain receptors capable of recognizing a certain antigen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7445436507936508
+      }
+    },
+    {
+      "question": "How do antibodies neutralize harmful substances?",
+      "context": "In case of interaction with molecules dangerous to the body (for example, diphtheria toxin), antibodies neutralize them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.900093370681606
+      }
+    },
+    {
+      "question": "What is the main type of immunity that arises without the active participation of a person?",
+      "context": "Natural immunity arises without the active participation of a person, and artificial immunity is the result of the work of doctors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7948554421768708
+      }
+    },
+    {
+      "question": "How does natural passive immunity differ from other types of immunity?",
+      "context": "To learn more about the types of immunity, see the table.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8461038961038961
+      }
+    },
+    {
+      "question": "What is the difference between active and passive immunity?",
+      "context": "Natural passive immunity occurs during the transfer of formed antibodies from one person to another. Artificial passive immunity is created artificially, by injecting ready-made antibodies from one person to another.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8140933140933141
+      }
+    },
+    {
+      "question": "What type of immunity arises without the active participation of a person?",
+      "context": "Natural immunity arises without the active participation of a person, and artificial immunity is the result of the work of doctors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.794237012987013
+      }
+    },
+    {
+      "question": "How does natural passive immunity provide protection against infection?",
+      "context": "This type of immunity provides short-term protection against infection",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9113756613756614
+      }
+    },
+    {
+      "question": "What triggers an excessive immune system response?",
+      "context": "An excessively strong immune system response leads to the development of allergies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8130668934240363
+      }
+    },
+    {
+      "question": "What happens when the body perceives some of its own cells as foreign?",
+      "context": "This causes an immune response, which leads to the destruction and death of cells and tissues.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8150793650793651
+      }
+    },
+    {
+      "question": "What happens when the body's immune system responds to its own cells as foreign?",
+      "context": "They occur when the body's immune system begins to perceive some of its own cells as foreign.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8448379351740696
+      }
+    },
+    {
+      "question": "What is a consequence of an insufficient immune system response?",
+      "context": "Insufficient activity of the immune system is also dangerous to health.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7611471861471861
+      }
+    },
+    {
+      "question": "How does HIV affect the human immune system?",
+      "context": "HIV affects the cells of the immune system. Thus, by destroying the human immune system, the virus does not give it the opportunity to form an immune response to protect the body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8635912698412699
+      }
+    },
+    {
+      "question": "What is a factor that causes immunodeficiency?",
+      "context": "Factors that cause immune suppression: radiation exposure; difficult working conditions; hereditary disorders; severe stress; malnutrition; vitamin deficiency.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8772509003601441
+      }
+    },
+    {
+      "question": "What is a type of response that manifests itself in the increased sensitivity of the body to various allergens?",
+      "context": "Allergy is a form of immunological response, which manifests itself in the increased sensitivity of the body to various allergens.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8200280112044818
+      }
+    },
+    {
+      "question": "What happens when the immune system works poorly?",
+      "context": "If the immune system works poorly, that is, there is impairment of the immune system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7893772893772893
+      }
+    },
+    {
+      "question": "What are the temporary endocrine glands?",
+      "context": "The following are considered temporary endocrine glands:\n a) pineal gland c) thymus b) pituitary gland d) adrenal glands",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8264472455648926
+      }
+    },
+    {
+      "question": "What substance reduces the level of glucose in the blood?",
+      "context": "Reduces the level of glucose in the blood:\n a) glucagon c) adrenaline b) insulin d) thyroxine",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8148148148148148
+      }
+    },
+    {
+      "question": "What is the name of the gland that produces melatonin?",
+      "context": "Match the glands of the endocrine system with the hormones they produce.\n1) parathyroid gland2) pineal gland3) testicles4) pancreas",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7963741051976346
+      }
+    },
+    {
+      "question": "What is a characteristic of the thyroid gland?",
+      "context": "Consider the image of the organ in the picture.\n. Explain what features of the structure of this organ allow it to effectively perform its functions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7622023809523809
+      }
+    },
+    {
+      "question": "What diseases can affect the thyroid gland?",
+      "context": "Consider the image of the organ in the picture.\n. Explain what diseases can affect it and how they can be transmitted.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8072860723236663
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a factor that causes immunodeficiency?",
+      "context": "Factors that cause immune suppression: radiation exposure; difficult working conditions; hereditary disorders; severe stress; malnutrition; vitamin deficiency.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8772509003601441
+      }
+    },
+    {
+      "question": "How does natural passive immunity provide protection against infection?",
+      "context": "This type of immunity provides short-term protection against infection",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9113756613756614
+      }
+    },
+    {
+      "question": "Why is nervous regulation mainly designed for a quick and short-term effect?",
+      "context": "However, nervous regulation is designed mainly for a quick and short-term effect, so if prolonged intervention in the activity of an organ or system of organs is required, the humoral mechanism of regulation works more effectively.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.9075780849974399
+      }
+    },
+    {
+      "question": "How does psycho-emotional stress affect a person?",
+      "context": "Psycho-emotional stress arises as a result of a person's emotional perception of a certain situation. It significantly depends on the characteristics of a person's character and his perception of a particular situation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8890692640692641
+      }
+    },
+    {
+      "question": "How does stress adaptation work?",
+      "context": "The main function of stress is the adaptation of the body to changed conditions, its adaptation to a specific situation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8634920634920635
+      }
+    }
+  ]
+}

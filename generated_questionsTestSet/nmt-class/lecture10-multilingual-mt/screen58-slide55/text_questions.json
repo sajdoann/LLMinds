@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the three original parallel corpora mentioned?",
+      "context": "So we have this original parallel corpora",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8013392857142857
+      }
+    },
+    {
+      "question": "Which two specific languages has a parallel corpus compared to English?",
+      "context": "and we have the Spanish-English, and we have the English-French corpus",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What is the name of the system that was trained using these corpora?",
+      "context": "we have used these to train the paths in the multi-way, multi-source, multi-target, in the multi-way system",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "What is the direction of the training process for the multi-way system?",
+      "context": "But now we can take the English...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7607142857142857
+      }
+    },
+    {
+      "question": "How many sources are mentioned as being used in the training process of the multi-way system?",
+      "context": "multi-source",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the three original parallel corpora mentioned?",
+      "context": "So we have this original parallel corpora",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8013392857142857
+      }
+    },
+    {
+      "question": "How many sources are mentioned as being used in the training process of the multi-way system?",
+      "context": "multi-source",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What is the name of the system that was trained using these corpora?",
+      "context": "we have used these to train the paths in the multi-way, multi-source, multi-target, in the multi-way system",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8541666666666667
+      }
+    }
+  ]
+}

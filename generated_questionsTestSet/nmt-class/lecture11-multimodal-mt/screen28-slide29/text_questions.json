@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the intention behind starting the ASR system locally?",
+      "context": "This is a complex setup and the error that we made was that we happened to start the ASR system locally.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "Why did the pipeline experience delays?",
+      "context": "The whole pipeline works but it is delayed because your first mile connection is overloaded with the sound that you are shipping there and back.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8568840579710145
+      }
+    },
+    {
+      "question": "What was the nature of the misconfiguration issue?",
+      "context": "We also had a strange misconfiguration issue and it took us quite a while to diagnose it.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "How did the ASR system's local operation affect the pipeline?",
+      "context": "That was intentional because the models like we had we had the models compiled only on the particle machine which was directly acquired the sound.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What is a common source of errors in this pipeline?",
+      "context": "So again this is something which is very easy to make as a mistake and quite difficult to realize.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.861764705882353
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a common source of errors in this pipeline?",
+      "context": "So again this is something which is very easy to make as a mistake and quite difficult to realize.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.861764705882353
+      }
+    },
+    {
+      "question": "Why did the pipeline experience delays?",
+      "context": "The whole pipeline works but it is delayed because your first mile connection is overloaded with the sound that you are shipping there and back.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8568840579710145
+      }
+    },
+    {
+      "question": "How did the ASR system's local operation affect the pipeline?",
+      "context": "That was intentional because the models like we had we had the models compiled only on the particle machine which was directly acquired the sound.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472222222222222
+      }
+    }
+  ]
+}

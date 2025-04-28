@@ -1,0 +1,325 @@
+{
+  "all_questions": [
+    {
+      "question": "What is stated about the Earth's position during a lunar eclipse?",
+      "context": "The Earth has been proved to have no motion, either upon axes or in an orbit round the Sun, and therefore it could never come between the Sun and the Moon.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8208473625140291
+      }
+    },
+    {
+      "question": "What is observed during a total lunar eclipse?",
+      "context": "The Moon has sometimes shown during a total Eclipse with an almost unaccountable distinctness. On Dec. 22, 1703, the Moon, when totally immersed in the Earth’s shadow, was visible at Avignon by a ruddy light of such brilliancy that one might have imagined her body to be transparent.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8171296296296297
+      }
+    },
+    {
+      "question": "What type of event did James Glaisher witness?",
+      "context": "To a certain extent I witnessed some of these phenomena during the merely partial eclipse of February 7th, 1860.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8506944444444444
+      }
+    },
+    {
+      "question": "What unusual phenomenon did James Glaisher observe during the lunar eclipse?",
+      "context": "Reddish is not the word to express it; it is red—red hot!",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8087121212121212
+      }
+    },
+    {
+      "question": "What is happening to the 'Lake of Sleep' during the eclipse?",
+      "context": "I particularly notice that the ‘Lake of Sleep’ has disappeared in this brightness, instead of standing out in a darker shade:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7971491228070176
+      }
+    },
+    {
+      "question": "Why does the author compare the Moon's appearance to a red-hot penny?",
+      "context": "The redness continues to be most perceptible at a distance from the shadow’s southern edge, and to be greatest about the region of ‘Endymion.’ The Hercynian mountains (north of Grimaldus) are, however, of rather a bright red, and Grimaldus shows well.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8599076704545454
+      }
+    },
+    {
+      "question": "What happened to the Moon after a lunar eclipse?",
+      "context": "no trace of it remained, and ere long clouds came on.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7895622895622896
+      }
+    },
+    {
+      "question": "Why can't we see the Earth's shadow as the cause of a lunar eclipse if the Sun, Moon, and Earth are not in a line?",
+      "context": "If then, the Sun and Moon have many times been seen above the horizon when the latter was eclipsed, how can it be said that the Earth’s shadow was the cause of a lunar eclipse, when the Earth was not between or in a line with the Sun and Moon?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8752492025518341
+      }
+    },
+    {
+      "question": "Can a reflector radiate or throw off more than what it receives?",
+      "context": "If sound of a given pitch be produced, the same pitch will be reflected. If the note A be sounded upon a musical instrument, a reflector would not return the note B or C, but the same note, altered only in degree or intensity, but not in “pitch.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8721788194444444
+      }
+    },
+    {
+      "question": "What can a reflector do to light it receives?",
+      "context": "A reflector receiving a red light would not return a blue or yellow light.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8298611111111112
+      }
+    },
+    {
+      "question": "What happens to chloride of silver when it is exposed to the Sun's rays?",
+      "context": "This substance, however, highly susceptible as it is of having its colour affected by light, is, nevertheless, found not to be changed in any sensible degree when exposed to the light of the Moon, even when that light is condensed by the most powerful burning lenses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8299595141700404
+      }
+    },
+    {
+      "question": "Why does the Sun's light have a drying and preservative effect while the Moon's light has a damp and putrefactive effect?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9485294117647058
+      }
+    },
+    {
+      "question": "What happens to metallic and alkaline substances when exposed to concentrated sunlight?",
+      "context": "But the Sun's light when concentrated by a number of mirrors, or a large burning lens, produces a focus which is entirely non-luminous, but in which the heat is so great that metallic and alkaline substances are quickly fused;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "What temperature change can be detected when exposed to concentrated Moonlight?",
+      "context": "If the most delicate thermometer be exposed to the full light of the Moon, shining with its greatest lustre, the mercury is not elevated a hair's breadth;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8363320707070707
+      }
+    },
+    {
+      "question": "What happens when metallic and alkaline substances are exposed to concentrated Moonlight?",
+      "context": "Not the slightest change,[101] however, was produced in the thermometric column, proving that a concentration of rays sufficient to fuse gold, if they proceed from the Sun, does not produce a change of temperature so great as the thousandth part of a degree, when they proceed from the Moon.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8617210960960962
+      }
+    },
+    {
+      "question": "What was the result of concentrating the light of the full Moon using a burning glass?",
+      "context": "No effect was produced, though the lunar rays by this glass were concentrated 300 times.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8581196581196581
+      }
+    },
+    {
+      "question": "Why did Dr. Forbes' experiment not produce any thermo-effect?",
+      "context": "The image of the Moon which was only eighteen hours past full, and less than two hours from the meridian, was brilliantly thrown by this lens on the extremity of a commodious thermo-pile.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.912037037037037
+      }
+    },
+    {
+      "question": "What is meant by the expression 'pale cold Moon'?",
+      "context": "The “pale cold Moon” is an expression not only beautiful poetically but evidently true philosophically.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "Why does the Moon's rays not behave like a regular reflector when concentrated?",
+      "context": "If, as we have now seen, the very nature of a reflector demands certain conditions and the Moon does not manifest these conditions, it must of necessity be concluded that the Moon is not a reflector, but a self-luminous body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8547008547008547
+      }
+    },
+    {
+      "question": "What is the reason for the intensity of light from the Moon during a Lunar Eclipse?",
+      "context": "As the light in a lantern shines most brightly in the darkest places, so would the Moon’s self-luminous surface be most intense in the deepest part of the Earth’s shadow.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8086827122153208
+      }
+    },
+    {
+      "question": "Why are astronomical calculations accurate?",
+      "context": "The precision of astronomy arises, not from theories, but from prolonged observations, and the regularity of the motions, or the ascertained uniformity of their irregularities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8671052631578947
+      }
+    },
+    {
+      "question": "What is necessary for calculating Eclipses?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "Why can astronomers make accurate calculations regardless of their theories?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8494047619047619
+      }
+    },
+    {
+      "question": "What is the source of precision in astronomy?",
+      "context": "The precision of astronomy arises, not from theories, but from prolonged observations, and the regularity of the motions, or the ascertained uniformity of their irregularities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7874177631578947
+      }
+    },
+    {
+      "question": "Does a particular theory affect the accuracy of eclipse calculations?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8119047619047619
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can a reflector radiate or throw off more than what it receives?",
+      "context": "If sound of a given pitch be produced, the same pitch will be reflected. If the note A be sounded upon a musical instrument, a reflector would not return the note B or C, but the same note, altered only in degree or intensity, but not in “pitch.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8721788194444444
+      }
+    },
+    {
+      "question": "Why did Dr. Forbes' experiment not produce any thermo-effect?",
+      "context": "The image of the Moon which was only eighteen hours past full, and less than two hours from the meridian, was brilliantly thrown by this lens on the extremity of a commodious thermo-pile.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.912037037037037
+      }
+    },
+    {
+      "question": "Why does the author compare the Moon's appearance to a red-hot penny?",
+      "context": "The redness continues to be most perceptible at a distance from the shadow’s southern edge, and to be greatest about the region of ‘Endymion.’ The Hercynian mountains (north of Grimaldus) are, however, of rather a bright red, and Grimaldus shows well.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8599076704545454
+      }
+    },
+    {
+      "question": "Why can astronomers make accurate calculations regardless of their theories?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8494047619047619
+      }
+    }
+  ]
+}

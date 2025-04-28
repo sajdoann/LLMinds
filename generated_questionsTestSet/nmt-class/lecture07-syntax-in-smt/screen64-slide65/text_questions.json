@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the morphological layer in machine translation?",
+      "context": "The input",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5
+      }
+    },
+    {
+      "question": "What are the nodes for each word in both the morphological and analytic layers?",
+      "context": "Both the morphological layer and the analytic layer",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6586538461538461
+      }
+    },
+    {
+      "question": "What is labeled in both the morphological and analytic layers?",
+      "context": "Both the morphological layer and the analytic layer",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "Who is considered as the root of this tree in machine translation?",
+      "context": "The deep syntactic tree",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What needs to be done first after identifying the root of the deep syntactic tree?",
+      "context": "After identifying the root of the deep syntactic tree",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8102678571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is labeled in both the morphological and analytic layers?",
+      "context": "Both the morphological layer and the analytic layer",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "What are the nodes for each word in both the morphological and analytic layers?",
+      "context": "Both the morphological layer and the analytic layer",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6586538461538461
+      }
+    },
+    {
+      "question": "Who is considered as the root of this tree in machine translation?",
+      "context": "The deep syntactic tree",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6458333333333334
+      }
+    }
+  ]
+}

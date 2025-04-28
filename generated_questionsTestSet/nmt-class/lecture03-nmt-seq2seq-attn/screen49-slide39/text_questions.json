@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a limitation of neural networks in machine translation tasks?",
+      "context": "But the ugly consequence of this training is that we expect, we are training the model to produce the exact word at the exact position.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6997607655502392
+      }
+    },
+    {
+      "question": "Why do neural networks struggle with variability in language output?",
+      "context": "There are many ways how to translate a sentence and even with a fixed set of words there are many ways to reorder them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8111111111111111
+      }
+    },
+    {
+      "question": "What happens when neural networks are trained on parallel corpora?",
+      "context": "So the training criterion of neural networks for machine translation task is inadequate in the sense that they are forced to memorize the parallel corpus.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7396739130434782
+      }
+    },
+    {
+      "question": "What is a potential outcome when neural networks have too many parameters?",
+      "context": "If they have a large enough number of parameters and if you train them for a long enough time they will simply memorize all the sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What is the implication of neural networks being trained to produce exact words at their exact positions?",
+      "context": "Because it is trained to produce the exact words at their exact positions. Yeah.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7674278846153846
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a limitation of neural networks in machine translation tasks?",
+      "context": "But the ugly consequence of this training is that we expect, we are training the model to produce the exact word at the exact position.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6997607655502392
+      }
+    },
+    {
+      "question": "Why do neural networks struggle with variability in language output?",
+      "context": "There are many ways how to translate a sentence and even with a fixed set of words there are many ways to reorder them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8111111111111111
+      }
+    },
+    {
+      "question": "What is a potential outcome when neural networks have too many parameters?",
+      "context": "If they have a large enough number of parameters and if you train them for a long enough time they will simply memorize all the sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What is the implication of neural networks being trained to produce exact words at their exact positions?",
+      "context": "Because it is trained to produce the exact words at their exact positions. Yeah.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7674278846153846
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a possible approach to preserving attachments while creating fixed-size representations?",
+      "context": "So how do we convert the how do we create the fixed size representations and maybe still preserve the attached in the model?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6458333333333333
+      }
+    },
+    {
+      "question": "What option is mentioned as a possible way to achieve this?",
+      "context": "So how do we convert the how do we create the fixed size representations and maybe still preserve the attached in the model?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6363636363636364
+      }
+    },
+    {
+      "question": "Why might not using attention be a viable solution?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9722222222222222
+      }
+    },
+    {
+      "question": "What is the purpose of mentioning that one thing is an option, but then saying 'well don't use attention'?",
+      "context": "So how do we convert the how do we create the fixed size representations and maybe still preserve the attached in the model?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6736111111111112
+      }
+    },
+    {
+      "question": "What tone or attitude is conveyed by saying 'well don't use attention'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8854166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a possible approach to preserving attachments while creating fixed-size representations?",
+      "context": "So how do we convert the how do we create the fixed size representations and maybe still preserve the attached in the model?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6458333333333333
+      }
+    },
+    {
+      "question": "Why might not using attention be a viable solution?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9722222222222222
+      }
+    },
+    {
+      "question": "What is the purpose of mentioning that one thing is an option, but then saying 'well don't use attention'?",
+      "context": "So how do we convert the how do we create the fixed size representations and maybe still preserve the attached in the model?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6736111111111112
+      }
+    }
+  ]
+}

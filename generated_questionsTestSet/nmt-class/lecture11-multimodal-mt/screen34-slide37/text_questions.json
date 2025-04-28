@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when the output volume is too loud?",
+      "context": "If the output is too loud, then the components further down the pipeline will fight against that.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6722222222222223
+      }
+    },
+    {
+      "question": "Why is it important to ensure intermediate components produce a reasonable range of volumes?",
+      "context": "So when you are acquiring the sound, you really have to be sure that every intermediate component is producing output in a reasonable range of volumes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7814285714285714
+      }
+    },
+    {
+      "question": "What is the purpose of monitoring the pipeline's output volume?",
+      "context": "So when you are acquiring the sound, you really have to be sure that every intermediate component is producing output in a reasonable range of volumes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6683333333333333
+      }
+    },
+    {
+      "question": "How can an unbalanced output volume affect the overall sound quality?",
+      "context": "If the output is too quiet, then you are not getting the signal. If the output is too loud, then the components further down the pipeline will fight against that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.783008658008658
+      }
+    },
+    {
+      "question": "What is the consequence of a poorly balanced pipeline?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when the output volume is too loud?",
+      "context": "If the output is too loud, then the components further down the pipeline will fight against that.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6722222222222223
+      }
+    },
+    {
+      "question": "Why is it important to ensure intermediate components produce a reasonable range of volumes?",
+      "context": "So when you are acquiring the sound, you really have to be sure that every intermediate component is producing output in a reasonable range of volumes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7814285714285714
+      }
+    },
+    {
+      "question": "How can an unbalanced output volume affect the overall sound quality?",
+      "context": "If the output is too quiet, then you are not getting the signal. If the output is too loud, then the components further down the pipeline will fight against that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.783008658008658
+      }
+    },
+    {
+      "question": "What is the purpose of monitoring the pipeline's output volume?",
+      "context": "So when you are acquiring the sound, you really have to be sure that every intermediate component is producing output in a reasonable range of volumes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6683333333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of neural network system was used by Jörg Tiedemann in 2018?",
+      "context": "It's interesting to look at this token, because this token receives the standard embedding as other words receive.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5622171945701357
+      }
+    },
+    {
+      "question": "What was the goal of the dataset used by Jörg Tiedemann?",
+      "context": "It's interesting to look at this token, because this token receives the standard embedding as other words receive. So we can use this token to look at the language level embedding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.40312499999999996
+      }
+    },
+    {
+      "question": "How many languages was the system trained on?",
+      "context": "So we can use this token to look at the language level embedding. And this is what Jörg Tiedemann did in 2018 with this recurrent neural network system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.5492788461538461
+      }
+    },
+    {
+      "question": "What was unique about the dataset used by Jörg Tiedemann?",
+      "context": "So we can use this token to look at the language level embedding. And this is what Jörg Tiedemann did in 2018 with this recurrent neural network system. It was trained to translate Bible in close to 1000 languages, so 900 languages, but just the Bible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.47565789473684206
+      }
+    },
+    {
+      "question": "What can be inferred about the quality of English translations based on the dataset used by Jörg Tiedemann?",
+      "context": "So we can use this token to look at the language level embedding. And this is what Jörg Tiedemann did in 2018 with this recurrent neural network system. So the dataset is very limited, but it's many different English translations of the Bible, so the English is not so poor.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6010558069381599
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of neural network system was used by Jörg Tiedemann in 2018?",
+      "context": "It's interesting to look at this token, because this token receives the standard embedding as other words receive.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5622171945701357
+      }
+    },
+    {
+      "question": "What was unique about the dataset used by Jörg Tiedemann?",
+      "context": "So we can use this token to look at the language level embedding. And this is what Jörg Tiedemann did in 2018 with this recurrent neural network system. It was trained to translate Bible in close to 1000 languages, so 900 languages, but just the Bible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.47565789473684206
+      }
+    },
+    {
+      "question": "What was the goal of the dataset used by Jörg Tiedemann?",
+      "context": "It's interesting to look at this token, because this token receives the standard embedding as other words receive. So we can use this token to look at the language level embedding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.40312499999999996
+      }
+    },
+    {
+      "question": "What can be inferred about the quality of English translations based on the dataset used by Jörg Tiedemann?",
+      "context": "So we can use this token to look at the language level embedding. And this is what Jörg Tiedemann did in 2018 with this recurrent neural network system. So the dataset is very limited, but it's many different English translations of the Bible, so the English is not so poor.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6010558069381599
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of introducing semiotics before discussing systems understanding?",
+      "context": "I now have the clickers for the slides. So before discussing whether systems understand, we need to start with a little bit of semiotics...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.766798418972332
+      }
+    },
+    {
+      "question": "What are the two main parts of the discussion that will be covered?",
+      "context": "So we need to discuss when are we happy with the representations learned by the system. And then we'll talk about word level representations and sentence level representations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7663043478260869
+      }
+    },
+    {
+      "question": "What does the author imply is a key aspect of meaning?",
+      "context": "So that will be the technical part and the linguistic part, so to say. We'll be discussing the aspects of meaning.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7346256684491979
+      }
+    },
+    {
+      "question": "What does the author expect from sentence meaning?",
+      "context": "And we'll conclude with one example of ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "How will the discussion on representations be structured?",
+      "context": "...we need to start with a little bit of semiotics, then illustrate the level to which the system...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of introducing semiotics before discussing systems understanding?",
+      "context": "I now have the clickers for the slides. So before discussing whether systems understand, we need to start with a little bit of semiotics...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.766798418972332
+      }
+    },
+    {
+      "question": "What are the two main parts of the discussion that will be covered?",
+      "context": "So we need to discuss when are we happy with the representations learned by the system. And then we'll talk about word level representations and sentence level representations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7663043478260869
+      }
+    },
+    {
+      "question": "What does the author imply is a key aspect of meaning?",
+      "context": "So that will be the technical part and the linguistic part, so to say. We'll be discussing the aspects of meaning.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7346256684491979
+      }
+    }
+  ]
+}

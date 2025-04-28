@@ -1,0 +1,72 @@
+{
+  "all_questions": [
+    {
+      "question": "What happened in the text regarding a formula?",
+      "context": "This is the trick.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Why did someone mention a formula in the text?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is being discussed before mentioning the formula?",
+      "context": "So you should go over this formula to realize how the sum and the product were swapped.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happened in the text regarding a formula?",
+      "context": "This is the trick.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is being discussed before mentioning the formula?",
+      "context": "So you should go over this formula to realize how the sum and the product were swapped.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "Why did someone mention a formula in the text?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    }
+  ]
+}

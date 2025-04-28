@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the Czech word 'nemyslím' correspond to in terms of English words?",
+      "context": "This single Czech word corresponds to one, two, three, four English words in some way, and only one of them is the lexical translation and the other are elements of English word that contribute to the meaning in some way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8185483870967742
+      }
+    },
+    {
+      "question": "What did the authors realize they had accomplished when they discovered they both defined the same rules for annotators?",
+      "context": "So we realized, oh, we were doing double annotation, they were doing single annotation, so we realized we have a three-way annotation of the same data set. So did we do it the same way? And the great observation was, yes, we both, the two groups independently, defined the same rules for the annotators.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5625,
+        "diversity_score": 0.8384712837837838
+      }
+    },
+    {
+      "question": "What can be inferred about the linguistic background of the two groups that worked on the annotation?",
+      "context": "So we ended up with a three-way annotation just because the linguistic of both these groups was the same.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.6777777777777778
+      }
+    },
+    {
+      "question": "What is being suggested by the authors regarding the sharing of theories and community knowledge among people?",
+      "context": "If there is a theory, an established theory, that is shared in some community of people, then two groups can do the same task without knowing of each other.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8052884615384616
+      }
+    },
+    {
+      "question": "What was the outcome of the authors' independent work on annotation, in terms of their collaboration?",
+      "context": "So we ended up with a three-way annotation just because the linguistic of both these groups was the same.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6527777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the outcome of the authors' independent work on annotation, in terms of their collaboration?",
+      "context": "So we ended up with a three-way annotation just because the linguistic of both these groups was the same.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6527777777777778
+      }
+    },
+    {
+      "question": "What can be inferred about the linguistic background of the two groups that worked on the annotation?",
+      "context": "So we ended up with a three-way annotation just because the linguistic of both these groups was the same.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.6777777777777778
+      }
+    },
+    {
+      "question": "What did the authors realize they had accomplished when they discovered they both defined the same rules for annotators?",
+      "context": "So we realized, oh, we were doing double annotation, they were doing single annotation, so we realized we have a three-way annotation of the same data set. So did we do it the same way? And the great observation was, yes, we both, the two groups independently, defined the same rules for the annotators.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5625,
+        "diversity_score": 0.8384712837837838
+      }
+    }
+  ]
+}

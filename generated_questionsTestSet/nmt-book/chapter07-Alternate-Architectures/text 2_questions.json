@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of neural network was used in the first end-to-end neural machine translation model of the modern era?",
+      "context": "The first end-to-end neural machine translation model of the modern era (Kalchbrenner and Blunsom, 2013) was actually not based on recurrent neural networks, but based on convolutional neural networks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8731060606060606
+      }
+    },
+    {
+      "question": "What is the problem with using recurrent neural networks for output sentence translation?",
+      "context": "One problem for the decoder is to decide the length of the output sentence. One option to address this problem is to add a model that predicts output length from input length.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.808300395256917
+      }
+    },
+    {
+      "question": "What is the main problem for the decoder in the model?",
+      "context": "One problem for the decoder is to decide the length of the output sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7032828282828283
+      }
+    },
+    {
+      "question": "How do convolutional layers process input words?",
+      "context": "A convolution encodes a word with its left and right context, in a limited window.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8861138861138861
+      }
+    },
+    {
+      "question": "How do convolutional layers in the encoder process input words?",
+      "context": "For each input word, the state at each layer is informed by the corresponding state in the previous layer and its two neighbors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8247474747474748
+      }
+    },
+    {
+      "question": "What is the main difference between the canonical neural machine translation model and this architecture?",
+      "context": "The main difference between the canonical neural machine translation model and this architecture is the conditioning of the states of the decoder.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8267761650114591
+      }
+    },
+    {
+      "question": "What does 'self-attention' compute?",
+      "context": "One way to view it is that this mechanism refines the representation of each input word by enriching it with context words that help to disambiguate it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8106060606060606
+      }
+    },
+    {
+      "question": "What is self-attention supposed to do to a word's representation?",
+      "context": "Another way to put Equation 7.5 without the matrix . notation but using word representation vectors.raw association.exp.exp . normalized association (softmax) self-attention.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8520923520923521
+      }
+    },
+    {
+      "question": "What are the four additional steps that follow the self-attention step in the self-attention layer?",
+      "context": "There are four more steps that follow it. We combine self-attention with residual connections that pass the word representation through directly self-attention.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8463203463203464
+      }
+    },
+    {
+      "question": "What is the purpose of residual connections in the self-attention layer?",
+      "context": "The deep modeling is the reason behind the residual connections in the self-attention layer. such residual connections help with training since they allow a shortcut to the input which may be utilized in early stages of training, before it can take advantage of the more complex interdependencies that deep models enable.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8035476718403547
+      }
+    },
+    {
+      "question": "What is the purpose of adding the (self-attended) representation of the decoder state to the output of the attention computation?",
+      "context": "To this, we add the (self-attended) representation of the decoder state.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.785064935064935
+      }
+    },
+    {
+      "question": "How do the authors propose speeding up training in their model?",
+      "context": "This allows skipping over the deep layers, thus speeding up training..",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8636363636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do the authors propose speeding up training in their model?",
+      "context": "This allows skipping over the deep layers, thus speeding up training..",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "How do convolutional layers in the encoder process input words?",
+      "context": "For each input word, the state at each layer is informed by the corresponding state in the previous layer and its two neighbors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8247474747474748
+      }
+    },
+    {
+      "question": "What is the problem with using recurrent neural networks for output sentence translation?",
+      "context": "One problem for the decoder is to decide the length of the output sentence. One option to address this problem is to add a model that predicts output length from input length.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.808300395256917
+      }
+    }
+  ]
+}

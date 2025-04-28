@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of system does the speaker are going to focus on?",
+      "context": "And if you want to go directly to the speech in the target language, this would be a speech-to-speech system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "What aspect of machine translation will the speaker discuss?",
+      "context": "I'm not going to talk much about this and actually I know nothing about text-to-speech and I know very little about ASR.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7549019607843137
+      }
+    },
+    {
+      "question": "What combination of technologies will the speaker contrast with spoken language translation?",
+      "context": "So I'm only focusing on the machine translation aspect and contrasting that combination of ASR and MT with the spoken language translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.81875
+      }
+    },
+    {
+      "question": "What is the main difference between the speaker's focus and other types of systems?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8942307692307692
+      }
+    },
+    {
+      "question": "Will the speaker discuss any specific details about ASR or text-to-speech?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8977272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of system does the speaker are going to focus on?",
+      "context": "And if you want to go directly to the speech in the target language, this would be a speech-to-speech system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "Will the speaker discuss any specific details about ASR or text-to-speech?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8977272727272727
+      }
+    },
+    {
+      "question": "What combination of technologies will the speaker contrast with spoken language translation?",
+      "context": "So I'm only focusing on the machine translation aspect and contrasting that combination of ASR and MT with the spoken language translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.81875
+      }
+    }
+  ]
+}

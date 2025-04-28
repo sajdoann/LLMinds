@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of subtitling videos with an online session?",
+      "context": "Some videos, we're going to do this live in real time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8295454545454546
+      }
+    },
+    {
+      "question": "How does the online aspect of a video session make it difficult for subtitling?",
+      "context": "And that online aspect makes it again difficult in a certain way.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8824404761904762
+      }
+    },
+    {
+      "question": "What type of sessions is the author referring to when they talk about live video sessions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "Why are subtitles needed for online video sessions?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "What is the implication of subtitling online sessions in another language?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8295454545454546
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are subtitles needed for online video sessions?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "How does the online aspect of a video session make it difficult for subtitling?",
+      "context": "And that online aspect makes it again difficult in a certain way.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8824404761904762
+      }
+    },
+    {
+      "question": "What type of sessions is the author referring to when they talk about live video sessions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    }
+  ]
+}

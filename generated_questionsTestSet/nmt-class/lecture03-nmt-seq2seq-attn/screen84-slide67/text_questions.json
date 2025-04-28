@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of resource is accessible at each time step?",
+      "context": "One at each time step are accessible",
+      "difficulty": "factual",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "Is there a limit to the number of resources available?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What does 'accessible' imply about the availability of resources at each time step?",
+      "context": "",
+      "difficulty": "factual",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is this information specific to a particular context or situation?",
+      "context": "",
+      "difficulty": "inferential",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    },
+    {
+      "question": "Can we infer any additional information about the resources being accessed beyond what is explicitly stated?",
+      "context": "",
+      "difficulty": "inferential",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9140625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there a limit to the number of resources available?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What does 'accessible' imply about the availability of resources at each time step?",
+      "context": "",
+      "difficulty": "factual",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is this information specific to a particular context or situation?",
+      "context": "",
+      "difficulty": "inferential",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    }
+  ]
+}

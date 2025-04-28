@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the machine translation approach described in the document?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "How does the probability of a translated pair being defined in the document?",
+      "context": "The explanation of the translation memory approach",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6354166666666667
+      }
+    },
+    {
+      "question": "What is the problem with using probabilities to represent translations in the document?",
+      "context": "The discussion of technical problems with the approach",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6547619047619048
+      }
+    },
+    {
+      "question": "Why does the probability need to be defined such that it sums to more than one?",
+      "context": "The explanation of the problem with probabilities",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7250000000000001
+      }
+    },
+    {
+      "question": "What is the result of having multiple translations for a single sentence, as described in the document?",
+      "context": "The description of how systems differ from each other",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7482638888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the result of having multiple translations for a single sentence, as described in the document?",
+      "context": "The description of how systems differ from each other",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7482638888888888
+      }
+    },
+    {
+      "question": "Why does the probability need to be defined such that it sums to more than one?",
+      "context": "The explanation of the problem with probabilities",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7250000000000001
+      }
+    },
+    {
+      "question": "How does the probability of a translated pair being defined in the document?",
+      "context": "The explanation of the translation memory approach",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6354166666666667
+      }
+    }
+  ]
+}

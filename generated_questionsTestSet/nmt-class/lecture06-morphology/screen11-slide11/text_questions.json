@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the advantages of modifying language models to look at morphological text instead of word forms?",
+      "context": "So now what are the advantages if we modify our language models so that they don't look at word forms but instead they look rather at the morphological text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "How does a language model trained on sufficiently large data handle the comparison of different translation candidates?",
+      "context": "So if we're considering the probability of the bigram-two kočkách which is wrong that doesn't agree versus the probability of the phrase-two kočky which is linguistically grammatically correct there is the agreement then a reasonable language model trained on sufficiently large data would know it",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8059640522875817
+      }
+    },
+    {
+      "question": "What is the benefit of using morphological text in language models compared to word forms?",
+      "context": "So these probabilities that are trained on morphological text will be observed on many more instances of any noun and any adjective and therefore they will be estimated much more reliably",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6716666666666666
+      }
+    },
+    {
+      "question": "In what way do language models handle cases where the form and meaning of a word are not agreed?",
+      "context": "So here the language model will obviously not help. But we are still getting the benefit that the vocabulary size of these morphological text is much smaller",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6886842105263158
+      }
+    },
+    {
+      "question": "How does the use of morphological text affect the overall grammatical coherence in a sentence?",
+      "context": "And with this smaller vocabulary we can afford to use much longer engrams. So we can use of word forms and that gives the system quite a power about the overall grammatical coherence in the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7392857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the advantages of modifying language models to look at morphological text instead of word forms?",
+      "context": "So now what are the advantages if we modify our language models so that they don't look at word forms but instead they look rather at the morphological text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "How does the use of morphological text affect the overall grammatical coherence in a sentence?",
+      "context": "And with this smaller vocabulary we can afford to use much longer engrams. So we can use of word forms and that gives the system quite a power about the overall grammatical coherence in the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7392857142857143
+      }
+    },
+    {
+      "question": "What is the benefit of using morphological text in language models compared to word forms?",
+      "context": "So these probabilities that are trained on morphological text will be observed on many more instances of any noun and any adjective and therefore they will be estimated much more reliably",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6716666666666666
+      }
+    },
+    {
+      "question": "How does a language model trained on sufficiently large data handle the comparison of different translation candidates?",
+      "context": "So if we're considering the probability of the bigram-two kočkách which is wrong that doesn't agree versus the probability of the phrase-two kočky which is linguistically grammatically correct there is the agreement then a reasonable language model trained on sufficiently large data would know it",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8059640522875817
+      }
+    }
+  ]
+}

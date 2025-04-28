@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main reason why synchronous factored models are used in translation systems?",
+      "context": "The explanation for why factored models failed",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "How do the authors propose to deal with the issue of too many possible cases for a noun?",
+      "context": "The approach taken by the author in another decoder",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8704044117647058
+      }
+    },
+    {
+      "question": "What is the purpose of the 'delayed factors' approach?",
+      "context": "The description of the delayed factors approach",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7291666666666667
+      }
+    },
+    {
+      "question": "Why was Hu Huang's attempt to work on asynchronous factors unsuccessful?",
+      "context": "The reason why Hu Huang's attempt failed",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8587662337662338
+      }
+    },
+    {
+      "question": "What is the final processing step that needs to be done after the main search in a translation system?",
+      "context": "The description of the final processing steps",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7847222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why was Hu Huang's attempt to work on asynchronous factors unsuccessful?",
+      "context": "The reason why Hu Huang's attempt failed",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8587662337662338
+      }
+    },
+    {
+      "question": "How do the authors propose to deal with the issue of too many possible cases for a noun?",
+      "context": "The approach taken by the author in another decoder",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8704044117647058
+      }
+    },
+    {
+      "question": "What is the final processing step that needs to be done after the main search in a translation system?",
+      "context": "The description of the final processing steps",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "What is the purpose of the 'delayed factors' approach?",
+      "context": "The description of the delayed factors approach",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7291666666666667
+      }
+    }
+  ]
+}

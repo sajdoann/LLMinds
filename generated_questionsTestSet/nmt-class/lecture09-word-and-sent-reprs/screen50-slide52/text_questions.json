@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What motivated the authors to change the way sentences were constructed in their Czech translation?",
+      "context": "We changed the way that these sentences were constructed because Czech allows for word reordering and we wanted to give the annotators the comfort of easily generating many word reorderings but validating them at the same time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8258928571428572
+      }
+    },
+    {
+      "question": "How many translations did a single English sentence receive, and what was their accuracy?",
+      "context": "This single English sentence and even though he is a political veteran, the council Karel Březina responded similarly. This single sentence received 70.000 translations and all of them are correct.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8001373626373627
+      }
+    },
+    {
+      "question": "What is the main question being explored in this research?",
+      "context": "So we'll read just a few of those. So if you are a Czech speaker, you will see that these sentences have obviously slightly different meanings but yes, there are all good translations of that input sentence. So the question is whether... If we call these Czech sentences paraphrases, will they be close to each other in the sentence embedding spaces?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7645833333333334
+      }
+    },
+    {
+      "question": "How do the authors envision the relationship between the manifolds of different sentences?",
+      "context": "And if you take the set, the manifold of this particular sentence, the English sentence, and you consider another English sentence, will the other English sentence, will the Czech counterparts of the other English sentence live in the same area and like too much conflict or too much interfere with the embeddings of the sentence?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8341619318181819
+      }
+    },
+    {
+      "question": "What is the significance of the finding that all translations of a single English sentence are correct?",
+      "context": "So if you are a Czech speaker, you will see that these sentences have obviously slightly different meanings but yes, there are all good translations of that input sentence.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6897435897435897
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What motivated the authors to change the way sentences were constructed in their Czech translation?",
+      "context": "We changed the way that these sentences were constructed because Czech allows for word reordering and we wanted to give the annotators the comfort of easily generating many word reorderings but validating them at the same time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8258928571428572
+      }
+    },
+    {
+      "question": "How do the authors envision the relationship between the manifolds of different sentences?",
+      "context": "And if you take the set, the manifold of this particular sentence, the English sentence, and you consider another English sentence, will the other English sentence, will the Czech counterparts of the other English sentence live in the same area and like too much conflict or too much interfere with the embeddings of the sentence?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8341619318181819
+      }
+    },
+    {
+      "question": "What is the main question being explored in this research?",
+      "context": "So we'll read just a few of those. So if you are a Czech speaker, you will see that these sentences have obviously slightly different meanings but yes, there are all good translations of that input sentence. So the question is whether... If we call these Czech sentences paraphrases, will they be close to each other in the sentence embedding spaces?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7645833333333334
+      }
+    },
+    {
+      "question": "What is the significance of the finding that all translations of a single English sentence are correct?",
+      "context": "So if you are a Czech speaker, you will see that these sentences have obviously slightly different meanings but yes, there are all good translations of that input sentence.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6897435897435897
+      }
+    }
+  ]
+}

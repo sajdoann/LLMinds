@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What language has a different syntactic level for Czech and English sentences?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "How many auxiliaries does the given sentence have compared to English?",
+      "context": "The given sentence (emphasis on 'more more')",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7775974025974026
+      }
+    },
+    {
+      "question": "What is a characteristic of the auxiliaries in Czech that is not true for English?",
+      "context": "The given sentence (emphasis on 'do not match with each other well')",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7648809523809523
+      }
+    },
+    {
+      "question": "Why is the syntax of Czech and English sentences considered different?",
+      "context": "Implicit meaning behind the text (implied reason for change)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8080808080808081
+      }
+    },
+    {
+      "question": "What is suggested to be changed in order to make the trees (or sentences) similar between Czech and English?",
+      "context": "The introduction",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5763888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What language has a different syntactic level for Czech and English sentences?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "How many auxiliaries does the given sentence have compared to English?",
+      "context": "The given sentence (emphasis on 'more more')",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7775974025974026
+      }
+    },
+    {
+      "question": "What is suggested to be changed in order to make the trees (or sentences) similar between Czech and English?",
+      "context": "The introduction",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5763888888888888
+      }
+    },
+    {
+      "question": "Why is the syntax of Czech and English sentences considered different?",
+      "context": "Implicit meaning behind the text (implied reason for change)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8080808080808081
+      }
+    }
+  ]
+}

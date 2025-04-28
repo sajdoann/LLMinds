@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What mathematical point of view simplifies the computation?",
+      "context": "It cancels all the parts of the computation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7008928571428572
+      }
+    },
+    {
+      "question": "What is the loss function in this context?",
+      "context": "the cross-entropy between the distribution that your soft-mach function produce, the hat p hat and this true distribution.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6052083333333333
+      }
+    },
+    {
+      "question": "What is the nature of the true distribution in this context?",
+      "context": "this true distribution is the one with all zero and one for the word that you were expecting.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "How does the soft-mach function relate to the true distribution?",
+      "context": "the cross-entropy between the distribution that your soft-mach function produce, the hat p hat and this true distribution.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the purpose of using a linguistic point of view?",
+      "context": "The linguistic point of view, but it is nice from the mathematical point of view because it reduces with all the zeros.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7764705882352941
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What mathematical point of view simplifies the computation?",
+      "context": "It cancels all the parts of the computation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7008928571428572
+      }
+    },
+    {
+      "question": "How does the soft-mach function relate to the true distribution?",
+      "context": "the cross-entropy between the distribution that your soft-mach function produce, the hat p hat and this true distribution.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the loss function in this context?",
+      "context": "the cross-entropy between the distribution that your soft-mach function produce, the hat p hat and this true distribution.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6052083333333333
+      }
+    }
+  ]
+}

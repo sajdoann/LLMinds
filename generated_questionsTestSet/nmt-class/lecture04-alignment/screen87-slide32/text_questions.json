@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'funguat' mean in the context of route functionality?",
+      "context": "Tecces dáže tyto trasy začnou fungovat až v lednu.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6791666666666667
+      }
+    },
+    {
+      "question": "How do the English and Czech languages describe the start date for route functionality?",
+      "context": "The sentences actually swap the interval range. So the English says to begin until, aren't expected to begin until January and the Czech says they will start functioning only in January.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6976923076923076
+      }
+    },
+    {
+      "question": "What is the implication of 'fungovat' being used in conjunction with 'dáže tyto trasy'?",
+      "context": "Tecces dáze tyto trasy funguvat až v lednu.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7991071428571428
+      }
+    },
+    {
+      "question": "What does the phrase 'start functioning only in January' suggest about the timing of route functionality?",
+      "context": "So the Czech says they will start functioning only in January.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.6712121212121211
+      }
+    },
+    {
+      "question": "How do the English and Czech languages differ in their use of verbs to describe the start date for route functionality?",
+      "context": "So the English says to begin until, aren't expected to begin until January.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.6670454545454545
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the phrase 'start functioning only in January' suggest about the timing of route functionality?",
+      "context": "So the Czech says they will start functioning only in January.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.6712121212121211
+      }
+    },
+    {
+      "question": "How do the English and Czech languages describe the start date for route functionality?",
+      "context": "The sentences actually swap the interval range. So the English says to begin until, aren't expected to begin until January and the Czech says they will start functioning only in January.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6976923076923076
+      }
+    },
+    {
+      "question": "How do the English and Czech languages differ in their use of verbs to describe the start date for route functionality?",
+      "context": "So the English says to begin until, aren't expected to begin until January.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.6670454545454545
+      }
+    }
+  ]
+}

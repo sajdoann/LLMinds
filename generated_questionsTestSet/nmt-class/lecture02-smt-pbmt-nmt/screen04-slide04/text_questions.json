@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the first approach to machine translation mentioned in the document?",
+      "context": "The very beginning of the history section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6231060606060607
+      }
+    },
+    {
+      "question": "How does example-based machine translation work, and what is its main goal?",
+      "context": "The middle part of the history section",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5520833333333334
+      }
+    },
+    {
+      "question": "What is the main difference between statistical machine translation and example-based machine translation?",
+      "context": "The end of the history section",
+      "difficulty": "hard",
+      "category": "factual/analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48124999999999996
+      }
+    },
+    {
+      "question": "How does phrase-based machine translation differ from word-level translation in statistical machine translation?",
+      "context": "The transition to a new topic in the document",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7400568181818181
+      }
+    },
+    {
+      "question": "What is the main goal of neural machine translation, and how does it differ from previous approaches?",
+      "context": "A concluding statement at the end of the text",
+      "difficulty": "hard",
+      "category": "factual/analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.7049632352941176
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the first approach to machine translation mentioned in the document?",
+      "context": "The very beginning of the history section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6231060606060607
+      }
+    },
+    {
+      "question": "How does phrase-based machine translation differ from word-level translation in statistical machine translation?",
+      "context": "The transition to a new topic in the document",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7400568181818181
+      }
+    },
+    {
+      "question": "How does example-based machine translation work, and what is its main goal?",
+      "context": "The middle part of the history section",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5520833333333334
+      }
+    }
+  ]
+}

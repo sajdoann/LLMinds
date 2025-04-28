@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of model does the document describe?",
+      "context": "Source language input target language, conditional language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "How is the encoder state initialized in this model?",
+      "context": "You initialize the encoder state with zeros. It is of a fixed size, which is the size of the sentence representation vector.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "What happens to the outputs of the RNN in this model?",
+      "context": "These are not important.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "How does the decoder generate its output?",
+      "context": "You use the maximization to find the element that you would like to print. You print it or you if this is a generator you give it as the output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7881493506493507
+      }
+    },
+    {
+      "question": "What happens to the last word in the input after the decoder generates its output?",
+      "context": "So these are the logits first. So that is the output projection which scales up the decoder representation size to the full vocabulary of the target language.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8011363636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of model does the document describe?",
+      "context": "Source language input target language, conditional language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "What happens to the last word in the input after the decoder generates its output?",
+      "context": "So these are the logits first. So that is the output projection which scales up the decoder representation size to the full vocabulary of the target language.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8011363636363636
+      }
+    },
+    {
+      "question": "How is the encoder state initialized in this model?",
+      "context": "You initialize the encoder state with zeros. It is of a fixed size, which is the size of the sentence representation vector.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7986111111111112
+      }
+    }
+  ]
+}

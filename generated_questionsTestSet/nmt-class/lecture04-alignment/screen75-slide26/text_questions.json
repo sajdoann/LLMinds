@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the IBM model mentioned in the document?",
+      "context": "So that's the IBM Model 4",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What is the purpose or function of the IBM Model 4?",
+      "context": "(no specific context provided)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4125
+      }
+    },
+    {
+      "question": "Is there any additional information about the IBM Model 4 in the document?",
+      "context": "(no specific context provided)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.42708333333333337
+      }
+    },
+    {
+      "question": "Is the document providing a comparison between different models?",
+      "context": "(no specific context provided)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5138888888888888
+      }
+    },
+    {
+      "question": "Is there any specification or detail about the IBM Model 4's features or specifications?",
+      "context": "(no specific context provided)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45192307692307687
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the IBM model mentioned in the document?",
+      "context": "So that's the IBM Model 4",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "Is the document providing a comparison between different models?",
+      "context": "(no specific context provided)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5138888888888888
+      }
+    },
+    {
+      "question": "What is the purpose or function of the IBM Model 4?",
+      "context": "(no specific context provided)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4125
+      }
+    },
+    {
+      "question": "Is there any specification or detail about the IBM Model 4's features or specifications?",
+      "context": "(no specific context provided)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45192307692307687
+      }
+    }
+  ]
+}

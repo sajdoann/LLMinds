@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "How many different word forms can neural machine translation's embedding tables fit?",
+      "context": "The classical, the phrase-based MT already struggled with productive morphology when we have around one million or more word forms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7615131578947368
+      }
+    },
+    {
+      "question": "What is bipair encoding and how does it work?",
+      "context": "that's called bipair encoding. That is a combination that is based on compression algorithm.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "Why did words have to be broken into smaller units in neural machine translation?",
+      "context": "So for this reason immediately words had to be broken into some things and we can go for syllables and or morphemes as two examples of linguistically motivated separations or segmentations of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8814655172413793
+      }
+    },
+    {
+      "question": "What is the main limitation of using large word forms in neural machine translation?",
+      "context": "We know that the classical, the phrase-based MT already struggled with productive morphology when we have around one million or more word forms such as these compound words or where large number of morphological variations of words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7270021645021645
+      }
+    },
+    {
+      "question": "What is the purpose of compressing a dictionary of known word forms in bipair encoding?",
+      "context": "That is a combination that is based on compression algorithm. It simply creates the dictionary of known word forms so that the most frequent words are there and less frequent words.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7781593406593407
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many different word forms can neural machine translation's embedding tables fit?",
+      "context": "The classical, the phrase-based MT already struggled with productive morphology when we have around one million or more word forms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7615131578947368
+      }
+    },
+    {
+      "question": "Why did words have to be broken into smaller units in neural machine translation?",
+      "context": "So for this reason immediately words had to be broken into some things and we can go for syllables and or morphemes as two examples of linguistically motivated separations or segmentations of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8814655172413793
+      }
+    },
+    {
+      "question": "What is bipair encoding and how does it work?",
+      "context": "that's called bipair encoding. That is a combination that is based on compression algorithm.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the purpose of compressing a dictionary of known word forms in bipair encoding?",
+      "context": "That is a combination that is based on compression algorithm. It simply creates the dictionary of known word forms so that the most frequent words are there and less frequent words.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7781593406593407
+      }
+    }
+  ]
+}

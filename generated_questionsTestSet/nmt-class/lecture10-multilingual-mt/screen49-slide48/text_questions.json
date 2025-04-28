@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What language does the speaker prefer to talk in?",
+      "context": "...than English. Yep.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Why is the speaker's preference for a certain language not specified?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What can be inferred about the speaker's attitude towards English based on their preference for another language?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191176470588235
+      }
+    },
+    {
+      "question": "How does the speaker's tone in this message contribute to its meaning?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What is the overall sentiment of the speaker's message?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be inferred about the speaker's attitude towards English based on their preference for another language?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191176470588235
+      }
+    },
+    {
+      "question": "Why is the speaker's preference for a certain language not specified?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the overall sentiment of the speaker's message?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What language does the speaker prefer to talk in?",
+      "context": "...than English. Yep.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

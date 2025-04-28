@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What types of models were tested for this method?",
+      "context": "It was tested on many types of models...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8871527777777778
+      }
+    },
+    {
+      "question": "Why was it difficult to reuse the knowledge from source languages?",
+      "context": "...because there were very strong independence assumptions in these models and we have discussed them in the previous lectures.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9337121212121212
+      }
+    },
+    {
+      "question": "What is the underlying principle of neural machine translation?",
+      "context": "The very underlying principle is that the neural machine translation system is a conditioned language model...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7886904761904763
+      }
+    },
+    {
+      "question": "How does the neural network style of translation affect this method?",
+      "context": "...it lends itself much easier to...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the goal of conditioning the neural machine translation system on more source sentences?",
+      "context": "So it's not too complicated. The neural network style of translation lends itself much easier to...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.796875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What types of models were tested for this method?",
+      "context": "It was tested on many types of models...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8871527777777778
+      }
+    },
+    {
+      "question": "What is the goal of conditioning the neural machine translation system on more source sentences?",
+      "context": "So it's not too complicated. The neural network style of translation lends itself much easier to...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "Why was it difficult to reuse the knowledge from source languages?",
+      "context": "...because there were very strong independence assumptions in these models and we have discussed them in the previous lectures.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9337121212121212
+      }
+    },
+    {
+      "question": "How does the neural network style of translation affect this method?",
+      "context": "...it lends itself much easier to...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    }
+  ]
+}

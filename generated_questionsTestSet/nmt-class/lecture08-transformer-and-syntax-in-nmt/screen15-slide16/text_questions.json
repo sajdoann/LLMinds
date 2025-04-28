@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a limitation of recurrent neural networks in processing long sequences?",
+      "context": "The calculation is like deep over many steps and you are reusing the same number many times. And reusing the same number in multiplication can very easily lead to either exploding gradients or vanishing gradients",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7662037037037037
+      }
+    },
+    {
+      "question": "What problem do convolutional neural networks aim to solve when processing sequences?",
+      "context": "If you apply this style of processing, if you apply the convolution network in multiple layers, the receptive field, the span of input elements, which contribute to the information in one of the positions, can be pretty broad",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7797619047619048
+      }
+    },
+    {
+      "question": "How do convolutional neural networks specify their processing depth?",
+      "context": "So with a convolution neural network, you are specifying two constants, the depth of the network, how many layers, and the kernel size, so the breadth in which it explores the network",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7409188034188035
+      }
+    },
+    {
+      "question": "Why did people move away from convolutional networks after the transformer was introduced?",
+      "context": "But the transformer was so interesting that people then totally abandoned the convolutional approach. So these days, only very few people continue working with convolutional networks",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8951048951048951
+      }
+    },
+    {
+      "question": "What is a benefit of using self-attention in sequence processing?",
+      "context": "So let's first motivate for self-attention in some way. So we know that we are processing arbitrarily long sequences and we need to process them with like fixed-size parameters, fixed-size structure of the network",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8291666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why did people move away from convolutional networks after the transformer was introduced?",
+      "context": "But the transformer was so interesting that people then totally abandoned the convolutional approach. So these days, only very few people continue working with convolutional networks",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8951048951048951
+      }
+    },
+    {
+      "question": "How do convolutional neural networks specify their processing depth?",
+      "context": "So with a convolution neural network, you are specifying two constants, the depth of the network, how many layers, and the kernel size, so the breadth in which it explores the network",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7409188034188035
+      }
+    },
+    {
+      "question": "What is a limitation of recurrent neural networks in processing long sequences?",
+      "context": "The calculation is like deep over many steps and you are reusing the same number many times. And reusing the same number in multiplication can very easily lead to either exploding gradients or vanishing gradients",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7662037037037037
+      }
+    }
+  ]
+}

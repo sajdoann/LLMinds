@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of task does the document mention evaluating?",
+      "context": "And another thing of evaluating would be the classification task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7472222222222222
+      }
+    },
+    {
+      "question": "What action can be taken to train a classifier mentioned in the document?",
+      "context": "You can remove one of the points, train a classifier and then use these remove points as a test set and you can check whether the classifier is predicting the correct class or not.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5721153846153846
+      }
+    },
+    {
+      "question": "What type of data will be used to evaluate the classifier?",
+      "context": "You can use these remove points as a test set",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4431818181818181
+      }
+    },
+    {
+      "question": "What is the purpose of removing one of the points in the classification task?",
+      "context": "You can remove one of the points, train a classifier and then use these remove points as a test set and you can check whether the classifier is predicting the correct class or not.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.5817307692307692
+      }
+    },
+    {
+      "question": "What action will be taken after training the classifier?",
+      "context": "You can then use these remove points as a test set and you can check whether the classifier is predicting the correct class or not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48737373737373735
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of task does the document mention evaluating?",
+      "context": "And another thing of evaluating would be the classification task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7472222222222222
+      }
+    },
+    {
+      "question": "What is the purpose of removing one of the points in the classification task?",
+      "context": "You can remove one of the points, train a classifier and then use these remove points as a test set and you can check whether the classifier is predicting the correct class or not.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.5817307692307692
+      }
+    },
+    {
+      "question": "What action can be taken to train a classifier mentioned in the document?",
+      "context": "You can remove one of the points, train a classifier and then use these remove points as a test set and you can check whether the classifier is predicting the correct class or not.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5721153846153846
+      }
+    }
+  ]
+}

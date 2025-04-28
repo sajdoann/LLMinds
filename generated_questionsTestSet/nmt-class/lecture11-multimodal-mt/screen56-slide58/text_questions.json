@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the system called that Google uses for speech-to-speech translation?",
+      "context": "And I wanted also to mention another interesting example of now directly speech-to-speech translation. This is a paper by Google and they use...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "What process do the researchers use to convert spectrograms into target language spectrograms?",
+      "context": "They directly train a system to convert the spectrograms, the time frames of frequencies into spectrograms in the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7857905982905983
+      }
+    },
+    {
+      "question": "What is the purpose of concatenating phoneme representation with speaker information?",
+      "context": "So after processing the spoken language on the source side and after synthesizing or creating the sequence of phonemes in the target language, they concatenate this phoneme representation with the speaker information.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.803030303030303
+      }
+    },
+    {
+      "question": "Why are intermediate transcripts in the source and target language necessary for training?",
+      "context": "So they use them as also in the orientation. So they do not use them as a in the runtime and inference anymore.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7764423076923077
+      }
+    },
+    {
+      "question": "What is unique about the system's ability to preserve speaker characteristics?",
+      "context": "So you will hear the same voice, but it will be saying words in the other language. And the words do not appear as words in the representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7857142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the system called that Google uses for speech-to-speech translation?",
+      "context": "And I wanted also to mention another interesting example of now directly speech-to-speech translation. This is a paper by Google and they use...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "What is the purpose of concatenating phoneme representation with speaker information?",
+      "context": "So after processing the spoken language on the source side and after synthesizing or creating the sequence of phonemes in the target language, they concatenate this phoneme representation with the speaker information.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.803030303030303
+      }
+    },
+    {
+      "question": "What process do the researchers use to convert spectrograms into target language spectrograms?",
+      "context": "They directly train a system to convert the spectrograms, the time frames of frequencies into spectrograms in the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7857905982905983
+      }
+    }
+  ]
+}

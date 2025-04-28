@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the three main ministries responsible for providing assistance to entrepreneurs?",
+      "context": "výrok",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "Which program is designed to provide compensation to employees who had to undergo karanténa or isolation due to COVID-19?",
+      "context": "<a href=\"https://covid.gov.cz/situace/kompenzace/antivirus-nucene-omezeni-provozu-karanteny\"></a>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the purpose of the Kompenzační bonus program, which falls under the Ministry of Finance?",
+      "context": "<p>Pro poškozené OSVČ, ale také pro společníky malých firem a&nbsp;osoby pracující na DPČ a&amp;DPP je zde program <a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/od-22-listopadu-bude-pokracovat-kompenza-43629\"></a>,</p><p>...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.867914979757085
+      }
+    },
+    {
+      "question": "Why was the program COVID 2021 and COVID Nepokryté náklady not implemented, despite being prepared?",
+      "context": "<p>Doplňme, že v&nbsp;současné době také fungují některé programy, jejichž účelem je primárně poskytnout podnikatelům <a href=\"https://covid.gov.cz/situace/kompenzace\">záruky</a> za úvěry,...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.9117063492063492
+      }
+    },
+    {
+      "question": "Which program provides guarantees for loans to entrepreneurs, and is under the Ministry of Industry and Trade?",
+      "context": "<p>Z&nbsp;výše uvedených informací vyplývá, že kompenzační programy se realmente dělí hlavně mezi tři zmíněná ministerstva. Výrok Mariana Jurečka proto hodnotíme jako pravdivý.</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8636363636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the three main ministries responsible for providing assistance to entrepreneurs?",
+      "context": "výrok",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What is the purpose of the Kompenzační bonus program, which falls under the Ministry of Finance?",
+      "context": "<p>Pro poškozené OSVČ, ale také pro společníky malých firem a&nbsp;osoby pracující na DPČ a&amp;DPP je zde program <a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/od-22-listopadu-bude-pokracovat-kompenza-43629\"></a>,</p><p>...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.867914979757085
+      }
+    },
+    {
+      "question": "Which program provides guarantees for loans to entrepreneurs, and is under the Ministry of Industry and Trade?",
+      "context": "<p>Z&nbsp;výše uvedených informací vyplývá, že kompenzační programy se realmente dělí hlavně mezi tři zmíněná ministerstva. Výrok Mariana Jurečka proto hodnotíme jako pravdivý.</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8636363636363636
+      }
+    }
+  ]
+}

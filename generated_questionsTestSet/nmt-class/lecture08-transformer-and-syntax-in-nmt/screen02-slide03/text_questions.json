@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was equipped with attention in sequence-to-sequence models?",
+      "context": "We'll start with the transformer architecture. So today, first, I'll briefly remind you what the sequence-to-sequence model was, when it was equipped with attention.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8664772727272727
+      }
+    },
+    {
+      "question": "What is one of the most important components in the transformer architecture?",
+      "context": "Then we'll go in detail over the transformer architecture, and there we will focus on one of its most important components...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8095238095238095
+      }
+    },
+    {
+      "question": "What is being added to each individual token in neural machine translation?",
+      "context": "...We'll be adding it to each individual token.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9114583333333334
+      }
+    },
+    {
+      "question": "What affects whether the information from explicit linguistic annotation will be useful or not?",
+      "context": "...depending on the training data sizes, the languages in question, the quality of the explicit linguistic annotation, all that affects...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8802521008403361
+      }
+    },
+    {
+      "question": "What do the results at the end of this talk suggest about transformer networks?",
+      "context": "...the results at the end of this talk are fairly interesting because they suggest that transformer network can learn many of these things by its own without any explicit information.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.879973474801061
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was equipped with attention in sequence-to-sequence models?",
+      "context": "We'll start with the transformer architecture. So today, first, I'll briefly remind you what the sequence-to-sequence model was, when it was equipped with attention.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8664772727272727
+      }
+    },
+    {
+      "question": "What affects whether the information from explicit linguistic annotation will be useful or not?",
+      "context": "...depending on the training data sizes, the languages in question, the quality of the explicit linguistic annotation, all that affects...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8802521008403361
+      }
+    },
+    {
+      "question": "What is one of the most important components in the transformer architecture?",
+      "context": "Then we'll go in detail over the transformer architecture, and there we will focus on one of its most important components...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8095238095238095
+      }
+    }
+  ]
+}

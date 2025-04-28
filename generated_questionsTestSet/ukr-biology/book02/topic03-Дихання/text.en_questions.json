@@ -1,0 +1,446 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main organ responsible for human respiration?",
+      "context": "The main organ of human respiration is the lungs, where air enters through other organs of the respiratory system - the nasal cavity, larynx, trachea and bronchi (Fig. 11.2).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8215873015873016
+      }
+    },
+    {
+      "question": "How does the structure of an animal's vital activity affect its respiratory system?",
+      "context": "Before moving on to the study of the human respiratory system, remember what structure the respiratory system of different animals has. How can the features of the vital activity of animals affect the structure of their respiratory system?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8804835164835165
+      }
+    },
+    {
+      "question": "What are cartilaginous semirings found in?",
+      "context": "The trachea consists of cartilaginous semirings connected by ligaments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8357142857142857
+      }
+    },
+    {
+      "question": "Why is it that a lump of food can move freely through the esophagus?",
+      "context": "Thanks to the elasticity of this wall a lump of food can move freely through the esophagus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8608843537414966
+      }
+    },
+    {
+      "question": "What are the main functions of the uvula?",
+      "context": "Its main function is to close the nasopharynx when a person swallows or speaks. The uvula also controls the passage of food into the digestive tract.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7893522626441881
+      }
+    },
+    {
+      "question": "What are the stages of external respiration in humans?",
+      "context": "1. The arrival of fresh air rich in oxygen to the respiratory surface due to respiratory movements. 2. Diffusion of oxygen through the walls of the alveoli into the blood.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8126984126984127
+      }
+    },
+    {
+      "question": "What happens to the space between the pleura layers during breathing?",
+      "context": "Between these layers is a thin space with a small amount of fluid.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8361904761904762
+      }
+    },
+    {
+      "question": "How does the pressure inside the lungs change during inhalation and exhalation?",
+      "context": "a zone of low pressure arises here. Meanwhile, the pressure inside the lungs is equal to atmospheric (because the lungs are connected to the atmosphere).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.860082023239918
+      }
+    },
+    {
+      "question": "What happens to the pressure inside the lungs during inhalation?",
+      "context": "Under the pressure of the diaphragm and chest, air is pushed out of the lungs. Thus, the pressure inside the lungs equalizes with atmospheric pressure.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.819047619047619
+      }
+    },
+    {
+      "question": "How does oxygen enter the capillaries?",
+      "context": "Oxygen from the air that reaches the alveoli dissolves in the liquid that covers their surface. Then, as a result of the diffusion process, oxygen enters the capillaries located near the surface of the alveoli.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8631868131868132
+      }
+    },
+    {
+      "question": "What happens to voice pitch during puberty in boys?",
+      "context": "Voice mutation is a sharp and frequent change in the pitch of the voice that occurs during puberty in boys.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8436974789915966
+      }
+    },
+    {
+      "question": "How does carbon monoxide affect hemoglobin in the blood?",
+      "context": "But if carbon monoxide (CO) enters the circulatory system instead of oxygen, the consequences are extremely unpleasant. This compound forms a very strong bond with hemoglobin that is difficult to break.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8798412698412699
+      }
+    },
+    {
+      "question": "What type of speech is characterized by the ligaments not vibrating?",
+      "context": "Whispering is a quiet speech in which words are pronounced without the participation of the vocal cords. During a whisper, the ligaments do not vibrate, as in normal speech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8412467532467532
+      }
+    },
+    {
+      "question": "What are the main organs of the respiratory system?",
+      "context": "Brain\nRespiratory\nRespiratory center\nIntercostal muscles\nLungs\nDiaphragm",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8107142857142857
+      }
+    },
+    {
+      "question": "Where does gas exchange take place?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9857142857142858
+      }
+    },
+    {
+      "question": "What is the purpose of reflex actions such as sneezing and coughing?",
+      "context": "Both of these reflexes are associated with a sharp contraction of muscles and rapid exhalation. They are protective and aimed at removing foreign substances or objects from the respiratory tract.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8457671957671957
+      }
+    },
+    {
+      "question": "What is the maximum amount of air exhaled after the deepest inhalation?",
+      "context": "Vital capacity of the lungs (VLC) The maximum amount of air exhaled after the deepest inhalation. VC is the sum of the volumes of several other functional indicators: reserve, respiratory and supplementary",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8343896103896105
+      }
+    },
+    {
+      "question": "What is the volume of air entering the lungs (or being removed from them) during each inhalation (exhalation)?",
+      "context": "Tidal volumeThe volume of air entering the lungs (or being removed from them) during each inhalation (exhalation)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8666666666666667,
+        "diversity_score": 0.8663865546218488
+      }
+    },
+    {
+      "question": "What is the purpose of vital capacity of the lungs (VLC) in relation to other functional indicators?",
+      "context": "VC is the sum of the volumes of several other functional indicators: reserve, respiratory and supplementary",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8145578231292517
+      }
+    },
+    {
+      "question": "What can be easily transmitted through airborne droplets from one person to another?",
+      "context": "Pathogenic microorganisms (Fig. 14.1–14.3) can easily penetrate directly into the human body through the respiratory system",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8963369963369964
+      }
+    },
+    {
+      "question": "What type of diseases are caused by the action of microscopic fungi?",
+      "context": "The cause of a number of respiratory system diseases is also the action of microscopic fungi. They can either directly affect the respiratory system or cause allergic reactions",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8277674706246134
+      }
+    },
+    {
+      "question": "What is responsible for spreading airborne droplets?",
+      "context": "Pathogenic microorganisms (Fig. 14.1–14.3) can easily penetrate directly into the human body through the respiratory system. In addition, since pathogens of respiratory diseases spread by airborne droplets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8582857142857143
+      }
+    },
+    {
+      "question": "What is the main cause of allergic diseases in the respiratory system?",
+      "context": "These are the so-called allergic diseases.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7846320346320347
+      }
+    },
+    {
+      "question": "What triggers bronchial asthma?",
+      "context": "Disturbance of bronchial patency due to spasm of the muscles of the small bronchi, swelling of the mucous membrane and their blockage by viscous secretions during the development of allergic processes in the bronchi",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8456043956043956
+      }
+    },
+    {
+      "question": "What is the main measure for preventing respiratory diseases?",
+      "context": "The most universal preventive measure from the above list is increasing the body's resistance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8281746031746031
+      }
+    },
+    {
+      "question": "Why does smoking have a negative impact on the respiratory system?",
+      "context": "These organs suffer most from smoking.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.922943722943723
+      }
+    },
+    {
+      "question": "What happens to epithelial cells on the ciliated epithelium of the trachea and bronchi due to smoke?",
+      "context": "Due to the action of smoke, the epithelial cells lose the ability to perform their work normally - to remove foreign particles, dust and dirt that enter them with air from the respiratory tract along with mucus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.874531490015361
+      }
+    },
+    {
+      "question": "What is silicosis?",
+      "context": "The presence of a large amount of dust in the air inhaled by a person can lead to the development of silicosis. This disease causes destruction of lung tissue and is incurable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7481684981684982
+      }
+    },
+    {
+      "question": "What is allergic aspergillosis?",
+      "context": "Allergic aspergillosis is a very dangerous phenomenon. It is caused by spores of the mold fungi Aspergillus, which affect people with reduced immunity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8003246753246753
+      }
+    },
+    {
+      "question": "What are the muscles involved in carrying out inhalation and exhalation?",
+      "context": "d) intercostal muscles and diaphragm",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8631168831168832
+      }
+    },
+    {
+      "question": "Which percentage of oxygen is present in exhaled air?",
+      "context": "a) 20.9%",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9373015873015873
+      }
+    },
+    {
+      "question": "What part of the brain houses the respiratory center?",
+      "context": "d) oblong",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8678571428571429
+      }
+    },
+    {
+      "question": "What feature of the organ structure allows it to perform its functions?",
+      "context": "This question is not specific enough.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8523809523809524
+      }
+    },
+    {
+      "question": "How does tracheitis occur?",
+      "context": "a) damage to the mucous membrane of the trachea during the development of infectious diseases",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8714285714285714
+      }
+    },
+    {
+      "question": "What causes bronchitis?",
+      "context": "c) impaired bronchial patency due to spasm of the muscles of the small bronchi during the development of allergic processes in the bronchid)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8015873015873016
+      }
+    },
+    {
+      "question": "What diseases can affect the organ indicated by the arrow, and how can they be prevented?",
+      "context": "This question is not specific enough.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8714285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which percentage of oxygen is present in exhaled air?",
+      "context": "a) 20.9%",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9373015873015873
+      }
+    },
+    {
+      "question": "Where does gas exchange take place?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9857142857142858
+      }
+    },
+    {
+      "question": "How does the structure of an animal's vital activity affect its respiratory system?",
+      "context": "Before moving on to the study of the human respiratory system, remember what structure the respiratory system of different animals has. How can the features of the vital activity of animals affect the structure of their respiratory system?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8804835164835165
+      }
+    },
+    {
+      "question": "How does tracheitis occur?",
+      "context": "a) damage to the mucous membrane of the trachea during the development of infectious diseases",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8714285714285714
+      }
+    }
+  ]
+}

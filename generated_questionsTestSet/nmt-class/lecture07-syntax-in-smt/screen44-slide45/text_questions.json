@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is machine translation?",
+      "context": "I'm in machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "How do trees represent terminals in this system?",
+      "context": "so there is no non-terminals.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the purpose of observing a pair of trees?",
+      "context": "The idea is that you will observe a pair of trees, now dependency trees, so there is no non-terminals.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8431372549019608
+      }
+    },
+    {
+      "question": "What does 'dependency trees' imply about the representation of terms?",
+      "context": "so there is no non-terminals.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How do you determine if a system has non-terminals or not?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9659090909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is machine translation?",
+      "context": "I'm in machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "How do trees represent terminals in this system?",
+      "context": "so there is no non-terminals.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What does 'dependency trees' imply about the representation of terms?",
+      "context": "so there is no non-terminals.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How do you determine if a system has non-terminals or not?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9659090909090909
+      }
+    }
+  ]
+}

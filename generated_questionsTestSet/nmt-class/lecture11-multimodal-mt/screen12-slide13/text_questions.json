@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of the deep neural network model being proposed?",
+      "context": "We aim at direct modeling.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.88125
+      }
+    },
+    {
+      "question": "How does the deep neural network model process source language input?",
+      "context": "process the time frames in the source language and produces time frames in the target language.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "What benefits does direct speech-to-speech translation offer over other methods?",
+      "context": "the benefits for the direct speech-to-speech translations is clear again.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9097222222222222
+      }
+    },
+    {
+      "question": "How do the proposed model's features affect the synthesis of the target voice?",
+      "context": "...to reflect what was expressed in the...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9366883116883117
+      }
+    },
+    {
+      "question": "What challenges arise when shipping information from speech-to-speech translation to text-based translation?",
+      "context": "...it would be rather difficult to ship this information, or a little bit more complicated...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9583333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of the deep neural network model being proposed?",
+      "context": "We aim at direct modeling.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.88125
+      }
+    },
+    {
+      "question": "How does the deep neural network model process source language input?",
+      "context": "process the time frames in the source language and produces time frames in the target language.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "How do the proposed model's features affect the synthesis of the target voice?",
+      "context": "...to reflect what was expressed in the...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9366883116883117
+      }
+    },
+    {
+      "question": "What benefits does direct speech-to-speech translation offer over other methods?",
+      "context": "the benefits for the direct speech-to-speech translations is clear again.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9097222222222222
+      }
+    },
+    {
+      "question": "What challenges arise when shipping information from speech-to-speech translation to text-based translation?",
+      "context": "...it would be rather difficult to ship this information, or a little bit more complicated...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9583333333333334
+      }
+    }
+  ]
+}

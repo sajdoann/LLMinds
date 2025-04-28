@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Where are the auxiliary edges in a word likely to be located?",
+      "context": "You will contract your mark edges like where these auxiliaries will belong to.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8541666666666666
+      }
+    },
+    {
+      "question": "What is being referred to when it mentions 'auxiliaries' in the context of marking edges?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8833333333333333
+      }
+    },
+    {
+      "question": "What does the phrase 'contract your mark edges' suggest about the relationship between auxiliary and marked elements?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "Is there any information provided in the document that can be used to infer what kind of linguistic rules or processes are being discussed?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "Can you identify a specific word or phrase within the document that provides more information about auxiliary edges?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can you identify a specific word or phrase within the document that provides more information about auxiliary edges?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "Is there any information provided in the document that can be used to infer what kind of linguistic rules or processes are being discussed?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What is being referred to when it mentions 'auxiliaries' in the context of marking edges?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8833333333333333
+      }
+    },
+    {
+      "question": "What does the phrase 'contract your mark edges' suggest about the relationship between auxiliary and marked elements?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.921875
+      }
+    }
+  ]
+}

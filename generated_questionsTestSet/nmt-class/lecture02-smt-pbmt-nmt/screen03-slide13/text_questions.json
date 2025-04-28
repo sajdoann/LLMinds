@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the 'triangle of machine translation' and what is its main purpose?",
+      "context": "The beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.4772727272727273
+      }
+    },
+    {
+      "question": "Why did researchers initially focus on developing systems for abstract analysis, transfer, and synthesis in machine translation?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5220588235294118
+      }
+    },
+    {
+      "question": "What is the main challenge with using an interlingua representation in machine translation?",
+      "context": "The third paragraph of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4903846153846154
+      }
+    },
+    {
+      "question": "How do statistical and rule-based systems differ in their approach to machine translation?",
+      "context": "The fifth paragraph of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.4807692307692307
+      }
+    },
+    {
+      "question": "What was the state-of-the-art system for machine translation before NMT, and how did it combine statistical and rule-based components?",
+      "context": "The sixth paragraph of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5138888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the 'triangle of machine translation' and what is its main purpose?",
+      "context": "The beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.4772727272727273
+      }
+    },
+    {
+      "question": "Why did researchers initially focus on developing systems for abstract analysis, transfer, and synthesis in machine translation?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5220588235294118
+      }
+    },
+    {
+      "question": "How do statistical and rule-based systems differ in their approach to machine translation?",
+      "context": "The fifth paragraph of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.4807692307692307
+      }
+    }
+  ]
+}

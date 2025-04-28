@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary method used by the language model for sequence generation?",
+      "context": "The document discussing the efficiency and effectiveness of the decoding algorithm",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How does the greedy decoding process relate to the training data of the record language model?",
+      "context": "The section explaining the similarities between the greedy decoding and the training process of the record language model",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What is a key advantage of using this sequence generation method?",
+      "context": "The paragraph highlighting the benefits of the proposed algorithm for neural networks",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7727272727272727
+      }
+    },
+    {
+      "question": "How does the model's ability to generate sequences relate to its memory efficiency?",
+      "context": "The section discussing the trade-offs between memory usage and sequence generation quality",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8248106060606061
+      }
+    },
+    {
+      "question": "What is the primary benefit of using this decoding algorithm for neural networks?",
+      "context": "The concluding paragraph summarizing the main advantages of the proposed approach",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7403846153846154
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a key advantage of using this sequence generation method?",
+      "context": "The paragraph highlighting the benefits of the proposed algorithm for neural networks",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7727272727272727
+      }
+    },
+    {
+      "question": "How does the model's ability to generate sequences relate to its memory efficiency?",
+      "context": "The section discussing the trade-offs between memory usage and sequence generation quality",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8248106060606061
+      }
+    },
+    {
+      "question": "How does the greedy decoding process relate to the training data of the record language model?",
+      "context": "The section explaining the similarities between the greedy decoding and the training process of the record language model",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What is the primary benefit of using this decoding algorithm for neural networks?",
+      "context": "The concluding paragraph summarizing the main advantages of the proposed approach",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7403846153846154
+      }
+    }
+  ]
+}

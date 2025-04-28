@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of today's lecture?",
+      "context": "Welcome to the second lecture on statistical machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6190476190476191
+      }
+    },
+    {
+      "question": "Will all the topics discussed in this lecture be covered again in a future lecture?",
+      "context": "So it will be again a packed lecture but don't be afraid this is an introductory lecture so all the topics or many of the topics that we on here will be then elaborated in the upcoming lecture",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.6730295566502463
+      }
+    },
+    {
+      "question": "What can be inferred about the tone of today's lecture?",
+      "context": "So it will be again a packed lecture but don't be afraid this is an introductory lecture",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5083333333333333
+      }
+    },
+    {
+      "question": "Will statistical machine translation be elaborated on in future lectures?",
+      "context": "So it will be again a packed lecture but don't be afraid this is an introductory lecture so all the topics or many of the topics that we on here will be then elaborated in the upcoming lecture",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7051724137931035
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose of today's lecture?",
+      "context": "We have discussed machine translation evaluation techniques last session and we're going to discuss an overview of the approaches to statistical machine translation today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the focus of today's lecture?",
+      "context": "Welcome to the second lecture on statistical machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6190476190476191
+      }
+    },
+    {
+      "question": "Will statistical machine translation be elaborated on in future lectures?",
+      "context": "So it will be again a packed lecture but don't be afraid this is an introductory lecture so all the topics or many of the topics that we on here will be then elaborated in the upcoming lecture",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7051724137931035
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose of today's lecture?",
+      "context": "We have discussed machine translation evaluation techniques last session and we're going to discuss an overview of the approaches to statistical machine translation today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6916666666666667
+      }
+    },
+    {
+      "question": "What can be inferred about the tone of today's lecture?",
+      "context": "So it will be again a packed lecture but don't be afraid this is an introductory lecture",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5083333333333333
+      }
+    }
+  ]
+}

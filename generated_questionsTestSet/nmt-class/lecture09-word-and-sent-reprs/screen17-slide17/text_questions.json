@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the order in which different words were mentioned at the beginning of the sentence?",
+      "context": "Let's put the question in some different order again. There's many word reorderings for this simple sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8545168067226891
+      }
+    },
+    {
+      "question": "Who or what is being referred to as 'mom' in the system's query?",
+      "context": "So, mele, mama, masa, and then suddenly the superhuman system said, does mom have meat?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7493589743589744
+      }
+    },
+    {
+      "question": "What is being referred to as 'training data' in the context of the system's output?",
+      "context": "So again, stepping a little bit out of the training data, but we don't know where the training data ends and where we are stepping out of it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What is the system's output in this scenario?",
+      "context": "The system output is not acceptable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What does the phrase 'stepping a little bit out of the training data' imply about the system's relationship with its training data?",
+      "context": "So again, stepping a little bit out of the training data, but we don't know where the training data ends and where we are stepping out of it.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35294117647058826,
+        "diversity_score": 0.7590852130325815
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the order in which different words were mentioned at the beginning of the sentence?",
+      "context": "Let's put the question in some different order again. There's many word reorderings for this simple sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8545168067226891
+      }
+    },
+    {
+      "question": "Who or what is being referred to as 'mom' in the system's query?",
+      "context": "So, mele, mama, masa, and then suddenly the superhuman system said, does mom have meat?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7493589743589744
+      }
+    },
+    {
+      "question": "What is being referred to as 'training data' in the context of the system's output?",
+      "context": "So again, stepping a little bit out of the training data, but we don't know where the training data ends and where we are stepping out of it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6458333333333334
+      }
+    }
+  ]
+}

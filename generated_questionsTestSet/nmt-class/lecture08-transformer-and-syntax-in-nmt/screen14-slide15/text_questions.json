@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the core element of the transformer network?",
+      "context": "So now let's move to the core element of the transformer network",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "The question text not provided in the context.",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "What is the self-attention mechanism?",
+      "context": "So now let's move to the core element of the transformer network and that's the self-attention",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6910714285714286
+      }
+    },
+    {
+      "question": "The question text not provided in the context.",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "What does 'that's the self-attention' imply about the transformer network?",
+      "context": "and that's the self-attention",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7326388888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the core element of the transformer network?",
+      "context": "So now let's move to the core element of the transformer network",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "The question text not provided in the context.",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "The question text not provided in the context.",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "What does 'that's the self-attention' imply about the transformer network?",
+      "context": "and that's the self-attention",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7326388888888888
+      }
+    }
+  ]
+}

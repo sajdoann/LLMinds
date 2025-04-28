@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the improvement or baseline performance achieved when using the full parent for transfer learning?",
+      "context": "And there we see that if we use the full, the normal, unconstrained parent, the improvement or the baseline performance would be 19.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5754385964912281
+      }
+    },
+    {
+      "question": "What is the average length of the child setup?",
+      "context": "And there we see that if we use the full, the normal, unconstrained parent, the improvement or the baseline performance would be 19.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4983552631578947
+      }
+    },
+    {
+      "question": "What is the effect of constrained parents on the child data's length?",
+      "context": "And the parents which are constrained to produce only sentences either too short or too long, these parents help less.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.720959595959596
+      }
+    },
+    {
+      "question": "Does the child data's performance benefit from the transfer learning when measured by BLEU score?",
+      "context": "But the average length is okay. So the child data, despite being rather small, the model to unlearn the length limitation that the parent had.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "What is the benefit of using unconstrained parents for transfer learning?",
+      "context": "And we use these parents to continue training on the child setup. And there we see that if we use the full, the normal, unconstrained parent, the improvement or the baseline performance would be 19.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5618686868686869
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the improvement or baseline performance achieved when using the full parent for transfer learning?",
+      "context": "And there we see that if we use the full, the normal, unconstrained parent, the improvement or the baseline performance would be 19.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5754385964912281
+      }
+    },
+    {
+      "question": "Does the child data's performance benefit from the transfer learning when measured by BLEU score?",
+      "context": "But the average length is okay. So the child data, despite being rather small, the model to unlearn the length limitation that the parent had.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "What is the effect of constrained parents on the child data's length?",
+      "context": "And the parents which are constrained to produce only sentences either too short or too long, these parents help less.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.720959595959596
+      }
+    }
+  ]
+}

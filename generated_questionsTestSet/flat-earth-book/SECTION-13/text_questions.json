@@ -1,0 +1,633 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to an object's appearance when it is moved away from an observer on the ground versus in the air?",
+      "context": "It has been shown (at pages 25 to 34) that the law of perspective, as commonly taught in our Schools of Art, is fallacious and contrary to everything seen in nature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8302486986697513
+      }
+    },
+    {
+      "question": "What happens to a person's appearance when walking on the ground versus on level path?",
+      "context": "[156] A man with light trousers and black boots walking along a level path, will appear at a certain distance as though the boots had been removed, and the trousers brought in contact with the ground.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8355082417582418
+      }
+    },
+    {
+      "question": "What happens to objects as they recede from a given point of observation?",
+      "context": "The lowest part of bodies receding from a given point of observation will disappear before the higher.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8223865877712031
+      }
+    },
+    {
+      "question": "Under what conditions can the hull of a receding vessel be seen again distinctly by the aid of a powerful telescope?",
+      "context": "When the surface is calm, the hull may be seen much farther than when it is rough and stormy; but under ordinary circumstances, when to the naked eye the hull has just become invisible, or is doubtfully visible, it may be seen again distinctly by the aid of a powerful telescope.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8512989203778678
+      }
+    },
+    {
+      "question": "What is the altitude at which the hull of a vessel can be seen distinctly after being invisible?",
+      "context": "Hence, deducting 10 from 24 feet, under all circumstances, even had the water been perfectly smooth and stationary, the top of the hull should have been 14 feet below the summit of the arc of water, or beneath the line of sight!",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8164507061565884
+      }
+    },
+    {
+      "question": "What is the predicted calculation for the distance from the horizon to a light-ship based on the Earth's curvature?",
+      "context": "If the hull had been invisible from the rotundity of the Earth, the following[159] calculation will show that it should at all times have been 24 feet below the horizon:—The distance of the light-ship from the pier is 8 statute miles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7854567307692308
+      }
+    },
+    {
+      "question": "What is the predicted depth of water between two points if the Earth were convex?",
+      "context": "Making the usual calculation in accordance with the doctrine of the Earth’s convexity, it will be seen that an arc of water ought to have existed between the two points, the summit of which arc should have been 16 feet above the copper sheathing of the vessel!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8104777167277167
+      }
+    },
+    {
+      "question": "What conclusion can be drawn from observing the depth of a pier below the horizon?",
+      "context": "the usual calculation will show that this pier ought to have been many feet below the horizon!",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7391826923076923
+      }
+    },
+    {
+      "question": "How high above the water level was the copper sheathing of the vessel?",
+      "context": "uld have been 16 feet above the copper sheathing of the vessel!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.777972027972028
+      }
+    },
+    {
+      "question": "What is the minimum distance at which the Eddystone light can be seen?",
+      "context": "In a list of lighthouses in a[161] work called “The Lighthouses of the World,” by A. G. Findlay, F.R.G.S., published in 1862, by Richard H. Lawrie, 53, Fleet Street, London, it is said, at page 28:—“In the Tables the height of the flame above the highest tide high water level is given, so that it is the minimum range of the light; to this elevation 10 feet is added for the height of the deck of the ship above the sea. Besides the increased distance to which low water will cause the light to be seen, the effect of refraction will also sometimes increase their range.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8149477520196698
+      }
+    },
+    {
+      "question": "How far could the Eddystone Light be seen on a clear day?",
+      "context": "The Light of the Eddystone, which is 89 feet above the foundation on the rock, may be distinctly seen from an elevation of 5 feet above the water level; according to the Admiralty directions, it “may be seen 13 nautical (or 15 statute) miles,”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8172605580693816
+      }
+    },
+    {
+      "question": "Why was the top of the Eddystone's vane not visible on a clear autumn day?",
+      "context": "not only was the lantern, which is 89 feet high, not visible, but the top of the vane, which is 100 feet above the foundation was, as stated in the report, “entirely out of sight.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8465765004226542
+      }
+    },
+    {
+      "question": "How far away was the Eddystone Light when it could not be seen?",
+      "context": "and yet on that occasion, and at a distance of only 14 statute miles, notwithstanding[163] that it was a very fine autumn day, and a clear back ground existed",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8578340729783038
+      }
+    },
+    {
+      "question": "What is the effect of water motion on the visibility of objects in the sea?",
+      "context": "the swells and waves, into which the surface is broken operate to prevent the line of sight from passing parallel to the horizontal surface of the water.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7693910256410257
+      }
+    },
+    {
+      "question": "What causes objects beyond a certain distance to appear as a vanishing point?",
+      "context": "the surface of the Earth and Sea appears to rise up to the level, or altitude of the eye; and that at a certain distance the line of sight and the surface which is parallel to it appear to converge to a “vanishing point;”",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8206509725906277
+      }
+    },
+    {
+      "question": "Why does telescopic power have limited effect on objects beyond the vanishing point?",
+      "context": "because upon the sea the surface of the water is not stationary, the line of sight at the vanishing point becomes angular instead of parallel",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8528495795702273
+      }
+    },
+    {
+      "question": "What happens to the line of sight at the vanishing point when objects are beyond it?",
+      "context": "but because upon the sea the surface of the water is not stationary, the line of sight at the vanishing point becomes angular instead of parallel, and telescopic power is of little avail in restoring objects beyond this point.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8336021505376344
+      }
+    },
+    {
+      "question": "What causes the horizon to rise and fall with the eye?",
+      "context": "some of the observers remarked that the line of the horizon in the mirror rose and fell with the eye, as also did every thing else which was reflected",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8080128205128205
+      }
+    },
+    {
+      "question": "What effect do waves have on the visibility of objects beyond the optical horizon?",
+      "context": "The “crested waters” form a barrier to the horizontal line-of-sight, as substantial as would the summit of an intervening rock or island.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8068358766739334
+      }
+    },
+    {
+      "question": "Why can't powerful telescopes reveal the hull of a ship?",
+      "context": "The “crested waters” form a barrier to the horizontal line-of-sight, as substantial as would the summit of an intervening rock or island.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8165991902834009
+      }
+    },
+    {
+      "question": "What is the conclusion drawn from the observations of the committee?",
+      "context": "Indeed no other report could have been given without the author’s becoming subject to the charge of glaring, obstinate, and wilful misrepresentation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7567155067155067
+      }
+    },
+    {
+      "question": "What is the implication of the observations on the shape of the Earth?",
+      "context": "All appearances to the contrary have been shown to be purely optical and adventitious.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7327416173570019
+      }
+    },
+    {
+      "question": "What shape does the surface of all water appear to be?",
+      "context": "Indeed no other report could have been given without the author’s becoming subject to the charge of glaring, obstinate, and wilful misrepresentation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7912920412920412
+      }
+    },
+    {
+      "question": "What shape would the channel between Ryde and Southsea be if the Earth were a globe?",
+      "context": "If the Earth were a globe the channel between Ryde and Southsea would be an arc of a circle, and as the distance across is 4¹⁄₂ statute miles the centre of the arc would be 40 inches higher than the two sides;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8266129032258065
+      }
+    },
+    {
+      "question": "What conclusion can be drawn from the experiment made in May, 1864?",
+      "context": "This ascent and descent would have been marked by the line of sight falling 40 inches nearer to the deck of the steamer when on the centre of the arc of water;",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.808301282051282
+      }
+    },
+    {
+      "question": "Why is it impossible for a person with previous education to avoid concluding that the Earth is a plane?",
+      "context": "that it is impossible for any person who can put aside the bias of previous education to avoid the opposite conclusion that the Earth is a plane.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8498672044068464
+      }
+    },
+    {
+      "question": "What shape would the Ryde Pier Light be visible from if the present doctrine of the Earth’s rotundity were true?",
+      "context": "For instance, at page 35 of “Lighthouses of the World,” the Ryde Pier Light, erected in 1852, is described as a bright fixed light, 21 feet above high water, and visible from an altitude of 10 feet at the distance of 12 nautical or 14 statute miles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.8075279421433268
+      }
+    },
+    {
+      "question": "What can be observed from a great distance in relation to certain lighthouses?",
+      "context": "ion is greatly confirmed by the experience of mariners in regard to certain lighthouses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7856086221470837
+      }
+    },
+    {
+      "question": "How far is the Ryde Pier Light visible from an altitude of 10 feet?",
+      "context": "For instance, at page 35 of “Lighthouses of the World,” the Ryde Pier Light, erected in 1852, is described as a bright fixed light, 21 feet above high water, and visible from an altitude of 10 feet at the distance of 12 nautical or 14 statute miles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8034833755987603
+      }
+    },
+    {
+      "question": "What would be the expected curvature of the horizon for the Ryde Pier Light?",
+      "context": "The square of the remaining 10 statute miles multiplied by 8 inches will give a fall or curvature downwards from the horizon of 66 feet.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7693036130536131
+      }
+    },
+    {
+      "question": "What is the expected distance below the horizon for the Ryde Pier Light?",
+      "context": "Deduct from this 21 feet, the altitude of the light, and we have 45 feet as the amount which the light ought to be below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7134007297050775
+      }
+    },
+    {
+      "question": "How far is the Bidston Hill Lighthouse visible from an altitude of 10 feet?",
+      "context": "At page 39, the Bidston Hill Lighthouse, near Liverpool, is 228 feet above high water, one bright fixed light, visible 23 nautical or very nearly 27 statute miles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.836195054945055
+      }
+    },
+    {
+      "question": "What would be the expected curvature of the horizon for the Bidston Hill Lighthouse?",
+      "context": "Squaring the remaining 23 miles and multiplying[170] that product by 8 inches we have a downward curvature of 352 feet; from this deduct the altitude of the light, 228 feet, and there remains 124 feet as the distance which the light should be below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7641765285996056
+      }
+    },
+    {
+      "question": "What is the expected distance below the horizon for the Bidston Hill Lighthouse?",
+      "context": "The altitude of the light, 228 feet, and there remains 124 feet as the distance which the light should be below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7144828855355171
+      }
+    },
+    {
+      "question": "What is observed from a great distance in relation to the Spurn Point Lighthouse?",
+      "context": "At page 9 it is said:—“The coal fire (which was once used) on the Spurn Point Lighthouse, at the mouth of the Humber, which was constructed on a good principle for burning, has been seen 30 miles off.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7977647352647352
+      }
+    },
+    {
+      "question": "What would be the expected declination of the water from the horizon to the base of the Spurn Point Lighthouse?",
+      "context": "If the miles here given are nautical measure they would be equal to 35 statute miles. Deducting 4 miles as the usual amount for the distance of the horizon, there will remain 31 miles, which squared and multiplied by 8 inches will give 640 feet as the declination of the water from the horizon to the base of the Lighthouse.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.7877926421404682
+      }
+    },
+    {
+      "question": "What is the expected distance below the horizon for the Spurn Point Lighthouse?",
+      "context": "This amount deducted from the above 640 feet will leave 547 feet as the distance which the[171] Spurn Light ought to have been below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7325934934630587
+      }
+    },
+    {
+      "question": "What is observed from a great distance in relation to the High Whitby Lights?",
+      "context": "The two High Whitby Lights are 240 feet above high water (see page 42), and are visible 23 nautical miles at sea.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7713598901098901
+      }
+    },
+    {
+      "question": "What would be the expected distance below the horizon for the High Whitby Lights?",
+      "context": "The proper calculation will be 102 feet below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7029914529914529
+      }
+    },
+    {
+      "question": "What is observed from a great distance in relation to the Lower Farne Island Light?",
+      "context": "At page 43, it is said that the Lower Farne Island Light is visible for 12 nautical or 14 statute miles, and the height above high water is 45 feet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7804131054131054
+      }
+    },
+    {
+      "question": "What would be the expected distance below the horizon for the Lower Farne Island Light?",
+      "context": "The usual calculation will show that this light ought to be 67 feet below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7260355029585799
+      }
+    },
+    {
+      "question": "How far does the Spurn Light ought to be below the horizon?",
+      "context": "547 feet as the distance which the[171] Spurn Light ought to have been below the horizon!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7386363636363636
+      }
+    },
+    {
+      "question": "At what height above high water is the Lower Farne Island Light visible?",
+      "context": "The Lower Farne Island Light is visible for 12 nautical or 14 statute miles, and the height above high water is 45 feet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8,
+        "diversity_score": 0.7915257819103974
+      }
+    },
+    {
+      "question": "Why does the Spurn Light need to be below the horizon?",
+      "context": "The two High Whitby Lights are 240 feet above high water (see page 42), and are visible 23 nautical miles at sea. The proper calculation will be 102 feet below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7812321937321938
+      }
+    },
+    {
+      "question": "What is the height of the Rondö Light above high water?",
+      "context": "The Rondö Light, also on the west coast of Norway (see p. 55), is 161 feet high...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7602163461538461
+      }
+    },
+    {
+      "question": "At what distance should the Egerö Light be below the horizon?",
+      "context": "...making[172] the usual calculation we find this light ought to be depressed, or sunk, below the horizon 230 feet!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7619658119658119
+      }
+    },
+    {
+      "question": "Why does the Dunkerque Light need to be below the horizon?",
+      "context": "...the ordinary calculation will show that it ought to be 190 feet below the horizon!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.746474358974359
+      }
+    },
+    {
+      "question": "What would be expected to be the position of an object on the horizon based on its height above high water?",
+      "context": "the distance which the Light of Ballycotton ought to be below the horizon! The square of 36 multiplied by 8 inches amounts to 864 feet; deduct the total altitude of the Lantern, 230 feet, and the remainder, 634 feet, is the distance which the Light of Ballycotton ought to be below the horizon!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.7872863247863248
+      }
+    },
+    {
+      "question": "How much lower than the expected position should an object on the horizon be if it is visible at a certain distance?",
+      "context": "The square of which multiplied by 8 inches, gives a declination towards the tower of 2,904 feet; deducting from this the altitude of the tower, 300 feet, we obtain the startling conclusion that the tower should be at the distance at which it is visible, (60 nautical miles,) more than 2,600 feet below the horizon!",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8370602265951104
+      }
+    },
+    {
+      "question": "What would be expected to be the position of an object on the horizon if its height above high water and distance from the observer are known?",
+      "context": "The Light on Cape Bonavista, Newfoundland, is 150 feet above high water, and is visible 35[173] statute miles (p. 111), this will give on calculation for the Earth’s rotundity, 491 feet that the Light should be below the horizon!",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35,
+        "diversity_score": 0.8063902243589743
+      }
+    },
+    {
+      "question": "What is the required elevation to make observations at sea?",
+      "context": "ll observations at sea are considered to be made at an elevation of 10 feet above the water",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7438348416289593
+      }
+    },
+    {
+      "question": "How much does refraction reduce the observed distance?",
+      "context": "the modification which can be made or allowed is that for refraction, which is considered by surveyors generally to amount to about ¹⁄₁₂th of the altitude of the object observed",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8257211538461539
+      }
+    },
+    {
+      "question": "What is the result of applying this allowance to the original distance?",
+      "context": "[176] Take the last quotation as an instance—2,600 feet divided by 12 gives 206, which deducted from 2,600 leaves 2,384",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7955856643356644
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How far away was the Eddystone Light when it could not be seen?",
+      "context": "and yet on that occasion, and at a distance of only 14 statute miles, notwithstanding[163] that it was a very fine autumn day, and a clear back ground existed",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8578340729783038
+      }
+    },
+    {
+      "question": "Under what conditions can the hull of a receding vessel be seen again distinctly by the aid of a powerful telescope?",
+      "context": "When the surface is calm, the hull may be seen much farther than when it is rough and stormy; but under ordinary circumstances, when to the naked eye the hull has just become invisible, or is doubtfully visible, it may be seen again distinctly by the aid of a powerful telescope.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8512989203778678
+      }
+    },
+    {
+      "question": "Why was the top of the Eddystone's vane not visible on a clear autumn day?",
+      "context": "not only was the lantern, which is 89 feet high, not visible, but the top of the vane, which is 100 feet above the foundation was, as stated in the report, “entirely out of sight.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8465765004226542
+      }
+    },
+    {
+      "question": "Why is it impossible for a person with previous education to avoid concluding that the Earth is a plane?",
+      "context": "that it is impossible for any person who can put aside the bias of previous education to avoid the opposite conclusion that the Earth is a plane.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8498672044068464
+      }
+    }
+  ]
+}

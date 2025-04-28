@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when a network is given an easy task in a multitask setting?",
+      "context": "It's not going to learn anything, it will optimize for the easy part.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Why do networks fail to learn when given boring identical tags?",
+      "context": "They are too easy a task and the network optimizes for them instead of learning the interesting task.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8723262032085561
+      }
+    },
+    {
+      "question": "What is the baseline comparison in this study?",
+      "context": "CCGs or random tags.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "How do transformer setups compare to record networks in terms of learning curves?",
+      "context": "The main observation is the same, but with a slightly different shape.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9082167832167832
+      }
+    },
+    {
+      "question": "What happens when CCGs are compared to random tags?",
+      "context": "CCGs come negligibly better than random tags.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8353174603174603
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the baseline comparison in this study?",
+      "context": "CCGs or random tags.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "How do transformer setups compare to record networks in terms of learning curves?",
+      "context": "The main observation is the same, but with a slightly different shape.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9082167832167832
+      }
+    },
+    {
+      "question": "Why do networks fail to learn when given boring identical tags?",
+      "context": "They are too easy a task and the network optimizes for them instead of learning the interesting task.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8723262032085561
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the reason for the reappraisal of German scientific institutions' past with regard to National Socialism?",
+      "context": "It did not happen out of a sense of guilt. It did not happen out of a sense of guilt. Rather, they only acted because of public criticism.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8828125
+      }
+    },
+    {
+      "question": "Why did the reappraisal begin so late?",
+      "context": "Because some revered teachers were affected and people didn't dare to ask questions.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8344780219780219
+      }
+    },
+    {
+      "question": "Why did many scientists sympathize with the Nazis early on?",
+      "context": "Many scientists sympathised with the Nazis early on and put their work at the service of the regime.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.85859375
+      }
+    },
+    {
+      "question": "What was the original idea behind the Gedenkort Charité - Wissenschaft in Verantwortung project?",
+      "context": "Actually, the original idea was that we as Charité had to create something that was represented by renowned artists in a very visible form.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8529283216783217
+      }
+    },
+    {
+      "question": "What is known about Jewish employees in the medical and nursing professions during the Third Reich?",
+      "context": "There were certainly more than twice as many Jews who were dismissed from the nursing professions. Medical historians have been able to trace the fate of more than 180 high-ranking Jewish doctors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8694940476190476
+      }
+    },
+    {
+      "question": "How did many Jewish lecturers and professors manage after leaving Germany?",
+      "context": "Many lecturers and professors managed to flee abroad because they usually had enough money and personal contacts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8899147727272727
+      }
+    },
+    {
+      "question": "What challenges did some Jewish doctors face when trying to start a new career in their new home country?",
+      "context": "Starting a new career in their new home country was not easy for various reasons, says Udo Schagen. Very often they ended up in countries where they were not allowed to practise their medical profession, sometimes had to study again, sometimes lived in dependence on other people.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.906517094017094
+      }
+    },
+    {
+      "question": "What is the significance of the Charité memorial project?",
+      "context": "The Charité memorial project should not only remind us of the past, but also serve as a reminder to a new generation of doctors. And perhaps also to other professional groups.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7980769230769231
+      }
+    },
+    {
+      "question": "What is the potential outcome if small shifts in ethical norms occur?",
+      "context": "And such small shifts can then even develop into something bigger, taking on historical dimensions, which, as under National Socialism, among other things, led to the murder of millions of people.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8604166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How did many Jewish lecturers and professors manage after leaving Germany?",
+      "context": "Many lecturers and professors managed to flee abroad because they usually had enough money and personal contacts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8899147727272727
+      }
+    },
+    {
+      "question": "What challenges did some Jewish doctors face when trying to start a new career in their new home country?",
+      "context": "Starting a new career in their new home country was not easy for various reasons, says Udo Schagen. Very often they ended up in countries where they were not allowed to practise their medical profession, sometimes had to study again, sometimes lived in dependence on other people.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.906517094017094
+      }
+    },
+    {
+      "question": "What was the reason for the reappraisal of German scientific institutions' past with regard to National Socialism?",
+      "context": "It did not happen out of a sense of guilt. It did not happen out of a sense of guilt. Rather, they only acted because of public criticism.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8828125
+      }
+    },
+    {
+      "question": "Why did the reappraisal begin so late?",
+      "context": "Because some revered teachers were affected and people didn't dare to ask questions.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8344780219780219
+      }
+    }
+  ]
+}

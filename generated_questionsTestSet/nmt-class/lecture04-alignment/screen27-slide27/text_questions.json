@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the counterpart to the full stop in Devanagari script?",
+      "context": "A symbol that repeats in Devanagari script and has a vertical pipe, called the danda",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8339285714285715
+      }
+    },
+    {
+      "question": "Why do you think breaking the text into individual lines based on these symbols might work?",
+      "context": "The assumption that if the texts are translations of each other, this approach will be effective",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.903125
+      }
+    },
+    {
+      "question": "What script is being discussed in relation to English and Dutch sentences?",
+      "context": "Devanagari script",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "How do you think the use of this approach will affect the alignment of the sentences?",
+      "context": "The assumption that breaking the text into individual lines based on these symbols will lead to successful sentence alignment",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8605769230769231
+      }
+    },
+    {
+      "question": "What is the expected outcome if the texts are indeed translations of each other?",
+      "context": "Successful sentence alignment",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7980769230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What script is being discussed in relation to English and Dutch sentences?",
+      "context": "Devanagari script",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "Why do you think breaking the text into individual lines based on these symbols might work?",
+      "context": "The assumption that if the texts are translations of each other, this approach will be effective",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.903125
+      }
+    },
+    {
+      "question": "How do you think the use of this approach will affect the alignment of the sentences?",
+      "context": "The assumption that breaking the text into individual lines based on these symbols will lead to successful sentence alignment",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8605769230769231
+      }
+    }
+  ]
+}

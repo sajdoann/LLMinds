@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two recurrent neural networks used in a sequence-to-sequence system with attention?",
+      "context": "If you have a sequence-to-sequence system with attention, what you have at the top is the input sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6738095238095239
+      }
+    },
+    {
+      "question": "How does the decoder produce words in a sequence-to-sequence system with attention?",
+      "context": "So the decoder would have access only to the particle word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "What is the purpose of the attention mechanism in a sequence-to-sequence system with attention?",
+      "context": "And that's where the attention mechanism comes into play.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6079059829059829
+      }
+    },
+    {
+      "question": "How does the attention mechanism affect the word order in a sequence-to-sequence system with attention?",
+      "context": "So the decoder produces the words as we are used to that, one word at a time.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6082589285714286
+      }
+    },
+    {
+      "question": "What is controlled by the attention mechanism besides the word order in a sequence-to-sequence system with attention?",
+      "context": "But also the general flow of the translation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6395089285714286
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two recurrent neural networks used in a sequence-to-sequence system with attention?",
+      "context": "If you have a sequence-to-sequence system with attention, what you have at the top is the input sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6738095238095239
+      }
+    },
+    {
+      "question": "How does the attention mechanism affect the word order in a sequence-to-sequence system with attention?",
+      "context": "So the decoder produces the words as we are used to that, one word at a time.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6082589285714286
+      }
+    },
+    {
+      "question": "How does the decoder produce words in a sequence-to-sequence system with attention?",
+      "context": "So the decoder would have access only to the particle word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "What is the purpose of the attention mechanism in a sequence-to-sequence system with attention?",
+      "context": "And that's where the attention mechanism comes into play.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6079059829059829
+      }
+    },
+    {
+      "question": "What is controlled by the attention mechanism besides the word order in a sequence-to-sequence system with attention?",
+      "context": "But also the general flow of the translation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6395089285714286
+      }
+    }
+  ]
+}

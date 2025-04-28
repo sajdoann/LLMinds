@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the proposed change regarding sending soldiers abroad?",
+      "context": "the government could send soldiers abroad 'for example, to rescue Czech citizens' without prior consent of Parliament",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7320261437908497
+      }
+    },
+    {
+      "question": "Why would the government's authority to send troops abroad be limited to a period of 60 days?",
+      "context": "after which the presence of troops outside the Czech Republic would have to be approved by Parliament, just as it is now",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.809375
+      }
+    },
+    {
+      "question": "What are the current limitations on sending troops outside Czech territory?",
+      "context": "However, this authority would still be limited to a period of 60 days, after which the presence of troops outside the Czech Republic would have to be approved by Parliament, just as it is now.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7915151515151515
+      }
+    },
+    {
+      "question": "Why can the government send troops outside Czech territory for a maximum of 60 days without prior parliamentary approval?",
+      "context": "The current proposal thus expands the range of defined cases in which the government can send troops outside Czech territory for a maximum of 60 days without prior parliamentary approval.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.8167641325536062
+      }
+    },
+    {
+      "question": "What are the three situations in which the government can send troops outside Czech territory without prior parliamentary approval?",
+      "context": "<i>'fulfilling obligations under international treaties on collective defense against attack'</i>, when participating in peacekeeping operations, and during rescue work after natural disasters or industrial and ecological accidents.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8547008547008548
+      }
+    },
+    {
+      "question": "Who proposed a change to the Czech Republic's law regarding sending soldiers abroad?",
+      "context": "The second was a proposal from&nbsp;<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7763736263736264
+      }
+    },
+    {
+      "question": "What is the proposed change in wording regarding government consent for sending soldiers abroad?",
+      "context": "<p>The Constitution <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7964285714285715
+      }
+    },
+    {
+      "question": "What is the argument given in support of this change?",
+      "context": "<i>'according to the current regulation, for example, it would be extremely difficult to send the armed forces of the Czech Republic in a timely manner to save the lives of Czech citizens illegally detained abroad'</i> (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is the purpose of Article 43(4) of the Constitution?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.74375
+      }
+    },
+    {
+      "question": "What is the scope of situations where the government can send soldiers abroad without Parliament's consent?",
+      "context": "<i>fulfillment</i></i><i>of obligations under international treaties on mutual defense against attack</i>",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8183333333333334
+      }
+    },
+    {
+      "question": "Who links the proposal for rapid dispatch of Czech soldiers abroad without Parliament's consent to rescuing Czech citizens?",
+      "context": "The chairman of the ANO movement",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.7870588235294118
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why can the government send troops outside Czech territory for a maximum of 60 days without prior parliamentary approval?",
+      "context": "The current proposal thus expands the range of defined cases in which the government can send troops outside Czech territory for a maximum of 60 days without prior parliamentary approval.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.8167641325536062
+      }
+    },
+    {
+      "question": "Why would the government's authority to send troops abroad be limited to a period of 60 days?",
+      "context": "after which the presence of troops outside the Czech Republic would have to be approved by Parliament, just as it is now",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.809375
+      }
+    },
+    {
+      "question": "What are the three situations in which the government can send troops outside Czech territory without prior parliamentary approval?",
+      "context": "<i>'fulfilling obligations under international treaties on collective defense against attack'</i>, when participating in peacekeeping operations, and during rescue work after natural disasters or industrial and ecological accidents.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8547008547008548
+      }
+    },
+    {
+      "question": "Who links the proposal for rapid dispatch of Czech soldiers abroad without Parliament's consent to rescuing Czech citizens?",
+      "context": "The chairman of the ANO movement",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.7870588235294118
+      }
+    }
+  ]
+}

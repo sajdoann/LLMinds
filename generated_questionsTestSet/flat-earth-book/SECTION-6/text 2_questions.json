@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the cause of day and night, seasons, etc.?",
+      "context": "The Sun S describes the circle A A A on the 21st December once in 24 hours; hence in that period day and night occur to every part of the Earth, except within the Arctic circle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7764367816091954
+      }
+    },
+    {
+      "question": "What is the relationship between the Sun's position and the seasons?",
+      "context": "As the Sun’s path begins now to diminish every day until in six months, or on the 15th of June, it describes the circle B B B, it is evident that the same extent of sunlight will reach over or beyond the pole N, as shown in the following diagram (Fig. 28), when morning, noon, evening, and night will again occur as before.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7785185185185185
+      }
+    },
+    {
+      "question": "Why do Winter and Summer have different characteristics in New Zealand compared to England?",
+      "context": "If the Earth is a globe, it is evident that Winter and Summer, and long and short days, will be of the same character and duration in corresponding latitudes, in the southern as in the northern hemisphere.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7718253968253967
+      }
+    },
+    {
+      "question": "What is the main difference between the longest day and shortest day in New Zealand compared to England?",
+      "context": "Thus the longest day in New Zealand is 1 hour and 36 minutes shorter than the longest day in England; and the shortest day in New Zealand is 1 hour and[82] 17 minutes longer than the shortest day in England.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7579365079365079
+      }
+    },
+    {
+      "question": "How does the duration of summer days compare between Auckland (New Zealand) and England?",
+      "context": "Compared with an English summer, that of Auckland is but little warmer, though much longer;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7476190476190476
+      }
+    },
+    {
+      "question": "What can be inferred about the climate in New Zealand compared to England based on the information provided?",
+      "context": "But we find that in many respects there is a marked difference; for instance, in New Zealand, where the latitude is about the same as in England, a remarkable difference exists in the length of day and night.",
+      "difficulty": "inferential",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.765865485979338
+      }
+    },
+    {
+      "question": "How does the duration of winter days compare between Auckland (New Zealand) and England?",
+      "context": "Compared with an English summer, that of Auckland is but little warmer, though much longer; but the nights in New Zealand are always cool and refreshing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7409523809523809
+      }
+    },
+    {
+      "question": "Why do people in New Zealand think twilight lasts but a short time?",
+      "context": "Twilight lasts but a short time in so low a latitude as 28 degrees, and no sooner does the Sun peep above the horizon, than all the gorgeous parade by which he is preceded is shaken off, and he comes in upon us in the most abrupt and unceremonious way imaginable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8865957890348134
+      }
+    },
+    {
+      "question": "What can be inferred about the Sun's velocity based on its effect on morning and evening twilight?",
+      "context": "The larger circle, radius N W is passed over by the sunlight in the same time (24 hours) as the smaller circle, radius N E, so the velocity of the Sun-light must be much greater",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7970679012345678
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the Earth's shape based on this reasoning?",
+      "context": "The Earth a plane, and it is a simple “matter of course.” Let E, in Figure 28, represent England, and W New Zealand;",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7710622710622711
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the duration of summer days compare between Auckland (New Zealand) and England?",
+      "context": "Compared with an English summer, that of Auckland is but little warmer, though much longer;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7476190476190476
+      }
+    },
+    {
+      "question": "Why do people in New Zealand think twilight lasts but a short time?",
+      "context": "Twilight lasts but a short time in so low a latitude as 28 degrees, and no sooner does the Sun peep above the horizon, than all the gorgeous parade by which he is preceded is shaken off, and he comes in upon us in the most abrupt and unceremonious way imaginable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8865957890348134
+      }
+    },
+    {
+      "question": "What is the cause of day and night, seasons, etc.?",
+      "context": "The Sun S describes the circle A A A on the 21st December once in 24 hours; hence in that period day and night occur to every part of the Earth, except within the Arctic circle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7764367816091954
+      }
+    },
+    {
+      "question": "What can be inferred about the Sun's velocity based on its effect on morning and evening twilight?",
+      "context": "The larger circle, radius N W is passed over by the sunlight in the same time (24 hours) as the smaller circle, radius N E, so the velocity of the Sun-light must be much greater",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7970679012345678
+      }
+    }
+  ]
+}

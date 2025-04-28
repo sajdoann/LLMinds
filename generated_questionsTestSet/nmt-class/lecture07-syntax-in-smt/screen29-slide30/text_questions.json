@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was another approach to binarization mentioned in the document?",
+      "context": "So there were multiple approaches how to do it with the binarization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "Who developed the syntax augmented machine translation approach?",
+      "context": "So that was the syntax augmented machine translation by Ashish Venugopal and Andras Solman.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8995535714285714
+      }
+    },
+    {
+      "question": "What is the purpose of constructing artificial phrases in this approach to binarization?",
+      "context": "So here the linguists would be crazy from seeing that someone says that this Chinese phrase corresponds to the combination of noun ppp and noun p.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7972408026755853
+      }
+    },
+    {
+      "question": "Is the approach mentioned in the document based on linguistic constituents?",
+      "context": "That's not a linguistic constituent in any sense.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What is an advantage of this approach to binarization compared to others?",
+      "context": "This allows us to process also non-grammatic.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.810064935064935
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was another approach to binarization mentioned in the document?",
+      "context": "So there were multiple approaches how to do it with the binarization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "Who developed the syntax augmented machine translation approach?",
+      "context": "So that was the syntax augmented machine translation by Ashish Venugopal and Andras Solman.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8995535714285714
+      }
+    },
+    {
+      "question": "What is the purpose of constructing artificial phrases in this approach to binarization?",
+      "context": "So here the linguists would be crazy from seeing that someone says that this Chinese phrase corresponds to the combination of noun ppp and noun p.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7972408026755853
+      }
+    },
+    {
+      "question": "What is an advantage of this approach to binarization compared to others?",
+      "context": "This allows us to process also non-grammatic.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.810064935064935
+      }
+    }
+  ]
+}

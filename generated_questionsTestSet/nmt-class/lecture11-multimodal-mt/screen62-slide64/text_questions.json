@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the cognitive load considerations when it comes to user interface design?",
+      "context": "Cognitive load considerations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7435897435897436
+      }
+    },
+    {
+      "question": "Why would a user who understands the source language prefer simultaneity over stability and precision in translation output?",
+      "context": "Different types of users, user understanding of source language",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.8940972222222222
+      }
+    },
+    {
+      "question": "What is the preferred setting for a user who doesn't speak the source language at all?",
+      "context": "Settings and view options",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "How do different final outputs indicate that some underlying components are better or worse for the task of simultaneous translation?",
+      "context": "Different final outputs, component quality",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What is the main goal when it comes to handling and considering cognitive load in user interface design?",
+      "context": "Handling and considering cognitive load",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7861111111111111
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why would a user who understands the source language prefer simultaneity over stability and precision in translation output?",
+      "context": "Different types of users, user understanding of source language",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.8940972222222222
+      }
+    },
+    {
+      "question": "What is the preferred setting for a user who doesn't speak the source language at all?",
+      "context": "Settings and view options",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is the main goal when it comes to handling and considering cognitive load in user interface design?",
+      "context": "Handling and considering cognitive load",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7861111111111111
+      }
+    },
+    {
+      "question": "How do different final outputs indicate that some underlying components are better or worse for the task of simultaneous translation?",
+      "context": "Different final outputs, component quality",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.9375
+      }
+    }
+  ]
+}

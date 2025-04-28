@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What technique is used to ensure the sentence representation vector has a fixed size, regardless of the sentence length?",
+      "context": "Also do some max pooling or average pooling over all the states.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8703208556149733
+      }
+    },
+    {
+      "question": "What are the two techniques mentioned as options for pooling over all the states?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "What is the purpose of summing over all vectors in max pooling or average pooling?",
+      "context": "So this is like summing over all the vectors that will make sure that",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8128205128205128
+      }
+    },
+    {
+      "question": "Is there any specific detail about how the pooling should be performed, other than the technique used?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9140625
+      }
+    },
+    {
+      "question": "What is the general implication of performing pooling over all states?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7727272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What technique is used to ensure the sentence representation vector has a fixed size, regardless of the sentence length?",
+      "context": "Also do some max pooling or average pooling over all the states.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8703208556149733
+      }
+    },
+    {
+      "question": "What are the two techniques mentioned as options for pooling over all the states?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "What is the purpose of summing over all vectors in max pooling or average pooling?",
+      "context": "So this is like summing over all the vectors that will make sure that",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8128205128205128
+      }
+    },
+    {
+      "question": "What is the general implication of performing pooling over all states?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7727272727272727
+      }
+    }
+  ]
+}

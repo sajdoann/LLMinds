@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "When was the model introduced?",
+      "context": "MODEL was introduced in 2017",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is the name of the paper that introduced the model?",
+      "context": "The paper is called Attention is all you need and we will see why attention becomes the central component of that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7430555555555556
+      }
+    },
+    {
+      "question": "Why does attention become the central component of the model according to the paper?",
+      "context": "We will see why attention becomes the central component of that.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7471590909090909
+      }
+    },
+    {
+      "question": "What can be inferred about the complexity of the transformer MODEL based on the given information?",
+      "context": "The paper is very succinct in writing so it's not easy to distill all the workings of transformer MODEL from the original paper.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What can be inferred about the content of the figures mentioned in the document?",
+      "context": "All you have there are these figures which very grossly summarize the equations.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.797275641025641
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When was the model introduced?",
+      "context": "MODEL was introduced in 2017",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What can be inferred about the complexity of the transformer MODEL based on the given information?",
+      "context": "The paper is very succinct in writing so it's not easy to distill all the workings of transformer MODEL from the original paper.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What is the name of the paper that introduced the model?",
+      "context": "The paper is called Attention is all you need and we will see why attention becomes the central component of that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7430555555555556
+      }
+    },
+    {
+      "question": "Why does attention become the central component of the model according to the paper?",
+      "context": "We will see why attention becomes the central component of that.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7471590909090909
+      }
+    }
+  ]
+}

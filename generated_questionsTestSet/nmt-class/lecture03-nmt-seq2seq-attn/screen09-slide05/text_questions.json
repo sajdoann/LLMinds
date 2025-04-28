@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of scaling the weight matrix?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.328125
+      }
+    },
+    {
+      "question": "How does the document describe the system that the weight matrix is part of?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates and in a complex system",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.5223214285714286
+      }
+    },
+    {
+      "question": "What can be inferred about the complexity of the system based on the document?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates and in a complex system",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5223214285714286
+      }
+    },
+    {
+      "question": "How does the scaling affect the dimensionality of the weight matrix?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.3819444444444444
+      }
+    },
+    {
+      "question": "What is being represented by the 'inner representation' in the context of the document?",
+      "context": "The size of the inner representation from two coordinates",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of scaling the weight matrix?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.328125
+      }
+    },
+    {
+      "question": "How does the document describe the system that the weight matrix is part of?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates and in a complex system",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.5223214285714286
+      }
+    },
+    {
+      "question": "What can be inferred about the complexity of the system based on the document?",
+      "context": "The size of the inner representation from two coordinates, the weight matrix scaled it up to three coordinates and in a complex system",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5223214285714286
+      }
+    }
+  ]
+}

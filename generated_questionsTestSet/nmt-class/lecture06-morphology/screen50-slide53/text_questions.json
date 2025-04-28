@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the initial setup used for synchronous factors in the past, but later found to be inadequate?",
+      "context": "So that was the unfortunate linguistically adequate setup which didn't work with synchronous factors and what worked very well in many years was this",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8414322250639386
+      }
+    },
+    {
+      "question": "How did you use multiple language models to improve the translate and check setup?",
+      "context": "So we have these two output factors. We have this output factor of word forms and we have this output factor of morphological tags and we have parallel data and monolingual data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8031015037593985
+      }
+    },
+    {
+      "question": "What was the difference between the 'long' language model based on word forms and the 'big' language model with a smaller span?",
+      "context": "So one language model was called long that was based on the word forms and that was the seven grams of full word forms",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "Why did using four language models with different spans improve the BLEU score?",
+      "context": "Each of these language models has a different view on the output sentence and each of them is estimated with a different confidence or reliability so using all of them and and tuning their out set is the best thing that you can do",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8096719457013575
+      }
+    },
+    {
+      "question": "What was the advantage of using longer morphological tags, such as 15 grams?",
+      "context": "The 15 grams are sparser, sparser so I edit them only like later and here you see what is the BLEU score",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8182234432234432
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the initial setup used for synchronous factors in the past, but later found to be inadequate?",
+      "context": "So that was the unfortunate linguistically adequate setup which didn't work with synchronous factors and what worked very well in many years was this",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8414322250639386
+      }
+    },
+    {
+      "question": "How did you use multiple language models to improve the translate and check setup?",
+      "context": "So we have these two output factors. We have this output factor of word forms and we have this output factor of morphological tags and we have parallel data and monolingual data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8031015037593985
+      }
+    },
+    {
+      "question": "What was the difference between the 'long' language model based on word forms and the 'big' language model with a smaller span?",
+      "context": "So one language model was called long that was based on the word forms and that was the seven grams of full word forms",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.7708333333333333
+      }
+    }
+  ]
+}

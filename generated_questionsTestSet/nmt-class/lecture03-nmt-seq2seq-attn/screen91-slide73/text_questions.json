@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of probability distribution is being referred to?",
+      "context": "Probabilistic",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Is the alignment from SMT discrete or continuous?",
+      "context": "So it's a distribution over these positions and the alignment from SMT was discrete.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.6339285714285714
+      }
+    },
+    {
+      "question": "What can be inferred about the probability distribution based on the information given?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "Can the alignment from SMT be considered as a fixed value or is it variable?",
+      "context": "the alignment from SMT was discrete.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6333333333333333
+      }
+    },
+    {
+      "question": "Is the type of probability distribution relevant to understanding the alignment from SMT?",
+      "context": "Probabilistic. So it's a distribution over these positions and the alignment from SMT was discrete.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6666666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of probability distribution is being referred to?",
+      "context": "Probabilistic",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Is the alignment from SMT discrete or continuous?",
+      "context": "So it's a distribution over these positions and the alignment from SMT was discrete.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.6339285714285714
+      }
+    },
+    {
+      "question": "Can the alignment from SMT be considered as a fixed value or is it variable?",
+      "context": "the alignment from SMT was discrete.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6333333333333333
+      }
+    },
+    {
+      "question": "What can be inferred about the probability distribution based on the information given?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many morphological tags are possible in Czech, according to linguists?",
+      "context": "So if you are a linguist then you would know then in Czech to describe, to select one of the particular word form of a word you need some morphological tag and then morphological tag uniquely describes what the form will be.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "Why do linguists use fewer than 4,000 morphological tags for English compared to Czech?",
+      "context": "And across the language, across all the parts of speeches there are more than 4 000 Czech tags possible, while in English linguists are happy with just 50 tags.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8282967032967032
+      }
+    },
+    {
+      "question": "How does the word order in a sentence relate to the morphology in Czech?",
+      "context": "That's because the syntax of the sentence is more reflected by the word form. forms then by the order of the words in the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7118055555555556
+      }
+    },
+    {
+      "question": "What is a result of having a rich morphology with free word order?",
+      "context": "So this rich morphology comes normally or very very often with the free word order across all the languages. People simply follow the forms of the word to reconstruct the meaning of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8709935897435898
+      }
+    },
+    {
+      "question": "How does the presence of articles in English affect the number of tokens in a corpus compared to Czech?",
+      "context": "In English you will have slightly more tokens. That's because English uses articles and we don't have them in Czech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7867647058823529
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many morphological tags are possible in Czech, according to linguists?",
+      "context": "So if you are a linguist then you would know then in Czech to describe, to select one of the particular word form of a word you need some morphological tag and then morphological tag uniquely describes what the form will be.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "What is a result of having a rich morphology with free word order?",
+      "context": "So this rich morphology comes normally or very very often with the free word order across all the languages. People simply follow the forms of the word to reconstruct the meaning of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8709935897435898
+      }
+    },
+    {
+      "question": "Why do linguists use fewer than 4,000 morphological tags for English compared to Czech?",
+      "context": "And across the language, across all the parts of speeches there are more than 4 000 Czech tags possible, while in English linguists are happy with just 50 tags.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8282967032967032
+      }
+    }
+  ]
+}

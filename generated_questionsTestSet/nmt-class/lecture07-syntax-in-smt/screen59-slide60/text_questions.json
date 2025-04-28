@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What approach did you use for your single task?",
+      "context": "And here is the summary.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7555555555555555
+      }
+    },
+    {
+      "question": "How do you handle tectogrammatical trees with many attributes?",
+      "context": "I used my single approach with its independence assumptions of the synchronous tree substitution grammars.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What is the difference between analytical and phrasal trees?",
+      "context": "And I also used something which can be dubbed the phrasal trees, that is like the analytical layer, except we ignore the structure and only attach the words to its predecessor.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "How does the empirical evaluation of your approach compare to others?",
+      "context": "The view which uses just the phrases and does not reorder them. Empirically comes out as the best approach.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8656417112299466
+      }
+    },
+    {
+      "question": "What are the implications of using tectogrammatical nodes with many attributes?",
+      "context": "The system which uses these tectogrammatical nodes with with many attributes, even with a very complex setup of creating these factors on the fly was still the worst.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8488142292490118
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the difference between analytical and phrasal trees?",
+      "context": "And I also used something which can be dubbed the phrasal trees, that is like the analytical layer, except we ignore the structure and only attach the words to its predecessor.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "How does the empirical evaluation of your approach compare to others?",
+      "context": "The view which uses just the phrases and does not reorder them. Empirically comes out as the best approach.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8656417112299466
+      }
+    },
+    {
+      "question": "How do you handle tectogrammatical trees with many attributes?",
+      "context": "I used my single approach with its independence assumptions of the synchronous tree substitution grammars.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ]
+}

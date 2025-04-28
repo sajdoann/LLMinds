@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main modification made to the standard transformer architecture in the S-transformer approach?",
+      "context": "And then they used two levels of convolutional network to reduce the size of the input.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.654532967032967
+      }
+    },
+    {
+      "question": "How is positional encoding utilized in the proposed architectures?",
+      "context": "They have modified that architecture in two ways. In one way, they have added the linear transformations, two layers of the transformation on the same combined input.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "What is the primary goal of adding convolutional networks to the input in the S-transformer approach?",
+      "context": "The convolutional networks and some attention over that. And that is applied to the timeframes still without the positional encoding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7478991596638656
+      }
+    },
+    {
+      "question": "How does the S-transformer approach differ from the standard transformer in terms of self-attention phase?",
+      "context": "And then on top of that, they put the standard encoder layers of the transformer.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "What is the main challenge mentioned in the document regarding the S-transformer approach?",
+      "context": "And all these different components will either help or damage your training capabilities. And this is a very recent research.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7577751196172249
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary goal of adding convolutional networks to the input in the S-transformer approach?",
+      "context": "The convolutional networks and some attention over that. And that is applied to the timeframes still without the positional encoding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7478991596638656
+      }
+    },
+    {
+      "question": "What is the main modification made to the standard transformer architecture in the S-transformer approach?",
+      "context": "And then they used two levels of convolutional network to reduce the size of the input.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.654532967032967
+      }
+    },
+    {
+      "question": "What is the main challenge mentioned in the document regarding the S-transformer approach?",
+      "context": "And all these different components will either help or damage your training capabilities. And this is a very recent research.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7577751196172249
+      }
+    },
+    {
+      "question": "How does the S-transformer approach differ from the standard transformer in terms of self-attention phase?",
+      "context": "And then on top of that, they put the standard encoder layers of the transformer.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7410714285714286
+      }
+    }
+  ]
+}

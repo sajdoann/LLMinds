@@ -1,0 +1,589 @@
+{
+  "all_questions": [
+    {
+      "question": "What sense organs are characteristic of mammals?",
+      "context": "Before proceeding to the study of human sensory systems, remember what sense organs animals have. What sense organs are characteristic of mammals?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8261567038162783
+      }
+    },
+    {
+      "question": "How many sensory systems do humans actually have?",
+      "context": "They often talk about the five senses of a person, and sometimes they also mention the so-called \"sixth\" sense. However, in fact, a person has more sensory systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9252127659574468
+      }
+    },
+    {
+      "question": "What are the three closely related parts distinguished in each sensory system?",
+      "context": "Accordingly, in each sensory system, three closely related parts are distinguished: peripheral, middle and central (Fig. 37.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8698372966207759
+      }
+    },
+    {
+      "question": "What is the role of the nuclei of the analyzers in the sensory system?",
+      "context": "The nuclei of the analyzers do not have clearly defined boundaries. Their role is to realize the perceived sensation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7771589486858573
+      }
+    },
+    {
+      "question": "What is the primary function of the accessory apparatus of the eye?",
+      "context": "The accessory apparatus of the eye ensures its normal functioning, and the eyeball is responsible for conducting light, regulating its quantity, focusing the image, and perceiving light signals.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7983862678589784
+      }
+    },
+    {
+      "question": "What prevents foreign objects, sweat, and dust from entering the eyes?",
+      "context": "These elements of the accessory apparatus prevent foreign objects, sweat, and dust from entering the eyes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8579626047711154
+      }
+    },
+    {
+      "question": "What is the purpose of changing the shape of the lens in the eye?",
+      "context": "Changing the shape of the lens is a way to provide “focusing”, that is, to obtain a clear image precisely on the receptors that perceive it.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7882978723404255
+      }
+    },
+    {
+      "question": "Where does the vitreous humor occupy most of in the eye?",
+      "context": "Inside, the eye is filled with the vitreous humor, which occupies most of the eye cavity.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8191489361702128
+      }
+    },
+    {
+      "question": "What happens to the lens when looking at objects that are close?",
+      "context": "When looking from objects far away to objects close to the eye, the ciliary muscle contracts, and the lens, due to its elasticity, becomes more convex.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8606889564336373
+      }
+    },
+    {
+      "question": "What is the function of rods in the retina?",
+      "context": "Rods contain the visual pigment rhodopsin. They perceive the entire spectrum of visible light and work well in twilight conditions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7496500559910414
+      }
+    },
+    {
+      "question": "How does the lens change shape when viewing objects that are far away?",
+      "context": "When looking from objects far away to objects close to the eye, the ciliary muscle contracts, and the lens, due to its elasticity, becomes more convex.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8994232717636973
+      }
+    },
+    {
+      "question": "What is the function of cones in the retina?",
+      "context": "Cones contain the visual pigment iodopsin and provide color vision. However, they can work only under conditions of sufficiently bright lighting.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7604483282674772
+      }
+    },
+    {
+      "question": "What happens to light rays in the retina when there is a blind spot?",
+      "context": "The retina has a blind spot, which looks like a whitish round spot and is devoid of light-sensitive elements, so light rays are not perceived here.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8422188449848025
+      }
+    },
+    {
+      "question": "What is the function of melanin in the iris?",
+      "context": "the different color of the eyes is due to the unequal amount and spatial distribution of melanin in the iris.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7240691489361702
+      }
+    },
+    {
+      "question": "What are the main sections of the ear?",
+      "context": "The organ of hearing is partially located in the thickness of the temporal bone of the skull. It consists of three main sections: the outer, middle and inner ear (Fig. 39.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7720364741641337
+      }
+    },
+    {
+      "question": "What type of sensory system does color vision belong to?",
+      "context": "Color perceptionYou already know that cones are receptors of daytime vision that are capable of perceiving different colors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.874113475177305
+      }
+    },
+    {
+      "question": "What part of the brain processes signals from auditory receptors?",
+      "context": "This section (cortical center) of the auditory sensory system is located in the temporal lobe of the cortex.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8074468085106383
+      }
+    },
+    {
+      "question": "Where are sound vibrations transmitted to generate excitation?",
+      "context": "Sound vibrations from the eardrum are transmitted by the auditory ossicles to the oval window of the inner ear.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8856382978723404
+      }
+    },
+    {
+      "question": "What part of the cochlea contains hairs that vibrate with fluid and generate excitation?",
+      "context": "The spiral (Corti) organ of the cochlea contains hairs of different lengths.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8329787234042554
+      }
+    },
+    {
+      "question": "What is the role of the subcortical hearing centers in sound recognition?",
+      "context": "Excitation is transmitted along the auditory nerve to the subcortical and cortical (in the temporal lobe) hearing centers, where sound recognition occurs.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8189071566731141
+      }
+    },
+    {
+      "question": "What is the purpose of the vestibular apparatus?",
+      "context": "The latter function is provided by the vestibular apparatus, which consists of two sacs - oval and round, and three semicircular canals, expanded at the base (Fig. 39.4).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7589665653495441
+      }
+    },
+    {
+      "question": "What is the role of otoliths in the vestibular apparatus?",
+      "context": "Sensitive hair cells are immersed in a gelatinous substance - the otolith membrane. In the upper part of this membrane are embedded calcium bicarbonate crystals - otoliths.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7844074416692364
+      }
+    },
+    {
+      "question": "What is musical hearing?",
+      "context": "People with musical hearing have a sense of rhythm, they are able to accurately repeat a given tone, a musical phrase.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8049645390070922
+      }
+    },
+    {
+      "question": "How does the vestibular apparatus function in relation to balance?",
+      "context": "If the body position has been disturbed, it is restored due to signals from the brain, which are transmitted to the skeletal muscles.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8590425531914894
+      }
+    },
+    {
+      "question": "What determines the pitch of a given tone in people with absolute hearing?",
+      "context": "They are able to determine the pitch of a given tone by hearing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8011456628477904
+      }
+    },
+    {
+      "question": "What is responsible for maintaining balance in humans?",
+      "context": "The function of maintaining balance is provided by the vestibular apparatus, which consists of two sacs - oval and round, as well as three semicircular canals.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8371877890841813
+      }
+    },
+    {
+      "question": "What are substances in aqueous solutions recognized as by taste receptors?",
+      "context": "Substances in aqueous solutions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9052224371373307
+      }
+    },
+    {
+      "question": "Why do cats have whiskers?",
+      "context": "Importance of the sense of touch for animals. Which animals have the best tactile sensitivity? Why do cats need whiskers?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.9284869976359338
+      }
+    },
+    {
+      "question": "Which animals have the best tactile sensitivity?",
+      "context": "Which animals have the best tactile sensitivity? Why do cats need whiskers?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8815856129685917
+      }
+    },
+    {
+      "question": "Why do humans rely on the tactile sensory system after losing vision and hearing?",
+      "context": "'In case of loss of vision and hearing, a person can “hear”, “read”, that is, act and be useful to society, using a tactile analyzer through training and various technical devices'.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9185241472475515
+      }
+    },
+    {
+      "question": "What is unique about the receptor area of touch compared to other sense organs?",
+      "context": "This provides high sensitivity of the skin analyzer.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8026215805471124
+      }
+    },
+    {
+      "question": "What are pain receptors responsible for?",
+      "context": "Pain is a specific psychophysiological state of a person that occurs as a result of the action of strong or damaging factors. It is accompanied by a very unpleasant sensation. Pain plays an important protective function in the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8738846945778997
+      }
+    },
+    {
+      "question": "How do different parts of the skin provide sensitivity?",
+      "context": "There are a lot of tactile receptors on the hands (especially on the fingertips) and lips of a person. There are about 10 times more cold points in the human skin than thermal ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8628841607565012
+      }
+    },
+    {
+      "question": "What must be maintained for normal vision?",
+      "context": "To maintain normal vision, you must first of all eat right, spend more time outdoors, and do physical exercises. Daylight should freely enter the room through clean window glass.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9046221570066031
+      }
+    },
+    {
+      "question": "What happens to the eye when light rays focus not on the retina?",
+      "context": "If the image appears in front of the retina, myopia develops, if behind it - hyperopia (Fig. 42.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.854831560283688
+      }
+    },
+    {
+      "question": "What are diseases associated with impaired function of cones?",
+      "context": "They are associated with impaired function of a certain type of cones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8430045132172792
+      }
+    },
+    {
+      "question": "What type of sensory system dysfunction occurs when there is an accumulation of earwax in the external auditory canal?",
+      "context": "Due to the accumulation of earwax, a plug may form that impairs hearing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.8229678123295144
+      }
+    },
+    {
+      "question": "What condition characterized by general malaise, a feeling of discomfort in the stomach area, loss of appetite, and dizziness is related to motion sickness?",
+      "context": "Motion sickness manifests itself as dizziness, car, sea, air or railway sickness.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9266111625038544
+      }
+    },
+    {
+      "question": "What type of sensory system disorder affects the ability to taste food?",
+      "context": "Loss of taste occurs in the case of various diseases that affect the oral cavity or brain.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the central part of the sensory system?",
+      "context": "The central part of the sensory system is",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.6808510638297872
+      }
+    },
+    {
+      "question": "Which part of the eye apparatus includes eyebrows, eyelids, eyelashes, and lacrimal glands?",
+      "context": "The eye apparatus, which includes eyebrows, eyelids, eyelashes and ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8562465902891435
+      }
+    },
+    {
+      "question": "Where is the pupil located in relation to the membrane of the eye?",
+      "context": "The membrane of the eye, inside which the pupil is located:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7660649043627767
+      }
+    },
+    {
+      "question": "What part of the eyeball contains most of its cavity?",
+      "context": "Most of the cavity of the eyeball is occupied by:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.754580378250591
+      }
+    },
+    {
+      "question": "Which photoreceptors are sensitive to daylight?",
+      "context": "Cones are photoreceptors that:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9237588652482269
+      }
+    },
+    {
+      "question": "Where is the visual zone located in the brain?",
+      "context": "The part of the brain in which the visual zone is located:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7768617021276596
+      }
+    },
+    {
+      "question": "What structures are adjacent to the eardrum from the side of the middle ear?",
+      "context": "The following are adjacent to the eardrum from the side of the middle ear:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.787314635718891
+      }
+    },
+    {
+      "question": "What is contained in the middle ear?",
+      "context": "The middle ear contains:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7188449848024316
+      }
+    },
+    {
+      "question": "What part of the inner ear consists of a bony labyrinth?",
+      "context": "The inner ear consists of:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7914893617021277
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which photoreceptors are sensitive to daylight?",
+      "context": "Cones are photoreceptors that:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9237588652482269
+      }
+    },
+    {
+      "question": "What condition characterized by general malaise, a feeling of discomfort in the stomach area, loss of appetite, and dizziness is related to motion sickness?",
+      "context": "Motion sickness manifests itself as dizziness, car, sea, air or railway sickness.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9266111625038544
+      }
+    },
+    {
+      "question": "How many sensory systems do humans actually have?",
+      "context": "They often talk about the five senses of a person, and sometimes they also mention the so-called \"sixth\" sense. However, in fact, a person has more sensory systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9252127659574468
+      }
+    },
+    {
+      "question": "How does the vestibular apparatus function in relation to balance?",
+      "context": "If the body position has been disturbed, it is restored due to signals from the brain, which are transmitted to the skeletal muscles.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8590425531914894
+      }
+    },
+    {
+      "question": "What is musical hearing?",
+      "context": "People with musical hearing have a sense of rhythm, they are able to accurately repeat a given tone, a musical phrase.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8049645390070922
+      }
+    }
+  ]
+}

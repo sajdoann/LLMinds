@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of STSG factorization?",
+      "context": "So the structure and the attributes clash in a way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7326388888888888
+      }
+    },
+    {
+      "question": "How does T-layer require factorizations?",
+      "context": "STSG factorizes along the structure of the tree. And T-layer requires factorizations along the attributes.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "What is the issue with having multiple layers of trees in STSG?",
+      "context": "It would be hard to make sure that all these layers of trees would match in structure.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7057291666666667
+      }
+    },
+    {
+      "question": "What are some of the factors involved in phrase-based machine translation?",
+      "context": "Or whether you should have three let's full of attributes or fully instantiated phrases or factors. If you remember the phrase based machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8051948051948052
+      }
+    },
+    {
+      "question": "What are some of the layers involved in STSG?",
+      "context": "So this is hard. It would be hard to make sure that all these layers of trees would match in structure. So I tried everything.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6690821256038648
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of STSG factorization?",
+      "context": "So the structure and the attributes clash in a way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7326388888888888
+      }
+    },
+    {
+      "question": "How does T-layer require factorizations?",
+      "context": "STSG factorizes along the structure of the tree. And T-layer requires factorizations along the attributes.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "What are some of the layers involved in STSG?",
+      "context": "So this is hard. It would be hard to make sure that all these layers of trees would match in structure. So I tried everything.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6690821256038648
+      }
+    },
+    {
+      "question": "What is the issue with having multiple layers of trees in STSG?",
+      "context": "It would be hard to make sure that all these layers of trees would match in structure.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7057291666666667
+      }
+    }
+  ]
+}

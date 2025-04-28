@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'hammer the hook into the wall' mean in this context?",
+      "context": "Further ideas are on the generality, so, or vagueness of the expression",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7045454545454546
+      }
+    },
+    {
+      "question": "How can the last version of a sentence still be understandable by humans despite changes in wording?",
+      "context": "And that's when you are out of words and you just ask someone to do a job",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7524509803921569
+      }
+    },
+    {
+      "question": "What kind of expression is being explored in this document?",
+      "context": "meaning, so this is what we are exploring",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How does the context influence the meaning of a sentence?",
+      "context": "And that's when you are out of words and you just ask someone to do a job",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What is the purpose of using vague or general language in communication?",
+      "context": "Further ideas are on the generality, so, or vagueness of the expression",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6931818181818181
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of expression is being explored in this document?",
+      "context": "meaning, so this is what we are exploring",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How can the last version of a sentence still be understandable by humans despite changes in wording?",
+      "context": "And that's when you are out of words and you just ask someone to do a job",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7524509803921569
+      }
+    },
+    {
+      "question": "How does the context influence the meaning of a sentence?",
+      "context": "And that's when you are out of words and you just ask someone to do a job",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7083333333333334
+      }
+    }
+  ]
+}

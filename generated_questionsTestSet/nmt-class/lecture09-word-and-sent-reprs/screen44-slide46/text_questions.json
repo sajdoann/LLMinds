@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the author consider to be the benefit of using continuous representations?",
+      "context": "The great benefit of continuous representations is that they are learnable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "According to the author, what aspect of abstraction is better captured by traditional symbolic theories versus continuous representations?",
+      "context": "And sometimes these aspects are better captured by the traditional symbolic theories of formal semantics.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7444444444444445
+      }
+    },
+    {
+      "question": "What does the author mean by 'compositionality' in the context of symbolic representation?",
+      "context": "The compositionality is the critical element of symbolic representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6510416666666666
+      }
+    },
+    {
+      "question": "How does the author think ambiguity in expressions is better captured in different theories?",
+      "context": "That was Danny approaching the chair with a bag. So there, in the continuous representations. There would be some differences in the activations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7865384615384615
+      }
+    },
+    {
+      "question": "What does the author consider to be an aspect of statefulness that is better captured by continuous representations?",
+      "context": "And also, there is something which I call statefulness. What the meaning should be attributed to the sentence as it is.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7145833333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the author think ambiguity in expressions is better captured in different theories?",
+      "context": "That was Danny approaching the chair with a bag. So there, in the continuous representations. There would be some differences in the activations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7865384615384615
+      }
+    },
+    {
+      "question": "According to the author, what aspect of abstraction is better captured by traditional symbolic theories versus continuous representations?",
+      "context": "And sometimes these aspects are better captured by the traditional symbolic theories of formal semantics.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7444444444444445
+      }
+    },
+    {
+      "question": "What does the author consider to be an aspect of statefulness that is better captured by continuous representations?",
+      "context": "And also, there is something which I call statefulness. What the meaning should be attributed to the sentence as it is.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7145833333333333
+      }
+    },
+    {
+      "question": "What does the author mean by 'compositionality' in the context of symbolic representation?",
+      "context": "The compositionality is the critical element of symbolic representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6510416666666666
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main idea of Petr Fiala's statement?",
+      "context": "A já už jsem v tom svém prvním povolebním vystoupení řekl, překonávejme ty rozdíly, respektujeme samozřejmě, že máme různé politické názory, volíme diferentes partidos, tenemos diferentes visiones de eso, cómo debe ser la perhaps elevada impuesto y así más allá, pero todos nosotros estamos ciudadanos de la República Checa, debemos estar juntos como vecinos, como colaboradores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8098290598290598
+      }
+    },
+    {
+      "question": "What did Petr Fiala say about the relationship between those who voted for him and those who didn't?",
+      "context": "<i>„dobrá vláda vládne pro semua, i pro ty, kteří ji nevolili“</i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.878125
+      }
+    },
+    {
+      "question": "What was the context of Petr Fiala's statement about being together as citizens?",
+      "context": "<p>Petr Fiala zde v Otázkách Václav Moravce odpovídal na otázku (video, čas 48:28), která zmiňovala, že ve sněmovních volbách propadly hlasy více než milionu voličů, kteří tak nejsou reprezentováni v Poslanecké sněmovně.</p>",
+      "difficulty": "medium",
+      "category": "contextual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8290942928039702
+      }
+    },
+    {
+      "question": "What coalition did Petr Fiala belong to?",
+      "context": "<p>Koalice SPOLU <a href=\"https://www.volby.cz/pls/ps2021/ps124?xjazyk=CZ&amp;xkraj=0&amp;xstrana=13&amp;xv=1\">tvořená</a> ODS, TOP 09 a KDU-ČSL ve volbách do Poslanecké sněmovny Parlamentu ČR získala <a href=\"https://www.volby.cz/pls/ps2021/ps2?xjazyk=CZ\">27,79 %</a> hlasů,</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6535714285714286
+      }
+    },
+    {
+      "question": "How did Petr Fiala's coalition perform in the election?",
+      "context": "<p>Koalice SPOLU <a href=\"https://www.volby.cz/pls/ps2021/ps124?xjazyk=CZ&amp;xkraj=0&amp;xstrana=13&amp;xv=1\">tvořená</a> ODS, TOP 09 a KDU-ČSL ve volbách do Poslanecké sněmovny Parlamentu ČR získala <a href=\"https://www.volby.cz/pls/ps2021/ps2?xjazyk=CZ\">27,79 %</a> hlasů,</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6833333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What did Petr Fiala say about the relationship between those who voted for him and those who didn't?",
+      "context": "<i>„dobrá vláda vládne pro semua, i pro ty, kteří ji nevolili“</i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.878125
+      }
+    },
+    {
+      "question": "What was the context of Petr Fiala's statement about being together as citizens?",
+      "context": "<p>Petr Fiala zde v Otázkách Václav Moravce odpovídal na otázku (video, čas 48:28), která zmiňovala, že ve sněmovních volbách propadly hlasy více než milionu voličů, kteří tak nejsou reprezentováni v Poslanecké sněmovně.</p>",
+      "difficulty": "medium",
+      "category": "contextual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8290942928039702
+      }
+    },
+    {
+      "question": "What is the main idea of Petr Fiala's statement?",
+      "context": "A já už jsem v tom svém prvním povolebním vystoupení řekl, překonávejme ty rozdíly, respektujeme samozřejmě, že máme různé politické názory, volíme diferentes partidos, tenemos diferentes visiones de eso, cómo debe ser la perhaps elevada impuesto y así más allá, pero todos nosotros estamos ciudadanos de la República Checa, debemos estar juntos como vecinos, como colaboradores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8098290598290598
+      }
+    }
+  ]
+}

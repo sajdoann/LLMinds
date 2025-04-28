@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the best setup for translation in 2007?",
+      "context": "In 2007 the translate and check was the best setup because we had relatively small data but already big enough so that the linguistically adequate path would not be the best choice.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "Why did the Translate and Check system perform worse in 2009 compared to previous years?",
+      "context": "The translate and check system was already a little worse in 2009 because the added complexity of the search space was not then compensated with sufficient gains from the language model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.725925925925926
+      }
+    },
+    {
+      "question": "What was the primary issue with the Translate and Check setup in 2009?",
+      "context": "With the larger data there were too many possible words and too many possible morphological tags, which caused the search space to explode.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6732456140350878
+      }
+    },
+    {
+      "question": "How did the language model on word forms perform in previous years compared to 2009?",
+      "context": "In previous years the language model on the word forms was unreliably estimated due to smaller data and slower machines, but it was good enough to make decisions in 2009.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7919871794871794
+      }
+    },
+    {
+      "question": "What happened when trying to train the Translate and Check setup with large data?",
+      "context": "The search space became too complicated and the choices were worse than what the phrase-based system did on average.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7232142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the best setup for translation in 2007?",
+      "context": "In 2007 the translate and check was the best setup because we had relatively small data but already big enough so that the linguistically adequate path would not be the best choice.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "How did the language model on word forms perform in previous years compared to 2009?",
+      "context": "In previous years the language model on the word forms was unreliably estimated due to smaller data and slower machines, but it was good enough to make decisions in 2009.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7919871794871794
+      }
+    },
+    {
+      "question": "Why did the Translate and Check system perform worse in 2009 compared to previous years?",
+      "context": "The translate and check system was already a little worse in 2009 because the added complexity of the search space was not then compensated with sufficient gains from the language model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.725925925925926
+      }
+    }
+  ]
+}

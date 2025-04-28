@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the role of the fixed length vector in the model?",
+      "context": "The simplest possible approach to the new empty model and encoder decoder architecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6291666666666667
+      }
+    },
+    {
+      "question": "Where does the decoder get its input from?",
+      "context": "The role of the fixed length vector in the model",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the purpose of the cut through the network?",
+      "context": "The simplest possible approach to the new empty model and encoder decoder architecture",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6510416666666667
+      }
+    },
+    {
+      "question": "How does the model produce the target sentence?",
+      "context": "The role of the fixed length vector in the model",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7075892857142857
+      }
+    },
+    {
+      "question": "What is stored in the fixed length vector just before the decoder?",
+      "context": "The cut through this network that guess what the encoder and right before the decoder",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7674825174825175
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the role of the fixed length vector in the model?",
+      "context": "The simplest possible approach to the new empty model and encoder decoder architecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6291666666666667
+      }
+    },
+    {
+      "question": "Where does the decoder get its input from?",
+      "context": "The role of the fixed length vector in the model",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How does the model produce the target sentence?",
+      "context": "The role of the fixed length vector in the model",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7075892857142857
+      }
+    },
+    {
+      "question": "What is the purpose of the cut through the network?",
+      "context": "The simplest possible approach to the new empty model and encoder decoder architecture",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6510416666666667
+      }
+    }
+  ]
+}

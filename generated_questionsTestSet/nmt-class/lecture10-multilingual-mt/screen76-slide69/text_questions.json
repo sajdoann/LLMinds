@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the default size of the transformer setup?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "How many parameters are in the default feedforward network?",
+      "context": "There is 8000 vector elements in the feedforward network and the default is to use 16 heads.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8027777777777778
+      }
+    },
+    {
+      "question": "What would be the effect of doubling the number of layers and increasing the size of the dimension of the feedforward network?",
+      "context": "So what if we increase the depth? ... So that is a deep network.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.058823529411764705,
+        "diversity_score": 0.8519230769230769
+      }
+    },
+    {
+      "question": "How many GPUs are required to train the wide transformer setup?",
+      "context": "And you will need definitely two GPUs to train it at the same time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "What is the effect of using a deep network compared to a wide network, especially on low resource languages?",
+      "context": "And as you will see, the deep setup will be better than the wide setup, especially on low resource languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8611111111111112
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many GPUs are required to train the wide transformer setup?",
+      "context": "And you will need definitely two GPUs to train it at the same time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "What is the effect of using a deep network compared to a wide network, especially on low resource languages?",
+      "context": "And as you will see, the deep setup will be better than the wide setup, especially on low resource languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "How many parameters are in the default feedforward network?",
+      "context": "There is 8000 vector elements in the feedforward network and the default is to use 16 heads.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8027777777777778
+      }
+    }
+  ]
+}

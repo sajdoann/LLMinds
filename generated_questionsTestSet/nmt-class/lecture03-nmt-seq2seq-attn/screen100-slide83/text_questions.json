@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was a key difference in the settings of the two systems?",
+      "context": "This is that the settings of these two systems of these two papers were very different.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.840034965034965
+      }
+    },
+    {
+      "question": "Why are the results of the two experiments not comparable?",
+      "context": "So it was the size of the network. Maybe the training data was the same and test data was the same but this capacity of the network and the training regime and all that was very different and therefore the results are actually incomparable.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8564814814814815
+      }
+    },
+    {
+      "question": "What factors might have contributed to the differences in results?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "Is it possible that the training data and test data were identical?",
+      "context": "Maybe the training data was the same and test data was the same",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7798295454545454
+      }
+    },
+    {
+      "question": "What is being suggested about the relationship between network size, training data, and training regime?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9196428571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was a key difference in the settings of the two systems?",
+      "context": "This is that the settings of these two systems of these two papers were very different.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.840034965034965
+      }
+    },
+    {
+      "question": "What is being suggested about the relationship between network size, training data, and training regime?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9196428571428572
+      }
+    },
+    {
+      "question": "Why are the results of the two experiments not comparable?",
+      "context": "So it was the size of the network. Maybe the training data was the same and test data was the same but this capacity of the network and the training regime and all that was very different and therefore the results are actually incomparable.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8564814814814815
+      }
+    },
+    {
+      "question": "What factors might have contributed to the differences in results?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    }
+  ]
+}

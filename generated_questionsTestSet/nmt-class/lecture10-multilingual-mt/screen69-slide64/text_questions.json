@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of vector space projection does T-SNE use to indicate the families of languages?",
+      "context": "The interesting and good thing is that indeed the embedding when projected to a two-dimensional vector space with T-SNE indicates the families.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7669642857142858
+      }
+    },
+    {
+      "question": "Are the Niger-Congo languages close to the Indo-European languages in the T-SNE projection?",
+      "context": "They are close to and I don't know whether this is probably the Niger-Congo languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.5708333333333333
+      }
+    },
+    {
+      "question": "What type of languages form a distinct cluster among the Quechua languages in the T-SNE projection?",
+      "context": "Quechua languages form a distinct cluster.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6994047619047619
+      }
+    },
+    {
+      "question": "How do the Afro-Zero-Quechua and Creole languages relate to the Indo-European languages in terms of their placement in the T-SNE projection?",
+      "context": "Afro-Zero-Quechua and Creole languages are here similar to the Indo-Europeans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.6757352941176471
+      }
+    },
+    {
+      "question": "What is the overall pattern of language families in the T-SNE projection?",
+      "context": "The Indo-European languages form kind of a cluster and they are close to and I don't know whether this is probably the Niger-Congo languages. Then Austronesian languages are across the board.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6381118881118881
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Are the Niger-Congo languages close to the Indo-European languages in the T-SNE projection?",
+      "context": "They are close to and I don't know whether this is probably the Niger-Congo languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.5708333333333333
+      }
+    },
+    {
+      "question": "What type of vector space projection does T-SNE use to indicate the families of languages?",
+      "context": "The interesting and good thing is that indeed the embedding when projected to a two-dimensional vector space with T-SNE indicates the families.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7669642857142858
+      }
+    },
+    {
+      "question": "What type of languages form a distinct cluster among the Quechua languages in the T-SNE projection?",
+      "context": "Quechua languages form a distinct cluster.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6994047619047619
+      }
+    }
+  ]
+}

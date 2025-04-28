@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of correlation do we see when ignoring the BLEU score?",
+      "context": "If we ignore the BLEU score, then we see a positive correlation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8276515151515151
+      }
+    },
+    {
+      "question": "Why does the system not need to understand the sentence to produce good translations?",
+      "context": "The system tries, is trained to produce good translations not to understand the sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What type of tasks are being evaluated in the semantic measures?",
+      "context": "There are many metrics, some of them and some of them are the similarity base, some of them are the classification tasks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8286713286713286
+      }
+    },
+    {
+      "question": "What is a key observation about the correlation between BLEU score and semantic measures?",
+      "context": "The better the system configuration performs in BLEU score, the worse it performs in the particular task.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8273809523809523
+      }
+    },
+    {
+      "question": "How does the sequence-to-sequence model operate?",
+      "context": "It kind of illustrates that the sequence to sequence model is operating at the shallow level. representation stores the, not the meaning of the sentence but the words that are there.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.84375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of correlation do we see when ignoring the BLEU score?",
+      "context": "If we ignore the BLEU score, then we see a positive correlation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8276515151515151
+      }
+    },
+    {
+      "question": "Why does the system not need to understand the sentence to produce good translations?",
+      "context": "The system tries, is trained to produce good translations not to understand the sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What type of tasks are being evaluated in the semantic measures?",
+      "context": "There are many metrics, some of them and some of them are the similarity base, some of them are the classification tasks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8286713286713286
+      }
+    },
+    {
+      "question": "What is a key observation about the correlation between BLEU score and semantic measures?",
+      "context": "The better the system configuration performs in BLEU score, the worse it performs in the particular task.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8273809523809523
+      }
+    }
+  ]
+}

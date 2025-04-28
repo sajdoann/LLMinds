@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the verb when a sentence starts with an adverb in German?",
+      "context": "You simply replace what you are observing, the word forms, with the linguistic annotation that you are interested in.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7726190476190475
+      }
+    },
+    {
+      "question": "In which language is the subject typically first and the verb second when a sentence starts with an adverb?",
+      "context": "And there you will learn that if a sentence starts with an adverb, then in German the verb goes second and then comes the subject, while in English the subject is still the first and the verb is second.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8448275862068966
+      }
+    },
+    {
+      "question": "What is an example of a short distance syntactic pattern that can be helpful for reorderings?",
+      "context": "These are short distance syntactic patterns only, but they can be helpful for these reorderings, such as adjectives put after nouns in French or this example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.673125
+      }
+    },
+    {
+      "question": "What is the purpose of considering not the exact words, but instead their parts of speech when analyzing syntactic patterns?",
+      "context": "So here, by considering not the exact words, but instead they are part of speech text, the system has of syntactic patterns.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5882352941176471,
+        "diversity_score": 0.8270833333333334
+      }
+    },
+    {
+      "question": "What is an example of a reorder that can be achieved using short distance syntactic patterns?",
+      "context": "These are short distance syntactic patterns only, but they can be helpful for these reorderings, such as adjectives put after nouns in French or this example.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.6653125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the verb when a sentence starts with an adverb in German?",
+      "context": "You simply replace what you are observing, the word forms, with the linguistic annotation that you are interested in.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7726190476190475
+      }
+    },
+    {
+      "question": "In which language is the subject typically first and the verb second when a sentence starts with an adverb?",
+      "context": "And there you will learn that if a sentence starts with an adverb, then in German the verb goes second and then comes the subject, while in English the subject is still the first and the verb is second.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8448275862068966
+      }
+    },
+    {
+      "question": "What is the purpose of considering not the exact words, but instead their parts of speech when analyzing syntactic patterns?",
+      "context": "So here, by considering not the exact words, but instead they are part of speech text, the system has of syntactic patterns.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5882352941176471,
+        "diversity_score": 0.8270833333333334
+      }
+    },
+    {
+      "question": "What is an example of a reorder that can be achieved using short distance syntactic patterns?",
+      "context": "These are short distance syntactic patterns only, but they can be helpful for these reorderings, such as adjectives put after nouns in French or this example.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.6653125
+      }
+    }
+  ]
+}

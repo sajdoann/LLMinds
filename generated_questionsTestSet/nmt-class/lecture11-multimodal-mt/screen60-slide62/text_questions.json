@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of this feature?",
+      "context": "is to show paragraphs where people can read back",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7202380952380952
+      }
+    },
+    {
+      "question": "How does this feature work?",
+      "context": "with these paragraphs you can also easily indicate which sentences have been completed and which sentences are still being updated and which sentences are just incoming.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "What kind of outputs does this feature provide?",
+      "context": "So here you give a mix of like stable and unstable outputs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6927083333333334
+      }
+    },
+    {
+      "question": "How can the user interact with this feature?",
+      "context": "and the user can select what they would like to read.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6818181818181819
+      }
+    },
+    {
+      "question": "What is being demonstrated by this feature?",
+      "context": "So here you give a mix of like stable and unstable outputs and the user can select what they would like to read.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6726190476190477
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of this feature?",
+      "context": "is to show paragraphs where people can read back",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7202380952380952
+      }
+    },
+    {
+      "question": "How does this feature work?",
+      "context": "with these paragraphs you can also easily indicate which sentences have been completed and which sentences are still being updated and which sentences are just incoming.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "How can the user interact with this feature?",
+      "context": "and the user can select what they would like to read.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6818181818181819
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the simple n-gram based language models being discussed?",
+      "context": "That's the big overview. We need to briefly summarize language models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7943181818181818
+      }
+    },
+    {
+      "question": "How do these language models assess target sentences without considering source sentences?",
+      "context": "So this is the part which only assesses the target sentence without considering the source.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8501602564102564
+      }
+    },
+    {
+      "question": "Why is it a problem to compare the probability of sentences like 'was black' and 'hello'?",
+      "context": "But in that case, it really doesn't make much sense to talk about the probability of a sentence because it depends on the communication situation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8542798913043479
+      }
+    },
+    {
+      "question": "How do you define the probability of a sentence in an n-gram language model?",
+      "context": "So, okay. So how do we define the probability of a sentence?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7172619047619048
+      }
+    },
+    {
+      "question": "What are the smaller chunks used to calculate the probability of a sentence in an n-gram language model?",
+      "context": "The idea is very simple. You break the sentence into smaller chunks and you use the same table for each of these smaller chunks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7893382352941176
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the simple n-gram based language models being discussed?",
+      "context": "That's the big overview. We need to briefly summarize language models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7943181818181818
+      }
+    },
+    {
+      "question": "How do these language models assess target sentences without considering source sentences?",
+      "context": "So this is the part which only assesses the target sentence without considering the source.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8501602564102564
+      }
+    },
+    {
+      "question": "Why is it a problem to compare the probability of sentences like 'was black' and 'hello'?",
+      "context": "But in that case, it really doesn't make much sense to talk about the probability of a sentence because it depends on the communication situation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8542798913043479
+      }
+    }
+  ]
+}

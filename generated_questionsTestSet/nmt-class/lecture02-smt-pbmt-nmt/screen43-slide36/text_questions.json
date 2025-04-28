@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the minimum number of weights required to separate points in the center from points on a circular boundary?",
+      "context": "identified weights. These weights are indicating the positions and slopes of the lines.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "What type of computation is used in the system to separate points in the center from points on a circular boundary?",
+      "context": "And then there is some non-linear function which is part of the computation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7152777777777778
+      }
+    },
+    {
+      "question": "What is the implication of being able to find thirteen real numbers for the system's ability to train automatically?",
+      "context": "If you are able to find thirteen real numbers then given your training data then this system can train automatically.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.6869195046439629
+      }
+    },
+    {
+      "question": "What is the specific number of weights required for fine neurons in the system?",
+      "context": "And that's it. So in order to separate points in the center from points on the circular it is sufficient to have three, six, nine, twelve, thirteen numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7319711538461539
+      }
+    },
+    {
+      "question": "What can be inferred about the system's ability to train automatically if it requires a specific number of weights?",
+      "context": "If you are able to find thirteen real numbers then given your training data then this system can train automatically.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6973684210526316
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the specific number of weights required for fine neurons in the system?",
+      "context": "And that's it. So in order to separate points in the center from points on the circular it is sufficient to have three, six, nine, twelve, thirteen numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7319711538461539
+      }
+    },
+    {
+      "question": "What type of computation is used in the system to separate points in the center from points on a circular boundary?",
+      "context": "And then there is some non-linear function which is part of the computation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7152777777777778
+      }
+    },
+    {
+      "question": "What is the implication of being able to find thirteen real numbers for the system's ability to train automatically?",
+      "context": "If you are able to find thirteen real numbers then given your training data then this system can train automatically.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.6869195046439629
+      }
+    },
+    {
+      "question": "What can be inferred about the system's ability to train automatically if it requires a specific number of weights?",
+      "context": "If you are able to find thirteen real numbers then given your training data then this system can train automatically.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6973684210526316
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the most important factor affecting the performance of the child model in translation quality?",
+      "context": "the parent size, the size of the training data for the parent",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6339285714285714
+      }
+    },
+    {
+      "question": "Will pre-training a smaller language pair hurt the performance of the child model?",
+      "context": "if the parent language pair is smaller then it is going to hurt the performance of the child",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7583333333333333
+      }
+    },
+    {
+      "question": "What should be avoided in order to improve the performance of the child model?",
+      "context": "it's not a good idea to pre-train",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7458791208791209
+      }
+    },
+    {
+      "question": "Is there any relationship between the size of the training data for the parent and the translation quality?",
+      "context": "the parent size, the size of the training data for the parent is the most important aspect",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.75625
+      }
+    },
+    {
+      "question": "What type of experiments have confirmed that the parent size affects the performance of the child model?",
+      "context": "We always got like not good results and even a significant degradation of translation quality. So in our experiments",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7819548872180451
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What should be avoided in order to improve the performance of the child model?",
+      "context": "it's not a good idea to pre-train",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7458791208791209
+      }
+    },
+    {
+      "question": "Will pre-training a smaller language pair hurt the performance of the child model?",
+      "context": "if the parent language pair is smaller then it is going to hurt the performance of the child",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7583333333333333
+      }
+    },
+    {
+      "question": "Is there any relationship between the size of the training data for the parent and the translation quality?",
+      "context": "the parent size, the size of the training data for the parent is the most important aspect",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.75625
+      }
+    }
+  ]
+}

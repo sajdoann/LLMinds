@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the problem with the base decomposition method?",
+      "context": "Let's totally rewrite it. Let's redefine how do we specify or let's redefine the probability of the target sentence given the source.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7371323529411764
+      }
+    },
+    {
+      "question": "What is the goal of redefining the probability of the target sentence given the source?",
+      "context": "So the base decomposition did not do the job well because of this independence assumption. Let's try the language model or the, well, I don't know the English name for that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7950487012987013
+      }
+    },
+    {
+      "question": "How does the new approach to defining probability differ from previous methods?",
+      "context": "So we will rewrite the target sentence as the sequence of the target words and all given the source then we need to define this probability.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7336309523809524
+      }
+    },
+    {
+      "question": "What technical device is needed to train the new probability distribution?",
+      "context": "So we have changed the whole approach. We are still statistical machine translation because we are defining the probability of the target given the source.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7236842105263158
+      }
+    },
+    {
+      "question": "How does the language model approach differ from traditional neural machine translation models?",
+      "context": "So in essence all neural empty systems are only clever language models. So remember when I was talking about whether the features are used for construction or scoring, I said it is kind of risky to use the language model for construction because it doesn't know anything about the source.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8353365384615384
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the problem with the base decomposition method?",
+      "context": "Let's totally rewrite it. Let's redefine how do we specify or let's redefine the probability of the target sentence given the source.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7371323529411764
+      }
+    },
+    {
+      "question": "What is the goal of redefining the probability of the target sentence given the source?",
+      "context": "So the base decomposition did not do the job well because of this independence assumption. Let's try the language model or the, well, I don't know the English name for that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7950487012987013
+      }
+    },
+    {
+      "question": "How does the new approach to defining probability differ from previous methods?",
+      "context": "So we will rewrite the target sentence as the sequence of the target words and all given the source then we need to define this probability.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7336309523809524
+      }
+    },
+    {
+      "question": "How does the language model approach differ from traditional neural machine translation models?",
+      "context": "So in essence all neural empty systems are only clever language models. So remember when I was talking about whether the features are used for construction or scoring, I said it is kind of risky to use the language model for construction because it doesn't know anything about the source.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8353365384615384
+      }
+    }
+  ]
+}

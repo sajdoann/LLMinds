@@ -1,0 +1,1073 @@
+{
+  "all_questions": [
+    {
+      "question": "What is evolution of living organisms?",
+      "context": "Процес повторювався неодноразово. Триває він і зараз. Ми називаємо його еволюцією живих організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.791913214990138
+      }
+    },
+    {
+      "question": "What is the systematics of living organisms?",
+      "context": "Біологія — біологічна систематику .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638932496075354
+      }
+    },
+    {
+      "question": "What is the main goal of biological systematics?",
+      "context": "Біологічна систематика — це розділ біо-\nлогії, який формує єдину систему живого сві-\nту на основі виділення біологічних таксонів \n(систематичних одиниць) і відповідних назв, \nнаданих за певними правилами (правилами \nбіologicalної номенклатури).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7856256646579227
+      }
+    },
+    {
+      "question": "What is the main principle of scientific classification of living organisms?",
+      "context": "основною систематичною категорією є вид, споріднені види \nоб’єднуються в більш високі таксономічні одиниці — роди, роди — у родині, а останні — іще в більші групи",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8146440516005733
+      }
+    },
+    {
+      "question": "What are monophyletic and polyphyletic groups?",
+      "context": "Монофілетичні та поліфілетичні групи організмів. За походженням систематичні grupos живих організмів поділяють на монофілетичні й поліфілетичні (від грец.  mono  — один,  poli  — багато).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8656462585034014
+      }
+    },
+    {
+      "question": "What is the difference between a monophyletic and polyphyletic group?",
+      "context": "Монофілетичні та поліфілетичні групи організмів. За походженням систематичні групи живих organisмів поділяють на монофілетичні й поліфілетичні.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8217425431711146
+      }
+    },
+    {
+      "question": "What is the purpose of eliminating polyphyletic groups?",
+      "context": "Монофілетичні та поліфілетичні групи організмів. За походженням систематичні групи живих organisмів поділяють на монофілетичні й поліфілетичні. Якщо вдається довести, що група є поліфілетичною, systèmeтики її ліквідують або ж змінюють її межі.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7900313971742543
+      }
+    },
+    {
+      "question": "What is meant by the concept of a species?",
+      "context": "Що таке вид? Які критерії виду ви знаєте?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8057844932844933
+      }
+    },
+    {
+      "question": "What are some common characteristics of a species?",
+      "context": "Які критерії виду ви знаєте? Які іс-\nіють спосби видоутворення?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8681318681318682
+      }
+    },
+    {
+      "question": "What is пологічна?",
+      "context": "це група особин, які є ідентичними до особи-ні-еталону за певними ознаками",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7052947052947053
+      }
+    },
+    {
+      "question": "Why are критерії виду important?",
+      "context": "У природі трапляються види-двійники, які дуже подібні між со-\nбою за зовнішніми ознаками. Тому, щоб не помилитися, для визна-\nчення виду використовують не якусь одну ознаку, а цілий комплекс \nкритеріїв виду",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.967032967032967
+      }
+    },
+    {
+      "question": "What is the main function of DNA, RNA, and ATP in a cell?",
+      "context": "ДНК, РНК, АТФ — функції в клітині виконують",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.838176246830093
+      }
+    },
+    {
+      "question": "What is the main function of viruses?",
+      "context": "Віруси існують у двох формах: позаклітинній і клітинній. У по-заклітинній формі вірусу — знайти нову клітину-хазяїна та проникнути в неї.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7443609022556391
+      }
+    },
+    {
+      "question": "Can viruses reproduce on their own?",
+      "context": "Самостійно здійснювати процеси самовідтворення вони не здатні.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9793301936159079
+      }
+    },
+    {
+      "question": "What are the main components of a virus's structure?",
+      "context": "для синтезу речовин, з яких вони складаються, потрібні рибосоми, тРНК, молекули АТФ, ферменти та інші компоненти клітинних структур",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8186813186813187
+      }
+    },
+    {
+      "question": "What type of nucleic acid is found in the core of a virus?",
+      "context": "нуклеїнова кислота, яка містить спадкову інформацію",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.858974358974359
+      }
+    },
+    {
+      "question": "What are the three main versions of how viruses originated?",
+      "context": "Відкі зяються віруси? Можна виділити три основні версії появи вірусів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8521978021978022
+      }
+    },
+    {
+      "question": "What are the three main versions of how viruses originated?",
+      "context": "Віруси походять від доклітинних форм життя, які збeregлися з тих часів, коли клітин іще не існувало.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8320054945054944
+      }
+    },
+    {
+      "question": "What is the relationship between viruses and transposons?",
+      "context": "Цю версію підтверджує існування транспозонів — мобільних генетичних елементів, які здатні переміщатися в межах геному клітини та передаватися від однієї клітини до іншої.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.810064935064935
+      }
+    },
+    {
+      "question": "What is the theory about the origin of viruses, proposed by the third version?",
+      "context": "Віруси походять від доклітинних форм життя, які збеregorувалися з тих часів, коли клітин іще не існувало.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8518772893772893
+      }
+    },
+    {
+      "question": "What is the main way of transmitting infection through a ritual cannibalism?",
+      "context": "Основним шляхом передачі інфекції був ритуальний канібалізм, коли після смерті людини її тіло поїдали інші члени племені.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8519446240034475
+      }
+    },
+    {
+      "question": "What is the purpose of the provirus in the viral cycle?",
+      "context": "На цьому етапі утворюється провірус (для бактеріофагів використовують термін профаг). Провірус може тривалий час існувати в клініти без зовнішніх проявів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8168819484608958
+      }
+    },
+    {
+      "question": "What is the process by which a virus enters a cell through a compromised area or plasmodesma?",
+      "context": "Важче вірусам проникати у клітини рослин і грибів, які мають товсту та міцну клітинну стінку. У таких випадках вони проникають у клітину через пошкоджені ділянки (наприклад, за допомогою кроносисних комах) або поширюються через плазмодесми.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.897601323407775
+      }
+    },
+    {
+      "question": "How do viruses reproduce inside host cells?",
+      "context": "у клітинВін розмножується разом з геномом клітини за рахунок роботи її ферментів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9690607012035584
+      }
+    },
+    {
+      "question": "What is CRISPR?",
+      "context": "Бактерії та археї мають оригінальну систему захисту від вірусів, яка носить назва CRISPR.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7138630600169062
+      }
+    },
+    {
+      "question": "What is the role of viruses in evolution?",
+      "context": "Віруси як інструмент еволюції",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.790521978021978
+      }
+    },
+    {
+      "question": "What is the structure of a prokaryotic cell?",
+      "context": "У клітині обов’язково присутні рибосоми та нуклеоїд (молекула ДНК) (мал. 7.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7798451548451548
+      }
+    },
+    {
+      "question": "What is the difference between a prokaryotic cell and a eukaryotic cell?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8631368631368632
+      }
+    },
+    {
+      "question": "What is osmo-trophy?",
+      "context": " Osмо-трофі — це організми, які отримують потрібні їм ре-човини з навколишнього середовища через клітинну мембрану, ви-користовуючи явище осмосу, тобто всисают те, що їм потрібно для їхньої життєдіяльності, всією своєю поверхнею.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7171276998863205
+      }
+    },
+    {
+      "question": "What is the difference between autotrophs and heterotrophs?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.823489010989011
+      }
+    },
+    {
+      "question": "What are the three main groups of bacteria?",
+      "context": "Найбільш поширеним з існуючих варіантів є поділ бактерій на три великі групи:  давні бактерії, терробактерії та гідробактерії.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7994505494505495
+      }
+    },
+    {
+      "question": "What is the significance of локіархеї?",
+      "context": "Їх вважають групою, яка є предковою для еукаріотів.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What are the environments that Archaea can live in?",
+      "context": "ймах з дуже солоним, кислим та лужним середовищами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8595085470085471
+      }
+    },
+    {
+      "question": "Do Archaea produce organic matter?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9978021978021978
+      }
+    },
+    {
+      "question": "Who first proposed the concept of evolutionary taxonomy?",
+      "context": "Згідно з цією концепцією, система класифікації повинна була відображати Аристотель К. Лінней О. Мюнхгаузен",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9046310832025117
+      }
+    },
+    {
+      "question": "Who is the author of a new systematistic approach in 1985?",
+      "context": "Карл Воуз, спираючись на аналіз послідовності нуклеотидів рРНК та деякі інші молекулярні характеристики, запропонував новий ва́рiant систематики живих організмів (1985 р.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8778602350030922
+      }
+    },
+    {
+      "question": "What is the main difference between the systems of E. Haeckel and R. Whiteaker?",
+      "context": "У системі Г. Коупленда було виділено чотири царства: Мо́нери (дроб’янки), Протоктисти (нижчі еукаріоти), Тварини та Рослини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8422178782755706
+      }
+    },
+    {
+      "question": "What is the role of simbiogenesis in the evolution of eukaryotes?",
+      "context": "нові технології дозволили знайти критерії, які не залежали від умов існування і точніше відображали ступінь родинних зв’язків.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.806974071679954
+      }
+    },
+    {
+      "question": "Why were earlier classification of eukaryotes based on signs that depended on environmental conditions?",
+      "context": "Раніше вчені використовували у класифікації еукаріотів ознаки, які залежали від умов середовища і могли швидко змінюватися.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9501796280642434
+      }
+    },
+    {
+      "question": "What is the difference between autotrophic and heterotrophic organisms?",
+      "context": "Але після того як було встановлено,що їхні хлоропласти мають різне походження (утворилися шляхом симбіозу між організмами різних систематичних груп), їх розділили на декілька různých царств.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8308424908424908
+      }
+    },
+    {
+      "question": "What are the three main subdomains of eukaryotes?",
+      "context": "Згодно з новою системою, домен Еукаріоти поділяється на три субдомени, які, у свою чергу, діляться на кілька груп (надцарств).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8080738705738706
+      }
+    },
+    {
+      "question": "What are Ekskavati and their characteristics?",
+      "context": "Екскавати є винятково одноклітинними організмами, яких до них належать збудники захворювань, небезпечних для людини.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8736263736263736
+      }
+    },
+    {
+      "question": "What is the difference between Ekskavati and other eukaryotes?",
+      "context": "Екскавати часто мають складні джгутикові апарати, що складаються з 4, 6 або 8 джгутиків.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8249171463457178
+      }
+    },
+    {
+      "question": "What is a characteristic of Ekskavati?",
+      "context": "Екскаваті є симбіонтами, які живуть у кишечниках термітів і тарганів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7624542124542124
+      }
+    },
+    {
+      "question": "What is Leishmania (mal. 10.2.)?",
+      "context": "До цієї ж групи належать лейшманія (збудник лейшманіозу) (мал. 10.2.).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8236263736263736
+      }
+    },
+    {
+      "question": "What is Tripanosoma (mal. 10.2.)?",
+      "context": "Трипаносома                         Трихомонада                         Трихонімфа (мал. 10.2.).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8285714285714285
+      }
+    },
+    {
+      "question": "What is the difference between Ekskavati and Diaforaetika/Bicontia/Amorphaei?",
+      "context": "Трьома субдоменами еукаріотів є  Екскаваті ,  Діафоретики   (Біконти) та  Аморфеї (мал. 10.1).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7925824175824175
+      }
+    },
+    {
+      "question": "What is Diaforaetika/Bicontia/Amorphaei?",
+      "context": "Трьома субдоменами еукаріотів є  Екскаваті ,  Діафоретики   (Біконти) та  Аморфеї (мал. 10.1).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6987179487179487
+      }
+    },
+    {
+      "question": "What is Amorphaei (mal. 10.1)?",
+      "context": "Трьома субдоменами еукаріотів є  Екскаваті ,  Діафоретики   (Біконти) та  Аморфеї (мал. 10.1).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8060439560439561
+      }
+    },
+    {
+      "question": "What are diktonyms?",
+      "context": "Цікавими представниками екскаватів є гіпермастигіни (напри-приклад, трихонімфа) — одноклітинні організми з великою кількістю джгутиків.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.79421768707483
+      }
+    },
+    {
+      "question": "What is a diktonym?",
+      "context": "(напри-клад, трихонімфа) — одноклітинні організми з великою кількістю джгутиків.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7556471306471306
+      }
+    },
+    {
+      "question": "What are the main forms of aamorphs?",
+      "context": "Одноклітинні біконти відіграють важливу роль у геологічних про-цесах. Так, із панцирів діатомових водоростей утворюється порода діатоміт, а із залишків коколітофорид — крейда.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7917320774463632
+      }
+    },
+    {
+      "question": "What are the main types of aamorphs?",
+      "context": "Аморфеї група складається з одноклітинних, колоніальних та багатоклітинних організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7663526949241235
+      }
+    },
+    {
+      "question": "What is the main difference between autotrophic and heterotrophic organisms?",
+      "context": "Більшість є гетеротрофами (у тому числі паразити), але трапля-seм і такі, що завдяки симбіозу набули здатності до автотрофного живіння.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8248987854251012
+      }
+    },
+    {
+      "question": "What is the significance of endosymbiosis in the evolution of autotrophic organisms?",
+      "context": "Термін «рослини» зараз не використовується для позначення окремої систематичної одиниці, але ним називають зазвичай царство Зелені рослини (Viridiplantae), до якого належать зелені водорості та вищі рослини.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.822967032967033
+      }
+    },
+    {
+      "question": "What is the main difference in the body structure of autotrophs?",
+      "context": "Серед автотрофів трапляються одноклітинні, колоніальні та багатоклітинні організми.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8002747252747253
+      }
+    },
+    {
+      "question": "What is the main way autotrophs obtain their nutrients?",
+      "context": "Тому вони можуть поглинати тільки ті речовини, які перебувають у розчиненому вигляdzi.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8311965811965812
+      }
+    },
+    {
+      "question": "What is the main impact of autotrophs on human health?",
+      "context": "Заподіяння шкоди здоров’ю людини...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8324175824175825
+      }
+    },
+    {
+      "question": "What is Archaeplastida?",
+      "context": "Archaeplastida об’єднують фотосинтезуючих еукаріотів, пластиди яких виникли в результаті симбіозу з ціанобактеріями.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7156593406593407
+      }
+    },
+    {
+      "question": "What is SAR?",
+      "context": "Назва надцарства SAR утворена за перших літерах назв трьох царств, які входять до його складу ( Stramenopiles , Alveolata , Rhi- zaria ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.721028971028971
+      }
+    },
+    {
+      "question": "What is the main characteristic of Chloroplasts in Archaeplastida?",
+      "context": "Мають червоне (зрідка інше) забарвлення хлоропластів, джгутики відсутні на всіх стадіях розвитку.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7915140415140416
+      }
+    },
+    {
+      "question": "What is the main characteristic of Sporophyte in Papоротie?",
+      "context": "У життєвому циклі переважає спорофіт. Розмножуються за допомогою спор.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7808302808302808
+      }
+    },
+    {
+      "question": "What is the main characteristic of Sporophyte in Насінних росли?",
+      "context": "У життєвому циклі переважає спорофіт. Розмножуються за допомогою насіннян.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8007936507936508
+      }
+    },
+    {
+      "question": "What are the main characteristics of the SAR group of autotrophs?",
+      "context": "Деякі групи автотрофних еукаріотів надцарства SAR",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8299755799755799
+      }
+    },
+    {
+      "question": "Which groups of algae are part of the SAR group?",
+      "context": "Ламінарія, фукус, макроцистіс, Бурі водорості, Навікула, піннулярія, діатома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9084249084249084
+      }
+    },
+    {
+      "question": "What is the origin of chloroplasts in algae?",
+      "context": "Хлоропласти походять від червоних водоростей.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7869505494505494
+      }
+    },
+    {
+      "question": "Which group of organisms belongs to the subdomain Amorphae?",
+      "context": "Справжні гриби та грибоподібні organizerми: Грибоподібні організми: Справжні слизовики",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8979591836734694
+      }
+    },
+    {
+      "question": "What is the difference between fungi and plants?",
+      "context": "Чим гриби відрізняються від рослин?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8071428571428572
+      }
+    },
+    {
+      "question": "What is the main way that fungi and fungus-like organisms obtain necessary nutrients?",
+      "context": "Характерними особливостями всіх грибів і грибоподібних organis-\nмів є те, що вони отримують потрібні їм речовини з навколишнього\nсередовища, поглинаючи їх поверхнею свого тіла.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8622147083685545
+      }
+    },
+    {
+      "question": "What is unique about the cell wall of fungi and fungus-like organisms?",
+      "context": "Ще однією характерною однакою грибів є наявність у їхніх\nклітин клітинної стінки. Утворюється вона різними полісахаридами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8466117216117216
+      }
+    },
+    {
+      "question": "What are some examples of fungi that have a role in the production of food and medicine?",
+      "context": "Виробники:\n— різних сполук (лимонної\nкислоти, ферментів тощо) в біо- \nтехнологічних виробництвах\n(аспергіл, фузаріум тощо);\n— антибіотиків (пеніцил,\nцефалоспоріум тощо)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8906059218559219
+      }
+    },
+    {
+      "question": "What are some examples of fungi that can cause harm to humans and the environment?",
+      "context": "Збудники захватування рослин (ріжки, сажка, бо-\nрошниста роса, фітофтор,\nфузаріум тощо) і тварин\n(мікроспорум, трихофітон\nтощо)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.895970695970696
+      }
+    },
+    {
+      "question": "What are the main groups of fungi?",
+      "context": "Сапролегнія,фітофтора, плазмо-пара; Несправжні гриби (ооміцети); Правильна слизовиця (міксоміцеті); Лікогала, фізарум, стремонітес; Сумчасті гриби (аскоміцeti); Базидіальні гриби (базидіоміцeti)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7975405546834118
+      }
+    },
+    {
+      "question": "What is the main difference between fungi and animals?",
+      "context": "Чим тварини відрізняються від грибів?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8075702075702076
+      }
+    },
+    {
+      "question": "What is the kingdom of true animals?",
+      "context": "Царство Справжні тварини об’єднує багатоклітинних тварин, одноклітинних предків ціх тварин та їхніх Найближчих родичів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.771585557299843
+      }
+    },
+    {
+      "question": "What is the characteristic of bagatrophic organisms?",
+      "context": "Характерно для багатоклітинних тварин те, що потрібні їм речовини вони отримують з їжею, яку потім перетравлюють.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7548567503924647
+      }
+    },
+    {
+      "question": "What is the main difference in body shape between animals and fungi?",
+      "context": "Форма тіла тварин є різною. Частіше за все вона є білатеральною, тобто тіло має одну вісь симетрії.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8494734432234432
+      }
+    },
+    {
+      "question": "What is the main source of food for humans?",
+      "context": "Джерело харчування: Сільськогосподарські та дикі тварини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7960927960927962
+      }
+    },
+    {
+      "question": "What is an example of a domesticated animal?",
+      "context": "Домашні улюбленці: Собаки, кішки тощо",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8502747252747253
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes multicolored animals from single-colored animals?",
+      "context": "Багатоклітинні тварини поділяються на кілька груп. Найбільш примітивними серед них вважають губок, пластинчастих, реброплавів та кишковопорожнинних (жалких). Але хто з них є най blíжчим до спільного предка всіх тварин, поки що залишається предметом наукової дискусії.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8587050204697264
+      }
+    },
+    {
+      "question": "What is the earliest known ancestor of all living organisms?",
+      "context": "Виникнення LUCA (останнього універсального предка всіх живих організмів) 4,1–3,6 млрд років тому",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8364468864468865
+      }
+    },
+    {
+      "question": "What is the name of the ancient worm-like animals that are considered the earliest single-celled organisms?",
+      "context": "Комірцевих джгутиконосців (хоанофлагелятів). Ця назва відображає особливості їхньої будови.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8733647305075877
+      }
+    },
+    {
+      "question": "What event occurred around 541 million years ago, marking the beginning of the Cambrian period?",
+      "context": "Перша половина Палеозоя. Поява всіх відомих типів тварин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9069858712715856
+      }
+    },
+    {
+      "question": "What is the name of the group of organisms that are thought to have given rise to all other life on Earth?",
+      "context": "Виникнення еукаріотів від однієї з груп архей.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8791208791208791
+      }
+    },
+    {
+      "question": "What is the name of the event that occurred around 252 million years ago, marking the end of the Permian period?",
+      "context": "Поява найбільше в історії вимирання живих організмів (пермсько- тріасове).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.892946922358687
+      }
+    },
+    {
+      "question": "What is the name of the period that began around 541 million years ago, marking the beginning of the Paleozoic era?",
+      "context": "Перша половина Палеозоя.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8978668390433097
+      }
+    },
+    {
+      "question": "What is the most significant extinction event in history?",
+      "context": "Палеоген",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "What type of bacteria lacks histones?",
+      "context": "Прокаріотичні організми",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8663003663003663
+      }
+    },
+    {
+      "question": "What is the characteristic feature of mitochondria in procaryotes?",
+      "context": "Ознаки: джгутиків переважно 2, передніх або бічних",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8129251700680272
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes mitochondria in myxotrophic organisms from those in other types of cells?",
+      "context": "ьодноклітинні, колоніаль-ні або багатоклітинні",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8737071751777634
+      }
+    },
+    {
+      "question": "What is the characteristic that distinguishes mitochondria in myxotrophic organisms from those in other types of cells?",
+      "context": "мітохондрії з трубчасти-ми або пластинчастими кристами",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes viruses from other types of bacteria?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8558748943364328
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of bacteria lacks histones?",
+      "context": "Прокаріотичні організми",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8663003663003663
+      }
+    },
+    {
+      "question": "Do Archaea produce organic matter?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9978021978021978
+      }
+    },
+    {
+      "question": "Why are критерії виду important?",
+      "context": "У природі трапляються види-двійники, які дуже подібні між со-\nбою за зовнішніми ознаками. Тому, щоб не помилитися, для визна-\nчення виду використовують не якусь одну ознаку, а цілий комплекс \nкритеріїв виду",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.967032967032967
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes viruses from other types of bacteria?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8558748943364328
+      }
+    },
+    {
+      "question": "What is the main difference between fungi and animals?",
+      "context": "Чим тварини відрізняються від грибів?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8075702075702076
+      }
+    }
+  ]
+}

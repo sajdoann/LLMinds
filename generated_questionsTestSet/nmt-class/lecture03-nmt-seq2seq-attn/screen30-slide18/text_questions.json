@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main idea of NMT systems?",
+      "context": "As I told you already in the overview, NMT systems are only clever language models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6645833333333333
+      }
+    },
+    {
+      "question": "How does the neural network classify what the next word in a sentence should be?",
+      "context": "So it is like a language model but not Ngram language model, it has unlimited history. You feed in from the beginning word by word all the beginning of the sentence that you have.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7549603174603174
+      }
+    },
+    {
+      "question": "What is the purpose of training the neural network?",
+      "context": "You are giving it the beginnings of the sentence and you are always asking what is the next word now? And the network uses the transformation many times.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6502976190476191
+      }
+    },
+    {
+      "question": "How does the neural network estimate the probability of a sentence?",
+      "context": "So for this estimation, you are contrasting the probabilities estimated by the model with the current word and you can also use this trained network to sample from that distribution of sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7303571428571428
+      }
+    },
+    {
+      "question": "What is the role of word embeddings in NMT systems?",
+      "context": "They are used on the target language and they are used as the input of the word again. That's exactly the same setup here.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.675
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main idea of NMT systems?",
+      "context": "As I told you already in the overview, NMT systems are only clever language models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6645833333333333
+      }
+    },
+    {
+      "question": "How does the neural network estimate the probability of a sentence?",
+      "context": "So for this estimation, you are contrasting the probabilities estimated by the model with the current word and you can also use this trained network to sample from that distribution of sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7303571428571428
+      }
+    },
+    {
+      "question": "How does the neural network classify what the next word in a sentence should be?",
+      "context": "So it is like a language model but not Ngram language model, it has unlimited history. You feed in from the beginning word by word all the beginning of the sentence that you have.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7549603174603174
+      }
+    }
+  ]
+}

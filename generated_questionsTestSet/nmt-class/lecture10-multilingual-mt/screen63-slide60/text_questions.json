@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How can a system be made multilingual on the source side?",
+      "context": "You just mix in all the source languages Into your training data and that's it",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7924242424242425
+      }
+    },
+    {
+      "question": "What is the purpose of a language token?",
+      "context": "The token will be a special request I'm giving you now the German sentence But I would like you to translate it into English so this token to en means that",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7135416666666667
+      }
+    },
+    {
+      "question": "What is the benefit of using multitask training?",
+      "context": "We have only used one more artificial token to indicate which language we want as as the output and Hopefully the system will like for free benefit from the similarities between the languages if there are some",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.70703125
+      }
+    },
+    {
+      "question": "How can the disproportion of language sizes in training corpus sizes be handled?",
+      "context": "if one of the languages language pairs was was like too big compared to the others then The other languages would be already overfit and the This big language pair was would be still not fully employed in the training",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7992097701149425
+      }
+    },
+    {
+      "question": "What is the main result of using multitask training?",
+      "context": "you are getting the hardware So you are getting the hardware savings right away without any any loss hopefully so",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.719017094017094
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How can a system be made multilingual on the source side?",
+      "context": "You just mix in all the source languages Into your training data and that's it",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7924242424242425
+      }
+    },
+    {
+      "question": "What is the main result of using multitask training?",
+      "context": "you are getting the hardware So you are getting the hardware savings right away without any any loss hopefully so",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.719017094017094
+      }
+    },
+    {
+      "question": "What is the purpose of a language token?",
+      "context": "The token will be a special request I'm giving you now the German sentence But I would like you to translate it into English so this token to en means that",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7135416666666667
+      }
+    }
+  ]
+}

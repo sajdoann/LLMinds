@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are three sentence pairs that contain different translations for 'the house'?",
+      "context": "This sentence contains a description of the sample corpus and its contents.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "How are lexical probabilities initialized at the beginning of the process?",
+      "context": "This sentence explains how the model's knowledge is established at the start.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6954545454545454
+      }
+    },
+    {
+      "question": "What can be linked with 'la' equally likely as with 'maison' or 'house' initially?",
+      "context": "This sentence describes the initial state of the model's knowledge about the words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7893356643356644
+      }
+    },
+    {
+      "question": "What is the purpose of providing a sample corpus at the beginning of the process?",
+      "context": "This sentence hints at why the sample corpus is provided.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7041666666666666
+      }
+    },
+    {
+      "question": "How does the model's knowledge about 'la', 'maison', and 'house' evolve over time?",
+      "context": "This sentence implies that there is a progression or development in the model's understanding.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8097527472527473
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are three sentence pairs that contain different translations for 'the house'?",
+      "context": "This sentence contains a description of the sample corpus and its contents.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What can be linked with 'la' equally likely as with 'maison' or 'house' initially?",
+      "context": "This sentence describes the initial state of the model's knowledge about the words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7893356643356644
+      }
+    },
+    {
+      "question": "How are lexical probabilities initialized at the beginning of the process?",
+      "context": "This sentence explains how the model's knowledge is established at the start.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6954545454545454
+      }
+    }
+  ]
+}

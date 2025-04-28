@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main current use of word alignment?",
+      "context": "So we are closely coming to the end.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7378472222222222
+      }
+    },
+    {
+      "question": "Why were word alignments problematic from a linguistic point of view?",
+      "context": "The main use before NeuralMT came was to use the word alignments in phrase-based machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8287337662337663
+      }
+    },
+    {
+      "question": "What technique was proposed to move from word alignment to true phrase alignment?",
+      "context": "So there was a technique how to move from word alignment to true phrase alignment based on the phrase-based model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "Why did people not adopt this technique for word alignment to phrase alignment?",
+      "context": "But it didn't bring enough improvement in translation quality.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8803418803418803
+      }
+    },
+    {
+      "question": "What was the main issue with probabilities in word alignments before NeuralMT came?",
+      "context": "So the probabilities were kind of ill-defined.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8145604395604396
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main current use of word alignment?",
+      "context": "So we are closely coming to the end.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7378472222222222
+      }
+    },
+    {
+      "question": "Why were word alignments problematic from a linguistic point of view?",
+      "context": "The main use before NeuralMT came was to use the word alignments in phrase-based machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8287337662337663
+      }
+    },
+    {
+      "question": "What was the main issue with probabilities in word alignments before NeuralMT came?",
+      "context": "So the probabilities were kind of ill-defined.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8145604395604396
+      }
+    },
+    {
+      "question": "Why did people not adopt this technique for word alignment to phrase alignment?",
+      "context": "But it didn't bring enough improvement in translation quality.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8803418803418803
+      }
+    }
+  ]
+}

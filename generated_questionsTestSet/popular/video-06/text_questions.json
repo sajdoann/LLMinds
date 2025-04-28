@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the program that allows for the exchange of European experiences among young people?",
+      "context": "Wir brauchen Menschen, die durch verbesserte Mobilitätsangebote Europa erfahren haben.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What is the significance of Sarajevo's designation as European Capital of Culture in 2014?",
+      "context": "Mit einer Ernennung zur Europäischen Kulturhauptstadt 2014 könnten wir ein wichtiges Signal für den multiethnischen Charakter der Stadt und des Staates Bosnien-Herzegowina setzen, was auch die politische Klasse des Landes vielleicht zum Umdenken veranlassen könnte.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8781108597285068
+      }
+    },
+    {
+      "question": "What is the name of the program that aims to promote cultural diplomacy and cooperation with third countries?",
+      "context": "Kulturdiplomatie spielt eine wichtige Rolle für den Aufbau erfolgreicher Beziehungen zu Drittstaaten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8982843137254902
+      }
+    },
+    {
+      "question": "In welchem Jahr fand das Winterfestival in Sarajevo statt?",
+      "context": "Das Winterfestival statt. Und die Menschen aller nationalen Zugehörigkeiten finden sich jedes Jahr dort ein.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9354166666666667
+      }
+    },
+    {
+      "question": "Wer spielte das Adagio von Tomasino Albino auf seinem Instrument?",
+      "context": "Der schwarz gekleidete Cellist Vedrans Maljovic spielte das Adagio von Tomasino Albino auf seinem Instrument.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.9708333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Wer spielte das Adagio von Tomasino Albino auf seinem Instrument?",
+      "context": "Der schwarz gekleidete Cellist Vedrans Maljovic spielte das Adagio von Tomasino Albino auf seinem Instrument.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.9708333333333333
+      }
+    },
+    {
+      "question": "What is the significance of Sarajevo's designation as European Capital of Culture in 2014?",
+      "context": "Mit einer Ernennung zur Europäischen Kulturhauptstadt 2014 könnten wir ein wichtiges Signal für den multiethnischen Charakter der Stadt und des Staates Bosnien-Herzegowina setzen, was auch die politische Klasse des Landes vielleicht zum Umdenken veranlassen könnte.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8781108597285068
+      }
+    },
+    {
+      "question": "What is the name of the program that aims to promote cultural diplomacy and cooperation with third countries?",
+      "context": "Kulturdiplomatie spielt eine wichtige Rolle für den Aufbau erfolgreicher Beziehungen zu Drittstaaten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8982843137254902
+      }
+    }
+  ]
+}

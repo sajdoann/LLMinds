@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is produced by the decoder at each step in the decoding process?",
+      "context": "the decoder produces a distribution of the vocabulary",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5372023809523809
+      }
+    },
+    {
+      "question": "What does the decoder need to choose at each step?",
+      "context": "you need to choose",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is required for the decoder's choice at each step?",
+      "context": "the specific part of the document containing the answer",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7178571428571429
+      }
+    },
+    {
+      "question": "What does the phrase 'distribution of the vocabulary' refer to in this context?",
+      "context": "the decoder produces a distribution of the vocabulary",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6101190476190477
+      }
+    },
+    {
+      "question": "Is the decoding process an active or passive process?",
+      "context": "the decoder produces a distribution of the vocabulary",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6031746031746033
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is produced by the decoder at each step in the decoding process?",
+      "context": "the decoder produces a distribution of the vocabulary",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5372023809523809
+      }
+    },
+    {
+      "question": "What does the decoder need to choose at each step?",
+      "context": "you need to choose",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What does the phrase 'distribution of the vocabulary' refer to in this context?",
+      "context": "the decoder produces a distribution of the vocabulary",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6101190476190477
+      }
+    },
+    {
+      "question": "Is the decoding process an active or passive process?",
+      "context": "the decoder produces a distribution of the vocabulary",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6031746031746033
+      }
+    }
+  ]
+}

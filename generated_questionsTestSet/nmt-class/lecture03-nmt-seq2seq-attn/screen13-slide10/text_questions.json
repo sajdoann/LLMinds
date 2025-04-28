@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the transformation A do in a vanilla recurrent neural network?",
+      "context": "Now the question is what the transformation A does.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7073863636363636
+      }
+    },
+    {
+      "question": "How is the input vector for the fully connected layer defined?",
+      "context": "So if we go for the vanilla recurrent neural network this transformation will be the simple layer the fully connected layer which we which is defined by the weight matrix and the bias vector",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "Why does the state of the network radically change at every step?",
+      "context": "So there is one problem with this simple definition. The problem is that with this setup all the values of this current state go through this nonlinear transformation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8300865800865801
+      }
+    },
+    {
+      "question": "What does it mean for the learned representation to be 'close to impossible to interpret'?",
+      "context": "So there is no like continuity in the representation and that's something that makes the training hard to work and also it would make the the learned representation representations very hard to or close to impossible to to interpret",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8627320954907162
+      }
+    },
+    {
+      "question": "What is a potential issue with using a simple vanilla layout in recurrent neural networks?",
+      "context": "So this actually these lines is the most powerful von Teh老h",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7808441558441559
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the transformation A do in a vanilla recurrent neural network?",
+      "context": "Now the question is what the transformation A does.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7073863636363636
+      }
+    },
+    {
+      "question": "How is the input vector for the fully connected layer defined?",
+      "context": "So if we go for the vanilla recurrent neural network this transformation will be the simple layer the fully connected layer which we which is defined by the weight matrix and the bias vector",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "What is a potential issue with using a simple vanilla layout in recurrent neural networks?",
+      "context": "So this actually these lines is the most powerful von Teh老h",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7808441558441559
+      }
+    },
+    {
+      "question": "What does it mean for the learned representation to be 'close to impossible to interpret'?",
+      "context": "So there is no like continuity in the representation and that's something that makes the training hard to work and also it would make the the learned representation representations very hard to or close to impossible to to interpret",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8627320954907162
+      }
+    }
+  ]
+}

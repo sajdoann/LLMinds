@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What method is used to estimate the probability of the most important feature in phrase-based machine translation?",
+      "context": "So now the now how to estimate the probabilities of the most important feature of phrase based machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7973958333333333
+      }
+    },
+    {
+      "question": "What is the formula for calculating this probability, and what are its components?",
+      "context": "That's the count of their co-occurrences and we divide that we normalize that by the antecedent in the by the count of the observations of the antecedent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6901041666666667
+      }
+    },
+    {
+      "question": "What is the purpose of dividing the count of co-occurrences by the count of source phrases alone?",
+      "context": "So by the count of the source phrase for example if we are doing this this probability this direction when we're predicting the target given the source.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6590909090909091
+      }
+    },
+    {
+      "question": "Why do both directions (source-to-target and target-to-source) use this method?",
+      "context": "In practice both directions are used and we have discussed that in the previous so you do actually divide this count of the co-occurrences once you divide it with the count of the source phrase alone",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7517857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of dividing the count of co-occurrences by the count of target phrases alone?",
+      "context": "In practice both directions are used and we have discussed that in the previous so you do actually divide this count of the co-occurrences once you divide it with the count of the source phrase alone",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5892857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What method is used to estimate the probability of the most important feature in phrase-based machine translation?",
+      "context": "So now the now how to estimate the probabilities of the most important feature of phrase based machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7973958333333333
+      }
+    },
+    {
+      "question": "Why do both directions (source-to-target and target-to-source) use this method?",
+      "context": "In practice both directions are used and we have discussed that in the previous so you do actually divide this count of the co-occurrences once you divide it with the count of the source phrase alone",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7517857142857143
+      }
+    },
+    {
+      "question": "What is the formula for calculating this probability, and what are its components?",
+      "context": "That's the count of their co-occurrences and we divide that we normalize that by the antecedent in the by the count of the observations of the antecedent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6901041666666667
+      }
+    }
+  ]
+}

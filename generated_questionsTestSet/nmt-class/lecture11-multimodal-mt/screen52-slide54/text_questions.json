@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the approach used for pre-training the speech recognition component?",
+      "context": "And they train it in the multitask, they train it in multiple ways, but this is the pre-training approach.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7303571428571428
+      }
+    },
+    {
+      "question": "How does the system switch between languages for speech recognition?",
+      "context": "So they first train only the speech recognition, that is the dotted curve here. So the lower the better it is over the learning steps.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8401315789473685
+      }
+    },
+    {
+      "question": "What is the goal of pre-training the machine translation component?",
+      "context": "And similarly for machine translation, they first pre-train it in the monolingual task and then they add the source language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.738562091503268
+      }
+    },
+    {
+      "question": "Why are the components of the neural network pre-trained on independent datasets?",
+      "context": "So the components of the neural network are pre-trained on independent and easier to obtain datasets.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8818181818181818
+      }
+    },
+    {
+      "question": "What is the expected outcome of switching from a monolingual task to a multilingual setting for machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9044117647058824
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the approach used for pre-training the speech recognition component?",
+      "context": "And they train it in the multitask, they train it in multiple ways, but this is the pre-training approach.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7303571428571428
+      }
+    },
+    {
+      "question": "How does the system switch between languages for speech recognition?",
+      "context": "So they first train only the speech recognition, that is the dotted curve here. So the lower the better it is over the learning steps.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8401315789473685
+      }
+    },
+    {
+      "question": "What is the goal of pre-training the machine translation component?",
+      "context": "And similarly for machine translation, they first pre-train it in the monolingual task and then they add the source language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.738562091503268
+      }
+    },
+    {
+      "question": "Why are the components of the neural network pre-trained on independent datasets?",
+      "context": "So the components of the neural network are pre-trained on independent and easier to obtain datasets.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8818181818181818
+      }
+    }
+  ]
+}

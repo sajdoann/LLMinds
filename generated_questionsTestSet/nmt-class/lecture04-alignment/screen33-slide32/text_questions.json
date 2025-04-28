@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does lexical translation entail?",
+      "context": "The introduction section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6583333333333333
+      }
+    },
+    {
+      "question": "How do humans decide which translation is good when using a dictionary?",
+      "context": "The explanation of how dictionaries work",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What limitation does the author believe dictionaries have that makes back-translation helpful?",
+      "context": "The discussion on back-translation with dictionaries",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What would be a consequence of obtaining lexical translation probabilities for each word?",
+      "context": "The idea of probability scoring for translations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8530219780219781
+      }
+    },
+    {
+      "question": "How does the author envision using probability scores to decide on translations?",
+      "context": "The discussion on obtaining lexical translation probabilities",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8199404761904762
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does lexical translation entail?",
+      "context": "The introduction section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6583333333333333
+      }
+    },
+    {
+      "question": "What would be a consequence of obtaining lexical translation probabilities for each word?",
+      "context": "The idea of probability scoring for translations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8530219780219781
+      }
+    },
+    {
+      "question": "How do humans decide which translation is good when using a dictionary?",
+      "context": "The explanation of how dictionaries work",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How does the author envision using probability scores to decide on translations?",
+      "context": "The discussion on obtaining lexical translation probabilities",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8199404761904762
+      }
+    }
+  ]
+}

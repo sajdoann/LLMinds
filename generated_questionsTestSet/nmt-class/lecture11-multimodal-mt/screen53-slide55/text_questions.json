@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the ensemble score when using all three subsystems?",
+      "context": "So the ensemble that gets the test blight score 15.5 compared to 15.8 of the cascaded approach is actually an ensembling system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "How does the multitask training system perform in comparison to other approaches?",
+      "context": "One of them is pre-trained with the individual parts, with the speech recognition and the machine translation, and they also have the multitask training system.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What is the parameter count for the ASR-only model?",
+      "context": "So to get a decent performance on open domains, you would definitely need to go much higher in terms of the size of the model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6051136363636364
+      }
+    },
+    {
+      "question": "What is the parameter count for the translation component?",
+      "context": "It's 9 million parameters that are used in this, in this ensembling system, compared to 6.3 in the ASR only and 15 or 16 million in the translation component.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7135416666666667
+      }
+    },
+    {
+      "question": "What is the best approach for achieving a decent performance on open domains?",
+      "context": "So to get a decent performance on open domains, you would definitely need to go much higher in terms of the size of the model.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7084790209790209
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the ensemble score when using all three subsystems?",
+      "context": "So the ensemble that gets the test blight score 15.5 compared to 15.8 of the cascaded approach is actually an ensembling system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "What is the parameter count for the translation component?",
+      "context": "It's 9 million parameters that are used in this, in this ensembling system, compared to 6.3 in the ASR only and 15 or 16 million in the translation component.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7135416666666667
+      }
+    },
+    {
+      "question": "How does the multitask training system perform in comparison to other approaches?",
+      "context": "One of them is pre-trained with the individual parts, with the speech recognition and the machine translation, and they also have the multitask training system.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8958333333333334
+      }
+    }
+  ]
+}

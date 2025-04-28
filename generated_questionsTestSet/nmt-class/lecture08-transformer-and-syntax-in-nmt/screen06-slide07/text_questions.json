@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the subject of the text after 'move to the transformer model'?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.38636363636363635
+      }
+    },
+    {
+      "question": "Can we infer that the document provides information about a specific type of model or technology?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.34375
+      }
+    },
+    {
+      "question": "What is the relationship between 'transformer' and the context in which it appears?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.41666666666666663
+      }
+    },
+    {
+      "question": "Is the document a general introduction or a specific explanation of a concept?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.3295454545454546
+      }
+    },
+    {
+      "question": "Can we infer that the document provides information about the usage or application of the 'transformer' model?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.3416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the subject of the text after 'move to the transformer model'?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.38636363636363635
+      }
+    },
+    {
+      "question": "Can we infer that the document provides information about a specific type of model or technology?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.34375
+      }
+    },
+    {
+      "question": "Is the document a general introduction or a specific explanation of a concept?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.3295454545454546
+      }
+    },
+    {
+      "question": "Can we infer that the document provides information about the usage or application of the 'transformer' model?",
+      "context": "Yeah, so let's move to the transformer model and the transformer...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.3416666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of space do word embeddings represent words in?",
+      "context": "So these embeddings are continuous space representations of words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7361111111111112
+      }
+    },
+    {
+      "question": "How is the embedding layer parameterized?",
+      "context": "You specify the size of the embedding layer as one of the parameters or hyperparameters of your network.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8184523809523809
+      }
+    },
+    {
+      "question": "What happens to the embeddings during training for a particular task?",
+      "context": "The embedding elements in the embedding matrix are first initialized randomly and then through the training of for the particular given task the embeddings will get trained so that they are most useful.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.851010101010101
+      }
+    },
+    {
+      "question": "How do the dimensions of word embeddings relate to their meaning?",
+      "context": "Some of the dimensions or combinations of these dimensions can be used to indicate whether it is like more blue or more red. Some can be used to talk about the politeness.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "What are some notable examples of word embeddings, and how do they differ?",
+      "context": "Some of the embeddings are famous such as the Wartowak embeddings and there the embeddings are designed to allow an easy prediction of the neighbors of a word in the running text or the other way around to predict the.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8262599469496021
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of space do word embeddings represent words in?",
+      "context": "So these embeddings are continuous space representations of words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7361111111111112
+      }
+    },
+    {
+      "question": "What happens to the embeddings during training for a particular task?",
+      "context": "The embedding elements in the embedding matrix are first initialized randomly and then through the training of for the particular given task the embeddings will get trained so that they are most useful.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.851010101010101
+      }
+    },
+    {
+      "question": "What are some notable examples of word embeddings, and how do they differ?",
+      "context": "Some of the embeddings are famous such as the Wartowak embeddings and there the embeddings are designed to allow an easy prediction of the neighbors of a word in the running text or the other way around to predict the.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8262599469496021
+      }
+    }
+  ]
+}

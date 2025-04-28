@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of starting the network's outputs with something that may not be the best scoring individual word?",
+      "context": "Let the network update its choice or like let during the decoding",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8291666666666666
+      }
+    },
+    {
+      "question": "How does beam search approach allow the network to produce less likely beginnings of sentences?",
+      "context": "here the network here you run the network in a way which allows to produce also less likely beginnings of the sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8069444444444445
+      }
+    },
+    {
+      "question": "What is the benefit of allowing the network to produce less likely words and then benefiting from the highly probable final sentence?",
+      "context": "then benefit and get to the highly probable final sentence later in later stages",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35294117647058826,
+        "diversity_score": 0.7975961538461538
+      }
+    },
+    {
+      "question": "How does greedy decoding differ from the described approach?",
+      "context": "In the greedy decoding the network will prefer two common words to one uncommon and then something which recovers",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What is the goal of the network's output in this approach?",
+      "context": "the end it pays off",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of starting the network's outputs with something that may not be the best scoring individual word?",
+      "context": "Let the network update its choice or like let during the decoding",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8291666666666666
+      }
+    },
+    {
+      "question": "How does beam search approach allow the network to produce less likely beginnings of sentences?",
+      "context": "here the network here you run the network in a way which allows to produce also less likely beginnings of the sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8069444444444445
+      }
+    },
+    {
+      "question": "How does greedy decoding differ from the described approach?",
+      "context": "In the greedy decoding the network will prefer two common words to one uncommon and then something which recovers",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What is the benefit of allowing the network to produce less likely words and then benefiting from the highly probable final sentence?",
+      "context": "then benefit and get to the highly probable final sentence later in later stages",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35294117647058826,
+        "diversity_score": 0.7975961538461538
+      }
+    }
+  ]
+}

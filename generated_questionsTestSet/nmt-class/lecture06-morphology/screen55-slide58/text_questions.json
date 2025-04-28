@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the speaker think about making assumptions?",
+      "context": "So, you are shooting yourself in the foot when you are making these assumptions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is the consequence of making assumptions according to the speaker?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Is there any explicit statement about what happens when you make assumptions in the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What is the tone of the speaker's statement?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "Is there any information about what makes assumptions problematic in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any explicit statement about what happens when you make assumptions in the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What is the tone of the speaker's statement?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "What is the consequence of making assumptions according to the speaker?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

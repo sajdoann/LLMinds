@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the issue being referred to in the context of 'evaluation'?",
+      "context": "And this evaluation goes against the...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6553030303030303
+      }
+    },
+    {
+      "question": "How might the system's segmentation of input sound be different from the intended golden segmentation?",
+      "context": "...So you have some golden segmentation into sentences, but your systems may decide to segment the input sound differently.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.737312030075188
+      }
+    },
+    {
+      "question": "What is the problem being referred to in terms of handling the mismatch between different segmentation approaches?",
+      "context": "...And in the evaluation you need to handle this mismatch.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.5796875
+      }
+    },
+    {
+      "question": "How does the use of 'golden segmentation' relate to the problem being discussed?",
+      "context": "...So you have some golden segmentation into sentences, but your systems may decide to segment the input sound differently.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.668859649122807
+      }
+    },
+    {
+      "question": "What type of evaluation is required in order to address the issue being referred to?",
+      "context": "...And in the evaluation you need to handle this mismatch.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.5833333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How might the system's segmentation of input sound be different from the intended golden segmentation?",
+      "context": "...So you have some golden segmentation into sentences, but your systems may decide to segment the input sound differently.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.737312030075188
+      }
+    },
+    {
+      "question": "How does the use of 'golden segmentation' relate to the problem being discussed?",
+      "context": "...So you have some golden segmentation into sentences, but your systems may decide to segment the input sound differently.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.668859649122807
+      }
+    },
+    {
+      "question": "What is the issue being referred to in the context of 'evaluation'?",
+      "context": "And this evaluation goes against the...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6553030303030303
+      }
+    },
+    {
+      "question": "What is the problem being referred to in terms of handling the mismatch between different segmentation approaches?",
+      "context": "...And in the evaluation you need to handle this mismatch.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.5796875
+      }
+    }
+  ]
+}

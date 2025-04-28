@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of representation are being discussed in the document?",
+      "context": "But let's move on to the larger units.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.684375
+      }
+    },
+    {
+      "question": "What is being referred to as the focus of the next topic in the document?",
+      "context": "Let's move on to sentence representations.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.608974358974359
+      }
+    },
+    {
+      "question": "How does the document transition from discussing larger units to a new topic?",
+      "context": "But let's move on to sentence representations.",
+      "difficulty": "analytical",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7266483516483516
+      }
+    },
+    {
+      "question": "What is implied about the next section of the document by the phrase \"sentence representations\"?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    },
+    {
+      "question": "Is there any specific information provided about the topic of sentence representations in the context of the larger units being discussed?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8819444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any specific information provided about the topic of sentence representations in the context of the larger units being discussed?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "What is being referred to as the focus of the next topic in the document?",
+      "context": "Let's move on to sentence representations.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.608974358974359
+      }
+    },
+    {
+      "question": "What is implied about the next section of the document by the phrase \"sentence representations\"?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    }
+  ]
+}

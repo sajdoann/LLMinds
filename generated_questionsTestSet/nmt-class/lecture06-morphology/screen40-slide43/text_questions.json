@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the solution being described?",
+      "context": "So here is the solution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "How do you combine two models to operate at once?",
+      "context": "You essentially combine the two models to operate at once.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What features does each component of the combined model bring in?",
+      "context": "These two components will bring in separate features. that each will get some weight in the minimum error rate training.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8213383838383839
+      }
+    },
+    {
+      "question": "How is the system's trust in the direct path and separation of lemma and part of speech determined?",
+      "context": "On some held out data set the minimum error rate training will identify how often on average should it trust the direct path and how often on average should it resort to this separation of the lemma and the part of speech.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.8708333333333333
+      }
+    },
+    {
+      "question": "What are the benefits of using this combined model?",
+      "context": "The system is now flexible. It can the backoff to the separation to the independence assumptions if needed. But it has also the original full power of copying what it has known, what it has seen in the data well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8214285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the solution being described?",
+      "context": "So here is the solution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "What are the benefits of using this combined model?",
+      "context": "The system is now flexible. It can the backoff to the separation to the independence assumptions if needed. But it has also the original full power of copying what it has known, what it has seen in the data well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "How do you combine two models to operate at once?",
+      "context": "You essentially combine the two models to operate at once.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "How is the system's trust in the direct path and separation of lemma and part of speech determined?",
+      "context": "On some held out data set the minimum error rate training will identify how often on average should it trust the direct path and how often on average should it resort to this separation of the lemma and the part of speech.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.8708333333333333
+      }
+    }
+  ]
+}

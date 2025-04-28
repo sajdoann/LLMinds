@@ -1,0 +1,83 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the limitations of one-hot encoding?",
+      "context": "the main trouble of the one-hot",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8285714285714285
+      }
+    },
+    {
+      "question": "How many elements can be achieved with sub-work units in a vector?",
+      "context": "you can get to like 30,000 elements in the vector",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7388888888888889
+      }
+    },
+    {
+      "question": "What is the main task of embedding vectors into a continuous space?",
+      "context": "the next thing is that you need to embed these vectors",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7689393939393939
+      }
+    },
+    {
+      "question": "Why does embedding vectors into a continuous space matter?",
+      "context": "because with the sub-work units you can get to like 30,000 elements in the vector",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7222222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the limitations of one-hot encoding?",
+      "context": "the main trouble of the one-hot",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8285714285714285
+      }
+    },
+    {
+      "question": "What is the main task of embedding vectors into a continuous space?",
+      "context": "the next thing is that you need to embed these vectors",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7689393939393939
+      }
+    },
+    {
+      "question": "Why does embedding vectors into a continuous space matter?",
+      "context": "because with the sub-work units you can get to like 30,000 elements in the vector",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7222222222222222
+      }
+    }
+  ]
+}

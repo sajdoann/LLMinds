@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a problem that can occur when using a handheld microphone?",
+      "context": "If people use handheld microphones, there are very common problems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8590909090909091
+      }
+    },
+    {
+      "question": "How does the use of a handheld microphone lead to this problem?",
+      "context": "People could cover the microphone with...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a problem that can occur when using a handheld microphone?",
+      "context": "If people use handheld microphones, there are very common problems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8590909090909091
+      }
+    },
+    {
+      "question": "How does the use of a handheld microphone lead to this problem?",
+      "context": "People could cover the microphone with...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ]
+}

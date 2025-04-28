@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'evaluating sentence representation' refer to in the context of the document?",
+      "context": "Just starting with this.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "Is the topic of the document related to language or syntax?",
+      "context": "No specific information is provided about the topic, but it can be inferred that it may relate to linguistics or natural language processing.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6909090909090909
+      }
+    },
+    {
+      "question": "What kind of questions would this document likely address?",
+      "context": "No specific information is provided about the type of questions, but it can be inferred that they may relate to theoretical or research-based queries.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7517361111111112
+      }
+    },
+    {
+      "question": "Is sentence representation a well-defined concept in the context of the document?",
+      "context": "A specific definition or explanation is not provided, but it can be inferred that it may be a topic of discussion.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6950757575757576
+      }
+    },
+    {
+      "question": "What is the tone of the introduction to the document?",
+      "context": "The words 'Just starting with this' convey an informal and conversational tone.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7239583333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'evaluating sentence representation' refer to in the context of the document?",
+      "context": "Just starting with this.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What kind of questions would this document likely address?",
+      "context": "No specific information is provided about the type of questions, but it can be inferred that they may relate to theoretical or research-based queries.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7517361111111112
+      }
+    },
+    {
+      "question": "Is the topic of the document related to language or syntax?",
+      "context": "No specific information is provided about the topic, but it can be inferred that it may relate to linguistics or natural language processing.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6909090909090909
+      }
+    },
+    {
+      "question": "Is sentence representation a well-defined concept in the context of the document?",
+      "context": "A specific definition or explanation is not provided, but it can be inferred that it may be a topic of discussion.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6950757575757576
+      }
+    }
+  ]
+}

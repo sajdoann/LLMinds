@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'subject position' mean in this context?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.265625
+      }
+    },
+    {
+      "question": "What does 'object position' mean in this context?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.265625
+      }
+    },
+    {
+      "question": "How does knowing the position of a word in the tree help with parsing?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.39423076923076916
+      }
+    },
+    {
+      "question": "What is the implication of knowing the case of a word's position in the tree?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.36458333333333337
+      }
+    },
+    {
+      "question": "What is being illustrated in this context?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.2857142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'subject position' mean in this context?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.265625
+      }
+    },
+    {
+      "question": "How does knowing the position of a word in the tree help with parsing?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.39423076923076916
+      }
+    },
+    {
+      "question": "What is the implication of knowing the case of a word's position in the tree?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.36458333333333337
+      }
+    },
+    {
+      "question": "What is being illustrated in this context?",
+      "context": "This is an illustration. You parse the source sentence and you traverse the tree so that you, based on the position of the word in the tree, you know whether it sits in the subject position or the object position",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.2857142857142857
+      }
+    }
+  ]
+}

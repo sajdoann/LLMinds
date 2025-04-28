@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What has been seen in terms of improvement over the last two years according to Silvachak's survey?",
+      "context": "So here is a summary of the results from the survey by Silvachak and we see that there has been quite a big improvement over the last two years",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8393665158371041
+      }
+    },
+    {
+      "question": "What architectures are being used in this research, and how many are mentioned?",
+      "context": "and some use convolution networks networks and LSTM some use convolution networks and transformers some use paramidal recurrent neural networks some use the knowledge distillation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7411858974358975
+      }
+    },
+    {
+      "question": "What is the current state of research in terms of determining the best architecture?",
+      "context": "so so it's it's a battle which is still running very fiercely and we don't know which approach will win the transformer alone.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7208333333333333
+      }
+    },
+    {
+      "question": "What is being used as an alternative to traditional approaches in this research?",
+      "context": "some use paramidal recurrent neural networks some use the knowledge distillation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.717948717948718
+      }
+    },
+    {
+      "question": "How does the researcher feel about the current state of affairs in terms of determining the best architecture?",
+      "context": "and we are really getting on par or very close to the cascaded system.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7773809523809524
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What has been seen in terms of improvement over the last two years according to Silvachak's survey?",
+      "context": "So here is a summary of the results from the survey by Silvachak and we see that there has been quite a big improvement over the last two years",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8393665158371041
+      }
+    },
+    {
+      "question": "What is being used as an alternative to traditional approaches in this research?",
+      "context": "some use paramidal recurrent neural networks some use the knowledge distillation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.717948717948718
+      }
+    },
+    {
+      "question": "What architectures are being used in this research, and how many are mentioned?",
+      "context": "and some use convolution networks networks and LSTM some use convolution networks and transformers some use paramidal recurrent neural networks some use the knowledge distillation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7411858974358975
+      }
+    },
+    {
+      "question": "How does the researcher feel about the current state of affairs in terms of determining the best architecture?",
+      "context": "and we are really getting on par or very close to the cascaded system.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7773809523809524
+      }
+    }
+  ]
+}

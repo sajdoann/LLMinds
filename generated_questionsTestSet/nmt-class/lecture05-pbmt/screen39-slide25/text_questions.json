@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of algorithm is used for decoding in this context?",
+      "context": "finite state transducers",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7272727272727273
+      }
+    },
+    {
+      "question": "What is mentioned as a future topic in one of the lectures?",
+      "context": "A-star surges I mentioned or greedy hill climbing",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "Can decoding algorithms be summarized?",
+      "context": "So there are also other decoding algorithms such as... ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8861111111111111
+      }
+    },
+    {
+      "question": "What is the purpose of mentioning future topics in lectures?",
+      "context": "Maybe we'll get to that in one of the future lectures.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What types of algorithms can be used for decoding, besides those mentioned?",
+      "context": "...or finite state transducers and other possible",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8139880952380952
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of algorithm is used for decoding in this context?",
+      "context": "finite state transducers",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7272727272727273
+      }
+    },
+    {
+      "question": "What is mentioned as a future topic in one of the lectures?",
+      "context": "A-star surges I mentioned or greedy hill climbing",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What is the purpose of mentioning future topics in lectures?",
+      "context": "Maybe we'll get to that in one of the future lectures.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8375
+      }
+    }
+  ]
+}

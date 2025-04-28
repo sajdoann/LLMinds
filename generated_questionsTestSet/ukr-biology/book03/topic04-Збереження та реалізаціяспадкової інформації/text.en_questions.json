@@ -1,0 +1,798 @@
+{
+  "all_questions": [
+    {
+      "question": "What are genes?",
+      "context": "Each gene is a section of a DNA molecule. It is responsible for the formation of one or more traits of an organism.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7706007442849548
+      }
+    },
+    {
+      "question": "Where are genes located in eukaryotic cells?",
+      "context": "In addition, they are in small circular DNA molecules - plasmids. In eukaryotes, genes are located in the chromosomes of the nucleus, mitochondria and plastids.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8897727272727273
+      }
+    },
+    {
+      "question": "What determines the structure of a protein molecule?",
+      "context": "The sequence of nucleotides in DNA.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.689709595959596
+      }
+    },
+    {
+      "question": "How many nucleotide pairs are in the DNA chains of some species of living organisms?",
+      "context": "Approximate number of pairs for Escherichia coli: 4 million, Poplar: 480 million, Baker's yeast: 12.1 million, Silkworm: 432 million, Mouse: 2.7 billion, Human: 3.2 billion.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9105667060212514
+      }
+    },
+    {
+      "question": "What determines the structure of a protein molecule?",
+      "context": "the sequence of nucleotides in DNA",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6695075757575757
+      }
+    },
+    {
+      "question": "What are non-coding sections of a gene responsible for?",
+      "context": "But they are responsible for the work of the gene.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8038720538720538
+      }
+    },
+    {
+      "question": "What is the main structure that allows prokaryotes to synthesize proteins at once?",
+      "context": "An operon is a structure consisting of several structural genes. It allows prokaryotes to synthesize at once",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8642876731112026
+      }
+    },
+    {
+      "question": "Why do eukaryotic organisms have regulatory regions in their genes?",
+      "context": "This structure allows eukaryotic organisms to carry out very fine regulation of the work of their genes.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9113636363636364
+      }
+    },
+    {
+      "question": "What are the main types of RNA found in cells?",
+      "context": "The most common types in cells are messenger, ribosomal, transfer, and small nuclear RNAs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8123376623376624
+      }
+    },
+    {
+      "question": "In what part of the eukaryotic genome is the non-coding region located?",
+      "context": "The extranuclear part of the genome is represented by the DNA of mitochondria and plastids.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7653810835629018
+      }
+    },
+    {
+      "question": "What is the site of protein synthesis?",
+      "context": "the site of protein synthesis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6396103896103896
+      }
+    },
+    {
+      "question": "What is the main goal of reducing the intensity of cell work?",
+      "context": "need passes, the intensity of their work should be reduced.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How do cells regulate gene activity?",
+      "context": "The first mechanism is the interaction of the products of regulatory genes (usually proteins) with certain gene structures: an operator, promoter or regulatory regions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9195707070707071
+      }
+    },
+    {
+      "question": "What happens to DNA information when a methyl radical (CH3) is added to it?",
+      "context": "The second mechanism is the modification of certain nucleotides in DNA chains. If a methyl radical (CH3) is added to them, then reading information from the DNA section behind such a nucleotide becomes impossible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8788079736355598
+      }
+    },
+    {
+      "question": "What is epigenetics?",
+      "context": "Therefore, with age, the number and location of “turned off” genes in their genomes varies more and more, and they become less and less similar to each other from the point of view of epigenetics, the science that studies the mechanisms of gene regulation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7644087938205586
+      }
+    },
+    {
+      "question": "What is replication in cell reproduction?",
+      "context": "Replication During cell reproduction, each daughter cell receives an identical set of DNA molecules from the mother cell.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8060011883541296
+      }
+    },
+    {
+      "question": "What enzyme unwinds the double strand of DNA during replication?",
+      "context": "During replication, special protein enzymes unwind the double strand of DNA into two single strands.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8207070707070707
+      }
+    },
+    {
+      "question": "What is DNA duplication called?",
+      "context": "s of DNA duplication is called replication.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7662337662337663
+      }
+    },
+    {
+      "question": "What is the characteristic feature of all types of RNA regarding dietary information?",
+      "context": "ditary information",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8743686868686869
+      }
+    },
+    {
+      "question": "What is opposite to adenyl nucleotide of RNA in DNA chain?",
+      "context": "a thymidyl nucleotide, and opposite the uridyl nucleotide is adenyl nucleotide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8106060606060606
+      }
+    },
+    {
+      "question": "What stage implements hereditary information by synthesizing an RNA molecule based on one of the chains of the DNA molecule?",
+      "context": "The first stage of the implementation of hereditary information is transcription - the process of synthesizing an RNA molecule based on one of the chains of the DNA molecule.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8618927368927369
+      }
+    },
+    {
+      "question": "What is the purpose of translation or protein biosynthesis?",
+      "context": "Translation, or protein biosynthesis, is a stage during which, based on the information contained in mRNA, a polypeptide chain of a protein molecule is synthesized.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7784992784992785
+      }
+    },
+    {
+      "question": "What determines the sequence of amino acids in a protein?",
+      "context": "each triplet of mRNA nucleotides corresponds to a certain amino acid (see the table of the genetic code on the second endpaper).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8130781499202552
+      }
+    },
+    {
+      "question": "What is the role of stop codons during protein synthesis?",
+      "context": "The nucleotides UAA, UAG, and UGA are stop codons, indicating the end of the synthesis of the polypeptide chain.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7893939393939394
+      }
+    },
+    {
+      "question": "What is necessary for protein synthesis to occur in the cytoplasm?",
+      "context": "there must be a complete set of necessary amino acids. Recall that they are formed as a result of the breakdown of proteins that enter the body with food or are synthesized in the body itself.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8401711924439197
+      }
+    },
+    {
+      "question": "What is a polyribosome?",
+      "context": "Each of them synthesizes one protein molecule. And all of them together with mRNA form a structure called a polyribosome.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.786541889483066
+      }
+    },
+    {
+      "question": "What is the first amino acid of the future polypeptide chain during initiation?",
+      "context": "A tRNA molecule joins the AUG codon, which brings the amino acid methionine to the ribosome, which will be the first amino acid of the future polypeptide chain.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8316197691197691
+      }
+    },
+    {
+      "question": "What is the next amino acid transported by tRNA during elongation?",
+      "context": "In Fig. 23.1, B, the next codon is GUC, and the next amino acid transported by tRNA is valine (Val).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.846216172419381
+      }
+    },
+    {
+      "question": "What triggers the termination stage of translation?",
+      "context": "The ribosome encounters one of the stop codons - UAA, UAG or UGA.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7822871572871573
+      }
+    },
+    {
+      "question": "What is the purpose of the stop codon in protein synthesis?",
+      "context": "The recognition of the stop codon by the ribosome begins the third stage of translation - termination - completion of translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7909090909090909
+      }
+    },
+    {
+      "question": "What happens to the amino acid molecules after the completion of protein synthesis?",
+      "context": "The tRNA molecules can capture new amino acid molecules and transport them to the site of synthesis of another protein.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8253490790255495
+      }
+    },
+    {
+      "question": "What is the purpose of protein maturation after synthesis?",
+      "context": "Maturation is necessary because the protein that has just been synthesized is not yet able to perform its functions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8013468013468014
+      }
+    },
+    {
+      "question": "What determines the amino acid sequence during translation?",
+      "context": "The first nucleotide of the triplet indicates the row in which to look for the amino acid it encodes, and the second nucleotide indicates the column. The cell corresponding to the selected column and row contains four amino acid names.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8412733100233101
+      }
+    },
+    {
+      "question": "What is the purpose of DNA repair mechanisms?",
+      "context": "The process that allows living organisms to eliminate damage that occurs in DNA is called repair. Most repair mechanisms are based on the fact that DNA is a double-stranded molecule.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7790151515151515
+      }
+    },
+    {
+      "question": "How does the genetic code affect protein structure?",
+      "context": "A violation of the sequence of nucleotides in DNA in the region of a structural gene can lead to...Can this affect the structure of the protein chain? ",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8668759968102073
+      }
+    },
+    {
+      "question": "What is DNA repair?",
+      "context": "The process that allows living organisms to eliminate damage that occurs in DNA is called repair.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7571969696969697
+      }
+    },
+    {
+      "question": "How does the cell nucleus store hereditary information?",
+      "context": "Where is hereditary information stored in prokaryotic cells?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8901515151515151
+      }
+    },
+    {
+      "question": "What happens to chromatin when it becomes too tightly packed?",
+      "context": "But if DNA is packed too tightly, it will be impossible to read hereditary information from it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9180035650623886
+      }
+    },
+    {
+      "question": "Why are chromosomes not twisted most of the time in cell nuclei?",
+      "context": "those parts of it that are needed for the cell to function are almost not twisted, and those that are not used by the cell at a certain moment are spiralized more strongly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What is the purpose of chromatin becoming strongest before cell division?",
+      "context": "The consequence of this degree of spiralization is the formation of chromosomes - compact structures of DNA and proteins.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7920569329660239
+      }
+    },
+    {
+      "question": "What happens to the bacterial chromosome after replication?",
+      "context": "The new copy is attached to the cell membrane, after which a new cell wall is formed between them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8398358585858585
+      }
+    },
+    {
+      "question": "Why do eukaryotic cells have more complex division processes compared to prokaryotes?",
+      "context": "the presence of a nucleus and hereditary material in the form of chromosomes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8691460055096418
+      }
+    },
+    {
+      "question": "What is meiosis?",
+      "context": "Meiosis is the division of cells that occurs during gametogenesis.",
+      "difficulty": "factual",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6825757575757576
+      }
+    },
+    {
+      "question": "How many daughter cells are formed from one mother cell in meiosis?",
+      "context": "In this case, the daughter cells receive half the number of chromosomes and half the genetic material that the mother cell had.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8907828282828283
+      }
+    },
+    {
+      "question": "What is the result of meiosis?",
+      "context": "The result of meiosis is the formation of sex cells (gametes).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6755050505050505
+      }
+    },
+    {
+      "question": "What happens during recombination in DNA?",
+      "context": "Recombination is the process when the chain ... DNA strands are broken into separate fragments, which are then combined in a different order.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8448773448773449
+      }
+    },
+    {
+      "question": "What is 'crossing over' in recombination?",
+      "context": "In eukaryotic cells, recombination usually occurs during the prophase of the first division of meiosis and is known as “crossing over”.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.801501860712387
+      }
+    },
+    {
+      "question": "What are sex cells (gametes) formed into?",
+      "context": "Sexual reproduction is a type of reproduction in which ... sex cells (gametes) are formed and the fertilization process occurs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8403394850763272
+      }
+    },
+    {
+      "question": "What are some characteristics of mammalian spermatozoa?",
+      "context": "Features of mammalian sex cells ... CharacteristicsSpermatozoonOvum ... Has a head, neck, and tail.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.833999333999334
+      }
+    },
+    {
+      "question": "What is the function of the acrosome in spermatozoa?",
+      "context": "... In front of the head is an acrosome—a sharp, hard bump that contains an enzyme that helps the sperm penetrate the egg.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7632575757575758
+      }
+    },
+    {
+      "question": "What type of fertilization does not require special devices?",
+      "context": "External fertilization is common among aquatic organisms. In this case, gametes of both parents are released into the water and meet there.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8549127640036731
+      }
+    },
+    {
+      "question": "In what type of fertilization does the meeting of gametes occur inside the body of the female?",
+      "context": "During internal fertilization, the meeting of gametes occurs inside the body of the female.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8303666030938759
+      }
+    },
+    {
+      "question": "What type of crossover can occur not during meiosis but during mitosis?",
+      "context": "Sometimes crossover can occur not during meiosis, but during mitosis. This phenomenon is called mitotic crossover.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.906060606060606
+      }
+    },
+    {
+      "question": "What are the main periods of ontogenesis in flowering plants?",
+      "context": "They distinguish four main periods of ontogenesis - latent, pregenerative, generative and postgenerative.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8284965034965035
+      }
+    },
+    {
+      "question": "How is the development of animals divided into two main periods?",
+      "context": "The ontogenesis of animals is usually divided into two main periods - embryonic and postembryonic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8328282828282828
+      }
+    },
+    {
+      "question": "What is the postembryonic development of mammals?",
+      "context": "Stage When it begins What happens\nJuvenile From the moment of birth Growth and development of the organism\nMaturity From the moment of sexual maturity The formation and growth of new organs does not occur. Metabolism is balanced. Animal reproduction occurs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7840548340548341
+      }
+    },
+    {
+      "question": "The smallest genome size among the following organisms is",
+      "context": "1 The smallest genome size among the following organisms is:\n a) silkworm\n c) poplar\n b) Escherichia coli\n d) human",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8954124579124579
+      }
+    },
+    {
+      "question": "The region of the gene that initiates the synthesis of an RNA molecule is",
+      "context": "2 The region of the gene that initiates the synthesis of an RNA molecule:\n a) promoter\n b) terminator\n c) RNA polymerase\n g) DNA polymerase",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8459475134116283
+      }
+    },
+    {
+      "question": "Which phase is the penultimate phase of mitosis?",
+      "context": "3 Which phase is the penultimate phase of mitosis?\n a) anaphase\n c) prophase\n b) metaphase\n d) telophase",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8035037878787878
+      }
+    },
+    {
+      "question": "The gene in eukaryotic cells performs the function of",
+      "context": "5 The gene in eukaryotic cells performs the function of:\n a) accumulation of nutrients\n b) implementation of hereditary information\n c) organization of chromosomes in mitosis\n d) formation of the cell wall of bacteria",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.83879662004662
+      }
+    },
+    {
+      "question": "The stage during which, according to the information contained in mRNA, a polypeptide chain of a protein molecule is synthesized is",
+      "context": "b) replication d) translation\n\n10 During transcription, the synthesis of the molecule:\n a) RNA\n b) DNA c) protein d) lipid occurs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8547979797979798
+      }
+    },
+    {
+      "question": "The hydrogen bond in tRNA connects",
+      "context": "11 The hydrogen bond in tRNA connects:\n a) chains of two RNA molecules\n b) different sections of one RNA molecule\n c) an RNA molecule and a protein\n d) different sections of one protein molecule",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8500631313131313
+      }
+    },
+    {
+      "question": "Mammalian egg cells have",
+      "context": "12 Mammalian egg cells:\n a) do not have flagella c) have two flagella\n b) have one flagella d) have many flagella",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.9656565656565657
+      }
+    },
+    {
+      "question": "Write the names of the phases of mitosis",
+      "context": "13 Write the names of the phases of mitosis:\n a)b)c)d)",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8011363636363636
+      }
+    },
+    {
+      "question": "Identify the products that are formed as a result of transcription and subsequent translation of a DNA section: TACAAGGGGTTGATC.",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9438502673796791
+      }
+    },
+    {
+      "question": "Identify the products that are formed as a result of transcription and subsequent translation of a DNA section: TACAAGGATTTCAC.",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9438502673796791
+      }
+    },
+    {
+      "question": "What do different sections of one protein molecule refer to?",
+      "context": "protein d) different sections of one protein molecule",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8371212121212122
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to chromatin when it becomes too tightly packed?",
+      "context": "But if DNA is packed too tightly, it will be impossible to read hereditary information from it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9180035650623886
+      }
+    },
+    {
+      "question": "Why do eukaryotic organisms have regulatory regions in their genes?",
+      "context": "This structure allows eukaryotic organisms to carry out very fine regulation of the work of their genes.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9113636363636364
+      }
+    },
+    {
+      "question": "What type of crossover can occur not during meiosis but during mitosis?",
+      "context": "Sometimes crossover can occur not during meiosis, but during mitosis. This phenomenon is called mitotic crossover.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.906060606060606
+      }
+    },
+    {
+      "question": "How does the genetic code affect protein structure?",
+      "context": "A violation of the sequence of nucleotides in DNA in the region of a structural gene can lead to...Can this affect the structure of the protein chain? ",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8668759968102073
+      }
+    },
+    {
+      "question": "What is the purpose of protein maturation after synthesis?",
+      "context": "Maturation is necessary because the protein that has just been synthesized is not yet able to perform its functions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8013468013468014
+      }
+    }
+  ]
+}

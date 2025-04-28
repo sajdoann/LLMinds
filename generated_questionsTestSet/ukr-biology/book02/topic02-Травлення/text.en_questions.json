@@ -1,0 +1,358 @@
+{
+  "all_questions": [
+    {
+      "question": "Why are there separate sections in the digestive system?",
+      "context": "They are needed in order to divide the substances of the consumed food into fragments that the body can then use.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8302005012531328
+      }
+    },
+    {
+      "question": "What is the purpose of the mucous layer in the digestive tube?",
+      "context": "facilitates the passage of food due to the secretion of mucus and participates in the digestion process;",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7558673469387756
+      }
+    },
+    {
+      "question": "What is the primary function of the large intestine?",
+      "context": "The large intestine is the area of absorption of water and accumulation of undigested substances.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7157738095238095
+      }
+    },
+    {
+      "question": "What is the composition of a tooth?",
+      "context": "A tooth consists of several main components: The crown of the tooth is covered by enamel from above. Under the enamel is dentin, which forms a large part of the crown, neck and root.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7539795918367347
+      }
+    },
+    {
+      "question": "What secretes mucus, digestive enzymes and hormones in the stomach wall?",
+      "context": "The wall of the stomach is formed by three layers of smooth muscles. The epithelial cells of the stomach produce a lot of mucus, which protects its walls from the action of digestive enzymes and does not allow the stomach to digest itself.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8464387175324675
+      }
+    },
+    {
+      "question": "What are the three main sections of the small intestine?",
+      "context": "The small intestine consists of three sections - the duodenum, jejunum and ileum.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "What departments is the human digestive system divided into?",
+      "context": "Different parts of the digestive system differ in structure and perform different functions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7564484126984127
+      }
+    },
+    {
+      "question": "Which glands secrete substances into the digestive system?",
+      "context": "It includes digestive glands - the liver, pancreas, salivary glands, etc.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8668831168831169
+      }
+    },
+    {
+      "question": "What is the purpose of bile in the digestive process?",
+      "context": "Bile, which is produced by the liver and contains bile salts, is needed for the emulsification of fats - the process of breaking them into very small droplets.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7700892857142857
+      }
+    },
+    {
+      "question": "How are digestive products absorbed in the small intestine?",
+      "context": "The products of protein breakdown (amino acids) and carbohydrates (glucose) are absorbed by the intestinal villi.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8162698412698413
+      }
+    },
+    {
+      "question": "What is the main function of the large intestine?",
+      "context": "In this part of the digestive system, their processing is completed, and then those substances that the body can still use are absorbed .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7365100931677019
+      }
+    },
+    {
+      "question": "What type of microorganisms play a significant role in the work of the large intestine?",
+      "context": "They form the intestinal microflora. They break down a number of substances that are not subject to the action of enzymes of the digestive system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8217032967032967
+      }
+    },
+    {
+      "question": "How long is the large intestine?",
+      "context": "The large intestine is only 1.5–2 m long.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7767857142857143
+      }
+    },
+    {
+      "question": "What substances accelerate or slow down the work of the digestive system organs?",
+      "context": "Humoral regulation occurs due to special biologically active substances that accelerate or slow down the work of the digestive system organs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What happens to liver cells after alcohol consumption, and what are they replaced with?",
+      "context": "The liver suffers the most from the effects of alcohol and tobacco smoking on the digestive system (Fig. 9.2). It must neutralize all harmful substances that enter the body with alcohol and neutralize the products of its processing by the body. As a result, liver cells begin to die. They are replaced by fatty tissue; the liver is destroyed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8820818070818071
+      }
+    },
+    {
+      "question": "What happens to the functioning of the pancreas after alcohol consumption?",
+      "context": "First of all, alcohol, once in the stomach, destroys its mucous membrane and reduces the activity of gastric juice. Under the influence of alcohol, the functioning of the pancreas deteriorates.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8266233766233766
+      }
+    },
+    {
+      "question": "What is the worst consequence that can happen to the liver after alcohol consumption?",
+      "context": "The liver suffers the most from the effects of alcohol and tobacco smoking on the digestive system (Fig. 9.2). It must neutralize all harmful substances that enter the body with alcohol and neutralize the products of its processing by the body. As a result, liver cells begin to die. They are replaced by fatty tissue; the liver is destroyed. The worst consequence can be cirrhosis of the liver and its complete death.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8489010989010989
+      }
+    },
+    {
+      "question": "What is cirrhosis of the liver?",
+      "context": "The worst consequence can be cirrhosis of the liver and its complete death.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6815476190476191
+      }
+    },
+    {
+      "question": "How does smoking affect the digestive system?",
+      "context": "Smoking can disrupt their normal blood supply, increasing the risk of stomach cancer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8335949764521193
+      }
+    },
+    {
+      "question": "What is gastritis?",
+      "context": "Excessive alcohol consumption can cause gastritis, an inflammation of the stomach lining.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7202380952380952
+      }
+    },
+    {
+      "question": "Why is it important to follow rules for preventing gastrointestinal diseases?",
+      "context": "The digestive system is one of the ways in which pathogens, toxins (poisonous substances produced by living cells or organisms) and dangerous substances enter the human body.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8813582251082251
+      }
+    },
+    {
+      "question": "What are common signs of food poisoning?",
+      "context": "Signs of poisoning: abdominal pain, vomiting, diarrhea, headache, dizziness",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8543083900226758
+      }
+    },
+    {
+      "question": "How is botulism typically acquired?",
+      "context": "The name \"botulism\" comes from the Latin word \"botulus\" - sausage. This disease was first described as a consequence of eating blood sausages in the 18th century.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.88
+      }
+    },
+    {
+      "question": "What is a common symptom of helminthiasis?",
+      "context": "Common symptoms include weight loss, malaise, and irritability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8182397959183674
+      }
+    },
+    {
+      "question": "What is botulism?",
+      "context": "The name \"botulism\" comes from the Latin word \"botulus\" - sausage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "Where does hydrochloric acid get secreted from?",
+      "context": "Hydrochloric acid is secreted in: ... stomach c) small intestine b) oral cavity d) large intestine.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9673150510204082
+      }
+    },
+    {
+      "question": "What are the common symptoms of helminthiasis?",
+      "context": "... Depending on the type of helminth (parasite), a lesion of one or another organ develops with the corresponding symptoms. Common symptoms include weight loss, malaise, and irritability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7866954474097332
+      }
+    },
+    {
+      "question": "What is the name of the technology used to make cosmetics?",
+      "context": "... Botulinum toxin, which causes botulism, is used in medicine to make cosmetics (for example, Botox).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8374999999999999
+      }
+    },
+    {
+      "question": "Which type of tooth has the pointed shape?",
+      "context": "... The number of types of teeth in humans: a) 32 b) 28 c) 9 d) 4.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8515625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are common signs of food poisoning?",
+      "context": "Signs of poisoning: abdominal pain, vomiting, diarrhea, headache, dizziness",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8543083900226758
+      }
+    },
+    {
+      "question": "What happens to liver cells after alcohol consumption, and what are they replaced with?",
+      "context": "The liver suffers the most from the effects of alcohol and tobacco smoking on the digestive system (Fig. 9.2). It must neutralize all harmful substances that enter the body with alcohol and neutralize the products of its processing by the body. As a result, liver cells begin to die. They are replaced by fatty tissue; the liver is destroyed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8820818070818071
+      }
+    },
+    {
+      "question": "How is botulism typically acquired?",
+      "context": "The name \"botulism\" comes from the Latin word \"botulus\" - sausage. This disease was first described as a consequence of eating blood sausages in the 18th century.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.88
+      }
+    }
+  ]
+}

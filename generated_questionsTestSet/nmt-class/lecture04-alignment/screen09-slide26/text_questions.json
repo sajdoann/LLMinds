@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What types of translations were included in the initial release of Cheng?",
+      "context": "The professional translations and the community translations",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8363636363636364
+      }
+    },
+    {
+      "question": "How many tokens are available in the labelled data compared to what could be obtained using community translations?",
+      "context": "21 or 22 million tokens vs. another 28 million tokens",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What is the consequence of not labelling licenses for data used in machine translation systems?",
+      "context": "Legal uncertainty and data not available for good purposes",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8138888888888889
+      }
+    },
+    {
+      "question": "How has the situation changed regarding data licensing over the past 10 years?",
+      "context": "Labelling of licenses became more common, but usage of permissive licenses is still necessary",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What is a key difference in Czech authorship law compared to other jurisdictions regarding data reuse?",
+      "context": "Allows for use of all data for research and non-commercial purposes",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8234375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What types of translations were included in the initial release of Cheng?",
+      "context": "The professional translations and the community translations",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8363636363636364
+      }
+    },
+    {
+      "question": "How has the situation changed regarding data licensing over the past 10 years?",
+      "context": "Labelling of licenses became more common, but usage of permissive licenses is still necessary",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "How many tokens are available in the labelled data compared to what could be obtained using community translations?",
+      "context": "21 or 22 million tokens vs. another 28 million tokens",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What is the consequence of not labelling licenses for data used in machine translation systems?",
+      "context": "Legal uncertainty and data not available for good purposes",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8138888888888889
+      }
+    }
+  ]
+}

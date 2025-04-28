@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first dependence discussed in the document?",
+      "context": "So that is one dependence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "How does the gender of the subject affect the translation of the verb 'videl'?",
+      "context": "But we also have the other dependence between John and seeing. And this dependence is important because if it's John, then the translation of the verb will be in masculine.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8557692307692308
+      }
+    },
+    {
+      "question": "What is the problem with applying two rules at the same time in a parse tree?",
+      "context": "But you also need to handle the dependency between the subject and predicate in the John seeing. And these two dependencies are crossing now.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8452380952380952
+      }
+    },
+    {
+      "question": "Why is hierarchical approach not adequate for translation into Czech?",
+      "context": "So I said that hierarchical approach allows you to extract this lexical choice rule. This rule correctly ensures that cutting will be translated well.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8988636363636364
+      }
+    },
+    {
+      "question": "What is the risk of using a system that breaks one of the dependencies?",
+      "context": "And there is a big risk that the system will then make the bad choice.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7976190476190477
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the risk of using a system that breaks one of the dependencies?",
+      "context": "And there is a big risk that the system will then make the bad choice.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7976190476190477
+      }
+    },
+    {
+      "question": "Why is hierarchical approach not adequate for translation into Czech?",
+      "context": "So I said that hierarchical approach allows you to extract this lexical choice rule. This rule correctly ensures that cutting will be translated well.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8988636363636364
+      }
+    },
+    {
+      "question": "How does the gender of the subject affect the translation of the verb 'videl'?",
+      "context": "But we also have the other dependence between John and seeing. And this dependence is important because if it's John, then the translation of the verb will be in masculine.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8557692307692308
+      }
+    }
+  ]
+}

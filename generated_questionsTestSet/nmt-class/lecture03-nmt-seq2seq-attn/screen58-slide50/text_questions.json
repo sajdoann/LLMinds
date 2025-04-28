@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the effect of having fewer words in a hypothesis on its overall score?",
+      "context": "This obviously prefers shorter hypothesis because the fewer words you have in this multiplication, the higher the overall score.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.70625
+      }
+    },
+    {
+      "question": "What is being multiplied in the context of hypothesis length?",
+      "context": "because the fewer words you have in this multiplication, the higher the overall score.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Why are shorter hypotheses preferred?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What is the implication of having more words in a hypothesis on its overall score?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What does the document imply about the relationship between hypothesis length and overall score?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the implication of having more words in a hypothesis on its overall score?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is being multiplied in the context of hypothesis length?",
+      "context": "because the fewer words you have in this multiplication, the higher the overall score.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Why are shorter hypotheses preferred?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What does the document imply about the relationship between hypothesis length and overall score?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of presentation is coming next?",
+      "context": "So let's now move for the last part of the lecture to visual information and this will be much shorter presentation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6071428571428572
+      }
+    },
+    {
+      "question": "Is the presentation going to be short?",
+      "context": "So let's now move for the last part of the lecture to visual information and this will be much shorter presentation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6428571428571428
+      }
+    },
+    {
+      "question": "What is 'visual information' referring to?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of presentation is coming next?",
+      "context": "So let's now move for the last part of the lecture to visual information and this will be much shorter presentation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6071428571428572
+      }
+    },
+    {
+      "question": "Is the presentation going to be short?",
+      "context": "So let's now move for the last part of the lecture to visual information and this will be much shorter presentation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6428571428571428
+      }
+    },
+    {
+      "question": "What is 'visual information' referring to?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

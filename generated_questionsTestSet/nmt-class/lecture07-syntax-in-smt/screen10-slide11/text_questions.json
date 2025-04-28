@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is considered the most important part of a constituency tree that governs the structure beneath?",
+      "context": "If you indicate for each of these constituents what is the most important part of that constituent, the so-called hat, the something that governs the whole structure beneath",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7742753623188405
+      }
+    },
+    {
+      "question": "What controls the structure of a sentence?",
+      "context": "the more important part that controls the structure of the sentence is the predicate part, the VP",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6675824175824175
+      }
+    },
+    {
+      "question": "What is considered the most important syntactic element within a VP?",
+      "context": "And here again the more important syntactic element is the verb",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7136363636363636
+      }
+    },
+    {
+      "question": "Why are verbs marked for being?",
+      "context": "the verb itself and another part is the object in the sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What happens when you convert a constituency tree to a dependency tree?",
+      "context": "if you mark the constituency trees for hats, then you can convert them to dependency trees",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8465909090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is considered the most important part of a constituency tree that governs the structure beneath?",
+      "context": "If you indicate for each of these constituents what is the most important part of that constituent, the so-called hat, the something that governs the whole structure beneath",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7742753623188405
+      }
+    },
+    {
+      "question": "Why are verbs marked for being?",
+      "context": "the verb itself and another part is the object in the sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What controls the structure of a sentence?",
+      "context": "the more important part that controls the structure of the sentence is the predicate part, the VP",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6675824175824175
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of the speaker's discussion?",
+      "context": "So let me now talk a little about the presentation but I'll only gloss over that.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5245535714285714
+      }
+    },
+    {
+      "question": "Can the speaker be understood without external knowledge?",
+      "context": "The presentation now in the speech to text translation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "What is the nature of the glossing over mentioned by the speaker?",
+      "context": "So let me now talk a little about the presentation but I'll only gloss over that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.590625
+      }
+    },
+    {
+      "question": "Is there any specific information being discussed in the speech to text translation?",
+      "context": "The presentation now in the speech to text translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6766826923076923
+      }
+    },
+    {
+      "question": "Does the speaker's discussion of the presentation imply a level of interest or enthusiasm?",
+      "context": "So let me now talk a little about the presentation but I'll only gloss over that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6302083333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any specific information being discussed in the speech to text translation?",
+      "context": "The presentation now in the speech to text translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6766826923076923
+      }
+    },
+    {
+      "question": "Does the speaker's discussion of the presentation imply a level of interest or enthusiasm?",
+      "context": "So let me now talk a little about the presentation but I'll only gloss over that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6302083333333334
+      }
+    },
+    {
+      "question": "What is the nature of the glossing over mentioned by the speaker?",
+      "context": "So let me now talk a little about the presentation but I'll only gloss over that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.590625
+      }
+    },
+    {
+      "question": "Can the speaker be understood without external knowledge?",
+      "context": "The presentation now in the speech to text translation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.671875
+      }
+    }
+  ]
+}

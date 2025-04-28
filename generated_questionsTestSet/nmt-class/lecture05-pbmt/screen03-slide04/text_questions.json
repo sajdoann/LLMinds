@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of corpus is used in Phrasebase MT?",
+      "context": "Phrasebase MT starts with a parallel corpus, which is word-aligned.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "How are words aligned in the parallel corpus?",
+      "context": "Correspondences between individual words don't have to be word for word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8451704545454546
+      }
+    },
+    {
+      "question": "What is the purpose of extracting a translation dictionary from the parallel corpus?",
+      "context": "This differs from the normal translation dictionary for humans because it contains many multi-word expressions and fully inflected words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8486842105263158
+      }
+    },
+    {
+      "question": "How does Phrasebase MT handle linguistic knowledge in its translation process?",
+      "context": "Phrasebase MT has encoded all this linguistic knowledge simply into these short phrases.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9047202797202797
+      }
+    },
+    {
+      "question": "What is the goal of selecting a subset of puzzle pieces and ordering them to cover the source sentence?",
+      "context": "You put these replacements together to make the output sentence as fluent as possible. So for example the triagrams should be very likely.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.898109243697479
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of corpus is used in Phrasebase MT?",
+      "context": "Phrasebase MT starts with a parallel corpus, which is word-aligned.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What is the purpose of extracting a translation dictionary from the parallel corpus?",
+      "context": "This differs from the normal translation dictionary for humans because it contains many multi-word expressions and fully inflected words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8486842105263158
+      }
+    },
+    {
+      "question": "How are words aligned in the parallel corpus?",
+      "context": "Correspondences between individual words don't have to be word for word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8451704545454546
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two possible views of this recurrent neural network language model?",
+      "context": "Then there are two views, two possible views on this recurrent neural network language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8756868131868132
+      }
+    },
+    {
+      "question": "How can the loop function be interpreted as a view of the language model?",
+      "context": "You can see it as a loop function.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7175480769230769
+      }
+    },
+    {
+      "question": "Can a functional programmer interpret this language model as a map function over sequential data?",
+      "context": "Maybe if you're a functional programmer as map function over sequential data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the probability distribution represented by this language model?",
+      "context": "So that's these two views. And you can also see as a way to define probability distribution over sequences of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7964285714285715
+      }
+    },
+    {
+      "question": "Is one view being able to interpret the loop function as a view inherently related to being a functional programmer?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two possible views of this recurrent neural network language model?",
+      "context": "Then there are two views, two possible views on this recurrent neural network language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8756868131868132
+      }
+    },
+    {
+      "question": "What is the probability distribution represented by this language model?",
+      "context": "So that's these two views. And you can also see as a way to define probability distribution over sequences of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7964285714285715
+      }
+    },
+    {
+      "question": "How can the loop function be interpreted as a view of the language model?",
+      "context": "You can see it as a loop function.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7175480769230769
+      }
+    },
+    {
+      "question": "Is one view being able to interpret the loop function as a view inherently related to being a functional programmer?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    }
+  ]
+}

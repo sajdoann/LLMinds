@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the role of the language model in the log-linear framework?",
+      "context": "This section describes the feature function which represents the language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How does the log-linear framework handle the source side of the translation process?",
+      "context": "The idea is that the language model looks only at the target and disregards the source.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "What is the purpose of the weights in the log-linear framework?",
+      "context": "These weights specify the relative importance of different components.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How do the weights allow for a balance between the language model and translation model?",
+      "context": "These weights allow you to balance the mix of the components and...)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8084415584415585
+      }
+    },
+    {
+      "question": "What is mentioned about finding the weights automatically in the log-linear framework?",
+      "context": "We will have a lecture on how to find the weights automatically later on.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7443181818181819
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the role of the language model in the log-linear framework?",
+      "context": "This section describes the feature function which represents the language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How does the log-linear framework handle the source side of the translation process?",
+      "context": "The idea is that the language model looks only at the target and disregards the source.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "How do the weights allow for a balance between the language model and translation model?",
+      "context": "These weights allow you to balance the mix of the components and...)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8084415584415585
+      }
+    }
+  ]
+}

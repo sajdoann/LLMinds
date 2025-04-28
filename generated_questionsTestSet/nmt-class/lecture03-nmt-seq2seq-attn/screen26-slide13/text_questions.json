@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main challenge with representing words as vectors?",
+      "context": "The introduction to word representation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How does a dense representation affect the system's behavior when dealing with similar words?",
+      "context": "The impact of vector size on the system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is an example of a situation where the system may reuse translations between words?",
+      "context": "An example of translation usage",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "Why might using a dense representation with smaller numbers result in better performance?",
+      "context": "The trade-offs of vector size and cardinality",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7898351648351648
+      }
+    },
+    {
+      "question": "What is the relationship between the distance to a word and its similarity to other words?",
+      "context": "The concept of dissimilarity",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6964285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main challenge with representing words as vectors?",
+      "context": "The introduction to word representation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Why might using a dense representation with smaller numbers result in better performance?",
+      "context": "The trade-offs of vector size and cardinality",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7898351648351648
+      }
+    },
+    {
+      "question": "How does a dense representation affect the system's behavior when dealing with similar words?",
+      "context": "The impact of vector size on the system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is an example of a situation where the system may reuse translations between words?",
+      "context": "An example of translation usage",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8166666666666667
+      }
+    }
+  ]
+}

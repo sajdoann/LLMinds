@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the key assumption behind phrase-based MTE?",
+      "context": "The assumption that sentences can be translated by translating short sequences of words independently of each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "How does the model decide on the number of phrases to break down the input sentence into?",
+      "context": "The model decides on the number of phrases 'on the go'.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "Can the word order change within individual phrases during translation?",
+      "context": "Multi-word expressions can do any reordering within those phrases as desired.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9147727272727273
+      }
+    },
+    {
+      "question": "What is the purpose of the segmentation in phrase-based MTE?",
+      "context": "To give different scores to different segmentations because the feature functions have three parameters: input sentence, output sentence, and segmentation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7761437908496732
+      }
+    },
+    {
+      "question": "What is the model actually searching for in phrase-based MTE?",
+      "context": "The best derivation of the output sentence from the segmented input.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the key assumption behind phrase-based MTE?",
+      "context": "The assumption that sentences can be translated by translating short sequences of words independently of each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "How does the model decide on the number of phrases to break down the input sentence into?",
+      "context": "The model decides on the number of phrases 'on the go'.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "What is the model actually searching for in phrase-based MTE?",
+      "context": "The best derivation of the output sentence from the segmented input.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7416666666666667
+      }
+    },
+    {
+      "question": "Can the word order change within individual phrases during translation?",
+      "context": "Multi-word expressions can do any reordering within those phrases as desired.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9147727272727273
+      }
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "all_questions": [
+    {
+      "question": "Who discovered the cell?",
+      "context": "He improved the design of the microscope and used it to study various objects, in particular the bark of the cork oak. Examining the cork with a microscope, Hooke saw cells (these were cell walls), which reminded him of monastic cells, and called them the English word cell (",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8598484848484849
+      }
+    },
+    {
+      "question": "Who formulated the cell theory?",
+      "context": "Finally, in 1839, Theodor Schwann (Fig. 9.2), comparing plant and animal cells and relying on Schleiden's conclusions, formulated the cell theory.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.865909090909091
+      }
+    },
+    {
+      "question": "What is electron microscopy?",
+      "context": "the development of cytology continued. This was facilitated by the emergence of new research methods — first electron microscopy, and then centrifugation and methods of molecular biology.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7786673553719008
+      }
+    },
+    {
+      "question": "What does electron microscopy allow you to study?",
+      "context": "The method allows you to study the ultrastructure of cells and all their organelles, surface structures of cells and intercellular contacts",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8511029411764706
+      }
+    },
+    {
+      "question": "What do optical microscopes allow you to study?",
+      "context": "The method allows you to study the shape and size of cells, the largest cell structures, organelles of movement, capsules and mucous layers",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8566836124401914
+      }
+    },
+    {
+      "question": "What is the main model that describes the structure of biological membranes?",
+      "context": "Due to the liquid-¬like nature of the lipids that form the membrane, proteins immersed in the lipid layer are quite mobile. Therefore, the model that describes the structure of the membrane is called the liquid-mosaic model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8005050505050505
+      }
+    },
+    {
+      "question": "What is the main function of biological membranes?",
+      "context": "Membranes are barriers with selective permeability that regulate the exchange of substances between the cell and the environment, as well as between individual components inside the cell.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7387654958677685
+      }
+    },
+    {
+      "question": "What type of transport occurs from an area with a high concentration of a substance to an area with its low concentration?",
+      "context": "Passive transport is carried out from an area with a high concentration of a substance to an area with its low concentration.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8890745692216281
+      }
+    },
+    {
+      "question": "What types of transport occur through simple diffusion?",
+      "context": "Passive transport Only passive transport of substances (oxygen, carbon dioxide) is carried out by simple diffusion",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.841112012987013
+      }
+    },
+    {
+      "question": "Through what process can water molecules be transported across the membrane?",
+      "context": "The transport of water through the membrane … It can also be carried out by special transport proteins. This is how small organic molecules (glucose, some amino acids, etc.) are transported.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8725420347677401
+      }
+    },
+    {
+      "question": "What type of transport involves exo- or endocytosis?",
+      "context": "Membrane transport into the cell is called endocytosis.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7869318181818181
+      }
+    },
+    {
+      "question": "What is the role of ATP molecules in relation to cell membranes?",
+      "context": "rgy of ATP molecules is used.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7774621212121212
+      }
+    },
+    {
+      "question": "What is unique about non-membranous organelles?",
+      "context": "Non-membranous organelles do not have plasma membranes in their structure. Their shape and structure are very diverse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8169981060606061
+      }
+    },
+    {
+      "question": "What is the primary function of microfilaments in the cytoskeleton?",
+      "context": "A significant part of the cytoskeleton is formed by microtubules from the protein tubulin and microfilaments from the protein actin",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.735479797979798
+      }
+    },
+    {
+      "question": "What are the main differences between eukaryotic and prokaryotic ribosomes?",
+      "context": "These types of ribosomes differ in some RNA and proteins that are part of their composition on the RNA molecule",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7921717171717172
+      }
+    },
+    {
+      "question": "What is the primary function of flagella in prokaryotic cells?",
+      "context": "Ensures the movement of prokaryotic cells",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6696969696969697
+      }
+    },
+    {
+      "question": "What organelle enables the movement of eukaryotic cells?",
+      "context": "Paired tubules, Ensure the movement of ¬eukaryotic cells",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "What is unique about the structure of flagella and cilia in eukaryotic cells compared to bacteria?",
+      "context": "Cilia and flagella. Ensuring cell movement Flagella and cilia of eukaryotic cells have a much more complex structure than flagella of bacteria",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.813052398989899
+      }
+    },
+    {
+      "question": "What is the function of microtubules in relation to the movement of organelles or vesicles?",
+      "context": "For example, so that chloroplasts are better illuminated by the sun's rays. This is provided by two mechanisms of intracellular movements. The first is carried out due to changes in the density of the cytosol and the flow of a more liquid substance to the desired place. The second occurs by dragging organelles or vesicles with the necessary substances along microtubules with special proteins",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8206293706293706
+      }
+    },
+    {
+      "question": "What is unique about the number of flagella in different types of bacteria?",
+      "context": "The number of flagella in different types of bacteria can be different. Thus, Vibrio cholerae has only one flagellum, while in Escherichia coli they are located throughout the surface of the cell",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8141835016835017
+      }
+    },
+    {
+      "question": "What types of organelles are present only in eukaryotic cells?",
+      "context": "Single-membrane and double-membrane organelles are divided into two large groups - membrane and non-membrane. Membrane organelles are separated from other parts of the cell by a membrane that covers them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7963636363636364
+      }
+    },
+    {
+      "question": "What is the function of the nucleolus?",
+      "context": "The nucleolus is the site of ribosome formation",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6390692640692641
+      }
+    },
+    {
+      "question": "What organelles are formed by the division of old mitochondria or plastids?",
+      "context": "nd plastids are formed only by the division of",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.77114898989899
+      }
+    },
+    {
+      "question": "What type of organelles have a single membrane that separates their contents from the cellular environment?",
+      "context": "lex (apparatus), the vacuole and the lysosome. They are covered with a single membrane that separates their contents from the cellular environment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8463068181818182
+      }
+    },
+    {
+      "question": "What organelles have two main types, agranular (smooth) and granular (rough),?",
+      "context": "Consists of a system of small vacuoles and tubules that are interconnected. There are two main types of endoplasmic reticulum - agranular (smooth) and granular (rough).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8801652892561984
+      }
+    },
+    {
+      "question": "What is the function of the granular endoplasmic reticulum?",
+      "context": "The main function of the granular endoplasmic reticulum is protein synthesis. In addition, it participates in the transport of proteins in the cell",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7423963903743316
+      }
+    },
+    {
+      "question": "What organelles are responsible for the modification of proteins and packaging of synthesized products into granules?",
+      "context": "Responsible for the modification of proteins, packaging of synthesized products into granules, synthesis of some polysaccharides, formation of the cell membrane, transport of substances synthesized",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.854585326953748
+      }
+    },
+    {
+      "question": "What is the structure of a dictyosomal system?",
+      "context": "Formed by the dictyosomal system. Dictyosomes have the form of columns of 5–20 flat ¬-membrane sacs (cisterns), which are distributed in the cytoplasm separately or are combined into one structure",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7689029720279721
+      }
+    },
+    {
+      "question": "What is the composition of digestive vacuoles?",
+      "context": "Depending on the composition of the liquid that fills it, it performs various functions. Digestive vacuoles of heterotrophs are responsible for the digestion of food.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7516233766233766
+      }
+    },
+    {
+      "question": "What is the main function of lysosomes?",
+      "context": "It has the appearance of a vesicle surrounded by a single membrane. Contains a set of enzymes. The Golgi apparatus synthesizes primary lysosomes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7346206425153794
+      }
+    },
+    {
+      "question": "What is the relationship between membrane organelles and their number of membranes?",
+      "context": "Membrane organelles of cells are divided into single-¬membrane and double-membrane. This division is carried out depending on how many membranes surround the organelle.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7790678524374176
+      }
+    },
+    {
+      "question": "What type of cells do not have two, but three and even four membranes?",
+      "context": "Chloroplasts of some algae have not two, but three and even four membranes!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8641358641358641
+      }
+    },
+    {
+      "question": "How many membranes surround the organelle nucleus?",
+      "context": "Two-¬¬membrane organelles are nuclei, mitochondria and plastids ¬.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8674918831168831
+      }
+    },
+    {
+      "question": "What is the difference in membrane organization between prokaryotic and eukaryotic cells?",
+      "context": "A characteristic feature that distinguishes prokaryotic cells from eukaryotic cells is the absence of a nucleus in their cells.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7764594474153298
+      }
+    },
+    {
+      "question": "How many membranes are present in the cytoplasm of a prokaryotic cell?",
+      "context": "Membrane organelles are absent in the cytoplasm, but the plasma membrane Fig. 13.1.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8258436639118457
+      }
+    },
+    {
+      "question": "What is unique about the structure of eukaryotic cell membranes?",
+      "context": "Their surface apparatus, in addition to the plasma membrane (plasmalemma), contains supramembrane and submembrane complexes.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7651515151515151
+      }
+    },
+    {
+      "question": "How many microns is the average size of prokaryotic cells?",
+      "context": "The average size of prokaryotic cells is from 0.1 to 10 microns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7831439393939394
+      }
+    },
+    {
+      "question": "What is the average size of eukaryotic cells?",
+      "context": "The internal component of the eukaryotic cell contains structures that are absent in prokaryotic organisms. These are single-membrane and double- ¬membrane\norganelles. The cytoskeleton in eukaryotic cells has a more complex ¬structure.\nThe complex internal structure of the cell, the presence of the cytoskeleton,\nnucleus and membrane organelles allow eukaryotic cells to reach much larger sizes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7448863636363636
+      }
+    },
+    {
+      "question": "Why do plant and fungal cells have a relatively sedentary lifestyle?",
+      "context": "Thus, plants and fungi lead a relatively sedentary lifestyle. They usually move at the stage of spores and seeds or perform growth movements (grow in the direction they need).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9182294977749523
+      }
+    },
+    {
+      "question": "What type of organelle is absent in animal cells?",
+      "context": "Features of the structure of cells of different groups of eukaryotes\nOrganelles and structures\nPlants Fungi Animals\nSupramembrane complex\nRepresented by glycocalyx (contains polysaccharides and proteins)\nRepresented by cell wall (contains cellulose)\nRepresented by\ncell wall (contains chitin or other polysaccharides)\nUsually one\nNucleus Usually one One, two (most often) or many nuclei",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8082801701222754
+      }
+    },
+    {
+      "question": "Why does the cell wall hinder movement in animal cells?",
+      "context": "But it significantly limits movement. And the excess weight of the cell wall will only hinder them during movement.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8540775401069518
+      }
+    },
+    {
+      "question": "What are the characteristic features of plant cells?",
+      "context": "The characteristics of plant cells are the presence of a cell wall and plastids.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7021780303030303
+      }
+    },
+    {
+      "question": "Why do animal cells not have vacuoles that reach large sizes?",
+      "context": "Vacuoles in them are small and usually do not reach large sizes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9142561983471075
+      }
+    },
+    {
+      "question": "What is the main difference between prokaryotic and eukaryotic cells?",
+      "context": "Prokaryotic cells do not contain a nucleus and membrane organelles.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7761363636363636
+      }
+    },
+    {
+      "question": "What is photosynthesis?",
+      "context": "photosynthesis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7803030303030303
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of transport occurs from an area with a high concentration of a substance to an area with its low concentration?",
+      "context": "Passive transport is carried out from an area with a high concentration of a substance to an area with its low concentration.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8890745692216281
+      }
+    },
+    {
+      "question": "Why do plant and fungal cells have a relatively sedentary lifestyle?",
+      "context": "Thus, plants and fungi lead a relatively sedentary lifestyle. They usually move at the stage of spores and seeds or perform growth movements (grow in the direction they need).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9182294977749523
+      }
+    },
+    {
+      "question": "What organelles have two main types, agranular (smooth) and granular (rough),?",
+      "context": "Consists of a system of small vacuoles and tubules that are interconnected. There are two main types of endoplasmic reticulum - agranular (smooth) and granular (rough).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8801652892561984
+      }
+    },
+    {
+      "question": "What is the function of microtubules in relation to the movement of organelles or vesicles?",
+      "context": "For example, so that chloroplasts are better illuminated by the sun's rays. This is provided by two mechanisms of intracellular movements. The first is carried out due to changes in the density of the cytosol and the flow of a more liquid substance to the desired place. The second occurs by dragging organelles or vesicles with the necessary substances along microtubules with special proteins",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8206293706293706
+      }
+    }
+  ]
+}

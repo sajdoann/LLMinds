@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is Eliter's goal?",
+      "context": "This is what we are trying now in our project, Eliter, as I mentioned.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7901785714285714
+      }
+    },
+    {
+      "question": "How does Eliter plan to present subtitles to a multilingual audience?",
+      "context": "We are producing subtitles in many languages at once.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8666666666666667
+      }
+    },
+    {
+      "question": "Why is it difficult to present multiple languages with limited space?",
+      "context": "And if you want to show these many languages to the multilingual audience, then you have very limited space for each of the languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9074675324675324
+      }
+    },
+    {
+      "question": "What is a potential better option than the current approach?",
+      "context": "And with this limited space, it is often difficult to squeeze in the information and to keep it stable. So maybe a better option.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8351190476190476
+      }
+    },
+    {
+      "question": "What is the concern about keeping subtitles stable?",
+      "context": "So maybe a better option.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is Eliter's goal?",
+      "context": "This is what we are trying now in our project, Eliter, as I mentioned.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7901785714285714
+      }
+    },
+    {
+      "question": "Why is it difficult to present multiple languages with limited space?",
+      "context": "And if you want to show these many languages to the multilingual audience, then you have very limited space for each of the languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9074675324675324
+      }
+    },
+    {
+      "question": "How does Eliter plan to present subtitles to a multilingual audience?",
+      "context": "We are producing subtitles in many languages at once.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8666666666666667
+      }
+    }
+  ]
+}

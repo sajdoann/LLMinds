@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of Google experiment is being described?",
+      "context": "Let's look at the results. It must not make things worse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7855113636363636
+      }
+    },
+    {
+      "question": "How does the multilingual system improve?",
+      "context": "Because there's always some improvement So we did get the hardware cost-saving",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is the benefit of having one model for two languages?",
+      "context": "And so it saves have the SERS case and it can translate into English",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "Why does the blind scores improve when translating from different languages to English?",
+      "context": "and it actually benefits because the blind scores into English are now.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8373397435897436
+      }
+    },
+    {
+      "question": "Is there any specific mention of the number of languages included in the multilingual system?",
+      "context": "It must not make things worse. So this is a Google experiment from 2016 and this multilingual system includes many languages at once or maybe just two in these setups",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8574270557029178
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any specific mention of the number of languages included in the multilingual system?",
+      "context": "It must not make things worse. So this is a Google experiment from 2016 and this multilingual system includes many languages at once or maybe just two in these setups",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8574270557029178
+      }
+    },
+    {
+      "question": "Why does the blind scores improve when translating from different languages to English?",
+      "context": "and it actually benefits because the blind scores into English are now.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8373397435897436
+      }
+    },
+    {
+      "question": "How does the multilingual system improve?",
+      "context": "Because there's always some improvement So we did get the hardware cost-saving",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is the benefit of having one model for two languages?",
+      "context": "And so it saves have the SERS case and it can translate into English",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7840909090909091
+      }
+    }
+  ]
+}

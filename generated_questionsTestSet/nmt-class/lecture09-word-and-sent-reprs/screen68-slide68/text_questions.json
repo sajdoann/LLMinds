@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the three classes of natural language inference tasks?",
+      "context": "So these, the natural language inference tasks has three classes whether one sentence is entailed in the other, whether they are neutral to each other, so they are about different things or whether they are in conflict with each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8185344827586207
+      }
+    },
+    {
+      "question": "What does it mean for two sentences to be in entailment relation?",
+      "context": "So that's the entailment. There is neutral, so there was a bad prediction. The couple is at a restaurant, a cute couple at a pub. So this should be again in entailment relation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7567934782608696
+      }
+    },
+    {
+      "question": "What happened when the system predicted that two sentences were neutral?",
+      "context": "The system which relied on your embeddings predicted that these sentences are neutral and that's wrong.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8117897727272727
+      }
+    },
+    {
+      "question": "How would a good performance in natural language inference tasks be measured?",
+      "context": "So in general, this is like a reasonably good performance because there was",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What does it mean for two sentences to be classified well on the inference task?",
+      "context": "And you need to classify pairs of sentence embeddings or sentences and the extent to which you classify this well will tell you how good your representation is for the inference task.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7634615384615384
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happened when the system predicted that two sentences were neutral?",
+      "context": "The system which relied on your embeddings predicted that these sentences are neutral and that's wrong.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8117897727272727
+      }
+    },
+    {
+      "question": "What are the three classes of natural language inference tasks?",
+      "context": "So these, the natural language inference tasks has three classes whether one sentence is entailed in the other, whether they are neutral to each other, so they are about different things or whether they are in conflict with each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8185344827586207
+      }
+    },
+    {
+      "question": "How would a good performance in natural language inference tasks be measured?",
+      "context": "So in general, this is like a reasonably good performance because there was",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8020833333333334
+      }
+    }
+  ]
+}

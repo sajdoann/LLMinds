@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of coordinates cannot be linearly combined to separate the center from the circumference?",
+      "context": "If you have unfortunate features, the X and Y coordinates, there is no way to linearly combine them to separate the center from the circumference.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8433441558441559
+      }
+    },
+    {
+      "question": "How do neural networks address issues with unlucky coordinates?",
+      "context": "But they first change the coordinates in some way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is a consequence of using unlucky coordinates directly in neural networks?",
+      "context": "If your coordinates are unfortunate and you use them directly, there is no way you can linearly separate that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "When are unlucky coordinates considered a 'lucky case'?",
+      "context": "We have seen the lucky case where we use the",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What does neural networks do when they can linearly separate centers from circumferences?",
+      "context": "So all what neural networks do is just linear separation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8788461538461538
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does neural networks do when they can linearly separate centers from circumferences?",
+      "context": "So all what neural networks do is just linear separation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8788461538461538
+      }
+    },
+    {
+      "question": "How do neural networks address issues with unlucky coordinates?",
+      "context": "But they first change the coordinates in some way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "When are unlucky coordinates considered a 'lucky case'?",
+      "context": "We have seen the lucky case where we use the",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    }
+  ]
+}

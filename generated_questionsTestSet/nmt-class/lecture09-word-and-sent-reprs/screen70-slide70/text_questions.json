@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is another measure of evaluating besides paraphrase style?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "How do many translations of a Chinese sentence relate to evaluation?",
+      "context": "And here is the paraphrase style of evaluation. So here we have two sources of data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8060064935064934
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between translations and paraphrases?",
+      "context": "So these many translations are in some way many paraphrases of the same sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8968531468531469
+      }
+    },
+    {
+      "question": "How do multiple sources of data relate to evaluation?",
+      "context": "We have discussed one of those already.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7757936507936508
+      }
+    },
+    {
+      "question": "What is the purpose of discussing two sources of data in the context of evaluation?",
+      "context": "That is the Chinese sentence and its many translations.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8159722222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do multiple sources of data relate to evaluation?",
+      "context": "We have discussed one of those already.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7757936507936508
+      }
+    },
+    {
+      "question": "What is the purpose of discussing two sources of data in the context of evaluation?",
+      "context": "That is the Chinese sentence and its many translations.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8159722222222222
+      }
+    },
+    {
+      "question": "How do many translations of a Chinese sentence relate to evaluation?",
+      "context": "And here is the paraphrase style of evaluation. So here we have two sources of data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8060064935064934
+      }
+    }
+  ]
+}

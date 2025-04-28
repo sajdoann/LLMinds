@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the benefit of learning a new phrase about a cat, okotse?",
+      "context": "Benefit that you get you are learning a new phrase about a cat, okotse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What is the purpose of extending the translation model to learn new forms of a noun word?",
+      "context": "So this is this is you are learning a new form of a noun word and you are extending the translation model to be able to offer the forms that the language model will then happily appreciate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7574404761904763
+      }
+    },
+    {
+      "question": "What would happen if the language model was not clever?",
+      "context": "If only your language model was clever you could not get the benefit.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8259615384615384
+      }
+    },
+    {
+      "question": "Why is it important to learn new forms of a noun word?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What does the author mean by 'happily appreciate'?",
+      "context": "the language model will then happily appreciate.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7276785714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What would happen if the language model was not clever?",
+      "context": "If only your language model was clever you could not get the benefit.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8259615384615384
+      }
+    },
+    {
+      "question": "What is the purpose of extending the translation model to learn new forms of a noun word?",
+      "context": "So this is this is you are learning a new form of a noun word and you are extending the translation model to be able to offer the forms that the language model will then happily appreciate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7574404761904763
+      }
+    },
+    {
+      "question": "What does the author mean by 'happily appreciate'?",
+      "context": "the language model will then happily appreciate.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7276785714285714
+      }
+    },
+    {
+      "question": "Why is it important to learn new forms of a noun word?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who has reused pictures from a blog post?",
+      "context": "And many people have done so.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.953125
+      }
+    },
+    {
+      "question": "What is being recommended to read in addition to the original text?",
+      "context": "I would very much recommend this blog post on Transformer Illustrated.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9090909090909091
+      }
+    },
+    {
+      "question": "How can one view an alternative representation of the paper's content?",
+      "context": "If you prefer the other view, the view from equations, then you can also read the paper annotated in PyTorch code.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9128787878787878
+      }
+    },
+    {
+      "question": "What is being referenced as a source of information about the Transformer Illustrated blog post?",
+      "context": "So I really like the pictures.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "Why might someone prefer reading the paper annotated in PyTorch code?",
+      "context": "then you can directly see how the paper maps ",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8712121212121212
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who has reused pictures from a blog post?",
+      "context": "And many people have done so.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.953125
+      }
+    },
+    {
+      "question": "What is being referenced as a source of information about the Transformer Illustrated blog post?",
+      "context": "So I really like the pictures.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "Why might someone prefer reading the paper annotated in PyTorch code?",
+      "context": "then you can directly see how the paper maps ",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8712121212121212
+      }
+    }
+  ]
+}

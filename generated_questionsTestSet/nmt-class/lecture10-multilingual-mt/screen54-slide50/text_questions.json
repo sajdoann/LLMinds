@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main focus of transfer learning?",
+      "context": "from the transfer learning setup",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "Why does maintaining performance across multiple languages complicate gains in transfer learning?",
+      "context": "maintaining the performance on other languages",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "Under what conditions did gains in transfer learning occur?",
+      "context": "across the many setups only in the case of where the target language was shared",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8782051282051282
+      }
+    },
+    {
+      "question": "What is an advantage of training independent systems when the target languages are distinct?",
+      "context": "then it was better to train the independent system",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "Why do multilingual systems remain interesting despite potential drawbacks?",
+      "context": "these multilingual systems are interesting",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9722222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main focus of transfer learning?",
+      "context": "from the transfer learning setup",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is an advantage of training independent systems when the target languages are distinct?",
+      "context": "then it was better to train the independent system",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "Why does maintaining performance across multiple languages complicate gains in transfer learning?",
+      "context": "maintaining the performance on other languages",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "Why do multilingual systems remain interesting despite potential drawbacks?",
+      "context": "these multilingual systems are interesting",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9722222222222222
+      }
+    }
+  ]
+}

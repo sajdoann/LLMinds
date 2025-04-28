@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "When did researchers start exploring machine translation methods using neural networks?",
+      "context": "Already during the last wave of neural network research in the 1980s and 1990s, machine translation was in the sight of researchers exploring these methods (Waibel et al., 1991).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7659090909090909
+      }
+    },
+    {
+      "question": "What were some of the challenges that hindered the adoption of neural network methods in machine translation?",
+      "context": "The use of GPUs for training also posed a challenge for many research groups that simply lacked such hardware or the experience to exploit it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8065217391304348
+      }
+    },
+    {
+      "question": "Who was one of the pioneering researchers in integrating neural language models into traditional statistical machine translation systems?",
+      "context": "The modern resurrection of neural methods in machine translation started with the integration of neural language models into traditional statistical machine translation systems. The pioneering work by Schwenk (2007) showed large improvements in public evaluation campaigns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.796455938697318
+      }
+    },
+    {
+      "question": "What was the result of using convolutional models and sequence-to-sequence models for neural machine translation?",
+      "context": "These were able to produce reasonable translations for short sentences, but fell apart with increasing sentence length.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8009453781512605
+      }
+    },
+    {
+      "question": "Why did the entire research field of machine translation shift to neural machine translation within a year or two?",
+      "context": "A year later, in 2016, a neural machine translation system won in almost all language pairs.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7857142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the result of using convolutional models and sequence-to-sequence models for neural machine translation?",
+      "context": "These were able to produce reasonable translations for short sentences, but fell apart with increasing sentence length.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8009453781512605
+      }
+    },
+    {
+      "question": "What were some of the challenges that hindered the adoption of neural network methods in machine translation?",
+      "context": "The use of GPUs for training also posed a challenge for many research groups that simply lacked such hardware or the experience to exploit it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8065217391304348
+      }
+    },
+    {
+      "question": "Why did the entire research field of machine translation shift to neural machine translation within a year or two?",
+      "context": "A year later, in 2016, a neural machine translation system won in almost all language pairs.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7857142857142857
+      }
+    }
+  ]
+}

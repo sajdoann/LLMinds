@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does a dependency tree represent?",
+      "context": "The head.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "How are the words in a dependency tree related?",
+      "context": "In dependency trees, you are representing only the relation between the words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7310606060606061
+      }
+    },
+    {
+      "question": "What is drawn in two different ways to represent a dependency tree?",
+      "context": "in one of these two ways.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "Why are there no non-terminal labels on the head of the dependency tree?",
+      "context": "The important thing is that there are no non-terminals in dependency tree.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What kind of nodes can appear in a dependency tree?",
+      "context": "There are only terminals. You are only indicating which words belong to which.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7681818181818182
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is drawn in two different ways to represent a dependency tree?",
+      "context": "in one of these two ways.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "How are the words in a dependency tree related?",
+      "context": "In dependency trees, you are representing only the relation between the words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7310606060606061
+      }
+    },
+    {
+      "question": "Why are there no non-terminal labels on the head of the dependency tree?",
+      "context": "The important thing is that there are no non-terminals in dependency tree.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8229166666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of using synchronous substitution grammars or synchronous context-free grammars in machine translation?",
+      "context": "This summary and the main point of this summary is to illustrate how the language model plays with the procedure.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7390625
+      }
+    },
+    {
+      "question": "How does the device of synchronous substitution grammars or synchronous context-free grammars work in machine translation?",
+      "context": "So you are given a source sentence in Chinese. You have these rules which have the left hand side for productions but in the right hand side they have the source side and target side.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7014285714285714
+      }
+    },
+    {
+      "question": "What is the difference between the processing style of this device compared to phrase-based MT?",
+      "context": "So in contrast to the left to right processing in phrase based MT where the input was digested in any order. And the output was produced left to right.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "How does the search space of possible parses work with this device?",
+      "context": "So in the CKW algorithm you also have the search space of possible parses. And these parses now are not only parses of the source but they are also constructions of the target.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the goal of integrating the left to right language model with this device?",
+      "context": "I'm going to use the same model. So you are searching over all the possible constructions of the target that are licensed by the gradual digestion of the parts of the input.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7455357142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of using synchronous substitution grammars or synchronous context-free grammars in machine translation?",
+      "context": "This summary and the main point of this summary is to illustrate how the language model plays with the procedure.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7390625
+      }
+    },
+    {
+      "question": "How does the search space of possible parses work with this device?",
+      "context": "So in the CKW algorithm you also have the search space of possible parses. And these parses now are not only parses of the source but they are also constructions of the target.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How does the device of synchronous substitution grammars or synchronous context-free grammars work in machine translation?",
+      "context": "So you are given a source sentence in Chinese. You have these rules which have the left hand side for productions but in the right hand side they have the source side and target side.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7014285714285714
+      }
+    },
+    {
+      "question": "What is the goal of integrating the left to right language model with this device?",
+      "context": "I'm going to use the same model. So you are searching over all the possible constructions of the target that are licensed by the gradual digestion of the parts of the input.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7455357142857143
+      }
+    }
+  ]
+}

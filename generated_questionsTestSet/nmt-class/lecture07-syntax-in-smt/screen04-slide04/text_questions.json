@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of model was the first to try and solve issues related to data capture?",
+      "context": "only captured in the data. So the hierarchical model was the first one that tried to solve or tackle some of these issues.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6333333333333333
+      }
+    },
+    {
+      "question": "What was a limitation of the first model?",
+      "context": "So the hierarchical model was the first one that tried to solve or tackle some of these issues.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5238970588235294
+      }
+    },
+    {
+      "question": "Why is it mentioned that the hierarchical model was simple?",
+      "context": "But it was a very simple model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8464285714285714
+      }
+    },
+    {
+      "question": "What kind of issues did the first model try to address through its design?",
+      "context": "So the hierarchical model was the first one that tried to solve or tackle some of these issues.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5819327731092437
+      }
+    },
+    {
+      "question": "Did the document provide information on how the issues were specifically addressed by the first model?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is it mentioned that the hierarchical model was simple?",
+      "context": "But it was a very simple model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8464285714285714
+      }
+    },
+    {
+      "question": "What kind of issues did the first model try to address through its design?",
+      "context": "So the hierarchical model was the first one that tried to solve or tackle some of these issues.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5819327731092437
+      }
+    },
+    {
+      "question": "What was a limitation of the first model?",
+      "context": "So the hierarchical model was the first one that tried to solve or tackle some of these issues.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5238970588235294
+      }
+    }
+  ]
+}

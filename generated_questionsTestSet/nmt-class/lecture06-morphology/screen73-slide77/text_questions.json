@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the context in which the word 'merge' appears in the document?",
+      "context": "And you proceed, the next merge will be... will be probably...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "What can be inferred about the speaker's tone or attitude towards the upcoming merge based on their use of the word 'probably'?",
+      "context": "And you proceed, the next merge will be... will be probably...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6625
+      }
+    },
+    {
+      "question": "What is the purpose of the document, given that it contains guidelines for generating questions about another document?",
+      "context": "IMPORTANT GUIDELINES: ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How many questions should be generated according to the guidelines in the document?",
+      "context": "1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What kind of analysis is required to answer this question: 'Can we infer that the speaker is being sarcastic or facetious when they say 'will be probably'?'?",
+      "context": "And you proceed, the next merge will be... will be probably...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.043478260869565216,
+        "diversity_score": 0.6730769230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the context in which the word 'merge' appears in the document?",
+      "context": "And you proceed, the next merge will be... will be probably...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "What can be inferred about the speaker's tone or attitude towards the upcoming merge based on their use of the word 'probably'?",
+      "context": "And you proceed, the next merge will be... will be probably...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6625
+      }
+    },
+    {
+      "question": "What kind of analysis is required to answer this question: 'Can we infer that the speaker is being sarcastic or facetious when they say 'will be probably'?'?",
+      "context": "And you proceed, the next merge will be... will be probably...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.043478260869565216,
+        "diversity_score": 0.6730769230769231
+      }
+    }
+  ]
+}

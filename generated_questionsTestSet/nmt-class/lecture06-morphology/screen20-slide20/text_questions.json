@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being referred to as 'Černé mu psovi'?",
+      "context": "And normally what you...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7222222222222222
+      }
+    },
+    {
+      "question": "Why are the sentences in accusative and dative cases used?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9625
+      }
+    },
+    {
+      "question": "What type of model is being referred to as 'factored models'?",
+      "context": "So here is again the benefit of using factored models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8511363636363636
+      }
+    },
+    {
+      "question": "What are the two sentence pairs mentioned in the document?",
+      "context": "We have a corpus of two sentence pairs.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9010416666666666
+      }
+    },
+    {
+      "question": "What is being discussed as a benefit of using factored models?",
+      "context": "And normally what you...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7613636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of model is being referred to as 'factored models'?",
+      "context": "So here is again the benefit of using factored models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8511363636363636
+      }
+    },
+    {
+      "question": "Why are the sentences in accusative and dative cases used?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9625
+      }
+    },
+    {
+      "question": "What are the two sentence pairs mentioned in the document?",
+      "context": "We have a corpus of two sentence pairs.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9010416666666666
+      }
+    },
+    {
+      "question": "What is being discussed as a benefit of using factored models?",
+      "context": "And normally what you...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7613636363636364
+      }
+    }
+  ]
+}

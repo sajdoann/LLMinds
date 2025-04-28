@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of experiment did Desmond Elliott conduct?",
+      "context": "He has...so in our experiments when we were using this English to Hindi translation, the challenge words that I was talking about, the penalty box, these words were translated perfectly even with a system that did not look at the images at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8061655405405406
+      }
+    },
+    {
+      "question": "What was the purpose of feeding multimodal systems with incorrect images?",
+      "context": "And along with the input sentence, such as two dogs play with an orange toy in a tall grass, he fed the modal either with the correct image, which is two dogs in the grass, or with a random wrong image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6958333333333333
+      }
+    },
+    {
+      "question": "How did different models respond to incorrect images?",
+      "context": "And that means that the image information was never used by those models. So the hierarchical model was the only one which...which really learned when to observe the image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the usefulness of images in multimodal systems?",
+      "context": "And it got a worse performance when the image was non-matching with the input text. So there are other papers where the images have not helped much.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7884615384615384
+      }
+    },
+    {
+      "question": "What is the significance of the hierarchical attention approach?",
+      "context": "So what he used was several multimodal systems. They were trained to consider the image. And along with the input sentence, such as two dogs play with an orange toy in a tall grass, he fed the modal either with the correct image, which is two dogs in the grass, or with a random wrong image.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7202380952380952
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of experiment did Desmond Elliott conduct?",
+      "context": "He has...so in our experiments when we were using this English to Hindi translation, the challenge words that I was talking about, the penalty box, these words were translated perfectly even with a system that did not look at the images at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8061655405405406
+      }
+    },
+    {
+      "question": "How did different models respond to incorrect images?",
+      "context": "And that means that the image information was never used by those models. So the hierarchical model was the only one which...which really learned when to observe the image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What was the purpose of feeding multimodal systems with incorrect images?",
+      "context": "And along with the input sentence, such as two dogs play with an orange toy in a tall grass, he fed the modal either with the correct image, which is two dogs in the grass, or with a random wrong image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6958333333333333
+      }
+    },
+    {
+      "question": "What is the significance of the hierarchical attention approach?",
+      "context": "So what he used was several multimodal systems. They were trained to consider the image. And along with the input sentence, such as two dogs play with an orange toy in a tall grass, he fed the modal either with the correct image, which is two dogs in the grass, or with a random wrong image.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7202380952380952
+      }
+    }
+  ]
+}

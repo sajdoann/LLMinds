@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Why do translation options explode when multiplying tables?",
+      "context": "Originally only 20 translation options per span were considered and now you can easily get to thousands of possible word forms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8950892857142857
+      }
+    },
+    {
+      "question": "What is the purpose of pruning in this context?",
+      "context": "You prune it, select only the best candidates already during the preparation of translation options and this is exactly the place where you need to think carefully about.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6705555555555556
+      }
+    },
+    {
+      "question": "What is the result of not pruning in this context?",
+      "context": "If that grows too far beyond the pruning limits then you will be dropping possible translations options that will be necessary for the correct wording of the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7364130434782609
+      }
+    },
+    {
+      "question": "What is the effect of not limiting the capability of the system?",
+      "context": "You are like limiting the capability of the system. You are dropping some of the candidates",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7247474747474747
+      }
+    },
+    {
+      "question": "Why is it important to think carefully about pruning and joint operation?",
+      "context": "This is exactly the place where you need to think carefully about.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do translation options explode when multiplying tables?",
+      "context": "Originally only 20 translation options per span were considered and now you can easily get to thousands of possible word forms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8950892857142857
+      }
+    },
+    {
+      "question": "What is the effect of not limiting the capability of the system?",
+      "context": "You are like limiting the capability of the system. You are dropping some of the candidates",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7247474747474747
+      }
+    },
+    {
+      "question": "What is the purpose of pruning in this context?",
+      "context": "You prune it, select only the best candidates already during the preparation of translation options and this is exactly the place where you need to think carefully about.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6705555555555556
+      }
+    },
+    {
+      "question": "Why is it important to think carefully about pruning and joint operation?",
+      "context": "This is exactly the place where you need to think carefully about.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

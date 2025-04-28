@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are considered 'functional words' in the context of identifying key terms?",
+      "context": "For that reason you will first identify functional words, these are all the auxiliaries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the purpose of identifying functional words?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "Can you provide an example of a 'functional word' from the given document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9230769230769231
+      }
+    },
+    {
+      "question": "How do functional words relate to identifying key terms?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What is an 'auxiliary' in the context of functional words?",
+      "context": "For that reason you will first identify functional words, these are all the auxiliaries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are considered 'functional words' in the context of identifying key terms?",
+      "context": "For that reason you will first identify functional words, these are all the auxiliaries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "Can you provide an example of a 'functional word' from the given document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9230769230769231
+      }
+    },
+    {
+      "question": "How do functional words relate to identifying key terms?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ]
+}

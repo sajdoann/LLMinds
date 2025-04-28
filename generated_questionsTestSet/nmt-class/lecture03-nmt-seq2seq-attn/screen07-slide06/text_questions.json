@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of transformation occurs when a vector of x and y coordinates is multiplied by a weight matrix W in a two-dimensional space?",
+      "context": "And one layer is capable of doing this these types of transformation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8198051948051948
+      }
+    },
+    {
+      "question": "How does the transposition governed by the bias vector affect the coordinate system?",
+      "context": "The transposition is governed by the bias vector. So the transposition slightly moves the coordinate system.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8049242424242424
+      }
+    },
+    {
+      "question": "What happens to the infinite canvas of coordinates when a non-linearity such as ReLU activation function is applied?",
+      "context": "And depending on the activation function on the non-linearity this squashing is different. So if we use 10h then this squashing will convert the infinite to infinite space to the space of minus 1 to plus 1 in both coordinates.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8208812260536398
+      }
+    },
+    {
+      "question": "How does the shape of the squashing affect the original plane of parallel and perpendicular lines?",
+      "context": "And the exact shape of the squashing was controlled by the values in the weight matrix and the the bias vector.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7871794871794872
+      }
+    },
+    {
+      "question": "What is the overall effect of a layer capable of performing this type of transformation?",
+      "context": "So we need to adjust the space of coordinates in a way that allows us to linearly separate the things that we want to separate.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.79375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of transformation occurs when a vector of x and y coordinates is multiplied by a weight matrix W in a two-dimensional space?",
+      "context": "And one layer is capable of doing this these types of transformation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8198051948051948
+      }
+    },
+    {
+      "question": "What happens to the infinite canvas of coordinates when a non-linearity such as ReLU activation function is applied?",
+      "context": "And depending on the activation function on the non-linearity this squashing is different. So if we use 10h then this squashing will convert the infinite to infinite space to the space of minus 1 to plus 1 in both coordinates.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8208812260536398
+      }
+    },
+    {
+      "question": "How does the transposition governed by the bias vector affect the coordinate system?",
+      "context": "The transposition is governed by the bias vector. So the transposition slightly moves the coordinate system.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8049242424242424
+      }
+    }
+  ]
+}

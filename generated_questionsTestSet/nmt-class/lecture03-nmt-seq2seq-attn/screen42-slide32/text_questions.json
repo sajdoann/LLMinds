@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the initial state of the encoder?",
+      "context": "The encoder is initialized with a vector of zeros.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6468253968253969
+      }
+    },
+    {
+      "question": "How does the encoder process each input word?",
+      "context": "So it is, so this is the simplest possible implementation. It will be one non-milarity over the scaled, somehow scaled previous state.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7779605263157895
+      }
+    },
+    {
+      "question": "What is the purpose of the weight matrix in the encoder?",
+      "context": "You have the xj which is the card input symbol. You embed it with an embedding matrix.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7111111111111111
+      }
+    },
+    {
+      "question": "How does the encoder transform the embedded representation of an input word into a continuous space?",
+      "context": "So you look up the embedding, the embedded representation of the input word and you use the weight matrix to digest that word to put that word into the continuous space.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8234848484848485
+      }
+    },
+    {
+      "question": "What is the output of the encoder after processing all words in the input sequence?",
+      "context": "And that is it. so you arrive at a state which represents the whole sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7211538461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the initial state of the encoder?",
+      "context": "The encoder is initialized with a vector of zeros.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6468253968253969
+      }
+    },
+    {
+      "question": "How does the encoder process each input word?",
+      "context": "So it is, so this is the simplest possible implementation. It will be one non-milarity over the scaled, somehow scaled previous state.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7779605263157895
+      }
+    },
+    {
+      "question": "How does the encoder transform the embedded representation of an input word into a continuous space?",
+      "context": "So you look up the embedding, the embedded representation of the input word and you use the weight matrix to digest that word to put that word into the continuous space.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8234848484848485
+      }
+    }
+  ]
+}

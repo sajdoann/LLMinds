@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the task being performed by the deep network in the illustration?",
+      "context": "The task here is again classification.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7462121212121212
+      }
+    },
+    {
+      "question": "How do the neurons in the first hidden layer operate?",
+      "context": "they draw separation boundaries and color separation boundaries",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "What is the purpose of having multiple layers in the network?",
+      "context": "the sequence of layers is trained automatically so that it observes the relevant distinguishing features for the final classification.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8007352941176471
+      }
+    },
+    {
+      "question": "How does the number of neurons in each layer affect the network's performance?",
+      "context": "The network has some capacity because we specify how many neurons we have.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is being approximated by the network using the lines in the lower layer?",
+      "context": "so we know how to approximate a circle with three lines and so on.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8052884615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the task being performed by the deep network in the illustration?",
+      "context": "The task here is again classification.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7462121212121212
+      }
+    },
+    {
+      "question": "How do the neurons in the first hidden layer operate?",
+      "context": "they draw separation boundaries and color separation boundaries",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "How does the number of neurons in each layer affect the network's performance?",
+      "context": "The network has some capacity because we specify how many neurons we have.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ]
+}

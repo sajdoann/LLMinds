@@ -1,0 +1,963 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a genotype?",
+      "context": "A genotype is a system of genes in an organism that are manifested in the phenotype.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7208994708994709
+      }
+    },
+    {
+      "question": "What is an allele?",
+      "context": "An allele is one of the possible variants of gene manifestation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7530864197530864
+      }
+    },
+    {
+      "question": "What are the possible forms a gene can have?",
+      "context": "are also genes with two, three or many alleles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8607681755829903
+      }
+    },
+    {
+      "question": "How do alleles of one gene interact with each other?",
+      "context": "Alleles of one gene can interact with each other. In this case, one of them may not show its effect in the presence of the other or may show it incompletely.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.9026748971193416
+      }
+    },
+    {
+      "question": "What is Population statistical?",
+      "context": "Consists in the study of the frequency of occurrence of various alleles in populations of organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7770763187429854
+      }
+    },
+    {
+      "question": "When did biochemical, cytogenetic and population-statistical methods enter scientific practice?",
+      "context": "already in the 20th century, after the appropriate technologies of biochemical and mathematical analysis and chromosome staining appeared.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9256944444444445
+      }
+    },
+    {
+      "question": "What is the twin method used for?",
+      "context": "in European countries from the pedigrees of horses and dogs of different breeds.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7957818930041152
+      }
+    },
+    {
+      "question": "What is incomplete dominance?",
+      "context": "Incomplete dominance A heterozygote has an intermediate manifestation of the trait compared to the manifestation of this trait in a dominant and recessive homozygote",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7754223521767382
+      }
+    },
+    {
+      "question": "What is codominance?",
+      "context": "[... blood group AB ...] [... blood group 0 ...]",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8014403292181069
+      }
+    },
+    {
+      "question": "What is the law of uniformity of first-generation hybrids?",
+      "context": "The law of uniformity of first-generation hybrids",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7698045267489713
+      }
+    },
+    {
+      "question": "What happens to the genotypes and phenotypes of second-generation hybrids when first-generation hybrids are crossed with each other?",
+      "context": "When hybrids of the first generation are crossed with each other, individuals with the phenotypes of the original parental forms and hybrids of the first generation will appear in certain proportions among the hybrids of the second generation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8692356572258533
+      }
+    },
+    {
+      "question": "What is the ratio of genotypes and phenotypes in the second-generation hybrids?",
+      "context": "The splitting by genotype: ab : AaBbAabbaaBb, and by phenotype: 1 (AABB) : 4 (AaBb), 2 (AABb) : 2 (AaBB), 1 (aaBB) : 2 (Aabb)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8479637646304313
+      }
+    },
+    {
+      "question": "What do capital letters denote in cross-breeding schemes?",
+      "context": "Capital letters denote dominant alleles, and lowercase letters denote recessive alleles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8996056241426612
+      }
+    },
+    {
+      "question": "How are genotypic formulas arranged when there are a few genes involved?",
+      "context": "If genes are a few, then they in recording are arranged in alphabetical order.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9122708567153012
+      }
+    },
+    {
+      "question": "What is an analytical cross?",
+      "context": "Analytical cross is a cross of an individual with an unknown genotype with an individual homozygous for the recessive alleles of all the genes under study.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.806367771280052
+      }
+    },
+    {
+      "question": "What type of traits are determined by one gene?",
+      "context": "Traits that are determined by one gene are called monogenic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8786008230452675
+      }
+    },
+    {
+      "question": "What is epistasis?",
+      "context": "In the case of epistatic interaction of genes, the dominant or recessive allele of one gene suppresses the manifestation of the dominant allele of the other gene.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.738077947228274
+      }
+    },
+    {
+      "question": "What is complementarity in gene interaction?",
+      "context": "During complementary gene interaction, the development of a trait occurs only in the case when each of the non-allelic genes has at least one dominant allele.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8137860082304527
+      }
+    },
+    {
+      "question": "What happens to an individual with both genes in the recessive homozygote state?",
+      "context": "An individual with both genes in the recessive homozygote state will have elongated fruits.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.856294939628273
+      }
+    },
+    {
+      "question": "What determines the manifestation of a trait in polymeric interaction of genes?",
+      "context": "The presence of at least one dominant allele in any of several genes is necessary for the manifestation of a trait.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8249158249158249
+      }
+    },
+    {
+      "question": "How many dominant alleles determine the intensity of seed color in wheat?",
+      "context": "The more dominant alleles, the greater the intensity of the red color.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8727709190672154
+      }
+    },
+    {
+      "question": "How many linkage groups are in humans?",
+      "context": "The number of linkage groups in organisms of a certain species is equal to the number of chromosomes in a single (haploid) set, which is contained in the sex cells. For example, in Drosophila there are 4 of them, in cats - 19, and in humans - 23.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8960732441124598
+      }
+    },
+    {
+      "question": "What determines the number of linkage groups in a species?",
+      "context": "The number of linkage groups in organisms of a certain species is equal to the number of chromosomes in a single (haploid) set, which is contained in the sex cells.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8197236919459141
+      }
+    },
+    {
+      "question": "What is the relationship between wing shape and body color in terms of inheritance?",
+      "context": "Black color ( a ) and rudimentary wings ( b ) are determined by recessive alleles, and gray body ( A ) and long wings ( B ) are dominant.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8786498138349991
+      }
+    },
+    {
+      "question": "What is linked inheritance?",
+      "context": "An example of linked inheritance of genes can be the inheritance of two traits in the fruit fly Drosophila - body color and wing shape.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.786522633744856
+      }
+    },
+    {
+      "question": "What is the haploid number of chromosomes in Drosophila?",
+      "context": "— The haploid number of chromosomes is constant for each species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7845117845117845
+      }
+    },
+    {
+      "question": "Why did crossover occur between homologous chromosomes in Drosophila hybrids?",
+      "context": "This was a consequence of crossover. You already know that crossover is the exchange of sections of homologous chromatids during meiosis.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9175763482781026
+      }
+    },
+    {
+      "question": "What happens to linked genes when crossover occurs?",
+      "context": "- Traits determined by linked genes are also inherited linked.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8973765432098766
+      }
+    },
+    {
+      "question": "What is a crossover?",
+      "context": "Gametes in which crossover has occurred are called crossover.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7788065843621399
+      }
+    },
+    {
+      "question": "Who are the individuals that have haploid sex chromosomes in bees and ants?",
+      "context": "in bees and ants, haploid individuals are males, and diploid individuals are females.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8937796771130104
+      }
+    },
+    {
+      "question": "What is a linkage group of genes in one chromosome?",
+      "context": "Genes contained in one chromosome form the so-called linkage group and are ¬inherited together.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8092592592592592
+      }
+    },
+    {
+      "question": "What determines the sex of an organism?",
+      "context": "external conditions (if a bonellia worm larva is at the bottom of the ocean, it develops into a female, and if it is on a female proboscis, then a male), the ploidy of the organism (in bees and ants, haploid individuals are males, and diploid individuals are females), or special sex chromosomes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8378781712115045
+      }
+    },
+    {
+      "question": "What is the typical size difference between two sex chromosomes?",
+      "context": "If there are two sex chromosomes, then they usually differ in size (one large, the other small).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.861038489469862
+      }
+    },
+    {
+      "question": "Why do some individuals of different sexes have one large and one small chromosome?",
+      "context": "individuals of different sexes have either two large chromosomes (homogametic sex), or one large and one small (heterogametic sex).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7857142857142857,
+        "diversity_score": 0.9194179096139881
+      }
+    },
+    {
+      "question": "What is the designation for a large chromosome?",
+      "context": "a large chromosome can be designated by the letter X, and a small one by the letter Y.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8196649029982364
+      }
+    },
+    {
+      "question": "In what organisms is the homogametic sex typically female?",
+      "context": "in mammals and flies, the homogametic sex is female (its representatives have two X chromosomes, genotype — XX), and the heterogametic sex is male (its representatives have one X and one Y chromosome, genotype — XY).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8433641975308642
+      }
+    },
+    {
+      "question": "What are sex-linked genes called?",
+      "context": "Genes located in sex chromosomes are called sex-linked genes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8262002743484225
+      }
+    },
+    {
+      "question": "Why do individuals with one allele of a certain gene exhibit the gene's phenotype?",
+      "context": "A hemizygous is a diploid individual that has only one allele of a certain gene. This condition arises due to the fact that individuals of one sex have two different sex chromosomes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8913987247320581
+      }
+    },
+    {
+      "question": "What happens when an individual has recessive alleles of X chromosome genes?",
+      "context": "Because of this, even recessive alleles of the X chromosome genes will manifest themselves in the phenotype, because there is no second chromosome with a dominant allele.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8713544462336733
+      }
+    },
+    {
+      "question": "Why do recessive alleles of X chromosome genes manifest themselves in males?",
+      "context": "Because there is no second chromosome with a dominant allele.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9002057613168725
+      }
+    },
+    {
+      "question": "What determines the future sex of an organism in mammals?",
+      "context": "One of the most common ways to determine the future sex of an organism. In mammals, males have sex chromosomes XY, and females have XX.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8333039388594944
+      }
+    },
+    {
+      "question": "What is the notation for male and female genotypes in some animals?",
+      "context": "ZZ and Z 0 and X 0 and XX, respectively (the number 0 in the notation means the absence of the second pair of chromosomes).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8513374485596708
+      }
+    },
+    {
+      "question": "Why do genes located on the Y chromosome manifest themselves directly through males?",
+      "context": "They are transmitted directly from male to male.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9305555555555556
+      }
+    },
+    {
+      "question": "What are sex-linked genes?",
+      "context": "Genes located in sex chromosomes are called sex-linked genes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8067558299039781
+      }
+    },
+    {
+      "question": "How do genes interact with each other?",
+      "context": "You already know that genetics studies. Recall what patterns do Mendel's laws describe. How do genes interact with each other? What consequences does crossover lead to?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.951058201058201
+      }
+    },
+    {
+      "question": "What is the difference between hereditary and non-hereditary variability?",
+      "context": "Geneticists distinguish two main forms of variability - hereditary (genotypic) and non-hereditary (modification or phenotypic). Changes that occur in the case of hereditary variability are transmitted to descendants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8378600823045268
+      }
+    },
+    {
+      "question": "What is modification variability?",
+      "context": "Non-hereditary variability is also called phenotypic or modification. Modifications are phenotypic changes that occur under the influence of environmental conditions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7937784275503574
+      }
+    },
+    {
+      "question": "What are the three processes involved in combinatorial variation in eukaryotes?",
+      "context": "In eukaryotes that reproduce sexually, combinatorial variation is achieved as a result of three processes: — independent divergence of chromosomes during meiosis; — random combination of gametes during fertilization; — recombination of genes due to crossing over.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8750099561927519
+      }
+    },
+    {
+      "question": "What are the mechanisms of combinatorial variation in prokaryotes?",
+      "context": "Combinatorial variation occurs not only in eukaryotes, which carry it out during sexual reproduction. Microorganisms that reproduce asexually have also developed special mechanisms of combinatorial variation. These are conjugation, transduction, and transformation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8519846010885437
+      }
+    },
+    {
+      "question": "What is the process called when a bacteriophage transfers DNA from one bacterial cell to another?",
+      "context": "Transduction is the transfer of bacterial genes from one cell to another by a bacteriophage. When bacteriophages multiply in a cell, some of the viral particles contain DNA from bacteria, not viruses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8796847442680776
+      }
+    },
+    {
+      "question": "What is transduction?",
+      "context": "Transduction is the transfer of bacterial genes from one cell to another by a bacteriophage.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7172839506172839
+      }
+    },
+    {
+      "question": "What is heterosis?",
+      "context": "heterosis (Greek heterosis - modification, transformation), or 'hybrid force', can be observed in the first generation in the case of hybridization between representatives of different species or varieties.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7591697978171408
+      }
+    },
+    {
+      "question": "What is mutational variability?",
+      "context": "Mutational variability arises as a result of changes in the structure or number or location of DNA molecules.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7762345679012346
+      }
+    },
+    {
+      "question": "What does a mutation cause?",
+      "context": "They arise suddenly and sometimes give the organism significant differences from its original form.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8609347442680776
+      }
+    },
+    {
+      "question": "Why are some mutations transmitted to descendants?",
+      "context": "If the repair mechanisms do not cope with the task, then a DNA change occurs, which will be transmitted to descendants.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9239858906525573
+      }
+    },
+    {
+      "question": "What is the main difference between non-hereditary variability and mutagenic traits?",
+      "context": "Unlike non-hereditary variability, mutagenic traits do not form continuous series and do not form continuous series.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8942199775533108
+      }
+    },
+    {
+      "question": "Can the same mutation occur repeatedly?",
+      "context": "The same mutations can occur repeatedly.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8981481481481481
+      }
+    },
+    {
+      "question": "What is heteroploidy?",
+      "context": "Heteroploidy is a change in the number of chromosomes that is not a multiple of the haploid set.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7070840681951793
+      }
+    },
+    {
+      "question": "What are mutagenic factors?",
+      "context": "Mutagenic factors are capable of inducing a mutational effect and include physical (X-ray and other radiation, ultrasound, temperature, etc.), chemical (chemical compounds) and biological (viruses, toxins).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8461934156378601
+      }
+    },
+    {
+      "question": "What is polyploidy?",
+      "context": "Polyploidy is an increase in the number of chromosomes by adding entire chromosome sets as a result of a violation of meiosis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.729153129737925
+      }
+    },
+    {
+      "question": "What are the three main types of mutagenic factors?",
+      "context": "physical, chemical and biological",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8542524005486969
+      }
+    },
+    {
+      "question": "Why do some embryos with chromosomal disorders survive to birth?",
+      "context": "Because they have trisomies on the 13th (Patau syndrome), 18th (Edwards syndrome) and 21st (Down syndrome) chromosomes.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.934645061728395
+      }
+    },
+    {
+      "question": "What is a significant threat to humans as mutagens?",
+      "context": "smoking, alcohol and drug use",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8844993141289438
+      }
+    },
+    {
+      "question": "What are some examples of chromosomal disorders in humans that result from trisomy?",
+      "context": "Infants with trisomies on the 13th (Patau syndrome), 18th (Edwards syndrome) and 21st (Down syndrome) chromosomes survive to birth.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8884404347367311
+      }
+    },
+    {
+      "question": "What is a characteristic of Patau syndrome?",
+      "context": "Patients with Patau syndrome have significant developmental anomalies of various body systems and live very short lives.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.838209357817201
+      }
+    },
+    {
+      "question": "How do patients with Down syndrome typically fare in terms of life expectancy?",
+      "context": "Patients with Down syndrome (Fig. 35.1) live longer but have health problems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9465811965811965
+      }
+    },
+    {
+      "question": "What type of disease does hemophilia represent?",
+      "context": "Hemophilia is an example of a sex-linked genetic disease.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8414658044287674
+      }
+    },
+    {
+      "question": "What can be detected through newborn examination?",
+      "context": "Examination of newborns is very important. With the help of a simple test, you can detect phenylketonuria at an early stage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8855820105820106
+      }
+    },
+    {
+      "question": "What genetic disease affects the perception of color?",
+      "context": "Color blindness Occurs as a result of damage to one of the three genes responsible for the synthesis of the opsin protein, which perceives the corresponding color.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8475729517396184
+      }
+    },
+    {
+      "question": "Why are hereditary human diseases difficult to cure?",
+      "context": "Hereditary human diseases are much easier to prevent than to cure.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9507716049382716
+      }
+    },
+    {
+      "question": "What is genetic counseling used for?",
+      "context": "To prevent hereditary diseases, a system of genetic counseling has been created.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8487654320987654
+      }
+    },
+    {
+      "question": "What type of molecules does molecular genetics work mainly with?",
+      "context": "Molecular genetic methods work mainly with DNA and protein molecules.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9098765432098765
+      }
+    },
+    {
+      "question": "What is the expected outcome when a plant with the genotype AA (red petals) is crossed with a plant with the genotype a-a (white petals)?",
+      "context": "A plant with red and a plant with white petals were crossed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8861857500201726
+      }
+    },
+    {
+      "question": "What will be the genotypes of the hybrids in the second generation?",
+      "context": "If the hybrids of the first generation from this cross are crossed with individuals with the genotype aa , then among their descendants:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8453703703703703
+      }
+    },
+    {
+      "question": "What is the correct genotype for a plant with pink petals?",
+      "context": "d) 25% will have white petals, 50% will have pink petals, 25% will have red petals",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.895679012345679
+      }
+    },
+    {
+      "question": "What is the correct genotype for a tall plant with yellow fruits?",
+      "context": "In both cases, the dominance is complete.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8156966490299824
+      }
+    },
+    {
+      "question": "How many dwarf plants with yellow fruits will be in the second generation hybrids?",
+      "context": "Among the first generation hybrids, all will be: b) dwarf with yellow fruits",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.9143603310269977
+      }
+    },
+    {
+      "question": "What is the probability of tall plants with yellow fruits among the descendants of the first generation hybrids?",
+      "context": "If the first generation hybrids from this cross are crossed with individuals with the genotype aabb , then among their descendants, tall plants with yellow fruits will be: c) 3/16",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8903063557384545
+      }
+    },
+    {
+      "question": "What type of organism exhibits the property of changing its organization and acquiring new characteristics?",
+      "context": "The property of an organism to change its organization, as well as acquire new characteristics in the process of individual development:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8805114638447972
+      }
+    },
+    {
+      "question": "Who formulated the laws of heredity?",
+      "context": "G. Mendel formulated the laws of heredity, having traced: b) with Drosophila",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8698559670781894
+      }
+    },
+    {
+      "question": "How many linkage groups are in Drosophila?",
+      "context": "Drosophila has four pairs of chromosomes in somatic cells. Therefore, the number of linkage groups in Drosophila is: c) 8",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8910156655254695
+      }
+    },
+    {
+      "question": "Which human chromosome contains the smallest number of genes?",
+      "context": "The smallest number of genes among human chromosomes is contained in: b) X-chromosome",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8694734620660547
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What do capital letters denote in cross-breeding schemes?",
+      "context": "Capital letters denote dominant alleles, and lowercase letters denote recessive alleles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8996056241426612
+      }
+    },
+    {
+      "question": "How do patients with Down syndrome typically fare in terms of life expectancy?",
+      "context": "Patients with Down syndrome (Fig. 35.1) live longer but have health problems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9465811965811965
+      }
+    },
+    {
+      "question": "When did biochemical, cytogenetic and population-statistical methods enter scientific practice?",
+      "context": "already in the 20th century, after the appropriate technologies of biochemical and mathematical analysis and chromosome staining appeared.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9256944444444445
+      }
+    },
+    {
+      "question": "How do genes interact with each other?",
+      "context": "You already know that genetics studies. Recall what patterns do Mendel's laws describe. How do genes interact with each other? What consequences does crossover lead to?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.951058201058201
+      }
+    },
+    {
+      "question": "Why are some mutations transmitted to descendants?",
+      "context": "If the repair mechanisms do not cope with the task, then a DNA change occurs, which will be transmitted to descendants.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9239858906525573
+      }
+    }
+  ]
+}

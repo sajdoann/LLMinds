@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'morphology' refer to in the context of neural machine translation?",
+      "context": "So let's now look at morphology in neural machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Can we infer what aspect of language is being focused on in this section of the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is there any information provided about the specific techniques or methods used in neural machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8359375
+      }
+    },
+    {
+      "question": "What can be concluded about the scope of this section based on its title?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8839285714285714
+      }
+    },
+    {
+      "question": "Is there any information provided about potential challenges or limitations in neural machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be concluded about the scope of this section based on its title?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8839285714285714
+      }
+    },
+    {
+      "question": "Can we infer what aspect of language is being focused on in this section of the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is there any information provided about potential challenges or limitations in neural machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    }
+  ]
+}

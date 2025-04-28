@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the current issue with divorces in Europe?",
+      "context": "We have a beautiful Europe in which people are moving more and more. We have a Europe in which more and more binational marriages are taking place, or couples are moving to another country. And that is a wonderful thing. That is the success of the European Union. But unfortunately, this success also has a downside: these marriages keep breaking up. And then it's about the divorces that have to take place.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8349881796690307
+      }
+    },
+    {
+      "question": "Why does the European Parliament propose an alternative solution for couples who cannot agree on the law to be applied?",
+      "context": "Here we say that the freedom of choice cannot be so great, because we have to ensure that there is a catalogue. We cannot accept forum shopping. We cannot accept a free choice where the stronger party in the partnership chooses which law is the most favourable for me and the other party is at a disadvantage.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7364473684210526
+      }
+    },
+    {
+      "question": "What happens if a couple cannot agree on the law to be applied during a divorce?",
+      "context": "We cannot accept forum shopping. We cannot accept a free choice where the stronger party in the partnership chooses which law is the most favourable for me and the other party is at a disadvantage.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7041025641025641
+      }
+    },
+    {
+      "question": "Why does the European Union have restrictions on certain laws being applied during divorces?",
+      "context": "I'm thinking of Sharia law, Chinese law or whatever. And here we have also found clear formulations, which we have written into motions 25 and 30 in particular, which I have tried to reinforce in my motion number 36, that the law in force must actually only be able to comply with the fundamental principles of the European Union.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8098784194528875
+      }
+    },
+    {
+      "question": "Why has a committee put an oral question to the Council and the European Commission?",
+      "context": "that is why we in our committee have put this oral question to the Council and the European Commission.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.692063492063492
+      }
+    },
+    {
+      "question": "What are the reasons for putting an oral question to the European Commission?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the current issue with divorces in Europe?",
+      "context": "We have a beautiful Europe in which people are moving more and more. We have a Europe in which more and more binational marriages are taking place, or couples are moving to another country. And that is a wonderful thing. That is the success of the European Union. But unfortunately, this success also has a downside: these marriages keep breaking up. And then it's about the divorces that have to take place.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8349881796690307
+      }
+    },
+    {
+      "question": "Why does the European Parliament propose an alternative solution for couples who cannot agree on the law to be applied?",
+      "context": "Here we say that the freedom of choice cannot be so great, because we have to ensure that there is a catalogue. We cannot accept forum shopping. We cannot accept a free choice where the stronger party in the partnership chooses which law is the most favourable for me and the other party is at a disadvantage.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7364473684210526
+      }
+    },
+    {
+      "question": "What happens if a couple cannot agree on the law to be applied during a divorce?",
+      "context": "We cannot accept forum shopping. We cannot accept a free choice where the stronger party in the partnership chooses which law is the most favourable for me and the other party is at a disadvantage.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7041025641025641
+      }
+    }
+  ]
+}

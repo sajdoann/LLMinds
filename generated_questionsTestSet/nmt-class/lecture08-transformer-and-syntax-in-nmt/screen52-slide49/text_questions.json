@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the goal of translating the source into English?",
+      "context": "the results. It was translation from Czech into English and we measure the quality of the translation,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "How did the transformer model perform in comparison to the baseline when trained with additional parse information?",
+      "context": "the best improvement is requiring the parse on the layer one. So if the network is trained so that right after the words, head number one considers the dependence of each word...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "Why did the network perform better when it was forced to predict the parse earlier?",
+      "context": "So if you want to... if you have to implement a dependency parser and you don't want to implement your own but you have your training data ready, you can use just the transformer model, train it to translate and train it to predict the parse on the way and it will it will quite succeed in that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8556949806949807
+      }
+    },
+    {
+      "question": "What type of information did the experiment find was beneficial for the neural network?",
+      "context": "And then we tried another thing and this is again the same idea as the replacing linguists with dummies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8257918552036199
+      }
+    },
+    {
+      "question": "What layer of the transformer model produced the best parses?",
+      "context": "The parses that the network produces at the layer one are not the best ones. The best ones are actually from layer four or five.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the goal of translating the source into English?",
+      "context": "the results. It was translation from Czech into English and we measure the quality of the translation,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What layer of the transformer model produced the best parses?",
+      "context": "The parses that the network produces at the layer one are not the best ones. The best ones are actually from layer four or five.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How did the transformer model perform in comparison to the baseline when trained with additional parse information?",
+      "context": "the best improvement is requiring the parse on the layer one. So if the network is trained so that right after the words, head number one considers the dependence of each word...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.83125
+      }
+    }
+  ]
+}

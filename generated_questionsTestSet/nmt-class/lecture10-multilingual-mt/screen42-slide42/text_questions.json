@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of corpora did Orhan Ferrat work with in his experiment?",
+      "context": "Orhan Ferrat in two papers in 2016 did an experiment with corpora",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8001893939393939
+      }
+    },
+    {
+      "question": "How many types of encoders and decoders was Orhan Ferrat trying to train?",
+      "context": "So he was trying to train N encoders and N decoders",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6586538461538461
+      }
+    },
+    {
+      "question": "What was the main question that Orhan Ferrat was trying to answer in his experiment?",
+      "context": "the main question was what to do with attention there",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "How many pairs of bilingual corpora did Orhan Ferrat work with?",
+      "context": "And the main question was what to do with attention there",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6477272727272727
+      }
+    },
+    {
+      "question": "What were Orhan Ferrat's goals for training multiple encoders and decoders?",
+      "context": "So he was trying to train N encoders and N decoders so multiple not only multiple source sites but also multiple target sites",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8049242424242424
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of corpora did Orhan Ferrat work with in his experiment?",
+      "context": "Orhan Ferrat in two papers in 2016 did an experiment with corpora",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8001893939393939
+      }
+    },
+    {
+      "question": "What were Orhan Ferrat's goals for training multiple encoders and decoders?",
+      "context": "So he was trying to train N encoders and N decoders so multiple not only multiple source sites but also multiple target sites",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8049242424242424
+      }
+    },
+    {
+      "question": "How many types of encoders and decoders was Orhan Ferrat trying to train?",
+      "context": "So he was trying to train N encoders and N decoders",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6586538461538461
+      }
+    },
+    {
+      "question": "How many pairs of bilingual corpora did Orhan Ferrat work with?",
+      "context": "And the main question was what to do with attention there",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6477272727272727
+      }
+    }
+  ]
+}

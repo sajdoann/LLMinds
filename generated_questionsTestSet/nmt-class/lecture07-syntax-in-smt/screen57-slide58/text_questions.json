@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of information do the text-organic notes have that should not be lost?",
+      "context": "The introduction to the problem in practice",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6011904761904762
+      }
+    },
+    {
+      "question": "What is the purpose of the additional labels and attributes added to the notes?",
+      "context": "The description of how the information is stored",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7886904761904763
+      }
+    },
+    {
+      "question": "How does the STSG approach treat the notes in comparison to other approaches?",
+      "context": "The introduction to the problem in practice",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6145833333333333
+      }
+    },
+    {
+      "question": "What type of variation is reflected by the morphological change or some auxiliaries in the input sentence?",
+      "context": "The description of the types of variation reflected",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "Why are the notes not stored in a tree structure?",
+      "context": "The introduction to the problem in practice",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5958333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of information do the text-organic notes have that should not be lost?",
+      "context": "The introduction to the problem in practice",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6011904761904762
+      }
+    },
+    {
+      "question": "What is the purpose of the additional labels and attributes added to the notes?",
+      "context": "The description of how the information is stored",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7886904761904763
+      }
+    },
+    {
+      "question": "How does the STSG approach treat the notes in comparison to other approaches?",
+      "context": "The introduction to the problem in practice",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6145833333333333
+      }
+    },
+    {
+      "question": "What type of variation is reflected by the morphological change or some auxiliaries in the input sentence?",
+      "context": "The description of the types of variation reflected",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.78125
+      }
+    }
+  ]
+}

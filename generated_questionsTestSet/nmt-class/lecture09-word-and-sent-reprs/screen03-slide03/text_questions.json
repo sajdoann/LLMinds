@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of triangle is typically used in machine translation?",
+      "context": "So in machine translation, you always start with a triangle.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How does this type of triangle differ from the one seen earlier in the series of lectures?",
+      "context": "This is different from the WOKUA triangle.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6880952380952381
+      }
+    },
+    {
+      "question": "What are the components of the triangle mentioned at the beginning of the document?",
+      "context": "This is not the source language, the target language and the interlingua at the top.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7770833333333333
+      }
+    },
+    {
+      "question": "Can you infer what this type of triangle represents in machine translation?",
+      "context": "So in machine translation, you always start with a triangle.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.63125
+      }
+    },
+    {
+      "question": "What can be deduced about the nature of machine translation based on the description of this type of triangle?",
+      "context": "This is not the WOKUA triangle. This is different.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.6707589285714286
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of triangle is typically used in machine translation?",
+      "context": "So in machine translation, you always start with a triangle.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "Can you infer what this type of triangle represents in machine translation?",
+      "context": "So in machine translation, you always start with a triangle.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.63125
+      }
+    },
+    {
+      "question": "How does this type of triangle differ from the one seen earlier in the series of lectures?",
+      "context": "This is different from the WOKUA triangle.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6880952380952381
+      }
+    }
+  ]
+}

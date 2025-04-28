@@ -1,0 +1,149 @@
+{
+  "all_questions": [
+    {
+      "question": "Co je retroaktivita v kontextu rozhodnutí Ústavního soudu?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "Proč chce opozice podat návrh na zrušení novely?",
+      "context": "Jako druhý důvod pro podání návrhu na zrušení novely hnutí ANO <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9113247863247863
+      }
+    },
+    {
+      "question": "Kdy může opoziční hnutí podat návrh na zrušení novely?",
+      "context": "Opoziční strany <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8117283950617284
+      }
+    },
+    {
+      "question": "Jaký je proces pro odmítnutí návrhu k Ústavnímu soudu?",
+      "context": "V minulosti se však stalo, že ačkoliv ÚS rozhodnutí za protiústavní nepovažoval, zveřejnil tzv. obiter dictum, což je neautoritativní vyjádření nad rámec základního odůvodnění.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9529320987654321
+      }
+    },
+    {
+      "question": "Kdy se návrh k Ústavnímu soudu může dostat do Ústavního soudu?",
+      "context": "Podle předsedkyně poslaneckého klubu ANO Aleny Schillerové by se návrh k ÚS mohl dostat začátkem травня.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9371843434343434
+      }
+    },
+    {
+      "question": "Who decided that a new emergency state can't be declared by the government if the previous one was not extended by parliament?",
+      "context": "Nelze ‚nově‘ vyhlásit nouzový stav vládou od okamžiku, kdy ‚povolený‘ nouzový stav skončil a Poslanecká sněmovna s jeho prodloužením nesouhlasila",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9691358024691358
+      }
+    },
+    {
+      "question": "What is the consequence of the Constitutional Court deciding that a law amendment is unconstitutional?",
+      "context": "Jelikož jsou rozhodnutí Ústavního soudu <a href=",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8089133089133089
+      }
+    },
+    {
+      "question": "What happened to the law amendment in the case where the Constitutional Court decided that it was unconstitutional?",
+      "context": "Jelikož jsou rozhodnutí Ústavního soudu <a href=",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8174603174603174
+      }
+    },
+    {
+      "question": "When was the novel of the pandemic law passed?",
+      "context": "použití stavu legislativní nouze k projednání <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "Why did the Ústavní soud reject the opposition's proposal?",
+      "context": ".pdf, str. 1), ve svém nálezu nicméně uvedl (str. 24), že <i>„proces vedoucí k přijetí zákona č. 39/2022 Sb. nelze považovat – v podústavní rovině – za bezvadný“</i> ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9598765432098766
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Kdy může opoziční hnutí podat návrh na zrušení novely?",
+      "context": "Opoziční strany <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8117283950617284
+      }
+    },
+    {
+      "question": "Proč chce opozice podat návrh na zrušení novely?",
+      "context": "Jako druhý důvod pro podání návrhu na zrušení novely hnutí ANO <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9113247863247863
+      }
+    },
+    {
+      "question": "Who decided that a new emergency state can't be declared by the government if the previous one was not extended by parliament?",
+      "context": "Nelze ‚nově‘ vyhlásit nouzový stav vládou od okamžiku, kdy ‚povolený‘ nouzový stav skončil a Poslanecká sněmovna s jeho prodloužením nesouhlasila",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9691358024691358
+      }
+    }
+  ]
+}

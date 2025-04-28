@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does Chris Manning refer to as the key aspect of understanding complex sentences?",
+      "context": "So let's go over these aspects in some more detail now.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7475649350649352
+      }
+    },
+    {
+      "question": "How do we understand the meaning of a complex sentence if there are new elements present?",
+      "context": "If there are new elements, you need to be able to compose, to construct the meaning of the whole from these elements.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8955592105263158
+      }
+    },
+    {
+      "question": "What is the main idea being discussed in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Who made a statement about compositionality of meaning that is referenced in the document?",
+      "context": "So let's go over these aspects in some more detail now.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765422077922078
+      }
+    },
+    {
+      "question": "What concept does the author consider crucial for understanding complex sentences?",
+      "context": "understanding of complex sentences crucially relies on the compositionality.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8472222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who made a statement about compositionality of meaning that is referenced in the document?",
+      "context": "So let's go over these aspects in some more detail now.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765422077922078
+      }
+    },
+    {
+      "question": "How do we understand the meaning of a complex sentence if there are new elements present?",
+      "context": "If there are new elements, you need to be able to compose, to construct the meaning of the whole from these elements.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8955592105263158
+      }
+    },
+    {
+      "question": "What is the main idea being discussed in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

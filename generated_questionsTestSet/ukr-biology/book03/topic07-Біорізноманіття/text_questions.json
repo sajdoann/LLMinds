@@ -1,0 +1,270 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main categories of taxonomy in biology?",
+      "context": "Біологічна   систематика  — це розділ біології, який формує єди-нусьステム живого світу на основі виділення біiologicalних таксонів (систематичних одиниць) і відповідних назв, наданих за певними правилами (біологічної номенклатури).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is the order of taxonomy in plants and animals?",
+      "context": "Вид   →   Рід   →   Родина   →   Порядок   →   Клас   →   Відділ   →   Царство Рослини",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8447368421052631
+      }
+    },
+    {
+      "question": "What is the main difference between the taxonomy of plants and animals?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8373205741626795
+      }
+    },
+    {
+      "question": "Who introduced the concept of biological systematics?",
+      "context": "Основні систематичні категорії ввів у науку шведський учений Карл Лінней.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8793233082706767
+      }
+    },
+    {
+      "question": "What is the main category of viruses, bacteria, archaea, and eukaryotes?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8564593301435407
+      }
+    },
+    {
+      "question": "Who proposed the three-domain system of taxonomy?",
+      "context": "1990 року Карл Воуз, спираючись на аналіз послідовності нуклеотидів рРНК та деякі інші молекулярні характеристики, запропонував новий варіант систематики живих організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8721804511278195
+      }
+    },
+    {
+      "question": "What is the main characteristic of a phylogenetic tree?",
+      "context": "Філогенетичне дерево  — це схема, яка відображає еволюційні зв’язки між таксонами, для яких воно будується.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8157894736842105
+      }
+    },
+    {
+      "question": "Which group of organisms is the largest in terms of the number of species?",
+      "context": "Яка із цих груп є найбільшою за кільсістю видів?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8814460393407761
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes viruses from other groups of organisms?",
+      "context": "Віруси виділили jak окремий таксон Vira, який об’єднує неклітинні форми життя й за рангом відповідає домену.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.850835020242915
+      }
+    },
+    {
+      "question": "What is the main difference between archaea and bacteria in terms of their genetic material?",
+      "context": "Генетичний матеріал зазвичай представ-\nзамідає великою кільцевою молекулою ДНК (бактеріальною хромосомою). Можуть мати плазміди. Гени не містять інтронів",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.873391812865497
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes eukaryotes from other groups of organisms?",
+      "context": "Клітинні організми. У клітнах є ядра та інші мембранні ор-\nганели й цитоскелет. Генетичний матеріал міститься у хро-\nмосомах і має вигляд лінійних молекул ДНК.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8294534412955465
+      }
+    },
+    {
+      "question": "What are the three main domains of life?",
+      "context": "Клітинні організми. У клітинах є ядра та інші мембранні органели й цитоскелет. Генетичний матеріал міститься у хро-мосомах і має вигляд лінійних молекул ДНК.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7996411483253588
+      }
+    },
+    {
+      "question": "What are the main groups of eukaryotic organisms?",
+      "context": "Система еукаріотів. Їхня систематика досі є предметом дискусій.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8026315789473684
+      }
+    },
+    {
+      "question": "What is the difference between unicellular and multicellular eukaryotic organisms?",
+      "context": "Особливості основних груп еукаріотів. Одноклітинність, тип живлення.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8714285714285714
+      }
+    },
+    {
+      "question": "Who proposed the system of three domains?",
+      "context": "в) К. Воуз",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8671679197994988
+      }
+    },
+    {
+      "question": "What is a characteristic of viruses?",
+      "context": "в) вірус грипу",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8245614035087719
+      }
+    },
+    {
+      "question": "Кто является основным зbudником холерии?",
+      "context": "До домену Еукаріоти належить збудник: б) холери",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.968421052631579
+      }
+    },
+    {
+      "question": "Кто является типичным представителем группы тварин?",
+      "context": "Організми, клітини яких мають зазвичай одне ядро й клі-їнну стінку, що містить целюлозу: г) тварини",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9719298245614035
+      }
+    },
+    {
+      "question": "Кто является основным зbudником туберкульоза?",
+      "context": "Збудники\nГрупи\nа) Бактерії",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.968421052631579
+      }
+    },
+    {
+      "question": "По якій рисі схожості відмінності між грибами та рослинами?",
+      "context": "Порівняйте між собою гриби й рослини. Укажіть риси схо-жості й відмінності.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9868421052631579
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Кто является типичным представителем группы тварин?",
+      "context": "Організми, клітини яких мають зазвичай одне ядро й клі-їнну стінку, що містить целюлозу: г) тварини",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9719298245614035
+      }
+    },
+    {
+      "question": "What is the main category of viruses, bacteria, archaea, and eukaryotes?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8564593301435407
+      }
+    },
+    {
+      "question": "Кто является основным зbudником туберкульоза?",
+      "context": "Збудники\nГрупи\nа) Бактерії",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.968421052631579
+      }
+    },
+    {
+      "question": "What is the main difference between the taxonomy of plants and animals?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8373205741626795
+      }
+    }
+  ]
+}

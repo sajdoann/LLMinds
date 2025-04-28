@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "When did the idea of multisource translation first emerge?",
+      "context": "The introduction to the document, explaining that it's 'actually pretty old'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7194444444444444
+      }
+    },
+    {
+      "question": "What types of systems have been tested for multisource translation?",
+      "context": "The mention of word-based and phrase-based systems as examples",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7791666666666667
+      }
+    },
+    {
+      "question": "Was the testing of multisource translation successful?",
+      "context": "The statement that 'it was tested'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What is the implication of multisource translation being old, but still being used and tested?",
+      "context": "The introduction to the document's idea about the age of multisource translation",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "How does the fact that it was tested relate to the effectiveness or feasibility of multisource translation?",
+      "context": "The mention that 'it was tested'",
+      "difficulty": "inferential",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.6822916666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When did the idea of multisource translation first emerge?",
+      "context": "The introduction to the document, explaining that it's 'actually pretty old'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7194444444444444
+      }
+    },
+    {
+      "question": "What types of systems have been tested for multisource translation?",
+      "context": "The mention of word-based and phrase-based systems as examples",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7791666666666667
+      }
+    },
+    {
+      "question": "What is the implication of multisource translation being old, but still being used and tested?",
+      "context": "The introduction to the document's idea about the age of multisource translation",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7875
+      }
+    }
+  ]
+}

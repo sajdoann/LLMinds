@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens if there is a queue and there is an image next to the sentence?",
+      "context": "And if you have the queue, if there is an image next to that sentence, then you can easily...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.3797268907563025
+      }
+    },
+    {
+      "question": "What does 'easily' imply about what happens when there is a queue and an image is present?",
+      "context": "...then you can easily...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.475
+      }
+    },
+    {
+      "question": "Is the presence of an image next to the sentence related to its ability to be accessed quickly?",
+      "context": "And if you have the queue, if there is an image next to that sentence, then you can easily...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.4529411764705883
+      }
+    },
+    {
+      "question": "Is the mention of 'queue' related to a waiting list or line?",
+      "context": "And if you have the queue, if there is an image next to that sentence, then you can easily...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4466911764705883
+      }
+    },
+    {
+      "question": "Is the phrase 'if there is an image' a necessary condition for being able to access something easily?",
+      "context": "And if you have the queue, if there is an image next to that sentence, then you can easily...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.47058823529411764
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the mention of 'queue' related to a waiting list or line?",
+      "context": "And if you have the queue, if there is an image next to that sentence, then you can easily...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4466911764705883
+      }
+    },
+    {
+      "question": "Is the presence of an image next to the sentence related to its ability to be accessed quickly?",
+      "context": "And if you have the queue, if there is an image next to that sentence, then you can easily...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.4529411764705883
+      }
+    },
+    {
+      "question": "What does 'easily' imply about what happens when there is a queue and an image is present?",
+      "context": "...then you can easily...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.475
+      }
+    }
+  ]
+}

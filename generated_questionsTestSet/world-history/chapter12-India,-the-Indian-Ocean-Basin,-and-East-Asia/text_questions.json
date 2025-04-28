@@ -1,0 +1,1755 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a caravansary?",
+      "context": "an inn funded by the state or wealthy individuals where travelers could spend the night and store their goods securely",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8292053663570691
+      }
+    },
+    {
+      "question": "Why did the Tang dynasty collapse?",
+      "context": "their expenses outran their income, leading to their ultimate collapse.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8612472766884531
+      }
+    },
+    {
+      "question": "What is the result of Alexander's army arrival in the region?",
+      "context": "Although they did not remain there, for the next three centuries this Hellenistic Seleucid kingdom continued to trade with India and spread Greek ideas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8138616557734204
+      }
+    },
+    {
+      "question": "What was the state of Buddhism in Harsha's kingdom?",
+      "context": "Buddhism had declined as a result of Gupta neglect because its monasteries throughout India were in a state of disrepair.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7696078431372549
+      }
+    },
+    {
+      "question": "When did Buddhism decline as a result of Gupta neglect?",
+      "context": "It was also clear, though, that Buddhism had declined as a result of Gupta neglect because its monasteries throughout India were in a state of disrepair.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8801470588235294
+      }
+    },
+    {
+      "question": "What event led to the establishment of Muhammad's Muslim state at Delhi?",
+      "context": "In 1192, his forces defeated an army of some 100,000 Rajputs, considered Hindu India’s most ferocious warriors, in one of the most violent engagements of his increasingly bloody career.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8499455337690631
+      }
+    },
+    {
+      "question": "What was the result of the Vedic period of Ancient India?",
+      "context": "The result of a synthesis of beliefs that occurred after the Vedic period of Ancient India (c. 1500–500 BCE) and a response to Buddhism’s commercial and urban influence, Hinduism developed a philosophy and belief system more widely accessible to the rural and agrarian peoples of India.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8000207490403569
+      }
+    },
+    {
+      "question": "Why did Buddhists not receive the same measures of religious freedom as Hindus?",
+      "context": "Buddhists, however, were not given the same measures of religious freedom, although it is.not clear why.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8699566365007542
+      }
+    },
+    {
+      "question": "What happened to Buddhists in India after the arrival of Muslim Turks?",
+      "context": "They were forced to flee or be executed, and many went to areas of Southeast Asia, Nepal, or Tibet, where Buddhism remains a major religion today.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8329248366013071
+      }
+    },
+    {
+      "question": "Why did Hinduism evolve to become the dominant religion in India?",
+      "context": "It is likely because it was a belief system with broader appeal than Buddhism.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8941679235796883
+      }
+    },
+    {
+      "question": "What is the origin of the caste system in Hinduism?",
+      "context": "At its origin, the caste system was limited, and all of society was organized into four categories known as varnas.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7806061995948477
+      }
+    },
+    {
+      "question": "What is the ultimate goal of achieving positive karma in Hinduism?",
+      "context": "The more positive karma someone built up, the greater the chances of being reincarnated in a higher varna in the next life—with the ultimate goal being the attainment of moksha.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8303624480095069
+      }
+    },
+    {
+      "question": "What is the significance of adhering to dharma in Hinduism?",
+      "context": "Adherence to dharma helped ensure the universe remained in balance, while failure to do so risked chaos and destruction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7923021060275962
+      }
+    },
+    {
+      "question": "What is the primary reason for farming being more important than cattle raising in Hinduism?",
+      "context": "Farming was more important than cattle raising for several reasons, not least the prohibition against eating cows.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8880558759451493
+      }
+    },
+    {
+      "question": "What is the significance of the extended family in Indian society?",
+      "context": "The basic social unit of Indian society and the focus of life was the extended family, which included parents, grandparents, aunts, uncles, cousins, and in-laws.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8063958916900094
+      }
+    },
+    {
+      "question": "What was the focus of life in Indian society?",
+      "context": "f Indian society and the focus of life was the extended family, which included parents, grandparents, aunts, uncles, cousins, and in-laws.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7623934564079042
+      }
+    },
+    {
+      "question": "What crops were key to the Hindu diet?",
+      "context": "Key crops were rice, millet, wheat, barley, lentils, and peas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8475490196078431
+      }
+    },
+    {
+      "question": "How did Hinduism foster a patriarchal family structure?",
+      "context": "Like Confucianism in China, Hinduism fostered a patriarchal family structure in which women were subservient.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9234943977591037
+      }
+    },
+    {
+      "question": "What was the significance of sati?",
+      "context": "A wife had no life apart from her husband, and if widowed, she might shave her head, sleep on the floor, eat only a single meal a day, and avoid attending family festivals. A wealthier widow, particularly from the Kshatriya or warrior caste, might throw herself on her husband’s funeral pyre in an act of ritual suicide known as sati.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7417211328976034
+      }
+    },
+    {
+      "question": "What was the result of land grants to officials and Brahman priests?",
+      "context": "Toward the end of the Gupta period, in the sixth century, rulers began giving land grants to officials and Brahman priests to help stimulate local economies.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7966751918158568
+      }
+    },
+    {
+      "question": "How did invasions and migrations affect India's cultural base?",
+      "context": "Paradoxically, many such developments were the result of the same forces that destabilized India’s politics, for the continual invasions and migrations of foreigners in the north cross-fertilized the region’s cultural base, producing new ideas and practical innovations.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9095274908051632
+      }
+    },
+    {
+      "question": "What was a result of the continual invasions and migrations of foreigners in the north of India?",
+      "context": "the continual invasions and migrations of foreigners in the north cross-fertilized the region’s cultural base, producing new ideas and practical innovations.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7945845004668535
+      }
+    },
+    {
+      "question": "Who was the first emperor of the new Sui dynasty?",
+      "context": "Yang then made himself the first emperor of the new Sui dynasty in 581 and adopted the name Wen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7861933444401725
+      }
+    },
+    {
+      "question": "What was a common outcome for traders who adopted Buddhism, particularly under the Sui dynasty?",
+      "context": "Many Chinese traders therefore adopted Buddhism, particularly under the Sui dynasty ( Figure 12.8 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8690631808278867
+      }
+    },
+    {
+      "question": "How many branches of Buddhism were there by the first century BCE?",
+      "context": "By the first century BCE, there were two branches of Buddhism: Theravada (“the path of the elders,” the oldest extant form of Buddhism) and Mahayana (“the greater vehicle”).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8687127024722933
+      }
+    },
+    {
+      "question": "What was a key difference between Buddhism and Hinduism in terms of their views on the caste system?",
+      "context": "Unlike Hinduism, Buddhism did not emphasize the caste system and in many instances opposed it, thus strengthening its influence abroad.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8327705156136529
+      }
+    },
+    {
+      "question": "How did the annual monsoon winds affect maritime traders' exposure to Indian society and culture?",
+      "context": "The diffusion of ideas was enhanced by India’s annual monsoon winds, which lengthened maritime traders’ exposure to Indian society and culture by preventing those who arrived in summer from returning home until the winter monsoon season.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8791641909288967
+      }
+    },
+    {
+      "question": "What was one of the key effects of trade on Buddhism?",
+      "context": "One of the most influential and enduring effects of trade was the spread of Buddhism, which began to take hold elsewhere as it competed with, and in some ways reshaped, Hinduism.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7813120309852336
+      }
+    },
+    {
+      "question": "Where did Theravada Buddhism establish itself?",
+      "context": "Theravada Buddhism established itself in Sri Lanka, southern India, and parts of Southeast Asia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8993152816682228
+      }
+    },
+    {
+      "question": "How did the Silk Roads facilitate the spread of Buddhist traditions into China?",
+      "context": "Along the Silk Roads, merchants established monasteries, convents, and shrines, bringing Buddhist traditions into China.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.856917211328976
+      }
+    },
+    {
+      "question": "What was the name adopted by Yang Jian when he became emperor of the Sui dynasty?",
+      "context": "Yang then made himself the first emperor of the new Sui dynasty in 581 and adopted the name Wen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8096501345636293
+      }
+    },
+    {
+      "question": "What was one of the main advantages that Buddhism had over Hinduism?",
+      "context": "Unlike Hinduism, Buddhism did not emphasize the caste system and in many instances opposed it, thus strengthening its influence abroad.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8136165577342047
+      }
+    },
+    {
+      "question": "What was a result of the spread of Buddhism into Southeast Asia?",
+      "context": "Many Southeast Asian regions adopted it, from what is now Thailand up to the Mekong Delta in Vietnam and down to Java.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7893642305407012
+      }
+    },
+    {
+      "question": "What was one of the main trade routes that Buddhism spread along?",
+      "context": "Mahayana, the larger branch, spread along the great trade routes of Asia into the borderlands of the Parthian Empire, eventually reaching China, Korea, and Japan.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8176159352629941
+      }
+    },
+    {
+      "question": "How did Buddhism influence monarchies in India?",
+      "context": "Hinduism influenced many monarchies, particularly through the concept of dharma.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8544351073762839
+      }
+    },
+    {
+      "question": "What was a key factor that allowed Yang Jian to gain fame and power?",
+      "context": "A Mongol general from northern China, Yang Jian, was an affirmed Buddhist. His military abilities allowed him to gain such fame that he was able to create a marriage alliance between one of his daughters and a northern prince.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8861231361231361
+      }
+    },
+    {
+      "question": "What was the result of the collapse of the Han Empire in 220 CE?",
+      "context": "Following the collapse of the Han Empire in 220 CE, three states ruled over China: the Wei in the north, the Wu in the south, and the Shu in the west.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7919389978213507
+      }
+    },
+    {
+      "question": "What was a key factor that led to the reunification of China under the Western Jin dynasty?",
+      "context": "A temporary reunification occurred under the Western Jin dynasty from 265 to 316.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.828525641025641
+      }
+    },
+    {
+      "question": "What was one of the key effects of Buddhism on Indian society and culture?",
+      "context": "Many cultural and technological advances occurred. Improvements in shipbuilding and textile manufacturing stimulated coastal trade, for example, especially in India.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8369225182950673
+      }
+    },
+    {
+      "question": "How did the annual monsoon winds affect maritime traders' exposure to Indian society and culture?",
+      "context": "The diffusion of ideas was enhanced by India’s annual monsoon winds, which lengthened maritime traders’ exposure to Indian society and culture by preventing those who arrived in summer from returning home until the winter monsoon season.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8791641909288967
+      }
+    },
+    {
+      "question": "Who was the first emperor of the new Sui dynasty?",
+      "context": "Yang then made himself the first emperor of the new Sui dynasty in 581 and adopted the name Wen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7861933444401725
+      }
+    },
+    {
+      "question": "Why did Emperor Wen create a powerful centralized government?",
+      "context": "To consolidate his control over the empire, Emperor Wen created a powerful centralized government, with loyal bureaucrats appointed to rule its many territories.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9214861028586518
+      }
+    },
+    {
+      "question": "What was the significance of the Grand Canal in Sui foreign policy?",
+      "context": "The canal was also a vital tool of Sui foreign policy, allowing Chinese armies from the north to travel to the borders of Korea...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7896613190730838
+      }
+    },
+    {
+      "question": "How many workers were required for the construction of the Grand Canal?",
+      "context": "Construction of this arm of the canal took seven years and required as many as five million workers, sometimes including entire populations conscripted to labor on the project.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8554961378490791
+      }
+    },
+    {
+      "question": "What was the main reason for the construction of the Grand Canal?",
+      "context": "so greatly improved communication and the effectiveness of the government, as officials were able to travel quickly between north and south and to send communication more easily across the Chinese interior.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.790718954248366
+      }
+    },
+    {
+      "question": "How did the construction of the Grand Canal affect the Sui dynasty?",
+      "context": "In the end, and despite the great benefits of the Grand Canal, its construction overextended the Sui. Enormously costly in labor and materiel, the waterway became a great source of grievance among the Chinese people...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8391654097536451
+      }
+    },
+    {
+      "question": "What was the impact of the Grand Canal on Chinese culture?",
+      "context": "Like the great Islamic empires that thrived during this period, the Tang promoted a cosmopolitan culture, a character greatly enhanced by wider international developments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194890077243018
+      }
+    },
+    {
+      "question": "Why did the Tang dynasty promote a cosmopolitan culture?",
+      "context": "This event inspired whole communities of merchants to move from Sasanian Persia to the Chinese capital, bringing all manner of exotic products and luxury goods...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8509677623062107
+      }
+    },
+    {
+      "question": "What was a result of the Tang dynasty's military campaigns?",
+      "context": "To this end, the Tang embarked on a series of military campaigns into central Asia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7584967320261438
+      }
+    },
+    {
+      "question": "What was the size of the territory controlled by the Tang army at its height?",
+      "context": "The Tang army controlled more than four million square miles of territory, an area roughly the size of the entire Islamic world during the same period.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8471136706430824
+      }
+    },
+    {
+      "question": "What was the result of Japan's adoption of Tang culture?",
+      "context": "Japan embarked on its “Great Reform”—an allencompassing adoption of Tang culture, including its imperial institutions (which the Silla also adopted), Confucian bureaucracy, and Buddhism.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7798143411954154
+      }
+    },
+    {
+      "question": "Who devised a way to carve the mirror-image of a text into a block of wood?",
+      "context": "China’s artisans, however, devised a way to carve the mirror-image of a text into a block of wood, add ink, and then press the block onto paper.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8566090771973125
+      }
+    },
+    {
+      "question": "What was the impact of Buddhism on commoners in Tang China?",
+      "context": "The scarcity of these works meant that most commoners and even many elites had no access to them. Scriptures and other forms of writing now became more accessible, spreading ideas from the elites to the masses.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7942265795206971
+      }
+    },
+    {
+      "question": "When did Buddhism originate in India?",
+      "context": "Buddhism was important not only under the Sui. The Tang period witnessed the rapid growth of two forms of Mahayana Buddhism in particular: Pure Land, which had originated much earlier in India and had found adherents in China since the fifth century, and Chan, which developed during the fifth and sixth centuries but became popular under the Tang.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8948421745959365
+      }
+    },
+    {
+      "question": "What was the name of the dynasty that adopted Confucian bureaucracy and Buddhism after adopting Tang culture?",
+      "context": "The Tang also opened diplomatic relations with Japan, which proved so effective that in 645 Japan embarked on its “Great Reform”—an allencompassing adoption of Tang culture, including its imperial institutions (which the Silla also adopted), Confucian bureaucracy, and Buddhism.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8462476657329598
+      }
+    },
+    {
+      "question": "What were two forms of Mahayana Buddhism that developed rapidly during the Tang period?",
+      "context": "The Tang period witnessed the rapid growth of two forms of Mahayana Buddhism in particular: Pure Land, which had originated much earlier in India and had found adherents in China since the fifth century, and Chan, which developed during the fifth and sixth centuries but became popular under the Tang.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8653987910953855
+      }
+    },
+    {
+      "question": "What was the main difference between Pure Land Buddhism and Chan (Zen) Buddhism?",
+      "context": "Like Pure Land Buddhists, Chan Buddhists held that to achieve salvation it was necessary not to study sacred texts but rather to engage in practices accessible to everyone, especially by invoking Amida’s name. Instead, Chan Buddhism, known more popularly by its Japanese name Zen, stressed the disciplined practice of meditation and following the example of a Chan master.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8613474107591754
+      }
+    },
+    {
+      "question": "What was a consequence of the Tang Empire's persecution of Buddhism?",
+      "context": "Although this prompted the active suppression of Buddhist monasteries and the confiscation of their wealth, it was not enough. Blatant persecution unfolded under Emperor Wuzong, resulting in the destruction of some forty thousand temples and shrines, the closure of more than four thousand monasteries, and the forced secularization of hundreds of thousands of Buddhist monks and nuns.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8096171802054155
+      }
+    },
+    {
+      "question": "How did Buddhism's popularity affect the Tang China state?",
+      "context": "Buddhism’s popularity became a flashpoint for violence in Tang China, however. In the mid-ninth century, the Tang Empire cracked down on what it perceived as the threat that hundreds of thousands of Buddhist monks and nuns posed to its Confucian and Daoist leaders, who argued that Buddhism represented an alien influence on the state.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8746550472040668
+      }
+    },
+    {
+      "question": "What was the purpose of the civil service exam in Tang China?",
+      "context": "This civil service exam, the first fully written such exam in history, had been developed from the Sui dynasty and tested sophisticated literary skills and knowledge of Confucian and Daoist classics.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7996137849079026
+      }
+    },
+    {
+      "question": "Who was Wu Zetian's role after Emperor Gaozong's death?",
+      "context": "Following Gaozong’s death in 683, Wu ruled as empress dowager and regent for her son, though she held all the real power of the state.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8915668119099491
+      }
+    },
+    {
+      "question": "What was Wu Zetian's title after founding her own dynasty?",
+      "context": "Although she was an intelligent and competent ruler, the founding of her own dynasty and the adoption of imperial titles felt to many like usurpation. Three years later, Wu assumed the Buddhist title “Divine Empress Who Rules the Universe.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8781430219146482
+      }
+    },
+    {
+      "question": "Why was Wu Zetian's reign considered a 'golden age' for women in China?",
+      "context": "Still, the Tang Empire has been described as a “golden age” for women in China, perhaps because lingering contact with the nomadic peoples of the north and their relatively egalitarian society encouraged a somewhat similar view among the Chinese.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.894203835380306
+      }
+    },
+    {
+      "question": "What is notable about Wu Zetian's rise to power?",
+      "context": "In 665, Emperor Gaozong, infirm and sickly, handed power to his second wife, Wu Zetian.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8839506172839506
+      }
+    },
+    {
+      "question": "What was a result of Wu's adoption of the Buddhist title “Divine Empress Who Rules the Universe”?",
+      "context": "Although she was an intelligent and competent ruler, the founding of her own dynasty and the adoption of imperial titles felt to many like usurpation. Three years later, Wu assumed the Buddhist title “Divine Empress Who Rules the Universe.”",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8460079456619249
+      }
+    },
+    {
+      "question": "What was a consequence of Wu's abdication?",
+      "context": "Resistance soon followed, prompting her abdication and the restoration of the Tang dynasty.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7576641767818239
+      }
+    },
+    {
+      "question": "What was the event that led to the collapse of the Tang dynasty?",
+      "context": "Some 150,000 frontier troops led by the Tang commander An Lushan revolted against Emperor Xuanzong and the decadent court at Chang’an.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8080808080808081
+      }
+    },
+    {
+      "question": "What was the result of the Battle of Talas River in 751?",
+      "context": "Tang forces were beaten by the combined Turkic and Arab armies of the Abbasid Caliphate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7514472455648926
+      }
+    },
+    {
+      "question": "What was the outcome of the An Lushan rebellion in 755?",
+      "context": "It took eight years for the Tang to crush the rebellion, by the end of which China was both militarily and economically exhausted.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7649237472766884
+      }
+    },
+    {
+      "question": "What was one of the most significant results of trade-based diffusion of Islamic culture in South and East Asia?",
+      "context": "One of the most significant results of this trade-based diffusion of Islamic culture in South and East Asia was the emergence of powerful states such as Indonesia, which has the world’s largest Muslim population today.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.8436626938357041
+      }
+    },
+    {
+      "question": "What city in Syria served as a main entry point for Chinese silk and eastern incense?",
+      "context": "the Nabatean city famed as the main entry point for Chinese silk and eastern incense.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.876546451914099
+      }
+    },
+    {
+      "question": "What empires began to decline by the third century CE, including those using the Silk Roads?",
+      "context": "By the third century CE, many empires using the Silk Roads had begun to decline, including the Romans, the Kushans, the Parthians, and the Han.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8721677559912854
+      }
+    },
+    {
+      "question": "Which city in India served as a key center for trade between China, India, and the Mediterranean?",
+      "context": "particularly from the city of Taxila.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7987632961681405
+      }
+    },
+    {
+      "question": "What was the primary purpose of the Silk Roads?",
+      "context": "eppes, spreading its control halfway down the Indian subcontinent in the process and ideally positioning itself to handle trade between India, China, and the Mediterranean.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7589126559714795
+      }
+    },
+    {
+      "question": "How did goods change hands on the Silk Roads?",
+      "context": "Goods changed hands many times over these long distances, being exchanged between merchants who each traveled only part of the “road,” and their price increased the farther they went from their origin.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8748366013071895
+      }
+    },
+    {
+      "question": "What was unique about the Silk Roads compared to a 'superhighway'?",
+      "context": "The Silk Roads were not a fourthousand-mile-long superhighway outfitted to bridge eastern and western markets from Rome to China but rather a series of interconnected roads, many ill maintained, that were built up over time and eventually linked dozens of oasis towns and market cities such as Palmyra in the west and Bactria in the east.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8352321165620399
+      }
+    },
+    {
+      "question": "What was a key benefit for Buddhist monks traveling on the Silk Roads?",
+      "context": "Over time, Buddhist monks established themselves in small communities and set up monasteries at a string of oases the length of the Taklamakan Desert—a chain that ran all the way to the Great Wall in northern China.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8378425087983912
+      }
+    },
+    {
+      "question": "What was a challenge for travelers on one leg of the Silk Roads?",
+      "context": "Many legs of the Silk Roads were perilous in the extreme. For example, upon departing Chang’n, the Tang capital and eastern terminus of the network, travelers almost immediately confronted the Gobi, the largest desert in Asia.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8192125656628699
+      }
+    },
+    {
+      "question": "What was the primary reason why overland travel was more appealing than seaborne trade for many merchants and traders?",
+      "context": "To most merchants and traders, the risks posed by seaborne trade, not to mention the cost of hiring a ship and its crew, made it the less appealing of the two Silk Road routes open to them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8677196804647785
+      }
+    },
+    {
+      "question": "Who was overthrown by the Abbasids in 750?",
+      "context": "the Umayyads in turn were overthrown by the Abbasids (749–1258),",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7915305010893245
+      }
+    },
+    {
+      "question": "Why did the Abbasid's eastward expansion halt in 751?",
+      "context": "Despite their ambitions, the Abbasids’ eastward expansion was halted in 751 when a combined Arab-Tibetan army met Tang forces in the Battle of Talas River.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8561144264469073
+      }
+    },
+    {
+      "question": "What was the primary reason for European powers' interest in breaking into the Chinese economy?",
+      "context": "The domestic Chinese economy was large enough to meet all the needs of the state and its people without imports, frustrating European powers intent on breaking into the Chinese economy well into the modern period.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What percentage of labor in silk production fell to women?",
+      "context": "Much of the labor of producing silk fell to women, who grew the mulberry trees needed to feed the silkworms, unraveled the cocoons, and wove the threads into textiles.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8398408638817846
+      }
+    },
+    {
+      "question": "How did the Byzantines acquire silkworms?",
+      "context": "The Byzantines, legend has it, acquired silkworms clandestinely in the sixth century when Christian monks visiting China spirited some cocoons away in hollowed-out walking sticks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8695415364213318
+      }
+    },
+    {
+      "question": "Who were primarily responsible for producing silk cloth?",
+      "context": "Much of the labor of producing silk fell to women, who grew the mulberry trees needed to feed the silkworms, unraveled the cocoons, and wove the threads into textiles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9130434782608696
+      }
+    },
+    {
+      "question": "What was the location of the new capital established by the Abbasids?",
+      "context": "They established what became one of the most important cities along the Silk Roads and a location that allowed them to dominate the growing Indian Ocean trade.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.792875816993464
+      }
+    },
+    {
+      "question": "What was the name of the city in the Persian Gulf that became an important trading port?",
+      "context": "The city of Siraf on the Persian Gulf coast was regularly sending ships to China and back and became one of the most important trading ports of this period.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.821541394335512
+      }
+    },
+    {
+      "question": "What event weakened Siraf's hold on trade?",
+      "context": "However, Siraf’s hold on trade weakened when an earthquake struck and damaged it in 997.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8862745098039215
+      }
+    },
+    {
+      "question": "What influence did Persian dynasties have on the Delhi Sultanate?",
+      "context": "Generations of incursions from Persian dynasties into South Asia meant that Persian influence deeply affected the region.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8438316993464052
+      }
+    },
+    {
+      "question": "What was a system known as cabotage in the context of Chola trade?",
+      "context": "Secondary trading also occurred, in which authorized middle merchants conducted exchanges between these larger ships and smaller port cities, a system known as cabotage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8346635662812133
+      }
+    },
+    {
+      "question": "What was the name of the Chola emperor who sailed up east India's Coromandel coast and seized ports in the eleventh century?",
+      "context": "In the eleventh century, the Chola were trying to extend and consolidate their control over regional trade. To this end, Rajendra I, the “Victor of the Ganges” (1019–1021), sailed up east India’s Coromandel coast and seized ports with the goal of deepening commercial ties with China.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6470588235294118,
+        "diversity_score": 0.8636738906088751
+      }
+    },
+    {
+      "question": "What was notable about the construction of monumental temples during the Chola's 'Imperial Golden Age'?",
+      "context": "The Chola enjoyed an artistic, architectural, and literary flowering during the tenth and eleventh centuries. This “Imperial Golden Age” saw an explosion in the construction of monumental temples, like the one at Thanjavur on the southeastern coast, in the so-called Chola style—identifiable by such elements as high surrounding walls and stepped, pyramidal towers ( Figure 12.20 ).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8646870095555953
+      }
+    },
+    {
+      "question": "What was the significance of the Chola control over trade through the Palk Strait?",
+      "context": "Their golden age would not have been possible had the Chola not controlled trade through the Palk Strait, which generated enormous revenues.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8498910675381264
+      }
+    },
+    {
+      "question": "What was the result of the Srivijaya's control over maritime trade between the Indian Ocean and China?",
+      "context": "By the tenth century, Srivijaya controlled all trade between the Indian Ocean and China.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8166415284062343
+      }
+    },
+    {
+      "question": "What was the effect of the Chola's maritime expedition against Srivijaya in 1025?",
+      "context": "Although Srivijaya managed to recover somewhat, its grip on maritime trade soon weakened permanently.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8461328976034859
+      }
+    },
+    {
+      "question": "What was the outcome of the thirteenth century expansion of Islam in Southeast Asia?",
+      "context": "the thirteenth century marks a time of considerable Islamic expansion into Southeast Asia; the Acehnese peoples on the northern tip of Sumatra were the first to embrace the religion.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8130446623093681
+      }
+    },
+    {
+      "question": "What religion were the Acehnese peoples the first to embrace?",
+      "context": "the Acehnese peoples on the northern tip of Sumatra were the first to embrace the religion.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8076643762918273
+      }
+    },
+    {
+      "question": "How did Sufi missionaries contribute to Islamization in Southeast Asia?",
+      "context": "Sufism, a branch of Sunni Islam, blended Islam with local religious traditions, encouraging non-merchants to convert.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.907516339869281
+      }
+    },
+    {
+      "question": "What was the purpose of the five towers in Angkor Wat?",
+      "context": "the temple’s five towers were meant to.represent Mount Meru, the dwelling place of the gods in Hindu religion.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7800245098039216
+      }
+    },
+    {
+      "question": "What was the primary route used for trade between Rome and China during the Roman Empire?",
+      "context": "trade between Rome and China crossed central Asia on the Silk Roads.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8334967320261438
+      }
+    },
+    {
+      "question": "Why did the Arab Muslim population expand their control over the peninsula and into North Africa, particularly Egypt?",
+      "context": "Arabs quickly expanded their control over the peninsula and into North Africa, especially Egypt, and thus access to the Red Sea naturally came into their hands.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9040928314284715
+      }
+    },
+    {
+      "question": "What was a significant change in the Kingdom of Aksum's power during the sixth and seventh centuries?",
+      "context": "However, they had evidently overextended themselves. With the help of the Sasanids from Persia, the king in the region of Yemen, Sayf ibn Dhi Yazan, rose up and pushed the Aksumites out of the peninsula.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.835171568627451
+      }
+    },
+    {
+      "question": "What led to the decline of the Kingdom of Aksum's power in the Red Sea trade?",
+      "context": "Particularly as Islam expanded to the Sindh region of northern India, the Persian Gulf became increasingly important for oceangoing vessels, which began bypassing the Aksumite port of Adulis.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8412770236299648
+      }
+    },
+    {
+      "question": "What was the main reason for the decline of the Kingdom of Aksum?",
+      "context": "Given this threat to the food supply and the decline in Red Sea trade, which is evidenced in the archaeological record by the reduced number of Aksumite coins used in this period, groups in the interior such as the Beja peoples began to rebel.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7980199923106497
+      }
+    },
+    {
+      "question": "How did the Bantu migration impact the indigenous African peoples?",
+      "context": "They also traveled south, establishing many fishing and trading villages.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8867465504720407
+      }
+    },
+    {
+      "question": "Where did the Bantu peoples originally migrate from?",
+      "context": "cline, the internal migration of Bantu peoples was making its way from Africa’s northwest to its east and southeast.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8433188090050835
+      }
+    },
+    {
+      "question": "What language did the newcomers (Shirazi Muslims) create by adding Arabic words?",
+      "context": "The newcomers were eager to trace their Persian heritage as a means of legitimating themselves in the eyes of the peoples of the area, to which end some even claimed descent from the prophet Muhammad himself. In time, these Shirazi Muslims came to dominate trade along the coast, such .as at Mombasa, Malinda, Lamu, and Sofala.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8715307378990244
+      }
+    },
+    {
+      "question": "What was the name of the civilization formed by the Swahili (from the Arabic for “of the coast”)?",
+      "context": "Thanks to expanding trade with the Muslim world, coastal African traders and port cities from Mogadishu in the north to Sofala in the south adapted to long-distance trade and to Islamic civilization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8351423902894491
+      }
+    },
+    {
+      "question": "What was the main reason for the arrival of the Shirazi Muslims?",
+      "context": "The newcomers were eager to trace their Persian heritage as a means of legitimating themselves in the eyes of the peoples of the area, to which end some even claimed descent from the prophet Muhammad himself.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7906468334460222
+      }
+    },
+    {
+      "question": "What was the primary reason for the Shirazi Muslims' eagerness to trace their Persian heritage?",
+      "context": "rs were eager to trace their Persian heritage as a means of legitimating themselves in the eyes of the peoples of the area, to which end some even claimed descent from the prophet Muhammad himself.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8446344054863324
+      }
+    },
+    {
+      "question": "What was the purpose of establishing the trading colony of Sofala?",
+      "context": "The merchants of the city-state of Kilwa sought to bypass intermediaries and purchase gold directly. They therefore established the trading colony of Sofala in the region of the same name.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7781566732973383
+      }
+    },
+    {
+      "question": "What was a common practice among Middle Eastern immigrants in the Swahili city-states?",
+      "context": "Many Middle Eastern immigrants cemented their power by marrying the daughters of local ruling elites.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.832646220881515
+      }
+    },
+    {
+      "question": "Why did many of the more powerful city-states, such as Kilwa, begin to mint their own money?",
+      "context": "Many of the more powerful city-states, such as Kilwa, began to mint their own money in the form of copper and silver coins.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8500119001849106
+      }
+    },
+    {
+      "question": "What was the role of enslaved people in the Indian Ocean trade route?",
+      "context": "They then shipped them to southern Iraq.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8308823529411764
+      }
+    },
+    {
+      "question": "Why did the slave trade between the Swahili coast and the Persian Gulf effectively end?",
+      "context": "This unrest effectively ended much of the large-scale slave trade between the Swahili coast and the Persian Gulf in this period.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8526478967655439
+      }
+    },
+    {
+      "question": "What was a major outcome of the Zanj uprising in 868?",
+      "context": "This unrest effectively ended much of the large-scale slave trade between the Swahili coast and the Persian Gulf in this period.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7650524856407209
+      }
+    },
+    {
+      "question": "What was a key factor that facilitated the spread of Islam and created a unifying culture among merchant classes?",
+      "context": "The combination of monsoon winds that allowed ships to sail toward India in the summer and toward Africa in the winter.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8113332478961084
+      }
+    },
+    {
+      "question": "What was a significant result of the Zanj rebellion in terms of the slave trade?",
+      "context": "Although it was eventually crushed in 883, this unrest effectively ended much of the large-scale slave trade between the Swahili coast and the Persian Gulf in this period.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7972389810625105
+      }
+    },
+    {
+      "question": "What significant cultural influence did China have on Korea and Japan through the Silk Roads?",
+      "context": "Both already participated in oceanic trade, but the additional benefits of the Silk Roads’ interchange of ideas came to Korea and Japan through the Chinese as Koreans studied writing, Confucianism, and Buddhism in China and brought back the ideas and methods that suited them best.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8719498910675381
+      }
+    },
+    {
+      "question": "What was Sogdiana's role in controlling regional trade on the Silk Roads?",
+      "context": "Although Sogdiana was never unified into a single polity and was almost always ruled by larger states, its long exposure to so many different cultures produced a multilingual population of merchants and skilled craftspeople. The Sogdians were able to use these traits to dominate their portion of the Silk Roads from their city-states such as Panjikent (in Tajikistan).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8435729847494553
+      }
+    },
+    {
+      "question": "What was the significance of Sogdiana becoming the richest country in central Asia?",
+      "context": "So effective was their control that Sogdiana became the richest country in central Asia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8012371615312792
+      }
+    },
+    {
+      "question": "When did Sogdiana reach its peak of wealth and influence?",
+      "context": "Sogdiana reached the peak of its wealth and influence between the fourth and eighth centuries CE.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.858029878618114
+      }
+    },
+    {
+      "question": "What was the chief competitor of Catholic Christianity in Late Antiquity until the arrival of Islam?",
+      "context": "Manichaeism, a dualistic philosophy of good versus evil that emerged in the Sasanid Empire and blended Persian Zoroastrianism, Buddhism, and Christianity.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8123716153127918
+      }
+    },
+    {
+      "question": "What was the language of the Silk Roads until the seventh century?",
+      "context": "Sogdian, which was the language of the Silk Roads until the seventh century when it was replaced by Persian.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7896650326797385
+      }
+    },
+    {
+      "question": "What event occurred in 751 between Muslim forces and Tang China?",
+      "context": "the Battle of Talas River in 751.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.781682369917664
+      }
+    },
+    {
+      "question": "What prompted Sogdian merchants and traders to convert?",
+      "context": "The diffusion of Muslim culture into Sogdiana prompted many Sogdian merchants and traders to convert, seeing benefits that included reliable contracts among believers to safeguard goods moving along the Silk Roads.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8748168807752986
+      }
+    },
+    {
+      "question": "What was An Lushan's biological parentage?",
+      "context": "Although An’s biological parentage is shrouded in mystery, the record suggests he was adopted by a Turkicspeaking mother and a Sogdian father",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.826797385620915
+      }
+    },
+    {
+      "question": "What event led to An Lushan's rebellion?",
+      "context": "An’s fears about his future should the emperor die led him to rebel against the Tang state following its defeat at Talas River.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8894618453441983
+      }
+    },
+    {
+      "question": "What happened to Sogdiana by the end of the eighth century?",
+      "context": "By the end of the eighth century, much of Sogdiana was ruled by the Abbasid Caliphate, and Sogdian communities abroad gradually assimilated, as in China, for example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8018897414038079
+      }
+    },
+    {
+      "question": "What is the approximate length of the Korean peninsula?",
+      "context": "The Korean peninsula is a mere six hundred miles long, from the Yalu River in the north to the Korean Strait in the south.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7985657225853304
+      }
+    },
+    {
+      "question": "When did the Tang dynasty replace the Sui dynasty?",
+      "context": "The second Tang emperor, Taizong, also attacked Goguryeo and was likewise defeated. The Tang therefore allied with the Kingdom of Silla in their bid to dominate the peninsula. Together they defeated Baekje in 660, and then Goguryeo in 668. By 668, Silla was the sole remaining kingdom in Korea.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8587962962962963
+      }
+    },
+    {
+      "question": "What was the outcome of the conflict between the Tang dynasty and Goguryeo?",
+      "context": "The second Tang emperor, Taizong, also attacked Goguryeo and was likewise defeated. The Tang therefore allied with the Kingdom of Silla in their bid to dominate the peninsula.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7800554565260447
+      }
+    },
+    {
+      "question": "What was the result of the alliance between the Tang and the Kingdom of Silla?",
+      "context": "Together they defeated Baekje in 660, and then Goguryeo in 668. By 668, Silla was the sole remaining kingdom in Korea.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7893642305407012
+      }
+    },
+    {
+      "question": "What event marked the beginning of the decline of the Kingdom of Silla?",
+      "context": "This event marked the beginning of the kingdom’s decline, and a number of additional revolts occurred over the following century.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.798154555940023
+      }
+    },
+    {
+      "question": "How did the influence of Confucianism affect Korean culture?",
+      "context": "For example, Korea had been relatively matrilocal, with the husband joining the wife’s family after marriage. But thanks to the influence of Confucianism and its patriarchal traditions, the opposite now began to occur.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8412215460897002
+      }
+    },
+    {
+      "question": "What was the outcome for Korea in terms of foreign control?",
+      "context": "In exchange for victory, however, Korea was now a tributary state of the Tang, although it extended only as far as the city of Pyongyang.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7869875222816399
+      }
+    },
+    {
+      "question": "What happened to the Goryeo dynasty in the thirteenth century?",
+      "context": "In the early thirteenth century, however, the Korean capital in Kaesong was besieged by the Mongols, and in 1231 the government was forced to flee southward.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.807244008714597
+      }
+    },
+    {
+      "question": "How did the power structure change within the Goryeo dynasty?",
+      "context": "Although the Goryeo dynasty remained on the throne, successor kings were figureheads; the army generals held real power and maintained a powerful hold on the military establishment.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8813741277509394
+      }
+    },
+    {
+      "question": "When did the Mongols overrun the Korean state?",
+      "context": "The Mongols overran the state itself in 1258, bringing this formative period of Korean history to an end.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8384961827868402
+      }
+    },
+    {
+      "question": "What was the name of the clan that dominated the island of Honshu during the Kofun period?",
+      "context": "The Yamato began to dominate the island of Honshu, one of the four large islands of Japan where another aristocratic clan, the Nakatomi, supervised the court’s religious ceremonies at the imperial palace.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8480140774258421
+      }
+    },
+    {
+      "question": "What was the name of the Shinto goddess associated with the sun?",
+      "context": "Amaterasu, for example, was the Shinto goddess of the sun.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7609295570079884
+      }
+    },
+    {
+      "question": "Who sent envoys to China?",
+      "context": "the Soga rulers of Japan, like the Koreans in the sixth century, sent envoys to China.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8703081232492997
+      }
+    },
+    {
+      "question": "Who built a capital at Fujiwara-kyo and Nara?",
+      "context": "Temmu and Jito started to build a capital at Fujiwara-kyo in 694.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8871187363834423
+      }
+    },
+    {
+      "question": "What is the name of the script developed to accurately depict Japanese pronunciation?",
+      "context": "Chinese script had been the traditional writing style, particularly among scholars. However, many words in Japanese were pronounced differently than Chinese writing allowed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.852357609710551
+      }
+    },
+    {
+      "question": "Who composed The Tale of Genji?",
+      "context": "Widely considered the world’s first novel, Genji was composed in the eleventh century by Murasaki Shikibu, a noblewoman and lady-in-waiting in the Heian Court.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8085122938064114
+      }
+    },
+    {
+      "question": "What is the significance of Genji's place in the literary canon of world literature?",
+      "context": "Genji's critically important place in the literary canon of world literature, with the work often considered one of the world’s oldest complete novels and a master class of Japanese literature.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8317202949555891
+      }
+    },
+    {
+      "question": "Why did cloistered rule become unwieldy?",
+      "context": "Cloistered rule became unwieldy and prompted chaos in the Japanese state. Often there were several retired emperors at the same time, each with their own troops, who exerted (or attempted to exert) control through cloistered rule.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9265026271946687
+      }
+    },
+    {
+      "question": "What was the result of Yoritomo's actions in 1192?",
+      "context": "In 1192, he gave himself the title of shogun , or commander in chief.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7476397966594045
+      }
+    },
+    {
+      "question": "Who declared friendly intentions towards Kamakura?",
+      "context": "envoys arrived in Kamakura on behalf of some new rulers in Asia, the Mongols. Though they declared .friendly intentions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9199346405228759
+      }
+    },
+    {
+      "question": "What was the name of the code of behavior for samurai?",
+      "context": "Samurai adhered to a strict code of behavior called bushi, or “way of the warrior.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7622419338105613
+      }
+    },
+    {
+      "question": "How did the Mongols initially return to Japan after their first invasion?",
+      "context": "Though they declared .friendly intentions, these emissaries were ignored by the court. In response the Mongols sailed to Japan and invaded in 1274, only to be repelled when a storm arose following bitter fighting ( Figure 12.32 ).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8909430438842203
+      }
+    },
+    {
+      "question": "What natural phenomenon was attributed to saving Japan from the Mongols?",
+      "context": "When the Mongols did reappear in 1281, there was no clear victor, but a typhoon arose and scattered the Mongol ships, convincing many that divine winds, or kamikaze, were being sent by the gods to protect Japan.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.843824802648332
+      }
+    },
+    {
+      "question": "What event occurred in Kamakura in 1180?",
+      "context": "From 1180 to 1185, with the help of the samurai , the warrior aristocracy of Japan, Yoritomo, the heir of the Minamoto clan, successfully wiped out all rivals, even eradicating the northern branch of the Fujiwara in 1189.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8606040117196304
+      }
+    },
+    {
+      "question": "Who declared friendly intentions towards Kamakura?",
+      "context": "envoys arrived in Kamakura on behalf of some new rulers in Asia, the Mongols. Though they declared .friendly intentions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9199346405228759
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who declared friendly intentions towards Kamakura?",
+      "context": "envoys arrived in Kamakura on behalf of some new rulers in Asia, the Mongols. Though they declared .friendly intentions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9199346405228759
+      }
+    },
+    {
+      "question": "How did Hinduism foster a patriarchal family structure?",
+      "context": "Like Confucianism in China, Hinduism fostered a patriarchal family structure in which women were subservient.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9234943977591037
+      }
+    },
+    {
+      "question": "Why did Emperor Wen create a powerful centralized government?",
+      "context": "To consolidate his control over the empire, Emperor Wen created a powerful centralized government, with loyal bureaucrats appointed to rule its many territories.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9214861028586518
+      }
+    },
+    {
+      "question": "What was a key factor that allowed Yang Jian to gain fame and power?",
+      "context": "A Mongol general from northern China, Yang Jian, was an affirmed Buddhist. His military abilities allowed him to gain such fame that he was able to create a marriage alliance between one of his daughters and a northern prince.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8861231361231361
+      }
+    },
+    {
+      "question": "What is notable about Wu Zetian's rise to power?",
+      "context": "In 665, Emperor Gaozong, infirm and sickly, handed power to his second wife, Wu Zetian.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8839506172839506
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'multi-encoder setup' refer to in this context?",
+      "context": "Setups together, then you will have the multi-encoder setup.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "How does one obtain a multi-encoder setup?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "What is the purpose of attending to either source words or...",
+      "context": "You simply attend to either the source words or...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7626262626262627
+      }
+    },
+    {
+      "question": "What does 'source words' refer to in this context?",
+      "context": "You simply attend to either the source words or...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "What will be achieved after having a multi-encoder setup?",
+      "context": "Setups together, then you will have the multi-encoder setup.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7361111111111112
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of attending to either source words or...",
+      "context": "You simply attend to either the source words or...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7626262626262627
+      }
+    },
+    {
+      "question": "How does one obtain a multi-encoder setup?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "What does 'source words' refer to in this context?",
+      "context": "You simply attend to either the source words or...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "What will be achieved after having a multi-encoder setup?",
+      "context": "Setups together, then you will have the multi-encoder setup.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7361111111111112
+      }
+    }
+  ]
+}

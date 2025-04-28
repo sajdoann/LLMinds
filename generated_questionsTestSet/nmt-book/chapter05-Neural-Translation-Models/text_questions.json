@@ -1,0 +1,358 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main difference between the encoder and decoder phases in this network?",
+      "context": "Once processing reaches the end of the input sentence (having predicted the end of sentence marker.), the hidden state encodes its meaning. In other words, the vector holding the values of the nodes of this final hidden layer is the input sentence embedding . This is the encoder phase of the model. Then this hidden state is used to produce the translation in the decoder phase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8486193293885602
+      }
+    },
+    {
+      "question": "What are some limitations of the proposed neural translation model?",
+      "context": "In practice, the proposed models works reasonable well for short sentences (up to, say, 10.15 words), but fails for long sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8307692307692307
+      }
+    },
+    {
+      "question": "What does the attention mechanism in the deep learning world refer to?",
+      "context": "In the deep learning world, this alignment is called attention , we are using the words . and . interchangeably here.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8274751564225249
+      }
+    },
+    {
+      "question": "What does the encoder in the machine translation model consist of?",
+      "context": "Mathematically, the encoder consists of the embedding lookup for each input word., and the mapping that steps through the hidden states.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7884615384615384
+      }
+    },
+    {
+      "question": "What is the primary function of the decoder in the machine translation model?",
+      "context": "The decoder takes some representation of the input context and the previous hidden state and output word prediction, and generates a new hidden decoder state and a new output word prediction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7417188075082812
+      }
+    },
+    {
+      "question": "What is the cost function that drives training in the machine translation model?",
+      "context": "The training objective is to give as much probability mass as possible to the correct output word. The cost function that drives training is hence the negative log of the probability given to the correct word translation.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7864102564102564
+      }
+    },
+    {
+      "question": "What is the cost function during training?",
+      "context": "The cost function that drives training is hence the negative log of the probability given to the correct word translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7485455720749838
+      }
+    },
+    {
+      "question": "Why do we normalize attention values?",
+      "context": "We normalize this attention value, so that the attention values across all input words . add up to one, using the softmax..exp exp .",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8841575091575091
+      }
+    },
+    {
+      "question": "What is dynamic computation graph creation called?",
+      "context": "This technique is called unrolling the recurrent neural networks, and we already discussed it with regard to language models (recall Section 4.4).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8265484515484516
+      }
+    },
+    {
+      "question": "How do output word states from a batch of sentences get lined up?",
+      "context": "Since we process a batch of sentence pairs, we line up their hidden states into a matrix.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9165680473372781
+      }
+    },
+    {
+      "question": "What is batching in the context of training neural machine translation models?",
+      "context": "When batching training examples together, we have to consider the maximum sizes for input and output sentences in a batch and unroll the computation graph to these maximum sizes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.759551282051282
+      }
+    },
+    {
+      "question": "What is the purpose of sorting sentence pairs by length before breaking them up into mini-batches?",
+      "context": "To avoid wasted computations on gaps, a nice trick is to sort the sentence pairs in the batch by length and break it up into mini-batches of similar length.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.83809650997151
+      }
+    },
+    {
+      "question": "What is overfitting in neural machine translation models?",
+      "context": "Training longer would not lead to any further improvements and may even degrade performance due to overfitting.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7980769230769231
+      }
+    },
+    {
+      "question": "How many epochs does it take to train a neural machine translation model?",
+      "context": "5.15 epochs (passes through entire training corpus)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9361792054099747
+      }
+    },
+    {
+      "question": "What is the common stopping criteria for training neural machine translation models?",
+      "context": "check progress of the model on a validation set and halt when the error on the validation set does not improve",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7872596153846154
+      }
+    },
+    {
+      "question": "What is the process of selecting the highest scoring word pairs for the next beam?",
+      "context": "We multiply the score for the partial translation (at this point just the probability for the first word), and the probabilities from its word predictions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8286242603550296
+      }
+    },
+    {
+      "question": "Why do we normalize the score by the output length of a translation?",
+      "context": "We get better results when we normalize the score by the output length of a translation, i.e., divide by the number of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8466880341880342
+      }
+    },
+    {
+      "question": "What is the difference between the search graph in attention models and traditional statistical machine translation?",
+      "context": "The complete hypothesis (i.e., one that ended with.symbol) with the highest score points to the best translation. When choosing among the best paths, we score each with the product of its word prediction probabilities.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8263532763532764
+      }
+    },
+    {
+      "question": "What is the purpose of using an alignment model (attention mechanism) in the seminal work by Bahdanau et al.?",
+      "context": "The attention model has its roots in a sequence-to-sequence model. Cho et al. (2014) use recurrent neural networks for the approach.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7993589743589744
+      }
+    },
+    {
+      "question": "Why can we no longer combine hypotheses if they share the same conditioning context?",
+      "context": "Note that in traditional statistical machine translation, we were able to combine hypotheses if they share the same conditioning context for future feature functions. This not possible anymore for recurrent neural networks since we condition on the entire output word sequence from the beginning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.9142857142857143
+      }
+    },
+    {
+      "question": "Why is the search graph less diverse in attention models compared to traditional statistical machine translation?",
+      "context": "Further Readings The attention model has its roots in a sequence-to-sequence model. Cho et al. (2014) use recurrent neural networks for the approach.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8198208041958042
+      }
+    },
+    {
+      "question": "What type of neural network is used in Cho et al.'s approach?",
+      "context": "Cho et al. (2014) use recurrent neural networks for the approach.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.769376456876457
+      }
+    },
+    {
+      "question": "Why do Sutskever et al. reverse the order of the source sentence before decoding?",
+      "context": "Sutskever et al. (2014) use a LSTM network and reverse the order of the source sentence before decoding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8384963452836756
+      }
+    },
+    {
+      "question": "What is the purpose of Bahdanau et al.'s alignment model?",
+      "context": "The seminal work by Bahdanau et al. (2015) adds an alignment model (so called .attention mechanism to link generated output words to source words, which includes conditioning on the hidden state that produced the preceding target word.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7787330316742082
+      }
+    },
+    {
+      "question": "What is the purpose of Luong et al.'s global attention model?",
+      "context": "Luong et al. (2015b) propose variants to the attention mechanism (which they call .global. attention model) and also a hard-constraint attention model local. attention model)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7649017649017649
+      }
+    },
+    {
+      "question": "What is the purpose of Tu et al.'s interpolation weight?",
+      "context": "To explicitly model the trade-off between source context (the input words) and target context (the already produced target words), Tu et al. (2016a) introduce an interpolation weight (called .context gate that scales the impact of the",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.780893300248139
+      }
+    },
+    {
+      "question": "What is added to the attention model by Tu et al. in their 2017 work?",
+      "context": "Tu et al. (2017) augment the attention model with a reconstruction step.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7907051282051283
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many epochs does it take to train a neural machine translation model?",
+      "context": "5.15 epochs (passes through entire training corpus)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9361792054099747
+      }
+    },
+    {
+      "question": "Why can we no longer combine hypotheses if they share the same conditioning context?",
+      "context": "Note that in traditional statistical machine translation, we were able to combine hypotheses if they share the same conditioning context for future feature functions. This not possible anymore for recurrent neural networks since we condition on the entire output word sequence from the beginning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.9142857142857143
+      }
+    },
+    {
+      "question": "What is the main difference between the encoder and decoder phases in this network?",
+      "context": "Once processing reaches the end of the input sentence (having predicted the end of sentence marker.), the hidden state encodes its meaning. In other words, the vector holding the values of the nodes of this final hidden layer is the input sentence embedding . This is the encoder phase of the model. Then this hidden state is used to produce the translation in the decoder phase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8486193293885602
+      }
+    },
+    {
+      "question": "Why do we normalize attention values?",
+      "context": "We normalize this attention value, so that the attention values across all input words . add up to one, using the softmax..exp exp .",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8841575091575091
+      }
+    },
+    {
+      "question": "What is the purpose of sorting sentence pairs by length before breaking them up into mini-batches?",
+      "context": "To avoid wasted computations on gaps, a nice trick is to sort the sentence pairs in the batch by length and break it up into mini-batches of similar length.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.83809650997151
+      }
+    }
+  ]
+}

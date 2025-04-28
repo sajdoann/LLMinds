@@ -1,0 +1,556 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the difference between autotrophic and heterotrophic organisms?",
+      "context": "Autotrophic organisms are able to form organic substances from inorganic ones either by photosynthesis (photoautotrophs) or by using the energy of chemical reactions (chemoautotrophs). Heterotrophic organisms obtain the organic substances they need from other organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8378033205619413
+      }
+    },
+    {
+      "question": "What are biocenoses?",
+      "context": "Biocenoses are not just a collection of inhabitants of a certain ecosystem. Living organisms that are part of a biocenose actively interact with each other and with abiotic components of the ecosystem.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8009259259259259
+      }
+    },
+    {
+      "question": "What are biocenoses?",
+      "context": "Biocenoses are not just a collection of inhabitants of a certain ecosystem.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7866666666666666
+      }
+    },
+    {
+      "question": "How do organisms in a biocenose adapt to the structure of their environment?",
+      "context": "Animals that are part of the biocenosis also adapt to certain vegetation tiers. Thus, squirrels live mainly on plants of the upper tiers, and moles lead an underground lifestyle.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8588793922127256
+      }
+    },
+    {
+      "question": "What are the three main groups of ecosystems distinguished on Earth?",
+      "context": "In the conditions of our planet, three main groups of ecosystems are distinguished - terrestrial, freshwater and marine (saltwater).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8298540965207633
+      }
+    },
+    {
+      "question": "What is a biocenosis in an ecosystem?",
+      "context": "The biotic component of an ecosystem is called a biocenosis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7296825396825397
+      }
+    },
+    {
+      "question": "What is a reducer in an ecosystem?",
+      "context": "Reducers are heterotrophic organisms of ecosystems that obtain organic substances by feeding on the remains of living organisms or the products of their vital activity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7878306878306879
+      }
+    },
+    {
+      "question": "What is a detrital food chain?",
+      "context": "The second is from dead organic matter. Accordingly, there are two types of food chains - grazing (eating chain) and detrital (decomposition chain) (from the Latin de¬tritus - crushed).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.823076923076923
+      }
+    },
+    {
+      "question": "What is meant by 'd chains' in the context of food chains?",
+      "context": "d chains do not exist",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8716666666666667
+      }
+    },
+    {
+      "question": "What types of environmental factors do living organisms need to adapt to?",
+      "context": "Ecological factorsOrganisms are subject to the influence of various environmental factors - ecological factors, which by their nature can be abiotic, biotic and anthropogenic (Fig. 49.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.865925925925926
+      }
+    },
+    {
+      "question": "What is the term for the intensity of an environmental factor that exceeds the tolerance limits of a living organism?",
+      "context": "If the intensity of any factor exceeds the tolerance limits, living organisms die.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8309368191721133
+      }
+    },
+    {
+      "question": "What is meant by 'limiting factors' in relation to environmental factors?",
+      "context": "The factor that most affects survival is called limiting. Limiting factors can be temperature, pressure, water salinity, predators, etc.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8756512493354599
+      }
+    },
+    {
+      "question": "What is the limiting factor that most affects survival?",
+      "context": "The factor that most affects survival is called limiting.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.817283950617284
+      }
+    },
+    {
+      "question": "How do organisms in an ecosystem form a complex holistic system?",
+      "context": "All organisms in an ecosystem are interconnected. Although often such a connection is not direct, but mediated through other species.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.904949494949495
+      }
+    },
+    {
+      "question": "What are the four main forms of interaction between living organisms?",
+      "context": "ost common forms of interaction are competition, predation, mutualism, parasitism and commensalism.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8324915824915825
+      }
+    },
+    {
+      "question": "What is an example of mutualism in relation to humans?",
+      "context": "city swallows are commensals in relation to humans, because they use houses to place their nests.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8381481481481482
+      }
+    },
+    {
+      "question": "What type of relationship involves a predator feeding on prey organisms by attacking live prey?",
+      "context": "Predation A type of relationship between populations of two species of organisms (predator and prey), in which predator organisms feed on prey organisms by attacking live prey",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8842760942760943
+      }
+    },
+    {
+      "question": "What are some factors that can disrupt the balance in an ecosystem?",
+      "context": "Biotic factors that disrupt the balance in ecosystems. For example, a volcanic eruption can simply destroy the ecosystem of a particular territory.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What are some possible causes of disturbances in ecosystems?",
+      "context": "the cause of such disturbances can be the influence of any of the ecological factors - abiotic, biotic or anthropogenic.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8445216049382716
+      }
+    },
+    {
+      "question": "How did the introduction of goats to an island affect its ecosystem?",
+      "context": "For example, in ancient times, sailors often left goats on the islands so that they could replenish their meat supplies when they came to the island, but without control of predators, the goats quickly multiplied and ate up all the vegetation on the islands.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8853603603603604
+      }
+    },
+    {
+      "question": "What is an agrocence?",
+      "context": "Artificial ecosystems are often considered a separate type of ecosystem (agrocenoses). They are created by man and used by him for economic purposes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7537037037037038
+      }
+    },
+    {
+      "question": "How do artificial ecosystems differ from natural ones?",
+      "context": "Artificial ecosystems are often considered a separate type of ecosystem (agrocenoses). They are created by man and used by him for economic purposes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9189814814814815
+      }
+    },
+    {
+      "question": "What is the effect of artificial ecosystems on their environment?",
+      "context": "They also constantly remove substances from the systems (when they consume the products grown in them). Therefore, these substances have to be constantly renewed (fertilizers are applied).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8251690821256039
+      }
+    },
+    {
+      "question": "What is the domain with the largest number of species in the biosphere?",
+      "context": "The concept of “biosphere” (from the Greek. bios - life) was proposed in 1875 by the Austrian geologist E. Suess.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8164421997755331
+      }
+    },
+    {
+      "question": "Where do representatives of the domain with the largest number of species live?",
+      "context": "The entire hydrosphere and the lower layer of the atmosphere.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8191919191919192
+      }
+    },
+    {
+      "question": "Are there places on our planet where you cannot come across living organisms?",
+      "context": "This is the only global ecosystem of a higher order.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8731623931623932
+      }
+    },
+    {
+      "question": "What is the noosphere?",
+      "context": "The noosphere is a certain state of the biosphere, in which human mental activity becomes a determining factor in its development.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6990740740740741
+      }
+    },
+    {
+      "question": "Why is it desirable for species to live in conditions of biological optimum?",
+      "context": "a person should approach the solution of any problems from the position of ecological thinking, that is, the preservation and improvement of the state of the natural environment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8698005698005697
+      }
+    },
+    {
+      "question": "What are the levels of biological diversity?",
+      "context": "biological diversity at the species level encompasses the entire collection of species on Earth. At a finer scale, biological diversity includes the genetic diversity of species, both among geographically distant populations and among individuals within the same population.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8095238095238095
+      }
+    },
+    {
+      "question": "What is the genetic diversity of domestic animals and cultivated plants used for?",
+      "context": "The genetic diversity of domestic animals and cultivated plants is especially valuable for those working on breeding programs to maintain and improve modern agricultural species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8480769230769231
+      }
+    },
+    {
+      "question": "What type of whole is formed by combining species, population, ecosystem, and biocenosis?",
+      "context": "and form a single whole with it is:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.857905982905983
+      }
+    },
+    {
+      "question": "A marine ecosystem is classified as which of the following?",
+      "context": "2 A marine ecosystem is:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7877777777777778
+      }
+    },
+    {
+      "question": "A freshwater ecosystem is classified as which of the following?",
+      "context": "3 A freshwater ecosystem is:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7877777777777778
+      }
+    },
+    {
+      "question": "A terrestrial ecosystem is classified as which of the following?",
+      "context": "4 A terrestrial ecosystem is:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.79
+      }
+    },
+    {
+      "question": "The layer of a broadleaf forest to which old oak trees belong is classified as what level?",
+      "context": "5 The layer of a broadleaf forest to which old oak trees belong:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8144796380090498
+      }
+    },
+    {
+      "question": "In the forest ecosystem, the producer is classified as what type of organism?",
+      "context": "6 In the forest ecosystem, the producer is:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.782010582010582
+      }
+    },
+    {
+      "question": "The autumn honeysuckle, which parasitizes on pine trees, is classified as a what type of consumer?",
+      "context": "7 The autumn honeysuckle, which parasitizes on pine trees, is:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8318055555555556
+      }
+    },
+    {
+      "question": "Oyster mushroom common, which destroys the wood of dead poplar trees, is classified as a what type of consumer?",
+      "context": "8 Oyster mushroom common, which destroys the wood of dead poplar trees, is:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6875,
+        "diversity_score": 0.8385090218423552
+      }
+    },
+    {
+      "question": "An abiotic factor for a mouse living in a broad-leaved forest is classified as what type of environmental factor?",
+      "context": "9 An abiotic factor for a mouse living in a broad-leaved forest is:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8546296296296296
+      }
+    },
+    {
+      "question": "An example of predation is the interaction between which two organisms?",
+      "context": "10 An example of predation is the interaction between:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7703703703703704
+      }
+    },
+    {
+      "question": "An example of mutualism is the interaction between which two organisms?",
+      "context": "200.11 An example of mutualism is the interaction between:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7705948372615039
+      }
+    },
+    {
+      "question": "An example of competition is the interaction between which two organisms?",
+      "context": "12 An example of competition is the interaction between:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7716049382716049
+      }
+    },
+    {
+      "question": "Which components of the biosphere include basalt, granite, bacteria, plants, animals, fungi, soil, silt, coal, peat, chalk, oxygen, and carbon dioxide of the atmosphere?",
+      "context": "13 Write the names of the components of the biosphere to which the ¬",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.22727272727272727,
+        "diversity_score": 0.877979797979798
+      }
+    },
+    {
+      "question": "Match the ecosystems (artificial ecosystem, natural ecosystem) with their corresponding groups.",
+      "context": "14 Match the ecosystems and the groups to",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8621933621933622
+      }
+    },
+    {
+      "question": "Explain why protection of natural communities is important for preserving the biosphere.",
+      "context": "15 Explain why the protection of natural communities is important",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8344444444444444
+      }
+    },
+    {
+      "question": "Formulate and justify rules to preserve the environment.",
+      "context": "16 Formulate and justify the rules that you will follow",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8836111111111111
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of relationship involves a predator feeding on prey organisms by attacking live prey?",
+      "context": "Predation A type of relationship between populations of two species of organisms (predator and prey), in which predator organisms feed on prey organisms by attacking live prey",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8842760942760943
+      }
+    },
+    {
+      "question": "How do organisms in an ecosystem form a complex holistic system?",
+      "context": "All organisms in an ecosystem are interconnected. Although often such a connection is not direct, but mediated through other species.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.904949494949495
+      }
+    },
+    {
+      "question": "Formulate and justify rules to preserve the environment.",
+      "context": "16 Formulate and justify the rules that you will follow",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8836111111111111
+      }
+    },
+    {
+      "question": "Match the ecosystems (artificial ecosystem, natural ecosystem) with their corresponding groups.",
+      "context": "14 Match the ecosystems and the groups to",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8621933621933622
+      }
+    }
+  ]
+}

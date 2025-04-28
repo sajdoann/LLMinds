@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary purpose of extracting forms from words in a database?",
+      "context": "You would focus only on the forms of these words and you would extract the phrase table, the table to work with, to the database that contains the fully inflected word forms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6761538461538461
+      }
+    },
+    {
+      "question": "What are some examples of phrases that can be translated using the extracted word forms?",
+      "context": "You would know how to translate starého pána, old man, and you would know how to translate černému psobe, black dog.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6833333333333333
+      }
+    },
+    {
+      "question": "What might happen if the database containing the word forms is broken?",
+      "context": "But what happens if you break it?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7694805194805194
+      }
+    },
+    {
+      "question": "How would extracting and using the correct form of a word affect its translation?",
+      "context": "So you would know how to translate starého pána, old man, and you would know how to translate černému psobe, black dog.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6696428571428572
+      }
+    },
+    {
+      "question": "What is the implication of knowing how to extract and use word forms for translation?",
+      "context": "You would focus only on the forms of these words and you would extract the phrase table, the table to work with, to the database that contains the fully inflected word forms.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.6633333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary purpose of extracting forms from words in a database?",
+      "context": "You would focus only on the forms of these words and you would extract the phrase table, the table to work with, to the database that contains the fully inflected word forms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6761538461538461
+      }
+    },
+    {
+      "question": "What is the implication of knowing how to extract and use word forms for translation?",
+      "context": "You would focus only on the forms of these words and you would extract the phrase table, the table to work with, to the database that contains the fully inflected word forms.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.6633333333333333
+      }
+    },
+    {
+      "question": "What are some examples of phrases that can be translated using the extracted word forms?",
+      "context": "You would know how to translate starého pána, old man, and you would know how to translate černému psobe, black dog.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6833333333333333
+      }
+    },
+    {
+      "question": "What might happen if the database containing the word forms is broken?",
+      "context": "But what happens if you break it?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7694805194805194
+      }
+    }
+  ]
+}

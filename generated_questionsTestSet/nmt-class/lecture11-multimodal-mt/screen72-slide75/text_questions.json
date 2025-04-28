@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of information do the images in the document provide?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.48750000000000004
+      }
+    },
+    {
+      "question": "Why are the surrounding words in a street sign advising of penalty sufficient to indicate its relation to soccer game?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.518421052631579
+      }
+    },
+    {
+      "question": "What is the purpose of the penalty box mentioned in the right-hand picture?",
+      "context": "The second sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.4867424242424243
+      }
+    },
+    {
+      "question": "How can the presence of a white lining around a penalty box help determine its relation to soccer game or paying fine?",
+      "context": "The last sentence of the second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.5982142857142857
+      }
+    },
+    {
+      "question": "Why are the words 'round' in the input sensor considered sufficiently informative?",
+      "context": "The first sentence of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5113636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of information do the images in the document provide?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.48750000000000004
+      }
+    },
+    {
+      "question": "How can the presence of a white lining around a penalty box help determine its relation to soccer game or paying fine?",
+      "context": "The last sentence of the second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.5982142857142857
+      }
+    },
+    {
+      "question": "Why are the surrounding words in a street sign advising of penalty sufficient to indicate its relation to soccer game?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.518421052631579
+      }
+    },
+    {
+      "question": "Why are the words 'round' in the input sensor considered sufficiently informative?",
+      "context": "The first sentence of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5113636363636364
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What language was the translation tested on?",
+      "context": "For example, that was tested on English to Greek translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8107142857142857
+      }
+    },
+    {
+      "question": "How do you determine whether a particle noun serves as the subject or object in an English sentence?",
+      "context": "On the source side, you analyze the sentence and you check whether a particle noun serves as a subject or serves as the object in the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8644005847953217
+      }
+    },
+    {
+      "question": "What is the purpose of the mapping table from the role or function of a word in an English sentence to the case in the target Greek?",
+      "context": "Teller now, probe the previous translation table as soon as La semilla labeling, so here the translation table, the mapping table from the role or function of the word in the sentence in English into the case in the target Greek",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8125,
+        "diversity_score": 0.8573481116584565
+      }
+    },
+    {
+      "question": "How does the data for this mapping table get sufficient statistics across all nouns and all subjects and all objects?",
+      "context": "There can be against swaps, changes in the case, but the data will have sufficient statistics for that across all the visible, across all the nouns and all the subjects and all the objects in the data",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6111111111111112,
+        "diversity_score": 0.9016544117647058
+      }
+    },
+    {
+      "question": "What is being learned or inferred in this process of translation?",
+      "context": "It is not learning that for each individual word form",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8352272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being learned or inferred in this process of translation?",
+      "context": "It is not learning that for each individual word form",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "How does the data for this mapping table get sufficient statistics across all nouns and all subjects and all objects?",
+      "context": "There can be against swaps, changes in the case, but the data will have sufficient statistics for that across all the visible, across all the nouns and all the subjects and all the objects in the data",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6111111111111112,
+        "diversity_score": 0.9016544117647058
+      }
+    },
+    {
+      "question": "How do you determine whether a particle noun serves as the subject or object in an English sentence?",
+      "context": "On the source side, you analyze the sentence and you check whether a particle noun serves as a subject or serves as the object in the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8644005847953217
+      }
+    }
+  ]
+}

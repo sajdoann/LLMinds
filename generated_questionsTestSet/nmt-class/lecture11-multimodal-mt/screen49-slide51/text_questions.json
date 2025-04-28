@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the standard approach to training a speech encoder and text decoder?",
+      "context": "The overview picture of the more important approaches to the training",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6912393162393162
+      }
+    },
+    {
+      "question": "How can the pre-training of a translation system be utilized to improve the performance of the speech encoder and text decoder?",
+      "context": "So you would use maybe a larger speech corpus. And then you would pre-train the translation system where the input is the text in the source language and the decoder is producing the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.750534188034188
+      }
+    },
+    {
+      "question": "What is the purpose of fine-tuning the speech encoder and text decoder on the small SLT dataset?",
+      "context": "And then you would reuse the speech encoder and the decoder from the translation phase and fine-tune it on the small SLT dataset.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "How does the teacher-student approach allow for knowledge transfer between different tasks?",
+      "context": "You could also use the teacher-student or knowledge distillation approach. There you train the parallel, the machine translation system that goes from text to target text.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8505434782608696
+      }
+    },
+    {
+      "question": "What is the main advantage of using multitask learning in speech recognition and machine translation?",
+      "context": "And in this multitask learning, you are training it on a triples of the input, the sound, the source transcript and the target individual setting.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7595238095238095
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the standard approach to training a speech encoder and text decoder?",
+      "context": "The overview picture of the more important approaches to the training",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6912393162393162
+      }
+    },
+    {
+      "question": "How can the pre-training of a translation system be utilized to improve the performance of the speech encoder and text decoder?",
+      "context": "So you would use maybe a larger speech corpus. And then you would pre-train the translation system where the input is the text in the source language and the decoder is producing the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.750534188034188
+      }
+    },
+    {
+      "question": "What is the purpose of fine-tuning the speech encoder and text decoder on the small SLT dataset?",
+      "context": "And then you would reuse the speech encoder and the decoder from the translation phase and fine-tune it on the small SLT dataset.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7083333333333333
+      }
+    }
+  ]
+}

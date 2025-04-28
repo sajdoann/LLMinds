@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is factored decoding used for in translation?",
+      "context": "PART.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "How do we create translation options with factored decoding?",
+      "context": "the sequence of mapping steps",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What is the process for generating surface forms in target sites?",
+      "context": "We can translate the lemma to lemma, the morphology to morphology and then generate the surface form of the target site using that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8832070707070707
+      }
+    },
+    {
+      "question": "What are some factors that help construct the correct word form?",
+      "context": "all the other parts or the other factors help to construct the correct word form.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9242424242424243
+      }
+    },
+    {
+      "question": "How do translation options relate to SQL tables?",
+      "context": "they are built using the join operations of the SQL tables, if you want this analogy.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some factors that help construct the correct word form?",
+      "context": "all the other parts or the other factors help to construct the correct word form.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9242424242424243
+      }
+    },
+    {
+      "question": "What is the process for generating surface forms in target sites?",
+      "context": "We can translate the lemma to lemma, the morphology to morphology and then generate the surface form of the target site using that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8832070707070707
+      }
+    },
+    {
+      "question": "How do we create translation options with factored decoding?",
+      "context": "the sequence of mapping steps",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8055555555555556
+      }
+    }
+  ]
+}

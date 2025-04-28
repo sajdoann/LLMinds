@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is an LSTM?",
+      "context": "The first such approach were long shorter memory cells LSTMs from 1997.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "What are the two gates that control a GRU unit?",
+      "context": "So this is controlled by the reset gate. The reset gate tells you which of the values you should keep the same and which of these values you should remove.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8300000000000001
+      }
+    },
+    {
+      "question": "What is the purpose of the reset gate?",
+      "context": "The reset gate erases some information from the previous state or preserves it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7428571428571429
+      }
+    },
+    {
+      "question": "Why are two different nonlinearity functions used, one for the tanH and one for the sigmoid?",
+      "context": "The 10H squashes the input from minus infinity to plus infinity to the interval from minus 1 to plus 1 and the sigmoid produces values between 0 and 1.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8572649572649573
+      }
+    },
+    {
+      "question": "What is the purpose of using a sigmoid function in the gates?",
+      "context": "We want these gates to specify how much should be used from the information whether no information the value of 0 or whether is the full information the value of 1.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7901185770750988
+      }
+    },
+    {
+      "question": "Why do we not want to swap the directions in the gates?",
+      "context": "You don't want to swap the directions as the 10H allows you with the minus one output value.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.863030303030303
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an LSTM?",
+      "context": "The first such approach were long shorter memory cells LSTMs from 1997.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "Why do we not want to swap the directions in the gates?",
+      "context": "You don't want to swap the directions as the 10H allows you with the minus one output value.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.863030303030303
+      }
+    },
+    {
+      "question": "What are the two gates that control a GRU unit?",
+      "context": "So this is controlled by the reset gate. The reset gate tells you which of the values you should keep the same and which of these values you should remove.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8300000000000001
+      }
+    }
+  ]
+}

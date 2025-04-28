@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of vectors do we want to use instead of huge vectors?",
+      "context": "Okay, so that's one problem kind of reused.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How many words can neural machine translation handle in practice?",
+      "context": "And then these are the words that... Productive morphology means that you can create longer and longer words. The set of correct words is actually infinite, depending on the language. And in practice, neural machine translation you can handle only 30, two to 80,000 words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What problem do we face with productive morphology?",
+      "context": "Productive morphology means that you can create longer and longer words. The set of correct words is actually infinite, depending on the language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7217261904761905
+      }
+    },
+    {
+      "question": "How do subword units work in neural machine translation?",
+      "context": "And we will come to this in future lectures. But you simply break the sentence not only at spaces, but you break it also at other points, such as syllables or morphemes. Or you can go to individual characters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8129340277777778
+      }
+    },
+    {
+      "question": "What is the goal of optimizing the dictionary with subword units?",
+      "context": "So the first one was called byte-pair encoding and there are other sentence pieces or word pieces by various researchers. and they essentially make the, we will talk about this again later, but they essentially optimize the dictionary so that words that occur often enough are listed as individual entries and longer words and less frequent words are decomposed from, decomposed into smaller units that are already listed in the dictionary.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8761792452830188
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of vectors do we want to use instead of huge vectors?",
+      "context": "Okay, so that's one problem kind of reused.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How do subword units work in neural machine translation?",
+      "context": "And we will come to this in future lectures. But you simply break the sentence not only at spaces, but you break it also at other points, such as syllables or morphemes. Or you can go to individual characters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8129340277777778
+      }
+    },
+    {
+      "question": "What problem do we face with productive morphology?",
+      "context": "Productive morphology means that you can create longer and longer words. The set of correct words is actually infinite, depending on the language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7217261904761905
+      }
+    }
+  ]
+}

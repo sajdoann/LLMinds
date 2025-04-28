@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the baseline BLEU score?",
+      "context": "We have seen the improvement with the part of speech model in the previous setup. And then we've moved to the linguistically adequate morphological generation model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7835144927536233
+      }
+    },
+    {
+      "question": "How did the BLEU score change after introducing independence assumptions?",
+      "context": "And the BLEU score dropped by 5.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What is the problem with introducing independence assumptions in morphological generation?",
+      "context": "The problem is that we are introducing independence assumptions where they don't have to be introduced.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7166193181818181
+      }
+    },
+    {
+      "question": "Can you directly copy words when you see them in the correct cases?",
+      "context": "But there are many words, which you do see in the correct cases and you can directly copy the the correct word form and you don't have to do the decomposition into lemmas and tags.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8701923076923077
+      }
+    },
+    {
+      "question": "What is the consequence of introducing independence assumptions in morphological generation?",
+      "context": "So these additional independence assumptions bring an information loss and therefore the translation quality drops.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7431818181818182
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can you directly copy words when you see them in the correct cases?",
+      "context": "But there are many words, which you do see in the correct cases and you can directly copy the the correct word form and you don't have to do the decomposition into lemmas and tags.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8701923076923077
+      }
+    },
+    {
+      "question": "How did the BLEU score change after introducing independence assumptions?",
+      "context": "And the BLEU score dropped by 5.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What is the consequence of introducing independence assumptions in morphological generation?",
+      "context": "So these additional independence assumptions bring an information loss and therefore the translation quality drops.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7431818181818182
+      }
+    }
+  ]
+}

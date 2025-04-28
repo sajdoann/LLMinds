@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many heads are used in the system's sentence processing?",
+      "context": "So one head will be always looking at the beginning of the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7291666666666667
+      }
+    },
+    {
+      "question": "What is the effect of increasing the number of heads on the system's performance in polarity check tasks?",
+      "context": "And therefore there is no surprise that the more heads you have, the worse it will perform in some like polarity check tasks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7981060606060606
+      }
+    },
+    {
+      "question": "How does the system handle information about a user's emotional state versus a watcher's emotional state?",
+      "context": "It is like network. It is not deep, but it is superficially following the sentence left to right.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    },
+    {
+      "question": "What happens when there are fewer heads or no attention in the system's sentence processing?",
+      "context": "If you have fewer heads or if you have no attention at all, the whole sentence is available within the vector at the same level and you don't have to search for the information so much.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7925925925925926
+      }
+    },
+    {
+      "question": "What does the observation of the system's processing method illustrate about its capabilities?",
+      "context": "So this is an illustration that the processing is",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.71875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many heads are used in the system's sentence processing?",
+      "context": "So one head will be always looking at the beginning of the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7291666666666667
+      }
+    },
+    {
+      "question": "How does the system handle information about a user's emotional state versus a watcher's emotional state?",
+      "context": "It is like network. It is not deep, but it is superficially following the sentence left to right.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    },
+    {
+      "question": "What happens when there are fewer heads or no attention in the system's sentence processing?",
+      "context": "If you have fewer heads or if you have no attention at all, the whole sentence is available within the vector at the same level and you don't have to search for the information so much.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7925925925925926
+      }
+    }
+  ]
+}

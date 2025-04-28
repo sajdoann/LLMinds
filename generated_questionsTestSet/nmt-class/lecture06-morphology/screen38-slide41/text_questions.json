@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the motivation for translating lemmas to lemmas?",
+      "context": "And this is the motivating example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "How do part of speech tech and morphology relate to generating word forms?",
+      "context": "So that's the linguistically motivating.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7442307692307693
+      }
+    },
+    {
+      "question": "What is the proposed approach for translating lemmas into a new form?",
+      "context": "Like kneecap in any form into Česka.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8675595238095238
+      }
+    },
+    {
+      "question": "How do part of speech tech and morphology contribute to the generation process?",
+      "context": "And then part of speech tech into morphology and part of speech tech.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8376068376068376
+      }
+    },
+    {
+      "question": "What is the ultimate goal of the proposed approach?",
+      "context": "So that's the linguistically motivating.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.69375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the motivation for translating lemmas to lemmas?",
+      "context": "And this is the motivating example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "How do part of speech tech and morphology contribute to the generation process?",
+      "context": "And then part of speech tech into morphology and part of speech tech.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8376068376068376
+      }
+    },
+    {
+      "question": "How do part of speech tech and morphology relate to generating word forms?",
+      "context": "So that's the linguistically motivating.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7442307692307693
+      }
+    },
+    {
+      "question": "What is the proposed approach for translating lemmas into a new form?",
+      "context": "Like kneecap in any form into Česka.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8675595238095238
+      }
+    }
+  ]
+}

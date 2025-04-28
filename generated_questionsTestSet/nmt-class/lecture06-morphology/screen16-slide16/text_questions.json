@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of modal are factored phrase-based empty modal and phrase extraction an extension of?",
+      "context": "So, again, let's summarize it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8678571428571429
+      }
+    },
+    {
+      "question": "How does the decoding step in the factored phrase-based empty modal process differ from other steps?",
+      "context": "And then there is the decoding. And we'll go over the decoding and extraction in a second.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8279761904761904
+      }
+    },
+    {
+      "question": "What are some of the features that will be considered when scoring the final translation?",
+      "context": "So, you will score your final translation not only how good was it in terms of engrams of the language modal, of engrams of word forms, but also how good it was in terms of engrams of morphological tags, engrams of lemmas if you wish, and also in terms of the phrase translations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8638392857142857
+      }
+    },
+    {
+      "question": "How will the weights for these components be trained?",
+      "context": "These weights, so there will be more components and weights of these components can be again trained by the minimum error rate training, except that it will have a harder time because there will be more features to consider.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8602150537634409
+      }
+    },
+    {
+      "question": "What type of structure does the phrase-based modal fit into?",
+      "context": "This fits very nicely to the log-linear structure of the phrase-based modal that we have discussed in the previous lecture.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7680555555555555
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of modal are factored phrase-based empty modal and phrase extraction an extension of?",
+      "context": "So, again, let's summarize it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8678571428571429
+      }
+    },
+    {
+      "question": "How will the weights for these components be trained?",
+      "context": "These weights, so there will be more components and weights of these components can be again trained by the minimum error rate training, except that it will have a harder time because there will be more features to consider.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8602150537634409
+      }
+    },
+    {
+      "question": "How does the decoding step in the factored phrase-based empty modal process differ from other steps?",
+      "context": "And then there is the decoding. And we'll go over the decoding and extraction in a second.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8279761904761904
+      }
+    },
+    {
+      "question": "What are some of the features that will be considered when scoring the final translation?",
+      "context": "So, you will score your final translation not only how good was it in terms of engrams of the language modal, of engrams of word forms, but also how good it was in terms of engrams of morphological tags, engrams of lemmas if you wish, and also in terms of the phrase translations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8638392857142857
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the current version of Cheng, and when was it released?",
+      "context": "So here is the timeline of Cheng over the now 14 years of development actually and this year is 2020 we have released the version 2.0",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7225378787878788
+      }
+    },
+    {
+      "question": "What type of text does Cheng use for its machine translation, and how many words are in these texts?",
+      "context": "we rely on genuine parallel text that's about 61 million sentence pairs or more than a half a giga word in Cheng and English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7989130434782609
+      }
+    },
+    {
+      "question": "Why does Cheng filter out some of its data, and what type of filtering is used?",
+      "context": "So here is the history and you see that we have been gradually growing the corpus and then also regularly shrinking it with some filtering because that's an important part of the exercise",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6833333333333333
+      }
+    },
+    {
+      "question": "What kind of linguistic analysis was included in version 1.6, but not in previous versions?",
+      "context": "the actual language is actually quite heavy to do all these analysis for all the text so that's why we don't provide it and these days there's not so strong interest in linguistic annotations",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7976190476190477
+      }
+    },
+    {
+      "question": "How many words are combined in Cheng version 2.0, according to the author?",
+      "context": "So here is the history and you see that we have been gradually growing the corpus and then also regularly shrinking it with some filtering because that's an important part of the exercise",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6942307692307692
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the current version of Cheng, and when was it released?",
+      "context": "So here is the timeline of Cheng over the now 14 years of development actually and this year is 2020 we have released the version 2.0",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7225378787878788
+      }
+    },
+    {
+      "question": "What type of text does Cheng use for its machine translation, and how many words are in these texts?",
+      "context": "we rely on genuine parallel text that's about 61 million sentence pairs or more than a half a giga word in Cheng and English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7989130434782609
+      }
+    },
+    {
+      "question": "Why does Cheng filter out some of its data, and what type of filtering is used?",
+      "context": "So here is the history and you see that we have been gradually growing the corpus and then also regularly shrinking it with some filtering because that's an important part of the exercise",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6833333333333333
+      }
+    }
+  ]
+}

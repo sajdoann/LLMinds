@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'Nemám kočku' mean in English?",
+      "context": "The original text to translate",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "Who is providing translation guidance?",
+      "context": "The translator's identity or affiliation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the purpose of the translation guidance?",
+      "context": "The overall context and intent of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "How should the translator approach translating phrases like 'Nemám kočku'?",
+      "context": "The translator's role or responsibilities",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What does the translator know about the original input text?",
+      "context": "The translator's knowledge or understanding of the source text",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7604166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'Nemám kočku' mean in English?",
+      "context": "The original text to translate",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "How should the translator approach translating phrases like 'Nemám kočku'?",
+      "context": "The translator's role or responsibilities",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Who is providing translation guidance?",
+      "context": "The translator's identity or affiliation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What does the translator know about the original input text?",
+      "context": "The translator's knowledge or understanding of the source text",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7604166666666667
+      }
+    }
+  ]
+}

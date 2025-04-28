@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the word 'Chetlsem' in the document?",
+      "context": "This sentence, Chetlsem okočce, as I read about a cat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6089285714285715
+      }
+    },
+    {
+      "question": "Why is this sentence included in the parallel data?",
+      "context": "And now you include this in your parallel data and that's the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6856060606060606
+      }
+    },
+    {
+      "question": "What can be inferred about the speaker's tone or attitude towards cats based on the sentence?",
+      "context": "This sentence, Chetlsem okočce, as I read about a cat.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7375
+      }
+    },
+    {
+      "question": "What is being discussed in the context of parallel data?",
+      "context": "And now you include this in your parallel data and that's the...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6772727272727272
+      }
+    },
+    {
+      "question": "How does the speaker transition from discussing a cat to discussing parallel data?",
+      "context": "...as I read about a cat.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7083333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the word 'Chetlsem' in the document?",
+      "context": "This sentence, Chetlsem okočce, as I read about a cat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6089285714285715
+      }
+    },
+    {
+      "question": "What can be inferred about the speaker's tone or attitude towards cats based on the sentence?",
+      "context": "This sentence, Chetlsem okočce, as I read about a cat.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7375
+      }
+    },
+    {
+      "question": "Why is this sentence included in the parallel data?",
+      "context": "And now you include this in your parallel data and that's the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6856060606060606
+      }
+    },
+    {
+      "question": "What is being discussed in the context of parallel data?",
+      "context": "And now you include this in your parallel data and that's the...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6772727272727272
+      }
+    }
+  ]
+}

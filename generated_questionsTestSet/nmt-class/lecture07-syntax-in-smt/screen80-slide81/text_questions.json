@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of the Hidden Markov model?",
+      "context": "But the goal of the Hidden Markov model is to find the best selection of the labels for each of the target site nodes, given the source nodes, in combination.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7585227272727273
+      }
+    },
+    {
+      "question": "What kind of information do the labels provide about a node's usage in the sentence?",
+      "context": "And here the label will consist of the lexical choice the most important condensed information of how that node is used in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "How do the labels for nouns translate to different forms?",
+      "context": "For the noun translation we have two options. It can be translated either as Překlad or Převod and in both cases it will be the nominative case.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "What are the different ways to translate a machine in the sentence?",
+      "context": "For the machine we can translate it as the computer in genitive, the computer in the attributive position and also this machine as an adjective in attributive position.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7404306220095693
+      }
+    },
+    {
+      "question": "What is the purpose of taking the context into account when selecting labels?",
+      "context": "...so that we select the best combination of the labels. And now we want to take the context, the surrounding nodes, into account...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7971491228070176
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of the Hidden Markov model?",
+      "context": "But the goal of the Hidden Markov model is to find the best selection of the labels for each of the target site nodes, given the source nodes, in combination.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7585227272727273
+      }
+    },
+    {
+      "question": "What kind of information do the labels provide about a node's usage in the sentence?",
+      "context": "And here the label will consist of the lexical choice the most important condensed information of how that node is used in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What are the different ways to translate a machine in the sentence?",
+      "context": "For the machine we can translate it as the computer in genitive, the computer in the attributive position and also this machine as an adjective in attributive position.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7404306220095693
+      }
+    },
+    {
+      "question": "What is the purpose of taking the context into account when selecting labels?",
+      "context": "...so that we select the best combination of the labels. And now we want to take the context, the surrounding nodes, into account...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7971491228070176
+      }
+    }
+  ]
+}

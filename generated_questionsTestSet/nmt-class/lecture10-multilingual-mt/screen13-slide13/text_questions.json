@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was initially observed in the system's performance during its learning phase?",
+      "context": "We got this learning curve. So at the beginning, the system was learning on all sentence lengths and the performance seemed better than the baseline.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8273809523809523
+      }
+    },
+    {
+      "question": "Why did the system's performance improve initially?",
+      "context": "This could be an artifact of the oversampling of longer sentences. So in one training step you see actually more words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What was observed as the system was closing the buckets and prohibiting sentences beyond certain lengths?",
+      "context": "But then the interesting observation is that as we were closing the buckets, as we were prohibiting sentences beyond certain lengths, the modal actually unlearned to produce long sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8586309523809523
+      }
+    },
+    {
+      "question": "What is the consequence of the system's inability to memorize the relation between source sentence length and target sentence length?",
+      "context": "It produces sentences as long as the last batch was, not as long as the source sentence is.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8444570135746606
+      }
+    },
+    {
+      "question": "What is the concern when trying to fit many language pairs with this system?",
+      "context": "So when you want to fit many language pairs, you have to be careful.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8675595238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was initially observed in the system's performance during its learning phase?",
+      "context": "We got this learning curve. So at the beginning, the system was learning on all sentence lengths and the performance seemed better than the baseline.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8273809523809523
+      }
+    },
+    {
+      "question": "What is the concern when trying to fit many language pairs with this system?",
+      "context": "So when you want to fit many language pairs, you have to be careful.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8675595238095238
+      }
+    },
+    {
+      "question": "Why did the system's performance improve initially?",
+      "context": "This could be an artifact of the oversampling of longer sentences. So in one training step you see actually more words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What approach to making a model flexible was discussed in David Cheng's paper?",
+      "context": "Introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7596153846153846
+      }
+    },
+    {
+      "question": "What type of substitutions are allowed in STSG to make the model more robust?",
+      "context": "STSG approach",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How does the proper syntactic approach handle non-terminals in a higher-like system?",
+      "context": "Proper syntactic approach",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is the main goal of allowing substitutions with some little cost in the model?",
+      "context": "Introduction",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "How does David Cheng's paper address the issue of penalty for plugging in something that doesn't match well?",
+      "context": "Conclusion",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9097222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What approach to making a model flexible was discussed in David Cheng's paper?",
+      "context": "Introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7596153846153846
+      }
+    },
+    {
+      "question": "What type of substitutions are allowed in STSG to make the model more robust?",
+      "context": "STSG approach",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the main goal of allowing substitutions with some little cost in the model?",
+      "context": "Introduction",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    }
+  ]
+}

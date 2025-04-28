@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of corpora were used to train the child model for Estonian-English translation?",
+      "context": "And now a setup where there is no language in common. And here the test set, the child that we are trying to achieve, is Estonian into English translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8070054945054945
+      }
+    },
+    {
+      "question": "Why did training on corpora with languages other than Estonian-English result in an improvement?",
+      "context": "And we train on corpora like Arabic Russian or Spanish French or Spanish Russian or French Russian.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the relationship between vocabulary reuse and language similarity in the context of machine translation?",
+      "context": "no vocabulary can be reused, the shared vocabulary does not get any benefit from including Spanish and French words for Estonian English translation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "How does the size of the training corpora compare to the intended child model?",
+      "context": "These all come from the UN corpus, so they are of the same size and they are 12 times bigger than the intended child.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "What is the observation regarding the improvement in machine translation with no common language between the source and target languages?",
+      "context": "It's not as big as before, so there is no language in common,",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8263888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the size of the training corpora compare to the intended child model?",
+      "context": "These all come from the UN corpus, so they are of the same size and they are 12 times bigger than the intended child.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "Why did training on corpora with languages other than Estonian-English result in an improvement?",
+      "context": "And we train on corpora like Arabic Russian or Spanish French or Spanish Russian or French Russian.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the observation regarding the improvement in machine translation with no common language between the source and target languages?",
+      "context": "It's not as big as before, so there is no language in common,",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8263888888888888
+      }
+    }
+  ]
+}

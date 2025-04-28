@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the Prague Dependency 3 Bank used for?",
+      "context": "So here is the levels of description.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6130952380952381
+      }
+    },
+    {
+      "question": "How are tokens processed in the Prague Dependency 3 Bank?",
+      "context": "Maybe some of the tokens had some typos or for some reason for morphological purposes at the morphological layer you need to like separate something.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the difference between the surface syntactic and deep syntactic levels of representation in the Prague Dependency 3 Bank?",
+      "context": "And then this is further processed to the deep syntactic level of representation where only content-bearing words have their counterparts, have their nodes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7801120448179272
+      }
+    },
+    {
+      "question": "Why do Czech speakers drop pronouns like 'he' in certain situations?",
+      "context": "So in Czech, Czech is a prodrop language.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8920454545454546
+      }
+    },
+    {
+      "question": "What role do nodes added for entities play in the Prague Dependency 3 Bank's representation of sentences?",
+      "context": "And also there is sometimes nodes added for entities which were part of the sentence syntactically but were not spoken.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7805727554179567
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do Czech speakers drop pronouns like 'he' in certain situations?",
+      "context": "So in Czech, Czech is a prodrop language.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8920454545454546
+      }
+    },
+    {
+      "question": "What is the difference between the surface syntactic and deep syntactic levels of representation in the Prague Dependency 3 Bank?",
+      "context": "And then this is further processed to the deep syntactic level of representation where only content-bearing words have their counterparts, have their nodes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7801120448179272
+      }
+    },
+    {
+      "question": "How are tokens processed in the Prague Dependency 3 Bank?",
+      "context": "Maybe some of the tokens had some typos or for some reason for morphological purposes at the morphological layer you need to like separate something.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

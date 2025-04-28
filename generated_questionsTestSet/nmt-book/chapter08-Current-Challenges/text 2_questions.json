@@ -1,0 +1,336 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main challenge of neural machine translation that is being examined in this research?",
+      "context": "We show that, despite its recent successes, neural machine translation still has to overcome various challenges, most notably performance out-of-domain and under low resource conditions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8322222222222222
+      }
+    },
+    {
+      "question": "Why are neural machine translation systems less interpretable than traditional statistical machine translation systems?",
+      "context": "neural machine translation systems are much less interpretable. The answer to the question of why the training data leads these systems to decide on specific word choices during decoding is buried in large matrices of real-numbered values.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What is a common challenge in machine translation?",
+      "context": "A known challenge in translation is that in different domains, 5 words have different translations and meaning is expressed in different styles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8037683823529411
+      }
+    },
+    {
+      "question": "What approach are methods for domain adaptation often based on?",
+      "context": "A currently popular approach is to train a general domain system, followed by training on in-domain data for a few epochs (Luong and Manning, 2015.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.893840579710145
+      }
+    },
+    {
+      "question": "What are the main differences between in-domain and out-of-domain performance for neural machine translation systems?",
+      "context": "While the in-domain neural and statistical machine translation systems are similar (neural machine translation is better for IT and Subtitles, statistical machine translation is better for Law, Medical, and Koran), the out-of-domain performance for the neural machine translation systems is worse in almost all cases, sometimes dramatically so.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8291666666666666
+      }
+    },
+    {
+      "question": "How do increasing amounts of training data affect BLEU scores for statistical machine translation systems?",
+      "context": "A well-known property of statistical systems is that increasing amounts of training data lead to better results. In statistical machine translation systems, we have previously observed that doubling the amount of training data gives a fixed increase in BLEU scores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7857142857142857,
+        "diversity_score": 0.8601128472222223
+      }
+    },
+    {
+      "question": "What is the general trend observed in the learning curve of neural vs. statistical machine translation?",
+      "context": "Neural machine translation exhibits a much steeper learning curve, starting with abysmal results (BLEU score of 1.6 vs. 16.4 for 1 1024 of the data), outperforming statistical machine translation 25.7 vs. 24.7 with 1 16 of the data (24.1 million words), and even beating the statistical machine translation system with a big language model with the full data set (31.1 for neural machine translation, 28.4 for statistical machine translation, 30.4 for statistical with a big language model).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8413416075650118
+      }
+    },
+    {
+      "question": "What is the main difference in how statistical and neural machine translation systems perform on noisy data?",
+      "context": "Statistical machine translation is fairly robust to noisy data . The quality of systems holds up fairly well, even if large parts of the training data are corrupted in various ways, such as mis6 Spanish was last represented in 2013, we used data from http.//statmt.org/wmt13/translation-task.html.Ratio shuffled 0. 10. 20. 50.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8306038324420677
+      }
+    },
+    {
+      "question": "What happens to the quality of statistical machine translation systems when 50% of the data is perturbed?",
+      "context": "Even with 50. of the data perturbed, the quality only drops from 32.7 to 32.0 BLEU points, about what is to be expected with half the valid training data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "Why does neural machine translation system degrade severely compared to statistical machine translation systems?",
+      "context": "A possible explanation for this poor behavior of neural machine translation models is that its prediction has to find a good balance between language model and input context as the main driver.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8503024193548387
+      }
+    },
+    {
+      "question": "What is the role of attention in neural machine translation?",
+      "context": "t is used to obtain probability distributions over words or phrases, arguably the attention model has a broader role.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7673245614035088
+      }
+    },
+    {
+      "question": "Why do word representations produced by bidirectional gated recurrent neural networks have context information?",
+      "context": "the word representations are products of bidirectional gated recurrent neural networks that have the effect that each word representation is informed by the entire sentence context.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8997564935064934
+      }
+    },
+    {
+      "question": "What is the purpose of comparing the soft alignment matrix with traditional word alignment methods?",
+      "context": "But there is a clear need for an alignment mechanism between source and target words. For instance, prior work used the alignments provided by the attention model to interpolate word translation decisions with traditional probabilistic dictionaries (Arthur et al., 2016), for the introduction of coverage and fertility models (Tu et al., 2016b), etc.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8383152173913043
+      }
+    },
+    {
+      "question": "What is measured to compare the performance of the attention model with traditional word alignment methods?",
+      "context": "We measure how well the soft alignment (attention model) of the neural machine translation system match the alignments of fast-align with two metrics..Language Pair Match Prob. Table 8.3.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8373263888888889
+      }
+    },
+    {
+      "question": "What is the purpose of fast-align in this context?",
+      "context": "In these scores, we have to handle byte pair encoding and many-to-many alignments 7",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7933201058201058
+      }
+    },
+    {
+      "question": "What happens if an input word is split into subwords by byte pair encoding?",
+      "context": "(2) If an input word is split into subwords by byte pair encoding, then we add their attention scores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.9006892230576441
+      }
+    },
+    {
+      "question": "How are the match scores computed?",
+      "context": "(6a) for the match score. count it as correct if the . aligned words among the top . highest scoring words according to attention and",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8700396825396826
+      }
+    },
+    {
+      "question": "What is the effect of guided alignment training on word alignments?",
+      "context": "Note that the attention model may produce better word alignments by guided alignment training (Chen et al., 2016b. Liu et al., 2016) where supervised word alignments (such as the ones produced by fast-align) are provided to model training.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8313782991202346
+      }
+    },
+    {
+      "question": "What is Beam Search?",
+      "context": "8.5 Beam Search The task of decoding is to find the full sentence translation with the highest probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7174479166666666
+      }
+    },
+    {
+      "question": "Why is the divergence for German.English considered an outlier?",
+      "context": "Table 8.3 shows alignment scores for the systems. The results suggest that, while drastic, the divergence for German.English is an outlier.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.849537037037037
+      }
+    },
+    {
+      "question": "What is the optimal beam size for most language pairs?",
+      "context": "Optimal beam sizes are in the range of 30.50 in almost all cases, but quality still drops with larger beams.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7968201754385965
+      }
+    },
+    {
+      "question": "What is the typical relationship between beam size and model score/quality score?",
+      "context": "While there are diminishing returns for increasing the beam parameter, typically improvements in these scores can be expected with larger beams.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8427579365079365
+      }
+    },
+    {
+      "question": "Why does quality drop with larger beams?",
+      "context": "The main cause of deteriorating quality are shorter translations under wider beams.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8712797619047619
+      }
+    },
+    {
+      "question": "What is the optimal beam size range for most cases?",
+      "context": "Optimal beam sizes are in the range of 30.50 in almost all cases",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7770833333333333
+      }
+    },
+    {
+      "question": "Why do larger beams result in poorer translation quality?",
+      "context": "The main cause of deteriorating quality are shorter translations under wider beams",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8559027777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens if an input word is split into subwords by byte pair encoding?",
+      "context": "(2) If an input word is split into subwords by byte pair encoding, then we add their attention scores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.9006892230576441
+      }
+    },
+    {
+      "question": "Why do word representations produced by bidirectional gated recurrent neural networks have context information?",
+      "context": "the word representations are products of bidirectional gated recurrent neural networks that have the effect that each word representation is informed by the entire sentence context.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8997564935064934
+      }
+    },
+    {
+      "question": "What approach are methods for domain adaptation often based on?",
+      "context": "A currently popular approach is to train a general domain system, followed by training on in-domain data for a few epochs (Luong and Manning, 2015.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.893840579710145
+      }
+    },
+    {
+      "question": "Why does quality drop with larger beams?",
+      "context": "The main cause of deteriorating quality are shorter translations under wider beams.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8712797619047619
+      }
+    },
+    {
+      "question": "Why are neural machine translation systems less interpretable than traditional statistical machine translation systems?",
+      "context": "neural machine translation systems are much less interpretable. The answer to the question of why the training data leads these systems to decide on specific word choices during decoding is buried in large matrices of real-numbered values.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8472222222222222
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to a model's translation quality when it has access to training data within the same domain as the test set?",
+      "context": "If you can get hold of training data within the domain, then suddenly your translation quality is so much better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.75625
+      }
+    },
+    {
+      "question": "What is the ideal situation for a model's training and testing data?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "How does having training data in the same domain as the test set impact the model's performance?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "What is the implication of not having access to training data within the domain of the test set?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "How does the model's translation quality compare when it has or doesn't have access to training data in the same domain as the test set?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7934782608695652
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does having training data in the same domain as the test set impact the model's performance?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "What is the ideal situation for a model's training and testing data?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "How does the model's translation quality compare when it has or doesn't have access to training data in the same domain as the test set?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7934782608695652
+      }
+    },
+    {
+      "question": "What is the implication of not having access to training data within the domain of the test set?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7666666666666666
+      }
+    }
+  ]
+}

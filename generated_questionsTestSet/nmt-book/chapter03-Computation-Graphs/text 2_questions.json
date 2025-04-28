@@ -1,0 +1,182 @@
+{
+  "all_questions": [
+    {
+      "question": "What are computation graphs in neural networks?",
+      "context": "Neural networks, viewed as computation graphs, are any arbitrary connected operations between an input and any number of parameters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "How do computation graphs represent a network's structure?",
+      "context": "The graph contains as nodes the parameters of the models (the weight matrices, and bias vectors.,), the input . and the mathematical operations that are carried out between them (product, sum, and sigmoid).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9193672839506173
+      }
+    },
+    {
+      "question": "What is the first step in computing the error during model training?",
+      "context": "To compute the error, we need to add another computation at the end of the computation graph.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7791375291375291
+      }
+    },
+    {
+      "question": "What is the purpose of the backward pass in gradient computations?",
+      "context": "We want to compute values in a backward pass, starting from the error term.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "What is the formula for computing the gradient of the L2 norm?",
+      "context": ".L2.1.The given target output value given as training data is., while we computed.743 in the forward pass. Hence, the gradient for the L2 norm is.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7965909090909091
+      }
+    },
+    {
+      "question": "What is the role of the chain rule in computing gradients?",
+      "context": "Plugging in the value for.06 computed in the forward pass into this formula gives us 0.191. The chain rule requires us to multiply this with the value that we just computed for the L2 node, i.e., 0.257, which gives us.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7763888888888889
+      }
+    },
+    {
+      "question": "What is the purpose of adding gradients from multiple output nodes in a computation graph?",
+      "context": "So, there are multiple output nodes that feed back gradients in the back-propagation pass. In this case, we add up the gradients from these descendent steps to factor in their added impact.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.814781746031746
+      }
+    },
+    {
+      "question": "What is a node in a computation graph comprised of?",
+      "context": "a function that computes its value . links to input nodes (to obtain argument values) . when processing an example in the forward pass, the computed value.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7935185185185185
+      }
+    },
+    {
+      "question": "What are some prominent deep learning frameworks?",
+      "context": "At the time of writing, the most prominent ones are Theano , Torch , pyTorch , DyNet , and Tensorflow .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8686974789915967
+      }
+    },
+    {
+      "question": "What is the purpose of the sigmoid activation function?",
+      "context": "the mapping function which consists of the linear combination T.dot and the sigmoid activation function..T.dmatrix..theano.shared(value.numpy.array(..3.0,2.0.,.4.0,3.0..)).theano.shared(value.numpy.array(-2.0,-4.0).).\n    ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7423878205128205
+      }
+    },
+    {
+      "question": "What is the derivative of the cost function computed using Theano?",
+      "context": "gW, gb, gW2, gb2 . TGrad(cost, .W,b,W2,b2",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8404761904761905
+      }
+    },
+    {
+      "question": "What is the learning rate used in the training function?",
+      "context": ".train.theano.function(inputs..x,y.,outputs..y_pred,cost., updates.((W, W-0.1.gW), (b, b-0.1.gb), (W2, W2-0.1.gW2), (b2, b2-0.1.gb2)))",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of updating model parameters in the training function?",
+      "context": ".train.theano.function(inputs..x,y.,outputs..y_pred,cost., updates.((W, W-0.1.gW), (b, b-0.1.gb), (W2, W2-0.1.gW2), (b2, b2-0.1.gb2)))",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7765151515151516
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the first step in computing the error during model training?",
+      "context": "To compute the error, we need to add another computation at the end of the computation graph.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7791375291375291
+      }
+    },
+    {
+      "question": "What are computation graphs in neural networks?",
+      "context": "Neural networks, viewed as computation graphs, are any arbitrary connected operations between an input and any number of parameters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "What is the role of the chain rule in computing gradients?",
+      "context": "Plugging in the value for.06 computed in the forward pass into this formula gives us 0.191. The chain rule requires us to multiply this with the value that we just computed for the L2 node, i.e., 0.257, which gives us.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7763888888888889
+      }
+    }
+  ]
+}

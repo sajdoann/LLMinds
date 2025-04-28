@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main topic of discussion for this lecture?",
+      "context": "So welcome to one of the final talks or lectures on a machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8178571428571428
+      }
+    },
+    {
+      "question": "Why is the title of the lecture made catchy?",
+      "context": "I've made the title really interesting I'm going to ask or we're going to discuss whether current empty systems understand what they are translating or not",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8478260869565217
+      }
+    },
+    {
+      "question": "What specific aspect of machine translation will be discussed?",
+      "context": "so there's the catchy title but in fact we'll be discussing word and sentence representations",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "Will this lecture include technical details about machine translation?",
+      "context": "there will be some technical detail",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What is the overall purpose of the discussion on word and sentence representations in machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8916666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Will this lecture include technical details about machine translation?",
+      "context": "there will be some technical detail",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What specific aspect of machine translation will be discussed?",
+      "context": "so there's the catchy title but in fact we'll be discussing word and sentence representations",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What is the overall purpose of the discussion on word and sentence representations in machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8916666666666666
+      }
+    }
+  ]
+}

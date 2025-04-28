@@ -1,0 +1,809 @@
+{
+  "all_questions": [
+    {
+      "question": "What is гіпотонія?",
+      "context": "Чому в деяких місцевостях у людей часто розвивається зоб і по­прушується робота щитоподібної залози?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7528429282160626
+      }
+    },
+    {
+      "question": "Why is it important for products of nutrition to contain vitamins?",
+      "context": "Чому в продуктах харчування повинні міститися віта­міни?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9219810040705563
+      }
+    },
+    {
+      "question": "What is the main goal of personal hygiene?",
+      "context": "Основною метою особистої гігієни людини є збереження її здоров’я та покращення якості життя.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7989380022962113
+      }
+    },
+    {
+      "question": "Why is rational eating important?",
+      "context": "Не менш важливою складовою ЗСЖ є раціональне харчування.Organізм людини повинен отримувати потрібні йому речовyny в певних пропорціях.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9180860403863038
+      }
+    },
+    {
+      "question": "What is the main reason for the need of physical loading in humans?",
+      "context": "Еволюція людини відбувалася протягом мільйонів років. І весь цей час основою виживання людини була висока фізична активність.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8566542288557214
+      }
+    },
+    {
+      "question": "What is the recommended duration of rest for an organism to restore its functionality?",
+      "context": "Характер відпочинку і його тривалість повинні забезпечувати максимальне відновлення працездатності організму.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8887865865477806
+      }
+    },
+    {
+      "question": "What is the purpose of alternating work and rest?",
+      "context": "Чергування роботи й відпочинку повинно бути раціональним.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8445865908552476
+      }
+    },
+    {
+      "question": "What are primary and secondary sex characteristics?",
+      "context": "Які статеві ознаки називають пер­\nініми, а які — вто­\nінними?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9119402985074627
+      }
+    },
+    {
+      "question": "What is the importance of sexual culture in society?",
+      "context": "Важливість статевої культури полягає в тому, що вона зумовлює репродуктивний успіх не тільки окремої людини, але й різних людських популяцій та всього виду в цілому.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8349917081260365
+      }
+    },
+    {
+      "question": "What types of diseases are transmitted through sexual contact?",
+      "context": "Захворювання, що передаються статевим шляхом, поділяють на окремі групи за систематичною приналежністю.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.898424543946932
+      }
+    },
+    {
+      "question": "What are the main types of organisms that can cause sexually transmitted diseases?",
+      "context": "Більшість із них — гриби та одноклітинні еукаріоти (кандиди, трихомонади тощо) (мал. 18.3). Але трапляються і багатоклітинні паразити (коростяний свербун, лобкова.voша) (мал. 18.4).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8803621751382945
+      }
+    },
+    {
+      "question": "What are the rules for safe sexual behavior according to WHO?",
+      "context": "Всесвітня організація охорони здоров’я (ВООЗ) сформулювала правила безпечної статевої поведінки : ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9146879240162822
+      }
+    },
+    {
+      "question": "What is the main organ that protects the body from alcohol?",
+      "context": "...який орган тіла людини максимально знешкоджує алкоголь, що потрапляє в організм?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8630936227951154
+      }
+    },
+    {
+      "question": "What is the main substance responsible for nicotine addiction?",
+      "context": "Основною речовиною, яка спричиняє звикання до куріння, є нікотин.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.845771144278607
+      }
+    },
+    {
+      "question": "How does smoking affect the body's systems?",
+      "context": "продукти куріння потрапляють в організм через органи дихальної системи, тому вони peterають найбільше.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9428407413482041
+      }
+    },
+    {
+      "question": "What is the effect of nicotine on the human body?",
+      "context": "У випадку потрапляння в організм нікотин стимулює єйторність речовин, які викликають ейфорію та покращують настрій.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8366500829187397
+      }
+    },
+    {
+      "question": "What are the negative effects of excessive alcohol consumption on the nervous system?",
+      "context": "Алкоголь порушує роботу центральної нервової системи. Вінůže бути причиною галюцинацій, неадекватного сприйняття дійсності, психічних розладів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9016169154228856
+      }
+    },
+    {
+      "question": "What is the relationship between steatosis and cirrhosis of the liver?",
+      "context": "Стеароз — жирова хворба; печінка руйнується (мал. 19.3). Найгіршим наслідком може бути цироз печінки і повна її загибель.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8528192371475953
+      }
+    },
+    {
+      "question": "Що таке фактори середовища?",
+      "context": "Фактори середовища поділяють на різні групи.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9732587064676617
+      }
+    },
+    {
+      "question": "Які небіологічні фактори можуть впливати на стан здоров’я людини?",
+      "context": "Небіological’ні фактори можуть впливати на стан здоров’я людини.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.974709784411277
+      }
+    },
+    {
+      "question": "Які біiologicalні фактори можуть негативно впливати на людський организалізм?",
+      "context": "Біологічні фактори mohou негативно впливати на людський організізм.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9812396351575456
+      }
+    },
+    {
+      "question": "Які функції в організмі людини виконують гормони?",
+      "context": "Гормони виконують різні функції в організі людини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9808102345415778
+      }
+    },
+    {
+      "question": "Що таке стрес?",
+      "context": "Стресом також називають стан організму в цілому і його нервової системи зокрема в період такої нейрогуморальної відпо віді.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.972929470295581
+      }
+    },
+    {
+      "question": "Що є причиною стресу?",
+      "context": "Дуже часто стресові фактори виникають у результаті діяльності людини. Залежно від того, що є причиною стресу, розрізняють  фізіологічний і  психоемоційний  стрес.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9756574271499645
+      }
+    },
+    {
+      "question": "Якorganized tělo реагує на стрес?",
+      "context": "Розрізнають три стадії стресу: тривоги, опору, виснаження. У відпowiedі організму на дію стресового фактора беруть участь багато органів (мал. 20.1).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9865671641791045
+      }
+    },
+    {
+      "question": "What is the main purpose of the immune system?",
+      "context": "Робота імунної системи",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7842039800995024
+      }
+    },
+    {
+      "question": "What are the different types of organs in the immune system?",
+      "context": "Склад імунної системи людини",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8455223880597015
+      }
+    },
+    {
+      "question": "What is the role of the thymus and the bone marrow in the immune system?",
+      "context": "Центральними органами є тимус і кістковий мозок (мал. 21.1)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8453565505804312
+      }
+    },
+    {
+      "question": "What is the main structure of the immune system?",
+      "context": "Оrganічна основою імунної системи є лімфоїдна тканина.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7845149253731343
+      }
+    },
+    {
+      "question": "Which organ is responsible for producing white blood cells?",
+      "context": "Ще одним дже-релом утворення лейкоцитів є кістковий мозок.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9429933665008292
+      }
+    },
+    {
+      "question": "What is the role of Timus in the immune system?",
+      "context": "Тимус — це залоза, яка дуже активно працює у людей молодого віку, а потім знижує свою активність.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8196761291581309
+      }
+    },
+    {
+      "question": "What is the function of V-lymphocytes in the immune system?",
+      "context": "Гуморальний імунітет працює завдяки діяльності В-лімфоцитів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8304311774461028
+      }
+    },
+    {
+      "question": "What is the role of Antitila (Immunoglobulin) in the immune system?",
+      "context": "Антитіла — хімічні речовини, що доправ­ляються кров'ю,— знищують сторонні тіла",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8373134328358209
+      }
+    },
+    {
+      "question": "What are the cells responsible for the immune system?",
+      "context": "Клітинний імунітет забезпечується Т-лімфоцитами, нейтрофілами та ма-\nкрофагами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8628731343283582
+      }
+    },
+    {
+      "question": "What is the main difference between cellular and humoral immunity?",
+      "context": "Клітинний імунітет був відкритий І. Мечниковим, а гуморальний — П. Ерліхом. Суперечка між цими вченими тривала досить довго, і кожний із них наводив аргументи на користь своєї гіпотези.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653518123667377
+      }
+    },
+    {
+      "question": "What are the five classes of antibodies?",
+      "context": ".Тема 6\\nУ людини розрізняють п’ять класів антитіл (імуноглобулінів), які позначають літери́ми латинського алфавіту: G, M, A, D, E (IgG, IgM, IgA, IgD, IgE). Найпоширенішими серед них є імуноглобуліни класу G (IgG).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8391567508081712
+      }
+    },
+    {
+      "question": "What are the main causes of non-infectious diseases?",
+      "context": "Частково вони мають спадкову природу. Значна частина виникає під впливом факторів навко-лішнього середовища, а деякі є наслідком порушення здорового способу житя та шкідливих звичок (куріння, алкоголізм тощо).",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8252142067440575
+      }
+    },
+    {
+      "question": "What is the significance of non-infectious diseases?",
+      "context": "Значення неінфекційних захворювань. За даними ВООЗ (2018 рік), щорічно у світі від неінфекційний́х зах̀­рувань помирає 41 млн людей, що становить понад 70 % усіх смертей у світі.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7920698704280794
+      }
+    },
+    {
+      "question": "What is the main cause of non-infectious diseases?",
+      "context": "Za даними ВООЗ (2018 рік), щорічно у світі від неінфекційних захrudувань помирає 41 млн людей, що становить понад 70 % усіх смертей у світі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7933160285528877
+      }
+    },
+    {
+      "question": "What is the main factor that contributes to the development of many non-infectious diseases?",
+      "context": "Суттєвим фактором, який сприяє розвитку багатьох неінфекційних захrudувань, є довготривалий стрес.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8680200396618307
+      }
+    },
+    {
+      "question": "What is the most common non-infectious disease?",
+      "context": "Найбільш поширеними неінфекційними захворюваннями людини є серцево-судинні, онкологоічні захворювання і діабет",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8241907346384958
+      }
+    },
+    {
+      "question": "What is the main risk factor for non-infectious diseases?",
+      "context": "До таких факторів належать куріння,ожиріння, вживання алкоголю, недостатня фізична активність.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8471807628524046
+      }
+    },
+    {
+      "question": "What is the cause of a thrombus?",
+      "context": "Тромбоз (перекриття судини згустком крові — тромбом)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8017057569296375
+      }
+    },
+    {
+      "question": "What is the immediate medical response to an ischemic stroke?",
+      "context": "Негайно викликати швидку медичну допомогу",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8932835820895523
+      }
+    },
+    {
+      "question": "What are some common signs of an ischemic stroke?",
+      "context": "Раптова слабкість, параліч м’язів обличчя або кінцівок, переважно з одного боку ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9107492838836122
+      }
+    },
+    {
+      "question": "What is the risk of insolvency if someone with diabetes doesn't control their glucose levels?",
+      "context": "Цукровий діабет — хронічне захворювання, що виникає через нездатність клітин організму засвоювати глюкозу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8996555683122848
+      }
+    },
+    {
+      "question": "What is the main cause of insulin resistance in type 1 diabetes?",
+      "context": "Набута резистентність до інсуліну, за яку утворений інсулін не сприймається організмом.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8658412483039348
+      }
+    },
+    {
+      "question": "What is the normal level of insulin in the body?",
+      "context": "Глюкоза;інсулін",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8474295190713101
+      }
+    },
+    {
+      "question": "Which organisms are called parasites?",
+      "context": "Які організми називають паразитами?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9667910447761194
+      }
+    },
+    {
+      "question": "Can multicellular animals be parasites?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9970149253731343
+      }
+    },
+    {
+      "question": "What is the main difference between сапронози, зоонозі and антропонозі?",
+      "context": "Збудники сапронозних інфекцій (правця, легіо¬нельозу) живуть у природних неживих (абіотічних) місцях проживання (ґрунт, водойма тощо). Збудники зоонозних інфекцій (чума, ящур) у природному середовищі живуть в організмах певних видів тварин (грізунів, копитніх, кліщів тощо).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8637526652452026
+      }
+    },
+    {
+      "question": "How do сапронозі інфекції usually spread?",
+      "context": "СапRONОЗНІНІНІНІНІНІСТИ. Збудники сапронозних інфекцій (правець, легіонельозу) живуть у природних неживих (абіотічних) місцях проживаня (ґрунт, водойма тощо).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9852300995024875
+      }
+    },
+    {
+      "question": "What are the main ways of transmission for зоонозні інфекції?",
+      "context": "Збудники зоонозних інфекцій (чума, ящур) у природному середовищі живуть в organisмах певних видів тварин (грізунів, копитніх, кліщїв тощо).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What is the main way of transmission for антропонозі інфекції?",
+      "context": "Збудники антропонозних інфекцій (кір, вітряна віспа) живуть тільки в організмі людини і поза ним через певний час гинуть.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8286069651741294
+      }
+    },
+    {
+      "question": "What is the main cause of the spread of diseases?",
+      "context": "Уникати контакту  з тваринами",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8087686567164178
+      }
+    },
+    {
+      "question": "Why should people avoid touching their nose and mouth?",
+      "context": "Уникайти прямий контакт рук із носом та ротом",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9795812603648425
+      }
+    },
+    {
+      "question": "What is the purpose of vaccination?",
+      "context": "Спеціфічна профілактика спрямована на попередження конкретного захворювання. Складовими такої профілактики зазвичай є профілактична вакцинація та застосування сироваток.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7665349721978344
+      }
+    },
+    {
+      "question": "What is the main goal of a healthy lifestyle?",
+      "context": "Здоров’є — це стан повного фізичного, душевного і соціального благополуччя, а не тільки відсутність хвороб і физичних вад.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8212369524924398
+      }
+    },
+    {
+      "question": "What is the purpose of social comfort?",
+      "context": "Психологічний комфорт",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8134328358208955
+      }
+    },
+    {
+      "question": "What ishealthy lifestyle?",
+      "context": "Це спосіб життя на основі розумного використання свого життєвого потенціалу і дотримвання науково обґрунтованих рекомендацій із різних сфер життєдіяльності.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85847080387536
+      }
+    },
+    {
+      "question": "What isimmunoterroria?",
+      "context": "Імунокорекція — це сукупність способів і методів лікування та профілактики порушень роботи імунної системи людини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7858208955223881
+      }
+    },
+    {
+      "question": "Why is vaccination important?",
+      "context": "Вакцинація проти збудників, для яких створено вакцин (гепатит В, папіломовірус).",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9171641791044776
+      }
+    },
+    {
+      "question": "What is the main goal of the assignment on analyzing perspectives on eradication of the most dangerous infectious diseases?",
+      "context": "Проаналізуйте Perspective ліквідації в усьому світі найбільш небезпечних інфекцій (чуми, СНІДу, холeri, туберкульозу, гарячки Ебола) та зробіть презентацію на основі власного бачення цієї проблеми.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863805970149254
+      }
+    },
+    {
+      "question": "What is the role of ecology in the system of sciences?",
+      "context": "Екологія є наукою, яка вивчає взаємодію живих організмів між собою та навколишнім середовищем.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8268274014542671
+      }
+    },
+    {
+      "question": "What are the main areas of study in ecology?",
+      "context": "Основними напрямками сучасної екології є загальна, спеціальна і прикладна, що мають свої окремі галузі.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8332741056621654
+      }
+    },
+    {
+      "question": "What are the main subfields of contemporary ecology?",
+      "context": " загальна екологія вивчає загальні проблеми екосистем різного рів-\nня. Її основними галузями є:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8394087256027555
+      }
+    },
+    {
+      "question": "What is special ecological research focused on?",
+      "context": "Спеціальна екологія  вивчає екологію окремих систематичних (тва-\nрин, рослин, грибів тощо) чи екологічних (паразіти, гідробіонти тощо) \nгруп організмів або конкретних типів екосистем (урбоекологія, напри-\nklad, виває écologie міст).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8975361288794125
+      }
+    },
+    {
+      "question": "What is applied ecology focused on?",
+      "context": "Прикладна екологія  вивчає дію окремих чинників на екосистеми, \nвона спрямована на розв’язання практичних питань. До цього напрям-\nку відносять техноекологію, сільськогосподарську екологію, екологічну токсикологію тощо.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8762437810945274
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which organisms are called parasites?",
+      "context": "Які організми називають паразитами?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9667910447761194
+      }
+    },
+    {
+      "question": "What is the function of V-lymphocytes in the immune system?",
+      "context": "Гуморальний імунітет працює завдяки діяльності В-лімфоцитів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8304311774461028
+      }
+    },
+    {
+      "question": "Які функції в організмі людини виконують гормони?",
+      "context": "Гормони виконують різні функції в організі людини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9808102345415778
+      }
+    },
+    {
+      "question": "Can multicellular animals be parasites?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9970149253731343
+      }
+    },
+    {
+      "question": "Які небіологічні фактори можуть впливати на стан здоров’я людини?",
+      "context": "Небіological’ні фактори можуть впливати на стан здоров’я людини.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.974709784411277
+      }
+    }
+  ]
+}

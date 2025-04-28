@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using the attention mechanism in this context?",
+      "context": "So that is what the attention ensures.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7418831168831169
+      }
+    },
+    {
+      "question": "How does the decoder represent target sentence dependencies?",
+      "context": "We will use the decoder to represent the target sentence dependencies which is the language model properties like",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What information does the attention mechanism provide at every time step?",
+      "context": "So that is the attention.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6590909090909091
+      }
+    },
+    {
+      "question": "Why are long distance dependencies not represented within one single vector?",
+      "context": "So the idea is we are not going to force the network to represent long distance dependencies within one single vector.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9078947368421053
+      }
+    },
+    {
+      "question": "What will be used as a query for the source word sentence?",
+      "context": "We will use it as a query for the source word sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8645833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What information does the attention mechanism provide at every time step?",
+      "context": "So that is the attention.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6590909090909091
+      }
+    },
+    {
+      "question": "How does the decoder represent target sentence dependencies?",
+      "context": "We will use the decoder to represent the target sentence dependencies which is the language model properties like",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is the purpose of using the attention mechanism in this context?",
+      "context": "So that is what the attention ensures.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7418831168831169
+      }
+    }
+  ]
+}

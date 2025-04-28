@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the previous state of the art in machine translation?",
+      "context": "The introduction or motivation section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Why did word alignment become necessary after the previous state of the art?",
+      "context": "The first paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.58125
+      }
+    },
+    {
+      "question": "How do word alignments need to be constructed?",
+      "context": "The second paragraph of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5718749999999999
+      }
+    },
+    {
+      "question": "Can word alignments always be one-to-one?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5458333333333333
+      }
+    },
+    {
+      "question": "What is the main goal of using phrases extracted from word alignments?",
+      "context": "The third paragraph of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.5916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the previous state of the art in machine translation?",
+      "context": "The introduction or motivation section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Why did word alignment become necessary after the previous state of the art?",
+      "context": "The first paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.58125
+      }
+    },
+    {
+      "question": "Can word alignments always be one-to-one?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5458333333333333
+      }
+    },
+    {
+      "question": "What is the main goal of using phrases extracted from word alignments?",
+      "context": "The third paragraph of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.5916666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What approach did another team apply in the same year as the log-link-near approach and phrase-based approach?",
+      "context": "In the same year, another team applied that same approach to the full sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.86875
+      }
+    },
+    {
+      "question": "How does the encoder consume the source words one at a time?",
+      "context": "They simply fed the input sentence into an encoder and then decoded it from there.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8757575757575757
+      }
+    },
+    {
+      "question": "What is the purpose of the matrix that specifies how to mix the states so far with the current word?",
+      "context": "And in every step, there is a matrix that specifies how do we mix these states so far with the current word.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8542780748663101
+      }
+    },
+    {
+      "question": "What type of representation does the one-hot representation of the word become?",
+      "context": "This is the one-hot representation of the word. So first, the one-hot representation is converted to the dense embedding.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7606837606837606
+      }
+    },
+    {
+      "question": "What does the sentence state or encoder state representation represent?",
+      "context": "So that is a vector which somehow represents everything that we have consumed so far.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7702991452991453
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What approach did another team apply in the same year as the log-link-near approach and phrase-based approach?",
+      "context": "In the same year, another team applied that same approach to the full sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.86875
+      }
+    },
+    {
+      "question": "How does the encoder consume the source words one at a time?",
+      "context": "They simply fed the input sentence into an encoder and then decoded it from there.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8757575757575757
+      }
+    },
+    {
+      "question": "What does the sentence state or encoder state representation represent?",
+      "context": "So that is a vector which somehow represents everything that we have consumed so far.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7702991452991453
+      }
+    }
+  ]
+}

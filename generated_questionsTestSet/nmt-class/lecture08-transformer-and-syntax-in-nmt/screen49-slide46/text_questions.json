@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of the next part of the document?",
+      "context": "So now let's move to the last part",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.484375
+      }
+    },
+    {
+      "question": "How does the attention utilize linguistic information?",
+      "context": "making use of linguistic information in the attention",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6450892857142857
+      }
+    },
+    {
+      "question": "What is being referred to as 'the last part' of the document?",
+      "context": "So now let's move to the last part and that's making use of linguistic information in the attention.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6127450980392157
+      }
+    },
+    {
+      "question": "What is being emphasized in this section of the document?",
+      "context": "So now let's move to the last part",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.50625
+      }
+    },
+    {
+      "question": "What is the subject of the sentence 'making use of linguistic information in the attention'?",
+      "context": "making use of linguistic information in the attention",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.578125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the focus of the next part of the document?",
+      "context": "So now let's move to the last part",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.484375
+      }
+    },
+    {
+      "question": "How does the attention utilize linguistic information?",
+      "context": "making use of linguistic information in the attention",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6450892857142857
+      }
+    },
+    {
+      "question": "What is being referred to as 'the last part' of the document?",
+      "context": "So now let's move to the last part and that's making use of linguistic information in the attention.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6127450980392157
+      }
+    }
+  ]
+}

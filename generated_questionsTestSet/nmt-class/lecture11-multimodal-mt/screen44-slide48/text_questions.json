@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happened to the speaker's words when they were mislabeled by the segmenter?",
+      "context": "So here is an example of what can happen if you misplace the punctuation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8348214285714286
+      }
+    },
+    {
+      "question": "Why did the machine translation system use surrounding words that didn't belong to the sentence?",
+      "context": "But the empty system will use them and it will shuffle them and make, put them even into some in some prominent position in the sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7124060150375939
+      }
+    },
+    {
+      "question": "What is a result of misplacing punctuation marks in machine translation?",
+      "context": "So a random shift of the punctuation mark can terribly damage the final output.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8304195804195804
+      }
+    },
+    {
+      "question": "Why is it problematic when a machine translation system uses surrounding words that don't belong to the sentence?",
+      "context": "But the empty system will use them and it will shuffle them and make, put them even into some in some prominent position in the sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7094298245614035
+      }
+    },
+    {
+      "question": "What is an example of a phrase that can be simplified for better understanding?",
+      "context": "That is a phrase which ideally you would say in a simpler way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8675595238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an example of a phrase that can be simplified for better understanding?",
+      "context": "That is a phrase which ideally you would say in a simpler way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8675595238095238
+      }
+    },
+    {
+      "question": "Why did the machine translation system use surrounding words that didn't belong to the sentence?",
+      "context": "But the empty system will use them and it will shuffle them and make, put them even into some in some prominent position in the sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7124060150375939
+      }
+    },
+    {
+      "question": "Why is it problematic when a machine translation system uses surrounding words that don't belong to the sentence?",
+      "context": "But the empty system will use them and it will shuffle them and make, put them even into some in some prominent position in the sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7094298245614035
+      }
+    }
+  ]
+}

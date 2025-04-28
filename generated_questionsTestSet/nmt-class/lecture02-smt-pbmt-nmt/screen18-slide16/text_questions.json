@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who set up the successful machine translation at Google?",
+      "context": "Okay, so now we have not discussed and we will come to that in a second, we have not discussed the translation model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8333333333333333
+      }
+    },
+    {
+      "question": "What observation was made by the student of Hermann Ney's student about language models?",
+      "context": "And he is the student of one of the students of Hermann Ney from Aachen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8197115384615384
+      }
+    },
+    {
+      "question": "Why did squaring the probability of the language model empirically help?",
+      "context": "So empirically, it made sense to just square the probability of the language model.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7278846153846154
+      }
+    },
+    {
+      "question": "What was a technical problem with using the swapped directions in training?",
+      "context": "And another observation was that, well, base law forced you to swap the order.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8482142857142857
+      }
+    },
+    {
+      "question": "How did the use of squaring and adding up instead of proper multiplication and addition empirically help?",
+      "context": "So we used to square instead of the proper numbers. And we added up instead of multiplying and it empirically helped.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5625,
+        "diversity_score": 0.7833333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who set up the successful machine translation at Google?",
+      "context": "Okay, so now we have not discussed and we will come to that in a second, we have not discussed the translation model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8333333333333333
+      }
+    },
+    {
+      "question": "What was a technical problem with using the swapped directions in training?",
+      "context": "And another observation was that, well, base law forced you to swap the order.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8482142857142857
+      }
+    },
+    {
+      "question": "What observation was made by the student of Hermann Ney's student about language models?",
+      "context": "And he is the student of one of the students of Hermann Ney from Aachen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8197115384615384
+      }
+    }
+  ]
+}

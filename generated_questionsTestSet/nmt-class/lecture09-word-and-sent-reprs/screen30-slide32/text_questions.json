@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the performance of the V2VAC model when used with the origin model?",
+      "context": "And indeed, when we evaluated ourselves, we got the 60-something performance",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7583333333333333
+      }
+    },
+    {
+      "question": "What is the accuracy of the system on the test set?",
+      "context": "the accuracy was much lower, it was 43.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "Why is a good accuracy for this system?",
+      "context": "Still, it is a good accuracy for a system which is not trained for these relations.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8161057692307692
+      }
+    },
+    {
+      "question": "What does 'trained for these relations' mean in the context of the V2VAC model?",
+      "context": "a system which is not trained for these relations.",
+      "difficulty": "medium",
+      "category": "factual/analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How would one interpret a performance of '60-something' in this context?",
+      "context": "And indeed, when we evaluated ourselves, we got the 60-something performance",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7829545454545455
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is a good accuracy for this system?",
+      "context": "Still, it is a good accuracy for a system which is not trained for these relations.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8161057692307692
+      }
+    },
+    {
+      "question": "What is the accuracy of the system on the test set?",
+      "context": "the accuracy was much lower, it was 43.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "What does 'trained for these relations' mean in the context of the V2VAC model?",
+      "context": "a system which is not trained for these relations.",
+      "difficulty": "medium",
+      "category": "factual/analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7692307692307692
+      }
+    }
+  ]
+}

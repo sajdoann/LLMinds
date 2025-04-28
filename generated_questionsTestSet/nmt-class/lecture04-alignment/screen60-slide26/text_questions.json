@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of alignment cannot be represented as a fraction in the denominator?",
+      "context": "All the alignments that is summing over all the possible alignments",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7704326923076923
+      }
+    },
+    {
+      "question": "Why do some alignments not fit nicely into the denominator?",
+      "context": "Having a sum in the denominator is something that difficult to work with.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8836538461538461
+      }
+    },
+    {
+      "question": "What problem does having a sum in the denominator create?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do alignments that cannot be represented as a fraction in the denominator differ from others?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "What is the implication of having a sum in the denominator on mathematical work?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of alignment cannot be represented as a fraction in the denominator?",
+      "context": "All the alignments that is summing over all the possible alignments",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7704326923076923
+      }
+    },
+    {
+      "question": "How do alignments that cannot be represented as a fraction in the denominator differ from others?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "Why do some alignments not fit nicely into the denominator?",
+      "context": "Having a sum in the denominator is something that difficult to work with.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8836538461538461
+      }
+    },
+    {
+      "question": "What is the implication of having a sum in the denominator on mathematical work?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of this lecture on machine translation?",
+      "context": "the first part, the spoken language translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "How do the input sentences typically need to be presented for this lecture on machine translation?",
+      "context": "So let's look at the first part, the spoken language translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.721875
+      }
+    },
+    {
+      "question": "Is there a specific type of text that is excluded from consideration in this lecture on machine translation?",
+      "context": "This is our 11th lecture on the topic, so you know almost everything. And the important thing that you have always known, but you have to realize it again",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.6735294117647059
+      }
+    },
+    {
+      "question": "How does this lecture on machine translation differ from previous ones?",
+      "context": "This is our 11th lecture on the topic, so you know almost everything. And the important thing that you have always known, but you have to realize it again",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6568181818181819
+      }
+    },
+    {
+      "question": "Is there a generalization about machine translation that is being emphasized in this lecture?",
+      "context": "The input here are usually grammatically correct individual sentences. Sometimes we were working with the whole documents, but we were never working with like unclear snippets of text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8231605351170569
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the focus of this lecture on machine translation?",
+      "context": "the first part, the spoken language translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "How do the input sentences typically need to be presented for this lecture on machine translation?",
+      "context": "So let's look at the first part, the spoken language translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.721875
+      }
+    },
+    {
+      "question": "Is there a specific type of text that is excluded from consideration in this lecture on machine translation?",
+      "context": "This is our 11th lecture on the topic, so you know almost everything. And the important thing that you have always known, but you have to realize it again",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.6735294117647059
+      }
+    }
+  ]
+}

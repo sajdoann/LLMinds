@@ -1,0 +1,941 @@
+{
+  "all_questions": [
+    {
+      "question": "Who discovered Lucy?",
+      "context": "In 1974, while on a mapping expedition in Ethiopia ( Figure 2.2 ), an American paleoanthropologist named Donald Johanson and a colleague stumbled upon a skeletal forearm and skull in a gully.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9676241480038948
+      }
+    },
+    {
+      "question": "What did the team recover from the gully after finding Lucy's bones?",
+      "context": "Upon closer inspection, they not only found more bones but also realized that all of them had belonged to some type of early human.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8886526242057338
+      }
+    },
+    {
+      "question": "What drives the evolutionary process in humans?",
+      "context": "chance biological adaptations to a changing environment",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8444846292947559
+      }
+    },
+    {
+      "question": "Who is Lucy's genus?",
+      "context": "A  genus is a taxonomic rank that includes several similar and related species within it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.911618444846293
+      }
+    },
+    {
+      "question": "What is the taxonomic rank that includes several similar and related species within it?",
+      "context": "A genus is a taxonomic rank that includes several similar and related species within it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8919529837251357
+      }
+    },
+    {
+      "question": "What advantage did upright posture provide to early humans?",
+      "context": "However, the upright position left Homo erectus’s hands free to use tools.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What percentage of modern European and Middle Eastern populations have Neanderthal DNA?",
+      "context": "modern European and Middle Eastern populations have between 1 and 4 percent Neanderthal DNA",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.913988964621876
+      }
+    },
+    {
+      "question": "When did groups of Homo sapiens leave the African continent for a global migration?",
+      "context": "approximately 100,000 years ago",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9306057866184448
+      }
+    },
+    {
+      "question": "What triggered the global migration of Homo sapiens from Africa?",
+      "context": "Drier conditions meant fewer of the plants and animals humans needed to survive were available.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8335443037974684
+      }
+    },
+    {
+      "question": "What triggered human migration out of Africa?",
+      "context": "Despite the uncertainties, we can draw some speculative conclusions. We know that around the same time Homo sapiens began leaving Africa, the climate there was becoming increasingly dry.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.884882459312839
+      }
+    },
+    {
+      "question": "What is one reason why humans likely moved into new environments?",
+      "context": "As humans moved into new environments, they adjusted their strategies to be successful under new conditions. This meant learning to gather different types of plants and hunt different types of animals they came into contact with, including mastodons, woolly mammoths and rhinos, various types of grazing animals, and giant sloths and beavers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9107307249712313
+      }
+    },
+    {
+      "question": "What is the earliest known human-made stone tool?",
+      "context": "The earliest known human-made stone tools date from about 2.6 million years ago.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8794425511197663
+      }
+    },
+    {
+      "question": "Who first created the Oldowan tools?",
+      "context": "They were likely first created by Homo habilis, by smashing smooth rocks together to create crudely sharpened edges.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9231198808637379
+      }
+    },
+    {
+      "question": "What type of stone tool was named after the site in France where it was first found?",
+      "context": "They are called Acheulean tools (pronounced ah-SHOOL-ee-an), after Saint-Acheul, the site in France where they were first found in the nineteenth century CE.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.896756329113924
+      }
+    },
+    {
+      "question": "When did Acheulean tools remain dominant?",
+      "context": "Far superior to the Oldowan variety, Acheulean tools remained the dominant style of stone tool until as recently as about 250,000 years ago.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.926913803496082
+      }
+    },
+    {
+      "question": "What type of utensil emerged in Europe, North Africa, and southwestern Asia around 250,000 years ago?",
+      "context": "At that time a new type of utensil emerged in Europe, North Africa, and southwestern Asia. Called Mousterian tools , these implements were smaller hand-axes and tools made from stone flakes rather than cores.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9076344936708861
+      }
+    },
+    {
+      "question": "When did humans begin controlling fire?",
+      "context": "It’s clear, however, that by at least about 125,000 years ago, if not much earlier, modern humans had learned to start and control fires.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9074367088607596
+      }
+    },
+    {
+      "question": "What is the estimated number of phonemes that humans can produce?",
+      "context": "Biologists calculate that we can produce fifty different phonemes, or distinctive sounds.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8794591484464902
+      }
+    },
+    {
+      "question": "How many phonemes can modern humans produce?",
+      "context": "Biologists calculate that we can produce fifty different phonemes, or distinctive sounds.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9462025316455697
+      }
+    },
+    {
+      "question": "When did modern humans begin using language in a sophisticated manner?",
+      "context": "Beginning at least 100,000 years ago, modern humans began using language in this fashion, gaining a major advantage over competing animals.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9287632199024605
+      }
+    },
+    {
+      "question": "Why were cave paintings likely created?",
+      "context": "The significance that cave paintings held for the people who created them may never be fully understood. It was once believed the images were designed to be popularly admired as interesting decorations, not unlike the ornaments we put in our homes today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9333777481678881
+      }
+    },
+    {
+      "question": "What type of pigment was used in the Cave of Altamira paintings?",
+      "context": "The paintings in the Cave of Altamira in northern Spain are prime examples of this type of art. Within the cave, and dating to about thirty-six thousand years ago, are more than two dozen large images of animals including bison, bulls, horses, deer, and boars.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8586290548315865
+      }
+    },
+    {
+      "question": "Why were images created in caves often deep in the dark interiors?",
+      "context": "But given that they are often deep in the dark interiors of the caves, where sunlight could not reach, this interpretation has mostly been abandoned.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9085155350978136
+      }
+    },
+    {
+      "question": "What was likely the purpose of the art created in the Paleolithic Age?",
+      "context": "Scholars have concluded that the art likely served some unknown religious purpose.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8509301879555045
+      }
+    },
+    {
+      "question": "What are some factors that can trigger an ice age?",
+      "context": "A few factors can trigger an ice age, but generally such climate changes occur when insufficient sunlight is able to reach the planet’s surface.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9188291139240506
+      }
+    },
+    {
+      "question": "What happened to sea levels during an ice age?",
+      "context": "As the glacial ice sheets grow and spread across the land, water is pulled from the oceans, causing sea levels to decline.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8929324894514767
+      }
+    },
+    {
+      "question": "How did humans adapt to colder conditions during an ice age?",
+      "context": "Modern humans who moved into colder conditions had to adjust to their harsh environments.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9112596264494999
+      }
+    },
+    {
+      "question": "What type of clothing did Ötzi wear?",
+      "context": "He also wore tight-fitting leggings of similar materials, a bearskin cap with a chin strap, and shoes constructed from woven grass, tree fibers, and deer hide.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8586874623267029
+      }
+    },
+    {
+      "question": "Why did human populations in the Americas move north?",
+      "context": "As other animals like reindeer adapted to life in cold environments and moved north, the human populations that hunted them moved north as well.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8634126070834931
+      }
+    },
+    {
+      "question": "What effect did low sea levels have on modern humans?",
+      "context": "Low sea levels allowed modern humans to expand into maritime Southeast Asia and Japan and reach Australia.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8962025316455696
+      }
+    },
+    {
+      "question": "How did human populations in different parts of the world adapt to their environments?",
+      "context": "The higher water levels helped to isolate some groups, however. Those that had migrated into maritime Southeast Asia and Australia found themselves more secluded on islands in the south Pacific.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8768628795909459
+      }
+    },
+    {
+      "question": "What were common sources of food for humans during the Paleolithic Age?",
+      "context": "Diets for humans in this period consisted of nuts, fruits, berries, wild grains and honey, fish, birds, shellfish, insects, and other animals.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8727396021699819
+      }
+    },
+    {
+      "question": "How did the size of a human group affect their ability to cooperate?",
+      "context": "Groups much larger than forty or so would have struggled to live on the scarce resources of an area and .found cooperation difficult to achieve.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8770285621551445
+      }
+    },
+    {
+      "question": "What were some examples of large-game animals hunted by humans during this time period?",
+      "context": "Archaeological remains and cave paintings indicate that humans hunted deer, horses, gazelle, bison, and even very large animals like woolly mammoths.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9086347197106691
+      }
+    },
+    {
+      "question": "What type of shelters did early humans use when caves weren't available?",
+      "context": "humans designed their own shelters using wood, bone, animal skins, and other items gathered from the surrounding area.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8785161744022504
+      }
+    },
+    {
+      "question": "What type of spirituality or religion did Paleolithic humans likely have?",
+      "context": "If modern practices are any guide, Paleolithic humans likely had religious traditions similar to animism —the idea that a degree of spirituality exists not only in people but also in plants, inanimate objects, and even natural phenomena like fires.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8729180546302465
+      }
+    },
+    {
+      "question": "How long ago were some burials found to be ornate?",
+      "context": "A few rare burial sites found in eastern and southern Europe and dating back thirty thousand years were particularly ornate.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9342438374417055
+      }
+    },
+    {
+      "question": "What is the likely significance of ancient hunter-gatherer burials?",
+      "context": "It’s tempting to draw conclusions about a belief in the afterlife from such finds, it’s impossible to know for sure what significance these burials had for the people who performed them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8448195030473511
+      }
+    },
+    {
+      "question": "Why is it difficult to determine the exact degree of egalitarianism in early human societies?",
+      "context": "But it is difficult to know exactly how egalitarian early human societies were. There was clearly some degree of differentiation within them.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9038933640199462
+      }
+    },
+    {
+      "question": "What traits would group members likely have recognized in one another?",
+      "context": "Group members would surely have recognized these differences and used them to their advantage.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8969669570935394
+      }
+    },
+    {
+      "question": "Why were Paleolithic men and women often considered to make different contributions to society?",
+      "context": "Older interpretations of social organization suggested that men did most of the hunting while women did the cooking or stayed home to nurse children.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9250707098808364
+      }
+    },
+    {
+      "question": "Why are ancient hunter-gatherer societies important for understanding Paleolithic life?",
+      "context": "Our window into Paleolithic life is small and opaque. Scholars have thus had to rely mostly on observing hunter-gatherer societies that exist today and extrapolating from their experiences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9326066572902016
+      }
+    },
+    {
+      "question": "Where are relatively few societies that exist today found?",
+      "context": "These include the Kalahari Desert of southern Africa, the forests of equatorial Africa, the far Arctic, Tanzania, parts of western Australia, and a few other places.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9419328912999799
+      }
+    },
+    {
+      "question": "What is unique about the San people's groups?",
+      "context": "They live today in parts of Botswana, Namibia, and Angola, and those who still practice a traditional lifestyle do so in groups of up to sixty people that include members of several related families.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8618143459915611
+      }
+    },
+    {
+      "question": "What is an important division of labor among the San people?",
+      "context": "Men are expected to create fires for cooking and warmth, which they do by rubbing sticks together to create heat and adding a bit of dry grass so that it ignites.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8658762123951997
+      }
+    },
+    {
+      "question": "What is unique about the Inuit people's lifestyle?",
+      "context": "Like other hunter-gatherer groups, they live in relatively small bands made of multiple families and are generally much more egalitarian than settled societies that depend on agriculture.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8656235349273325
+      }
+    },
+    {
+      "question": "What is a common division of labor among Inuit women?",
+      "context": "Women care for the children, maintain the home, and process the food that is hunted or gathered.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571729957805907
+      }
+    },
+    {
+      "question": "What is a traditional plant used by the Awá people for sustenance?",
+      "context": "A traditional and highly valued gathered plant is the fruit of the babassu palm.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8572703667640377
+      }
+    },
+    {
+      "question": "What is the primary source of sustenance for the Awá groups?",
+      "context": "ey survive by hunting animals and gathering edible plants from the surrounding environment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416747809152872
+      }
+    },
+    {
+      "question": "Why did some hunter-gatherer societies avoid transitioning into a settled agricultural life?",
+      "context": "Plenty of hunter-gatherer societies avoided transitioning into a settled agricultural life, either because the new strategy wasn’t practicable in their environment or because for them the costs outweighed the benefits.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9227613689639006
+      }
+    },
+    {
+      "question": "What was likely the reason some human populations undertook the evolution to agriculture?",
+      "context": "This climatic shift altered animal migration patterns and probably brought much drier conditions to places like the Near East, where we find the earliest evidence of plant domestication. Climate conditions may have put a strain on food resources and prompted a shift in survival strategy.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8848101265822785
+      }
+    },
+    {
+      "question": "What is the term used to describe the area where agriculture first flourished?",
+      "context": "On a map, these places take the shape of a large crescent bending through the Near East. For this reason, the area is often referred to as the Fertile Crescent.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8865222330412204
+      }
+    },
+    {
+      "question": "What was the primary motivation behind the domestication of edible plants?",
+      "context": "Since humans were selecting plants for their edible properties, their intervention led to gradual but important transformations in the plants themselves.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8556962025316456
+      }
+    },
+    {
+      "question": "In what region did people begin cultivating maize (corn)?",
+      "context": "Later they added crops like beans, squash, and peppers. Farther south, in the Andean region, around five thousand years ago people began to grow potatoes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8769338959212377
+      }
+    },
+    {
+      "question": "How did humans transform wild varieties of wheat and barley over time?",
+      "context": "By selecting wheat and barley plants with thinner husks and more seeds year over year, humans transformed the plants over time into varieties of wheat and barley more suitable for their purposes.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9020886075949367
+      }
+    },
+    {
+      "question": "What was a primary goal of humans during plant domestication?",
+      "context": "But humans were primarily interested in the seeds, not the inedible husks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8593785960874568
+      }
+    },
+    {
+      "question": "Why did some groups choose to adopt hunting and gathering over agriculture?",
+      "context": "They apparently consciously determined that hunting and gathering were more suitable and practical given their own needs and the environment in which they lived.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9001657625075347
+      }
+    },
+    {
+      "question": "How much time did agricultural societies spend on farming compared to hunter-gatherer societies?",
+      "context": "However, comparable agricultural societies spend thirty or more hours engaged in farming.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.923482635507952
+      }
+    },
+    {
+      "question": "Who bore the greatest loss of leisure time in laborious tasks?",
+      "context": "These same studies have also noted that the greatest loss in leisure hours was borne by women, who spent far more time engaged in laborious tasks outside the home than hunter-gatherer women in similar environments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8974395857307249
+      }
+    },
+    {
+      "question": "What was one reason why some people chose to adopt agriculture?",
+      "context": "Scholars who study modern hunter-gatherers have found that the time required to acquire enough food to live amounts to about twenty hours per week.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8892405063291139
+      }
+    },
+    {
+      "question": "What is the typical time spent by individuals in agricultural societies on farming activities?",
+      "context": "comparable agricultural societies spend thirty or more hours engaged in farming.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8907611375965806
+      }
+    },
+    {
+      "question": "Why did women in agricultural societies spend more time on laborious tasks outside the home?",
+      "context": "These same studies have also noted that the greatest loss in leisure hours was borne by women, who spent far more time engaged in laborious tasks outside the home than hunter-gatherer women in similar environments.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9062236286919831
+      }
+    },
+    {
+      "question": "What is one of the advantages of agriculture over hunting and gathering?",
+      "context": "Agriculture allowed for much larger populations. That meant more workers producing more food and more people to defend the settlement.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8350274900907813
+      }
+    },
+    {
+      "question": "How did labor specialization in agriculture affect social divisions?",
+      "context": "For example, if food was plentiful, not everyone needed to farm, allowing some to become artisans or traders, who generated more wealth.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9247538677918425
+      }
+    },
+    {
+      "question": "What type of people were able to specialize and free themselves from the need to focus on food production?",
+      "context": "Some people were able to specialize in ways that freed them entirely from the need to focus on food production.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8704197201865422
+      }
+    },
+    {
+      "question": "What was a result of accumulating wealth and material property among farmers?",
+      "context": "Those who acquired considerable wealth became leaders with the authority to command armies and create rules for society.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8816807313642756
+      }
+    },
+    {
+      "question": "What was one factor that contributed to men becoming more involved in agricultural work?",
+      "context": "The need for strength to control the plow was likely one of the factors that contributed to this development.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8810465641952984
+      }
+    },
+    {
+      "question": "Why did women often spend their time preparing food, making pottery, and weaving cloth?",
+      "context": "Women were relegated to the domestic sphere and spent their time preparing food, making pottery, and weaving cloth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.9114455908945857
+      }
+    },
+    {
+      "question": "What was a common responsibility of men in agricultural societies?",
+      "context": "Men had responsibilities women did not, including dangerous duties like fighting and dying to defend the settlement.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8554728220402085
+      }
+    },
+    {
+      "question": "What type of settlement did the Neolithic Peoples establish?",
+      "context": "A number of these Neolithic settlements emerged in Europe, the Near East, China, Pakistan, and beyond.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8150931786216596
+      }
+    },
+    {
+      "question": "How many people may have lived at Çatalhöyük at its height?",
+      "context": "It covers more than thirty acres, and at its height it may have been home to as many as six thousand people.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9420886075949367
+      }
+    },
+    {
+      "question": "What was unique about the design of the houses in Çatalhöyük?",
+      "context": "Houses at Çatalhöyük were made with mud brick and were clustered together without roads or passages between them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8682055100521221
+      }
+    },
+    {
+      "question": "What type of activities did the people of Çatalhöyük rely on for their wealth?",
+      "context": "Their wealth was derived from trade in agricultural products, woven items, clay vessels, and especially obsidian.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8619462025316456
+      }
+    },
+    {
+      "question": "What is the significance of cattle imagery in Çatalhöyük?",
+      "context": "Cattle imagery abounds in Çatalhöyük, including bull heads with large horns and bull horns protruding from furniture.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8436005625879044
+      }
+    },
+    {
+      "question": "What is the primary source of wealth for the Natufian groups?",
+      "context": "Their wealth was derived from trade in agricultural products, woven items, clay vessels, and especially obsidian, a naturally occurring volcanic glass.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8585292344786015
+      }
+    },
+    {
+      "question": "Why did the people of Mehrgarh adopt agriculture?",
+      "context": "The wealth of these resources that allowed the Natufian groups to settle there, only later adopting agriculture and building Neolithic settlements.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8360759493670886
+      }
+    },
+    {
+      "question": "How far did the obsidian from Çatalhöyük get traded?",
+      "context": "The obsidian of Çatalhöyük was obtained from a nearby volcano and traded to people as far away as Syria and Cyprus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8725664371900215
+      }
+    },
+    {
+      "question": "What type of construction characterized Jericho?",
+      "context": "Jericho was protected by a large ditch and a thick stone wall that encircled the settlement.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8286919831223629
+      }
+    },
+    {
+      "question": "What materials were used by the people of Mehrgarh?",
+      "context": "The people of Mehrgarh included skilled artisans capable of using sea shells, sandstone, and the rich blue lapis lazuli.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8500041366757674
+      }
+    },
+    {
+      "question": "What type of farming was likely adopted by Neolithic settlements in Europe?",
+      "context": "Neolithic settlements began to emerge around 6000 BCE, likely having adopted cereal farming from the Near East.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8835629188384214
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many phonemes can modern humans produce?",
+      "context": "Biologists calculate that we can produce fifty different phonemes, or distinctive sounds.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9462025316455697
+      }
+    },
+    {
+      "question": "Why are ancient hunter-gatherer societies important for understanding Paleolithic life?",
+      "context": "Our window into Paleolithic life is small and opaque. Scholars have thus had to rely mostly on observing hunter-gatherer societies that exist today and extrapolating from their experiences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9326066572902016
+      }
+    },
+    {
+      "question": "When did groups of Homo sapiens leave the African continent for a global migration?",
+      "context": "approximately 100,000 years ago",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9306057866184448
+      }
+    },
+    {
+      "question": "How did humans adapt to colder conditions during an ice age?",
+      "context": "Modern humans who moved into colder conditions had to adjust to their harsh environments.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9112596264494999
+      }
+    },
+    {
+      "question": "Why did women in agricultural societies spend more time on laborious tasks outside the home?",
+      "context": "These same studies have also noted that the greatest loss in leisure hours was borne by women, who spent far more time engaged in laborious tasks outside the home than hunter-gatherer women in similar environments.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9062236286919831
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of estimating future cost?",
+      "context": "So how do we estimate the future cost? This is something that can be pre-computed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.4927083333333333
+      }
+    },
+    {
+      "question": "How does one calculate the cheapest way to translate individual words?",
+      "context": "And we can only summarize this puzzle pieces, these translation options to see how expensive are they, what is the cheapest way of the individual words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8159090909090909
+      }
+    },
+    {
+      "question": "What type of algorithm is used for estimating future cost?",
+      "context": "So we know we have the translation options table. So we have all the puzzle pieces that translate individual parts of the source sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6263888888888889
+      }
+    },
+    {
+      "question": "What shape is the table used to estimate future cost?",
+      "context": "And you fill up a diagonal or a triangular table that will tell you for a given span in the sentence what is the cheapest cause that you will have to pay for sure when you are translating this part of the sentence.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7128787878787879
+      }
+    },
+    {
+      "question": "What problem is being solved by estimating future cost?",
+      "context": "So how do we estimate the future cost? This is something that can be pre-computed. So we know we have the translation options table.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5743055555555555
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of estimating future cost?",
+      "context": "So how do we estimate the future cost? This is something that can be pre-computed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.4927083333333333
+      }
+    },
+    {
+      "question": "How does one calculate the cheapest way to translate individual words?",
+      "context": "And we can only summarize this puzzle pieces, these translation options to see how expensive are they, what is the cheapest way of the individual words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8159090909090909
+      }
+    },
+    {
+      "question": "What type of algorithm is used for estimating future cost?",
+      "context": "So we know we have the translation options table. So we have all the puzzle pieces that translate individual parts of the source sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6263888888888889
+      }
+    }
+  ]
+}

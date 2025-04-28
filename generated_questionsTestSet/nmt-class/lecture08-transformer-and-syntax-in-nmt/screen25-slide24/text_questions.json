@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many heads does the standard transform model typically have?",
+      "context": "and in the standard transform model you have eight heads",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the purpose of initializing the weight matrices for each head randomly?",
+      "context": "these trained matrices they are all initialized totally randomly but they will specialize in the process of training",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7555147058823529
+      }
+    },
+    {
+      "question": "Can you explain what a 'head' in the context of the transform model means?",
+      "context": "each head is defined by the matrices that specify what are the keys what are the queries and what are the values",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7403846153846154
+      }
+    },
+    {
+      "question": "What is one possible focus for a 'head' in the transform model?",
+      "context": "some of the heads can focus on like what is the preceding word some of the heads can focus on what is my governor in the dependency bar",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7408088235294117
+      }
+    },
+    {
+      "question": "How do the weight matrices for each head influence the output of the model?",
+      "context": "so it's totally up to the network what what to do yeah so this is this is two heads for each of the heads you have the weight matrices which specify what the current token is is contributing to the key and what is it contributing to the value",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7666666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many heads does the standard transform model typically have?",
+      "context": "and in the standard transform model you have eight heads",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the purpose of initializing the weight matrices for each head randomly?",
+      "context": "these trained matrices they are all initialized totally randomly but they will specialize in the process of training",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7555147058823529
+      }
+    },
+    {
+      "question": "How do the weight matrices for each head influence the output of the model?",
+      "context": "so it's totally up to the network what what to do yeah so this is this is two heads for each of the heads you have the weight matrices which specify what the current token is is contributing to the key and what is it contributing to the value",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7666666666666666
+      }
+    }
+  ]
+}

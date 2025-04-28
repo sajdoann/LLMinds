@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What method is used to represent the input sentence as a matrix with columnar vectors?",
+      "context": "We have already seen this slide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "How many English words are assigned to each coordinate element of the vector in English?",
+      "context": "Each of these vectors will have zeros everywhere except for a single one and the one will be at that position in the vector which corresponds to the position in the dictionary.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7816666666666666
+      }
+    },
+    {
+      "question": "Why is it impossible to process the English language vector due to its length?",
+      "context": "So that is that is impossible to process. So what do we do?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7557692307692307
+      }
+    },
+    {
+      "question": "How many Czech words are assigned to each coordinate element of the vector in Czech?",
+      "context": "In Czech it would be vector of length 2 million or more.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is the problem with processing English and Czech languages due to their word lengths?",
+      "context": "So what do we do?",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7166666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What method is used to represent the input sentence as a matrix with columnar vectors?",
+      "context": "We have already seen this slide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "How many English words are assigned to each coordinate element of the vector in English?",
+      "context": "Each of these vectors will have zeros everywhere except for a single one and the one will be at that position in the vector which corresponds to the position in the dictionary.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7816666666666666
+      }
+    },
+    {
+      "question": "How many Czech words are assigned to each coordinate element of the vector in Czech?",
+      "context": "In Czech it would be vector of length 2 million or more.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "Why is it impossible to process the English language vector due to its length?",
+      "context": "So that is that is impossible to process. So what do we do?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7557692307692307
+      }
+    },
+    {
+      "question": "What is the problem with processing English and Czech languages due to their word lengths?",
+      "context": "So what do we do?",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7166666666666667
+      }
+    }
+  ]
+}

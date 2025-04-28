@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the EU's goal regarding living conditions in all parts of Europe?",
+      "context": "Die EU ist hingegen seit schon vielen Jahren sehr aktiv. Die EU hat immer den gleichen Ziel, gleiche Lebensbedingungen in allen Teilen der Europäischen Union zu schaffen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.851025641025641
+      }
+    },
+    {
+      "question": "Why is the author presenting examples of EU investment in regions like Westböhmen and Marienbad?",
+      "context": "Ich möchte hier ein Beispiel erwähnen, warum es sich lohnt, ein Teil der EU zu sein. Das Beispiel ist das Kloster Teppler.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8549707602339182
+      }
+    },
+    {
+      "question": "What is Chodowa Planen?",
+      "context": "lost er Teplau entfernt liegt der Ort Chodowa Plana.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8680555555555556
+      }
+    },
+    {
+      "question": "Why are tourists attracted to the brewery?",
+      "context": "Einmal täglich können die Touristen mit einer Führung in die Geschichte der Brauerei eintauchen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8534798534798534
+      }
+    },
+    {
+      "question": "Why do some nations in the European Union have a strong sense of self-confidence?",
+      "context": "Polen und Ungarn hingegen sind stolze Nationen mit großem Selbstbewusstsein.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.861904761904762
+      }
+    },
+    {
+      "question": "What is the attitude of the younger generation in Tschechien towards the European Union?",
+      "context": "Die jüngere Generation betrachtet die EU als selbstverständlich.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8154761904761905
+      }
+    },
+    {
+      "question": "Why do some people from certain countries use the EU as a means of economic opportunity?",
+      "context": "Viele fahren im Sommer zum Baden über die Grenze, zum Beispiel auch nach Deutschland. Sie kaufen da ein und arbeiten dort.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8916666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do some people from certain countries use the EU as a means of economic opportunity?",
+      "context": "Viele fahren im Sommer zum Baden über die Grenze, zum Beispiel auch nach Deutschland. Sie kaufen da ein und arbeiten dort.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8916666666666666
+      }
+    },
+    {
+      "question": "Why do some nations in the European Union have a strong sense of self-confidence?",
+      "context": "Polen und Ungarn hingegen sind stolze Nationen mit großem Selbstbewusstsein.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.861904761904762
+      }
+    },
+    {
+      "question": "Why are tourists attracted to the brewery?",
+      "context": "Einmal täglich können die Touristen mit einer Führung in die Geschichte der Brauerei eintauchen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8534798534798534
+      }
+    },
+    {
+      "question": "Why is the author presenting examples of EU investment in regions like Westböhmen and Marienbad?",
+      "context": "Ich möchte hier ein Beispiel erwähnen, warum es sich lohnt, ein Teil der EU zu sein. Das Beispiel ist das Kloster Teppler.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8549707602339182
+      }
+    }
+  ]
+}

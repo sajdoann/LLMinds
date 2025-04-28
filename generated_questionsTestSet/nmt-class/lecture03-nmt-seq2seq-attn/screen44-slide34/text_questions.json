@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of training data is used for the system?",
+      "context": "So how do we train that system? The idea is that you have a big parallel corpus",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7828125
+      }
+    },
+    {
+      "question": "How are sentence pairs aligned during training?",
+      "context": "So we have a set of sentence pairs. So we have a set of pairs source sentence units, target sentence units",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.885989010989011
+      }
+    },
+    {
+      "question": "What is the goal of the output candidate scoring process?",
+      "context": "So we need to score whether the output candidate matches well or how well it matches with the expected output candidate",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7439236111111112
+      }
+    },
+    {
+      "question": "How does the system determine the probability distribution for an output word?",
+      "context": "For an output word yi we have the probability distribution that's for each time step",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.799512987012987
+      }
+    },
+    {
+      "question": "What happens if the expected output candidate does not have the highest probability in the distribution?",
+      "context": "Maybe not and if not then we need to change the computation so that it will get the highest probability",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8065476190476191
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of training data is used for the system?",
+      "context": "So how do we train that system? The idea is that you have a big parallel corpus",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7828125
+      }
+    },
+    {
+      "question": "How are sentence pairs aligned during training?",
+      "context": "So we have a set of sentence pairs. So we have a set of pairs source sentence units, target sentence units",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.885989010989011
+      }
+    },
+    {
+      "question": "What happens if the expected output candidate does not have the highest probability in the distribution?",
+      "context": "Maybe not and if not then we need to change the computation so that it will get the highest probability",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8065476190476191
+      }
+    },
+    {
+      "question": "How does the system determine the probability distribution for an output word?",
+      "context": "For an output word yi we have the probability distribution that's for each time step",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.799512987012987
+      }
+    }
+  ]
+}

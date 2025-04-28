@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'on the GPU' refer to?",
+      "context": "the text mentions being processed on the GPU",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "How many heads of attention are mentioned in the document?",
+      "context": "the text mentions 'one head'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is being processed by one head of attention on the GPU?",
+      "context": "There is no explicit information about what is being processed",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What does 'attention' refer to in this context?",
+      "context": "There is no explicit definition of attention in the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "Is being processed on the GPU related to a specific task or operation?",
+      "context": "There is no information about what this processing entails",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7980769230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'on the GPU' refer to?",
+      "context": "the text mentions being processed on the GPU",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "How many heads of attention are mentioned in the document?",
+      "context": "the text mentions 'one head'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What does 'attention' refer to in this context?",
+      "context": "There is no explicit definition of attention in the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.79375
+      }
+    }
+  ]
+}

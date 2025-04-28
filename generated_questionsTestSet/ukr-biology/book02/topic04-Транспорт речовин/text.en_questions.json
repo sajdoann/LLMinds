@@ -1,0 +1,1205 @@
+{
+  "all_questions": [
+    {
+      "question": "Why must living organisms maintain the constancy of their internal environment?",
+      "context": "To ensure normal vital activity of the human body, it is necessary that the conditions inside it are relatively constant.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8511072261072261
+      }
+    },
+    {
+      "question": "What is the main function of blood in relation to oxygen and carbon dioxide?",
+      "context": "Transport ¬ Transport of oxygen and carbon dioxide, as well as nutrients and metabolic products.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8260645604395604
+      }
+    },
+    {
+      "question": "What happens when you rub your cheeks to warm them up?",
+      "context": "For example, when your cheeks are freezing in the cold, you start rubbing them, and the blood flow increases to the place of rubbing, and warm blood from inside the body warms the tissues",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8768419080919081
+      }
+    },
+    {
+      "question": "What determines the color of blood?",
+      "context": "The color of blood is determined by the content of hemoglobin compounds with oxygen in it: the more such compounds, the brighter the color of the blood",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7550747863247863
+      }
+    },
+    {
+      "question": "What happens to excess tissue fluid?",
+      "context": "excess tissue fluid, which is formed in the tissues due to the constant influx of plasma from the blood capillaries, seeps into them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8224587912087913
+      }
+    },
+    {
+      "question": "What is the main function of lymph?",
+      "context": "one of its main functions is to neutralize dangerous microorganisms and substances that have entered the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7195378151260504
+      }
+    },
+    {
+      "question": "What are the main components of the internal environment of the body?",
+      "context": "The main components of the internal environment of the body are blood, lymph, and tissue fluid.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7742439184746877
+      }
+    },
+    {
+      "question": "How does blood differ from lymph and tissue fluid?",
+      "context": "Blood performs transport, regulatory, and protective functions. It consists of liquid blood plasma and formed elements.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9059065934065934
+      }
+    },
+    {
+      "question": "What are the three main components of blood?",
+      "context": "ronation of the body are blood, lymph, and tissue fluid. These fluids constantly change from one to another.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7745726495726496
+      }
+    },
+    {
+      "question": "What is the function of platelets in the human body?",
+      "context": "Platelets play an important role in the process of blood clotting.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7357711732711734
+      }
+    },
+    {
+      "question": "What triggers an agglutination reaction during blood transfusion?",
+      "context": "It activates the process of blood clotting and the formation of blood clots in which erythrocytes get stuck.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8272836538461539
+      }
+    },
+    {
+      "question": "Why is it necessary to divide blood into groups during transfusion?",
+      "context": "If the blood group is selected incorrectly, there is a threat to the health of the recipient.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8377872127872128
+      }
+    },
+    {
+      "question": "What happens when a person receives blood that is incompatible with the Rh factor during a transfusion?",
+      "context": "During a transfusion of blood that is incompatible with the Rh factor, or during pregnancy, when the mother is Rh-negative and the child is Rh-positive, a Rh conflict occurs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8354458041958042
+      }
+    },
+    {
+      "question": "Why are people only transfused with blood of their ABO group?",
+      "context": "The interaction between blood of different groups of the ABO system gives the strongest immune reaction, that is, causes agglutination of red blood cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8928965771071035
+      }
+    },
+    {
+      "question": "What happens when a person loses a lot of blood?",
+      "context": "If a person loses a lot of blood, their body may not be able to cope with providing tissues and organs with the necessary substances.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8352146042363434
+      }
+    },
+    {
+      "question": "What is the main purpose of the pericardium?",
+      "context": "The pericardium is a thin, dense sac that separates the heart from other organs and also prevents it from being displaced and stretched too much.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7531530969030968
+      }
+    },
+    {
+      "question": "How does blood move in the chambers of the heart?",
+      "context": "The right and left halves of the heart do not communicate with each other. The chambers of the right part contain only venous blood, and the chambers of the left - only arterial.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8366147741147741
+      }
+    },
+    {
+      "question": "What is the name of the valve between the left atrium and the left ventricle?",
+      "context": "Between the left atrium and the left ventricle there is a bicuspid, or mitral, valve",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.798951048951049
+      }
+    },
+    {
+      "question": "What are the two main parts of the circulatory system?",
+      "context": "The human circulatory system is divided into two large parts - the large and small circles of blood circulation (Fig. 17.2).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.785706252811516
+      }
+    },
+    {
+      "question": "What are the two large parts of the circulatory system?",
+      "context": "The circulatory system in the human body is divided into two large parts - the large and small circles of blood circulation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7779183535762484
+      }
+    },
+    {
+      "question": "What happens to venous blood once it enters the lungs?",
+      "context": "Venous blood is transported through the vessels to the lungs. Once in the lungs, it is saturated with oxygen and gives off carbon dioxide, after which it turns into arterial blood.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8326923076923076
+      }
+    },
+    {
+      "question": "What are the main properties of cardiac muscle?",
+      "context": "Cardiac muscle works continuously throughout a person's life. That is why it has certain structural features and specific properties, which allowed it to be distinguished as a separate type of muscle tissue.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8116710875331565
+      }
+    },
+    {
+      "question": "What happens during the cardiac cycle?",
+      "context": "The heart can work continuously for many years due to the fact that its work is organized in the form of a cycle.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7653846153846153
+      }
+    },
+    {
+      "question": "What is the main engine responsible for blood flow through the vessels?",
+      "context": "The heart is the main engine of blood flow through the vessels.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7596590909090909
+      }
+    },
+    {
+      "question": "How long does the atria rest in one cardiac cycle?",
+      "context": "If you look at the time taken by individual phases of the cardiac cycle, you can see that out of 0.8 seconds of the entire cycle, the atria rest for 0.7 seconds.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8941346153846154
+      }
+    },
+    {
+      "question": "Why is it important to give the heart's muscles time to recover?",
+      "context": "The correct distribution of the phases of contraction and relaxation of individual parts of the heart, the body manages to provide enough time for the heart muscle to recover during its work.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8600123834498834
+      }
+    },
+    {
+      "question": "What happens to the body if the heart stops working?",
+      "context": "It cannot stop, as this will cause the cessation of metabolism and lead to the death of a person.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8051470588235294
+      }
+    },
+    {
+      "question": "How often do the atria and ventricles rest during the cardiac cycle?",
+      "context": "the atria rest for 0.7 seconds, and the ventricles for 0.5 seconds out of a total of 0.8 seconds",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8635780885780886
+      }
+    },
+    {
+      "question": "What type of regulation does not change the heart rate but only affects its contractions?",
+      "context": "external signals (both nervous and humoral) only change the heart rate, but do not cause them",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.869571314102564
+      }
+    },
+    {
+      "question": "What is responsible for the automaticity of the heart's function?",
+      "context": "there are several groups of cells in the myocardium that automatically produce rhythmic impulses",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7688873626373627
+      }
+    },
+    {
+      "question": "What causes the contraction of heart muscle cells?",
+      "context": "These impulses spread to other cells of the heart muscle and cause them to contract.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7752403846153846
+      }
+    },
+    {
+      "question": "What ensures the movement of blood through the vessels?",
+      "context": "They perform different functions, which determines the differences in their structure (Fig. 19.1). Arteries conduct blood from the heart to the capillaries and must withstand the high pressure that occurs during heart contractions, so they have thick walls, inside which there is a layer of smooth muscle. Capillaries are responsible for the exchange between blood and tissues, so their walls are thin. And veins collect blood from all over the body to transport it to the heart. It is very important for them to ensure that blood moves in only one direction, which is possible due to the presence of special valves.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8185611263736263
+      }
+    },
+    {
+      "question": "What determines the differences in structure among arteries, veins, and capillaries?",
+      "context": "They perform different functions, which determines the differences in their structure (Fig. 19.1). Arteries conduct blood from the heart to the capillaries and must withstand the high pressure that occurs during heart contractions, so they have thick walls, inside which there is a layer of smooth muscle. Capillaries are responsible for the exchange between blood and tissues, so their walls are thin.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8638236763236763
+      }
+    },
+    {
+      "question": "What carries blood from organs to other parts of the body?",
+      "context": "Some features of the blood supply to the human body As you already know, veins are vessels that carry blood from organs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8085445804195804
+      }
+    },
+    {
+      "question": "What is the difference between systolic and diastolic blood pressure?",
+      "context": "During contraction, the heart not only pushes blood into the vessels, but also causes periodic oscillations of the walls of the arteries, which are synchronous with the contractions of the heart.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8201121794871795
+      }
+    },
+    {
+      "question": "Why is it important to consult a doctor if a person's blood pressure is constantly higher than 140 over 90 or lower than 90 over 60?",
+      "context": "However, health problems in a person can also occur in the case of too low pressure. If a person's pressure is constantly higher than 140 over 90 or lower than 90 over 60, this is a reason to consult a doctor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7619047619047619,
+        "diversity_score": 0.9165209790209791
+      }
+    },
+    {
+      "question": "What happens when the heart contracts and pushes blood into the arteries?",
+      "context": "Blood pressure is highest during systole, and lowest during diastole. The value of blood pressure is an indicator of the condition of the heart in particular and the circulatory system in general, so doctors often measure it when examining patients.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8386936339522546
+      }
+    },
+    {
+      "question": "What happens to the pulse when measuring blood pressure?",
+      "context": "During contraction, the heart not only pushes blood into the vessels, but also causes periodic oscillations of the walls of the arteries, which are synchronous with the contractions of the heart.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8187767094017094
+      }
+    },
+    {
+      "question": "What is the purpose of measuring pulse pressure?",
+      "context": "The difference between systolic and diastolic blood pressure is called pulse pressure. If the pulse pressure is less than 20 mm Hg., the heart will not receive enough blood for its work.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.792344674556213
+      }
+    },
+    {
+      "question": "What happens to blood when it passes through the vessels?",
+      "context": "The harder it is for blood to pass through the vessels, the higher the arterial pressure.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7994452662721894
+      }
+    },
+    {
+      "question": "What is the portal vein's function?",
+      "context": "It collects blood from the stomach and intestines and carries it to the liver.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7271998834498834
+      }
+    },
+    {
+      "question": "Why is a tourniquet applied below the site of venous bleeding?",
+      "context": "the case of venous bleeding, the tourniquet is applied below the site of hemorrhage, because it is from there that the blood moves through the veins.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8265297202797203
+      }
+    },
+    {
+      "question": "Why is a tourniquet not used for capillary bleeding?",
+      "context": "Capillary bleeding is not as intense as arterial or venous bleeding, and often stops on its own. In the case of capillary bleeding, an ordinary sterile bandage can be used.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8808760683760684
+      }
+    },
+    {
+      "question": "What type of vessel is responsible for the exchange of substances between the blood and tissues?",
+      "context": "There are three types of blood vessels in the human body - arteries, veins and capillaries. Arteries carry blood from the heart, veins - to the heart, and capillaries ensure the exchange of substances between the blood and tissues.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8206654456654456
+      }
+    },
+    {
+      "question": "Why is a tourniquet applied above the bleeding site for arterial bleeding?",
+      "context": "In case of bleeding due to injury to the extremities of the head, do not forget that during arterial bleeding, the tourniquet is applied above the bleeding site, and in the case of venous bleeding - below.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8566013313609467
+      }
+    },
+    {
+      "question": "What is the importance of providing first aid in case of bleeding?",
+      "context": "First aid in case of bleeding should be provided taking into account which type of vessel was damaged.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.834173179761415
+      }
+    },
+    {
+      "question": "Why is it crucial to seek medical care quickly after a critical situation such as a heart attack or stroke?",
+      "context": "The earlier the care is provided, the greater the chances of a positive result of the doctors' work.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.878951261289318
+      }
+    },
+    {
+      "question": "What are some risk factors for cardiovascular diseases?",
+      "context": "Risk factors for cardiovascular diseases may include: failure to follow the rules of a healthy lifestyle (smoking, alcohol abuse, insufficient physical activity), excess body weight, high blood pressure, constant stress, etc.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8929319168734491
+      }
+    },
+    {
+      "question": "What is the primary cause of ischemic heart disease?",
+      "context": "The most common heart diseases\\nMyocardial infarction (Fig. 20.2, p. 78)\\n\\nViolation of the blood supply to a section of the heart muscle, which led to its necrosis (death). Most often occurs due to blockage by a thrombus of one of the arteries that supply blood to the heart muscle (they are called coronary)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8050213675213675
+      }
+    },
+    {
+      "question": "What is the cause of disturbances in blood circulation in the brain?",
+      "context": "Disturbances of the activity of the brain centers that regulate the work of blood vessels, kidneys, neurohumoral regulation\\nHypertensive disease Elevated blood pressure, in severe stages - organic changes in the heart, kidneys and central nervous system",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7993037135278515
+      }
+    },
+    {
+      "question": "What is atherosclerosis?",
+      "context": "Atherosclerosis ¬ (Fig. 20.1)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7908653846153846
+      }
+    },
+    {
+      "question": "What type of stroke occurs when there is impaired blood circulation in the brain?",
+      "context": "Ischemic stroke occurs in the event of impaired blood circulation in the brain.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7836226273726274
+      }
+    },
+    {
+      "question": "What happens to brain cells as a result of blockage of the vessels during an ischemic stroke?",
+      "context": "Because of the similarity of the events during an ischemic stroke to those in the event of a myocardial infarction, this type of stroke is sometimes called a “brain infarction.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8480873745819398
+      }
+    },
+    {
+      "question": "What are the two main types of strokes based on their occurrence?",
+      "context": "Strokes are divided into ischemic and hemorrhagic by the nature of their occurrence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8077231262327416
+      }
+    },
+    {
+      "question": "What is the cause of stroke, according to Hippocrates?",
+      "context": "The first mention of a stroke is considered to be the descriptions of Hippocrates made in the 460s BC. He described loss of consciousness as a result of brain disease.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7866586538461539
+      }
+    },
+    {
+      "question": "Why does regular physical activity facilitate the work of the heart?",
+      "context": "Regular physical activity, thanks to which other muscles of the body are strengthened and work better. And they, in turn, during contraction, contribute to the movement of blood through the veins to the heart.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8509081196581196
+      }
+    },
+    {
+      "question": "What is the effect of passive smoking on coronary heart disease?",
+      "context": "Even passive smoking can cause this disease, when a person does not smoke himself, but is often among smokers and simply inhales tobacco smoke.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8525458916083917
+      }
+    },
+    {
+      "question": "Why does the movement of blood in veins slow down due to insufficient physical activity?",
+      "context": "Due to insufficient physical activity and a sedentary lifestyle, the movement of blood in the veins slows down. Its reverse movement is impossible due to the valves in these vessels.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8471554487179487
+      }
+    },
+    {
+      "question": "What is most often affected by hrombophlebitis?",
+      "context": "hrombophlebitis most often affects the veins of the lower extremities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8089133089133089
+      }
+    },
+    {
+      "question": "What are the main organs of the excretory system in humans?",
+      "context": "The excretory system is extremely important for the human body. Metabolic products must be excreted quickly, otherwise they can lead to poisoning of the body. The main organ of human excretion is the kidneys.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8166420118343195
+      }
+    },
+    {
+      "question": "What diseases can affect the urinary system?",
+      "context": "Consider the image of the organ in the figure. Explain what diseases can affect it and how they can be transmitted.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8023504273504274
+      }
+    },
+    {
+      "question": "What is the purpose of the two sphincters (muscle-locks) in the urinary bladder?",
+      "context": "To prevent it from flowing out involuntarily, this organ has two sphincters (muscle-locks).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8452797202797203
+      }
+    },
+    {
+      "question": "What is carried by the medulla of the urethra?",
+      "context": "The medulla of the urethra is a tube that carries urine that has accumulated in the urinary bladder out of the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.753429015837104
+      }
+    },
+    {
+      "question": "How does heat loss occur through the skin?",
+      "context": "Evaporation of water excreted through the sweat glands causes heat loss, which is also very important, since heat is one of the metabolic products and its excess in the body is undesirable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8634430473372781
+      }
+    },
+    {
+      "question": "What is carried by the kidneys?",
+      "context": "Nitrogenous products are formed, which are excreted by the kidneys.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7524038461538461
+      }
+    },
+    {
+      "question": "Why is it undesirable to have excess heat in the body?",
+      "context": "since heat is one of the metabolic products and its excess in the body is undesirable.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.792239010989011
+      }
+    },
+    {
+      "question": "What do the kidneys regulate?",
+      "context": "which are an extremely important regulator of the body's water-salt balance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7541958041958041
+      }
+    },
+    {
+      "question": "How much blood is filtered by the kidneys per minute?",
+      "context": "Healthy kidneys filter about 1200 ml of blood per minute.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8663461538461539
+      }
+    },
+    {
+      "question": "What does primary urine contain?",
+      "context": "Primary urine contains useful substances that the body can still use. In addition, it contains too much water.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8494909502262443
+      }
+    },
+    {
+      "question": "How is secondary urine formed?",
+      "context": "Secondary urine is formed by two processes - reabsorption (reverse absorption) and secretion (excretion).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8886675824175825
+      }
+    },
+    {
+      "question": "What substance is a product of the metabolism of proteins and other organic substances that contain nitrogen?",
+      "context": "Urea is one of the main metabolic products that is excreted from the body through the kidneys.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8096668956043956
+      }
+    },
+    {
+      "question": "What regulates kidney function?",
+      "context": "The regulation of kidney function Excretion processes in the kidneys are regulated by both signals from the nervous system and the influence of hormones.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.821875
+      }
+    },
+    {
+      "question": "What happens when the bladder is stretched?",
+      "context": "There are nerve endings in the walls of the bladder, which, when it is stretched (when it is filled with urine), send a signal to the central nervous system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7693131868131868
+      }
+    },
+    {
+      "question": "What is the regulation mechanism of kidney function?",
+      "context": "The signals are perceived by the center in the lower part of the spinal cord and sent by it to the cerebral cortex. From here, the signal for urination comes to the walls of the bladder and the sphincter muscle, which opens the urethral passage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7838040865384615
+      }
+    },
+    {
+      "question": "What happens when a pathogen enters the urinary system?",
+      "context": "Pathogens enter the organs of the urinary system either through the channels of the system itself or through the blood. So, in the case of angina or dental diseases, bacteria from the diseased organ can enter the glomeruli of the nephrons with the bloodstream and cause their inflammation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8400607638888888
+      }
+    },
+    {
+      "question": "What is a characteristic symptom of pyelonephritis?",
+      "context": "Frequent and painful urination, increased body temperature, lower back pain, drowsiness, general malaise",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8372252747252747
+      }
+    },
+    {
+      "question": "How does infection in the urinary system spread?",
+      "context": "Infectious diseases and the action of non-infectious factors can lead to disorders in the work of the excretory organs. Thus, inflammatory processes in the urinary system can occur as a result of an allergic reaction or metabolic disorders.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8647254962779156
+      }
+    },
+    {
+      "question": "What is the difference between ascending and descending infections?",
+      "context": "If the infection first gets into the urethra, causes its inflammation and spreads upwards - to the bladder, ureters and kidneys, then it is called ascending. If the infection first gets into the urinary system through other channels, then it is called descending.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is a common symptom of poisoning?",
+      "context": "Symptoms of poisoning, increased body temperature, decreased urination, swelling of the face and extremities, headache, nausea",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7862637362637362
+      }
+    },
+    {
+      "question": "What are some common diseases of the excretory system?",
+      "context": "Common diseases of the excretory system are pyelonephritis, urethritis, cystitis, and kidney stones.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7786406969099277
+      }
+    },
+    {
+      "question": "What can prevent the development of malignant tumors in the kidneys?",
+      "context": "A balanced diet prevents metabolic disorders. In addition, it provides for limiting alcohol consumption, which disrupts the processes of excretion of metabolic products from the body, increases the risk of kidney stone formation (Fig. 23.1) and the development of malignant tumors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.836566742081448
+      }
+    },
+    {
+      "question": "What is the main layer of connective tissue in the human skin?",
+      "context": "The dermis is a layer of connective tissue consisting of elastic fibers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7644230769230769
+      }
+    },
+    {
+      "question": "Why does human hair play an important role as a thermal insulator?",
+      "context": "Human hair is concentrated mainly on the head, where it plays an important role as a thermal insulator - it prevents excessive overheating of the head from sunlight.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9187623274161736
+      }
+    },
+    {
+      "question": "What are some derivatives of human skin coverings?",
+      "context": "Human skin covers form a number of derivatives. The main ones are hair and nails, which protect the body from adverse external influences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8361013986013985
+      }
+    },
+    {
+      "question": "What is the main role of the skin in thermoregulation?",
+      "context": "Heat loss processes are provided by the skin, lungs, and excretory organs. The skin plays the main role here.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7858534439416792
+      }
+    },
+    {
+      "question": "How does the body regulate its temperature during metabolism?",
+      "context": "During the process of metabolism, heat in the body is generated as a result of biochemical reactions in cells. Heat production processes occur mainly in internal organs and skeletal muscles. Heat transfer within the body is carried out mainly by the circulatory system: heated blood transfers it to other parts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8813280736357659
+      }
+    },
+    {
+      "question": "What happens to the skin when the body needs to give off excess heat?",
+      "context": "For example, when the body needs to give off excess heat, the vessels expand, more blood flows through them, the skin heats up, giving off more heat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8738503344481605
+      }
+    },
+    {
+      "question": "What is a common cause of heat stroke?",
+      "context": "The most common causes of heat stroke are high temperature and humidity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7712339743589743
+      }
+    },
+    {
+      "question": "What is hardening?",
+      "context": "Hardening is a set of measures aimed at increasing the functional reserves of the body and its resistance to the adverse effects of physical factors of the environment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7172202797202798
+      }
+    },
+    {
+      "question": "What is thermoregulation?",
+      "context": "The skin plays an extremely important role in the processes of thermoregulation of the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6963141025641026
+      }
+    },
+    {
+      "question": "Which organs do not belong to the excretory system?",
+      "context": "In tasks 1–12, choose one correct answer.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9077380952380952
+      }
+    },
+    {
+      "question": "What is NOT included in the excretory system?",
+      "context": "The excretory system does NOT include: muscles",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7741243131868132
+      }
+    },
+    {
+      "question": "What is the functional unit of the kidneys?",
+      "context": "The functional unit of the kidneys: nephron",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6858974358974359
+      }
+    },
+    {
+      "question": "Where does urine enter the bladder from?",
+      "context": "Urine enters the bladder from: ureters",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8534798534798536
+      }
+    },
+    {
+      "question": "How is primary urine formed?",
+      "context": "The process by which primary urine is formed: filtration",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8397435897435898
+      }
+    },
+    {
+      "question": "Where are secondary urine is formed?",
+      "context": "Structures of the kidney in which secondary urine is formed: nephron tubules",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is not reabsorbed in the renal tubules?",
+      "context": "The following is NOT reabsorbed in the renal tubules: protein",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.766025641025641
+      }
+    },
+    {
+      "question": "What is NOT present in the urine of a healthy person?",
+      "context": "The urine of a healthy person does NOT contain: blood cells",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7565559440559441
+      }
+    },
+    {
+      "question": "What causes pyelonephritis?",
+      "context": "The cause of pyelonephritis is: inflammation of the urinary bladder",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7578125
+      }
+    },
+    {
+      "question": "Which layer of skin is deepest?",
+      "context": "94.10 The deepest layer of the skin is: subcutaneous tissue",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.813301282051282
+      }
+    },
+    {
+      "question": "What organ plays a major role in heat transfer processes?",
+      "context": "The organ that plays a major role in heat transfer processes is: skin",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8647189349112425
+      }
+    },
+    {
+      "question": "What happens when blockage of the sebaceous gland ducts occurs?",
+      "context": "Blockage of the sebaceous gland ducts causes: acne",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7871394230769231
+      }
+    },
+    {
+      "question": "Which organ is affected by pyelonephritis?",
+      "context": "The cause of pyelonephritis is: inflammation of the urinary bladder",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8339342948717949
+      }
+    },
+    {
+      "question": "What matches glomeruli of the nephron with a disease?",
+      "context": "14 Match the structures of the excretory system with the diseases that affect them.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7912660256410257
+      }
+    },
+    {
+      "question": "How can pyelonephritis be transmitted?",
+      "context": "16 Consider the image of the organ in the picture. Explain what diseases can affect it and how they can be transmitted.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9059716599190284
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why does human hair play an important role as a thermal insulator?",
+      "context": "Human hair is concentrated mainly on the head, where it plays an important role as a thermal insulator - it prevents excessive overheating of the head from sunlight.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9187623274161736
+      }
+    },
+    {
+      "question": "Why is it important to consult a doctor if a person's blood pressure is constantly higher than 140 over 90 or lower than 90 over 60?",
+      "context": "However, health problems in a person can also occur in the case of too low pressure. If a person's pressure is constantly higher than 140 over 90 or lower than 90 over 60, this is a reason to consult a doctor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7619047619047619,
+        "diversity_score": 0.9165209790209791
+      }
+    },
+    {
+      "question": "Which organs do not belong to the excretory system?",
+      "context": "In tasks 1–12, choose one correct answer.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9077380952380952
+      }
+    },
+    {
+      "question": "How is secondary urine formed?",
+      "context": "Secondary urine is formed by two processes - reabsorption (reverse absorption) and secretion (excretion).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8886675824175825
+      }
+    }
+  ]
+}

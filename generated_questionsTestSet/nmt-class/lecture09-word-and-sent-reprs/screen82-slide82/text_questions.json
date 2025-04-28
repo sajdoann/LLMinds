@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What models can be used for natural language processing tasks?",
+      "context": "the recurrent network and you can also do it with the transformer style encoder and transformer style decoder.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7928571428571428
+      }
+    },
+    {
+      "question": "How does one reattach to separate heads in a neural network?",
+      "context": "these are the heads and then you will reattent to to these separate heads in the in the.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8243006993006993
+      }
+    },
+    {
+      "question": "What is assumed about the output sentence in this context?",
+      "context": "You will simply have a like fixed this is kind of assuming that that your output sentence has a fixed number of words",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8421052631578947
+      }
+    },
+    {
+      "question": "How many words are considered for the heads in this context?",
+      "context": "these four words or the eight words",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7821969696969697
+      }
+    },
+    {
+      "question": "What is being reattached to in this neural network architecture?",
+      "context": "the recurrent network and you can also do it with the transformer style encoder and transformer style decoder.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7053571428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is assumed about the output sentence in this context?",
+      "context": "You will simply have a like fixed this is kind of assuming that that your output sentence has a fixed number of words",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8421052631578947
+      }
+    },
+    {
+      "question": "How does one reattach to separate heads in a neural network?",
+      "context": "these are the heads and then you will reattent to to these separate heads in the in the.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8243006993006993
+      }
+    },
+    {
+      "question": "What is being reattached to in this neural network architecture?",
+      "context": "the recurrent network and you can also do it with the transformer style encoder and transformer style decoder.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7053571428571428
+      }
+    }
+  ]
+}

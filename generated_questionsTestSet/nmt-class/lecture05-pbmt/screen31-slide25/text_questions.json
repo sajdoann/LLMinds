@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary function of placing empty hypothesis into stack 0?",
+      "context": "So here is the summary in the studio code.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "How do you handle translation options for each hypothesis in a stack?",
+      "context": "And for all hypotheses in the stack you consider all the translation options and because there is fixed number of translation options a limit of those as well then this can be deemed constant.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8244047619047619
+      }
+    },
+    {
+      "question": "What happens when a translation option fits with the current vector?",
+      "context": "And then if the translation option fits, if it's compatible with the vector then you create a new hypothesis and you place it to the appropriate for the stack possibly recombining it and then",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8101325757575757
+      }
+    },
+    {
+      "question": "Why do you prune a stack when it has grown too big?",
+      "context": "if the stack has grown too big then you can directly prune it and you proceed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.7958333333333334
+      }
+    },
+    {
+      "question": "What is the ultimate goal of the process described in the document?",
+      "context": "At the end your final stack contains only hypotheses that cover all the words and at the top of the stack",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8109375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary function of placing empty hypothesis into stack 0?",
+      "context": "So here is the summary in the studio code.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "How do you handle translation options for each hypothesis in a stack?",
+      "context": "And for all hypotheses in the stack you consider all the translation options and because there is fixed number of translation options a limit of those as well then this can be deemed constant.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8244047619047619
+      }
+    },
+    {
+      "question": "What happens when a translation option fits with the current vector?",
+      "context": "And then if the translation option fits, if it's compatible with the vector then you create a new hypothesis and you place it to the appropriate for the stack possibly recombining it and then",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8101325757575757
+      }
+    }
+  ]
+}

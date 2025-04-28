@@ -1,0 +1,941 @@
+{
+  "all_questions": [
+    {
+      "question": "What events are characteristic of the 'calamitous fourteenth century'?",
+      "context": "Climate change, global pandemics, and political upheaval may seem more characteristic of the modern era than of the premodern world, but the first decades of the 1300s did in fact witness a rapid succession of such crises.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7988294541989928
+      }
+    },
+    {
+      "question": "What was the largest land-based empire in history by the beginning of the fourteenth century?",
+      "context": "By the beginning of the fourteenth century, the Mongol realm had expanded its reach through a broad swath of Eurasia, effectively becoming the largest land-based empire in history.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8002474845829276
+      }
+    },
+    {
+      "question": "Who became the first ruler over all of China who was not of Chinese origin?",
+      "context": "After fully conquering the Song dynasty in 1279, Kublai Khan became the first ruler over all of China who was not of Chinese origin.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.9230769230769231,
+        "diversity_score": 0.8575285474019652
+      }
+    },
+    {
+      "question": "Why did the Mongols adopt Chinese practices of taxation and administration?",
+      "context": "The Mongols’ traditional nomadic ways had given them little experience in managing sedentary agriculture, so they began by absorbing many Chinese practices of taxation and administration into their government.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8384587913178049
+      }
+    },
+    {
+      "question": "What was the social structure of the Yuan government?",
+      "context": "Their four-tiered social structure placed Mongols at the top, followed by non-Mongol foreigners known as Semu ren. Their ethnic Chinese subjects were relegated to the bottom two categories; those who had submitted to Mongol rule earlier, the Han Chinese in the north, were ranked higher than those in the south who held out longer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7794377391816308
+      }
+    },
+    {
+      "question": "What policy did Yuan rulers implement to alleviate hardships faced by their subjects?",
+      "context": "They also instituted more benevolent policies. By creating granaries that provided food in times of famine, forgiving the tax burden for villages hit by natural disasters, and reducing the number of crimes that had traditionally resulted in the death penalty, for example, Mongol rulers likely alleviated the hardships faced by many of their subjects.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8944852615738692
+      }
+    },
+    {
+      "question": "What were the main reasons for the collapse of the Yuan dynasty?",
+      "context": "aversion to Mongol rule had led to widespread local rebellions that ultimately hastened the collapse of the Yuan dynasty. Rapid inflation, the devastating impact of the bubonic plague, and intensifying Mongol factionalism all contributed as well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7919831223628692
+      }
+    },
+    {
+      "question": "What was the significance of the Il-Khanate in the Middle East?",
+      "context": "When the Mongols occupied portions of the Middle East, their regional leader, Chinggis Khan’s grandson Hulagu, used the title il-khan (lesser khan); his realm, therefore, became known as the Il-Khanate.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7834036568213784
+      }
+    },
+    {
+      "question": "When did Hulagu use the title il-khan?",
+      "context": "his realm, therefore, became known as the Il-Khanate. Founded in 1256, the Il-Khanate was primarily centered in Persia, and its rulers resurrected the ancient title of “Iran” for this core of their domain, where they sought to maintain Mongol nomadic ways and generally neglected the khanate’s economic welfare.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8581977094635322
+      }
+    },
+    {
+      "question": "What led to a significant shift in the cultural identity of Mongols?",
+      "context": "Although Ghazan’s conversion may have been based solely on religious conviction, it also enabled him to appeal to the growing numbers of Mongols and members of the Persian elite who had become Muslims.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8066455696202531
+      }
+    },
+    {
+      "question": "When did the Mongol Empire cease to exist as a unified political entity?",
+      "context": "After the overthrow of the Yuan dynasty in 1368, the Mongol Empire ceased to exist as a unified political entity.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8400681596884129
+      }
+    },
+    {
+      "question": "What was a significant consequence of the bubonic plague in Europe during the Early Fourteenth Century?",
+      "context": "These crises resulted in demographic changes and economic troubles that signaled profound transformations in the religious and political foundations of medieval society.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7823839662447257
+      }
+    },
+    {
+      "question": "What was the outcome of the Battle of Ain Jalut for the Mamluks?",
+      "context": "The Mamluks, under their military commander Baybars, then gained control of Egypt and Syria. In the process, they not only managed to protect their empire from subsequent Mongol attacks, but they also made significant contributions to the Islamization of Africa.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7833953834698436
+      }
+    },
+    {
+      "question": "What were some of the crises that Europe faced at the beginning of the century?",
+      "context": "a period of worsening weather resulted in crop failures and food shortages that left Europe vulnerable to the ravages of the bubonic plague, a deadly bacterial disease.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7895569620253164
+      }
+    },
+    {
+      "question": "What was the result of the crisis of authority within the European Christian Church during this period?",
+      "context": "significant destabilization in the beginning of the fourteenth century, when tensions between the pope and national monarchs led to a weakening of papal authority and division within the church.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7966772151898734
+      }
+    },
+    {
+      "question": "What event marked the beginning of the Great Western Schism?",
+      "context": "the simultaneous appointment of three popes in 1378",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7198488045007032
+      }
+    },
+    {
+      "question": "What was the main reason for the Hundred Years' War?",
+      "context": "The Hundred Years' War erupted between England and France over claims to French lands held by the English monarch.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7946554149085795
+      }
+    },
+    {
+      "question": "Why did the use of firearms become more widespread during the war?",
+      "context": "Later in the war, the use of firearms and gunpowder became more widespread and more destructive, thanks to the ability of these weapons to dismantle the protective walls of castles and cities.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8159803872517136
+      }
+    },
+    {
+      "question": "What was the name of the technology that rendered combat especially savage?",
+      "context": "new military technologies of the late medieval period shaped much of the conflict and rendered combat especially savage.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7829761219792866
+      }
+    },
+    {
+      "question": "What was the role of electors in choosing an emperor?",
+      "context": "Each of these kingdoms, in turn, was composed of a loose coalition of independent territories with different hereditary rulers. The emperor was chosen by a handful of these rulers known as electors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.78047711781889
+      }
+    },
+    {
+      "question": "What document attempted to simplify and clarify the process of electing emperors?",
+      "context": "Later in the century, the Golden Bull , proclaimed by the emperor Charles IV in 1356 (bull is the Latin word for “seal”), attempted to simplify and clarify the process by which the emperor was elected.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8210518384569017
+      }
+    },
+    {
+      "question": "What was a notable characteristic of the Holy Roman Empire?",
+      "context": "The empire itself was a weak and decentralized political entity. By the end of the fourteenth century, it included more than one hundred principalities, each with varying degrees of power and autonomy.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7785714285714286
+      }
+    },
+    {
+      "question": "What is historical climatology?",
+      "context": "Texts and other written source materials often provide scant information about environmental fluctuations of earlier centuries.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.846123417721519
+      }
+    },
+    {
+      "question": "What was the main effect of the Little Ice Age on rainfall in the Northern Hemisphere?",
+      "context": "In the fourteenth century in particular, the Little Ice Age , a period of unusually cold weather that affected most of the Northern Hemisphere ( Figure 16.10 ), led to significant variations in normal rainfall and a general drop in the mean annual temperature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8158278079164155
+      }
+    },
+    {
+      "question": "What was the cause of widespread malnourishment and starvation during the fourteenth century?",
+      "context": "In an era during which many people survived on subsistence agriculture, even the slightest change in seasonal weather patterns could devastate crops and result in widespread malnourishment and starvation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7984420642648491
+      }
+    },
+    {
+      "question": "What event had a significant impact on Afro-Eurasia during the fourteenth century?",
+      "context": "These events caused significant human hardship, disrupted commerce, and contributed to the decline of once-great empires, even the seemingly impenetrable Mongol dynasty.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8139692585895117
+      }
+    },
+    {
+      "question": "What was the result of the bubonic plague striking much of Afro-Eurasia during the fourteenth century?",
+      "context": "Poor nutrition weakens human immune systems, which—together with poor sanitation and the close quarters in which people lived in medieval towns—undoubtedly left many more vulnerable to the ravages of epidemic diseases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.790235081374322
+      }
+    },
+    {
+      "question": "What were some possible triggers of the Little Ice Age?",
+      "context": "possible triggers may have included changes in ocean circulation patterns, shifts in the earth’s orbit, and several massive volcanic eruptions in the tropics that released clouds of sulfate particles into the atmosphere and reflected solar energy back into space at the end of the thirteenth century.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8131029763941156
+      }
+    },
+    {
+      "question": "What was the impact of the Little Ice Age on North America?",
+      "context": "Outside Afro-Eurasia, evidence suggests that the North American interior also suffered when established agricultural systems faltered under hotter summers with less rain and colder winters, leading to severe population loss in the southwestern region.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8055235903337169
+      }
+    },
+    {
+      "question": "What were the effects of deforestation during the Little Ice Age?",
+      "context": "In addition to its immediate impact on crops, late medieval climate change led to longer-term deforestation because more wood was used for heating, in the Northern Hemisphere in particular.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7956669912366114
+      }
+    },
+    {
+      "question": "What were some effects of the Little Ice Age on human society?",
+      "context": "late medieval climate change led to longer-term deforestation because more wood was used for heating, in the Northern Hemisphere in particular.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8081223628691983
+      }
+    },
+    {
+      "question": "What were some consequences of the Great Famine of 1315-1317?",
+      "context": "the prices of necessary food staples like grain skyrocketed, and competition for resources generated social tension, conflict, and an increase in crime.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7737592927466346
+      }
+    },
+    {
+      "question": "What led to the persecution of supposed witches during this era?",
+      "context": "the collective anxiety and social tension of the era sometimes led to scapegoating, including persecutions of supposed witches based on the premise that they had the ability to control the weather as a means of causing others harm.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7952596607149486
+      }
+    },
+    {
+      "question": "What were some common reasons for persecution during the Little Ice Age?",
+      "context": "Historians have traced connections between peaks of the Little Ice Age and spikes in witch-hunting activities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7962816455696202
+      }
+    },
+    {
+      "question": "What was a major challenge for people traveling across different political entities in the fourteenth century?",
+      "context": "crossing borders could be exceptionally risky without the security provided by the presence of established networks or patrons, especially when it came to bandits and lack of access to safe waystations to rest.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8441864906154517
+      }
+    },
+    {
+      "question": "What were some of the risks associated with crossing borders during the fourteenth century?",
+      "context": "disputes, adverse weather conditions, illness, and banditry",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8216024481847266
+      }
+    },
+    {
+      "question": "Why was walking a common means of transportation for migrants in the fourteenth century?",
+      "context": "Horses, carts, camels, and seafaring vessels were beyond the means of most people",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.788113784949228
+      }
+    },
+    {
+      "question": "What was a common experience for many refugees during times of drought and food shortages?",
+      "context": "precarious situations and uncertain prospects",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8316455696202532
+      }
+    },
+    {
+      "question": "What was the approximate mortality rate of the Black Death?",
+      "context": "This name, inspired by the blackened tissue the disease caused on the body, also came to express the fear and awe brought by a disease with a mortality rate ranging from 30 to 80 percent.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7748141450673096
+      }
+    },
+    {
+      "question": "What was the primary characteristic of the bubonic plague?",
+      "context": "The bubonic plague, the most common variant of the disease caused by the bacterium Yersinia pestis, raises egg-shaped swellings known as buboes near an afflicted person’s lymph nodes in the groin, underarm, and upper neck areas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7517800632911392
+      }
+    },
+    {
+      "question": "What were some of the ineffective treatments for the Black Death during the Middle Ages?",
+      "context": "At times, the defenses against illness were prayers, divination, the protective aromas of flowers and spices, and for the select few who could afford to flee heavily populated areas, retreat to the countryside.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8161948810682988
+      }
+    },
+    {
+      "question": "What was the typical mortality rate for death due to the bubonic plague in the Middle Ages?",
+      "context": "For the vast majority in the Middle Ages, death generally occurred within three days.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8323271665043817
+      }
+    },
+    {
+      "question": "How did pneumonic and septicemic variants of the disease differ from one another?",
+      "context": "Two even deadlier variants of the disease eventually emerged during the fourteenth century: pneumonic and septicemic.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8337552742616033
+      }
+    },
+    {
+      "question": "What was believed by some to be a cause of the plague at first?",
+      "context": "Some saw the epidemic as a divine punishment from God, and others speculated that it was caused by a rare conjunction of planets creating noxious atmospheric conditions on Earth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8008589511754068
+      }
+    },
+    {
+      "question": "Where did the Black Death initially spread?",
+      "context": "he plague had spread in primarily one form (bubonic) and in one direction (east to west),",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.831374321880651
+      }
+    },
+    {
+      "question": "What was a consequence of the Black Death's arrival in China?",
+      "context": "The accounts of the Chinese Imperial Maritime Customs Service, compiled in the late nineteenth century, suggest that roughly thirteen million people perished during this lethal outbreak.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7875671269658612
+      }
+    },
+    {
+      "question": "What was a common response to epidemics and catastrophes in ancient China?",
+      "context": "Epidemics, droughts, and other catastrophes could be perceived as omens of divine displeasure and an indication that a ruler had lost divine support.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8506630500301386
+      }
+    },
+    {
+      "question": "Where did the plague's impact on trade and population decline further compound the deterioration of Il-Khanate Mongol rule after Abu Sa'id's death?",
+      "context": "The plague’s devastating impact on trade and the population decline further compounded the deterioration of Il-Khanate Mongol rule after Abu Sa’id’s death.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7368421052631579,
+        "diversity_score": 0.8722121760096444
+      }
+    },
+    {
+      "question": "What was the approximate population loss in the Mamluk Empire?",
+      "context": "Although the mortality rate across the Middle East was high, much of our knowledge of the plague’s impact in the Muslim world comes from historical documentation of its impact on the Mamluk Empire (1250–1517), which suffered a population loss of roughly one-third.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8127120046330769
+      }
+    },
+    {
+      "question": "Why did nomads of the region largely manage to outrun the disease by retreating into the desert?",
+      "context": "The nomads of the region had long known to avoid settled areas when strange diseases appeared, and they largely managed to outrun the disease by retreating into the desert.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.849789029535865
+      }
+    },
+    {
+      "question": "What prompted many people to flee Cairo during the plague?",
+      "context": "Although some of Cairo’s Mamluk elite fled to rural areas north of the city in 1347, most decided to remain and protect their citadel from potential attacks from their rivals.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8039435248296007
+      }
+    },
+    {
+      "question": "How did Muslim writers tend to frame the epidemic with religious explanations?",
+      "context": "Doctors could neither define nor remedy the disease, so plague texts tended to frame the epidemic with religious explanations and advice about proper conduct during epidemics.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8856962025316456
+      }
+    },
+    {
+      "question": "What type of industries experienced a decline during the plague?",
+      "context": "Many formerly thriving industries in Mamluk cities went into deep decline during the plague, but there was a sudden increase in the construction of madrasas, mosques, and tombs, which for those who survived were a means of expressing gratitude.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7921338155515371
+      }
+    },
+    {
+      "question": "What occupation(s) prospered during the plague?",
+      "context": "The only other occupational group in the Mamluk Sultanate that prospered in the wake of the plague was the spice merchants, since Egypt continued to serve as an important depot in the international spice trade.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7638302859821847
+      }
+    },
+    {
+      "question": "What led to the collapse of the Mamluk empire?",
+      "context": "Although the Mamluks continued to rule until 1517, fierce clashes and ethnic rivalries within their empire created significant political instability that ultimately led to its collapse.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7653164556962025
+      }
+    },
+    {
+      "question": "What event occurred in 1346–1347, marking the beginning of the spread of the Black Death in Europe?",
+      "context": "The plague began wreaking havoc in the Mamluk Sultanate, it was also making its way to the ports of Europe via Silk Roads trade caravans and merchant ships sailing the Black Sea in 1346–1347.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8197825381369686
+      }
+    },
+    {
+      "question": "What is believed to be the most likely method by which the plague entered Caffa, rather than the Mongol siege?",
+      "context": "But the plague was most likely spread to Caffa by flea-infested rats independent of the Mongol siege.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8453762306610408
+      }
+    },
+    {
+      "question": "How many people is estimated to have died as a result of the Black Death in Europe?",
+      "context": "From there, the disease was carried to the port of Marseilles and spread into the European interior along rivers, paths, and roads, leaving perhaps as many as twenty-four million dead, roughly 30 percent of the continent’s population at the time.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8615605045240191
+      }
+    },
+    {
+      "question": "What was the economic condition of the lower end of the European society before the plague's arrival?",
+      "context": "For the vast majority of people living at the lower end of the economic spectrum, falling wages led to limited resources, poorer diets, and widespread malnourishment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8068244358833241
+      }
+    },
+    {
+      "question": "What was the likely consequence of the plague's arrival in Europe on the European population's immune systems?",
+      "context": "Well before the plague’s arrival in the 1340s, the European population was reeling from years of economic decline and poor nutrition, which may have weakened immune systems and made some people more vulnerable to attacks of infectious disease.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8159592951104493
+      }
+    },
+    {
+      "question": "What factors may have weakened the immune systems of Europeans before the arrival of the plague?",
+      "context": "Well before the plague's arrival in the 1340s, the European population was reeling from years of economic decline and poor nutrition, which may have weakened immune systems and made some people more vulnerable to attacks of infectious disease.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8298728449510281
+      }
+    },
+    {
+      "question": "Why did medical practitioners struggle to explain or remedy the plague?",
+      "context": "Lacking a germ theory of contagion, however, medical practitioners were unable to fully explain or remedy the plague, although centuries of early scientific observations led many to attempt the techniques and approaches that had served in outbreaks of other diseases.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8628212504794783
+      }
+    },
+    {
+      "question": "What was a common response of medieval European cities to the plague?",
+      "context": "Medieval European cities remained hotbeds of infection despite the efforts of some Italian cities to impose quarantine and travel restrictions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.764943741209564
+      }
+    },
+    {
+      "question": "What factors influenced the social responses to the plague in medieval Europe?",
+      "context": "social responses engendered by the plague’s demographic devastation, such as the growing prominence of merchants due to the continued growth of global trade and people's loss of confidence in the European Christian Church.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8162707545618938
+      }
+    },
+    {
+      "question": "What groups were scapegoated for causing the plague?",
+      "context": "In some towns, the belief that communities had to be purged of “morally contaminating people” such as prostitutes and beggars also led to the scapegoating of Jewish people, who were falsely accused of causing the plague by poisoning wells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7959791511541325
+      }
+    },
+    {
+      "question": "What was the outcome for flagellants after Pope Clement VI condemned them?",
+      "context": "As a result of their increasingly radical orientation, however, by 1349 flagellants had been officially condemned by Pope Clement VI, and they ultimately faded into oblivion in the fifteenth century.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8237123526844172
+      }
+    },
+    {
+      "question": "By what year had flagellants been officially condemned by Pope Clement VI?",
+      "context": ", by 1349 flagellants had been officially condemned by Pope Clement VI,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9321058688147296
+      }
+    },
+    {
+      "question": "Why did peasants, laborers, and those at the lower end of the socioeconomic hierarchy tend to experience the greatest mortality?",
+      "context": "Peasants, laborers, and those at the lower end of the socioeconomic hierarchy tended to experience the greatest mortality,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8344321378340366
+      }
+    },
+    {
+      "question": "What was the effect of the Great Famine on feudalism?",
+      "context": "This dependent relationship began to disintegrate, however, in the wake of the Great Famine, Black Death, and Hundred Years’ War.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7326967207047154
+      }
+    },
+    {
+      "question": "What was the primary reason for the relaxation of guild membership rules?",
+      "context": "rules requiring guild membership for artisans seeking to practice their crafts were often relaxed, making it easier for newcomers to engage in craft production.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8253739930955121
+      }
+    },
+    {
+      "question": "What was the outcome for peasants who remained in the countryside?",
+      "context": "Many peasants also left the countryside to seek wage labor and employment in cities, which began experiencing significant labor shortages as a result of the plague’s staggering death toll.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.786193155180497
+      }
+    },
+    {
+      "question": "Why did European rulers pass laws limiting wages?",
+      "context": "European rulers sought to restore the status quo and ensure the nobility had sufficient access to peasant labor by passing laws that fixed wages at pre–Black Death levels.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9170520934761441
+      }
+    },
+    {
+      "question": "What was one way that masters changed the rules of their guild to limit the advancement of apprentices?",
+      "context": "The same masters, however, often changed the rules of their guild so that only the sons and sons-in-law of current masters could become masters themselves.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8265709764918625
+      }
+    },
+    {
+      "question": "What was the result of the use of longbows in warfare during the Hundred Years' War?",
+      "context": "Thus, the new type of warfare chipped away at the traditional feudal prerogatives and prestige of social elites.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7833191333982473
+      }
+    },
+    {
+      "question": "What type of warfare did the use of longbow technology render cavalry-focused armies obsolete?",
+      "context": "The use of new weapons and tactics rendered the cavalry-focused armies of the feudal era all but obsolete, because large professional standing armies paid for by monarchs could defeat mounted knights with the use of the longbow.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8400933418393043
+      }
+    },
+    {
+      "question": "How did Sufism contribute to the religious landscape in the fourteenth century?",
+      "context": "Although it could be expressed in a variety of ways, Sufism’s emphasis on inner personal contemplation and the believer’s connection with the divine became especially compelling during the period of instability and uncertainty following the collapse of the Il-Khanate.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8521468642117376
+      }
+    },
+    {
+      "question": "What was the result of the combination of depopulation, shifting military practices, and centralization of monarchical power on feudalism?",
+      "context": "Ultimately, the combination of depopulation, shifting military practices, and centralization of monarchical power led to the demise of feudalism.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8026107594936709
+      }
+    },
+    {
+      "question": "What was the main focus of Zhu Di's reign during the Ming era?",
+      "context": "He reinstated Confucian-based rituals and learning by sponsoring the compilation of a massive encyclopedia that incorporated writing from thousands of Confucian scholars.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.790159734779988
+      }
+    },
+    {
+      "question": "Why did many Christians focus on their own salvation during the aftermath of the Black Death?",
+      "context": "Beyond their larger misgivings about the integrity of church leadership, however, many Christians who survived the trauma of the Black Death were primarily concerned with their own salvation and the church’s inability to appease God’s anger or mitigate the plague’s devastation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8652802893309223
+      }
+    },
+    {
+      "question": "What groups emerged to challenge the authority of the church?",
+      "context": "new forms of mystical and individualistic spiritual practices emerged that emphasized asceticism, a tradition of strict self-discipline and the denial of worldly goods, and that encouraged the rise of anticlerical groups such as the Spiritual Franciscans in Italy and the Lollards in England.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7885531509459643
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "By what year had flagellants been officially condemned by Pope Clement VI?",
+      "context": ", by 1349 flagellants had been officially condemned by Pope Clement VI,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9321058688147296
+      }
+    },
+    {
+      "question": "Where did the plague's impact on trade and population decline further compound the deterioration of Il-Khanate Mongol rule after Abu Sa'id's death?",
+      "context": "The plague’s devastating impact on trade and the population decline further compounded the deterioration of Il-Khanate Mongol rule after Abu Sa’id’s death.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7368421052631579,
+        "diversity_score": 0.8722121760096444
+      }
+    },
+    {
+      "question": "Why did many Christians focus on their own salvation during the aftermath of the Black Death?",
+      "context": "Beyond their larger misgivings about the integrity of church leadership, however, many Christians who survived the trauma of the Black Death were primarily concerned with their own salvation and the church’s inability to appease God’s anger or mitigate the plague’s devastation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8652802893309223
+      }
+    },
+    {
+      "question": "What was a common experience for many refugees during times of drought and food shortages?",
+      "context": "precarious situations and uncertain prospects",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8316455696202532
+      }
+    },
+    {
+      "question": "What was the likely consequence of the plague's arrival in Europe on the European population's immune systems?",
+      "context": "Well before the plague’s arrival in the 1340s, the European population was reeling from years of economic decline and poor nutrition, which may have weakened immune systems and made some people more vulnerable to attacks of infectious disease.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8159592951104493
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main problem with using a formula that decomposes phrases?",
+      "context": "The base decomposition as soon as you have something which disregards the source, it can easily break your translation units.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5451388888888888
+      }
+    },
+    {
+      "question": "What is one of the problems with using a formula that separates the language model from the translation model?",
+      "context": "the separation of the language model from the translation model, causes the problem that the language model is likely to prefer shorter sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7426470588235294
+      }
+    },
+    {
+      "question": "What does it mean for a formula to 'get the balance right'?",
+      "context": "get the balance right. Okay, so there is something wrong with this formula.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7572115384615384
+      }
+    },
+    {
+      "question": "How does using a formula that disregards the source affect translation units?",
+      "context": "The base decomposition as soon as you have something which disregards the source, it can easily break your translation units.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6284722222222222
+      }
+    },
+    {
+      "question": "What is another problem with using a formula that decomposes phrases?",
+      "context": "the other problem is the decomposition into the phrases which allowed us to propose these wrong outputs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6189393939393939
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does it mean for a formula to 'get the balance right'?",
+      "context": "get the balance right. Okay, so there is something wrong with this formula.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7572115384615384
+      }
+    },
+    {
+      "question": "What is one of the problems with using a formula that separates the language model from the translation model?",
+      "context": "the separation of the language model from the translation model, causes the problem that the language model is likely to prefer shorter sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7426470588235294
+      }
+    },
+    {
+      "question": "What is another problem with using a formula that decomposes phrases?",
+      "context": "the other problem is the decomposition into the phrases which allowed us to propose these wrong outputs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6189393939393939
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main advantage of self-attention networks in terms of accessing positions?",
+      "context": "They allow to access any position in constant time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "How does the memory needed for computing a self-attentive network relate to the length of the sequences?",
+      "context": "The memory needed is dependent on the square of the length of the sequences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the benefit of the network structure's design in terms of parallel computations?",
+      "context": "So assuming that your GPU has enough arithmetic logic unit so it can do many computations in one step, then you can really process the arbitrary long sequence in one time step.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7827380952380952
+      }
+    },
+    {
+      "question": "What is the estimated complexity of the number of operations required for computing a self-attentive network?",
+      "context": "The actual calculations that you have to do is also N-squared.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7548701298701299
+      }
+    },
+    {
+      "question": "How does the design of self-attention networks mitigate the potential drawbacks of accessing any position in constant time?",
+      "context": "So the benefit comes at a cost. That obviously comes at a cost.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main advantage of self-attention networks in terms of accessing positions?",
+      "context": "They allow to access any position in constant time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "How does the memory needed for computing a self-attentive network relate to the length of the sequences?",
+      "context": "The memory needed is dependent on the square of the length of the sequences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the estimated complexity of the number of operations required for computing a self-attentive network?",
+      "context": "The actual calculations that you have to do is also N-squared.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7548701298701299
+      }
+    }
+  ]
+}

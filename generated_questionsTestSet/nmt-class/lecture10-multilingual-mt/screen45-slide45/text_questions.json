@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does a simulated low resource setting mean in the context of testing the system?",
+      "context": "And the system was tested again in a simulated low resource setting.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7440476190476191
+      }
+    },
+    {
+      "question": "How did the system perform compared to the baseline in terms of improvements when training data is small?",
+      "context": "So this simulation means that you are actually using high resource languages and you artificially reduce the data sizes for them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7158088235294118
+      }
+    },
+    {
+      "question": "What was the effect of having more languages on the system's performance?",
+      "context": "And yes, there were improvements compared to the baseline, especially if the training data is rather small.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "How does the reduction in data size affect high resource languages in this context?",
+      "context": "So this simulation means that you are actually using high resource languages and you artificially reduce the data sizes for them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.69375
+      }
+    },
+    {
+      "question": "What is the implication of the system's performance improvements in a low resource setting?",
+      "context": "And yes, there were improvements compared to the baseline, especially if the training data is rather small.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6298076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does a simulated low resource setting mean in the context of testing the system?",
+      "context": "And the system was tested again in a simulated low resource setting.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7440476190476191
+      }
+    },
+    {
+      "question": "How did the system perform compared to the baseline in terms of improvements when training data is small?",
+      "context": "So this simulation means that you are actually using high resource languages and you artificially reduce the data sizes for them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7158088235294118
+      }
+    },
+    {
+      "question": "How does the reduction in data size affect high resource languages in this context?",
+      "context": "So this simulation means that you are actually using high resource languages and you artificially reduce the data sizes for them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.69375
+      }
+    }
+  ]
+}

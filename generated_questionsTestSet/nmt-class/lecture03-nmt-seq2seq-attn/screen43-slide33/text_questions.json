@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of neural network is used for the decoder?",
+      "context": "And again, as a recurrent neural network it consumes its previous state.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8104166666666667
+      }
+    },
+    {
+      "question": "What is the purpose of scaling the output state of the decoder?",
+      "context": "It also scales accordingly to the weights in the weight matrix for the decoder.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7465277777777778
+      }
+    },
+    {
+      "question": "How does the non-linearity apply in the decoder's computation steps?",
+      "context": "And it is used, you so this is this is where it is used. You use again the non-linearity.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7831196581196581
+      }
+    },
+    {
+      "question": "What happens to the output of the decoder's projection layer?",
+      "context": "The scaling to the output vocabulary happens here by multiplying the vector with the output vocabulary matrix.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7951388888888888
+      }
+    },
+    {
+      "question": "How does the output word selection process work in the decoder?",
+      "context": "So this is the matrix which is as big as the TI size times the vocabulary size. And you choose the highest scoring element there.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of neural network is used for the decoder?",
+      "context": "And again, as a recurrent neural network it consumes its previous state.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8104166666666667
+      }
+    },
+    {
+      "question": "What happens to the output of the decoder's projection layer?",
+      "context": "The scaling to the output vocabulary happens here by multiplying the vector with the output vocabulary matrix.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7951388888888888
+      }
+    },
+    {
+      "question": "What is the purpose of scaling the output state of the decoder?",
+      "context": "It also scales accordingly to the weights in the weight matrix for the decoder.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7465277777777778
+      }
+    }
+  ]
+}

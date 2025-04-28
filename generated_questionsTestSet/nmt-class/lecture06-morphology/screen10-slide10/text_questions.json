@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of text is being used in the example to highlight morphological problems?",
+      "context": "For a speaker it's better to highlight the problem with the morphological text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7782738095238095
+      }
+    },
+    {
+      "question": "How do the labels for each word affect the interpretation of the morphological text?",
+      "context": "The first example, dvou zelená pruhovány kočká, is visible for you because now the labels, the morphological text, are distinct for each word there is a different morphological text.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8697916666666667
+      }
+    },
+    {
+      "question": "What happens to the gender number and case when words agree together in a noun phrase?",
+      "context": "And if those words were agreeing together to form a noun phrase, then and there would be the same gender number and case used throughout that phrase.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.84125
+      }
+    },
+    {
+      "question": "Can two different trigrams be put together to form a valid four-gram?",
+      "context": "But there is no way to understand dva as a form of a feminine and there is no way to understand kočky as a masculine.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8567708333333334
+      }
+    },
+    {
+      "question": "What case is uncertain in the phrase dua zelené pruhovány kočky?",
+      "context": "The forms are дві zelené pruchované kočky and you still don't know whether this is the nominative or the accusative case.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8319377990430622
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the gender number and case when words agree together in a noun phrase?",
+      "context": "And if those words were agreeing together to form a noun phrase, then and there would be the same gender number and case used throughout that phrase.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.84125
+      }
+    },
+    {
+      "question": "How do the labels for each word affect the interpretation of the morphological text?",
+      "context": "The first example, dvou zelená pruhovány kočká, is visible for you because now the labels, the morphological text, are distinct for each word there is a different morphological text.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8697916666666667
+      }
+    },
+    {
+      "question": "Can two different trigrams be put together to form a valid four-gram?",
+      "context": "But there is no way to understand dva as a form of a feminine and there is no way to understand kočky as a masculine.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8567708333333334
+      }
+    }
+  ]
+}

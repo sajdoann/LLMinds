@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does machine translation involve?",
+      "context": "Welcome to one of the last lectures on machine translation or statistical machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6708333333333334
+      }
+    },
+    {
+      "question": "Why would multilingual machine translation be helpful?",
+      "context": "machine translation by itself already involves at least two languages so the question is why more than two languages would be helpful",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.5526785714285715
+      }
+    },
+    {
+      "question": "What type of translations will be discussed in this lecture?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "Why does the topic of multilingual machine translation seem strange at first?",
+      "context": "machine translation by itself already involves at least two languages so the question is why more than two languages would be helpful",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6166666666666667
+      }
+    },
+    {
+      "question": "What type of machine translation will be specifically discussed in this lecture?",
+      "context": "neural machine translation obviously and today we're going to talk about multilingual machine translation that may sound a little bit strange at the first sight because machine translation by itself already involves at least two languages so the question is why more than two languages would be helpful",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.675
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of translations will be discussed in this lecture?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "Why does the topic of multilingual machine translation seem strange at first?",
+      "context": "machine translation by itself already involves at least two languages so the question is why more than two languages would be helpful",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6166666666666667
+      }
+    },
+    {
+      "question": "Why would multilingual machine translation be helpful?",
+      "context": "machine translation by itself already involves at least two languages so the question is why more than two languages would be helpful",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.5526785714285715
+      }
+    },
+    {
+      "question": "What type of machine translation will be specifically discussed in this lecture?",
+      "context": "neural machine translation obviously and today we're going to talk about multilingual machine translation that may sound a little bit strange at the first sight because machine translation by itself already involves at least two languages so the question is why more than two languages would be helpful",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.675
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Was ist das Problem mit den Tiefseebohrungen in europäischen Gewässern?",
+      "context": "Die Tiefseebohrungen insbesondere sind ein besonderes Risiko. Das haben wir da bei der Ölquelle im Golf von Mexiko sehen können.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.86875
+      }
+    },
+    {
+      "question": "Warum glaubt die EU, dass ein Moratorium für neue Anträge auf Tiefseebohrungen notwendig ist?",
+      "context": "Wir haben vier Meere, die an die EU angrenzen oder in der EU legen. Die Nordsee, die Ostsee, das Mittelmeer und das Schwarze Meer. Und in diesen europäischen Gewässern finden Ölbohrungen statt.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.9064285714285715
+      }
+    },
+    {
+      "question": "Wer soll die EU in Zukunft über ihre Standards und Vorstellungen bei der Tiefseebohrung sprechen?",
+      "context": "Herr Kommissar Oettinger, ich glaube, Sie unternehmen Initiativen und müssen sie unternehmen, um insbesondere mit Libyen, aber auch mit anderen über unsere Standards, über unsere Vorstellungen zu sprechen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.909375
+      }
+    },
+    {
+      "question": "Was sind die Probleme mit Offshore-Oil und wie könnte eine andere Energiepolitik in der EU aussehen?",
+      "context": "Offshore-Oil hat seine Probleme. Offshore-Wind wäre besser.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.9140625
+      }
+    },
+    {
+      "question": "Sind für kleinere Firmen, die Tiefseebohrungen durchführen, Solidaritätsfonds oder kollektive Lösungen nötig, um ihre Geschädigten zu unterstützen?",
+      "context": "Sind da Solidaritätsfonds nötig? Sind da kollektive Lösungen nötig, damit auch die Geschädigten an ihr Geld kommen?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.8911764705882352
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was ist das Problem mit den Tiefseebohrungen in europäischen Gewässern?",
+      "context": "Die Tiefseebohrungen insbesondere sind ein besonderes Risiko. Das haben wir da bei der Ölquelle im Golf von Mexiko sehen können.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.86875
+      }
+    },
+    {
+      "question": "Was sind die Probleme mit Offshore-Oil und wie könnte eine andere Energiepolitik in der EU aussehen?",
+      "context": "Offshore-Oil hat seine Probleme. Offshore-Wind wäre besser.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.9140625
+      }
+    },
+    {
+      "question": "Wer soll die EU in Zukunft über ihre Standards und Vorstellungen bei der Tiefseebohrung sprechen?",
+      "context": "Herr Kommissar Oettinger, ich glaube, Sie unternehmen Initiativen und müssen sie unternehmen, um insbesondere mit Libyen, aber auch mit anderen über unsere Standards, über unsere Vorstellungen zu sprechen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.909375
+      }
+    },
+    {
+      "question": "Sind für kleinere Firmen, die Tiefseebohrungen durchführen, Solidaritätsfonds oder kollektive Lösungen nötig, um ihre Geschädigten zu unterstützen?",
+      "context": "Sind da Solidaritätsfonds nötig? Sind da kollektive Lösungen nötig, damit auch die Geschädigten an ihr Geld kommen?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.8911764705882352
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of changes have occurred between 'positions' and its current version?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "How many questions should be generated according to the guidelines?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7660714285714285
+      }
+    },
+    {
+      "question": "What is the expected content of the answers to the questions?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8251633986928104
+      }
+    },
+    {
+      "question": "Where can we find examples of diverse and well-crafted questions?",
+      "context": "The questions must be diverse and cover different parts of the document.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8909090909090909
+      }
+    },
+    {
+      "question": "What is the primary goal for generating the list of questions?",
+      "context": "Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of changes have occurred between 'positions' and its current version?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "Where can we find examples of diverse and well-crafted questions?",
+      "context": "The questions must be diverse and cover different parts of the document.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8909090909090909
+      }
+    },
+    {
+      "question": "How many questions should be generated according to the guidelines?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7660714285714285
+      }
+    }
+  ]
+}

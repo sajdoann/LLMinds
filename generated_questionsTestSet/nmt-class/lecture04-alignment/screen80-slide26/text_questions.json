@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of alignments between English and Chinese were observed to be essentially of two types?",
+      "context": "the possible or or strange alignments between English and Chinese",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8361111111111111
+      }
+    },
+    {
+      "question": "Why asking for alignment point is considered a bad question in the first place?",
+      "context": "So asking to put the alignment point here is a bad question in the first place.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7779761904761905
+      }
+    },
+    {
+      "question": "What is the role of passive markers in word alignment between English and Chinese?",
+      "context": "But it's not a lexical translation of the word to be in English past. So that's why it may seem superficially from the data that this like aligns well, the was with the passive marker.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6791294642857143
+      }
+    },
+    {
+      "question": "What is the relationship between lexical equivalent and role equivalent pairs in word alignment?",
+      "context": "So it's a role equivalent pairs that are not lexical equivalent. So if something was discovered in English, in Chinese there is the content word to discover and there is some passive marker.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.7274535809018567
+      }
+    },
+    {
+      "question": "Why did people have problems with aligning 'was' as a passive marker?",
+      "context": "So this is why it may seem superficially from the data that this like aligns well, the was with the passive marker. But it's something that you would never put into a dictionary that was is translated as a passive marker.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8195564516129032
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of alignments between English and Chinese were observed to be essentially of two types?",
+      "context": "the possible or or strange alignments between English and Chinese",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8361111111111111
+      }
+    },
+    {
+      "question": "Why asking for alignment point is considered a bad question in the first place?",
+      "context": "So asking to put the alignment point here is a bad question in the first place.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7779761904761905
+      }
+    },
+    {
+      "question": "What is the relationship between lexical equivalent and role equivalent pairs in word alignment?",
+      "context": "So it's a role equivalent pairs that are not lexical equivalent. So if something was discovered in English, in Chinese there is the content word to discover and there is some passive marker.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.7274535809018567
+      }
+    },
+    {
+      "question": "Why did people have problems with aligning 'was' as a passive marker?",
+      "context": "So this is why it may seem superficially from the data that this like aligns well, the was with the passive marker. But it's something that you would never put into a dictionary that was is translated as a passive marker.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8195564516129032
+      }
+    }
+  ]
+}

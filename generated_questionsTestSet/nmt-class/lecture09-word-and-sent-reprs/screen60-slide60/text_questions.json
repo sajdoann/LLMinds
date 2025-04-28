@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of having a learned representation between sentences?",
+      "context": "between the sentences in the learned representation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6761363636363636
+      }
+    },
+    {
+      "question": "What does it mean to 'unfold' or 'unroll' a manifold?",
+      "context": "...then...if you unfold the, unroll the manifold...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "Why is it hoped that the learned representation will have a similar structure in the highly dimensional space?",
+      "context": "So you will be hoping that in the highly dimensional space you will have a similar structure.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7220588235294118
+      }
+    },
+    {
+      "question": "What is the goal of unfolding or unrolling a manifold?",
+      "context": "...if you unfold the, unroll the manifold...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6535714285714286
+      }
+    },
+    {
+      "question": "Why would it be important to understand this process in high-dimensional space?",
+      "context": "between the sentences in the learned representation. So you will be hoping that in the highly dimensional space you will have a similar structure.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7796052631578947
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of having a learned representation between sentences?",
+      "context": "between the sentences in the learned representation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6761363636363636
+      }
+    },
+    {
+      "question": "Why is it hoped that the learned representation will have a similar structure in the highly dimensional space?",
+      "context": "So you will be hoping that in the highly dimensional space you will have a similar structure.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7220588235294118
+      }
+    },
+    {
+      "question": "What does it mean to 'unfold' or 'unroll' a manifold?",
+      "context": "...then...if you unfold the, unroll the manifold...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "Why would it be important to understand this process in high-dimensional space?",
+      "context": "between the sentences in the learned representation. So you will be hoping that in the highly dimensional space you will have a similar structure.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7796052631578947
+      }
+    }
+  ]
+}

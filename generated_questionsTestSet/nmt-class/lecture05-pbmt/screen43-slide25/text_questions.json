@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of finding a balance in the weights during weight optimization?",
+      "context": "So if your weights are set on for in an unfortunate way you are searching in the wrong part of the of the search space.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7688461538461538
+      }
+    },
+    {
+      "question": "What is the purpose of retranslating with different weight settings?",
+      "context": "So this is the that's the idea. That's one part of the idea of the minimum error rate training.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7057142857142857
+      }
+    },
+    {
+      "question": "What is the phrase translation probability low due to?",
+      "context": "The phrase translation probability is also pretty low because the ore based on the language model is very low and also the phrases are kind of not common.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7555555555555555
+      }
+    },
+    {
+      "question": "What is the impact of adjusting the weights in neural MT?",
+      "context": "Changing all the internal parameters like the probabilities within the word translation and language model scores would be too much work. So this is what is not done in phrase based MT but it is actually what is done in neural MT.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7494117647058823
+      }
+    },
+    {
+      "question": "What is the purpose of updating the weights?",
+      "context": "so by tuning of the weights we can change the order of the hypothesis and we can make sure that the hypothesis that the external score likes better will be also scored better by the internal score.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6771428571428572
+      }
+    },
+    {
+      "question": "How do they determine if they have found the best solution?",
+      "context": "And then if we do this twice and get the same best weight setting then we will say okay we're finished. We have found the best solution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.888095238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do they determine if they have found the best solution?",
+      "context": "And then if we do this twice and get the same best weight setting then we will say okay we're finished. We have found the best solution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.888095238095238
+      }
+    },
+    {
+      "question": "What is the goal of finding a balance in the weights during weight optimization?",
+      "context": "So if your weights are set on for in an unfortunate way you are searching in the wrong part of the of the search space.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7688461538461538
+      }
+    },
+    {
+      "question": "What is the phrase translation probability low due to?",
+      "context": "The phrase translation probability is also pretty low because the ore based on the language model is very low and also the phrases are kind of not common.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7555555555555555
+      }
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "all_questions": [
+    {
+      "question": "What is checkpoint ensemble?",
+      "context": "Checkpoint ensemble: This is called since we select the models at different checkpoints in the training process.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7526041666666667
+      }
+    },
+    {
+      "question": "Why does ensemble decoding work?",
+      "context": "The intuitive argument is that each system makes different mistakes. When two systems agree, then they are more likely both right, rather than both make the same mistake.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9391025641025641
+      }
+    },
+    {
+      "question": "What is checkpoint ensembling?",
+      "context": "Checkpoint ensembling since we select the models at different checkpoints in the training process.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7570779914529915
+      }
+    },
+    {
+      "question": "How do you combine scores from left-to-right and right-to-left systems in reranking?",
+      "context": ". Combine the scores (simple average) of the different models for each candidate, select the candidate with the best score for each input sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9058845029239766
+      }
+    },
+    {
+      "question": "Why do right-to-left systems produce different output order?",
+      "context": "right-to-left systems, since they produce output in different order.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9471450617283951
+      }
+    },
+    {
+      "question": "What method is used to create an inventory of subword units and legitimate words?",
+      "context": "This method is trained on the parallel corpus. First, the words in the corpus are split into characters (marking original spaces with a special space character). Then, the most frequent pair of characters is merged (in English, this may be . and . into .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8641699735449735
+      }
+    },
+    {
+      "question": "What is Byte Pair Encoding?",
+      "context": "o create an inventory of subword units and legitimate words is byte pair encoding .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8171296296296297
+      }
+    },
+    {
+      "question": "How does the attention mechanism work in neural machine translation models for copying source words?",
+      "context": "They observe that the attention mechanism is mostly driven by location in case of copying.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8226851851851852
+      }
+    },
+    {
+      "question": "What is the purpose of using traditional statistical machine translation word and phrase translation models to filter the target vocabulary?",
+      "context": "To speed up training, Mi et al. (2016) use traditional statistical machine translation word and phrase translation models to filter the target vocabulary for mini batches.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6875,
+        "diversity_score": 0.8376736111111112
+      }
+    },
+    {
+      "question": "What is the main idea of using back translation to improve neural translation models with monolingual data?",
+      "context": "One idea is to just synthesize this [data] by back translation. See Figure 6.4 for an illustration of the steps involved.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8153315145502645
+      }
+    },
+    {
+      "question": "How much synthetic parallel data should be used in relation to the amount of existing true parallel data?",
+      "context": "an open question on how much synthetic parallel data should be used in relation to the amount of existing true parallel data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.9333333333333333,
+        "diversity_score": 0.8659741674447556
+      }
+    },
+    {
+      "question": "What is the recommended method for training a combined model with a language model and a translation model?",
+      "context": "We may also generate much more synthetic parallel data, but then ensure during training that we process equal amounts of each by over-sampling the true parallel data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8275
+      }
+    },
+    {
+      "question": "What is the concern with using a large neural language model in conjunction with a translation model?",
+      "context": "In other words, the language model would overfit to the parallel training data and be less general.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7803819444444444
+      }
+    },
+    {
+      "question": "How should the weight of the translation model and the language model be balanced?",
+      "context": "The balance of the translation model and the language model can be achieved with the type of gated units that we encountered in our discussion of the long short-term memory neural network architecture (Section 4.5).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8473124098124099
+      }
+    },
+    {
+      "question": "What is the goal of using round-trip training in machine translation?",
+      "context": "We can also round trip a sentence . first through the.and then back through.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.800865800865801
+      }
+    },
+    {
+      "question": "What are the two objectives for model training in the round-trip scenario?",
+      "context": "The translation e. of the given monolingual sentence f should be a valid sentence in the language . , as measured with a language model LM . e. The reconstruction of the translation e. back into the original language . should be easy, as measured with the translation model MT.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8313458660680884
+      }
+    },
+    {
+      "question": "What is the purpose of scaling updates by the language model cost LM . e. . and the forward translation cost MT . for each of the translations e. . in the n-best list?",
+      "context": "We can also update the model MT.with monolingual data in language . by scaling updates by the language model cost LM . e. . and the forward translation cost MT . for each of the translations e. . in the n-best list.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.88,
+        "diversity_score": 0.8519345238095238
+      }
+    },
+    {
+      "question": "What is dual learning setup?",
+      "context": "Xia et al. (2016) use monolingual data in a dual learning setup.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8111111111111111
+      }
+    },
+    {
+      "question": "What is the purpose of using monolingual data in machine translation?",
+      "context": "in addition to regular model training from parallel data, monolingual data is translated in a round trip and evaluated with a language model for language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7607323232323232
+      }
+    },
+    {
+      "question": "What type of neural network architecture is used in the decoder?",
+      "context": "Figure 6.6 combines these two ideas, some layers are both stacked (conditioned on the previous time step and previous layer), while others are deep transitions (conditioned only on the previous layer.).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.822020202020202
+      }
+    },
+    {
+      "question": "What is the purpose of the attention mechanism in the encoder?",
+      "context": "or the hidden state is used otherwise (via the attention mechanism in case of the encoder).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7576609347442681
+      }
+    },
+    {
+      "question": "What is the condition for the hidden state in a deep recurrent neural network?",
+      "context": "the first hidden state.is conditioned on the last hidden state from the previous time step.and the input, while the other hidden layers.are just conditioned on the previous previous layer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8372507122507122
+      }
+    },
+    {
+      "question": "What is the alternative idea for alternating recurrent neural networks?",
+      "context": "the hidden states at each layer.are alternately conditioned on the hidden state from the previous time step.or the next time step.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8279513888888889
+      }
+    },
+    {
+      "question": "What is the main benefit of residual connections in deep neural networks?",
+      "context": "We typically see the benefits of residual connections in early training stages (faster initial reduction of model perplexity), and less so as improvement in the final converged model.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.807337962962963
+      }
+    },
+    {
+      "question": "Why is deep architecture typically exploited after a basic functioning model has been acquired?",
+      "context": "Only when a basic functioning model has been acquired, the deep architecture can be exploited to enrich it.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9027226631393298
+      }
+    },
+    {
+      "question": "What is the purpose of using pre-computed word alignments in neural machine translation models?",
+      "context": "Hence, instead of trusting the attention mechanism to implicitly acquire the role as word alignmer, we may enforce this role. The idea is to provide not just the parallel corpus as training data, but also pre-computed word alignments using traditional means.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7923611111111111
+      }
+    },
+    {
+      "question": "How can pre-computed word alignments be used in the training process of neural machine translation models?",
+      "context": "Typically, the goal of training neural machine translation models is to generate the correct output words. We can add to this goal to also match the given word alignment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8220486111111112
+      }
+    },
+    {
+      "question": "What is the advantage of using pre-computed word alignments in training neural machine translation models?",
+      "context": "Such additional information may even benefit training of models to converge faster or overcome data sparsity under low resource conditions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8076388888888889
+      }
+    },
+    {
+      "question": "What is cross entropy cost CE?",
+      "context": "The mismatch between given.alignment scores.and computed attention scores.can be measured in several ways, such as cross entropy . cost CE..1.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.845949074074074
+      }
+    },
+    {
+      "question": "Why do some input words not receive enough attention during translation?",
+      "context": "Hence, an obvious idea is to more strictly model coverage . Given the attention model, a reasonable way to define coverage is by adding up the attention states. In a complete sentence translation, we roughly expect that each input word receives a similar amount of attention.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9183339808339808
+      }
+    },
+    {
+      "question": "What is meant by 'over-generation' in the context of coverage?",
+      "context": "coverage.coverage.over-generation . max.under-generation . min.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8388888888888889
+      }
+    },
+    {
+      "question": "What is the common practice in traditional statistical machine translation for giving proper weight to different scoring functions?",
+      "context": "The use of multiple scoring functions in the decoder is common practice in traditional statistical machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8121141975308642
+      }
+    },
+    {
+      "question": "What is the challenge in neural machine translation regarding giving proper weight to different scoring functions?",
+      "context": "For now, it is not in neural machine translation.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7972608024691358
+      }
+    },
+    {
+      "question": "How are coverage tracking and training objective integrated in neural machine translation?",
+      "context": "Taking a page from the guided alignment training (recall the previous Section 6.5), we augment the training objective function with a coverage penalty with some weight.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8726851851851851
+      }
+    },
+    {
+      "question": "What is the fertility component in neural machine translation models?",
+      "context": "However, even the earliest statistical machine translation models considered the fertility of words, i.e., the number of output words that are generated from each input word.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7602958937198068
+      }
+    },
+    {
+      "question": "What is the engineering approach to improving neural machine translation models?",
+      "context": "From an engineering perspective, a good way to improve a system is to analyze its performance, find weak points and consider changes to overcome them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7926136363636364
+      }
+    },
+    {
+      "question": "What problem does adding coverage tracking to the training objective in neural machine translation pose?",
+      "context": "Note that in general, it is problematic to add such additional functions to the learning objective, since it does distract from the main goal of producing good translations.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8235185185185185
+      }
+    },
+    {
+      "question": "What are the main differences between an engineering approach and a generic machine learning technique for improving translation systems?",
+      "context": "From an engineering perspective, a good way to improve a system is to analyze its performance, find weak points and consider changes to overcome them. On the other hand, proper coverage is one of the features of a good translation that machine learning should be able to get from the training data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8603712023962344
+      }
+    },
+    {
+      "question": "What are some potential adjustments needed to improve neural machine translation systems?",
+      "context": "If it is not able.to do that, it may need deeper models, more robust estimation techniques, ways to fight overfitting or under-fitting, or other adjustments to give it just the right amount of power needed for the problem.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8563762626262627
+      }
+    },
+    {
+      "question": "What is the main argument in favor of deep learning for neural machine translation systems?",
+      "context": "The argument for deep learning is that it does not require feature engineering, such as adding coverage models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7994598765432099
+      }
+    },
+    {
+      "question": "What is the main challenge in machine translation systems when it comes to adapting to a chosen use case?",
+      "context": "A common problem in the practical development of machine translation systems is that most of the available training data is different from the data relevant to a chosen use case.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8016010802469136
+      }
+    },
+    {
+      "question": "What is domain adaptation, and what are its challenges?",
+      "context": "The problem is generally framed as a problem of domain adaptation. In the simplest form, you have one set of data relevant to your use case . the in-domain data . and another set that is less relevant . the out-of-domain data .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8190972222222221
+      }
+    },
+    {
+      "question": "What are some methods for domain adaptation in machine translation?",
+      "context": "Models may be interpolated, we may back-off from in-domain to out-of-domain models, we may over-sample in-domain data during training or sub-sample out-of-domain data, etc.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.831140350877193
+      }
+    },
+    {
+      "question": "What is the most popular method for domain adaptation in neural machine translation?",
+      "context": "For neural machine translation, a fairly straightforward method is currently the most popular (see Figure 6.10). This method divides training up into two stages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8046497584541062
+      }
+    },
+    {
+      "question": "Why might it be beneficial to specialize a model to in-domain data?",
+      "context": "This way, the final model benefits from all the training data, but is still specialized to the in-domain data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8742944147355912
+      }
+    },
+    {
+      "question": "What are some potential issues with subsampling in-domain data from large collections?",
+      "context": "Subsample in-domain data from large collections A common problem is that the amount of available in-domain data is very small, so just training on this data, even in a secondary adaptation stage, risks overfitting.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8743055555555556
+      }
+    },
+    {
+      "question": "What are some potential benefits of using ensemble decoding for domain adaptation?",
+      "context": "Another, less commonly used method draws on the idea of ensemble decoding (Section 6.1). If we train separate models on different sets of data, we may combine their predictions.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8797186609686609
+      }
+    },
+    {
+      "question": "Why might it be necessary to choose weights for each model in ensemble decoding?",
+      "context": "If there is just an in-domain and out-of-domain model, however, this may be simply done by line search over possible values.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9072420634920635
+      }
+    },
+    {
+      "question": "What is the purpose of subsampling in-domain data from large collections?",
+      "context": "A common problem is that the amount of available in-domain data is very small, so just training on this data, even in a secondary adaptation stage, risks overfitting .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7986344930789375
+      }
+    },
+    {
+      "question": "Why are traditional statistical machine translation and neural translation methods different?",
+      "context": "much adaptation success has been achieved with just interpolating the language model, and this idea is the neural translation equivalent to that.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.844047619047619
+      }
+    },
+    {
+      "question": "What are some ways to use subsampled data in multiple domain settings?",
+      "context": "Sometimes, we have multiple collections of data that are clearly identified by domain . typically categories such as information technology, medical, law, etc.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8798812399355878
+      }
+    },
+    {
+      "question": "What is the approach for neural models when dealing with domain mismatch between training and test data?",
+      "context": "A common approach for neural models is to first train on all available training data, and then run a few iterations on in-domain data only (Luong and Manning, 2015), as already pioneered in neural language model adaption (Ter-Sarkisov et al., 2015).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8513071895424836
+      }
+    },
+    {
+      "question": "Why is it recommended to mix in-domain and out-of-domain data during adaptation?",
+      "context": "Chu et al. (2017) argue that given small amount of in-domain data leads to overfitting and suggest to mix in-domain and out-of-domain data during adaption.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8813657407407407
+      }
+    },
+    {
+      "question": "What is the main goal of using domain adaptation for neural machine translation?",
+      "context": "The adaptation technique allows neural machine translation to catch up.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7769764957264957
+      }
+    },
+    {
+      "question": "Why is it recommended to mix in-domain and out-of-domain data during the adaptation phase?",
+      "context": "Chu et al. (2017) argue that given small amount of in-domain data leads to overfitting.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8590939153439153
+      }
+    },
+    {
+      "question": "What type of linguistic annotation would add value to neural machine translation models?",
+      "context": "The typical linguistic treasure chest contains part-of-speech tags, lemmas, morphological properties of words, syntactic phrase structure, syntactic dependencies, and maybe even some semantic annotation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8607395020438499
+      }
+    },
+    {
+      "question": "What is the benefit of adding linguistic annotation to the input sentence in neural machine translation models?",
+      "context": "In traditional statistical models, this required carefully chosen independence assumptions and back-off schemes. So, adding more information to the conditioning context in neural translation models can be accommodated rather straightforwardly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8089529454022989
+      }
+    },
+    {
+      "question": "What is the purpose of semantic annotation in linguistic annotations?",
+      "context": "For instance . could be classified as HU - MAN .",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8215277777777779
+      }
+    },
+    {
+      "question": "What is Morphology?",
+      "context": ".Morphology is singular.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "How do we encode the word-level factored representation in a neural machine translation system?",
+      "context": "We can encode each factor in the factored representation as a 1hot vector. The concatenation of these vectors is then used as input to the word embedding.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.832299933862434
+      }
+    },
+    {
+      "question": "What is the main difference between syntax-based statistical machine translation models and traditional n-gram language models?",
+      "context": ".Traditional n-gram language models are good at promoting fluency among neighboring words, they are not powerful enough to ensure overall grammaticality of each output sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8572048611111112
+      }
+    },
+    {
+      "question": "What type of networks do the best-performing syntactic parsers use?",
+      "context": "They are either inspired by convolutional networks and build parse trees bottom-up, or are neural versions of left-to-right push-down automata that maintain a stack of opened phrases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8744444444444445
+      }
+    },
+    {
+      "question": "What is the challenge in integrating syntactic parsing and machine translation into a unified framework?",
+      "context": "At the time of writing, this is clearly still a challenge for future work",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7904431216931217
+      }
+    },
+    {
+      "question": "What are some approaches to syntactic parsing in machine translation?",
+      "context": "There is some early work on integrating syntactic parsing and machine translation into a unified framework but no consensus on best practices has emerged yet.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8531828703703703
+      }
+    },
+    {
+      "question": "Can we train a neural machine translation system that accepts text in any language as input and translates it into any other language?",
+      "context": "We can train a neural machine translation model on both corpora at the same time by simply concatenating them.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8764786018075492
+      }
+    },
+    {
+      "question": "How is the combined model trained on both data sets?",
+      "context": "The combined model trained on both data sets has one advantage over two separate models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8678240740740741
+      }
+    },
+    {
+      "question": "Why is it advantageous to train a single neural machine translation system on multiple parallel corpora?",
+      "context": "To achieve good quality, however, some parallel data in the desired language pair is needed, but much less than for a standalone model (Johnson et al., 2016).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8541184413580247
+      }
+    },
+    {
+      "question": "What is the purpose of adding a tag to the input sentence during inference?",
+      "context": ".If we train a system on the three corpora mentioned (German.English, French.English, and French.Spanish) we can also use it translate a sentence from German to Spanish . without having ever presented a sentence pair as training data to the system.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8311494469582705
+      }
+    },
+    {
+      "question": "What is the benefit of sharing components among language-pair-specific models?",
+      "context": ".The encoder may be shared in models that have the same input language. . The decoder may be shared in models that have the same output language.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8081597222222222
+      }
+    },
+    {
+      "question": "Can the same parameter values be used across different models for different language pairs?",
+      "context": "Sharing components means that the same parameter values (weight matrices, etc.) are used in these separate models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.9062657114127702
+      }
+    },
+    {
+      "question": "What is the goal of training a single neural machine translation model for multiple languages?",
+      "context": "The idea of shared training of components can also be pushed further to exploit monolingual data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7773148148148148
+      }
+    },
+    {
+      "question": "Can a single canonical neural translation model learn from multiple languages simultaneously?",
+      "context": "Johnson et al. (2016) explore how well a single canonical neural translation model is able to learn from multiple to multiple languages, by simultaneously training on parallel corpora for several language pairs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.9090909090909091,
+        "diversity_score": 0.8946759259259259
+      }
+    },
+    {
+      "question": "How does a shared attention mechanism affect the performance of multi-language input and output models?",
+      "context": "Firat et al. (2016) support multi-language input and output by training language-specific encoders and decoders and a shared attention mechanism.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8981481481481481
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do right-to-left systems produce different output order?",
+      "context": "right-to-left systems, since they produce output in different order.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9471450617283951
+      }
+    },
+    {
+      "question": "Why does ensemble decoding work?",
+      "context": "The intuitive argument is that each system makes different mistakes. When two systems agree, then they are more likely both right, rather than both make the same mistake.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9391025641025641
+      }
+    },
+    {
+      "question": "Why do some input words not receive enough attention during translation?",
+      "context": "Hence, an obvious idea is to more strictly model coverage . Given the attention model, a reasonable way to define coverage is by adding up the attention states. In a complete sentence translation, we roughly expect that each input word receives a similar amount of attention.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9183339808339808
+      }
+    },
+    {
+      "question": "How do you combine scores from left-to-right and right-to-left systems in reranking?",
+      "context": ". Combine the scores (simple average) of the different models for each candidate, select the candidate with the best score for each input sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9058845029239766
+      }
+    }
+  ]
+}

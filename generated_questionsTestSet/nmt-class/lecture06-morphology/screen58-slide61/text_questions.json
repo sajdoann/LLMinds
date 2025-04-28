@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What would happen if we translate the phrase directly without considering its context?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "How could we include monolingual data in our parallel data collection?",
+      "context": "This sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4375
+      }
+    },
+    {
+      "question": "What is the purpose of synthesizing the source side and including monolingual data?",
+      "context": "This sentence",
+      "difficulty": "hard",
+      "category": "inference",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.42708333333333337
+      }
+    },
+    {
+      "question": "Why would directly translating a phrase without context be of no use in learning anything useful?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4453125
+      }
+    },
+    {
+      "question": "What would happen if we used the translation 'kočce' as is, based on limited parallel data?",
+      "context": "This sentence",
+      "difficulty": "medium",
+      "category": "inference",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.40625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why would directly translating a phrase without context be of no use in learning anything useful?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4453125
+      }
+    },
+    {
+      "question": "How could we include monolingual data in our parallel data collection?",
+      "context": "This sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4375
+      }
+    },
+    {
+      "question": "What would happen if we used the translation 'kočce' as is, based on limited parallel data?",
+      "context": "This sentence",
+      "difficulty": "medium",
+      "category": "inference",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.40625
+      }
+    }
+  ]
+}

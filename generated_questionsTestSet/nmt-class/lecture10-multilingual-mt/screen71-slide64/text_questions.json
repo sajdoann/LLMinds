@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being compared in the phrase 'similarly to linguists'?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.275
+      }
+    },
+    {
+      "question": "To what activity or process are the speakers referring when they use the phrase 'in a similar way'?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.3897058823529411
+      }
+    },
+    {
+      "question": "What is the speaker's tone or attitude towards linguistic study, as indicated by the phrase 'similarly to linguists'?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.3382352941176471
+      }
+    },
+    {
+      "question": "Is the comparison being made between two specific groups or individuals, or is it more general?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4196428571428572
+      }
+    },
+    {
+      "question": "What implication does the speaker's use of 'similarly to linguists' have on their attitude towards language study?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.38235294117647056
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being compared in the phrase 'similarly to linguists'?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.275
+      }
+    },
+    {
+      "question": "Is the comparison being made between two specific groups or individuals, or is it more general?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4196428571428572
+      }
+    },
+    {
+      "question": "To what activity or process are the speakers referring when they use the phrase 'in a similar way'?",
+      "context": "In a similar way that linguists...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.3897058823529411
+      }
+    }
+  ]
+}

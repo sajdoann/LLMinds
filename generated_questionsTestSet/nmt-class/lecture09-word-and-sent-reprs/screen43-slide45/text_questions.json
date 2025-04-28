@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main approach described in the document?",
+      "context": "I would like to distinguish it from the linguistic meaning which captures the structure of expressions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7572916666666667
+      }
+    },
+    {
+      "question": "What are the levels of representation according to this approach?",
+      "context": "from morphology over syntax up to semantics",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7035714285714285
+      }
+    },
+    {
+      "question": "How are units at different layers related in this approach?",
+      "context": "So units of the lower layers of representation are put together to form units in the higher levels of the representation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is the relationship between linguistic meaning and its definition at each level?",
+      "context": "the linguistic meaning is at each of these levels defined separately and it's defined by the relation to the surrounding layer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8007478632478633
+      }
+    },
+    {
+      "question": "Who proposed the Textogramalical Theory?",
+      "context": "So from the levels of linguistic description from morphology over syntax up to semantics this is the structuralist approach to the meaning of the sentence and there the idea can be clearly read in the Textogramalical Theory by Petrus Gall.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.815625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main approach described in the document?",
+      "context": "I would like to distinguish it from the linguistic meaning which captures the structure of expressions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7572916666666667
+      }
+    },
+    {
+      "question": "What are the levels of representation according to this approach?",
+      "context": "from morphology over syntax up to semantics",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7035714285714285
+      }
+    },
+    {
+      "question": "What is the relationship between linguistic meaning and its definition at each level?",
+      "context": "the linguistic meaning is at each of these levels defined separately and it's defined by the relation to the surrounding layer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8007478632478633
+      }
+    },
+    {
+      "question": "Who proposed the Textogramalical Theory?",
+      "context": "So from the levels of linguistic description from morphology over syntax up to semantics this is the structuralist approach to the meaning of the sentence and there the idea can be clearly read in the Textogramalical Theory by Petrus Gall.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.815625
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one simple method of smoothing in language modeling?",
+      "context": "And the way to handle this is to... There are many methods of smoothing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8053571428571429
+      }
+    },
+    {
+      "question": "How do you define the probability of a whole sentence using multiple models in backoff approach?",
+      "context": "So one of the simple ones is simply backing off to shorter n-grams.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8161057692307692
+      }
+    },
+    {
+      "question": "What happens if all three models (trigram, bigram, and interpolation) are used at the same time?",
+      "context": "Now with this backoff approach will be zero. So actually this is not a backoff, this is interpolation if you use all the considerations at the same time.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8463541666666667
+      }
+    },
+    {
+      "question": "What are some factors that determine whether backoff or interpolation is better?",
+      "context": "Sometimes interpolation is better, sometimes especially if all tension弄 Д8s each three times A5s backoff was better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8489583333333334
+      }
+    },
+    {
+      "question": "What does it mean to 'resort' to using only bigrams in the backoff approach?",
+      "context": "If you use backoff the idea is that if the trigram is known you will not consider the bigrams and you resort to bigrams only if the trigram is not known.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7758097165991903
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one simple method of smoothing in language modeling?",
+      "context": "And the way to handle this is to... There are many methods of smoothing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8053571428571429
+      }
+    },
+    {
+      "question": "What are some factors that determine whether backoff or interpolation is better?",
+      "context": "Sometimes interpolation is better, sometimes especially if all tension弄 Д8s each three times A5s backoff was better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8489583333333334
+      }
+    },
+    {
+      "question": "How do you define the probability of a whole sentence using multiple models in backoff approach?",
+      "context": "So one of the simple ones is simply backing off to shorter n-grams.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8161057692307692
+      }
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one hot vector?",
+      "context": "For instance..(0 (0 (0 . These are very large vectors, and we will continue to wrestle with the impact of this choice to represent words. One stopgap is to limit the vocabulary to the most frequent, say, 20,000 words, and pool all the other words in an OTHER token.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8078571428571428
+      }
+    },
+    {
+      "question": "Why use one hot vectors to represent words?",
+      "context": "The type of vectors are called one hot vector . For instance..(0 (0 (0 . These are very large vectors, and we will continue to wrestle with the impact of this choice to represent words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9129926108374384
+      }
+    },
+    {
+      "question": "What is word embedding?",
+      "context": "This representation is commonly referred to as word embedding .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7435714285714285
+      }
+    },
+    {
+      "question": "How does the embedding matrix work?",
+      "context": "Practically, we are selecting the one column in the matrix that corresponds to the input word ID.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8366666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of an activation function in a neural network?",
+      "context": "Hence, there is no use for an activation function here.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8042857142857143
+      }
+    },
+    {
+      "question": "Why do language models use softmax activation function to ensure that all values add up to one?",
+      "context": "To ensure that it is indeed a proper probability distribution, we use the softmax activation function to ensure that all values add up to one.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.905952380952381
+      }
+    },
+    {
+      "question": "What role do word embeddings play in neural machine translation?",
+      "context": "Before we move on, it is worth reflecting the role of word embeddings in neural machine translation and many other natural language processing tasks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8338095238095238
+      }
+    },
+    {
+      "question": "How can word embeddings be used to enable semantic inference?",
+      "context": "Indeed there is some evidence that word embedding allow just that (Mikolov et al., 2013).",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9357142857142857
+      }
+    },
+    {
+      "question": "What can be computed offline for neural language models in decoding?",
+      "context": "The computation between embeddings and the hidden layer can be also partly carried out offline.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8468460111317254
+      }
+    },
+    {
+      "question": "How to train a self-normalizing model to have normalized node values?",
+      "context": "One way is to include the constraint that the normalization factor.is close to 1 in the objective function.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8819047619047619
+      }
+    },
+    {
+      "question": "What is the main idea of noise contrastive estimation?",
+      "context": "Another way to train a self-normalizing model is called noise contrastive estimation. The main idea is to optimize the model so that it can separate correct training examples from artificially created noise examples.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8027777777777778
+      }
+    },
+    {
+      "question": "What are the objectives of noise contrastive estimation?",
+      "context": "The objective of noise contrastive estimation is to maximize . correct for correct training examples.and to minimize it for noise examples.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7861344537815126
+      }
+    },
+    {
+      "question": "What is the primary difference between using a recurrent neural network with start-of-sentence neurons and traditional statistical back-off models?",
+      "context": "One input is the directly preceding (and now known) word., as before. However, the neurons in the network that we used to represent start-of-sentence are now filled with values from the hidden layer of the previous prediction of word.In a way, these neurons encode the previous sentence context.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.8413341044919993
+      }
+    },
+    {
+      "question": "What is the main advantage of using recurrent neural networks over traditional statistical back-off models in terms of contextual information?",
+      "context": "Moreover, the model is simpler. it has less weights than a 3-gram feed-forward neural language model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.8265977443609023
+      }
+    },
+    {
+      "question": "How does the training process for recurrent neural networks with start-of-sentence neurons differ from traditional statistical back-off models?",
+      "context": "We assess the error at the output layer and propagate updates back to the input layer. We could process every training example this way . essentially by treating the hidden layer from the previous training example as fixed input the current example.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8736607142857142
+      }
+    },
+    {
+      "question": "How do we train recurrent neural networks with arbitrarily long contexts?",
+      "context": "One idea is to process every training example this way, essentially by treating the hidden layer from the previous training example as fixed input the current example.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.858498023715415
+      }
+    },
+    {
+      "question": "What are some challenges with recurrent neural networks?",
+      "context": "The hidden layer plays double duty as memory of the network and as continuous space representation used to predict output words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8115601503759399
+      }
+    },
+    {
+      "question": "What problem does the use of long sequences in recurrent neural networks pose?",
+      "context": "If we train the model on long sequences, then any update needs to back propagate to the beginning of the sentence. However, propagating through so many steps raises concerns that the impact of recent information at any step drowns out older information.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8309218559218559
+      }
+    },
+    {
+      "question": "What is the main problem addressed by the long short-term memory (LSTM) neural network architecture?",
+      "context": "While a digital memory cell may store just a single bit, a LSTM cell stores a real number.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8877551020408163
+      }
+    },
+    {
+      "question": "What is the purpose of the gates in an LSTM cell?",
+      "context": "The input gate parameter regulates how much new input changes the memory state. The forget gate parameter regulates how much of the prior memory state is retained (or forgotten). The output gate parameter regulates how strongly the memory state is passed on to the next layer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7827472527472528
+      }
+    },
+    {
+      "question": "What happens when over long distance gradient values become too large in an LSTM network?",
+      "context": "This is typically suppressed by clipping gradients, i.e., limiting them to a maximum value set as a hyper parameter.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8814285714285715
+      }
+    },
+    {
+      "question": "What is the effect of propagating through many steps in an LSTM network?",
+      "context": "Propagating through so many steps raises concerns that the impact of recent information at any step drowns out older information.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8228021978021978
+      }
+    },
+    {
+      "question": "What role do gate parameters play in an LSTM layer?",
+      "context": "They actually play a fairly important role. In particular contexts, we would like to give preference to recent input (gate input.), rather retain past memory (gate forget.), or pay less attention to the cell at the current point in time (gate output)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8646825396825397
+      }
+    },
+    {
+      "question": "How are gate parameters set in an LSTM layer?",
+      "context": "For each gate input . forget . output we define matrices.,., and.to compute the gate parameter value by the multiplication of weights and node values in the previous layer., the hidden layer.at the previous time step, and the memory states at the previous time step",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8676767676767676
+      }
+    },
+    {
+      "question": "What is the difference between LSTM cells and GRU cells?",
+      "context": "LSTM cells add a large number of additional parameters. For each gate alone, multiple weight matrices are added.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8369841269841269
+      }
+    },
+    {
+      "question": "What are the two gates in GRU cells?",
+      "context": "The first gate is used in the combination of the input and previous state. This is combination is identical to traditional recurrent neural network, except that the previous states impact is scaled by the reset gate.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7782407407407408
+      }
+    },
+    {
+      "question": "What is the purpose of the update gate in GRU cells?",
+      "context": "Then, the update gate is used for a interpolation of the previous state and the just computed combination. This is done as a weighted sum, where the update gate balances between the two.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7782857142857142
+      }
+    },
+    {
+      "question": "How do GRU cells balance between the current input and the previous state in the combination process?",
+      "context": "Since the gate.s value is between 0 and 1, this may give preference to the current input.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8589880952380953
+      }
+    },
+    {
+      "question": "What is the motivation behind using deep learning for sequence prediction tasks in language?",
+      "context": "Large gains have been seen in tasks such as vision and speech recognition due to stacking multiple hidden layers together.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8492857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of using a sequence of hidden layers for shallow neural networks?",
+      "context": "These hidden layers.may be deeply stacked , so that each layer acts like the hidden layer in the shallow recurrent neural network.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.81374865735768
+      }
+    },
+    {
+      "question": "What is the main difference between shallow and deep stacked neural networks in sequence prediction tasks?",
+      "context": "In shallow neural networks, the input is passed to a single hidden layer, from which the output is predicted. Now, a sequence of hidden layers is used. These hidden layers.may be deeply stacked , so that each layer acts like the hidden layer in the shallow recurrent neural network.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8175595238095238
+      }
+    },
+    {
+      "question": "What are some ways to reduce computational complexity in deep neural networks for sequence prediction tasks?",
+      "context": "By first clustering words into classes and encoding words as pair of class and word-in-class bits, Baltescu et al. (2014) reduce the computational complexity sufficiently to allow integration of the neural network language model into the decoder.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8710829493087557
+      }
+    },
+    {
+      "question": "What is the main purpose of using noise contrastive estimation?",
+      "context": "which roughly self-normalizes the output scores of the model during training, hence removing the need to compute the values for all possible output words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7971428571428572
+      }
+    },
+    {
+      "question": "What is the advantage of using a traditional n-gram language model in ARPA (SRILM) format?",
+      "context": "Wang et al. (2013) convert a continuous space language model for a short list of 8192 words into a traditional n-gram language model in ARPA (SRILM) format.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8495238095238096
+      }
+    },
+    {
+      "question": "What is the benefit of having multiple hidden layers in neural language models?",
+      "context": "Luong et al. (2015a) show that having 3-4 hidden layers improves over having just the typical 1 layer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8240465416936005
+      }
+    },
+    {
+      "question": "What is the main challenge in integrating a language model with an end-to-end neural machine translation system?",
+      "context": "Traditional statistical machine translation models have a straightforward mechanism to integrate additional knowledge sources, such as a large out of domain language model. It is harder for end-to-end neural machine translation.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8394957983193277
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main problem addressed by the long short-term memory (LSTM) neural network architecture?",
+      "context": "While a digital memory cell may store just a single bit, a LSTM cell stores a real number.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8877551020408163
+      }
+    },
+    {
+      "question": "Why use one hot vectors to represent words?",
+      "context": "The type of vectors are called one hot vector . For instance..(0 (0 (0 . These are very large vectors, and we will continue to wrestle with the impact of this choice to represent words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9129926108374384
+      }
+    },
+    {
+      "question": "Why do language models use softmax activation function to ensure that all values add up to one?",
+      "context": "To ensure that it is indeed a proper probability distribution, we use the softmax activation function to ensure that all values add up to one.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.905952380952381
+      }
+    },
+    {
+      "question": "How can word embeddings be used to enable semantic inference?",
+      "context": "Indeed there is some evidence that word embedding allow just that (Mikolov et al., 2013).",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9357142857142857
+      }
+    },
+    {
+      "question": "How to train a self-normalizing model to have normalized node values?",
+      "context": "One way is to include the constraint that the normalization factor.is close to 1 in the objective function.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8819047619047619
+      }
+    }
+  ]
+}

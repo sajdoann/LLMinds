@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Is the document self-descriptive?",
+      "context": "Here we can say that this is declarative, well, I don't know, whatever.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What type of document is being described?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "Is the document providing a clear purpose or explanation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What can be inferred about the tone of the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "Is the document providing any information that can be verified or validated?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the document self-descriptive?",
+      "context": "Here we can say that this is declarative, well, I don't know, whatever.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What can be inferred about the tone of the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What type of document is being described?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "Is the document providing any information that can be verified or validated?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    }
+  ]
+}

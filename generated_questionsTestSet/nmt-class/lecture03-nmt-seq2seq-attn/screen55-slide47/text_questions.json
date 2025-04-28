@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a hypothesis in this context?",
+      "context": "So hypothesis is a partially decoded sentence with some associated score and...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7723214285714286
+      }
+    },
+    {
+      "question": "What type of information does the document suggest is associated with a hypothesis?",
+      "context": "...and some associated score",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7524038461538461
+      }
+    },
+    {
+      "question": "Can the document provide any insight into how the terms 'decoded' and 'score' are used in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8970588235294118
+      }
+    },
+    {
+      "question": "Is there any indication in the document that the term 'hypothesis' is being used in a formal or informal setting?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8897058823529411
+      }
+    },
+    {
+      "question": "Can the document provide an example of what a partially decoded sentence with associated score might look like?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a hypothesis in this context?",
+      "context": "So hypothesis is a partially decoded sentence with some associated score and...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7723214285714286
+      }
+    },
+    {
+      "question": "Is there any indication in the document that the term 'hypothesis' is being used in a formal or informal setting?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8897058823529411
+      }
+    },
+    {
+      "question": "What type of information does the document suggest is associated with a hypothesis?",
+      "context": "...and some associated score",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7524038461538461
+      }
+    }
+  ]
+}

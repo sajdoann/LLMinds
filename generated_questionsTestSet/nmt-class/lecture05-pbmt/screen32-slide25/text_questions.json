@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some pruning strategies for hypothesis stacking?",
+      "context": "The discussion about various pruning strategies like keeping at most K hypotheses or keeping the best score and hypotheses not worse than a certain threshold",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6619318181818181
+      }
+    },
+    {
+      "question": "Why is there quadratic complexity in terms of translation options?",
+      "context": "The explanation of complexities depending on the number of translation options",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7722222222222221
+      }
+    },
+    {
+      "question": "What are some possible thresholds for pruning hypotheses based on their score?",
+      "context": "The mention of keeping the best score and hypotheses not worse than a certain threshold (e.g. 10 times the best score or one tenth of the best score)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7872023809523809
+      }
+    },
+    {
+      "question": "What is the relationship between the number of translation options and the complexity of hypothesis stacking?",
+      "context": "The explanation of quadratic complexity in terms of translation options",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7264957264957265
+      }
+    },
+    {
+      "question": "What is implied about the limitations of certain pruning strategies for hypothesis stacking?",
+      "context": "The discussion of various pruning strategies and their complexities",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6420940170940171
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some pruning strategies for hypothesis stacking?",
+      "context": "The discussion about various pruning strategies like keeping at most K hypotheses or keeping the best score and hypotheses not worse than a certain threshold",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6619318181818181
+      }
+    },
+    {
+      "question": "What are some possible thresholds for pruning hypotheses based on their score?",
+      "context": "The mention of keeping the best score and hypotheses not worse than a certain threshold (e.g. 10 times the best score or one tenth of the best score)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7872023809523809
+      }
+    },
+    {
+      "question": "Why is there quadratic complexity in terms of translation options?",
+      "context": "The explanation of complexities depending on the number of translation options",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7722222222222221
+      }
+    },
+    {
+      "question": "What is implied about the limitations of certain pruning strategies for hypothesis stacking?",
+      "context": "The discussion of various pruning strategies and their complexities",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6420940170940171
+      }
+    }
+  ]
+}

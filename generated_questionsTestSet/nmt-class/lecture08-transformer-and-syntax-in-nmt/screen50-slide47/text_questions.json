@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being restricted or changed in the attention calculation?",
+      "context": "I'm going to skip the details of three coverage in attention.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "Why does restricting the attention calculation help with English Chinese translation?",
+      "context": "So it's like constraining or changing or specifying the network structure in the attention part based on the source syntax.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7553475935828877
+      }
+    },
+    {
+      "question": "What is one of the benefits of considering the formulas for English Chinese translation?",
+      "context": "And that helps because it avoids repeating words in the output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8276515151515151
+      }
+    },
+    {
+      "question": "What problem does restricting the attention calculation help to avoid?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "How does restricting the attention calculation relate to specifying the network structure?",
+      "context": "So considering this in the form of the formulas was beneficial for this English Chinese translation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7694805194805194
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one of the benefits of considering the formulas for English Chinese translation?",
+      "context": "And that helps because it avoids repeating words in the output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8276515151515151
+      }
+    },
+    {
+      "question": "What problem does restricting the attention calculation help to avoid?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "Why does restricting the attention calculation help with English Chinese translation?",
+      "context": "So it's like constraining or changing or specifying the network structure in the attention part based on the source syntax.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7553475935828877
+      }
+    }
+  ]
+}

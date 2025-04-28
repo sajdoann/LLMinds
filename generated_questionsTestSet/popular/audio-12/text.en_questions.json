@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What inspired Marjina Dlabayowa's interest in the European Union?",
+      "context": "I don't see the EU as an impersonal structure, I see it as a home. I am a proud Czech and I am also a proud European.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8277777777777777
+      }
+    },
+    {
+      "question": "What is Marjina Dlabayowa's take on the EU's principle of freedom of establishment?",
+      "context": "We have the opportunity to travel without borders. And that was also a very big motivation for joining the EU.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8021929824561403
+      }
+    },
+    {
+      "question": "Why did some countries leave the EU?",
+      "context": "specifically, these are countries that don't want to play along with other countries and they have started to protect their markets from other countries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.861904761904762
+      }
+    },
+    {
+      "question": "What is the main idea of the speaker's message about the EU?",
+      "context": "We should avoid the barriers. We should also avoid the barriers in our internal market, because they are very high.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7925
+      }
+    },
+    {
+      "question": "What is the average amount of money the organization has received since membership in 2004?",
+      "context": "Since membership in 2004, we have received more than 741 billion on average than we have given.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8785714285714286
+      }
+    },
+    {
+      "question": "Why should funding be used with a vision and effectively?",
+      "context": "The funding should then also be used with a vision. They should also be used effectively.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.89
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the average amount of money the organization has received since membership in 2004?",
+      "context": "Since membership in 2004, we have received more than 741 billion on average than we have given.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8785714285714286
+      }
+    },
+    {
+      "question": "Why should funding be used with a vision and effectively?",
+      "context": "The funding should then also be used with a vision. They should also be used effectively.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.89
+      }
+    },
+    {
+      "question": "What inspired Marjina Dlabayowa's interest in the European Union?",
+      "context": "I don't see the EU as an impersonal structure, I see it as a home. I am a proud Czech and I am also a proud European.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8277777777777777
+      }
+    },
+    {
+      "question": "What is Marjina Dlabayowa's take on the EU's principle of freedom of establishment?",
+      "context": "We have the opportunity to travel without borders. And that was also a very big motivation for joining the EU.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8021929824561403
+      }
+    }
+  ]
+}

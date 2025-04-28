@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main idea of HMM tagging compared to the proposed method?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "How does the branching structure in the tree relate to the choice of labels for individual nodes?",
+      "context": "The section explaining the branching structure and context influence on label choices",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8371212121212122
+      }
+    },
+    {
+      "question": "What is the difference between the translation model and the language model view?",
+      "context": "The explanation of the two components of the proposed method",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "How do you determine the transition probabilities in the hidden Markov model?",
+      "context": "The section explaining the transition states and probabilities",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "What is the purpose of using a particle choice of each translation candidate within each node?",
+      "context": "The explanation of how to choose the optimal tree",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7834821428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main idea of HMM tagging compared to the proposed method?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "How does the branching structure in the tree relate to the choice of labels for individual nodes?",
+      "context": "The section explaining the branching structure and context influence on label choices",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8371212121212122
+      }
+    },
+    {
+      "question": "How do you determine the transition probabilities in the hidden Markov model?",
+      "context": "The section explaining the transition states and probabilities",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "What is the difference between the translation model and the language model view?",
+      "context": "The explanation of the two components of the proposed method",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    }
+  ]
+}

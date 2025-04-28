@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was found to be better than BPE for linguistic separation in Morphosaurus and Finnish?",
+      "context": "Morphosaurus and Finnish",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What combination of rule-based methods did Matthias Hook find best for English-German translation?",
+      "context": "Matthias Hook's work on English-German translation",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What approach to linguistically motivated segmentation of words was tried in the German-Czech setups?",
+      "context": "German-Czech setups",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "Which method worked best for Catherine Cristo's sub-tex encoder in the German-Czech setups?",
+      "context": "Catherine Cristo's work on German-Czech setups",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7788461538461539
+      }
+    },
+    {
+      "question": "What was the outcome of Matthias Hook's rule-based methods for English-German translation compared to other approaches?",
+      "context": "Matthias Hook's work on English-German translation",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6927083333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was found to be better than BPE for linguistic separation in Morphosaurus and Finnish?",
+      "context": "Morphosaurus and Finnish",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Which method worked best for Catherine Cristo's sub-tex encoder in the German-Czech setups?",
+      "context": "Catherine Cristo's work on German-Czech setups",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7788461538461539
+      }
+    },
+    {
+      "question": "What combination of rule-based methods did Matthias Hook find best for English-German translation?",
+      "context": "Matthias Hook's work on English-German translation",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What was the outcome of Matthias Hook's rule-based methods for English-German translation compared to other approaches?",
+      "context": "Matthias Hook's work on English-German translation",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6927083333333334
+      }
+    }
+  ]
+}

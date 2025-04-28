@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main difference between rich morphology and language modeling?",
+      "context": "The problem of rich morphology for language modeling",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8622159090909091
+      }
+    },
+    {
+      "question": "How many cases does the Czech word 'kneecaps' have in its plural form?",
+      "context": "the Czech translation is Češky, and it has seven cases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8480769230769231
+      }
+    },
+    {
+      "question": "In what case can the surface form of the word 'Češky' be identical for multiple cases?",
+      "context": "So as soon as you see Češky, then technically you Běžišć, Češky",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8208333333333333
+      }
+    },
+    {
+      "question": "How much data is needed to propose the translation 'Češkami' for 'kneecaps'?",
+      "context": "So you have to collect that much data to be able to propose the translation Češkami",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7261904761904762
+      }
+    },
+    {
+      "question": "What is required for the instrumental case of 'Češky' to appear in a sentence?",
+      "context": "So you have to collect that much data to be able to propose the translation Češkami",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main difference between rich morphology and language modeling?",
+      "context": "The problem of rich morphology for language modeling",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8622159090909091
+      }
+    },
+    {
+      "question": "In what case can the surface form of the word 'Češky' be identical for multiple cases?",
+      "context": "So as soon as you see Češky, then technically you Běžišć, Češky",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8208333333333333
+      }
+    },
+    {
+      "question": "How many cases does the Czech word 'kneecaps' have in its plural form?",
+      "context": "the Czech translation is Češky, and it has seven cases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8480769230769231
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process of training a neural network for language translation?",
+      "context": "This one. You encode the input sentence with the encoder and you decode it into the target sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75625
+      }
+    },
+    {
+      "question": "How does the model generate output after being trained on random weights?",
+      "context": "From this random vector it will produce some very random bad output and during the training you will absolutely hurts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is the purpose of backpropagation in the training process?",
+      "context": "You tell the system you are wrong here change your weights change your weights and so on.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927350427350428
+      }
+    },
+    {
+      "question": "How many parameters does a network with 30 numbers for distinguishing center from circumference have?",
+      "context": "So we had 30 numbers for distinguishing the center from the circumference. There is easily 50 million parameters in this network.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What happens to a neural network's performance after training on 50 million sentence pairs?",
+      "context": "So after three weeks of training on 50 million sentence pairs, it will suddenly set the numbers right.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8224206349206349
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the model generate output after being trained on random weights?",
+      "context": "From this random vector it will produce some very random bad output and during the training you will absolutely hurts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What happens to a neural network's performance after training on 50 million sentence pairs?",
+      "context": "So after three weeks of training on 50 million sentence pairs, it will suddenly set the numbers right.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8224206349206349
+      }
+    },
+    {
+      "question": "What is the purpose of backpropagation in the training process?",
+      "context": "You tell the system you are wrong here change your weights change your weights and so on.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927350427350428
+      }
+    }
+  ]
+}

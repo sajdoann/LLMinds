@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'tectogrammatical trees' refer to?",
+      "context": "The event of changing, someone who should be changing things, and the pronoun that refers to what should be changed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7732843137254902
+      }
+    },
+    {
+      "question": "What is the relationship between 'tectogrammatical trees' and Prolog?",
+      "context": "The bracketed format used in Prolog many years ago.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "What does the phrase 'predicate argument structure of the sentence' mean?",
+      "context": "No specific context provided, inferred from general understanding of the topic.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8306818181818182
+      }
+    },
+    {
+      "question": "Who or what should be changing things, according to the document?",
+      "context": "This someone who should be changing things.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8311688311688312
+      }
+    },
+    {
+      "question": "What is the significance of the bracketed format used in Prolog?",
+      "context": "The fact that it was used many years ago, implying its importance or relevance to the topic.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8046875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who or what should be changing things, according to the document?",
+      "context": "This someone who should be changing things.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8311688311688312
+      }
+    },
+    {
+      "question": "What is the relationship between 'tectogrammatical trees' and Prolog?",
+      "context": "The bracketed format used in Prolog many years ago.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "What does the phrase 'predicate argument structure of the sentence' mean?",
+      "context": "No specific context provided, inferred from general understanding of the topic.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8306818181818182
+      }
+    },
+    {
+      "question": "What is the significance of the bracketed format used in Prolog?",
+      "context": "The fact that it was used many years ago, implying its importance or relevance to the topic.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8046875
+      }
+    }
+  ]
+}

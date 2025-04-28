@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main driving force in neural machine translation?",
+      "context": "The language model",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5958333333333333
+      }
+    },
+    {
+      "question": "How does the classical statistical machine translation approach differ from the neural MT approach?",
+      "context": "The alignment or attention are learned with translation at the same time.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8234265734265734
+      }
+    },
+    {
+      "question": "What is the role of the language model in classical pre-neural approaches to machine translation?",
+      "context": "The language model was used to consider the better candidates and separate them from the others.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "How does the alignment or attention work in neural MT compared to classical statistical machine translation?",
+      "context": "They come as a side effect, we get them for free.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7933238636363636
+      }
+    },
+    {
+      "question": "What is the relationship between the language model and the alignment or attention in neural MT?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8303571428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main driving force in neural machine translation?",
+      "context": "The language model",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5958333333333333
+      }
+    },
+    {
+      "question": "What is the relationship between the language model and the alignment or attention in neural MT?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "How does the classical statistical machine translation approach differ from the neural MT approach?",
+      "context": "The alignment or attention are learned with translation at the same time.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8234265734265734
+      }
+    }
+  ]
+}

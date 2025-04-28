@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the inspiration behind this technology?",
+      "context": "So it's vaguely inspired by Neural Turing machines",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7120535714285714
+      }
+    },
+    {
+      "question": "What are some of the components involved in this technology?",
+      "context": "So it's vaguely inspired by Neural Turing machines, which have some controller and it has some input and output",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7911764705882354
+      }
+    },
+    {
+      "question": "How do read heads function in relation to memory search?",
+      "context": "the read heads identify what to search in the memory",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "What is the purpose of write heads in this technology?",
+      "context": "and the write heads write to that memory",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7357142857142858
+      }
+    },
+    {
+      "question": "How does this technology relate to Neural Turing machines?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9305555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do read heads function in relation to memory search?",
+      "context": "the read heads identify what to search in the memory",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "What are some of the components involved in this technology?",
+      "context": "So it's vaguely inspired by Neural Turing machines, which have some controller and it has some input and output",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7911764705882354
+      }
+    },
+    {
+      "question": "What is the purpose of write heads in this technology?",
+      "context": "and the write heads write to that memory",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7357142857142858
+      }
+    },
+    {
+      "question": "How does this technology relate to Neural Turing machines?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9305555555555556
+      }
+    }
+  ]
+}

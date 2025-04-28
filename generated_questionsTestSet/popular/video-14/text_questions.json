@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main reason why the speaker dislikes driving?",
+      "context": "Ich weiß nicht, wie es Ihnen geht, aber mir macht Autofahren überhaupt keinen Spaß.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.908068783068783
+      }
+    },
+    {
+      "question": "Which American company is working on self-driving cars with Google?",
+      "context": "Denn es gibt ein großes amerikanisches Unternehmen und Sie kennen es, das bereits an der Umsetzung dieses Traums arbeitet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9144736842105263
+      }
+    },
+    {
+      "question": "Was ist Google X?",
+      "context": "Darüber hinaus unterhält Google auch ein eigenes geheimes Forschungslabor. Das heißt Google X.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9722222222222222
+      }
+    },
+    {
+      "question": "Wie funktioniert das Projekt der selbstfahrenden oder autonomen Autos von Google?",
+      "context": "Es wird auf ein Automobil oben ein Computersystem draufgebaut. Und dieses System besteht unter anderem aus einer Videokamera, aus einem Radar und aus einem Lasersystem.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9632575757575758
+      }
+    },
+    {
+      "question": "What is the requirement for the operation of autonomous vehicles?",
+      "context": "eine zusätzliche Versicherung",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "Why are there restrictions on the usage of autonomous vehicles?",
+      "context": "Entscheidend ist, dass letzten Endes immer der Mensch die volle Kontrolle über das Fahrzeug behalten muss.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "Why are there requirements for the number of people with a valid driver's license to be in an autonomous vehicle?",
+      "context": "So ist es beispielsweise so, dass immer zwei Personen mit Führerschein im Auto unterwegs sein müssen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9197916666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was ist Google X?",
+      "context": "Darüber hinaus unterhält Google auch ein eigenes geheimes Forschungslabor. Das heißt Google X.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9722222222222222
+      }
+    },
+    {
+      "question": "Wie funktioniert das Projekt der selbstfahrenden oder autonomen Autos von Google?",
+      "context": "Es wird auf ein Automobil oben ein Computersystem draufgebaut. Und dieses System besteht unter anderem aus einer Videokamera, aus einem Radar und aus einem Lasersystem.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9632575757575758
+      }
+    },
+    {
+      "question": "Why are there requirements for the number of people with a valid driver's license to be in an autonomous vehicle?",
+      "context": "So ist es beispielsweise so, dass immer zwei Personen mit Führerschein im Auto unterwegs sein müssen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9197916666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first word of the text?",
+      "context": "[Important Guidelines] 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "How many questions should be generated according to the guidelines?",
+      "context": "[Important Guidelines] 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6535714285714286
+      }
+    },
+    {
+      "question": "What type of document is being provided?",
+      "context": "(empty line) DOCUMENT: ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "How many questions should the answers to these questions be able to solve using only the information in the document?",
+      "context": "[Important Guidelines] 2. The questions must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.768092105263158
+      }
+    },
+    {
+      "question": "How many parts of the document should each question cover?",
+      "context": "[Important Guidelines] 3. Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.71875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of document is being provided?",
+      "context": "(empty line) DOCUMENT: ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "How many questions should the answers to these questions be able to solve using only the information in the document?",
+      "context": "[Important Guidelines] 2. The questions must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.768092105263158
+      }
+    },
+    {
+      "question": "How many parts of the document should each question cover?",
+      "context": "[Important Guidelines] 3. Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.71875
+      }
+    }
+  ]
+}

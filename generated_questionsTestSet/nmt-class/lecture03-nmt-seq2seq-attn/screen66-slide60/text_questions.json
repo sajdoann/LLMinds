@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of the attention mechanism?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.4122670807453416
+      }
+    },
+    {
+      "question": "What does the attention mechanism aim to achieve in terms of consideration?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.4211956521739131
+      }
+    },
+    {
+      "question": "What does 'same magnitude' imply in the context of attention?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.43369565217391304
+      }
+    },
+    {
+      "question": "What does 'consider' mean in this context?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4658385093167702
+      }
+    },
+    {
+      "question": "How does the attention mechanism relate to the importance of 'source positions'?",
+      "context": "So if you consider the",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5522727272727272
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of the attention mechanism?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.4122670807453416
+      }
+    },
+    {
+      "question": "How does the attention mechanism relate to the importance of 'source positions'?",
+      "context": "So if you consider the",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5522727272727272
+      }
+    },
+    {
+      "question": "What does 'same magnitude' imply in the context of attention?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.43369565217391304
+      }
+    },
+    {
+      "question": "What does 'consider' mean in this context?",
+      "context": "So the goal of the attention is to allow the network to consider with the same magnitude or the importance all the source positions at any time step of the output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4658385093167702
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Where does the defined probability of a sentence struggle?",
+      "context": "If I hide the solution for a second, if you define the probability of a sentence as a product of trigram probabilities",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.678921568627451
+      }
+    },
+    {
+      "question": "What is the problem with the defined probability being smooth enough?",
+      "context": "This probability is again not smooth enough.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7660714285714285
+      }
+    },
+    {
+      "question": "Where does there is a risk that one of the n-grams will not be observed at all?",
+      "context": "There is a big risk that one of the n-grams will not be observed at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8566176470588236
+      }
+    },
+    {
+      "question": "What is the issue with using trigram probabilities to define sentence probability?",
+      "context": "If I hide the solution for a second, if you define the probability of a sentence as a product of trigram probabilities",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7205882352941176
+      }
+    },
+    {
+      "question": "What is wrong with using this type of probability definition?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where does there is a risk that one of the n-grams will not be observed at all?",
+      "context": "There is a big risk that one of the n-grams will not be observed at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8566176470588236
+      }
+    },
+    {
+      "question": "What is the problem with the defined probability being smooth enough?",
+      "context": "This probability is again not smooth enough.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7660714285714285
+      }
+    },
+    {
+      "question": "What is the issue with using trigram probabilities to define sentence probability?",
+      "context": "If I hide the solution for a second, if you define the probability of a sentence as a product of trigram probabilities",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7205882352941176
+      }
+    }
+  ]
+}

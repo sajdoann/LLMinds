@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the context in which 'accusative knowledge' and 'lexical knowledge' are mentioned?",
+      "context": "The text describing a specific application or use case",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "How does the document describe the increased robustness gained from factorization?",
+      "context": "The explanation of the benefits of the new approach",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "What is the specific example mentioned as an application of 'accusative knowledge' and 'lexical knowledge'?",
+      "context": "The mention of a phrase containing 'black dog'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7822916666666666
+      }
+    },
+    {
+      "question": "How does the document introduce the concept of 'factorization'?",
+      "context": "The introductory paragraph or section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is implied by the phrase 'never seen together in the parallel data'?",
+      "context": "The explanation of the new approach's advantages",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7395833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the context in which 'accusative knowledge' and 'lexical knowledge' are mentioned?",
+      "context": "The text describing a specific application or use case",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "How does the document describe the increased robustness gained from factorization?",
+      "context": "The explanation of the benefits of the new approach",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "What is implied by the phrase 'never seen together in the parallel data'?",
+      "context": "The explanation of the new approach's advantages",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "What is the specific example mentioned as an application of 'accusative knowledge' and 'lexical knowledge'?",
+      "context": "The mention of a phrase containing 'black dog'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7822916666666666
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected difference between the first sentence and the second sentence, based on their grammatical gender?",
+      "context": "Ka se prepares a. The first sentence is male and the second sentence is in the female or feminine gender.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "Why is it necessary to consider the grammatical gender of sentences in order to understand the document?",
+      "context": "The first sentence is male and the second sentence is in the female or feminine gender.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7354166666666666
+      }
+    },
+    {
+      "question": "What does the author imply about language translation when it comes to grammatical differences between languages?",
+      "context": "Maybe the difference is not so subtle if you know Czech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7194602272727273
+      }
+    },
+    {
+      "question": "What can be inferred about the author's audience, given that they may not speak Czech?",
+      "context": "The difference may seem very subtle because you don't speak Czech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8090909090909091
+      }
+    },
+    {
+      "question": "Why is it implied that making random guesses would be difficult if the author's language source does not contain information about grammatical gender?",
+      "context": "So you're bound to make random guess if you do not have...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.833786231884058
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the author imply about language translation when it comes to grammatical differences between languages?",
+      "context": "Maybe the difference is not so subtle if you know Czech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7194602272727273
+      }
+    },
+    {
+      "question": "What can be inferred about the author's audience, given that they may not speak Czech?",
+      "context": "The difference may seem very subtle because you don't speak Czech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8090909090909091
+      }
+    },
+    {
+      "question": "What is the expected difference between the first sentence and the second sentence, based on their grammatical gender?",
+      "context": "Ka se prepares a. The first sentence is male and the second sentence is in the female or feminine gender.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.78125
+      }
+    }
+  ]
+}

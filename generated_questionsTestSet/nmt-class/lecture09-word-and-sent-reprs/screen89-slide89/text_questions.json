@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the measures used for evaluating the performance of the neural networks?",
+      "context": "Centival evaluation, classification accuracy, centival average similarity",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "Why is the glove embeddings baselines considered excellent in these measures?",
+      "context": "The baselines such as bag of words are very good in these measures",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8321678321678322
+      }
+    },
+    {
+      "question": "What type of representation emerges automatically when training neural network systems?",
+      "context": "Our representations which emerge automatically when we train these neural network systems",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9441287878787878
+      }
+    },
+    {
+      "question": "Which dataset is used for the evaluation in this document?",
+      "context": "COCO dataset that's the of the Davis-Bulden index",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8339285714285715
+      }
+    },
+    {
+      "question": "What are some alternatives to glove embeddings mentioned in the document?",
+      "context": "Bag of words is also a very good way of representing sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8068181818181819
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which dataset is used for the evaluation in this document?",
+      "context": "COCO dataset that's the of the Davis-Bulden index",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8339285714285715
+      }
+    },
+    {
+      "question": "Why is the glove embeddings baselines considered excellent in these measures?",
+      "context": "The baselines such as bag of words are very good in these measures",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8321678321678322
+      }
+    },
+    {
+      "question": "What are some alternatives to glove embeddings mentioned in the document?",
+      "context": "Bag of words is also a very good way of representing sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "What type of representation emerges automatically when training neural network systems?",
+      "context": "Our representations which emerge automatically when we train these neural network systems",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9441287878787878
+      }
+    }
+  ]
+}

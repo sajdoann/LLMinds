@@ -1,0 +1,1810 @@
+{
+  "all_questions": [
+    {
+      "question": "Why would a Roman invest in such expensive decoration to commemorate the three hundred–year-old victory of a foreign king in a distant land?",
+      "context": "Beginning approximately 3,500 years before our time, the lands that border the Mediterranean Sea became increasingly linked by commerce and cultural interaction.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.898435160227613
+      }
+    },
+    {
+      "question": "What is the name of the technology that allowed people to devise iron tools and weapons?",
+      "context": "the eventual collapse of the Late Bronze Age world coincided with the development of new technology that allowed people to devise iron tools and weapons.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.848151324566419
+      }
+    },
+    {
+      "question": "What was a common diplomatic practice among the civilizations of the Late Bronze Age?",
+      "context": "They all interacted using a common set of diplomatic practices: Official correspondence was often written in Akkadian cuneiform, military alliances were sealed by arranged marriages between the royal families of allied states, and vassal states paid tribute to dominant states to avoid military assault.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8449866956942429
+      }
+    },
+    {
+      "question": "What ancient culture developed on the Aegean island of Crete around 2000 BCE?",
+      "context": "By 2000 BCE, a unique culture had developed on the Aegean island of Crete, reaching the height of its power at the beginning of the Late Bronze Age around 1600 BCE.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8703434929850025
+      }
+    },
+    {
+      "question": "Who is associated with snakes, nature, and fertility in Minoan religion?",
+      "context": "The abundance of figurines of this snake-wielding female deity and other artistic depictions of women may mean that at least some women enjoyed high social status in Minoan society.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9136759466948146
+      }
+    },
+    {
+      "question": "When did the palaces at Knossos and Mycenae exist?",
+      "context": "Bronze Age Greeks appear to have migrated from the Balkans into mainland Greece around 2000 BCE and adopted Minoan civilization around the beginning of the Late Bronze Age, in 1600 BCE.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8675751222921034
+      }
+    },
+    {
+      "question": "What event led to the migration of various groups across the eastern Mediterranean during the Late Bronze Age Collapse?",
+      "context": "The instability in Greece and the Aegean resulted in much migration by people in search of new homes.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.8372918978912319
+      }
+    },
+    {
+      "question": "What were some of the groups that migrated or invaded during the Late Bronze Age Collapse?",
+      "context": "But there were many others, including the Akawasha, Lukka, Shardana, Tursha, and more who washed across the eastern Mediterranean during the Late Bronze Age Collapse ( Figure 6.6 ).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8896109946424412
+      }
+    },
+    {
+      "question": "What was a significant technological innovation that occurred during this time period?",
+      "context": "The disruptions caused by the Late Bronze Age Collapse made it difficult for metal workers to access tin, a crucial ingredient in bronze.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8811463693539165
+      }
+    },
+    {
+      "question": "What was a result of the Phoenicians' commercial success?",
+      "context": "The Phoenicians’ commercial success was undoubtedly partly a result of their better, more efficient recordkeeping system that a larger population could learn and employ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.783656913681524
+      }
+    },
+    {
+      "question": "Why did the Etruscans modify the Greek alphabet?",
+      "context": "They modified the alphabet the Greeks had acquired from the Phoenicians to write their language, which scholars have not yet fully deciphered.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8659254267744834
+      }
+    },
+    {
+      "question": "Why did the Persians rely on Phoenician sailors and ships?",
+      "context": "The Persians relied largely on Phoenician sailors and ships to serve as the naval forces, especially in their campaigns to conquer Greece in the early fifth century BCE.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8728249475890986
+      }
+    },
+    {
+      "question": "How did the Etruscan states become dominant in Italy?",
+      "context": "The Etruscans remained the dominant power in the Italian peninsula until 474 BCE.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8579823391144146
+      }
+    },
+    {
+      "question": "What was the name of the Etruscan city-state that later became ancient Rome?",
+      "context": "Since ancient Rome began as an Etruscan city-state, the Etruscans strongly influenced the development of Roman culture.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.829140461215933
+      }
+    },
+    {
+      "question": "How did the Romans adopt the custom of divining the will of the gods?",
+      "context": "Roman priests divined the will of the gods by examining a sacrificed animal’s entrails, a custom adopted from the Etruscans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8532926378098409
+      }
+    },
+    {
+      "question": "What was the original purpose of the fasces in Etruscan society?",
+      "context": "The fasces, a bundle of rods and an ax that symbolized the authority of Roman magistrates, originally denoted the authority of Etruscan kings.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7830188679245282
+      }
+    },
+    {
+      "question": "How did the Greek city-states develop innovative consensual governments?",
+      "context": "During this period, the Greek city-states developed innovative consensual governments. Free adult males participated in their own governance and voted to create laws and impose taxes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.879245283018868
+      }
+    },
+    {
+      "question": "What is a democracy?",
+      "context": "a broader-based participation that eventually included both rich and poor adult males. These systems influenced Ancient Roman and European political thought through the centuries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402378999179656
+      }
+    },
+    {
+      "question": "Why did Greek artists copy artistic styles from Egypt and Phoenicia?",
+      "context": "They often copied artistic styles from Egypt and Phoenicia, where Greek merchants were engaging in long-distance trade.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.9244442202266842
+      }
+    },
+    {
+      "question": "What was the origin of the Olympic Games?",
+      "context": "Beginning in 776 BCE, according to Aristotle, Greeks traveled to Olympia every four years to compete in athletic contests in Zeus’s honor, the origin of the Olympic Games.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7685261143013399
+      }
+    },
+    {
+      "question": "What was the name given to the common language and religion shared by the ancient Greeks?",
+      "context": "Though politically disunited, the Greeks, who began to refer to themselves as Hellenes after the mythical king Hellen, did share a common language and religion.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.856566662760264
+      }
+    },
+    {
+      "question": "What was the result of Greek artists' adaptation of Phoenician artistic styles?",
+      "context": "Greek artists became more sophisticated and skilled in their work. They often copied artistic styles from Egypt and Phoenicia, where Greek merchants were engaging in long-distance trade.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8441490375452639
+      }
+    },
+    {
+      "question": "How did the adaptation of the Phoenician alphabet affect the Greek language?",
+      "context": "Thanks to their contact and trade with the Phoenicians, Greeks adapted the Phoenician alphabet to their own language, making an important innovation by adding vowels (a, e, i, o, u).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8659911483810855
+      }
+    },
+    {
+      "question": "What was a key outcome of the Greek colonies' demand for land and participation in governance?",
+      "context": "In the society of Archaic Greece, the elite landowners, or aristoi, traditionally controlled the government and the priesthoods in the city-states. But thanks to the new ideas from the colonies, the common people, or kakoi, began demanding land and a voice in the governing of the polis.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8377465694682675
+      }
+    },
+    {
+      "question": "What was unique about how citizenship was established in Greek colonies?",
+      "context": "The free adult males of the community divided the colony’s land into equal lots. Thus, a new idea developed in the colonies that citizenship in a community was associated with equality and participation in the governing of the state.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8551724137931034
+      }
+    },
+    {
+      "question": "What was the main reason for the Greek city-states needing troops during wars?",
+      "context": "city-states needed troops in their wars for control of farmland.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8389937106918239
+      }
+    },
+    {
+      "question": "How did the Greeks refer to populist leaders who seized power and ruled over a city?",
+      "context": "The Greeks referred to such populist leaders as tyrants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.857595213137666
+      }
+    },
+    {
+      "question": "What was the significance of the invention of coinage in the sixth century BCE?",
+      "context": "The difficulties caused by the land shortage were relieved by the invention of coinage.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.786735277301315
+      }
+    },
+    {
+      "question": "How did the rise of a market economy affect farmers, artisans, and merchants in ancient Greece?",
+      "context": "In the sixth century BCE, this rise of a market economy stimulated economic growth as farmers, artisans, and merchants discovered stronger incentives to produce and procure more goods for profit.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.859493602255476
+      }
+    },
+    {
+      "question": "What was unique about the relationship between helots and their landowners in Sparta?",
+      "context": "Helots, unlike enslaved people in other parts of Greece, could not be bought or sold but remained on the land as forced laborers from generation to generation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.841808668852694
+      }
+    },
+    {
+      "question": "What was the primary difference between Athens and Sparta's governments?",
+      "context": "Athens was the birthplace of democracy, whereas Sparta was an oligarchy headed by two kings.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8207097933513028
+      }
+    },
+    {
+      "question": "What were the Spartiates doing with the land they conquered?",
+      "context": "Just as Greek colonists at this time divided land among themselves into equal lots, the Spartiates likewise divided the conquered land equally and assigned to each landowner a certain number of helot families to work it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8593094863731656
+      }
+    },
+    {
+      "question": "Why were young Spartan men subject to ritual beatings?",
+      "context": "They also underwent ritual beatings intended to make them physically strong and hardened warriors.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9301936707597085
+      }
+    },
+    {
+      "question": "What was the purpose of the agoge, the educational system in Sparta?",
+      "context": "The unique element of Spartan culture was the agoge, its educational system. At the age of seven, boys were separated from their families and raised by the state.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7935272536687631
+      }
+    },
+    {
+      "question": "What was the treatment of young Spartiate men at the age of twelve?",
+      "context": "They were not allowed clothes except a cloak in the wintertime, and they bathed just once a year",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8060677530017153
+      }
+    },
+    {
+      "question": "How old did a young Spartan man have to be before his education was complete?",
+      "context": "At the age of twenty, a young Spartan man’s education was complete.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.869392033542977
+      }
+    },
+    {
+      "question": "What was the main issue that led to a crisis in the Athenian democracy?",
+      "context": "Disaster was avoided only with the appointment of Solon in 594 BCE to restore order. With the once-thriving middle class slipping into bankruptcy and sometimes slavery, civil war seemed inevitable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8267589328910083
+      }
+    },
+    {
+      "question": "What reforms did Solon introduce to address economic hardship?",
+      "context": "One of Solon’s first measures was to declare that all debts Athenians owed one another were forgiven. Solon also made it law that no Athenian could be sold into slavery for failure to repay a loan.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8986404929801156
+      }
+    },
+    {
+      "question": "How did Solon’s reforms affect the social hierarchy of Athens?",
+      "context": "Only the wealthiest could serve as a magistrate, sit on the Council, and attend the Assembly and jury courts. Citizens with less wealth could participate in all these activities but could not serve as magistrates.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8609389038634322
+      }
+    },
+    {
+      "question": "What was the outcome of Solon’s reforms in terms of the stability of the Athenian democracy?",
+      "context": "Solon’s reforms were not enough to end civil unrest, however. By 545 BCE, a relative of his named Pisistratus had seized power by force with his own private army and ruled as a tyrant with broad popular support.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8293100258971513
+      }
+    },
+    {
+      "question": "What was the significance of Solon’s reforms in setting the stage for the establishment of democracy?",
+      "context": "Athenians became accustomed to serving in Solon’s Council and in jury courts. They were actively engaged in self-government, thus setting the stage for the establishment of democracy.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8129333978390583
+      }
+    },
+    {
+      "question": "Who overthrew the tyrants in Athens after Pisistratus's death?",
+      "context": "Around 509 BCE, an Athenian aristocrat named Cleisthenes persuaded the Spartans to intervene in Athens and overthrow these tyrants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8509875317223877
+      }
+    },
+    {
+      "question": "What was the result of Cleisthenes's appeal to the common people?",
+      "context": "His appeal was successful, and Cleisthenes implemented reforms to Solon’s system of government.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7763909046927915
+      }
+    },
+    {
+      "question": "What was unique about the Athenian Assembly in comparison to modern republics?",
+      "context": "By the end of the Archaic period, Athens had developed a functioning direct democracy, which differs from modern republics in which citizens vote for representatives who sit in the legislature.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.836881148201903
+      }
+    },
+    {
+      "question": "What was the condition for citizens to be chosen to serve in the Council?",
+      "context": "Citizens could also be chosen by lot to sit in the Council. Since they were permitted to serve for just two one-year terms over a lifetime, many Athenians had the opportunity to participate in the executive branch of government.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8376186952768528
+      }
+    },
+    {
+      "question": "Who was excluded from participating in the government?",
+      "context": "Women, enslaved people, and foreign residents could not participate.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.83791928721174
+      }
+    },
+    {
+      "question": "What were the restrictions on who could participate in the Athenian government?",
+      "context": "Women, enslaved people, and foreign residents could not participate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8572517629121403
+      }
+    },
+    {
+      "question": "Why did the Persian king Darius assemble a large fleet and army to cross the Aegean from Asia Minor in 490 BCE?",
+      "context": "For intervening in Persian affairs, the Persian king Darius decided that Athens must be punished.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.8880652890086853
+      }
+    },
+    {
+      "question": "What was the outcome of the Battle of Marathon?",
+      "context": "The Persians could not withstand the Athenians’ spirited charge in the Battle of Marathon and were forced back onto their ships.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7345722797559937
+      }
+    },
+    {
+      "question": "What was the goal of the small band of Spartans at Thermopylae?",
+      "context": "Their goal was not to defeat the invading Persian army, which vastly outnumbered them, but to delay them so the rest of the forces could organize a defense.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8138993710691824
+      }
+    },
+    {
+      "question": "What were the main goals of the Delian League?",
+      "context": "Members could provide ships and troops for the league or simply pay Athens to equip the fleet, which most chose to do.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8084119496855346
+      }
+    },
+    {
+      "question": "Why did Pericles persuade his fellow Athenians to withdraw from the countryside of Attica?",
+      "context": "reasoning that the navy would provide them food and supplies and the wall would keep them safe until Sparta tired of war and sought peace.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8716082659478885
+      }
+    },
+    {
+      "question": "What was the outcome of the Delian League's efforts to liberate Greek city-states from Persian rule?",
+      "context": "the money from the Delian League enriched many lower-class Athenians, who found employment as rowers in the fleet.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.851480607966457
+      }
+    },
+    {
+      "question": "What was the result of the war between Athens and Sparta?",
+      "context": "The political leader Pericles persuaded his fellow Athenians to withdraw from the countryside of Attica and move within the walls of Athens.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.78480635551142
+      }
+    },
+    {
+      "question": "What was the purpose of the Peace of Nicias?",
+      "context": "which kept the Athenian empire intact.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7403414195867026
+      }
+    },
+    {
+      "question": "How did the war affect Athens?",
+      "context": "The cost of the war for Athens was high, however. Due to the crowding of people within its walls, a plague had erupted in the city in 426 BCE and killed many, including Pericles.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8342911877394636
+      }
+    },
+    {
+      "question": "What was the outcome of the war for Athens?",
+      "context": "after ten years of war, the Spartans and Athenians agreed to the Peace of Nicias, which kept the Athenian empire intact.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7534940600978337
+      }
+    },
+    {
+      "question": "What was the outcome of the Peace of Nicias?",
+      "context": "In 421 BCE, after ten years of war, the Spartans and Athenians agreed to the Peace of Nicias, which kept the Athenian empire intact.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7359988020365379
+      }
+    },
+    {
+      "question": "Who destroyed the Athenian navy at the Battle of Aegospotami?",
+      "context": "The new Spartan fleet destroyed the Athenian navy at the Battle of Aegospotami in the Hellespont.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.829113583830565
+      }
+    },
+    {
+      "question": "What was the result of the Spartans' invasion of Attica?",
+      "context": "In exile, Alcibiades convinced the Spartans to invade Attica again, now that Athens had been weakened by the disaster in Syracuse.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7816120489904006
+      }
+    },
+    {
+      "question": "What was the consequence of the Spartans' failure in Sicily?",
+      "context": "Without his leadership, the expedition against Syracuse floundered, and in 413 BCE the entire Athenian force was destroyed.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7713240432441321
+      }
+    },
+    {
+      "question": "How did the Spartans' failure in Sicily affect their ability to support their military system?",
+      "context": "Without the helots, the Spartans could not support their military system as before, and their Peloponnesian League collapsed.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8724168912848158
+      }
+    },
+    {
+      "question": "What was the outcome of the Battle of Leuctra in Boeotia?",
+      "context": "In 371 BCE, the Thebans defeated the Spartans at the Battle of Leuctra in Boeotia.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7438853948287911
+      }
+    },
+    {
+      "question": "What was the result of the Thebans' victory over the Spartans at the Battle of Leuctra in Boeotia?",
+      "context": "In 371 BCE, the Thebans defeated the Spartans at the Battle of Leuctra in Boeotia.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8010631925726266
+      }
+    },
+    {
+      "question": "What was the outcome of the Battle of Mantinea?",
+      "context": "The battle was inconclusive, but Thebes’s dominance soon faded.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7479784366576819
+      }
+    },
+    {
+      "question": "Who taught anyone rhetoric for a fee in Athens beginning in the mid-fourth century BCE?",
+      "context": "They claimed to be able to teach anyone rhetoric, or the art of persuasion, for a fee, as a means to achieve success as a lawyer or a politician.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8787878787878788
+      }
+    },
+    {
+      "question": "What was Socrates' goal in questioning sophists and politicians about good and evil?",
+      "context": "He wanted to base values on reason instead of on unchallenged traditional beliefs.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8760482180293501
+      }
+    },
+    {
+      "question": "Who was sentenced to death by an Athenian jury court?",
+      "context": "In 399 BCE, an Athenian jury court found Socrates guilty of impiety and corrupting the youth, and he was sentenced to death",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8676250374363582
+      }
+    },
+    {
+      "question": "What philosophical system did Plato construct through his dialogues featuring Socrates?",
+      "context": "Plato constructed a philosophical system that included the study of nature (physics), of the human mind (psychology and epistemology, the theory of knowledge), and ethics",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8938536306460835
+      }
+    },
+    {
+      "question": "What was the main difference between Plato's and Aristotle's views on ideas and forms?",
+      "context": "One of his most famous pupils was Aristotle, who came to disagree with his teacher and believed that ideas and forms could not exist independently of the material universe",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8459119496855346
+      }
+    },
+    {
+      "question": "What was the primary influence of Plato's ideas on Western philosophy?",
+      "context": "Modern historians view Plato and Aristotle as the founders of Western (European) philosophy because of the powerful influence of their ideas through the centuries",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8243853630646083
+      }
+    },
+    {
+      "question": "Who is considered one of the first true historians?",
+      "context": "Herodotus and Thucydides are considered the first true historians because they examined the past to rationally explain the causes and effects of human actions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8490566037735849
+      }
+    },
+    {
+      "question": "Who was the king that transformed the Kingdom of Macedon into a great power?",
+      "context": "King Philip II of Macedon, who reigned from 359 to 336 BCE, transformed the kingdom into a great power.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8437221500776615
+      }
+    },
+    {
+      "question": "What was the term used to describe the flourishing and expansion of Greek language and culture throughout the Mediterranean and Near East during this period?",
+      "context": "The resulting mixture of cultures was neither Greek nor non-Greek but “Greek-like,” or Hellenistic ,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15,
+        "diversity_score": 0.8669661575321953
+      }
+    },
+    {
+      "question": "Who were some of the top generals that received Alexander's empire after his death?",
+      "context": "Alexander’s empire was divided among his top generals, including Seleucus, Ptolemy, and Antigonus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8935655539429124
+      }
+    },
+    {
+      "question": "What was the significance of King Philip II's recruitment of common farmers into a formidable infantry?",
+      "context": "He recruited common farmers and developed them into a formidable infantry, with trained aristocrats as cavalry.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8642295597484276
+      }
+    },
+    {
+      "question": "What was the geographical location of the ancient Kingdom of Macedon?",
+      "context": "The ancient Kingdom of Macedon straddled today’s Greece and northern Macedonia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.763960358299981
+      }
+    },
+    {
+      "question": "Who assassinated Philip II?",
+      "context": "Philip was killed by an assassin with a personal grudge.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.935062893081761
+      }
+    },
+    {
+      "question": "Why did Alexander's troops refuse to advance to the Ganges River in central India?",
+      "context": "His exhausted troops mutinied and refused to advance to the Ganges River in central India as Alexander desired.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8530692393067532
+      }
+    },
+    {
+      "question": "What was the outcome of the Wars of the Successors after Alexander's death?",
+      "context": "Members of his court and his military commanders thus fought among themselves for control of the empire in what historians refer to as the Wars of the Successors.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7870932458299152
+      }
+    },
+    {
+      "question": "What was Alexander's vision for his campaign against Persia?",
+      "context": "Although he was Macedonian, he saw himself as a Hellene and often compared himself to the hero Achilles of the Iliad, from whom he claimed to be descended through his mother.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8548755577057464
+      }
+    },
+    {
+      "question": "Who died after being struck by a roof tile thrown at him by an elderly woman during a street battle in the city of Argos?",
+      "context": "His death marked the end of the wars among Alexander’s generals. By the middle of the third century BCE, certain generals and their descendants were ruling as kings over different portions of Alexander’s empire ( Figure 6.25 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.058823529411764705,
+        "diversity_score": 0.9001914137270988
+      }
+    },
+    {
+      "question": "What was the outcome for Berenice and her children after Antiochus II married her daughter Cleopatra I?",
+      "context": "However, Antiochus’s former wife Laodice murdered Berenice and her children upon Antiochus’s death in 246 BCE to secure the succession for her own young son Seleucus II.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8730503144654088
+      }
+    },
+    {
+      "question": "What type of cities were founded by Alexander the Great and subsequent Hellenistic kings?",
+      "context": "These cities included the institutions of the Greek cities of their homeland—temples to Greek gods, theaters, agora (marketplaces), and gymnasia—so the colonists could feel at home in their new environment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8453129679544774
+      }
+    },
+    {
+      "question": "What was the purpose of the Museon in Alexandria?",
+      "context": "They modeled this on Aristotle’s Lyceum, as a center for scientific research and literary studies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7752358490566038
+      }
+    },
+    {
+      "question": "Where did the Ptolemies assemble the largest collection of books in the ancient world?",
+      "context": "They patronized the Alexandrian Library, where they assembled the largest collection of books in the ancient world.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8467355495657383
+      }
+    },
+    {
+      "question": "How did the Greek-speaking population change in cities such as Alexandria and Antioch?",
+      "context": "In cities such as Alexandria and Antioch, the Greek-speaking population became integrated with the.indigenous population.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8629253346234478
+      }
+    },
+    {
+      "question": "What was the name given to the worship of Isis and Mithras in Hellenistic cities?",
+      "context": "The emphasis on secret religious rituals, or mysteries, about which followers were sworn to silence, lends the worship of Isis and Mithras in this period the name mystery religions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8232338358124522
+      }
+    },
+    {
+      "question": "What was translated into Greek under the Ptolemies?",
+      "context": "By the second century BCE, the Hebrew Bible had been translated into Greek under the Ptolemies, since ancient Judea was within their control for much of the Hellenistic period and many Jewish people had immigrated to Alexandria.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8180150562226034
+      }
+    },
+    {
+      "question": "Who were the followers of Judaism?",
+      "context": "Another religion practiced in Hellenistic cities was Judaism, whose followers included migrant Jewish people and new converts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8286471821432976
+      }
+    },
+    {
+      "question": "What was the main goal of Stoicism?",
+      "context": "Happiness therefore resulted from learning how to cope with life and accepting fate while avoiding extreme negative emotions such as fear and anger.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7838560810258923
+      }
+    },
+    {
+      "question": "Why were the Stoics named after their place of instruction?",
+      "context": "The Stoics were so named because Zeno instructed his students in the stoa poikile, or “painted porch” in the Athenian agora.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8692173305380853
+      }
+    },
+    {
+      "question": "What is the origin of the 'Romance' languages?",
+      "context": "They are descended from the Latin language spoken by the Romans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916891284815814
+      }
+    },
+    {
+      "question": "Who were the twin brothers credited with founding the city of Rome?",
+      "context": "According to Roman tradition, the city was founded in 753 BCE by the twin brothers Romulus and Remus, sons of Mars, the god of war ( Figure 6.28 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8547741566609491
+      }
+    },
+    {
+      "question": "What event triggered a rebellion against the monarchy in Rome?",
+      "context": "This act triggered a rebellion against the monarchy, which ultimately ousted the Etruscan king.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8491775520077407
+      }
+    },
+    {
+      "question": "What was the Roman government initially after the expulsion of the Tarquins?",
+      "context": "The throne was assumed by Lucius Tarquinius Priscus, an Etruscan.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8031446540880502
+      }
+    },
+    {
+      "question": "What was the political conflict between the two classes in early Roman society?",
+      "context": "The political conflict between these two classes is known as the Struggle of the Orders.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8341396548943719
+      }
+    },
+    {
+      "question": "Who could hold public office and sit in the Senate in early Rome?",
+      "context": "The patricians were the aristocratic elite, who alone could hold public office and sit in the Senate.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8616352201257862
+      }
+    },
+    {
+      "question": "Why did the plebeians go on strike for the first time?",
+      "context": "They feared that patrician judges were interpreting Rome’s unwritten laws to take advantage of ignorant plebeians, so they demanded the laws be written down.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8765008576329331
+      }
+    },
+    {
+      "question": "What was the main reason for the first strike by the plebeians in 450 BCE?",
+      "context": "They feared that patrician judges were interpreting Rome’s unwritten laws to take advantage of ignorant plebeians, so they demanded the laws be written down.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8432400932400932
+      }
+    },
+    {
+      "question": "What was the result of the Struggle of the Orders by the third century BCE?",
+      "context": "It gave well-off plebeians access to positions of power. By the third century BCE, the Struggle of the Orders had effectively concluded.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8137883301736331
+      }
+    },
+    {
+      "question": "What was unique about the Tribal Assembly?",
+      "context": "It was likewise divided into thirty-five tribes based on place of residence, with each tribe casting one vote, but both plebeians and patricians could attend.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136388140161726
+      }
+    },
+    {
+      "question": "What was the role of the tribunes in the Roman Republic?",
+      "context": "These tribunes attended meetings of Rome’s assemblies, the Senate, and the law courts. If they saw any public body or official taking action that would bring harm to plebeians, they could say “Veto” or “I forbid” and stop that action.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7941599281221923
+      }
+    },
+    {
+      "question": "What was the effect of the Struggle of the Orders on the social hierarchy in Rome?",
+      "context": "The Struggle of the Orders did not bring equality to everyone in Rome. Rather, it gave well-off plebeians access to positions of power.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8141509433962264
+      }
+    },
+    {
+      "question": "What was the significance of the Twelve Tables?",
+      "context": "They published in the Forum, Rome’s laws were written for the first time and were then accessible to all citizens.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7397424378556454
+      }
+    },
+    {
+      "question": "What is the structure of the Tribal Assembly?",
+      "context": "It was this assembly that annually elected the ten tribunes, who possessed veto power and could present laws to the assembly for approval. The Tribal Assembly was likewise divided into thirty-five tribes based on place of residence, with each tribe casting one vote, but both plebeians and patricians could attend.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8068283917340522
+      }
+    },
+    {
+      "question": "How does the number of votes in the Centuriate Assembly vary?",
+      "context": "The number of votes assigned to each bloc was based on the number of centuries—meaning a group of one hundred men in a military unit—that bloc could afford to equip with weapons and armor.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8357325879338457
+      }
+    },
+    {
+      "question": "What is the role of the patron-client system?",
+      "context": "A patron was usually a wealthy citizen who provided legal and financial assistance to his clients, who were normally less affluent citizens. In return, clients in the Roman assemblies voted as directed by their patrons.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7902206873315364
+      }
+    },
+    {
+      "question": "What is one of the strategies employed by the Romans in warfare?",
+      "context": "The Romans always tried to defeat one enemy at a time and avoid waging war against a coalition. Thus they often attempted to turn their enemies against each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8325086862822711
+      }
+    },
+    {
+      "question": "What is the significance of the Senate in the Roman state?",
+      "context": ".The patron-client system was another important element in the Roman political system. A patron was usually a wealthy citizen who provided legal and financial assistance to his clients, who were normally less affluent citizens. In return, clients in the Roman assemblies voted as directed by their patrons.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8094689028651293
+      }
+    },
+    {
+      "question": "What is the key factor that determines the number of votes assigned to each bloc in the Centuriate Assembly?",
+      "context": "The number of votes assigned to each bloc was based on the number of centuries—meaning a group of one hundred men in a military unit—that bloc could afford to equip with weapons and armor.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8456105013633686
+      }
+    },
+    {
+      "question": "What was a successful Roman strategy in warfare?",
+      "context": "The Romans always tried to defeat one enemy at a time and avoid waging war against a coalition.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8160608583055864
+      }
+    },
+    {
+      "question": "Why did the Roman commander Scipio earn the nickname 'Africanus'?",
+      "context": "At the Battle of Zama in 202 BCE, the Roman army defeated Hannibal, and the Roman commander Scipio earned the nickname “Africanus”.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8487071977638015
+      }
+    },
+    {
+      "question": "What was a tactic used by Hannibal during the Second Punic War?",
+      "context": "Hannibal hoped Rome’s allies would abandon it and leave the city at his mercy.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8430667864630129
+      }
+    },
+    {
+      "question": "How did Hannibal's army move across southern Gaul and Italy?",
+      "context": "Along with dozens of war elephants, from Hispania (modern-day Portugal and Spain), across southern Gaul, and then over the Alps into Italy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9152291105121294
+      }
+    },
+    {
+      "question": "What was the outcome of the Battle of Zama in 202 BCE?",
+      "context": "At the Battle of Zama in 202 BCE, the Roman army defeated Hannibal, and the Roman commander Scipio earned the nickname “Africanus” ( Figure 6.31 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7795025728987993
+      }
+    },
+    {
+      "question": "Why did Rome declare war against Macedon after Carthage's defeat?",
+      "context": "After Rome’s victory against Carthage, Rome declared war against this new enemy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9608347627215552
+      }
+    },
+    {
+      "question": "What was the result of Philip's Macedonian troops winning numerous victories over Roman armies before the Battle of Cynoscephalae?",
+      "context": "Philip’s Macedonian troops won numerous victories over Roman armies, but in 196 BCE at the Battle of Cynoscephalae in northern Greece, Philip suffered a defeat and lacked the resources to continue.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8548994093408346
+      }
+    },
+    {
+      "question": "What led Rome to fear that Antiochus's occupation of Greece posed a threat to Italy?",
+      "context": "Rome feared that Antiochus’s occupation of Greece posed a threat to Italy, just as Philip had.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8817666217430369
+      }
+    },
+    {
+      "question": "What happened to Perseus after he renounced the alliance with Rome?",
+      "context": "Perseus, the son of Philip V, renounced the alliance with Rome. When he made alliances with Balkan tribes that threatened to invade Italy, Roman armies invaded Macedon and defeated his army at the Battle of Pydna in 168 BCE.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8601078167115903
+      }
+    },
+    {
+      "question": "What was a result of Rome's constant wars and conquests?",
+      "context": "A Republic of Troubles Rome’s constant wars and conquests in the third and second centuries BCE created a host of social, economic, and political problems for the republic.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8288624555646705
+      }
+    },
+    {
+      "question": "What was one challenge faced by Roman citizens in maintaining their holdings due to their long periods away from home?",
+      "context": "Roman soldiers were often away from home for long periods of time, leaving the women and children to maintain their holdings.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.86814520578175
+      }
+    },
+    {
+      "question": "What was the traditional system that most Roman citizens had to own and operate?",
+      "context": "From the foundation of the republic, most Roman citizens had owned and operated small family farms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8305630428271937
+      }
+    },
+    {
+      "question": "Why did many Roman soldiers leave their farms when they returned from military service?",
+      "context": "Roman soldiers were often away from home for long periods of time, leaving the women and children to maintain their holdings.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8999700509134472
+      }
+    },
+    {
+      "question": "What was the result of the traditional patron-client system collapsing in ancient Rome?",
+      "context": "The traditional patron-client system collapsed, since landless Romans didn’t need the assistance of patrons to settle property disputes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8131551362683438
+      }
+    },
+    {
+      "question": "Why did politicians have to change their strategies to win the support of the urban masses?",
+      "context": "The traditional patron-client system collapsed, since landless Romans didn’t need the assistance of patrons to settle property disputes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.866576819407008
+      }
+    },
+    {
+      "question": "How did large landowners profit from their business operations?",
+      "context": "These were very profitable because landowners could cheaply purchase enslaved people, who were plentiful.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9584475622211471
+      }
+    },
+    {
+      "question": "What was a major consequence of the widespread use of slave labor in ancient Rome?",
+      "context": "The growth of the proletariat disrupted the Roman political system and invited large-scale corruption.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7960092842168314
+      }
+    },
+    {
+      "question": "Why did Spartacus and other enslaved gladiators rise against their owners?",
+      "context": "Terrible working conditions resulted in massive revolts by the enslaved, beginning in the second half of the second century BCE.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9046598056032018
+      }
+    },
+    {
+      "question": "What was a significant outcome of Spartacus's rebellion?",
+      "context": "Spartacus’s forces defeated two Roman armies before being crushed in 71 BCE.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8493186582809225
+      }
+    },
+    {
+      "question": "Who led the rebellion of enslaved gladiators against their owners?",
+      "context": "Spartacus and other enslaved gladiators rose against their owners and were quickly joined by hundreds of thousands of others ( Figure 6.33 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8748727163821504
+      }
+    },
+    {
+      "question": "What motivated Tiberius to propose a law to distribute public land to landless Romans?",
+      "context": "Tiberius, the elder brother, was concerned to see the large plantations being worked by enslaved foreigners rather than Roman farmers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9044742359042259
+      }
+    },
+    {
+      "question": "Why did the Senate declare a state of emergency and kill Tiberius?",
+      "context": "Convinced he was assuming too much popular support and violating the traditions of Rome, the Senate declared a state of emergency and a group of senators beat Tiberius to death.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8498218029350104
+      }
+    },
+    {
+      "question": "What proposal did Gaius Gracchus make as a tribune?",
+      "context": "He won over poor Roman farmers with his proposal to establish new colonies to give them land.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9000480433263452
+      }
+    },
+    {
+      "question": "What motivated Gaius Gracchus to run for tribune?",
+      "context": "He won over poor Roman farmers with his proposal to establish new colonies to give them land.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8995676100628931
+      }
+    },
+    {
+      "question": "Who led the populares after Gaius Gracchus's assassination?",
+      "context": "Gaius Marius was a plebean and commoner who rose up the ranks of the Roman army and emerged as the leader of the populares.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.853008109897385
+      }
+    },
+    {
+      "question": "What type of army did Rome have by 105 BCE?",
+      "context": "By 105 BCE, Jugurtha was captured and then paraded through the Roman streets in chains. That same year, Rome faced new threats from the north in the form of Germanic tribes crossing the Rhine River and seeking to invade Italy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.862398921832884
+      }
+    },
+    {
+      "question": "What was the outcome for Marius's proposal to give veterans land after his victories?",
+      "context": "After his victories, however, his enemies in the Senate wanted to embarrass him politically, so they prevented his proposal from becoming law.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8538409703504043
+      }
+    },
+    {
+      "question": "Who led the army against Mithridates?",
+      "context": "The rebels massacred thousands of Roman citizens and rallied around Mithridates, the Hellenistic king of Pontus in north Asia Minor. Optimates in the Senate appointed Sulla to lead an army against Mithridates.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8539982030548068
+      }
+    },
+    {
+      "question": "What was the office that granted absolute authority for a limited time to handle an emergency?",
+      "context": "The office of dictator was an ancient republican office used only during emergencies because it granted absolute authority for a limited time to handle the emergency.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8614386792452831
+      }
+    },
+    {
+      "question": "Who compelled the Senate to appoint Sulla as dictator?",
+      "context": "While in Rome, he compelled the Senate to appoint him dictator.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8471189886284226
+      }
+    },
+    {
+      "question": "What event prompted Sulla to assume dictatorial authority?",
+      "context": "ause it granted absolute authority for a limited time to handle the emergency.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8723996129656507
+      }
+    },
+    {
+      "question": "Who were the three influential figures that dominated Roman politics after Sulla's retirement?",
+      "context": "Three men in particular eventually assumed enormous dominance. One was Pompey Magnus, who became a popular general...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.917157574205299
+      }
+    },
+    {
+      "question": "Why did thousands of landless Romans join Pompey’s client army?",
+      "context": "and thousands of landless Romans joined his client army on the promise of land.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8623125302370586
+      }
+    },
+    {
+      "question": "Who were the three influential figures in Roman politics during this era?",
+      "context": "The third influential figure was Julius Caesar, whose original source of popularity was the fact that Marius was his uncle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.876695646812184
+      }
+    },
+    {
+      "question": "Why did Julius Caesar cross the Rubicon River in January of 49 BCE?",
+      "context": "In January of that year he famously led his troops across the Rubicon River, the traditional boundary between Italy and Gaul.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8450774068698597
+      }
+    },
+    {
+      "question": "What happened to Pompey after Caesar defeated him at the Battle of Pharsalus in northern Greece?",
+      "context": "Shortly after this, Pompey fled to Egypt, where he was murdered by the Egyptian pharaoh Ptolemy XIII.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8590455049944506
+      }
+    },
+    {
+      "question": "What was the outcome of Caesar's dictatorship in 44 BCE?",
+      "context": "In 44 BCE his dictatorship was made permanent, or for life.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7999142367066896
+      }
+    },
+    {
+      "question": "What event led to Caesar’s assassination?",
+      "context": "However, these former optimates viewed him as a tyrant, and in 44 BCE two of them, Brutus and Cassius, led a conspiracy that resulted in his assassination.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8675314465408805
+      }
+    },
+    {
+      "question": "What was the outcome of the Battle of Actium?",
+      "context": "In 31 BCE, in the naval Battle of Actium off the coast of northern Greece, Octavian defeated the forces of Antony and Cleopatra.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7383697713886394
+      }
+    },
+    {
+      "question": "What was the cause of the Second Triumvirate’s division?",
+      "context": "Soon they quarreled, however, and civil war erupted once again.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8040880503144654
+      }
+    },
+    {
+      "question": "What was the result of Octavian's decision to 'restore' the Roman Republic?",
+      "context": "The Senate immediately appointed him proconsul or governor of all Roman frontier provinces, which made him effectively the commander of the entire Roman army.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8230718305196955
+      }
+    },
+    {
+      "question": "What was the primary task of Octavian after 31 BCE?",
+      "context": "To avoid the fate of his adopted father, he successfully maintained a façade that the Roman Republic was alive and well, assuming titles and powers traditionally associated with it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7970766363848125
+      }
+    },
+    {
+      "question": "What power did Octavian gain through the Senate's decision in 23 BCE?",
+      "context": "He could now veto any action taken by government officials, the Senate, and the assemblies, and he could introduce laws to the Plebian Assembly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8496082974732428
+      }
+    },
+    {
+      "question": "What was the primary effect of Octavian's reduction of the standing army?",
+      "context": "He reduced the standing army from 600,000 to 200,000 and provided land for thousands of discharged veterans in recently conquered areas such as in Gaul and Hispania.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8016981132075471
+      }
+    },
+    {
+      "question": "What was Augustus' goal in arranging for a political successor?",
+      "context": "Augustus was keenly aware that the peace and prosperity he had created was largely built upon his image and power, and he feared what might happen when he died.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.864937106918239
+      }
+    },
+    {
+      "question": "Why did Augustus create a permanent police force in the city?",
+      "context": "To win over the masses, he also provided free grain (courtesy of his control of fertile Egypt) and free entertainment (gladiator combats and chariot races), making Rome famous for its bounty of “bread and circuses.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8726129216695254
+      }
+    },
+    {
+      "question": "What was the main challenge in arranging a political successor?",
+      "context": "This was a complicated matter since there was neither an official position of emperor nor a republican tradition of hereditary rule.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8378057302585604
+      }
+    },
+    {
+      "question": "Who succeeded Caligula?",
+      "context": "The prefect of the Praetorian Guard assassinated Caligula in 40 CE, and the guard replaced him with his uncle Claudius (40–54 CE).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9029570782301666
+      }
+    },
+    {
+      "question": "Why did Domitian's wife Domitia arrange for his assassination?",
+      "context": "In 96 CE, his wife Domitia worked with members of the Senate to arrange for his assassination.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8826869322152341
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who assassinated Philip II?",
+      "context": "Philip was killed by an assassin with a personal grudge.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.935062893081761
+      }
+    },
+    {
+      "question": "Why did Rome declare war against Macedon after Carthage's defeat?",
+      "context": "After Rome’s victory against Carthage, Rome declared war against this new enemy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9608347627215552
+      }
+    },
+    {
+      "question": "Why were young Spartan men subject to ritual beatings?",
+      "context": "They also underwent ritual beatings intended to make them physically strong and hardened warriors.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9301936707597085
+      }
+    },
+    {
+      "question": "Why would a Roman invest in such expensive decoration to commemorate the three hundred–year-old victory of a foreign king in a distant land?",
+      "context": "Beginning approximately 3,500 years before our time, the lands that border the Mediterranean Sea became increasingly linked by commerce and cultural interaction.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.898435160227613
+      }
+    }
+  ]
+}

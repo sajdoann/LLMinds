@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of tree is more appropriate for Czech due to frequent non-projectivity?",
+      "context": "They are more appropriate for Czech than constituency trees because we have frequent non-projectivity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8695054945054945
+      }
+    },
+    {
+      "question": "Who conducted a study that found dependency trees exhibit less divergences across languages compared to constituency trees?",
+      "context": "There is also a study by Heidi Fox that they exhibit less divergences than constituency trees across languages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9072712418300654
+      }
+    },
+    {
+      "question": "What is the context in which dependency trees are more relevant than adjacency context?",
+      "context": "the dependency context is much more relevant than the adjacency context which is the ",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "How many banks do linguists typically draw?",
+      "context": "If you look at the three banks that linguists draw",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.975
+      }
+    },
+    {
+      "question": "What is the significance of looking at dependency context compared to adjacency context in linguistic analysis?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8833333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many banks do linguists typically draw?",
+      "context": "If you look at the three banks that linguists draw",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.975
+      }
+    },
+    {
+      "question": "Who conducted a study that found dependency trees exhibit less divergences across languages compared to constituency trees?",
+      "context": "There is also a study by Heidi Fox that they exhibit less divergences than constituency trees across languages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9072712418300654
+      }
+    },
+    {
+      "question": "What is the significance of looking at dependency context compared to adjacency context in linguistic analysis?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8833333333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What has been achieved in reducing the out of vocabulary rate?",
+      "context": "We have significantly reduced the out of vocabulary rate",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8106060606060607
+      }
+    },
+    {
+      "question": "Why are subtitles not matching the domain of interest?",
+      "context": "The other community contribution, the subtitles, these do not match the domain of interest",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What is the effect of having subtitles that do not match the domain of interest on translation quality?",
+      "context": "so the translation quality is not getting much better",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8255208333333334
+      }
+    },
+    {
+      "question": "Is reducing the out of vocabulary rate considered a positive achievement?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "What is the primary goal of improving translation quality?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8055555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is reducing the out of vocabulary rate considered a positive achievement?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "Why are subtitles not matching the domain of interest?",
+      "context": "The other community contribution, the subtitles, these do not match the domain of interest",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What is the primary goal of improving translation quality?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What is the effect of having subtitles that do not match the domain of interest on translation quality?",
+      "context": "so the translation quality is not getting much better",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8255208333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "When did speech recognition systems reach a level of performance comparable to humans?",
+      "context": "This is the performance of spoken of speech recognition in the recent years after the introduction of deep neural networks and through a series of developments including more data or new algorithms the systems got up to the human from the end level performance in around 2017.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7715696465696466
+      }
+    },
+    {
+      "question": "What is the standard measure for evaluating speech recognition accuracy?",
+      "context": "This is the standard measure, word error rate and that would be better than if a human was typing what has been.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6590909090909091
+      }
+    },
+    {
+      "question": "What development enabled speech recognition systems to improve significantly in recent years?",
+      "context": "This is the performance of spoken of speech recognition in the recent years after the introduction of deep neural networks and through a series of developments including more data or new algorithms",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7106481481481481
+      }
+    },
+    {
+      "question": "What would be an improvement over human typing accuracy?",
+      "context": "So we can hope that the speech recognition will be better than humans.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8044871794871795
+      }
+    },
+    {
+      "question": "How do researchers define 'better' performance for speech recognition systems?",
+      "context": "This is the standard measure, word error rate and that would be better than if a human was typing what has been.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6840909090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What would be an improvement over human typing accuracy?",
+      "context": "So we can hope that the speech recognition will be better than humans.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8044871794871795
+      }
+    },
+    {
+      "question": "What development enabled speech recognition systems to improve significantly in recent years?",
+      "context": "This is the performance of spoken of speech recognition in the recent years after the introduction of deep neural networks and through a series of developments including more data or new algorithms",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7106481481481481
+      }
+    },
+    {
+      "question": "When did speech recognition systems reach a level of performance comparable to humans?",
+      "context": "This is the performance of spoken of speech recognition in the recent years after the introduction of deep neural networks and through a series of developments including more data or new algorithms the systems got up to the human from the end level performance in around 2017.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7715696465696466
+      }
+    }
+  ]
+}

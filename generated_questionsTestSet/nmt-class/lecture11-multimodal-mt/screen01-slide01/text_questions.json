@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What topic will the lecture cover?",
+      "context": "The introduction of the lecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5520833333333334
+      }
+    },
+    {
+      "question": "What two additional aspects of translation will be included in the lecture?",
+      "context": "The description of what the lecture will cover",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7217261904761905
+      }
+    },
+    {
+      "question": "How many lectures have been covered so far this semester?",
+      "context": "Not explicitly stated in the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What type of translation will be specifically focused on in this lecture?",
+      "context": "The title and introduction of the lecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6979166666666666
+      }
+    },
+    {
+      "question": "Will the lecture cover any other aspects besides speech and vision?",
+      "context": "Not explicitly stated in the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7329545454545454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of translation will be specifically focused on in this lecture?",
+      "context": "The title and introduction of the lecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6979166666666666
+      }
+    },
+    {
+      "question": "What two additional aspects of translation will be included in the lecture?",
+      "context": "The description of what the lecture will cover",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7217261904761905
+      }
+    },
+    {
+      "question": "How many lectures have been covered so far this semester?",
+      "context": "Not explicitly stated in the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "Will the lecture cover any other aspects besides speech and vision?",
+      "context": "Not explicitly stated in the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7329545454545454
+      }
+    }
+  ]
+}

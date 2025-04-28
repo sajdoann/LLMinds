@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is phrase-based machine translation (MT) based on?",
+      "context": "The extraction is done. That is very straightforward.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8191964285714286
+      }
+    },
+    {
+      "question": "What do you extract in phrase-based MT?",
+      "context": "phrase-based MT is based on these word alignments and you extract phrases which are consistent with the word alignment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6825396825396826
+      }
+    },
+    {
+      "question": "Why is it important to follow the word alignment when extracting phrases in phrase-based MT?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What kind of output can be expected from phrase-based MT?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "How does the extraction process in phrase-based MT relate to word alignments?",
+      "context": "phrase-based MT is based on these word alignments and you extract phrases which are consistent with the word alignment.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7673611111111112
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of output can be expected from phrase-based MT?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "How does the extraction process in phrase-based MT relate to word alignments?",
+      "context": "phrase-based MT is based on these word alignments and you extract phrases which are consistent with the word alignment.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7673611111111112
+      }
+    },
+    {
+      "question": "What do you extract in phrase-based MT?",
+      "context": "phrase-based MT is based on these word alignments and you extract phrases which are consistent with the word alignment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6825396825396826
+      }
+    },
+    {
+      "question": "Why is it important to follow the word alignment when extracting phrases in phrase-based MT?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    }
+  ]
+}

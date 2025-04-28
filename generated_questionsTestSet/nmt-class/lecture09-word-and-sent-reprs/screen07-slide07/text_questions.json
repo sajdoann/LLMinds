@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two different meanings that need to be encoded in a constituency tree?",
+      "context": "And if you are a syntacticist, if you know grammar, if you remember the constituency trees that we have discussed some lectures ago",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.5771929824561404
+      }
+    },
+    {
+      "question": "What positions would the 'yellow back' be in two different situations in the tree?",
+      "context": "The yellow back will be essentially hanging elsewhere in two different positions in the tree",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8253205128205128
+      }
+    },
+    {
+      "question": "Who are the two types of people being referred to in the document?",
+      "context": "If you are not a syntacticist but rather a syntacticist,",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "What is implied by the phrase 'if you know grammar'?",
+      "context": "And if you are a syntacticist, if you know grammar, if you remember the constituency trees that we have discussed some lectures ago",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6105263157894737
+      }
+    },
+    {
+      "question": "What is the tone of the document?",
+      "context": "And if you are a syntacticist, if you know grammar, if you remember the constituency trees that we have discussed some lectures ago",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5021929824561404
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two different meanings that need to be encoded in a constituency tree?",
+      "context": "And if you are a syntacticist, if you know grammar, if you remember the constituency trees that we have discussed some lectures ago",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.5771929824561404
+      }
+    },
+    {
+      "question": "What positions would the 'yellow back' be in two different situations in the tree?",
+      "context": "The yellow back will be essentially hanging elsewhere in two different positions in the tree",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8253205128205128
+      }
+    },
+    {
+      "question": "What is implied by the phrase 'if you know grammar'?",
+      "context": "And if you are a syntacticist, if you know grammar, if you remember the constituency trees that we have discussed some lectures ago",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6105263157894737
+      }
+    },
+    {
+      "question": "Who are the two types of people being referred to in the document?",
+      "context": "If you are not a syntacticist but rather a syntacticist,",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666666
+      }
+    }
+  ]
+}

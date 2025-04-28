@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the equation called in this document?",
+      "context": "This sentence: 'So this equation is called the noisy channel...'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7517361111111112
+      }
+    },
+    {
+      "question": "Why are two tables needed instead of one for speech recognition using neural approaches?",
+      "context": "This sentence: 'Instead of building one table you now have to create two tables...'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "What is the main benefit of training the probability table on different sets of data?",
+      "context": "This paragraph: 'So whether it is a nice sentence like a good grammatically form perhaps or whether it is some nonsense sequence of symbols.'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8475961538461538
+      }
+    },
+    {
+      "question": "What type of data can be used to train the language model and the probability table?",
+      "context": "This sentence: 'Monolingual data are very easy to obtain...'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "How does the language model help in speech recognition using parallel data?",
+      "context": "This paragraph: 'So if you are unsure given your parallel data the language model will help you to choose the right translation.'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8145833333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of data can be used to train the language model and the probability table?",
+      "context": "This sentence: 'Monolingual data are very easy to obtain...'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "Why are two tables needed instead of one for speech recognition using neural approaches?",
+      "context": "This sentence: 'Instead of building one table you now have to create two tables...'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "What is the main benefit of training the probability table on different sets of data?",
+      "context": "This paragraph: 'So whether it is a nice sentence like a good grammatically form perhaps or whether it is some nonsense sequence of symbols.'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8475961538461538
+      }
+    }
+  ]
+}

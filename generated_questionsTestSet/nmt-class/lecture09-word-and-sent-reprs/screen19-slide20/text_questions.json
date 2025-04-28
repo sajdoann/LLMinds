@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the task in one of the early lectures?",
+      "context": "the given inputs. In one of the early lectures, we had this very simple example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "How many neurons were in one hidden layer of the network?",
+      "context": "And each of these neurons has the capacity to or specify a line, a separation boundary in that original space of x and y-coordinates.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "What happens to the coordinates when new lines are added?",
+      "context": "And with this original space where you have these three lines, the new coordinates become the distances from these three lines.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "Why is it easier to separate inner points from the circumference in the new space?",
+      "context": "And suddenly there is something, it's much easier to separate the inner points from the circumference.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8535714285714286
+      }
+    },
+    {
+      "question": "What was the original space of x and y-coordinates represented as?",
+      "context": "The point was represented as the x-coordinate or x1 and the y-coordinate or x2.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8068181818181819
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many neurons were in one hidden layer of the network?",
+      "context": "And each of these neurons has the capacity to or specify a line, a separation boundary in that original space of x and y-coordinates.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "What happens to the coordinates when new lines are added?",
+      "context": "And with this original space where you have these three lines, the new coordinates become the distances from these three lines.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "What was the original space of x and y-coordinates represented as?",
+      "context": "The point was represented as the x-coordinate or x1 and the y-coordinate or x2.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8068181818181819
+      }
+    }
+  ]
+}

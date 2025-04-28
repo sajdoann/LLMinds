@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "What kind of experiments are being discussed?",
+      "context": "...experiments that went generally into...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.3571428571428572
+      }
+    },
+    {
+      "question": "What does the phrase 'generally into' imply about the nature of the experiments?",
+      "context": "...experiments that went generally into...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.40909090909090906
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of experiments are being discussed?",
+      "context": "...experiments that went generally into...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.3571428571428572
+      }
+    },
+    {
+      "question": "What does the phrase 'generally into' imply about the nature of the experiments?",
+      "context": "...experiments that went generally into...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.40909090909090906
+      }
+    }
+  ]
+}

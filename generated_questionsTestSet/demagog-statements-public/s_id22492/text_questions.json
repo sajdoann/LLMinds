@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the current proposal about the government's ability to deploy troops abroad?",
+      "context": "projednávaný návrh novely Ústavy, která upravuje pravidla vysílání českých vojáků do zahraničí a&nbsp;přejezd spojeneckých vojsk přes území ČR",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "Who would make decisions about deploying troops abroad without the approval of Parliament?",
+      "context": "vláda nově nepotřebovala souhlas Parlamentu k&nbsp;povolení pohybu cizích vojsk na území ČR (<a href=\"https://www.psp.cz/sqw/text/orig2.sqw?idd=213558\">.pdf</a>) ani k&nbsp;vyslání vojska na cizí území za účelem ochrany ...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8259240759240759
+      }
+    },
+    {
+      "question": "What are the three conditions under which the government can deploy troops abroad without parliamentary approval?",
+      "context": "<i>„plnění závazků z&nbsp;mezinárodních smluv o&nbsp;společné obraně proti napadení“</i>, při účasti na mírových operacích a&nbsp;při záchranných pracích po živelních pohromách nebo průmyslových a&amp;n;ekologických haváriích.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8652173913043478
+      }
+    },
+    {
+      "question": "Who proposed the current extension of the government's power to deploy troops abroad without parliamentary approval?",
+      "context": "minister obrany za hnutí ANO <a href=",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7163265306122448
+      }
+    },
+    {
+      "question": "What does the text say about the proposed changes to the law regarding the deployment of Czech soldiers abroad?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6026785714285714
+      }
+    },
+    {
+      "question": "What is the main argument presented by the proposals in support of the proposed changes?",
+      "context": "<i>„podle dosavadní úpravy by například bylo mimořádně obtížné včasné vyslání ozbrojených sil ČR za účelem záchrany životů občanů ČR protiprávně zadržovaných v&nbsp;zahraničí“</i> (<a href=",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8411371237458194
+      }
+    },
+    {
+      "question": "What is the purpose of the proposed changes to the law regarding the deployment of Czech soldiers abroad?",
+      "context": "zatažily, že úpravy jsou nutné také proto, aby ČR mohla bez souhlasu Parlamentu vyslat do zahraničí jednotky v&nbsp;rámci tzv.&nbsp;Sil velmi rychlé reakce NATO (VJTF) i&nbsp;v&nbsp;případech, které nespadají pod <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7741496598639456
+      }
+    },
+    {
+      "question": "Why is the proposal to allow the government to deploy soldiers abroad without parliamentary approval considered misleading?",
+      "context": "Předseda hnutí ANO nicméně ve výroku návrh na rychlé vyslání českých vojáků do zahraničí bez předchozího souhlasu Parlamentu spojuje jen se situací záchrany českých občanů. Zároveň už jedoch nedodává, že dokumenty, pod jedním z&nbsp;nichž je sám <a href=",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8050193050193051
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the current proposal about the government's ability to deploy troops abroad?",
+      "context": "projednávaný návrh novely Ústavy, která upravuje pravidla vysílání českých vojáků do zahraničí a&nbsp;přejezd spojeneckých vojsk přes území ČR",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "What does the text say about the proposed changes to the law regarding the deployment of Czech soldiers abroad?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6026785714285714
+      }
+    },
+    {
+      "question": "What is the main argument presented by the proposals in support of the proposed changes?",
+      "context": "<i>„podle dosavadní úpravy by například bylo mimořádně obtížné včasné vyslání ozbrojených sil ČR za účelem záchrany životů občanů ČR protiprávně zadržovaných v&nbsp;zahraničí“</i> (<a href=",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8411371237458194
+      }
+    }
+  ]
+}

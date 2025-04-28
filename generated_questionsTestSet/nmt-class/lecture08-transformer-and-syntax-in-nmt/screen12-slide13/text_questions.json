@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of processing is used for word networks in this context?",
+      "context": "is performed token by token",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666666
+      }
+    },
+    {
+      "question": "How are representations obtained from the input words?",
+      "context": "You have the same number of positions as there were from the input words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7548076923076923
+      }
+    },
+    {
+      "question": "What is the purpose of passing tokens through the next layer of the encoder?",
+      "context": "to the next layer of the encoder",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7310606060606061
+      }
+    },
+    {
+      "question": "How are word networks transformed in this context?",
+      "context": "So you do the same transformation at every of these tokens",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What is expected to happen to information about a word after it has been processed through the encoder?",
+      "context": "And that is how you obtain the final result of the encoder layer one. You have the same number of positions as there were from the input words",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8069053708439897
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of processing is used for word networks in this context?",
+      "context": "is performed token by token",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666666
+      }
+    },
+    {
+      "question": "How are word networks transformed in this context?",
+      "context": "So you do the same transformation at every of these tokens",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "How are representations obtained from the input words?",
+      "context": "You have the same number of positions as there were from the input words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7548076923076923
+      }
+    }
+  ]
+}

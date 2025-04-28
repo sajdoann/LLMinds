@@ -1,0 +1,149 @@
+{
+  "all_questions": [
+    {
+      "question": "Why was Miloš Balák sentenced to prison?",
+      "context": "He also received a fine of 1.8 million crowns and a ban on working in the state administration for four years (counting from his release from prison).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7985714285714286
+      }
+    },
+    {
+      "question": "What was the value of the contract that Miloš Balák manipulated?",
+      "context": "<p>The whole case results from the manipulation of a public contract worth more than 200 million crowns.</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7727941176470589
+      }
+    },
+    {
+      "question": "How much profit was supposed to be obtained by ESB from the unauthorized acquisition of the contract?",
+      "context": "ESB's profit was supposed to be almost 9 million crowns, but due to the initiation of criminal proceedings, this did not happen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7827380952380952
+      }
+    },
+    {
+      "question": "Why did the police wiretaps reveal that Libor Tkadlec planned to obtain tens of millions of crowns from the budget of the Office of the President of the Republic?",
+      "context": "According to police wiretaps, <a href=\"https://zpravy.aktualne.cz/domaci/soud-balak-vezeni/r~b5a3243aaefc11ebb0fa0cc47ab5f122\">Libor Tkadlec planned to obtain tens of millions of crowns from the budget of the Office of the President of the Republic. However, due to the police activity, Chancellor Mynář had part of the ongoing work stopped, and the final price of the tender was 191 million crowns.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.782608695652174,
+        "diversity_score": 0.8758043758043759
+      }
+    },
+    {
+      "question": "What technology did lák favor to enrich himself?",
+      "context": "lák directly enriched himself by favoring ESB.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "How much profit was supposed to be from the illegal acquisition of the contract according to the court?",
+      "context": "ESB's profit from the illegal acquisition of the contract was supposed to be almost 9 million crowns.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7380208333333333
+      }
+    },
+    {
+      "question": "Did Balák only allow ESB to inspect the Lánská obora before the tender was announced?",
+      "context": "It is not true that Balák only allowed ESB to inspect the Lánská obora before the tender was announced.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8174603174603174
+      }
+    },
+    {
+      "question": "How did Balák and the head of the forest administration cooperate on the project planning?",
+      "context": "Based on the court ruling, it is clear that he cooperated with Balák on the project planning and provided it with non-public information even before the tender was announced.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8343349358974359
+      }
+    },
+    {
+      "question": "What was determined by the head of the forest administration in advance?",
+      "context": "the head of the forest administration thus determined the contractor in advance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What technology did lák favor to enrich himself?",
+      "context": "lák directly enriched himself by favoring ESB.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "What was determined by the head of the forest administration in advance?",
+      "context": "the head of the forest administration thus determined the contractor in advance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "Why did the police wiretaps reveal that Libor Tkadlec planned to obtain tens of millions of crowns from the budget of the Office of the President of the Republic?",
+      "context": "According to police wiretaps, <a href=\"https://zpravy.aktualne.cz/domaci/soud-balak-vezeni/r~b5a3243aaefc11ebb0fa0cc47ab5f122\">Libor Tkadlec planned to obtain tens of millions of crowns from the budget of the Office of the President of the Republic. However, due to the police activity, Chancellor Mynář had part of the ongoing work stopped, and the final price of the tender was 191 million crowns.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.782608695652174,
+        "diversity_score": 0.8758043758043759
+      }
+    },
+    {
+      "question": "How did Balák and the head of the forest administration cooperate on the project planning?",
+      "context": "Based on the court ruling, it is clear that he cooperated with Balák on the project planning and provided it with non-public information even before the tender was announced.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8343349358974359
+      }
+    }
+  ]
+}

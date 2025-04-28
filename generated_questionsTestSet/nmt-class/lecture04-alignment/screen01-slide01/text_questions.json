@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of the fourth lecture on statistical machine translation?",
+      "context": "Welcome to the fourth lecture on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7108585858585859
+      }
+    },
+    {
+      "question": "What topic will be covered in this lecture?",
+      "context": "This lecture is devoted to alignment of documents, sentences and then words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8072916666666667
+      }
+    },
+    {
+      "question": "How are the techniques of machine translation relevant in neural machine translation?",
+      "context": "So the alignment part of these techniques are still relevant even for neural machine translation and all of the techniques were highly critical for the previous state-of-the-art, the phrase-based approach to machine translation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.7027972027972028
+      }
+    },
+    {
+      "question": "What was the state-of-the-art approach in machine translation before this lecture?",
+      "context": "the phrase-based approach to machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.5795454545454546
+      }
+    },
+    {
+      "question": "How did the techniques of alignment affect the previous state-of-the-art in machine translation?",
+      "context": "all of the techniques were highly critical for the previous state-of-the-art,",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6708333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the focus of the fourth lecture on statistical machine translation?",
+      "context": "Welcome to the fourth lecture on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7108585858585859
+      }
+    },
+    {
+      "question": "What topic will be covered in this lecture?",
+      "context": "This lecture is devoted to alignment of documents, sentences and then words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8072916666666667
+      }
+    },
+    {
+      "question": "What was the state-of-the-art approach in machine translation before this lecture?",
+      "context": "the phrase-based approach to machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.5795454545454546
+      }
+    }
+  ]
+}

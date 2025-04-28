@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being estimated in the future cost calculation?",
+      "context": "So to estimate the future cost, we will consider only the cost of the translation of the words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.685515873015873
+      }
+    },
+    {
+      "question": "How are phrase translation probabilities considered in the language model?",
+      "context": "For language model, we will consider only the production of the output phrases within the puzzle pieces and not on their boundaries.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.80625
+      }
+    },
+    {
+      "question": "What is ignored in the reordering model when calculating future costs?",
+      "context": "For reordering model, we just ignore that in the future cost.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Why is the future cost considered an optimistic estimate?",
+      "context": "And it's optimistic because we are ignoring the reordering cost and we are ignoring the n-grams at the boundaries of phrases.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7222222222222222
+      }
+    },
+    {
+      "question": "Why is optimism necessary for heuristics in A star search?",
+      "context": "And it's good that it's optimistic, heuristics have to be optimistic for the A star search",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being estimated in the future cost calculation?",
+      "context": "So to estimate the future cost, we will consider only the cost of the translation of the words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.685515873015873
+      }
+    },
+    {
+      "question": "How are phrase translation probabilities considered in the language model?",
+      "context": "For language model, we will consider only the production of the output phrases within the puzzle pieces and not on their boundaries.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.80625
+      }
+    },
+    {
+      "question": "Why is the future cost considered an optimistic estimate?",
+      "context": "And it's optimistic because we are ignoring the reordering cost and we are ignoring the n-grams at the boundaries of phrases.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7222222222222222
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What language pairings does the model support?",
+      "context": "We want to work with Slovak translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "How much larger is the Czech English corpus compared to the English Slovak corpus?",
+      "context": "...ninefold. back then we had nine times more data for Czech English than we had for English Slovak.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9211309523809523
+      }
+    },
+    {
+      "question": "Why are BLEU scores not comparable between different language pairs?",
+      "context": "...They are only comparable within the particular translation direction.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9333333333333333
+      }
+    },
+    {
+      "question": "What is the parent model used in this context?",
+      "context": "...our large English Czech model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8527777777777779
+      }
+    },
+    {
+      "question": "Why does the author consider baseline performance in translation to be relevant?",
+      "context": "... Obviously the BLEU scores when going into different languages are not comparable between each other.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9036458333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are BLEU scores not comparable between different language pairs?",
+      "context": "...They are only comparable within the particular translation direction.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9333333333333333
+      }
+    },
+    {
+      "question": "How much larger is the Czech English corpus compared to the English Slovak corpus?",
+      "context": "...ninefold. back then we had nine times more data for Czech English than we had for English Slovak.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9211309523809523
+      }
+    },
+    {
+      "question": "What is the parent model used in this context?",
+      "context": "...our large English Czech model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8527777777777779
+      }
+    },
+    {
+      "question": "Why does the author consider baseline performance in translation to be relevant?",
+      "context": "... Obviously the BLEU scores when going into different languages are not comparable between each other.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9036458333333334
+      }
+    }
+  ]
+}

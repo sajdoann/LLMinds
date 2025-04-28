@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of improving translation into a particle language pair?",
+      "context": "So that was the idea of trying to improve translation into a particle language pair by including additional languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7264254385964912
+      }
+    },
+    {
+      "question": "How does this improvement differ from other approaches?",
+      "context": "And it was different from the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7864583333333334
+      }
+    },
+    {
+      "question": "What is being included in the language pair to achieve this improvement?",
+      "context": "So that was the idea of trying to improve translation into a particle language pair by including additional languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6951754385964912
+      }
+    },
+    {
+      "question": "Can you infer what aspect of the language is being targeted with this approach?",
+      "context": "And it was different from the...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6815476190476191
+      }
+    },
+    {
+      "question": "What is the goal of this improvement, according to the document's introduction?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8295454545454546
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of improving translation into a particle language pair?",
+      "context": "So that was the idea of trying to improve translation into a particle language pair by including additional languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7264254385964912
+      }
+    },
+    {
+      "question": "What is the goal of this improvement, according to the document's introduction?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8295454545454546
+      }
+    },
+    {
+      "question": "How does this improvement differ from other approaches?",
+      "context": "And it was different from the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7864583333333334
+      }
+    },
+    {
+      "question": "Can you infer what aspect of the language is being targeted with this approach?",
+      "context": "And it was different from the...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6815476190476191
+      }
+    }
+  ]
+}

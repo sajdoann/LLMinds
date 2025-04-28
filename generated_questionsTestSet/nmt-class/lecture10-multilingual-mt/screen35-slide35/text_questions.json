@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the topic of the next part of the document?",
+      "context": "So far.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "What does 'multilingual machine translation' refer to?",
+      "context": " multilingual machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9464285714285714
+      }
+    },
+    {
+      "question": "How many questions should be generated?",
+      "context": "Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9583333333333334
+      }
+    },
+    {
+      "question": "What is the expected difficulty level of the questions?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8685661764705882
+      }
+    },
+    {
+      "question": "What category of questions should they cover?",
+      "context": "The questions must be diverse and cover different parts of the document.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the topic of the next part of the document?",
+      "context": "So far.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "What does 'multilingual machine translation' refer to?",
+      "context": " multilingual machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9464285714285714
+      }
+    },
+    {
+      "question": "What is the expected difficulty level of the questions?",
+      "context": "Each question must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8685661764705882
+      }
+    }
+  ]
+}

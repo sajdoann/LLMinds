@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the base line required for calculating the exact distance of the Sun from London or Brighton?",
+      "context": "Section 3. THE TRUE DISTANCE OF THE SUN AND STARS.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5842013888888888
+      }
+    },
+    {
+      "question": "Why is the distance of the Sun less than the distance from London to a point on Earth where it is vertical?",
+      "context": "Section 3. THE TRUE DISTANCE OF THE SUN AND STARS.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "How were the altitudes of the Sun taken at London and Ackworth to calculate the distance of the Sun?",
+      "context": "The following are the particulars of an observation made, a few years ago, by the officers engaged in the Ordnance survey.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the angle of altitude used to calculate the vertical distance of the Sun from Earth?",
+      "context": "The altitude at L and at B taken at the same moment of time will give the distance L S or B S.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6796218487394958
+      }
+    },
+    {
+      "question": "What is the estimated magnitude of the Sun, Moon, Stars, etc. compared to Earth?",
+      "context": "From these demonstrable distances it follows unavoidably that the magnitude of the Sun, Moon, Stars, &c., is very small—much smaller than the Earth from which they are measured;",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7915384615384615
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the base line required for calculating the exact distance of the Sun from London or Brighton?",
+      "context": "Section 3. THE TRUE DISTANCE OF THE SUN AND STARS.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5842013888888888
+      }
+    },
+    {
+      "question": "How were the altitudes of the Sun taken at London and Ackworth to calculate the distance of the Sun?",
+      "context": "The following are the particulars of an observation made, a few years ago, by the officers engaged in the Ordnance survey.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the angle of altitude used to calculate the vertical distance of the Sun from Earth?",
+      "context": "The altitude at L and at B taken at the same moment of time will give the distance L S or B S.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6796218487394958
+      }
+    }
+  ]
+}

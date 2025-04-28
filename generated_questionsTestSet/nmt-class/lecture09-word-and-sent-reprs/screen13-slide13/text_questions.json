@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first sentence that every pupil reads in the Czech Republic?",
+      "context": "If you test online public services such as the one from Google",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "How does Google translate 'ma, ma, mele, maso'?",
+      "context": "And this ma, ma, mele, maso can be translated by, for example, Google as",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8209134615384616
+      }
+    },
+    {
+      "question": "What are the possible translations of 'ma, ma, mele, maso' according to Google?",
+      "context": "And that's perfectly correct.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "Why is the translation of 'ma, ma, mele, maso' considered correct?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What does Google translate as equivalent to 'meat'?",
+      "context": "And that's perfectly correct.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the first sentence that every pupil reads in the Czech Republic?",
+      "context": "If you test online public services such as the one from Google",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "What are the possible translations of 'ma, ma, mele, maso' according to Google?",
+      "context": "And that's perfectly correct.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "Why is the translation of 'ma, ma, mele, maso' considered correct?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

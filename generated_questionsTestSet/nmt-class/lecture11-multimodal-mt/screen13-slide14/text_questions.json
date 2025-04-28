@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal of the cascading machine spoken language translation?",
+      "context": "The source language. So first let's look at the cascading machine spoken language translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.5708041958041958
+      }
+    },
+    {
+      "question": "How do you connect two components in the cascading machine spoken language translation?",
+      "context": "So we would be simply connecting together two components, the speech recognition and the machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.5724358974358974
+      }
+    },
+    {
+      "question": "What are the two components involved in the cascading machine spoken language translation?",
+      "context": "So we would be simply connecting together two components, the speech recognition and the machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.51875
+      }
+    },
+    {
+      "question": "What is inferred about the process of cascading machine spoken language translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6770833333333333
+      }
+    },
+    {
+      "question": "What is being analyzed in the context of cascading machine spoken language translation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6826923076923077
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary goal of the cascading machine spoken language translation?",
+      "context": "The source language. So first let's look at the cascading machine spoken language translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.5708041958041958
+      }
+    },
+    {
+      "question": "What is being analyzed in the context of cascading machine spoken language translation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6826923076923077
+      }
+    },
+    {
+      "question": "How do you connect two components in the cascading machine spoken language translation?",
+      "context": "So we would be simply connecting together two components, the speech recognition and the machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.5724358974358974
+      }
+    },
+    {
+      "question": "What is inferred about the process of cascading machine spoken language translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6770833333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the reason for the Sun appearing to ascend from morning until noon?",
+      "context": "The text explains that this arises from a simple and everywhere visible law of perspective.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.735897435897436
+      }
+    },
+    {
+      "question": "How does the apparent position of the Sun change as it moves across the sky?",
+      "context": "The text describes how the apparent position changes as the Sun traverses its path, using examples such as points 1, 2, 3, and 4.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8168498168498168
+      }
+    },
+    {
+      "question": "What is the key concept that explains why 'Sunrise' and 'Sunset' occur?",
+      "context": "The text states that this is due to horizontal lines parallel to each other appearing to approach or converge in the distance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8179824561403508
+      }
+    },
+    {
+      "question": "What does the diagram Fig. 29 represent?",
+      "context": "The text mentions that it represents a portion of the Earth's surface (line A B), the Sun's path (C D), and the line of sight (H H).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.760551948051948
+      }
+    },
+    {
+      "question": "What happens to the apparent position of the Sun when it reaches its meridian or noon-day position?",
+      "context": "The text states that in this position, the apparent and actual positions of the Sun are the same.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.7072916666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the key concept that explains why 'Sunrise' and 'Sunset' occur?",
+      "context": "The text states that this is due to horizontal lines parallel to each other appearing to approach or converge in the distance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8179824561403508
+      }
+    },
+    {
+      "question": "How does the apparent position of the Sun change as it moves across the sky?",
+      "context": "The text describes how the apparent position changes as the Sun traverses its path, using examples such as points 1, 2, 3, and 4.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8168498168498168
+      }
+    },
+    {
+      "question": "What does the diagram Fig. 29 represent?",
+      "context": "The text mentions that it represents a portion of the Earth's surface (line A B), the Sun's path (C D), and the line of sight (H H).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.760551948051948
+      }
+    }
+  ]
+}

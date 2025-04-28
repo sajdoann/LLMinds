@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is incremental machine translation, and why is it getting popular among researchers?",
+      "context": "Then one particle aspect of machine translation which we have not discussed and there are insufficient details on it in this lecture but it's also getting fashionable or popular among the researchers is something which is called incremental machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.7426801801801802
+      }
+    },
+    {
+      "question": "What motivates the need for incremental machine translation, especially when processing text input?",
+      "context": "One of the clear motivations is that the input is still being uttered. So if you are talking about incremental machine translation that means that it is text based so there is some text source but the sentence is not fully complete as you are translating.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7344457013574661
+      }
+    },
+    {
+      "question": "How does the language combination affect the approach to incremental machine translation?",
+      "context": "And it obviously depends on the language combination on the source language and the target language. What is the the tactic to take and depending on these languages sometimes you have to wait for a word long for example until the German verb comes at the end of the sentence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7269570707070707
+      }
+    },
+    {
+      "question": "What is the main aim of incremental machine translation, according to the researchers?",
+      "context": "The motivation for incremental machine translation as a research is to keep the machine translation output stable because machine translation, the standard one that operates from sentences to sentences is free to reorder the words in any way.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6949404761904763
+      }
+    },
+    {
+      "question": "How does the researcher's approach to incremental machine translation affect the user experience?",
+      "context": "So if you have shown your partial output to the user then suddenly the whole output may change and that that will be very annoying or distracting so the user would not be able to follow this changing text too much.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7357954545454546
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is incremental machine translation, and why is it getting popular among researchers?",
+      "context": "Then one particle aspect of machine translation which we have not discussed and there are insufficient details on it in this lecture but it's also getting fashionable or popular among the researchers is something which is called incremental machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.7426801801801802
+      }
+    },
+    {
+      "question": "What motivates the need for incremental machine translation, especially when processing text input?",
+      "context": "One of the clear motivations is that the input is still being uttered. So if you are talking about incremental machine translation that means that it is text based so there is some text source but the sentence is not fully complete as you are translating.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7344457013574661
+      }
+    },
+    {
+      "question": "How does the language combination affect the approach to incremental machine translation?",
+      "context": "And it obviously depends on the language combination on the source language and the target language. What is the the tactic to take and depending on these languages sometimes you have to wait for a word long for example until the German verb comes at the end of the sentence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7269570707070707
+      }
+    }
+  ]
+}

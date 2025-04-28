@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main focus of the document?",
+      "context": "The introductory phrase 'Yeah. So now it's important to realize...'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7535714285714286
+      }
+    },
+    {
+      "question": "What does 'important guidelines' imply about the content of the document?",
+      "context": "The section heading 'IMPORTANT GUIDELINES:...'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "How many questions should be generated based on the document?",
+      "context": "The instruction 'Generate exactly 5 questions.'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What is required for each question to be answerable using only information in the document?",
+      "context": "The instruction 'Each question must be answerable using ONLY the information in the document...'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8354166666666667
+      }
+    },
+    {
+      "question": "Why are external sources of knowledge not allowed for answering questions?",
+      "context": "The instruction 'no external knowledge should be required.'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8565340909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are external sources of knowledge not allowed for answering questions?",
+      "context": "The instruction 'no external knowledge should be required.'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8565340909090909
+      }
+    },
+    {
+      "question": "What is required for each question to be answerable using only information in the document?",
+      "context": "The instruction 'Each question must be answerable using ONLY the information in the document...'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8354166666666667
+      }
+    },
+    {
+      "question": "What does 'important guidelines' imply about the content of the document?",
+      "context": "The section heading 'IMPORTANT GUIDELINES:...'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.775
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Does the document mention that the algorithm is capable of clustering languages?",
+      "context": "It does not translate very well, but it still is able to cluster languages in an unsupervised way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6136363636363636
+      }
+    },
+    {
+      "question": "What type of clustering mentioned in the document?",
+      "context": "It does not translate very well, but it still is able to cluster languages in an unsupervised way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.546875
+      }
+    },
+    {
+      "question": "Is language translation involved in the algorithm's functionality?",
+      "context": "It does not translate very well, but it still is able to cluster languages in an unsupervised way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.578125
+      }
+    },
+    {
+      "question": "What type of clustering mentioned in the document is described as 'unsupervised'?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "Is the algorithm's ability to cluster languages considered a translation capability?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8977272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Does the document mention that the algorithm is capable of clustering languages?",
+      "context": "It does not translate very well, but it still is able to cluster languages in an unsupervised way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6136363636363636
+      }
+    },
+    {
+      "question": "What type of clustering mentioned in the document is described as 'unsupervised'?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "What type of clustering mentioned in the document?",
+      "context": "It does not translate very well, but it still is able to cluster languages in an unsupervised way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.546875
+      }
+    },
+    {
+      "question": "Is the algorithm's ability to cluster languages considered a translation capability?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8977272727272727
+      }
+    }
+  ]
+}

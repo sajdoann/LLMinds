@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of votes did the SPOLU coalition win in the parliamentary elections?",
+      "context": "<p>Let us add that the SPOLU coalition <a href=\"https://www.volby.cz/pls/ps2021/ps124?xjazyk=CZ&amp;xkraj=0&amp;xstrana=13&amp;xv=1\">formed</a> by ODS, TOP 09 and&nbsp;KDU-ČSL won <a href=\"https://www.volby.cz/pls/ps2021/ps2?xjazyk=CZ\">27.79&nbsp;%</a> of the votes in the elections to the Chamber of Deputies of the Parliament of the Czech Republic, and thus finished first.</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is Petr Fiala's stance on those who did not vote for him?",
+      "context": "<p>Petr Fiala stated (time 49:22) that <i>&quot;good government governs for everyone, even for those who did not vote for it&quot;</i>. He then illustrates this position by referring to his older statement from the election staff, which is the content of the verified statement.</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8301282051282051
+      }
+    },
+    {
+      "question": "What is Petr Fiala's message to all citizens of the Czech Republic?",
+      "context": "<p>Petr Fiala made his first post-election speech in the election staff of the SPOLU coalition on October 9, when he <a href=\"https://ct24.ceskatelevize.cz/domaci/3383514-zmeny-je-tady-my-jsme-ji-slibili-my-ji-udelame-rekl-lidr-spolu-fiala\">said</a> (video, time 1:52): <i>“(…) I would like to ask you something in this context. All of you who are watching us. It doesn’t matter who you voted for, it doesn’t matter what your political preferences are. First and foremost, we are all citizens of the Czech Republic who want to live here and we want to live here together, as neighbors, as friends, as colleagues. That is what unites us all</i></p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7959558823529411
+      }
+    },
+    {
+      "question": "What parties formed the SPOLU coalition?",
+      "context": "<p>The SPOLU coalition <a href=\"https://www.volby.cz/pls/ps2021/ps124?xjazyk=CZ&amp;xkraj=0&amp;xstrana=13&amp;xv=1\">formed</a> by ODS, TOP 09 and&nbsp;KDU-ČSL won <a href=\"https://www.volby.cz/pls/ps2021/ps2?xjazyk=CZ\">27.79&nbsp;%</a> of the votes in the elections to the Chamber of Deputies of the Parliament of the Czech Republic, and thus finished first.</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6203703703703703
+      }
+    },
+    {
+      "question": "What percentage of voters lost their votes in the parliamentary elections?",
+      "context": "<p>Petr Fiala answered the <a href=\"https://www.ceskatelevize.cz/porady/1126672097-otazky-vaclava-moravce/221411030501017/#t=48m28s\">question</a> (video, time 48:28), which mentioned that more than a million voters lost their votes in the parliamentary elections, who are thus not represented in the Chamber of Deputies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7038123167155426
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What percentage of voters lost their votes in the parliamentary elections?",
+      "context": "<p>Petr Fiala answered the <a href=\"https://www.ceskatelevize.cz/porady/1126672097-otazky-vaclava-moravce/221411030501017/#t=48m28s\">question</a> (video, time 48:28), which mentioned that more than a million voters lost their votes in the parliamentary elections, who are thus not represented in the Chamber of Deputies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7038123167155426
+      }
+    },
+    {
+      "question": "What is Petr Fiala's stance on those who did not vote for him?",
+      "context": "<p>Petr Fiala stated (time 49:22) that <i>&quot;good government governs for everyone, even for those who did not vote for it&quot;</i>. He then illustrates this position by referring to his older statement from the election staff, which is the content of the verified statement.</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8301282051282051
+      }
+    },
+    {
+      "question": "What percentage of votes did the SPOLU coalition win in the parliamentary elections?",
+      "context": "<p>Let us add that the SPOLU coalition <a href=\"https://www.volby.cz/pls/ps2021/ps124?xjazyk=CZ&amp;xkraj=0&amp;xstrana=13&amp;xv=1\">formed</a> by ODS, TOP 09 and&nbsp;KDU-ČSL won <a href=\"https://www.volby.cz/pls/ps2021/ps2?xjazyk=CZ\">27.79&nbsp;%</a> of the votes in the elections to the Chamber of Deputies of the Parliament of the Czech Republic, and thus finished first.</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.625
+      }
+    }
+  ]
+}

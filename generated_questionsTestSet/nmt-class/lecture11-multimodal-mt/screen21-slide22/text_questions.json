@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a European project called ELITER?",
+      "context": "If you are deploying it really, and that's what we are doing",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8425324675324676
+      }
+    },
+    {
+      "question": "What components need to be integrated for a working system in the context of ELITER?",
+      "context": "And this integration can be pretty hard",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7595238095238095
+      }
+    },
+    {
+      "question": "How would the sound be processed after being acquired?",
+      "context": "you will be acquiring the sound, you'll be shipping it to the ASR system",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8090277777777778
+      }
+    },
+    {
+      "question": "What would happen if there was ambiguity in the input for translation?",
+      "context": "so no ambiguity of the input can be and it will be reasonably well handled there.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What type of lists would need to be sent for translation, according to the document?",
+      "context": "We would have to be sending NBEST lists",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7879464285714286
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a European project called ELITER?",
+      "context": "If you are deploying it really, and that's what we are doing",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8425324675324676
+      }
+    },
+    {
+      "question": "What components need to be integrated for a working system in the context of ELITER?",
+      "context": "And this integration can be pretty hard",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7595238095238095
+      }
+    },
+    {
+      "question": "What would happen if there was ambiguity in the input for translation?",
+      "context": "so no ambiguity of the input can be and it will be reasonably well handled there.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8020833333333334
+      }
+    }
+  ]
+}

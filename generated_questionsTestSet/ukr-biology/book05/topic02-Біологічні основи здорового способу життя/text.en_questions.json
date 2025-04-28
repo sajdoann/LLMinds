@@ -1,0 +1,853 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some possible consequences of not following the rules of a rational diet?",
+      "context": "Thus, failure to comply with the rules of a rational diet can cause a whole complex of problems in a person (Fig. 17.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8473456121343446
+      }
+    },
+    {
+      "question": "What is the main goal of personal hygiene?",
+      "context": "The main goal of personal hygiene of a person is to preserve his health and improve the quality of life.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7441487158243578
+      }
+    },
+    {
+      "question": "What is the main goal of personal hygiene?",
+      "context": "The main goal of personal hygiene of a person is to preserve his health and improve the quality of life.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7441487158243578
+      }
+    },
+    {
+      "question": "How does rational nutrition take into account its intake into the body as part of food?",
+      "context": "The basis of rational nutrition is maintaining a balance between the expenditure of substances and energy and their intake into the body as part of food.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8902749832327297
+      }
+    },
+    {
+      "question": "What is the basis of human survival?",
+      "context": "Human evolution took place over millions of years, and all this time, the basis of human survival was high physical activity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7687705178439055
+      }
+    },
+    {
+      "question": "Why is regular alternation of work and rest important?",
+      "context": "Continuous and constant stress not only has a bad effect on a person's physical condition, but also has extremely negative mental consequences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9055555555555556
+      }
+    },
+    {
+      "question": "What is the ideal duration of breaks for rest to ensure maximum restoration?",
+      "context": "The nature of rest and its duration should ensure maximum restoration of the body's working capacity.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8277356446370531
+      }
+    },
+    {
+      "question": "What is the goal of alternating work and rest?",
+      "context": "And the efficiency of work after rest increases significantly.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7488262910798122
+      }
+    },
+    {
+      "question": "What does sexual culture determine?",
+      "context": "the reproductive success not only of an individual person, but also of different human populations and the entire species as a whole.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8338028169014085
+      }
+    },
+    {
+      "question": "What is the main reason for recovering from sexually transmitted diseases?",
+      "context": "The human body does not develop immunity to these diseases, so even after recovery, a person can get sick with them again.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8498719590268886
+      }
+    },
+    {
+      "question": "What are some reasons why many infectious agents use the route of sexual transmission?",
+      "context": "There are several reasons. This is both the similarity of symptoms of various diseases from this group, and the frequent absence of external manifestations (for example, in the case of chlamydia), and the predominance of other methods of infection (in the case of tuberculosis).",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8752839618355293
+      }
+    },
+    {
+      "question": "What types of organisms can cause sexually transmitted diseases?",
+      "context": "Most of them are fungi and unicellular eukaryotes (Candida, Trichomonas, etc.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8501920614596671
+      }
+    },
+    {
+      "question": "What is the recommended behavior to prevent the spread of STDs?",
+      "context": "correct and regular use of condoms; correct use of local bactericidal agents; periodic examination in specialized laboratories; special treatment in case of diagnosis of the disease; mandatory information of sexual partners (in case of infection); vaccination against pathogens for which vaccines have been created.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8359154929577465
+      }
+    },
+    {
+      "question": "What organ system suffers the most from the entry of tobacco smoke into the body?",
+      "context": "Smoking products enter the body through the respiratory system, so they suffer the most.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.874503430841459
+      }
+    },
+    {
+      "question": "How does nicotine cause addiction to smoking?",
+      "context": "The main substance that causes addiction to smoking is nicotine. When nicotine enters the body, it stimulates the production of substances that cause euphoria and improve mood.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8990610328638498
+      }
+    },
+    {
+      "question": "What type of addiction does quitting smoking become much more difficult for in terms of physical suffering?",
+      "context": "Because then the lack of the opportunity to smoke causes physical suffering, and the person feels bad.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8647593896713615
+      }
+    },
+    {
+      "question": "What organ system is most affected by nicotine primarily?",
+      "context": "Nicotine primarily affects the cells of the nervous system, but the respiratory and digestive organs also suffer.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8430359937402191
+      }
+    },
+    {
+      "question": "What is the main cause of addiction to smoking?",
+      "context": "t causes addiction to smoking is nicotine.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7902973395931142
+      }
+    },
+    {
+      "question": "What happens when a person who consumes alcohol loses control over their actions?",
+      "context": "Under the influence of alcohol, a person often loses control ¬over his actions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8889490790899242
+      }
+    },
+    {
+      "question": "What is the main problem associated with alcohol consumption?",
+      "context": "The biggest problem with alcohol consumption is a person's addiction to it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8039906103286385
+      }
+    },
+    {
+      "question": "How does human evolution affect their ability to metabolize alcohol?",
+      "context": "In due time (about 10 million years ago), human ancestors developed resistance to the effects of ethyl alcohol in order to be able to eat the fruits of trees, in which fermentation processes have already begun after falling to the ground.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9406103286384977
+      }
+    },
+    {
+      "question": "What determines a person's reaction to alcohol?",
+      "context": "A person's reaction to alcohol is derived from which variants of the enzymes are present in their genome.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8348423876592891
+      }
+    },
+    {
+      "question": "What is the primary cause of alcoholism?",
+      "context": "It is genetic differences in the composition of the enzyme system that determine a person's chances of developing alcoholism.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7460054444312937
+      }
+    },
+    {
+      "question": "How does drug addiction compare to addiction from smoking and alcohol use?",
+      "context": "But with drugs, addiction can form even after a single dose of a drug. Therefore, it is not worth trying.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9213895815081878
+      }
+    },
+    {
+      "question": "What common feature do drugs, alcohol, and smoking share?",
+      "context": "They can affect the processes of fertilization, growth and development of the fetus, which can be the cause of birth defects.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8727992957746479
+      }
+    },
+    {
+      "question": "What is the impact of environmental factors on human health?",
+      "context": "Environmental stress factors and health Topic 6",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8372233400402415
+      }
+    },
+    {
+      "question": "What are environmental factors divided into?",
+      "context": "They are part of the environment and are very diverse in their origin.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8016431924882629
+      }
+    },
+    {
+      "question": "What is an antigen?",
+      "context": "What is an antigen?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.7693661971830985
+      }
+    },
+    {
+      "question": "Why are people vaccinated?",
+      "context": "Why are people vaccinated?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.9471830985915493
+      }
+    },
+    {
+      "question": "What is the difference between central and peripheral organs of the immune system?",
+      "context": "The central organs are the thymus and bone marrow (Fig. 21.1). All other organs (spleen, tonsils, lymph nodes, appendix, Peyer's patches) are peripheral.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8559859154929578
+      }
+    },
+    {
+      "question": "What are the peripheral organs of the immune system located on?",
+      "context": "The peripheral organs of the immune system are located on the paths of possible spread of pathogens that can penetrate the human body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8279342723004695
+      }
+    },
+    {
+      "question": "What is the largest organ of the immune system?",
+      "context": "It is where T-lymphocytes mature and “train” and then acquire the ability to recognize certain antigens. The largest organ of the immune system is the spleen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.773054996646546
+      }
+    },
+    {
+      "question": "What type of immunity works due to the activity of B lymphocytes?",
+      "context": "Humoral immunity was discovered by P. Ehrlich. Humoral immunity works due to the activity of B lymphocytes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.83119931711481
+      }
+    },
+    {
+      "question": "What type of cells are responsible for recognizing antigens in cellular immunity?",
+      "context": "Cellular immunity is provided by T-lymphocytes, neutrophils and macrophages. They have receptors on their surface that can recognize a certain antigen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8663648558014755
+      }
+    },
+    {
+      "question": "What happens to T-lymphocytes in the thymus?",
+      "context": "The thymus is a gland that is very active in young people, and then reduces its activity. It is where T-lymphocytes mature and “train” and then acquire the ability to recognize certain antigens.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8268872494224607
+      }
+    },
+    {
+      "question": "What do B lymphocytes produce after recognizing an antigen?",
+      "context": "Humoral immunity works due to the activity of B lymphocytes. These cells contain receptors that can recognize antigens. After recognizing an antigen, B lymphocytes multiply and produce antibodies - highly specific proteins that can interact only with certain antigen molecules.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9016833735143595
+      }
+    },
+    {
+      "question": "What is the main mechanism of action for T-lymphocytes in cellular immunity?",
+      "context": "Cellular immunity was discovered by I. I. Mechnikov. In the event of interaction with this antigen, T-lymphocytes begin to multiply rapidly, forming a large number of cells that destroy microorganisms that carry this antigen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8314553990610328
+      }
+    },
+    {
+      "question": "What are the cells responsible for providing cellular immunity?",
+      "context": "Cellular immunity is provided by T-lymphocytes, neutrophils and macrophages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is immunotherapy?",
+      "context": "Immunotherapy is a branch of immunology that deals with the study and application of treatment methods using immunobiological preparations (vaccines, serums, interferons, bacteriophages, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6919779546846295
+      }
+    },
+    {
+      "question": "What is the main goal of immunocorrection?",
+      "context": "Immunocorrection and immunotherapy have a single goal - to provide a person with health by destroying pathogenic organisms in his body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7640342052313883
+      }
+    },
+    {
+      "question": "What are the substances used to activate the immune system during immunocorrection?",
+      "context": "During immunocorrection, special substances are used - immunomodulators (immunostimulators). These substances can be of natural or artificial origin.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8736536868268434
+      }
+    },
+    {
+      "question": "What is the target of action for vaccines and other agents used in immunotherapy?",
+      "context": "During immunotherapy, the object of action is not the immune system, but the pathogens themselves. Vaccines, serums, bacteriophages and other agents used in immunotherapy act exclusively on pathogenic organisms and destroy them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8468223131894818
+      }
+    },
+    {
+      "question": "What are immunomodulators used for?",
+      "context": "une system, special substances are used - immunomodulators (immunostimulators).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8658841940532082
+      }
+    },
+    {
+      "question": "What is the main mechanism of antigen-antibody interaction?",
+      "context": "Mechanism of antigen-antibody interaction One of the key elements of neutralization\nof antigens that have entered the body is the interaction\nof these antigens with antibodies.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7800273865414711
+      }
+    },
+    {
+      "question": "Who discovered cellular and humoral immunity?",
+      "context": "Cellular immunity was discovered by I. Mechnikov, and humoral immunity by P. Ehrlich.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9431284677763551
+      }
+    },
+    {
+      "question": "What human diseases are not associated with the activity of ¬pathogenic organisms?",
+      "context": "Non-communicable human diseases Previously, the main cause of death for people was diseases caused by various infections.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8463908450704225
+      }
+    },
+    {
+      "question": "What is a healthy lifestyle?",
+      "context": "What are the main components of a healthy lifestyle?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.7438184663536777
+      }
+    },
+    {
+      "question": "What percentage of all non-communicable diseases are accounted for by the most common non-communicable diseases?",
+      "context": "They account for 81% of all non-communicable diseases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.863807847082495
+      }
+    },
+    {
+      "question": "What is the cause of myocardial infarction?",
+      "context": "Myocardial infarction is a disease caused by the death of a section of the heart muscle due to impaired blood circulation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7503912363067293
+      }
+    },
+    {
+      "question": "What are some signs of myocardial infarction?",
+      "context": "long-lasting chest pain; it is quite severe, may radiate to the arm, neck, or back;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8302481556002683
+      }
+    },
+    {
+      "question": "What are common causes of hemorrhagic stroke?",
+      "context": "persistent increase in blood pressure (arterial hypertension)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8651911468812877
+      }
+    },
+    {
+      "question": "How can diabetes mellitus occur?",
+      "context": "glucose cannot also be absorbed if the sensitivity of tissue cells to insulin decreases (type 2 diabetes mellitus).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.936697965571205
+      }
+    },
+    {
+      "question": "What is the cause of Type I diabetes mellitus?",
+      "context": "hereditary disorders of the pancreas, in which insulin is produced in insufficient quantities or not produced at all",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7850156494522691
+      }
+    },
+    {
+      "question": "What is acquired resistance to insulin?",
+      "context": "acquired resistance to insulin, in which the insulin produced is not perceived by the body",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7962776659959758
+      }
+    },
+    {
+      "question": "What is a sapronose infection?",
+      "context": "The pathogens of sapronose infections (tetanus, legionellosis) live in natural inanimate (abiotic) habitats (soil, water body, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7891466445733223
+      }
+    },
+    {
+      "question": "What is a zoonotic infection?",
+      "context": "The pathogens of zoonotic infections (plague, foot-and-mouth disease) in the natural environment live in the organisms of certain species of animals (rodents, ungulates, ticks, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7852112676056338
+      }
+    },
+    {
+      "question": "What is an anthroponotic infection?",
+      "context": "The pathogens of anthroponotic infections (measles, chickenpox) live only in the human body and die outside it after a certain time.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.768661971830986
+      }
+    },
+    {
+      "question": "How are sapronous infections typically transmitted?",
+      "context": "Sapronous infections are called infections of unwashed hands, and they enter the body orally (cholera) or through damage to the body's integuments (tetanus).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9071093226022804
+      }
+    },
+    {
+      "question": "What is the habitat of zoonotic infections?",
+      "context": "The pathogens of zoonotic infections (plague, foot-and-mouth disease) in the natural environment live in the organisms of certain species of animals (rodents, ungulates, ticks, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7634808853118713
+      }
+    },
+    {
+      "question": "What is the route of entry for anthroponotic infections?",
+      "context": "Anthroponotic infections are transmitted by direct contact through the respiratory system (measles) or genitals (gonorrhea).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.812206572769953
+      }
+    },
+    {
+      "question": "What is a zoonosis?",
+      "context": "The pathogens of zoonotic infections (plague, foot-and-mouth disease) in the natural environment live in the organisms of certain species of animals (rodents, ungulates, ticks, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7531690140845071
+      }
+    },
+    {
+      "question": "What is an anthroponosis?",
+      "context": "The pathogens of anthroponotic infections (measles, chickenpox) live only in the human body and die outside it after a certain time.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7376760563380282
+      }
+    },
+    {
+      "question": "What is the natural focus of influenza?",
+      "context": "Influenza is transmitted through the respiratory system, and its natural focus is bird and pig populations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7635814889336017
+      }
+    },
+    {
+      "question": "How are tetanus pathogens typically transmitted into the human body?",
+      "context": "Tetanus Bacterium Soil Through skin damage",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9476525821596244
+      }
+    },
+    {
+      "question": "What does vaccination create?",
+      "context": "Vaccination is used to create active artificial immunity,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8309859154929577
+      }
+    },
+    {
+      "question": "What type of immunity is provided by T-lymphocytes?",
+      "context": "Provided by T-lymphocytes",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8415492957746479
+      }
+    },
+    {
+      "question": "What does 'immunotherapy' refer to in the context of immunology?",
+      "context": "Immunotherapy is a branch of immunology that deals with the study and application of treatment methods using immunobiological drugs (vaccines, serums, interferons, bacteriophages, etc.)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8157379056950398
+      }
+    },
+    {
+      "question": "What is Immunotherapy?",
+      "context": "Immunotherapy is a branch of immunology that deals with the study and application of treatment methods using immunobiological drugs (vaccines, serums, interferons, bacteriophages, etc.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6916717697489283
+      }
+    },
+    {
+      "question": "What is Immunocorrection?",
+      "context": "Immunocorrection is a set of methods and methods for the treatment and prevention of disorders of the human immune system.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6685446009389672
+      }
+    },
+    {
+      "question": "What are the main areas of modern ecology?",
+      "context": "The main areas of modern ecology are general, special and applied, which have their own separate branches.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.791476801988401
+      }
+    },
+    {
+      "question": "What does special ecology study?",
+      "context": "Special ecology studies the ecology of individual systematic (animals, plants, fungi, etc.) or ecological (parasites, hydrobionts, etc.) groups of organisms or specific types of ecosystems (urban ecology, for example, studies the ecology of cities).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8653521126760564
+      }
+    },
+    {
+      "question": "What is applied ecology focused on?",
+      "context": "Applied ecology studies the effect of individual factors on ecosystems and is aimed at solving practical problems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8108947804473903
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who discovered cellular and humoral immunity?",
+      "context": "Cellular immunity was discovered by I. Mechnikov, and humoral immunity by P. Ehrlich.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9431284677763551
+      }
+    },
+    {
+      "question": "How are tetanus pathogens typically transmitted into the human body?",
+      "context": "Tetanus Bacterium Soil Through skin damage",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9476525821596244
+      }
+    },
+    {
+      "question": "How does drug addiction compare to addiction from smoking and alcohol use?",
+      "context": "But with drugs, addiction can form even after a single dose of a drug. Therefore, it is not worth trying.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9213895815081878
+      }
+    },
+    {
+      "question": "Why is regular alternation of work and rest important?",
+      "context": "Continuous and constant stress not only has a bad effect on a person's physical condition, but also has extremely negative mental consequences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9055555555555556
+      }
+    },
+    {
+      "question": "What happens when a person who consumes alcohol loses control over their actions?",
+      "context": "Under the influence of alcohol, a person often loses control ¬over his actions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8889490790899242
+      }
+    }
+  ]
+}

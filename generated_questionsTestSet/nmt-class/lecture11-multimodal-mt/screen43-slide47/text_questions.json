@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How do early models insert punctuations into a sequence of words?",
+      "context": "About the segmentation, if we have a sequence of words, how do we insert punctuations?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6988636363636364
+      }
+    },
+    {
+      "question": "What is another approach to inserting punctuations into a sequence of words?",
+      "context": "Another approach would be to use sequence labeling algorithms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "How do sequence labeling algorithms determine which punctuation to insert after a word?",
+      "context": "So you have a stream of words, a sequence of words and for every word you are adding a tag as in part of speech tagging...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8154761904761905
+      }
+    },
+    {
+      "question": "Can machine translation systems be used to insert punctuations into a sequence of English words?",
+      "context": "And there are many techniques, many underlying approaches possible.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7697916666666667
+      }
+    },
+    {
+      "question": "How does the inclusion of sound information affect the insertion of punctuations in machine translation systems?",
+      "context": "...if you go for the machine translation, then probably there is...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8652597402597403
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can machine translation systems be used to insert punctuations into a sequence of English words?",
+      "context": "And there are many techniques, many underlying approaches possible.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7697916666666667
+      }
+    },
+    {
+      "question": "What is another approach to inserting punctuations into a sequence of words?",
+      "context": "Another approach would be to use sequence labeling algorithms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "How do sequence labeling algorithms determine which punctuation to insert after a word?",
+      "context": "So you have a stream of words, a sequence of words and for every word you are adding a tag as in part of speech tagging...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8154761904761905
+      }
+    }
+  ]
+}

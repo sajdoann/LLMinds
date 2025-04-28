@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the document?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What are some methods needed to align a corpus at sentence and word level?",
+      "context": "That's the history of Cheng. And now let's briefly review all the methods that are needed if you want to end up with a corpus that is automatically sentence and word level aligned.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What is the expected outcome of using these alignment methods?",
+      "context": "That's the history of Cheng. And now let's briefly review all the methods that are needed if you want to end up with a corpus that is automatically sentence and word level aligned.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6125
+      }
+    },
+    {
+      "question": "What can be inferred about the content of the document?",
+      "context": "That's the history of Cheng. And now let's briefly review all the methods that are needed if you want to end up with a corpus that is automatically sentence and word level aligned.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5694444444444444
+      }
+    },
+    {
+      "question": "What kind of analysis can be done on the document's content?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be inferred about the content of the document?",
+      "context": "That's the history of Cheng. And now let's briefly review all the methods that are needed if you want to end up with a corpus that is automatically sentence and word level aligned.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5694444444444444
+      }
+    },
+    {
+      "question": "What are some methods needed to align a corpus at sentence and word level?",
+      "context": "That's the history of Cheng. And now let's briefly review all the methods that are needed if you want to end up with a corpus that is automatically sentence and word level aligned.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What is the expected outcome of using these alignment methods?",
+      "context": "That's the history of Cheng. And now let's briefly review all the methods that are needed if you want to end up with a corpus that is automatically sentence and word level aligned.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6125
+      }
+    }
+  ]
+}

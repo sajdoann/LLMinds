@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of task involves assigning words to their respective categories?",
+      "context": "Then you have all these different wordings and you can ask a third set of annotators to put them on the scale, to organize them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7060276679841897
+      }
+    },
+    {
+      "question": "What is the purpose of organizing words according to their categories?",
+      "context": "to organize them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4431818181818181
+      }
+    },
+    {
+      "question": "How do annotators currently handle different wordings in their task?",
+      "context": "Then you have all these different wordings and you can ask a third set of annotators to put them on the scale, to organize them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7673913043478261
+      }
+    },
+    {
+      "question": "What is the expected outcome of asking a new set of annotators to categorize words?",
+      "context": "to organize them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4821428571428572
+      }
+    },
+    {
+      "question": "Why is it necessary to involve a third set of annotators in the task?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do annotators currently handle different wordings in their task?",
+      "context": "Then you have all these different wordings and you can ask a third set of annotators to put them on the scale, to organize them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7673913043478261
+      }
+    },
+    {
+      "question": "What is the expected outcome of asking a new set of annotators to categorize words?",
+      "context": "to organize them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4821428571428572
+      }
+    },
+    {
+      "question": "What is the purpose of organizing words according to their categories?",
+      "context": "to organize them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4431818181818181
+      }
+    }
+  ]
+}

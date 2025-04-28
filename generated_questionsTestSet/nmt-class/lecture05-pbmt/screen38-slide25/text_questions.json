@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first step in the comparison between the two hypotheses?",
+      "context": "the candidate translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7541666666666667
+      }
+    },
+    {
+      "question": "How does the future cost estimate improve the comparison between the two hypotheses?",
+      "context": "to avoid dead-end roads",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8096590909090909
+      }
+    },
+    {
+      "question": "What is the total score when translating hard words first, taking into account the future cost estimate?",
+      "context": "the total score will be 6 plus 5.88 that's 11.98",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8328125
+      }
+    },
+    {
+      "question": "How does the system's tendency to translate easy words first affect its performance?",
+      "context": "stuck in a dead-end road",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8634615384615385
+      }
+    },
+    {
+      "question": "What is the implication of paying the higher price first, according to the future cost estimate?",
+      "context": "for like a good investment you are translating the hard phrases. Later the path will be smoother and easier for you",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8313492063492063
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the first step in the comparison between the two hypotheses?",
+      "context": "the candidate translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7541666666666667
+      }
+    },
+    {
+      "question": "What is the total score when translating hard words first, taking into account the future cost estimate?",
+      "context": "the total score will be 6 plus 5.88 that's 11.98",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8328125
+      }
+    },
+    {
+      "question": "How does the future cost estimate improve the comparison between the two hypotheses?",
+      "context": "to avoid dead-end roads",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8096590909090909
+      }
+    },
+    {
+      "question": "How does the system's tendency to translate easy words first affect its performance?",
+      "context": "stuck in a dead-end road",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8634615384615385
+      }
+    }
+  ]
+}

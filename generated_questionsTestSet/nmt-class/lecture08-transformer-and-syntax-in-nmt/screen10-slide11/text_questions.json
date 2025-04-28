@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What kind of sublayers does a transformer have?",
+      "context": "The specific part of the document where this information is mentioned",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "How many layers are in the feedforward network of the transformer?",
+      "context": "The part of the document that describes the architecture of the transformer",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.653125
+      }
+    },
+    {
+      "question": "What is the main difference between the encoder and decoder sublayers of a transformer?",
+      "context": "The section where the distinction between the two is explained",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7151442307692307
+      }
+    },
+    {
+      "question": "What can be achieved by only using six layers of feedforward network in a transformer?",
+      "context": "The part of the document that discusses the limitations of this approach",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How does self-attention contribute to the processing capacity of a transformer?",
+      "context": "The section where self-attention is highlighted as an important component",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7284090909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of sublayers does a transformer have?",
+      "context": "The specific part of the document where this information is mentioned",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "What can be achieved by only using six layers of feedforward network in a transformer?",
+      "context": "The part of the document that discusses the limitations of this approach",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How many layers are in the feedforward network of the transformer?",
+      "context": "The part of the document that describes the architecture of the transformer",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.653125
+      }
+    },
+    {
+      "question": "How does self-attention contribute to the processing capacity of a transformer?",
+      "context": "The section where self-attention is highlighted as an important component",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7284090909090909
+      }
+    },
+    {
+      "question": "What is the main difference between the encoder and decoder sublayers of a transformer?",
+      "context": "The section where the distinction between the two is explained",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7151442307692307
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the term for building two separate systems in pivot translation?",
+      "context": "Something which is very old, an old idea and well-tested, is called pivot translation or cascading.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "Why would it be beneficial to use pivoting or piloting in the spoken domain?",
+      "context": "That's why this pivoting or piloting in the spoken domain can be beneficial.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8605769230769231
+      }
+    },
+    {
+      "question": "What is the term for a system that can digest various source languages?",
+      "context": "So what you can do is you can work on a system which happily digest various source languages and this would be called multilingual source site.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8127090301003345
+      }
+    },
+    {
+      "question": "What are the three types of multilingual systems mentioned in the document?",
+      "context": "And that highlights that you are expecting to have multiple inputs at the same time. And you can do the same set up on the target side.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8041125541125541
+      }
+    },
+    {
+      "question": "What is zero-shot training in the context of machine translation?",
+      "context": "So that's the zero-shot. The source language was included among the sources. The target was included. but the pair of the two languages was never there.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7789473684210526
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the term for a system that can digest various source languages?",
+      "context": "So what you can do is you can work on a system which happily digest various source languages and this would be called multilingual source site.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8127090301003345
+      }
+    },
+    {
+      "question": "Why would it be beneficial to use pivoting or piloting in the spoken domain?",
+      "context": "That's why this pivoting or piloting in the spoken domain can be beneficial.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8605769230769231
+      }
+    },
+    {
+      "question": "What are the three types of multilingual systems mentioned in the document?",
+      "context": "And that highlights that you are expecting to have multiple inputs at the same time. And you can do the same set up on the target side.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8041125541125541
+      }
+    }
+  ]
+}

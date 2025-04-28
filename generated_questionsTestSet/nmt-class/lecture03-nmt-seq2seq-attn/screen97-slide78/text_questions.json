@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of using a pre-translation in the neural network?",
+      "context": "The benefits of attention is that they are very flexible and they are learned in a very clever way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7535511363636364
+      }
+    },
+    {
+      "question": "How did Jan Juhers implement the attention mechanism in his system?",
+      "context": "So when a colleague of mine Jan Juhers tried to use two inputs, so he wanted to benefit from the standard systems in Juhl-MT, ...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8157114624505929
+      }
+    },
+    {
+      "question": "What happened with the neural network's attention mechanism when it had access to pre-translation?",
+      "context": "...the neural network had access to the pre-translation from the classical phrase-based MT and it was an attentive approach, ...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8162593984962406
+      }
+    },
+    {
+      "question": "Why did the neural network automatically learn the correspondence between two diagonals?",
+      "context": "...it like trusted the pre-translation. But as you see it is like there is no rule in the system which would say attention should be diagonal because most of languages have similar word or there is maybe like some swaps of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8704545454545455
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the benefits of attention mechanisms based on Jan Juhers' experiment?",
+      "context": "...So this attention mechanism is very flexible and sometimes it actually attended more to the pre-translation than it attended to the source sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8100328947368421
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of using a pre-translation in the neural network?",
+      "context": "The benefits of attention is that they are very flexible and they are learned in a very clever way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7535511363636364
+      }
+    },
+    {
+      "question": "Why did the neural network automatically learn the correspondence between two diagonals?",
+      "context": "...it like trusted the pre-translation. But as you see it is like there is no rule in the system which would say attention should be diagonal because most of languages have similar word or there is maybe like some swaps of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8704545454545455
+      }
+    },
+    {
+      "question": "How did Jan Juhers implement the attention mechanism in his system?",
+      "context": "So when a colleague of mine Jan Juhers tried to use two inputs, so he wanted to benefit from the standard systems in Juhl-MT, ...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8157114624505929
+      }
+    }
+  ]
+}

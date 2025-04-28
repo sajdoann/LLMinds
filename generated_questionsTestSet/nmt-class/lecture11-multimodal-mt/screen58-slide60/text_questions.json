@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a critical thing in a system that can kill it?",
+      "context": "is a critical thing because it can kill the whole show.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "Why would people not be able to read subtitles even if they were perfect and deployed in good timing?",
+      "context": "if you are deploying this system, you really need to make sure that it is deployed in a good setting.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.8486842105263158
+      }
+    },
+    {
+      "question": "What kind of reordering can cause significant updates and lead to people losing the message?",
+      "context": "If there is like significant reordering in the updates, then you are again going to lose the person.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8063725490196079
+      }
+    },
+    {
+      "question": "What usability issues need to be addressed when deploying a system with subtitles?",
+      "context": "...so maybe if the subtitles are too small and they would be perfect with perfect timing, still people would not be able to read them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7950174825174825
+      }
+    },
+    {
+      "question": "What is the consequence of not addressing usability issues when deploying a system with subtitles?",
+      "context": "...so there is a lot of usability things that you have to...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7541666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a critical thing in a system that can kill it?",
+      "context": "is a critical thing because it can kill the whole show.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "Why would people not be able to read subtitles even if they were perfect and deployed in good timing?",
+      "context": "if you are deploying this system, you really need to make sure that it is deployed in a good setting.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.8486842105263158
+      }
+    },
+    {
+      "question": "What usability issues need to be addressed when deploying a system with subtitles?",
+      "context": "...so maybe if the subtitles are too small and they would be perfect with perfect timing, still people would not be able to read them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7950174825174825
+      }
+    }
+  ]
+}

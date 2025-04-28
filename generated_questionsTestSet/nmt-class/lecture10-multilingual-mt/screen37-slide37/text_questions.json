@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal of running multiple systems in parallel for translation?",
+      "context": "In multi-target focus, you would focus on efficiency.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8161057692307692
+      }
+    },
+    {
+      "question": "How does the author envision using morphological information to improve translations?",
+      "context": "So when you are translating the German word Schloss to French, it would be easier if you already had a translation into English and this translation in English would have already disambiguated whether this is a castle or a lock.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "What challenges does the author face when working with multiple languages?",
+      "context": "I don't It's multilingual, you have many languages, but you have only pairs.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "Why is it easier to obtain a dataset for multi-source setup than a multiparallel corpus?",
+      "context": "And this is a dataset which is much easier to obtain than this multiparlallel corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8880494505494505
+      }
+    },
+    {
+      "question": "What benefits does the author expect to gain from running one system for multiple languages at once?",
+      "context": "So that would be beneficial and that's what we are trying.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.802807486631016
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is it easier to obtain a dataset for multi-source setup than a multiparallel corpus?",
+      "context": "And this is a dataset which is much easier to obtain than this multiparlallel corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8880494505494505
+      }
+    },
+    {
+      "question": "How does the author envision using morphological information to improve translations?",
+      "context": "So when you are translating the German word Schloss to French, it would be easier if you already had a translation into English and this translation in English would have already disambiguated whether this is a castle or a lock.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "What benefits does the author expect to gain from running one system for multiple languages at once?",
+      "context": "So that would be beneficial and that's what we are trying.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.802807486631016
+      }
+    },
+    {
+      "question": "What challenges does the author face when working with multiple languages?",
+      "context": "I don't It's multilingual, you have many languages, but you have only pairs.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ]
+}

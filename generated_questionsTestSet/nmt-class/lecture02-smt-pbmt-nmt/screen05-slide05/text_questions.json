@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who introduced the statistical approach to machine translation after World War II?",
+      "context": "performance and domain specificity of those systems. So some important people from the history, just a handful of them. Warren Weaver was the first one to introduce this statistical approach and",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8005952380952381
+      }
+    },
+    {
+      "question": "What is Noam Chomsky's opinion on the notion of probability of a sentence in machine translation?",
+      "context": "Noam Chomsky, a famous linguist, said that the notion of probability of a sentence is totally useless, is ill-defined, there is no way to define this notion of probability of a sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8204545454545454
+      }
+    },
+    {
+      "question": "What is the main focus of engineers in machine translation systems?",
+      "context": "Linguists are interested in those exceptions. So if you have someone in your team who is constantly bringing exceptions into the consideration and who is distracting you with these exceptions, then you can focus badly.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7473484848484848
+      }
+    },
+    {
+      "question": "How do linguists contribute to machine translation systems?",
+      "context": "And if you are hiding something which is critically important for the general performance, then this will fire back to you sooner or later anyway.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7447916666666666
+      }
+    },
+    {
+      "question": "What approach does Jelinek use in his machine translation system?",
+      "context": "Then practical people, I would like to mention Frederick Jelinek or Jelinek or he was a Czech guy and in the 80s he worked for IBM",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7521739130434782
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who introduced the statistical approach to machine translation after World War II?",
+      "context": "performance and domain specificity of those systems. So some important people from the history, just a handful of them. Warren Weaver was the first one to introduce this statistical approach and",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8005952380952381
+      }
+    },
+    {
+      "question": "What is Noam Chomsky's opinion on the notion of probability of a sentence in machine translation?",
+      "context": "Noam Chomsky, a famous linguist, said that the notion of probability of a sentence is totally useless, is ill-defined, there is no way to define this notion of probability of a sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8204545454545454
+      }
+    },
+    {
+      "question": "How do linguists contribute to machine translation systems?",
+      "context": "And if you are hiding something which is critically important for the general performance, then this will fire back to you sooner or later anyway.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7447916666666666
+      }
+    }
+  ]
+}

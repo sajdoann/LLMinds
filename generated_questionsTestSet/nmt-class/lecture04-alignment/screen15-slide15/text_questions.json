@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'BLOF' stand for?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.35
+      }
+    },
+    {
+      "question": "What does 'autofocular' mean?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.34375
+      }
+    },
+    {
+      "question": "What is 'BLOF' related to?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.32499999999999996
+      }
+    },
+    {
+      "question": "What is 'autofocal' rate?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.3125
+      }
+    },
+    {
+      "question": "What is the significance of using 'all these datasets' in relation to BLOF?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.4423076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'BLOF' stand for?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.35
+      }
+    },
+    {
+      "question": "What is 'BLOF' related to?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.32499999999999996
+      }
+    },
+    {
+      "question": "What is 'autofocal' rate?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.3125
+      }
+    },
+    {
+      "question": "What is the significance of using 'all these datasets' in relation to BLOF?",
+      "context": "And if we use all these datasets except for the in-domain training data, then we are at BLOF 9 and the lowest autofocular rate so far.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.4423076923076923
+      }
+    }
+  ]
+}

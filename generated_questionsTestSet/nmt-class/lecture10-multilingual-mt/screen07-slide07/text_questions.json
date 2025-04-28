@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What improvements can occur in a machine learning model?",
+      "context": "And there can be even three places where the improvements can appear.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8156565656565656
+      }
+    },
+    {
+      "question": "What is the initial performance of a machine learning model capable of improving?",
+      "context": "At the beginning, the initial performance could be better.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How does the final performance of a machine learning model compare to its initial performance?",
+      "context": "the final performance should be better.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the outcome of experiments involving transfer of neural machine translation system?",
+      "context": "These curves are really based on experiments with transfer of neural machine translation system.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8764880952380952
+      }
+    },
+    {
+      "question": "Which language pairs were involved in the mentioned experiments?",
+      "context": "I forgot what language pairs are behind this, but it actually helps.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9340277777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What improvements can occur in a machine learning model?",
+      "context": "And there can be even three places where the improvements can appear.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8156565656565656
+      }
+    },
+    {
+      "question": "What is the outcome of experiments involving transfer of neural machine translation system?",
+      "context": "These curves are really based on experiments with transfer of neural machine translation system.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8764880952380952
+      }
+    },
+    {
+      "question": "What is the initial performance of a machine learning model capable of improving?",
+      "context": "At the beginning, the initial performance could be better.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.71875
+      }
+    }
+  ]
+}

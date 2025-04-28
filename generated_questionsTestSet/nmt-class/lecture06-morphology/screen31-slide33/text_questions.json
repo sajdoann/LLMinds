@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the final goal of the path?",
+      "context": "The final sentence of the document.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5785714285714285
+      }
+    },
+    {
+      "question": "How does the probability of a path determine its significance?",
+      "context": "The phrase 'has the overall highest probability' in the document.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.715625
+      }
+    },
+    {
+      "question": "Is the final choice determined by multiple factors, or is there only one factor?",
+      "context": "The lack of specific details about what determines the final choice.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7759615384615385
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of a path based on its probability?",
+      "context": "The context in which the phrase 'overall highest probability' is used.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7714285714285714
+      }
+    },
+    {
+      "question": "Is there any information about what happens when multiple paths have the same overall highest probability?",
+      "context": "The lack of specific details about how probabilities are handled in the document.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7604166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the final goal of the path?",
+      "context": "The final sentence of the document.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5785714285714285
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of a path based on its probability?",
+      "context": "The context in which the phrase 'overall highest probability' is used.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7714285714285714
+      }
+    },
+    {
+      "question": "How does the probability of a path determine its significance?",
+      "context": "The phrase 'has the overall highest probability' in the document.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.715625
+      }
+    },
+    {
+      "question": "Is the final choice determined by multiple factors, or is there only one factor?",
+      "context": "The lack of specific details about what determines the final choice.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7759615384615385
+      }
+    }
+  ]
+}

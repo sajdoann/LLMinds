@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are new Turing machines at the heart of attention?",
+      "context": "What is at the heart of attention?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why do these new Turing machines differ from others?",
+      "context": "Well, these new Turing machines don't...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What is the implication of these new Turing machines on attention?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Are there any specific characteristics or features of these new Turing machines that are worth noting?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose or goal of designing these new Turing machines?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are new Turing machines at the heart of attention?",
+      "context": "What is at the heart of attention?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose or goal of designing these new Turing machines?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What is the implication of these new Turing machines on attention?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Are there any specific characteristics or features of these new Turing machines that are worth noting?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ]
+}

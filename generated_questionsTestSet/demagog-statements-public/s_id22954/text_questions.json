@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the estimated deficit in the government's plan for the next year?",
+      "context": "The document states that the Ministerstvo financí počítal s deficitem 235 miliard korun, and later settled on a deficit of 252 miliard.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.518939393939394
+      }
+    },
+    {
+      "question": "Why was the initial plan for the next year's budget revised?",
+      "context": "The document states that the government accepted a preliminary plan from the Ministry of Finance, which was not a final draft.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5305555555555556
+      }
+    },
+    {
+      "question": "What is the maximum allowed deficit in the government's budget for the next year?",
+      "context": "The document states that the government accepted a preliminary plan with a deficit of 235 miliard, but later clarified that the final deficit would not exceed 270 miliard.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.4524456521739131
+      }
+    },
+    {
+      "question": "What is the expected outcome for the government's budget for the next year?",
+      "context": "The document states that the government accepted a preliminary plan with a deficit of 235 miliard, and later clarified that the final deficit would be 252 miliard.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.3977272727272727
+      }
+    },
+    {
+      "question": "What is the total budget for the next year?",
+      "context": "The document states that the Ministry of Finance presented a plan with total revenues of 1,921.2 miliardy korun and total expenditures of 2,173.2 miliardy korun.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.44062500000000004
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the estimated deficit in the government's plan for the next year?",
+      "context": "The document states that the Ministerstvo financí počítal s deficitem 235 miliard korun, and later settled on a deficit of 252 miliard.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.518939393939394
+      }
+    },
+    {
+      "question": "Why was the initial plan for the next year's budget revised?",
+      "context": "The document states that the government accepted a preliminary plan from the Ministry of Finance, which was not a final draft.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5305555555555556
+      }
+    },
+    {
+      "question": "What is the total budget for the next year?",
+      "context": "The document states that the Ministry of Finance presented a plan with total revenues of 1,921.2 miliardy korun and total expenditures of 2,173.2 miliardy korun.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.44062500000000004
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main topic of the speaker's lecture?",
+      "context": "The introduction of the speech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "Where does the concept of micro-apartments originate from?",
+      "context": "The explanation of Mikrowohnungen in Europe",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "What are some key features of a typical micro-apartment?",
+      "context": "The description of the interior of a micro-apartment",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "Why do alternative living forms become important according to the speaker's opinion?",
+      "context": "The explanation of why Mikrowohnungen are becoming more relevant",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is a common misconception about micro-apartments mentioned by the speaker?",
+      "context": "The comment about Luxus in Micro-Apartements",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8049242424242424
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main topic of the speaker's lecture?",
+      "context": "The introduction of the speech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "Why do alternative living forms become important according to the speaker's opinion?",
+      "context": "The explanation of why Mikrowohnungen are becoming more relevant",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Where does the concept of micro-apartments originate from?",
+      "context": "The explanation of Mikrowohnungen in Europe",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "What is a common misconception about micro-apartments mentioned by the speaker?",
+      "context": "The comment about Luxus in Micro-Apartements",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8049242424242424
+      }
+    }
+  ]
+}

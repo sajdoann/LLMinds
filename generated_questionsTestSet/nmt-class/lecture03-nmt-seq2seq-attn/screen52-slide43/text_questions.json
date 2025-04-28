@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the method of decoding used in this approach?",
+      "context": "3Decoding",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What happens at each time step during the decoding process?",
+      "context": "you simply choose the highest scoring word",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How does the approach prioritize words during the decoding process?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What is the purpose of choosing the highest scoring word at each time step?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8846153846153846
+      }
+    },
+    {
+      "question": "Is there any additional information provided about the approach beyond the decoding process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of choosing the highest scoring word at each time step?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8846153846153846
+      }
+    },
+    {
+      "question": "Is there any additional information provided about the approach beyond the decoding process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What happens at each time step during the decoding process?",
+      "context": "you simply choose the highest scoring word",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

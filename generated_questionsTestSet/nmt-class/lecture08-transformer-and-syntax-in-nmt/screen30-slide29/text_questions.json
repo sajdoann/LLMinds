@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary focus of the second head in a clause?",
+      "context": "So this it is actually the subject in the clause",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "How do multi-head attention and different sources of information contribute to sentence translation?",
+      "context": "the decoder or the decoder you have to consider these different sources of information",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7892628205128205
+      }
+    },
+    {
+      "question": "What is the significance of understanding the syntax of a current clause in relation to head number two?",
+      "context": "head number two just automatically from random ways learned to look at the syntax of the current clause",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.6608455882352942
+      }
+    },
+    {
+      "question": "What role do verb parts play in a clause, according to the second head's perspective?",
+      "context": "So the second head puts most attention to the verb parts of this clause",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7198717948717949
+      }
+    },
+    {
+      "question": "Why is it important for a decoder to consider different sources of information when translating a sentence?",
+      "context": "If you look at head number two, the head number two just automatically from random ways learned to look at the syntax of the current clause",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.715625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What role do verb parts play in a clause, according to the second head's perspective?",
+      "context": "So the second head puts most attention to the verb parts of this clause",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7198717948717949
+      }
+    },
+    {
+      "question": "How do multi-head attention and different sources of information contribute to sentence translation?",
+      "context": "the decoder or the decoder you have to consider these different sources of information",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7892628205128205
+      }
+    },
+    {
+      "question": "What is the significance of understanding the syntax of a current clause in relation to head number two?",
+      "context": "head number two just automatically from random ways learned to look at the syntax of the current clause",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.6608455882352942
+      }
+    }
+  ]
+}

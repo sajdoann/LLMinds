@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "Why is it difficult?",
+      "context": "... reasons why that is difficult, why is the ...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "What is the purpose of the text?",
+      "context": "... reasons why that is difficult, why is the ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.41666666666666663
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of the text?",
+      "context": "... reasons why that is difficult, why is the ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.41666666666666663
+      }
+    },
+    {
+      "question": "Why is it difficult?",
+      "context": "... reasons why that is difficult, why is the ...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.375
+      }
+    }
+  ]
+}

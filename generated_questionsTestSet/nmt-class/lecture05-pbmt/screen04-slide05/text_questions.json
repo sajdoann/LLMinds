@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What model do you use when defining the conditional probability of the target sentence given the source?",
+      "context": "The equation which summarizes this, which sums over defined an arbitrary number of and each of these feature functions",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8181372549019608
+      }
+    },
+    {
+      "question": "How do you score each of the candidates with all the features?",
+      "context": "You score each of the candidates with all the features. Each of these features is associated with the weight",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8084415584415585
+      }
+    },
+    {
+      "question": "What happens to the probability estimate within the argmax?",
+      "context": "We are running this probability estimate within the argmax",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7795138888888888
+      }
+    },
+    {
+      "question": "Why do you only want to know which sentence will win in this competition?",
+      "context": "So we can only check who has obtained the highest score of the features",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8406593406593407
+      }
+    },
+    {
+      "question": "What is the purpose of running the log linear model?",
+      "context": "We are actually interested in the sentence itself and not its probability. We only want to know which sentence will win in this competition.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8373015873015873
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the probability estimate within the argmax?",
+      "context": "We are running this probability estimate within the argmax",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7795138888888888
+      }
+    },
+    {
+      "question": "Why do you only want to know which sentence will win in this competition?",
+      "context": "So we can only check who has obtained the highest score of the features",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8406593406593407
+      }
+    },
+    {
+      "question": "How do you score each of the candidates with all the features?",
+      "context": "You score each of the candidates with all the features. Each of these features is associated with the weight",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8084415584415585
+      }
+    }
+  ]
+}

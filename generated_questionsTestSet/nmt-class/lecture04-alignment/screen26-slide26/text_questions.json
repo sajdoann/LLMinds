@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the next step after finding pairs of texts?",
+      "context": "The introduction section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "How do we align sentences for any pair of languages without knowing anything about the languages?",
+      "context": "The problem statement",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5885416666666667
+      }
+    },
+    {
+      "question": "What is the goal of aligning sentences?",
+      "context": "Implicit in the discussion",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5803571428571429
+      }
+    },
+    {
+      "question": "Is there a specific requirement or constraint mentioned for aligning sentences?",
+      "context": "Implicit in the problem statement",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6704545454545454
+      }
+    },
+    {
+      "question": "What is implied about the languages when aligning sentences without prior knowledge?",
+      "context": "The problem statement",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5208333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the next step after finding pairs of texts?",
+      "context": "The introduction section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "Is there a specific requirement or constraint mentioned for aligning sentences?",
+      "context": "Implicit in the problem statement",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6704545454545454
+      }
+    },
+    {
+      "question": "How do we align sentences for any pair of languages without knowing anything about the languages?",
+      "context": "The problem statement",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5885416666666667
+      }
+    },
+    {
+      "question": "What is the goal of aligning sentences?",
+      "context": "Implicit in the discussion",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5803571428571429
+      }
+    },
+    {
+      "question": "What is implied about the languages when aligning sentences without prior knowledge?",
+      "context": "The problem statement",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5208333333333334
+      }
+    }
+  ]
+}

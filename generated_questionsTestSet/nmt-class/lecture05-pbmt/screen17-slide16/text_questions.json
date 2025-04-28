@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is hypothesis expansion?",
+      "context": "We chose how to start, which word to translate, which word should we start the sentence with.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "Why did they choose to start by translating the second word 'get'?",
+      "context": "And one option is to start by translating the second word get. And that can be translated as r.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7048611111111112
+      }
+    },
+    {
+      "question": "What does it mean when a word translates to another word in the input?",
+      "context": "And that is the English word r.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5480769230769231
+      }
+    },
+    {
+      "question": "How did hypothesis expansion help expand the initial hypothesis?",
+      "context": "We have expanded the initial hypothesis with the word that translates the second word in the input and that is the English word r.",
+      "difficulty": "easy-medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7679738562091504
+      }
+    },
+    {
+      "question": "What does 'r' represent in this context?",
+      "context": "And one option is to start by translating the second word get. And that can be translated as r.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.685515873015873
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why did they choose to start by translating the second word 'get'?",
+      "context": "And one option is to start by translating the second word get. And that can be translated as r.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7048611111111112
+      }
+    },
+    {
+      "question": "What does it mean when a word translates to another word in the input?",
+      "context": "And that is the English word r.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5480769230769231
+      }
+    },
+    {
+      "question": "What does 'r' represent in this context?",
+      "context": "And one option is to start by translating the second word get. And that can be translated as r.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.685515873015873
+      }
+    }
+  ]
+}

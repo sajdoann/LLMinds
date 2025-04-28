@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when two hypotheses have the same last two words and only a trigram language model is used?",
+      "context": "The short summary section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "Why can recombining hypotheses that don't have exactly the same output be safe?",
+      "context": "The subtrees of expansion discussion",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5788461538461538
+      }
+    },
+    {
+      "question": "What is the main difference between the scores of two subtrees in recombination?",
+      "context": "The subtrees of expansion discussion",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.55
+      }
+    },
+    {
+      "question": "Why can we ignore the beginning differences when recombining hypotheses?",
+      "context": "The subtrees of expansion discussion",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.575
+      }
+    },
+    {
+      "question": "What is meant by 'safe pruning' or 'safe reduction' in the context of hypothesis recombination?",
+      "context": "The end of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6830357142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when two hypotheses have the same last two words and only a trigram language model is used?",
+      "context": "The short summary section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "Why can recombining hypotheses that don't have exactly the same output be safe?",
+      "context": "The subtrees of expansion discussion",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5788461538461538
+      }
+    },
+    {
+      "question": "Why can we ignore the beginning differences when recombining hypotheses?",
+      "context": "The subtrees of expansion discussion",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.575
+      }
+    }
+  ]
+}

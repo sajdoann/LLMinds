@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Was the translation in the document in the plural form?",
+      "context": "The surface syntactic and morphological attributes of the translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6607142857142857
+      }
+    },
+    {
+      "question": "What is the grammatical function of 'Snudny' in the positive form?",
+      "context": "The information about Snudny's grammatical form",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Was the translation in the document used to describe something that is being compared to others?",
+      "context": "The comparison or contrast between different forms of 'Snudny'",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7817460317460317
+      }
+    },
+    {
+      "question": "What is the relationship between the translation and its grammatical form?",
+      "context": "The information about the translation's surface attributes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6833333333333333
+      }
+    },
+    {
+      "question": "Can we determine the comparative or superlative form of 'Snudny' from the document?",
+      "context": "The absence of comparative or superlative forms mentioned in the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the relationship between the translation and its grammatical form?",
+      "context": "The information about the translation's surface attributes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6833333333333333
+      }
+    },
+    {
+      "question": "Can we determine the comparative or superlative form of 'Snudny' from the document?",
+      "context": "The absence of comparative or superlative forms mentioned in the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What is the grammatical function of 'Snudny' in the positive form?",
+      "context": "The information about Snudny's grammatical form",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Was the translation in the document used to describe something that is being compared to others?",
+      "context": "The comparison or contrast between different forms of 'Snudny'",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7817460317460317
+      }
+    }
+  ]
+}

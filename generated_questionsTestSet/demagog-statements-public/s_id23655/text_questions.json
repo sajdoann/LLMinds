@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the Czech Statistical Office publishing?",
+      "context": "<p>Český statistický úřad (ČSÚ) publikuje demografickou projekci každých pět let (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.783008658008658
+      }
+    },
+    {
+      "question": "What is the expected development of mortality rate, fertility rate, and migration in the Czech Republic according to the latest projection?",
+      "context": "<p>Autoři studií ČSÚ uvádějí, že střední varianta představuje nejpravděpodobnější scénář budoucího vývoje populace (<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8262626262626263
+      }
+    },
+    {
+      "question": "Projections of the population of the Czech Republic.",
+      "context": "The projections of the population of the Czech Republic are based on the medium variant, which is the most likely scenario for future development (<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8062770562770563
+      }
+    },
+    {
+      "question": "What is the trend in life expectancy?",
+      "context": "The projections of the population of the Czech Republic show that the life expectancy is expected to increase, with a growth of 5.2 years for men and 4.1 years for women between 2023 and 2050 (<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.748320644872369
+      }
+    },
+    {
+      "question": "Proč klesá podíl produktivního obyvatelstva?",
+      "context": "Projekce ČSÚ předpovídají, že především v následujících 40 letech dojde k poklesu podílu produktivního obyvatelства.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9727272727272728
+      }
+    },
+    {
+      "question": "Kdy se bude počet lidí v produktivním věku snížit na úroveň 6 milionů?",
+      "context": "Na konci století se podle Střední varianty demografické projekce z roku 2023 počet lidí v produktivním věku sníží na 5,39 milionu osob.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.987012987012987
+      }
+    },
+    {
+      "question": "What is the projected decrease in the proportion of people in a productive age group over the next 40 years?",
+      "context": "ředitě v&nbsp;následujících 40&nbsp;letech dojde k&nbsp;poklesu podílu produktivního obyvatelstva, jednotlivé dokumenty nicméně zmiňují mírně odlišná čísla.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8919786096256684
+      }
+    },
+    {
+      "question": "What is the average number of children born per woman in Czech Republic according to statistic data?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7433155080213905
+      }
+    },
+    {
+      "question": "What is the current trend in fertility rates?",
+      "context": "According to the latest data from ČSÚ, the fertility rate has decreased to 1.45 children per woman (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7426470588235294
+      }
+    },
+    {
+      "question": "What is the expected trend in fertility rates according to the latest projections?",
+      "context": "According to the latest projections by ČSÚ, the fertility rate is expected to remain stable at 1.5 children per woman (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7636363636363637
+      }
+    },
+    {
+      "question": "What are the results of the latest projections compared to previous ones?",
+      "context": ">„z&nbsp;pohledu důchodového systému“</i> horší výsledky než předchozí odhady.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8548553719008265
+      }
+    },
+    {
+      "question": "What is the expected development of the share of the population in productive age compared to previous projections?",
+      "context": "Projekce z&nbsp;roku 2023 ukazuje horší výsledky až pro posledních 20&nbsp;let tohoto století, pro roky 2031–2071 (tedy pro následujících 50&nbsp;let) naopak předpokládá lepší rozvoj než starší projekce.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8393939393939394
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the results of the latest projections compared to previous ones?",
+      "context": ">„z&nbsp;pohledu důchodového systému“</i> horší výsledky než předchozí odhady.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8548553719008265
+      }
+    },
+    {
+      "question": "Proč klesá podíl produktivního obyvatelstva?",
+      "context": "Projekce ČSÚ předpovídají, že především v následujících 40 letech dojde k poklesu podílu produktivního obyvatelства.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9727272727272728
+      }
+    },
+    {
+      "question": "What is the projected decrease in the proportion of people in a productive age group over the next 40 years?",
+      "context": "ředitě v&nbsp;následujících 40&nbsp;letech dojde k&nbsp;poklesu podílu produktivního obyvatelstva, jednotlivé dokumenty nicméně zmiňují mírně odlišná čísla.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8919786096256684
+      }
+    }
+  ]
+}

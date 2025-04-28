@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the model that relies on lexical translation probabilities and the full probability of the target given the source across all the alignments?",
+      "context": "We are after finding the probability of the alignment given the source and target sentences. We have used the chain rule to find the definition of the IBM model 1.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42105263157894735,
+        "diversity_score": 0.37551759834368525
+      }
+    },
+    {
+      "question": "What is the purpose of using the chain rule in the context of machine translation?",
+      "context": "We are after finding the probability of the alignment given the source and target sentences. We have used the chain rule to find the definition of the IBM model 1.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.4633152173913043
+      }
+    },
+    {
+      "question": "How does the IBM model 1 define the full probability of the target given the source?",
+      "context": "Now we have defined a way to calculate the probability of the alignment given the source and target sentences, using the chain rule. Now we have",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.39038461538461533
+      }
+    },
+    {
+      "question": "What is the relationship between lexical translation probabilities and the full probability of the target given the source in the IBM model 1?",
+      "context": "Now we have defined a way to calculate the probability of the alignment given the source and target sentences, using the chain rule. Now we have",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.38026315789473686
+      }
+    },
+    {
+      "question": "What is implied by stating that the IBM model 1 relies on both lexical translation probabilities and the full probability of the target given the source?",
+      "context": "We are after finding the probability of the alignment given the source and target sentences. We have used the chain rule to find the definition of the IBM model 1.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42105263157894735,
+        "diversity_score": 0.38043478260869557
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is implied by stating that the IBM model 1 relies on both lexical translation probabilities and the full probability of the target given the source?",
+      "context": "We are after finding the probability of the alignment given the source and target sentences. We have used the chain rule to find the definition of the IBM model 1.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42105263157894735,
+        "diversity_score": 0.38043478260869557
+      }
+    },
+    {
+      "question": "What is the purpose of using the chain rule in the context of machine translation?",
+      "context": "We are after finding the probability of the alignment given the source and target sentences. We have used the chain rule to find the definition of the IBM model 1.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.4633152173913043
+      }
+    },
+    {
+      "question": "What is the relationship between lexical translation probabilities and the full probability of the target given the source in the IBM model 1?",
+      "context": "Now we have defined a way to calculate the probability of the alignment given the source and target sentences, using the chain rule. Now we have",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.38026315789473686
+      }
+    }
+  ]
+}

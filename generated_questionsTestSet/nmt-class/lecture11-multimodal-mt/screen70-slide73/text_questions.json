@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is Visual Genome database used for?",
+      "context": "The introduction of the document explaining how it links images, rectangular areas with English captions and has been translated into Hindi",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7991071428571428
+      }
+    },
+    {
+      "question": "Why was translating 'lying' from English to Hindi considered incorrect?",
+      "context": "The section describing the example where two lamps were incorrectly translated as 'some Hindi text' and 'glosses two baby sheep are telling lies'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8732142857142857
+      }
+    },
+    {
+      "question": "What is meant by 'lying in the sun'?",
+      "context": "The section discussing the example of two lamps and speculating about what it might mean to be 'lying in the sun'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8009868421052632
+      }
+    },
+    {
+      "question": "How can a picture help improve translation from English to Hindi?",
+      "context": "The section describing how Visual Genome uses images and captions to aid translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8312937062937062
+      }
+    },
+    {
+      "question": "What is the main idea of using Visual Genome in machine translation?",
+      "context": "The introductory paragraph explaining the purpose of using this database for Hindi-English translation",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main idea of using Visual Genome in machine translation?",
+      "context": "The introductory paragraph explaining the purpose of using this database for Hindi-English translation",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Why was translating 'lying' from English to Hindi considered incorrect?",
+      "context": "The section describing the example where two lamps were incorrectly translated as 'some Hindi text' and 'glosses two baby sheep are telling lies'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8732142857142857
+      }
+    },
+    {
+      "question": "How can a picture help improve translation from English to Hindi?",
+      "context": "The section describing how Visual Genome uses images and captions to aid translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8312937062937062
+      }
+    }
+  ]
+}

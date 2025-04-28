@@ -1,0 +1,83 @@
+{
+  "all_questions": [
+    {
+      "question": "Can it be done to stuff the meaning of a whole sentence into a single fixed size vector?",
+      "context": "But can we actually stuff the meaning of a whole sentence into a single fixed size vector? Well, Raymond Moody says that obviously this is not possible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7857142857142857,
+        "diversity_score": 0.7929864253393666
+      }
+    },
+    {
+      "question": "What are some problems with using a single fixed-size vector to represent the meaning of a sentence?",
+      "context": "Well, Raymond Moody says that obviously this is not possible. And yes, there is problems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6964285714285714
+      }
+    },
+    {
+      "question": "How do attention-based systems perform in relation to this bottleneck?",
+      "context": "And you know that attention-based systems perform much better because this is exactly the bottleneck that they are not suffering from.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is the specific mechanism by which attention-based systems attend to words in a source sentence?",
+      "context": "They attend to all the words in the source sentence as they go.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8143939393939394
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do attention-based systems perform in relation to this bottleneck?",
+      "context": "And you know that attention-based systems perform much better because this is exactly the bottleneck that they are not suffering from.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is the specific mechanism by which attention-based systems attend to words in a source sentence?",
+      "context": "They attend to all the words in the source sentence as they go.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "What are some problems with using a single fixed-size vector to represent the meaning of a sentence?",
+      "context": "Well, Raymond Moody says that obviously this is not possible. And yes, there is problems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6964285714285714
+      }
+    }
+  ]
+}

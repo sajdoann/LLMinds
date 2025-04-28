@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the early practice of NullMT?",
+      "context": "And that is what was the early practice of NullMT.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.7785714285714286
+      }
+    },
+    {
+      "question": "What directions of encoding can be used to describe NullMT's final state?",
+      "context": "So you can use just the final state of each of these directions of encoding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8557692307692308
+      }
+    },
+    {
+      "question": "What was the purpose or goal of using these directions of encoding in NullMT?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "Does the document provide any information about how these directions of encoding are used in practice?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is there a specific example or illustration provided in the document to help explain NullMT's early practice?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191176470588235
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Does the document provide any information about how these directions of encoding are used in practice?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What directions of encoding can be used to describe NullMT's final state?",
+      "context": "So you can use just the final state of each of these directions of encoding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8557692307692308
+      }
+    },
+    {
+      "question": "Is there a specific example or illustration provided in the document to help explain NullMT's early practice?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191176470588235
+      }
+    },
+    {
+      "question": "What was the purpose or goal of using these directions of encoding in NullMT?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269230769230769
+      }
+    }
+  ]
+}

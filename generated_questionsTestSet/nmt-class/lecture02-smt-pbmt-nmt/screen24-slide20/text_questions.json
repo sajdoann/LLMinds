@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is phrase translation probability and how does it work?",
+      "context": "A brief summary of the features which were used in phrase-based machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How does the word penalty or word count feature control the output length?",
+      "context": "Another feature that is successfully used in phrase-based model",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7676767676767677
+      }
+    },
+    {
+      "question": "What is the issue with comparing longer and shorter sentences using an n-gram language model?",
+      "context": "Do you think it's fair if you have two sentences? One of them is 10 words, one of them is two words, and you are calculating the language model score?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8598484848484849
+      }
+    },
+    {
+      "question": "How does the number of segments affect the translation process in phrase-based machine translation?",
+      "context": "Another very useful feature was the number of segments. So I've silently introduced, and we may in the phrase-based lecture...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8147773279352226
+      }
+    },
+    {
+      "question": "What is the purpose of using a reordering parameter when dealing with segmentation?",
+      "context": "So you can have, again, a feature which only counts how many segments you use, and sometimes it is useful to translate with smaller units...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8465544871794872
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is phrase translation probability and how does it work?",
+      "context": "A brief summary of the features which were used in phrase-based machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How does the word penalty or word count feature control the output length?",
+      "context": "Another feature that is successfully used in phrase-based model",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7676767676767677
+      }
+    },
+    {
+      "question": "How does the number of segments affect the translation process in phrase-based machine translation?",
+      "context": "Another very useful feature was the number of segments. So I've silently introduced, and we may in the phrase-based lecture...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8147773279352226
+      }
+    }
+  ]
+}

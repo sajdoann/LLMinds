@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What types of setups perform better according to the observation?",
+      "context": "We observed that the setups which use the inner attention or the compound attention perform better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7365384615384616
+      }
+    },
+    {
+      "question": "Is it possible for attention to be restricted and still useful?",
+      "context": "even if the attention is restricted to have a fixed number of points and not allowed to change throughout the output sentence, it is useful.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7272727272727273
+      }
+    },
+    {
+      "question": "What type of attention is recommended for better setups?",
+      "context": "We observed that the setups which use the inner attention or the compound attention perform better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6837606837606838
+      }
+    },
+    {
+      "question": "Can attention be restricted to still achieve good results?",
+      "context": "even if the attention is restricted to have a fixed number of points and not allowed to change throughout the output sentence, it is useful.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7411616161616161
+      }
+    },
+    {
+      "question": "What is implied about the effectiveness of attention in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What types of setups perform better according to the observation?",
+      "context": "We observed that the setups which use the inner attention or the compound attention perform better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7365384615384616
+      }
+    },
+    {
+      "question": "Can attention be restricted to still achieve good results?",
+      "context": "even if the attention is restricted to have a fixed number of points and not allowed to change throughout the output sentence, it is useful.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7411616161616161
+      }
+    },
+    {
+      "question": "Is it possible for attention to be restricted and still useful?",
+      "context": "even if the attention is restricted to have a fixed number of points and not allowed to change throughout the output sentence, it is useful.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7272727272727273
+      }
+    },
+    {
+      "question": "What is implied about the effectiveness of attention in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    }
+  ]
+}

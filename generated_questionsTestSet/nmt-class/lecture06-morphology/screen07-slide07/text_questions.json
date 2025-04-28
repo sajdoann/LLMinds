@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of the document regarding morphology in phrase-based machine translation?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "How many questions should be generated from the document?",
+      "context": "Task description",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48611111111111116
+      }
+    },
+    {
+      "question": "What type of knowledge is required to answer the questions?",
+      "context": "Task description",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5
+      }
+    },
+    {
+      "question": "Why are external sources not allowed in answering the questions?",
+      "context": "Task description",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.525
+      }
+    },
+    {
+      "question": "How many questions should be included in the list of generated questions?",
+      "context": "Task description",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45833333333333326
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the focus of the document regarding morphology in phrase-based machine translation?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What type of knowledge is required to answer the questions?",
+      "context": "Task description",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5
+      }
+    },
+    {
+      "question": "Why are external sources not allowed in answering the questions?",
+      "context": "Task description",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.525
+      }
+    }
+  ]
+}

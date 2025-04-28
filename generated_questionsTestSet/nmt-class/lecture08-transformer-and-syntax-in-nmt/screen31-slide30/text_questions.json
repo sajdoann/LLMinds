@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is it clear about the eight heads in a network?",
+      "context": "All the eight heads which are there, it's much less clear what the way, what the attention looks at.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8203125
+      }
+    },
+    {
+      "question": "Why do strange things in the network contribute to its performance?",
+      "context": "So there are many strange things that are, you cannot really explain in plain words, but somehow they contribute to the best performance of the network and that's it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8287337662337662
+      }
+    },
+    {
+      "question": "What is being discussed as a future topic in the lecture?",
+      "context": "This is where we will go into more detail here. People have obviously experimented with a number of heads, so there is also a paper which says that many of the weights after the training can be actually pruned because they do not contribute too much to the final result.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8308080808080808
+      }
+    },
+    {
+      "question": "What effect does pruning unused weights have on the network?",
+      "context": "So you can then scale down your network after training and you can save some of the computation time.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8095588235294118
+      }
+    },
+    {
+      "question": "Why would scaling down the network be beneficial?",
+      "context": "This doesn't change the",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being discussed as a future topic in the lecture?",
+      "context": "This is where we will go into more detail here. People have obviously experimented with a number of heads, so there is also a paper which says that many of the weights after the training can be actually pruned because they do not contribute too much to the final result.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8308080808080808
+      }
+    },
+    {
+      "question": "Why do strange things in the network contribute to its performance?",
+      "context": "So there are many strange things that are, you cannot really explain in plain words, but somehow they contribute to the best performance of the network and that's it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8287337662337662
+      }
+    },
+    {
+      "question": "What effect does pruning unused weights have on the network?",
+      "context": "So you can then scale down your network after training and you can save some of the computation time.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8095588235294118
+      }
+    },
+    {
+      "question": "Why would scaling down the network be beneficial?",
+      "context": "This doesn't change the",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

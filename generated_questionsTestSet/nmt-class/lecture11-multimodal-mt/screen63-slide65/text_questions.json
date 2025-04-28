@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was skipped in the evaluation process?",
+      "context": "Important Guidelines",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "Why was spoken language translation skipped?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What is the reason for skipping spoken language translation?",
+      "context": "Important Guidelines",
+      "difficulty": "easy/medium/hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was skipped in the evaluation process?",
+      "context": "Important Guidelines",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "Why was spoken language translation skipped?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What is the reason for skipping spoken language translation?",
+      "context": "Important Guidelines",
+      "difficulty": "easy/medium/hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8194444444444444
+      }
+    }
+  ]
+}

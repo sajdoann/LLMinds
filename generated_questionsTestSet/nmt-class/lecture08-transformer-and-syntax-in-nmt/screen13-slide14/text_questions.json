@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of positional encoding in the transformer model?",
+      "context": "So I've said that information can flow from any token to any token. I've also said that the feedforward layer is applied token wise.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6684210526315789
+      }
+    },
+    {
+      "question": "How do positional encoding vectors change with every single token?",
+      "context": "So what they do, they introduce so called positional encoding. And this positional encoding are vectors which change with every single token and with the index of the token.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.7695652173913043
+      }
+    },
+    {
+      "question": "What is used to construct the positional encoding vectors in the paper?",
+      "context": "So that these vectors are what the network can use then to identify whether the word is at the beginning or at the end of the sentence.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "Why is it sufficient for positional encoding to distinguish positions but not specify their order?",
+      "context": "So that these vectors are what the network can use then to identify whether the word is at the beginning or at the end of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6670454545454545
+      }
+    },
+    {
+      "question": "What happens to the positional embeddings when two occurrences of the same word appear in different positions in a sentence?",
+      "context": "So that's the way the positional encoding vectors are constructed. And then they are simply added without any normalization whatever to the word embeddings.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.748015873015873
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of positional encoding in the transformer model?",
+      "context": "So I've said that information can flow from any token to any token. I've also said that the feedforward layer is applied token wise.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6684210526315789
+      }
+    },
+    {
+      "question": "How do positional encoding vectors change with every single token?",
+      "context": "So what they do, they introduce so called positional encoding. And this positional encoding are vectors which change with every single token and with the index of the token.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.7695652173913043
+      }
+    },
+    {
+      "question": "What happens to the positional embeddings when two occurrences of the same word appear in different positions in a sentence?",
+      "context": "So that's the way the positional encoding vectors are constructed. And then they are simply added without any normalization whatever to the word embeddings.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.748015873015873
+      }
+    }
+  ]
+}

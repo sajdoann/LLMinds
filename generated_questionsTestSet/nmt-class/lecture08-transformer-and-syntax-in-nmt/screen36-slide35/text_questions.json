@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main idea of the second approach?",
+      "context": "The idea here is that you have the sequence of states from the normal bidirectional encoder and what the structure adds on top",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.596875
+      }
+    },
+    {
+      "question": "How does the second approach differ from the three LSTMs?",
+      "context": "it has the linear backbone, the standard thing that worked well in the sequence to sequence approach",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of the additional states in the second approach?",
+      "context": "So this is less rigid than the three LSTMs because it has the linear backbone, and in addition to that it exploits the explicit knowledge",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7068181818181818
+      }
+    },
+    {
+      "question": "What kind of dependencies does the second approach follow?",
+      "context": "deliberation it is following the dependencies that humans found important because this upper part is made to mimic the syntactic structure of the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "Why did the developers choose to add a linear backbone?",
+      "context": "The idea here is that you have the sequence of states from the normal bidirectional encoder and what the structure adds on top",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main idea of the second approach?",
+      "context": "The idea here is that you have the sequence of states from the normal bidirectional encoder and what the structure adds on top",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.596875
+      }
+    },
+    {
+      "question": "What kind of dependencies does the second approach follow?",
+      "context": "deliberation it is following the dependencies that humans found important because this upper part is made to mimic the syntactic structure of the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "How does the second approach differ from the three LSTMs?",
+      "context": "it has the linear backbone, the standard thing that worked well in the sequence to sequence approach",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7142857142857143
+      }
+    }
+  ]
+}

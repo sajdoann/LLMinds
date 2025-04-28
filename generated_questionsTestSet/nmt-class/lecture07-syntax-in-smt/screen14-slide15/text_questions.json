@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of parsing a sentence?",
+      "context": "If you are processing a given sentence, then the standard way is to parse it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7125
+      }
+    },
+    {
+      "question": "How does the CKY or CYK algorithm work in cubic time?",
+      "context": "And the best known parsing algorithm is the CKY or CYK algorithm. In cubic time, it will tell you whether the sentence is allowed by the grammar, by the set of rules or not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8261784511784511
+      }
+    },
+    {
+      "question": "What are the possible parses of a subtree in the parsing table?",
+      "context": "So this cell contains two possible parses of the subtree. One is labeled V and the other is labeled VP.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7787433155080214
+      }
+    },
+    {
+      "question": "How does the algorithm proceed from bottom-up to construct the full syntactic tree?",
+      "context": "And you can preserve the back pointers. And then from the back pointers, you can traverse back from the final non-terminal S down to the full sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the value of using a template or SSIP in constructing the syntactic tree?",
+      "context": "You can use a template. You can use the SSIP via the sanding finger slash delimément Thalý of the ИSpec Sat-T Ji.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7762605042016807
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the possible parses of a subtree in the parsing table?",
+      "context": "So this cell contains two possible parses of the subtree. One is labeled V and the other is labeled VP.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7787433155080214
+      }
+    },
+    {
+      "question": "How does the CKY or CYK algorithm work in cubic time?",
+      "context": "And the best known parsing algorithm is the CKY or CYK algorithm. In cubic time, it will tell you whether the sentence is allowed by the grammar, by the set of rules or not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8261784511784511
+      }
+    },
+    {
+      "question": "How does the algorithm proceed from bottom-up to construct the full syntactic tree?",
+      "context": "And you can preserve the back pointers. And then from the back pointers, you can traverse back from the final non-terminal S down to the full sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the value of using a template or SSIP in constructing the syntactic tree?",
+      "context": "You can use a template. You can use the SSIP via the sanding finger slash delimément Thalý of the ИSpec Sat-T Ji.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7762605042016807
+      }
+    }
+  ]
+}

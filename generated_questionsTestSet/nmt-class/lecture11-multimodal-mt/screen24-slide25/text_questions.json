@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of issues does the author claim to have encountered?",
+      "context": "So I'll talk about the possible issues that we have actually these are not possible issues",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.765422077922078
+      }
+    },
+    {
+      "question": "Is it stated whether the issues mentioned are actual or impossible ones?",
+      "context": "these are not possible issues",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.70625
+      }
+    },
+    {
+      "question": "How does the author describe their experience with these issues?",
+      "context": "these are true issues that we have ran into in our tests.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "What is the purpose of the author's discussion about these issues?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is it clear whether the author has a solution to the problems they encountered?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8846153846153846
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the author describe their experience with these issues?",
+      "context": "these are true issues that we have ran into in our tests.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "Is it clear whether the author has a solution to the problems they encountered?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8846153846153846
+      }
+    },
+    {
+      "question": "Is it stated whether the issues mentioned are actual or impossible ones?",
+      "context": "these are not possible issues",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.70625
+      }
+    },
+    {
+      "question": "What is the purpose of the author's discussion about these issues?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

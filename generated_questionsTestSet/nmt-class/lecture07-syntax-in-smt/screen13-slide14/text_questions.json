@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is context-free grammar used for in linguistics?",
+      "context": "The formal device to describe the constituency syntax of the sentence and context-free grammars are a way how to specify an infinite set of valid trees as opposed to invalid sentences with a finite set of rules.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7219827586206897
+      }
+    },
+    {
+      "question": "How do linguists assign probabilities to different productions in context-free grammar?",
+      "context": "So if you want to use this in a practical system you will probably need to indicate not only that this is valid but also that other options are valid and among all the options you need to somehow discriminate so you will start assigning probabilities.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.820855614973262
+      }
+    },
+    {
+      "question": "What is the maximum likelihood estimate for each of these probabilities in context-free grammar?",
+      "context": "and you will see you will see you will see you will see normalize the observed counts of VP being further expanded into V and you divide it by the total number of observations of VPN and that's it.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7842261904761905
+      }
+    },
+    {
+      "question": "How is the probability of a whole tree given an input sentence calculated?",
+      "context": "so you have a set of rules. each of these rules has some probability assigned so it is very easy to specify the probability of the whole tree given the input sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8076923076923077
+      }
+    },
+    {
+      "question": "What is the relationship between context-free grammar and language modeling?",
+      "context": "this is a language model if you wish. this is a language model that considers the syntactic structure of the sentence assigns a probability to the analysis of the sentence given the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7136904761904762
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is context-free grammar used for in linguistics?",
+      "context": "The formal device to describe the constituency syntax of the sentence and context-free grammars are a way how to specify an infinite set of valid trees as opposed to invalid sentences with a finite set of rules.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7219827586206897
+      }
+    },
+    {
+      "question": "How is the probability of a whole tree given an input sentence calculated?",
+      "context": "so you have a set of rules. each of these rules has some probability assigned so it is very easy to specify the probability of the whole tree given the input sentence.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8076923076923077
+      }
+    },
+    {
+      "question": "What is the relationship between context-free grammar and language modeling?",
+      "context": "this is a language model if you wish. this is a language model that considers the syntactic structure of the sentence assigns a probability to the analysis of the sentence given the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7136904761904762
+      }
+    }
+  ]
+}

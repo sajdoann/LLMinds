@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of architecture are mentioned as being used for translation systems?",
+      "context": "So then finally we're getting to the translation systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "What is mentioned as the name of this specific architecture in relation to translation systems?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "How does this architecture work in terms of its components?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What is the relationship between the encoder and decoder in this architecture?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "Does the document provide any further details about how this architecture works or its applications?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9083333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of architecture are mentioned as being used for translation systems?",
+      "context": "So then finally we're getting to the translation systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "What is the relationship between the encoder and decoder in this architecture?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "What is mentioned as the name of this specific architecture in relation to translation systems?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of information will be covered in the document?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6
+      }
+    },
+    {
+      "question": "How many questions should be generated from the document?",
+      "context": "not specified",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "What is the requirement for generating each question?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How many questions should be included in the list?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "What is the specific goal of generating questions from the document?",
+      "context": "not specified",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many questions should be generated from the document?",
+      "context": "not specified",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "What is the requirement for generating each question?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the specific goal of generating questions from the document?",
+      "context": "not specified",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    }
+  ]
+}

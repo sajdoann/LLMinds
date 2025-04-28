@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'Yep' indicate?",
+      "context": "Yep, so we can...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "What is the speaker responding to?",
+      "context": "Yep, so we can...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.41666666666666663
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'Yep' indicate?",
+      "context": "Yep, so we can...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "What is the speaker responding to?",
+      "context": "Yep, so we can...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.41666666666666663
+      }
+    }
+  ]
+}

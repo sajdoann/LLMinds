@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the limitations of human annotation in evaluating word representations?",
+      "context": "So I'm coming towards the end of word representations, but I would just like to highlight that some of these evaluations are based on the human assessment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do humans assess similarity between words?",
+      "context": "So if you ask humans how similar are these words, then people will do different things. They will score different things.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What type of similarities are reflected in word embeddings trained on parallel data?",
+      "context": "These monolingual models, when they are used to create word embeddings, they reflect rather the non-specific relatedness and the models that are trained on parallel data, such as neural MT, they will reflect the conceptual similarity.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8301282051282051
+      }
+    },
+    {
+      "question": "What is the purpose of a survey of evaluation methods from 2018?",
+      "context": "There was a word vectors evaluation web page where you could upload your word vectors and it will tell you how well they perform in a number of metrics.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8377272727272728
+      }
+    },
+    {
+      "question": "What is the limitation of not being specific enough when collecting judgments?",
+      "context": "And if you are not specific enough, if you are not precise enough when collecting the judgments, you can accidentally conflate these two things.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8075657894736842
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of a survey of evaluation methods from 2018?",
+      "context": "There was a word vectors evaluation web page where you could upload your word vectors and it will tell you how well they perform in a number of metrics.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8377272727272728
+      }
+    },
+    {
+      "question": "What is the limitation of not being specific enough when collecting judgments?",
+      "context": "And if you are not specific enough, if you are not precise enough when collecting the judgments, you can accidentally conflate these two things.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8075657894736842
+      }
+    },
+    {
+      "question": "What are the limitations of human annotation in evaluating word representations?",
+      "context": "So I'm coming towards the end of word representations, but I would just like to highlight that some of these evaluations are based on the human assessment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do humans assess similarity between words?",
+      "context": "So if you ask humans how similar are these words, then people will do different things. They will score different things.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8888888888888888
+      }
+    }
+  ]
+}

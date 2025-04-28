@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the first stage of the process for translating the sentence Er get Janik na Hause?",
+      "context": "The introduction to the problem and the initial approach",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8107142857142857
+      }
+    },
+    {
+      "question": "How many possible translations were found for the phrase 'Er get' in the database?",
+      "context": "The discussion of the possible translations for the phrase 'Er get'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8258547008547008
+      }
+    },
+    {
+      "question": "What was the best translation found for the entire sentence, according to the system's initial output?",
+      "context": "The conclusion about the best translation option",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "Was the system able to consider reordering in its translation process?",
+      "context": "The discussion of the system's limitations and capabilities",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What was the state of the system's understanding at the end of the described process?",
+      "context": "The conclusion about the system's current state of knowledge",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7230113636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the first stage of the process for translating the sentence Er get Janik na Hause?",
+      "context": "The introduction to the problem and the initial approach",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8107142857142857
+      }
+    },
+    {
+      "question": "How many possible translations were found for the phrase 'Er get' in the database?",
+      "context": "The discussion of the possible translations for the phrase 'Er get'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8258547008547008
+      }
+    },
+    {
+      "question": "Was the system able to consider reordering in its translation process?",
+      "context": "The discussion of the system's limitations and capabilities",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What was the best translation found for the entire sentence, according to the system's initial output?",
+      "context": "The conclusion about the best translation option",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7410714285714286
+      }
+    }
+  ]
+}

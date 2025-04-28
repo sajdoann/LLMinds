@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What approach was retried with CCG tags and applied to both sequence-to-sequence models and modern transformer models?",
+      "context": "So what I did with my students some years after that, we retried this approach with CCG tags",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8782169117647058
+      }
+    },
+    {
+      "question": "What type of tagging was used for the output sentences in the modified transformer model?",
+      "context": "So as tags they used the correct CCG tags from a parser, random tags and also a single dummy tag.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7542016806722689
+      }
+    },
+    {
+      "question": "What effect did the use of a secondary decoder with interleaving have on the output sentences?",
+      "context": "That's somewhat risky but it that every position will have the correct number or well it does not ensure but the network is clever enough to make the tags and words properly interleave",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8612068965517241
+      }
+    },
+    {
+      "question": "What was the purpose of using a single dummy tag in the modified model?",
+      "context": "So we would just say like beep the first word and beep the second word. So we were only like with a single dummy tag",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7807692307692308
+      }
+    },
+    {
+      "question": "Where was the paper 'Replacing Linguists with Dummies' published?",
+      "context": "The paper is published in the Prague Building of Mathematical Linguistics.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8388888888888889
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the purpose of using a single dummy tag in the modified model?",
+      "context": "So we would just say like beep the first word and beep the second word. So we were only like with a single dummy tag",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7807692307692308
+      }
+    },
+    {
+      "question": "What approach was retried with CCG tags and applied to both sequence-to-sequence models and modern transformer models?",
+      "context": "So what I did with my students some years after that, we retried this approach with CCG tags",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8782169117647058
+      }
+    },
+    {
+      "question": "What effect did the use of a secondary decoder with interleaving have on the output sentences?",
+      "context": "That's somewhat risky but it that every position will have the correct number or well it does not ensure but the network is clever enough to make the tags and words properly interleave",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8612068965517241
+      }
+    }
+  ]
+}

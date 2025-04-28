@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Why are BLEU scores being used as a measure of translation quality?",
+      "context": "We, because we want to rely on the BLEU scores as a measure of the translation quality",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What was found in the human evaluation of the translations?",
+      "context": "So we can trust BLEU scores on the English to check evaluation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How did the consistency of BLEU scores affect their use as a measure of translation quality?",
+      "context": "We, because we want to rely on the BLEU scores as a measure of the translation quality",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6479166666666667
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between human evaluation and BLEU scores?",
+      "context": "So we can trust BLEU scores on the English to check evaluation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6538461538461539
+      }
+    },
+    {
+      "question": "Why is it necessary to double-check the consistency of BLEU scores?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are BLEU scores being used as a measure of translation quality?",
+      "context": "We, because we want to rely on the BLEU scores as a measure of the translation quality",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "Why is it necessary to double-check the consistency of BLEU scores?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "How did the consistency of BLEU scores affect their use as a measure of translation quality?",
+      "context": "We, because we want to rely on the BLEU scores as a measure of the translation quality",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6479166666666667
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between human evaluation and BLEU scores?",
+      "context": "So we can trust BLEU scores on the English to check evaluation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6538461538461539
+      }
+    }
+  ]
+}

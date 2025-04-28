@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the speaker's background?",
+      "context": "Non-native person",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "How does the speaker feel about speech recognition and machine translation?",
+      "context": "a reality check for the speech recognition and now a reality check for a machine translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "What was the purpose of the conversation with the machine translation?",
+      "context": "So that was like a reality check for the speech recognition and now a reality check for a machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is the speaker's goal or ambition, as mentioned in the conversation?",
+      "context": "There again we were talking about getting superhuman.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8977272727272727
+      }
+    },
+    {
+      "question": "What does 'getting superhuman' imply for the speaker?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the purpose of the conversation with the machine translation?",
+      "context": "So that was like a reality check for the speech recognition and now a reality check for a machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is the speaker's goal or ambition, as mentioned in the conversation?",
+      "context": "There again we were talking about getting superhuman.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8977272727272727
+      }
+    },
+    {
+      "question": "How does the speaker feel about speech recognition and machine translation?",
+      "context": "a reality check for the speech recognition and now a reality check for a machine translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "What does 'getting superhuman' imply for the speaker?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

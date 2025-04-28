@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who recommended using the Moses decoder for phrase-based MT?",
+      "context": "These days people in machine translation do not longer use phrase-based MT, so everybody uses neural MT",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8243464052287581
+      }
+    },
+    {
+      "question": "Why is the phrase independence assumption in phrase-based MT too strong for natural languages?",
+      "context": "So it is like a good sequence transfer system except that the the built-in assumption of phrase independence is too strong for natural languages",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8189935064935066
+      }
+    },
+    {
+      "question": "What task can Moses decoder be used for in linguistic analysis?",
+      "context": "For example, if you want to port some three bank annotation across languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "Why might it not be recommended to use phrase-based MT for certain tasks?",
+      "context": "because it is like more literal translation than what neural MT would do",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7980769230769231
+      }
+    },
+    {
+      "question": "What is an alternative approach to phrase-based MT that can be used when working with large parallel corpora?",
+      "context": "But if you have a large parallel corpus, there is no reason to stick to the assumption of phrase independence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8442982456140351
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What task can Moses decoder be used for in linguistic analysis?",
+      "context": "For example, if you want to port some three bank annotation across languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "Why might it not be recommended to use phrase-based MT for certain tasks?",
+      "context": "because it is like more literal translation than what neural MT would do",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7980769230769231
+      }
+    },
+    {
+      "question": "Why is the phrase independence assumption in phrase-based MT too strong for natural languages?",
+      "context": "So it is like a good sequence transfer system except that the the built-in assumption of phrase independence is too strong for natural languages",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8189935064935066
+      }
+    }
+  ]
+}

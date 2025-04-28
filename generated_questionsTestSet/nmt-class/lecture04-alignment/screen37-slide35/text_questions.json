@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of mapping does the alignment represent?",
+      "context": "The formal definition of the alignment",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.503125
+      }
+    },
+    {
+      "question": "At what positions are the English target word and the source word mapped to?",
+      "context": "I've already told you that the alignment is captured as a function",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "What is an example of how the alignment was applied in the previous scenario?",
+      "context": "The previous example",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6698717948717949
+      }
+    },
+    {
+      "question": "How is the alignment represented as a function?",
+      "context": "The formal definition of the alignment",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.51875
+      }
+    },
+    {
+      "question": "What information can be inferred about how the alignment was described in the previous sentence?",
+      "context": "The formal definition of the alignment",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.5410714285714285
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How is the alignment represented as a function?",
+      "context": "The formal definition of the alignment",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.51875
+      }
+    },
+    {
+      "question": "At what positions are the English target word and the source word mapped to?",
+      "context": "I've already told you that the alignment is captured as a function",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541666666666667
+      }
+    },
+    {
+      "question": "What is an example of how the alignment was applied in the previous scenario?",
+      "context": "The previous example",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6698717948717949
+      }
+    }
+  ]
+}

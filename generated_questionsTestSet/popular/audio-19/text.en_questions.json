@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the Tobias Brotherhood?",
+      "context": "The Tobias Brotherhood ensures that there is at least one service for the deceased.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6703296703296704
+      }
+    },
+    {
+      "question": "Why do people in Germany become lonely and need the services of the Tobias Brotherhood?",
+      "context": "People are getting older and older. This means that more and more people are becoming lonely in old age.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8269841269841269
+      }
+    },
+    {
+      "question": "What is the main purpose of the public order office in Germany?",
+      "context": "The office's task is to monitor compliance with public safety and order. However, they are not police officers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8122895622895623
+      }
+    },
+    {
+      "question": "Why did Harald Storz say the Tobias Brotherhood was founded?",
+      "context": "But the brotherhood was not only founded out of a sense of tradition, says Harald Storz, one of the co-founders.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7509803921568627
+      }
+    },
+    {
+      "question": "Why was the Tobias Brotherhood created?",
+      "context": "But the brotherhood was not only founded out of a sense of tradition, says Harald Storz, one of the co-founders. Above all, we decided on this form because we realised that men are very, very little involved in diaconal work.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7268518518518519
+      }
+    },
+    {
+      "question": "Why did men shy away from diaconal work?",
+      "context": "They don't join in. The Tobias Brotherhood is different. They have created an area where they can get involved. Incidentally, the name comes from the Bible. In the relatively unknown book of Tobit in the Old Testament, the main character Tobias says: ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "What is the purpose of diaconal work?",
+      "context": "Women are usually involved in diaconal work. This is the social service of the Protestant church. Here, Christians help people who need help. They work in kindergartens or old people's homes, for example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7315668202764978
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of diaconal work?",
+      "context": "Women are usually involved in diaconal work. This is the social service of the Protestant church. Here, Christians help people who need help. They work in kindergartens or old people's homes, for example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7315668202764978
+      }
+    },
+    {
+      "question": "Why did men shy away from diaconal work?",
+      "context": "They don't join in. The Tobias Brotherhood is different. They have created an area where they can get involved. Incidentally, the name comes from the Bible. In the relatively unknown book of Tobit in the Old Testament, the main character Tobias says: ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "Why do people in Germany become lonely and need the services of the Tobias Brotherhood?",
+      "context": "People are getting older and older. This means that more and more people are becoming lonely in old age.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8269841269841269
+      }
+    },
+    {
+      "question": "Why did Harald Storz say the Tobias Brotherhood was founded?",
+      "context": "But the brotherhood was not only founded out of a sense of tradition, says Harald Storz, one of the co-founders.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7509803921568627
+      }
+    }
+  ]
+}

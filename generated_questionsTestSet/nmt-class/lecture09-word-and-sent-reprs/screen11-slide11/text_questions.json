@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one of the problems of translation?",
+      "context": "Particle Aspect",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How did machine translation systems perform in the WMT competition in 2019 and 2018?",
+      "context": "Current empty systems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8557692307692308
+      }
+    },
+    {
+      "question": "What was one system that surpassed humans in machine translation?",
+      "context": "News translation",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What level of machine translation did some systems surpass professional translation at in the WMT competition in 2018?",
+      "context": "English to Czech",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.859375
+      }
+    },
+    {
+      "question": "Why does it seem that machine translation systems can be as good as humans are?",
+      "context": "There was a key. Interesting.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.9196428571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one of the problems of translation?",
+      "context": "Particle Aspect",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What level of machine translation did some systems surpass professional translation at in the WMT competition in 2018?",
+      "context": "English to Czech",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.859375
+      }
+    },
+    {
+      "question": "How did machine translation systems perform in the WMT competition in 2019 and 2018?",
+      "context": "Current empty systems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8557692307692308
+      }
+    },
+    {
+      "question": "Why does it seem that machine translation systems can be as good as humans are?",
+      "context": "There was a key. Interesting.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.9196428571428572
+      }
+    }
+  ]
+}

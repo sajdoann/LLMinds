@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first experiment in the document?",
+      "context": "That is bad. So here are the experiments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6294642857142857
+      }
+    },
+    {
+      "question": "What language model is used in the part of speech tagging process?",
+      "context": "And that allows you to use a 7-gram language model on the part of speech tag and forcing some syntactic structure over the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6941287878787878
+      }
+    },
+    {
+      "question": "What problem does phrase-based empty tagging pose?",
+      "context": "That was one of the main problems of phrase-based empty to have some overall understanding of the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7404761904761905
+      }
+    },
+    {
+      "question": "What is the outcome of using a 7-gram language model in part of speech tagging?",
+      "context": "So this is not a solution, but it is a partial remedy of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.713598901098901
+      }
+    },
+    {
+      "question": "What can be inferred about the limitations of phrase-based empty tagging from the document?",
+      "context": "The very first and simple setup is to translate forms into forms and then do part of speech tagging on the fly, so to say.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7641941391941391
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the first experiment in the document?",
+      "context": "That is bad. So here are the experiments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6294642857142857
+      }
+    },
+    {
+      "question": "What is the outcome of using a 7-gram language model in part of speech tagging?",
+      "context": "So this is not a solution, but it is a partial remedy of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.713598901098901
+      }
+    },
+    {
+      "question": "What language model is used in the part of speech tagging process?",
+      "context": "And that allows you to use a 7-gram language model on the part of speech tag and forcing some syntactic structure over the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6941287878787878
+      }
+    },
+    {
+      "question": "What can be inferred about the limitations of phrase-based empty tagging from the document?",
+      "context": "The very first and simple setup is to translate forms into forms and then do part of speech tagging on the fly, so to say.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7641941391941391
+      }
+    }
+  ]
+}

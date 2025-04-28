@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How does the lecture relate to the meaning of the sentence?",
+      "context": "In the lecture you will see how some words get in, but how is this related to the meaning of the sentence?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.6966374269005848
+      }
+    },
+    {
+      "question": "What happens to the architecture and maths underneath when it comes to linguistics?",
+      "context": "So there is no direct link between the architecture, the maths underneath and any of the linguistics.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8333333333333333
+      }
+    },
+    {
+      "question": "How does parallel data handle the meaning of a sentence?",
+      "context": "So it somehow handles the meaning of the sentence automatically just by observing parallel data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the architecture and linguistics based on the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9285714285714286
+      }
+    },
+    {
+      "question": "Why shouldn't someone ask a certain question about word entry in the lecture?",
+      "context": "In the lecture you will see how some words get in, but how is this related to the meaning of the sentence? That is something that no one should ask me.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8173076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does parallel data handle the meaning of a sentence?",
+      "context": "So it somehow handles the meaning of the sentence automatically just by observing parallel data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the architecture and linguistics based on the document?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9285714285714286
+      }
+    },
+    {
+      "question": "What happens to the architecture and maths underneath when it comes to linguistics?",
+      "context": "So there is no direct link between the architecture, the maths underneath and any of the linguistics.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8333333333333333
+      }
+    }
+  ]
+}

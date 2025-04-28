@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a frequency list?",
+      "context": "So it's like a frequency list and you are counting each character pair depending how often the word was also seen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8476190476190476
+      }
+    },
+    {
+      "question": "How do you count character pairs in a vocabulary?",
+      "context": "You will check which of the character pairs are frequent. So low was seen twice",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What does it mean to assume that each word was seen exactly once in the corpus?",
+      "context": "But let's assume that each of these words was seen exactly once in our corpus.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "How does the process of counting character pairs relate to frequent word pairs?",
+      "context": "So if we have this vocabulary, and it's important to realize that this vocabulary actually comes with frequencies of these words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8283653846153847
+      }
+    },
+    {
+      "question": "What does 'frequent' mean in the context of word pairs?",
+      "context": "So low was seen twice",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do you count character pairs in a vocabulary?",
+      "context": "You will check which of the character pairs are frequent. So low was seen twice",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is a frequency list?",
+      "context": "So it's like a frequency list and you are counting each character pair depending how often the word was also seen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8476190476190476
+      }
+    },
+    {
+      "question": "How does the process of counting character pairs relate to frequent word pairs?",
+      "context": "So if we have this vocabulary, and it's important to realize that this vocabulary actually comes with frequencies of these words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8283653846153847
+      }
+    },
+    {
+      "question": "What does it mean to assume that each word was seen exactly once in the corpus?",
+      "context": "But let's assume that each of these words was seen exactly once in our corpus.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8229166666666666
+      }
+    }
+  ]
+}

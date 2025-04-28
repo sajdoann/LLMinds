@@ -1,0 +1,1106 @@
+{
+  "all_questions": [
+    {
+      "question": "Why is it important for living organisms to maintain a stable internal environment?",
+      "context": "Чому живі організми повинні підтрimuвати сталість свого внутрішнього середовища?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9581287506819421
+      }
+    },
+    {
+      "question": "What are the three main components of an organism's internal environment?",
+      "context": "Основними складовими внутрішнього середовища організму є три рідини: кров, лімфа і тканинна рідина.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8816768338044934
+      }
+    },
+    {
+      "question": "What is the main composition of blood plasma?",
+      "context": "Кількість води в крові встановлює 90 %.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.805186170212766
+      }
+    },
+    {
+      "question": "Why does the color of blood change depending on its oxygen content?",
+      "context": "Колір крові визначається вмістом у ній сполук гемоглобіну з киснем: чим більше таких сполук, тим яскравіше заubarвлення крові.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9274527186761229
+      }
+    },
+    {
+      "question": "What is the main difference between lymph and blood?",
+      "context": "Лімфа — це прозора рідина, що за складом дуже схожа на тканинну рідину, однак вона містить велику кількість лімфоцитів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.852588030359587
+      }
+    },
+    {
+      "question": "What is the function of lymphatic vessels in the human body?",
+      "context": "Лімфатічні вузли є важливим бар’єром на шляху інфекцій та шкідливих речовин, які можуть утворюватися в організмі.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8331117021276595
+      }
+    },
+    {
+      "question": "What are the main components of the bloodstream in humans?",
+      "context": "Основними компонентами внутрішнього середовища організму є кров, лімфа і тканинна рідина.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8475714592735869
+      }
+    },
+    {
+      "question": "What is the main function of erythrocytes in the blood?",
+      "context": "Їх основна функція — перенесення кисню.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8135342789598109
+      }
+    },
+    {
+      "question": "What is the typical lifespan of an ameboid cell?",
+      "context": "Близько 120 днів",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8528368794326241
+      }
+    },
+    {
+      "question": "How many systems of blood groups are there in a human being?",
+      "context": "У людини відо-мо близько 30 систем груп крові.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9399379432624113
+      }
+    },
+    {
+      "question": "What is the purpose of dividing blood into groups?",
+      "context": "For which reason did scientists need to divide blood into groups? If a person's group is incorrectly matched during transfusion, then there is a risk to the patient's health.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8422213129659938
+      }
+    },
+    {
+      "question": "What happens when incompatible blood types are mixed?",
+      "context": "The reaction between one and the same agglutinogen and agglutinin results in agglutination, which activates the process of clotting and the formation of thrombi where red blood cells are trapped. This leads to blockage of blood vessels and can be fatal (16.2).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9335106382978724
+      }
+    },
+    {
+      "question": "What is the Resus system?",
+      "context": "In 1940, scientists discovered the Resus system, which was first identified in macaques and later found in humans.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.784375
+      }
+    },
+    {
+      "question": "What is the main reason why people can only receive blood of their own group?",
+      "context": "Сьогодні людям переливають тільки кров їхньої групи, оскільки вза-ємодія між кров'ю різних груп системи АВ0 дає найсильнішу імунну реакцію, тобто спричиняє аглютинацію еритроцитів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8934782608695653
+      }
+    },
+    {
+      "question": "What are the three main layers of the heart wall?",
+      "context": "Стінка серця складається з трьох шарів:  епікарду (зовнішнього), міокарду (середнього) і ендокарду (внутрішнього).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8587470449172577
+      }
+    },
+    {
+      "question": "What is the purpose of the atrioventricular valves?",
+      "context": "Для того щоб кров між камерами серця рухалася лише в одному напрямку, у ньому розташовані клапани.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7993446048632219
+      }
+    },
+    {
+      "question": "What is the difference between the heart of a human and a fish?",
+      "context": "Чим відрізняється серце людини від серця риби?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8556231003039514
+      }
+    },
+    {
+      "question": "What is the function of the heart's contraction?",
+      "context": "Здатність серця скорочуватися під впливом імпульсів, що виникають у самому серці",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7970433821497651
+      }
+    },
+    {
+      "question": "What is the role of the atria in the cardiac cycle?",
+      "context": "Кров з передсердь через клапани виштовхується до шлуночків, а серцевий м’яз розслаблений",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8255023640661938
+      }
+    },
+    {
+      "question": "What is the significance of the systolic and diastolic volumes?",
+      "context": "Систолічний об’єм — це кількість крові,що викидається серцем за одне скорочення. А хвилинний об’єм — це об’єм крові, який прокачується через серце протягом однієї хвилини",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8425363053022628
+      }
+    },
+    {
+      "question": "What allows the heart to work for many years without stopping?",
+      "context": "Наявна система роботи серця дозволяє йому працювати багато років безперервано",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191489361702128
+      }
+    },
+    {
+      "question": "What is the main way that the heart regulates its own function?",
+      "context": "Серце повинно працювати в будь-яких умовах. Тому в ньому іс-є механізми, які забезпечують його роботу навіть за відсутності відповідних нервових імпульсів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8841150870406189
+      }
+    },
+    {
+      "question": "What is the role of the autonomic nervous system in regulating heart function?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the Botaloff Channel?",
+      "context": "between right coronary artery and aorta is special channel — Botaloff channel",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7849129593810444
+      }
+    },
+    {
+      "question": "Why do muscles of the atria and ventricles not act as one structure?",
+      "context": "they are separated by a barrier made of dense tissue, which does not allow contraction from atrial to ventricular muscles",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9380728314238953
+      }
+    },
+    {
+      "question": "How do the atria and ventricles coordinate their contractions?",
+      "context": "via a special bundle of fibers that connects their contraction centers",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9458951214270364
+      }
+    },
+    {
+      "question": "What is the main function of arteries in the human body?",
+      "context": "to carry blood from the heart to capillaries",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8276595744680851
+      }
+    },
+    {
+      "question": "Why do veins need special valves to ensure blood flow in one direction?",
+      "context": "because they need to transport blood only in one direction",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9698036006546645
+      }
+    },
+    {
+      "question": "What is the normal range for arterial pressure?",
+      "context": "У нормі різниця між систолічним та діастолічним артеріальним тиском не повинна перевищати 10 мм рт. ст.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8550531914893618
+      }
+    },
+    {
+      "question": "What is the purpose of capillaries?",
+      "context": "Здійснюють обмін речовин між кров’ю та тканинами",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7681104356636271
+      }
+    },
+    {
+      "question": "What is the difference between arterial and venous blood pressure?",
+      "context": "Артеріальний тиск є під час систоли, а найнижчим — під час діастолі. Венозний тиск єпід час діастолі, а найвищим — під час систолі",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8718085106382979
+      }
+    },
+    {
+      "question": "What is a vena portae?",
+      "context": "Ворітна вена печінки. Вона збирає кров від шлунка й кишечника та несе її до печінки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8405015197568388
+      }
+    },
+    {
+      "question": "What is an anastomosis?",
+      "context": "Анастомозі — це з’єднання між артеріями й венами, які сполучають їх напряму, без утворення капілярної сітки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8128324468085106
+      }
+    },
+    {
+      "question": "Why is it important to regulate blood flow through anastomoses?",
+      "context": "це дозволяє організму ефективно регулювати втрати тепла. Якщо тепла в організмі забагато, то кров тече з артерій у вени через капіляри й віддає ізайве тепло повітрю.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9321603927986907
+      }
+    },
+    {
+      "question": "What is the main difference between an arterial and venous hemorrhage?",
+      "context": "За  артеріальну кровотечі  кров має яскраво-червоний колір та витікає швидко, тоді за  венозну кровотечу  кров темного забарвлення та витікає по-вільно.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8765715667311412
+      }
+    },
+    {
+      "question": "Why is it important to tighten a tourniquet in the correct location?",
+      "context": "Раз на годину джгут потрібно послаблювати, щоб не залишити тканини тіла без доступу крові.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9147036474164134
+      }
+    },
+    {
+      "question": "В якому напрямі рухається кров по артеріях?",
+      "context": "кров рухається вниз по кінцівках",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9910334346504559
+      }
+    },
+    {
+      "question": "Tại якому напряму джгут накладается в разі венозної кровотечі?",
+      "context": "нижче від місця крововиливу",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9934988179669031
+      }
+    },
+    {
+      "question": "What is the recommended timing for providing medical assistance?",
+      "context": "Чим раніше буде надано допомогу, тим більші шанси на позитивний результат роботи лікарів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8772504091653028
+      }
+    },
+    {
+      "question": "What are common causes of cardiovascular diseases?",
+      "context": "Чинниками ризику виникнення серцево-судинних захворювань_moжуть бути: недотримання правил здорового способу життя (куріння, зловживання алкоголем, недостатня фізична активність),",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.898176291793313
+      }
+    },
+    {
+      "question": "What is ischemic heart disease?",
+      "context": "Порушення руху крові в коронарних артеріях, часто внаслідок розвитку атеросклерозу.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.847872340425532
+      }
+    },
+    {
+      "question": "What are common symptoms of stroke?",
+      "context": "Зниження рівня свідомості, порушення зору, також рухової функції верхніх кінцівок, ходи, нормальної роботи м’язів обличчя",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8826241134751773
+      }
+    },
+    {
+      "question": "What is hypertensive disease?",
+      "context": "Підвищений артеріальний тиск, у разі виражених стадій — орGANічні зміни серця, нирок та центральної нервової системи",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8121675531914894
+      }
+    },
+    {
+      "question": "What is atherosclerosis?",
+      "context": "Підвищення артеріального тиску, порушення кровообігу Ущільнення артеріальної стінки за рахунок розростання сполучної тканини через відкладання жирової речовини та солей Кальцію на поверхні стінки артерії",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7590194264569843
+      }
+    },
+    {
+      "question": "What causes the narrowing of blood vessels?",
+      "context": "розростання сполучної тканини через відкладання жирової речовини та солей Кальцію на поверхні стінки артерії",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.833966565349544
+      }
+    },
+    {
+      "question": "What is the primary cause of thrombofluent hemorrhage?",
+      "context": "Тромбо­флебіт (мал. 20.3, с. 78)",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8344414893617021
+      }
+    },
+    {
+      "question": "Why is controlling blood pressure important for preventing cardiovascular diseases?",
+      "context": "Контроль свого артеріального тиску та профілактичні огляди в лі каря.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9393617021276596
+      }
+    },
+    {
+      "question": "What is varicose vein?",
+      "context": "Вік цієї мумії — понад 2500 років. Zahворювання органів серцево-судинної системи є одними з найпоширеніших. Серед них інфаркт, інсульт, гіпертонія тощо, які можуть призводити до тяжких ліків.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8188041765169425
+      }
+    },
+    {
+      "question": "What is the primary function of thrombocytes?",
+      "context": "Функція тромбоцитів: а) утворення згустків крові",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7943262411347518
+      }
+    },
+    {
+      "question": "Can blood from I group be transfused to someone with the same blood group?",
+      "context": "Людям з I групою крові можна переливати кров групи: а) I",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.948404255319149
+      }
+    },
+    {
+      "question": "What is the name of the middle chamber of the heart?",
+      "context": "Середній шар стінки серця називається: а) ендокард",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8294072948328267
+      }
+    },
+    {
+      "question": "What is the main organ of the excretory system in humans?",
+      "context": "Основним органом виділення людини є нирки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8361702127659575
+      }
+    },
+    {
+      "question": "What are the products that are removed from the body through the urinary system?",
+      "context": "Головне завдання сечови-дільної системи — виведення з організму водо-розчинних продуктів обміну речовин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9049806576402322
+      }
+    },
+    {
+      "question": "What is the main function of the kidneys?",
+      "context": "Основною функціональною одиницею нирки є нефрон. Саме нефрони відповідають за утворення сечі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7788753799392097
+      }
+    },
+    {
+      "question": "What are the blood vessels that supply the kidneys?",
+      "context": "...артерії, вени, лімфатичні судINI, нерви й сечівник заходять у нирку з її внутріш-нього боку...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.880129179331307
+      }
+    },
+    {
+      "question": "What is the name of the main canal that connects the kidneys to the urinary bladder?",
+      "context": "Канал сечівника...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.886252045826514
+      }
+    },
+    {
+      "question": "What is the main function of the nephron?",
+      "context": "Основною функціональною одиницею нирки є нефрон.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7778622087132726
+      }
+    },
+    {
+      "question": "Why is it important to remove toxins from the body?",
+      "context": "Завдяки вelikій площі поверхні шкіри через неї можуть дуже швидко видалятися різноманітні токсини та продукти обміну.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9080452127659574
+      }
+    },
+    {
+      "question": "What is the purpose of the sphincter in the renal pelvis?",
+      "context": "Із сечового міхура сеча виводиться з організму через сечівник.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8268321513002365
+      }
+    },
+    {
+      "question": "How does the temperature regulation work in the human body?",
+      "context": "Шкіра зазвичай має температуру вищу, ніж temperatura довкілля, і виділяє тепло всією svoєю поверхнею.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9350726106045255
+      }
+    },
+    {
+      "question": "What is the function of the liver in the body?",
+      "context": "Окрім того, одна з найважливіших функцій печінки — переробка продуктів обміну білків та нуклеїнових кислот.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7992464539007093
+      }
+    },
+    {
+      "question": "What is the role of the lungs in the respiratory system?",
+      "context": "За допомогою легень з організму виводяться газоподібні продукти обміну.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8221040189125296
+      }
+    },
+    {
+      "question": "What is the main function of the kidneys?",
+      "context": "Forced to work together with the liver, one of the most important functions of the kidneys is the filtration of blood, which results in the formation of urine.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7826747720364742
+      }
+    },
+    {
+      "question": "How much water does a healthy kidney filter per hour?",
+      "context": "Healthy kidneys filter approximately 1200 mL of blood per hour.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9829787234042553
+      }
+    },
+    {
+      "question": "What is primary plasma?",
+      "context": "plazma krevі, nasichено різними речовnymи, у порожнину капсули.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8144946808510638
+      }
+    },
+    {
+      "question": "How much primary urine is produced per day?",
+      "context": "Протягом доби в організмі лю-дини утворюється приблизно 150–180 л первинної сечі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9461436170212766
+      }
+    },
+    {
+      "question": "What happens to the composition of primary plasma as it passes through the nephron?",
+      "context": "Унаслідок цього первинна сеча перетворюється на вто-ринну сечу.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9097279050736498
+      }
+    },
+    {
+      "question": "What is the main function of the kidney's nerve-regulated function?",
+      "context": "Регуляція роботи нирок є нервово-гуморальною.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8213947990543735
+      }
+    },
+    {
+      "question": "What is the purpose of the question about profylaxis and prevention?",
+      "context": "Для запобігання розвитку захворювань органів видільної системи слід дотримуватися певних заходів профілактики:",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8603723404255319
+      }
+    },
+    {
+      "question": "What are some ways to prevent the development of kidney stones?",
+      "context": "Раціональне харчування дозволяє попередити порушення обміну речовин. Окрім того, воно передбачає обмеження споживання алкоголю, який порушує процеси виведення з організму продуктів обміну",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8920051579626047
+      }
+    },
+    {
+      "question": "What is the relationship between immunological system and cardiovascular system?",
+      "context": "Загартовування дозволяє підтримувати роботу імунної системи на високому рівні.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What are the three main layers of human skin?",
+      "context": "Вона складається з трьох основних шарів: епідермісу, дерми (власне шкіри) та підшкірної клітковини",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.853700672849609
+      }
+    },
+    {
+      "question": "What is the role of derma in the skin?",
+      "context": "Дерма являє собою шар сполучної тканини, що складається з еластичних волокон.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8083293036750483
+      }
+    },
+    {
+      "question": "What is the function of подшкірна клітковина?",
+      "context": "Підшкірна клітковина — це найглибший шар шкіри. У її клі-тинах можуть накопичуватися часоточки жиру.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7933130699088146
+      }
+    },
+    {
+      "question": "What is the main function of the skin?",
+      "context": "Вона захищає його від проникнення шкідливих організмів, mechanics and chemical damage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7824675324675324
+      }
+    },
+    {
+      "question": "How does the body regulate its temperature?",
+      "context": "Терморегуляція — це врівноваженість процесв віддачі й утворень тепла в організмі.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9217325227963526
+      }
+    },
+    {
+      "question": "What is the role of the skin in heat dissipation?",
+      "context": "Процеси тепловіддачі забезпечуються шкірою, легенями та органами виділення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8287529550827424
+      }
+    },
+    {
+      "question": "What is the main cause of heat stroke?",
+      "context": "Найчастіше причинами теплового удару є високі температура й вологість повітря.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8144946808510638
+      }
+    },
+    {
+      "question": "How can you prevent sunburn?",
+      "context": " Щоб уникнути теплових і сонячних ударів, у спекотну погоду не виходьте на вулицю без головного убору зі світлого матеріалу",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9823068309070548
+      }
+    },
+    {
+      "question": "What is the role of the central nervous system in regulating body temperature?",
+      "context": "Регуляція процесів утворення й виділення тепла відбувається чере діяльність центральної нервової системи й залоз внутрішньої секреції. Вона здійснюється рефлекторно.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8693853427895981
+      }
+    },
+    {
+      "question": "What is the main function of the skin?",
+      "context": "Shekinsa za-hiщає організм від негативного впливу зовнішніх факторів та потрапляння до нього збудників захворювання.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7811550151975684
+      }
+    },
+    {
+      "question": "What is the role of the kidneys in the filtration system?",
+      "context": "Функціональна одиниця нирок: б) нефрон",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8364066193853428
+      }
+    },
+    {
+      "question": "What does 'капіляри клубочків' refer to?",
+      "context": " CAPÍLARI КЛУБОЧКІВ ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9326241134751773
+      }
+    },
+    {
+      "question": "Which option is not filtered in the normal kidney section?",
+      "context": "в) вітаміни",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9164893617021277
+      }
+    },
+    {
+      "question": "What does 'зворотному всмоктуванню' refer to?",
+      "context": "ЗВОРОТНОМУ ВСМОКТУВАНЬЮ",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9326241134751773
+      }
+    },
+    {
+      "question": "What is not present in the normal urine of a healthy person?",
+      "context": "б) сечовину",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What causes pyelonephritis?",
+      "context": "г) відкладення солей у нирках",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8581560283687943
+      }
+    },
+    {
+      "question": "Which layer of skin is the deepest?",
+      "context": "г) ніготь",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8609422492401215
+      }
+    },
+    {
+      "question": "What organ plays a main role in heat dissipation?",
+      "context": "в) легені",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9222813238770685
+      }
+    },
+    {
+      "question": "What is the consequence of clogging the salivary ducts?",
+      "context": "г) грибкові захворювання",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8348847517730497
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "",
+      "category": "",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Tại якому напряму джгут накладается в разі венозної кровотечі?",
+      "context": "нижче від місця крововиливу",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9934988179669031
+      }
+    },
+    {
+      "question": "What is the main function of the kidney's nerve-regulated function?",
+      "context": "Регуляція роботи нирок є нервово-гуморальною.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8213947990543735
+      }
+    },
+    {
+      "question": "Why do veins need special valves to ensure blood flow in one direction?",
+      "context": "because they need to transport blood only in one direction",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9698036006546645
+      }
+    },
+    {
+      "question": "What is the role of the autonomic nervous system in regulating heart function?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Why is controlling blood pressure important for preventing cardiovascular diseases?",
+      "context": "Контроль свого артеріального тиску та профілактичні огляди в лі каря.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9393617021276596
+      }
+    }
+  ]
+}

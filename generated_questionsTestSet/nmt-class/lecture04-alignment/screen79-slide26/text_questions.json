@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was compared with human alignment performance in this experiment?",
+      "context": "I compared this observation with the performance of automatic alignment as run by Giza of two models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8421875
+      }
+    },
+    {
+      "question": "How did the improved model compare to the baseline model in terms of token alignment?",
+      "context": "One was the baseline model and then some improved model which simplified the token.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8092948717948718
+      }
+    },
+    {
+      "question": "What was observed to happen when humans had a clear idea of how to align tokens?",
+      "context": "So for the parts of the tokens where humans had a clear idea how to align words, Giza was able to discover this and we saw the improvement.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.815
+      }
+    },
+    {
+      "question": "What conclusion can be drawn from the observation that improved processing did not improve token alignment when humans were unsure about word alignments?",
+      "context": "If we looked at the tokens where humans did not have the clear idea of which words correspond to which, then there the improved processing had no effect.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38095238095238093,
+        "diversity_score": 0.8482441471571907
+      }
+    },
+    {
+      "question": "What is the main message or takeaway from this experiment regarding task definition and algorithm improvement?",
+      "context": "So always whenever you are doing any type of annotation always estimate the inter-annotator agreement and focus on the rules for annotations so that the task is well defined.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8903125000000001
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was compared with human alignment performance in this experiment?",
+      "context": "I compared this observation with the performance of automatic alignment as run by Giza of two models.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8421875
+      }
+    },
+    {
+      "question": "What was observed to happen when humans had a clear idea of how to align tokens?",
+      "context": "So for the parts of the tokens where humans had a clear idea how to align words, Giza was able to discover this and we saw the improvement.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.815
+      }
+    },
+    {
+      "question": "How did the improved model compare to the baseline model in terms of token alignment?",
+      "context": "One was the baseline model and then some improved model which simplified the token.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8092948717948718
+      }
+    }
+  ]
+}

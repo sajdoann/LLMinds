@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two different ways the decoder is used?",
+      "context": "During training and runtime",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7326388888888888
+      }
+    },
+    {
+      "question": "How does the Softmax function contribute to the estimation of loss during training?",
+      "context": "The calculation used to produce output words in training",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7673611111111112
+      }
+    },
+    {
+      "question": "What happens when the highest possible probability is produced by the Softmax?",
+      "context": "The effect on the loss calculation during training",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "How does the network select the next word to produce in runtime?",
+      "context": "The process of producing output words in runtime",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7414772727272727
+      }
+    },
+    {
+      "question": "What is the purpose of feeding the network with the state of the encoder during runtime?",
+      "context": "The role of the encoder in runtime",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7083333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when the highest possible probability is produced by the Softmax?",
+      "context": "The effect on the loss calculation during training",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "How does the Softmax function contribute to the estimation of loss during training?",
+      "context": "The calculation used to produce output words in training",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7673611111111112
+      }
+    },
+    {
+      "question": "How does the network select the next word to produce in runtime?",
+      "context": "The process of producing output words in runtime",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7414772727272727
+      }
+    }
+  ]
+}

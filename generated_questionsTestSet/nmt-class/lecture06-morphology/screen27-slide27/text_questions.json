@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'So that's what you use' imply about the selection process?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.3181818181818181
+      }
+    },
+    {
+      "question": "What does 'that's what you search for in the search' suggest about the purpose of using certain items?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.328125
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between using certain items and searching for them?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.35
+      }
+    },
+    {
+      "question": "What does 'the best' imply about the quality or characteristics of certain items?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.29807692307692313
+      }
+    },
+    {
+      "question": "What can be deduced about the tone or emphasis of the document?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.3068181818181819
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'So that's what you use' imply about the selection process?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.3181818181818181
+      }
+    },
+    {
+      "question": "What does 'that's what you search for in the search' suggest about the purpose of using certain items?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.328125
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between using certain items and searching for them?",
+      "context": "There is some selection of those which are the best. So that's what you use, that's what you search for in the search.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.35
+      }
+    }
+  ]
+}

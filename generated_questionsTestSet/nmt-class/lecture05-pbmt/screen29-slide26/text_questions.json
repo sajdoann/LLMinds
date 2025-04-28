@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'pruning' refer to in the context of hypothesis generation?",
+      "context": "This is a combination of the search space is still not sufficient.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7045454545454546
+      }
+    },
+    {
+      "question": "Why is it necessary to drop less likely partial hypotheses?",
+      "context": "We have to drop less likely partial hypothesis before we are finished.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7659090909090909
+      }
+    },
+    {
+      "question": "What is the goal of pruning in the context of hypothesis generation?",
+      "context": "What we have to do is we have to do some early pruning.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7263888888888889
+      }
+    },
+    {
+      "question": "How does 'early pruning' relate to the search space?",
+      "context": "This is a combination of the search space is still not sufficient.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7803030303030303
+      }
+    },
+    {
+      "question": "What is the purpose of generating partial hypotheses?",
+      "context": "We have to drop less likely partial hypothesis before we are finished.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6690340909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'pruning' refer to in the context of hypothesis generation?",
+      "context": "This is a combination of the search space is still not sufficient.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7045454545454546
+      }
+    },
+    {
+      "question": "How does 'early pruning' relate to the search space?",
+      "context": "This is a combination of the search space is still not sufficient.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7803030303030303
+      }
+    },
+    {
+      "question": "Why is it necessary to drop less likely partial hypotheses?",
+      "context": "We have to drop less likely partial hypothesis before we are finished.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7659090909090909
+      }
+    },
+    {
+      "question": "What is the goal of pruning in the context of hypothesis generation?",
+      "context": "What we have to do is we have to do some early pruning.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7263888888888889
+      }
+    }
+  ]
+}

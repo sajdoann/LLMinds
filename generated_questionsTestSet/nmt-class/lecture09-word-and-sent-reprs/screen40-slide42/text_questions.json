@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'aspects of meaning' refer to in this context?",
+      "context": "The introduction, setting up the topic of aspects of meaning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.609375
+      }
+    },
+    {
+      "question": "Why is it necessary to specify what we expect from discussing 'aspects of meaning'?",
+      "context": "The introduction, providing context for the discussion",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5684523809523809
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of clarifying expectations when discussing complex concepts like 'aspects of meaning'?",
+      "context": "The introduction, highlighting the significance of setting clear expectations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.6580882352941176
+      }
+    },
+    {
+      "question": "How does the phrase 'so that we know what do we expect' relate to the discussion of 'aspects of meaning'?",
+      "context": "The introduction, setting up the purpose of the discussion",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.5777310924369747
+      }
+    },
+    {
+      "question": "What can be inferred about the tone or intent behind the discussion of 'aspects of meaning', based on the introductory guidelines?",
+      "context": "The introduction, providing context for the discussion",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.5972222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'aspects of meaning' refer to in this context?",
+      "context": "The introduction, setting up the topic of aspects of meaning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.609375
+      }
+    },
+    {
+      "question": "What can be inferred about the tone or intent behind the discussion of 'aspects of meaning', based on the introductory guidelines?",
+      "context": "The introduction, providing context for the discussion",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "Why is it necessary to specify what we expect from discussing 'aspects of meaning'?",
+      "context": "The introduction, providing context for the discussion",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5684523809523809
+      }
+    },
+    {
+      "question": "How does the phrase 'so that we know what do we expect' relate to the discussion of 'aspects of meaning'?",
+      "context": "The introduction, setting up the purpose of the discussion",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.5777310924369747
+      }
+    }
+  ]
+}

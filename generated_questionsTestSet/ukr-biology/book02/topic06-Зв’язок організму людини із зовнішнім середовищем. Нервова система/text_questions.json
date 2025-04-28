@@ -1,0 +1,655 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of tissue are neurons composed of?",
+      "context": "Складовими якого типу тканин є нейрони?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9080188679245284
+      }
+    },
+    {
+      "question": "How do neurons transmit signals over long distances?",
+      "context": "Для більш швидкої передачі сигналу багато аксонів мають оболонку з ре-\nчовини мієліну, що на 70 % склада-\nся із жирів і на 30 % — з білків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9766509433962264
+      }
+    },
+    {
+      "question": "What is the purpose of synapses in neurons?",
+      "context": "Синапси — це місце передачі сигналу від однієї клітини до іншої.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7973842195540308
+      }
+    },
+    {
+      "question": "How do neurotransmitters work in synapses?",
+      "context": "Поверхня мембрани видить спеціальні речовyny — нейромедіатори, які проникають через szczілину й передають сигнал на рецептори постсинаптичної мембрани.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9633123689727463
+      }
+    },
+    {
+      "question": "What is the main function of chutlivy neurons?",
+      "context": "Чутливі (сенсорні) нейрони сприймають збудження та передають його від рецепторів до інших нейронів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7973512336719883
+      }
+    },
+    {
+      "question": "What is the role of проміжні (вставні) нейрони?",
+      "context": "Проміжні (вставні) нейрони з’єднають одні нейрони з іншими.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8219339622641509
+      }
+    },
+    {
+      "question": "What is the white matter in the brain?",
+      "context": "Мієлін надає волокнам аксонів білого кольору, тому частина мозку людини, які складаються переважно з аксонів і виконують провідні функції, називають білою речовиною.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8243486073674753
+      }
+    },
+    {
+      "question": "What are mirror neurons?",
+      "context": "У 1992 р. було відкрито так звані дзеркальні нейрони. Це нейрони, які збуджуються не лише, коли людина (або тварина) виконує якусь дії, але й тоді, коли вона просто спостерігає за виконанням цієї дії іншою істотою.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8912319644839067
+      }
+    },
+    {
+      "question": "What does the central nervous system control?",
+      "context": "у своїй верхній частині спинний мозок плавно переходить у головний. вони обидва вкриті спеціальними мозковими оболонками, що забезпечують їхню життєдіяльність.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8667896155483048
+      }
+    },
+    {
+      "question": "What is the function of somatic and autonomic nervous systems?",
+      "context": "Соматична нервова системаontrolує роботу скелетних м’язів ізабезпечує рухи людини (працює довільно), окрім того, вона відповідає за збір та передачу інформації від органів чуттів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8301476620180476
+      }
+    },
+    {
+      "question": "What is the function of the spinous nerve?",
+      "context": "Усього від спинного мозку відходить 31 пара спинномозкових нервів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7596585804132974
+      }
+    },
+    {
+      "question": "What is the shape and size of the spinous bone?",
+      "context": "Довжина спинного мозку менша, ніж хребта, тому нерви, які мають виходити між поперековими або крижовими хребців, спочатку йдуть униз по спинномозковому канalu й тільки потім виходять nazовні.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8270440251572327
+      }
+    },
+    {
+      "question": "What is the structure of the spinous nerve?",
+      "context": "Кожна пара спинномозкових нервів відходять від певного сегмента й виходять назовні між хребцями.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7801161103047896
+      }
+    },
+    {
+      "question": "What is the function of the spinous nerve?",
+      "context": "Провідні шляхи спинного мозку передають інформацію в головний мозок та назад до органів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7417582417582418
+      }
+    },
+    {
+      "question": "What is the structure of the spinous nerve?",
+      "context": "По спинномозковому каналу продовжують іти нерви, які утворюють структуру, що має назву «кінський хвіст».",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7809973045822103
+      }
+    },
+    {
+      "question": "What is the relationship between the spinous nerve and the spinal cord?",
+      "context": "Спинний мозок закінчується нижче від першого поперекового хребця.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8577830188679245
+      }
+    },
+    {
+      "question": "What is the composition of the spinous nerve?",
+      "context": "Сіра речовина — це скупчення тіл нейронів спинного мозку, що розміщується навколо спинномозкового каналу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7762803234501348
+      }
+    },
+    {
+      "question": "What is the relationship between the spinous nerve and the brain?",
+      "context": "Провідні шляхи спинного мозку передають інформацію в головний мозок та назад до органів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8206740848250282
+      }
+    },
+    {
+      "question": "What is the structure of the spinal cord?",
+      "context": "У каналі хребта тверда оболонка закріплена від-rostками та, наче мішком, укриває спинний мозок та решту оболонок.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7907681940700809
+      }
+    },
+    {
+      "question": "What is the function of the cerebrum?",
+      "context": "Головний мозок — це центральний орган нервової системи, який Здійснює регуляцію й координацію всіх процесв в організмі та відповідає за розумову діяльність і свідомість людини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7408176100628932
+      }
+    },
+    {
+      "question": "What is the purpose of the cerebellum?",
+      "context": "Мозолисте тіло […] забезпечує складні форми поведінки",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7771787960467206
+      }
+    },
+    {
+      "question": "What is the role of the проміжний мозок (intermediate brain)?",
+      "context": "Проміжний мозок бере участь у процесах сну, пам’яті, інстинктивної поведінки, психічних реакцій.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8364779874213837
+      }
+    },
+    {
+      "question": "What is the function of the кора головного мозку (cerebral cortex)?",
+      "context": "Кора великих півкуль головного мозку регулює всі життєві процеси організму, а також забезпечує зв’язок organisingу із зовнішнім середовищем.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8481132075471698
+      }
+    },
+    {
+      "question": "What is the relationship between the спинний мозок (spinal cord) and the головний мозок (cerebral cortex)?",
+      "context": "Головний мозок у процесі еволюції утворився з передньої частини спинного мозку.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8825702599287505
+      }
+    },
+    {
+      "question": "What is the main function of the spinous canal in the head?",
+      "context": "This canal is filled with a fluid called spinal fluid.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8367924528301887
+      }
+    },
+    {
+      "question": "How does the size of the human brain change over time?",
+      "context": "The volume of the brain decreased from around 1500 cubic centimeters in early modern humans to around 1425 cubic centimeters in modern humans.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9305771365149833
+      }
+    },
+    {
+      "question": "What is the main function of the vagus nerve?",
+      "context": "The spinous canal contains a fluid called spinal fluid, which has several functions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8105043541364296
+      }
+    },
+    {
+      "question": "What is the highest level of coordination in the human brain?",
+      "context": "Головними відділами мозку є кінцевий, середній, проміжний мозок, мозочок та довгастий mozok. Найвищий рівень координації здійснює кора передніх півкуль кінцевого мозку.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.843171608265948
+      }
+    },
+    {
+      "question": "What is the main function of the sympathetic nervous system?",
+      "context": "Симпатична нервова система прискорює роботу серця, звужує просвіт судин, підвищує кров’яний тиск, стимулює обмін речовин у клітинах та тканинах організму тощо.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8090745732255167
+      }
+    },
+    {
+      "question": "What is the primary function of the parasympathetic nervous system?",
+      "context": "Парасимпатична нервова система складається з двох відділів, що спрацюють протилежну дію на органи та тканини організму,— симпатичною й парасимпатичною (мал. 35.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8063791554357592
+      }
+    },
+    {
+      "question": "What is the role of the hypothalamus in regulating the autonomic nervous system?",
+      "context": "Вищим центром контролю вегетативної нервової системи є гіпоталамус — ділянка проміжного мозку, що керує також роботою ендокринної системи.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8377167905469792
+      }
+    },
+    {
+      "question": "Why is the autonomic nervous system called 'autonomous'?",
+      "context": "Діяльність вегетативної нервової системи не підпорядковується волі людини: ми не можемо свідомо керувати роботою своїх внутрішніх органів, як, скажімо, керуємо своїми м’язами. Саме тому ці частини нервової системи інакше й називаються автономною.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8886223162003903
+      }
+    },
+    {
+      "question": "What is the role of the sympathetic nervous system in the body?",
+      "context": "Симпатична система сприяє інтенсивній діяльності організму, особливо в екстремальних умовах, коли потрібне напруження всіх його сил.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8305424528301887
+      }
+    },
+    {
+      "question": "What is the function of the parasympathetic nervous system in the body?",
+      "context": "Парасимпатична нервова система спричиняє сповільнення робо-\nти серця, розширення просвіту су-\nдин, зниження кров’яного тиску, а також впливає на процеси, що \nпов’язані з відновленням використаних речовин у клітинах і тка-\nнинах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8209068776628119
+      }
+    },
+    {
+      "question": "What triggers the activation of the sympathetic nervous system?",
+      "context": "Вона стає активною, коли ми \nвідчуваємо різні емоції (страх, гнів) або стикаємося зі значними напру-\nженнями (тяжка фізична праця, спортивні змагання).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8539982030548068
+      }
+    },
+    {
+      "question": "What is the relationship between the sympathetic and parasympathetic nervous systems?",
+      "context": "Діяльність майже всіх внутрішніх органів може координувати-\nся обома відділами вегетативної нервової системи — симпатичним \nі парасимпатичним. Таке подвійне керування забезпечує кращу ре-\nгуляцію роботи органів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8552975326560233
+      }
+    },
+    {
+      "question": "What is the role of the parasympathetic nervous system in stress regulation?",
+      "context": "Парасимпатична нервова система активно працює в ситуаціях, коли організм перебуває \nу стані спокою.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8363240533051853
+      }
+    },
+    {
+      "question": "What is encephalitis?",
+      "context": "Енцефаліт — це запалення головного мозку. Причини запалення \nможуть бути різними — інфекції, алергічні реакції або дія токсинів.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7462657232704403
+      }
+    },
+    {
+      "question": "What can help prevent encephalitis?",
+      "context": "Енцефалітам алер-\nгенами й токсинами можна запобігти, уникаючи контактів з алер-\nгенами й токсинами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9096054888507719
+      }
+    },
+    {
+      "question": "What is encephalitis?",
+      "context": "Запалення мозку — дуже небезпечне захворювання, яке може призвести до смерті людини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7358490566037736
+      }
+    },
+    {
+      "question": "How can meningoitis be prevented?",
+      "context": "Серед неінфекційних чинників захворювання на менінгіт є дія деяких антибіотиків, протизапалених та інших препаратів.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9743935309973046
+      }
+    },
+    {
+      "question": "What is the cause of poliomyelitis?",
+      "context": "Поліомієліт — це тяжке інфекційне захворювання, яке може призвести до враження центральної нервової системи.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7592093441150045
+      }
+    },
+    {
+      "question": "What is the name of the bacteria that causes Lyme disease?",
+      "context": "Хвороба Лайма отримала свою назву від назви американського містечка Старий Лайм, у якому її виявили вперше.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8579009433962264
+      }
+    },
+    {
+      "question": "How is encephalitis usually transmitted?",
+      "context": "Щоб не захворіти на нього, роблять щеплення та попереджають укуси кліщів або комарів, які є переносниками збудників цього захворювання.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9095332671300893
+      }
+    },
+    {
+      "question": "Чого вона є спіралеподібною?",
+      "context": "Збудником її є спírалеподібна бактерія борелія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9858490566037735
+      }
+    },
+    {
+      "question": "На які континенти трапляється хвороба Лайм, окрім Антарктиди?",
+      "context": "Збудник її є спіралеподібна бактерія борелія, що потрапляє в організм людини через укуси кліщів",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9824797843665768
+      }
+    },
+    {
+      "question": "Чego причиною можуть бути хвороби нервової системи?",
+      "context": "Чоловейка для борелії — випадкове місце проживання: зазвичай вона вражає диких копитних. До захворювань нервової системи належать енцефаліт, менінгіт, неврит, поліомієліт та ін.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.98318293683347
+      }
+    },
+    {
+      "question": "What accelerates the heartbeat?",
+      "context": "а) прискорює роботи серця",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8160377358490566
+      }
+    },
+    {
+      "question": "What is the name of inflammation of the soft cover of the brain?",
+      "context": "Запалення м’якої оболонки мозку має назву: а) енцефаліт",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8347746331236897
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "N/A",
+      "category": "N/A",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "N/A",
+      "category": "N/A",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "N/A",
+      "category": "N/A",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "N/A",
+      "category": "N/A",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "",
+      "context": "",
+      "difficulty": "N/A",
+      "category": "N/A",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of tissue are neurons composed of?",
+      "context": "Складовими якого типу тканин є нейрони?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9080188679245284
+      }
+    },
+    {
+      "question": "What is the relationship between the sympathetic and parasympathetic nervous systems?",
+      "context": "Діяльність майже всіх внутрішніх органів може координувати-\nся обома відділами вегетативної нервової системи — симпатичним \nі парасимпатичним. Таке подвійне керування забезпечує кращу ре-\nгуляцію роботи органів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8552975326560233
+      }
+    },
+    {
+      "question": "Чego причиною можуть бути хвороби нервової системи?",
+      "context": "Чоловейка для борелії — випадкове місце проживання: зазвичай вона вражає диких копитних. До захворювань нервової системи належать енцефаліт, менінгіт, неврит, поліомієліт та ін.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.98318293683347
+      }
+    },
+    {
+      "question": "What is the relationship between the spinous nerve and the spinal cord?",
+      "context": "Спинний мозок закінчується нижче від першого поперекового хребця.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8577830188679245
+      }
+    },
+    {
+      "question": "How can meningoitis be prevented?",
+      "context": "Серед неінфекційних чинників захворювання на менінгіт є дія деяких антибіотиків, протизапалених та інших препаратів.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9743935309973046
+      }
+    }
+  ]
+}

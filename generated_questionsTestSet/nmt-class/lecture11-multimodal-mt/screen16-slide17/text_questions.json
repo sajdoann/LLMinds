@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first step in the proposed speech translation system?",
+      "context": "We really should get a great speech translation system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "How does the machine translation part of the system work?",
+      "context": "So the idea would be to run ASR on the sound that you want to translate and then you would run the machine translation...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is described as the 'superhuman interpretation' of what has been said?",
+      "context": "...and that the superhuman interpretation of what has been said.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8386363636363636
+      }
+    },
+    {
+      "question": "Is a specific example or scenario provided to illustrate how the system would work?",
+      "context": "Well...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "What is the tone of the document, as it relates to the proposal for a speech translation system?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.859375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the tone of the document, as it relates to the proposal for a speech translation system?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.859375
+      }
+    },
+    {
+      "question": "Is a specific example or scenario provided to illustrate how the system would work?",
+      "context": "Well...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "How does the machine translation part of the system work?",
+      "context": "So the idea would be to run ASR on the sound that you want to translate and then you would run the machine translation...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is described as the 'superhuman interpretation' of what has been said?",
+      "context": "...and that the superhuman interpretation of what has been said.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8386363636363636
+      }
+    }
+  ]
+}

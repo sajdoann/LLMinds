@@ -1,0 +1,677 @@
+{
+  "all_questions": [
+    {
+      "question": "What does Winston Churchill say about history?",
+      "context": "Or is it, as Winston Churchill said, a chronicle by the victors, an interpretation by those who write it?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8623376623376624
+      }
+    },
+    {
+      "question": "What skills are developed through the study of history?",
+      "context": "The study of history will also enhance your critical-thinking and analytical ability, both of which consistently appear among the top ten skills desired by employers ( Figure 1.2 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8282828282828283
+      }
+    },
+    {
+      "question": "What is the importance of historians being effective communicators?",
+      "context": "Who cares about a story nobody reads or a product nobody buys? What company in the world could not use and value someone who can think critically and creatively and then explain and communicate effectively?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8198188784395681
+      }
+    },
+    {
+      "question": "Why is historical thinking important?",
+      "context": "Historical thinking provides students with a stronger sense of self, with avenues to explore human existence, and with the skills necessary to navigate the complexity of their world and future workplaces.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8596363636363636
+      }
+    },
+    {
+      "question": "What is global citizenship?",
+      "context": "Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self-identifies as part of the larger world community.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7858585858585858
+      }
+    },
+    {
+      "question": "What is a global citizen?",
+      "context": "A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens”.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.79
+      }
+    },
+    {
+      "question": "What is the purpose of a global citizen?",
+      "context": "Whether you would like to be a global citizen of the world or not, understanding the world is essential.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7472593582887701
+      }
+    },
+    {
+      "question": "Why is it important to consider multiple perspectives when analyzing historical source material?",
+      "context": "learning how to critically analyze source material. A short series of questions will help to guide your analysis.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8876182640888524
+      }
+    },
+    {
+      "question": "How have maps been used throughout history, and what implications does this have for understanding the world?",
+      "context": "For most of history, however, this was not actually the case. Maps are some of the most contested pieces of historical evidence we have because they were almost always made from the perspective of the one making the map, not as an objective practice.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9028896103896104
+      }
+    },
+    {
+      "question": "What are primary sources?",
+      "context": "A primary source is a gateway to the past because it is an object or document that comes directly from the time period to which it refers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7867768595041322
+      }
+    },
+    {
+      "question": "What is the main advantage of primary sources over secondary sources in historical research?",
+      "context": "For historians, however, the written word is more accurate evidence for building narratives of the past.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8124375624375624
+      }
+    },
+    {
+      "question": "Why are secondary sources considered more valuable than primary sources?",
+      "context": "em, are considered more valuable than other sources because they are as close in time as we can get to the events being studied.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8942148760330578
+      }
+    },
+    {
+      "question": "What is historiography, and why is it important for historians?",
+      "context": "Good research requires both types of sources and some attention to historiography, which is the study of how other historians have already interpreted and written about the past.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8303434343434344
+      }
+    },
+    {
+      "question": "Why is context important for interpreting historical events?",
+      "context": "Without context, interpretation of the past is quite difficult. Studying artifacts is certainly worthwhile, but text offers us greater clarity.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8871411483253588
+      }
+    },
+    {
+      "question": "What are the four key areas to consider when interpreting a source?",
+      "context": "We approach a primary source in a similar way. There are four key areas to consider when interpreting sources: the author, the audience, the intent, and the context.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "How do historians evaluate the strength of online sources?",
+      "context": "Historians evaluate the strength of both primary and secondary sources, especially online. How do we decide what a good source is?",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.8438672438672439
+      }
+    },
+    {
+      "question": "What is the purpose of using primary sources in world history?",
+      "context": "These will normally be set off as feature boxes, as noted earlier.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8495867768595041
+      }
+    },
+    {
+      "question": "What are some things to consider when evaluating a website or other source?",
+      "context": "Always make sure you can tell who is producing the website. Is it a scholar, a museum, or a research organization? If so, there is a good chance the material is sound.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8861538461538462
+      }
+    },
+    {
+      "question": "What does the author suggest doing if you are unsure about the accuracy of a source?",
+      "context": "Does your school library list the site as a resource? Finally, if you are not sure, ask.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8631372549019608
+      }
+    },
+    {
+      "question": "What is one way images can be useful in understanding historical events and people?",
+      "context": "Images of them can tell us much about those events and the people who enter or interact with them.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8685235816814765
+      }
+    },
+    {
+      "question": "What was the original purpose of churches in the East during this time period?",
+      "context": "because most people could not read, stories of religious figures and events were told through highly decorative and symbolic images, and obedience and a desire to join a religious community could be motivated by the buildings’ grandeur.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8550868486352358
+      }
+    },
+    {
+      "question": "Why did Sultan Mehmed II save the Hagia Sophia from destruction?",
+      "context": "he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8988980716253443
+      }
+    },
+    {
+      "question": "What type of sources are considered the best possible resource for historians?",
+      "context": "textual, or written, primary sources are considered the best possible resource for historians. They tend to offer both far more context and far more information than other types of sources, and sometimes clues about the writer’s intent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8424242424242424
+      }
+    },
+    {
+      "question": "Why is it important to consider the author's background when interpreting a primary source document?",
+      "context": "Who wrote the piece and what is their background? What was important to the author? Why might the author have written what they did?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8562121212121212
+      }
+    },
+    {
+      "question": "What type of audience should be considered when interpreting a primary source document?",
+      "context": "For whom was it written? Was it meant to be public or private? Is it a letter to a friend or an essay submitted for publication?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8586676481413323
+      }
+    },
+    {
+      "question": "What role do you think texts will play in the future for historians?",
+      "context": "Texts will one day be a source for historians to use, but knowing who sent them, and to whom, will be essential to interpreting them correctly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8606484424666243
+      }
+    },
+    {
+      "question": "What should historians do with texts that present competing information or perspectives?",
+      "context": "How do they decide what each one adds to the true story of the conquest of Mexico? Texts will one day be a source for historians to use, but knowing who sent them, and to whom, will be essential to interpreting them correctly.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.886991341991342
+      }
+    },
+    {
+      "question": "Why is it important to consider the audience of a document?",
+      "context": "For whom was it written? Was it meant to be public or private? Is it a letter to a friend or an essay submitted for publication?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8293605915615485
+      }
+    },
+    {
+      "question": "What is the significance of considering the circumstances of a document's creation?",
+      "context": "The answers to these questions will shape your interpretation of the primary source and bring you closer to its true meaning.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7984688995215311
+      }
+    },
+    {
+      "question": "What type of language choices are considered rhetorical?",
+      "context": "Textual Sources: The Importance of Language The different types of language used in a source are clues to its interpretation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8084224598930481
+      }
+    },
+    {
+      "question": "How do historians decide what each primary document adds to the true story of a historical event?",
+      "context": "Historians begin their work with a research question and seek to find the sources necessary to build an authentic narrative that answers it.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8451628585318425
+      }
+    },
+    {
+      "question": "What are some challenges historians face when studying historical documents?",
+      "context": "Written sources are undeniably valuable but often leave out important details. For example, many speak only of the lives of elites.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8722727272727273
+      }
+    },
+    {
+      "question": "What kinds of sources were used by historians to study the lives of ordinary people in the past?",
+      "context": "Historians of the 1960s began to revolutionize the discipline by studying history “from the bottom up.” In other words, they began to focus on just those groups that had long been ignored.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8629058441558441
+      }
+    },
+    {
+      "question": "Why is it difficult to write the history of Africa?",
+      "context": "Writing Africa’s history is complicated by both its size and its diversity, as well as its colonial past.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8527272727272728
+      }
+    },
+    {
+      "question": "What forces shape history?",
+      "context": "What, then, are the forces that shape history, that shift it one way or another, that move people to change on both an individual and a societal level?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8225524475524475
+      }
+    },
+    {
+      "question": "Can bias ever be a positive force in understanding history?",
+      "context": "Bias can even sometimes act as a positive force, allowing us to look at the past in new ways.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8926794258373205
+      }
+    },
+    {
+      "question": "What are historians trying to eliminate when they work on historical causes?",
+      "context": "Historians, particularly those trained in recent times, work to eliminate as much bias as they can, but we cannot wholly disconnect ourselves from our environment and beliefs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8932400932400932
+      }
+    },
+    {
+      "question": "What is the primary cause in a pyramid of causation?",
+      "context": "The primary cause is the most immediate. It is the spark.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7756818181818181
+      }
+    },
+    {
+      "question": "Why did Mehmed II lay siege to Constantinople?",
+      "context": "He had been badly treated by his father, and when he ascended the throne, he felt he had something to prove.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9044786096256685
+      }
+    },
+    {
+      "question": "What factors influenced Mehmed II's decision to siege Constantinople?",
+      "context": "All these factors played a role in the siege undertaken by Mehmed II. Can you order them by importance? This is the point where historians usually disagree, even about events for which most of the facts are clear.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.885974025974026
+      }
+    },
+    {
+      "question": "What was the great man theory of history that influenced early historians?",
+      "context": "Although these historians gave some attention to historical detail, there was also an equal measure of bravado, exaggeration, and political spin in their work. This seemed reasonable in a world where the king’s choice became everyone’s choice and where sources rarely spoke about anyone other than noble lords and ladies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.859040404040404
+      }
+    },
+    {
+      "question": "What was the main focus of early historians when studying history?",
+      "context": "In the West, Thomas Carlyle, a nineteenth-century Scottish historian, considered the study of the lives of “big men” enough to understand all of history.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.810702479338843
+      }
+    },
+    {
+      "question": "What was the main perspective of progressive historians?",
+      "context": "Their perspective might also be considered a form of teleological history, which proposes that history is moving to a particular end, a culmination of the human experience.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7856060606060606
+      }
+    },
+    {
+      "question": "What was the focus of Romantic art and literature?",
+      "context": "Even a small flower was worthy of a poem, and the plight of a lowly squire was as important as the worries of the great lord of the manor, for both were essential actors in the human experience.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8208754208754209
+      }
+    },
+    {
+      "question": "Who believed that the 'general mass of men' who participate in history are the ones who truly cause events?",
+      "context": "Writing a little later, in 1860, the Russian novelist Leo Tolstoy argued that there is more to history than the actions of one person.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8629199604743083
+      }
+    },
+    {
+      "question": "What was the common thread between progressive history and teleological history?",
+      "context": "Their perspective might also be considered a form of teleological history, which proposes that history is moving to a particular end, a culmination of the human experience.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8363292011019283
+      }
+    },
+    {
+      "question": "How did the idea of inevitable human progress change over time?",
+      "context": "In the twentieth century, particularly after World War I, the idea of inevitable human progress seemed laughable.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8815599173553719
+      }
+    },
+    {
+      "question": "What was the main shift in historians' focus during the twentieth century?",
+      "context": "Historians became more interested in the irrational aspects of the human condition, the psychology behind people’s choices.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8452892561983472
+      }
+    },
+    {
+      "question": "Why did social history become important during the 1960s in the West?",
+      "context": "The field of social history, guided by the concept that history is made by all people and not just elites, became much more important during this period.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8745123966942149
+      }
+    },
+    {
+      "question": "What are some key lenses through which twentieth-century historians make interpretations?",
+      "context": "In addition to examining reality as socially constructed, twentieth-century historians made interpretations through the lenses of Marxism, which considers history to be driven by class struggle, women’s history (now usually referred to in the context of gender history), which sees history as driven by power differences between men and women, and postcolonialism, which focuses on the history of places formerly occupied by colonial powers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9027079303675049
+      }
+    },
+    {
+      "question": "How do social constructs influence human behavior?",
+      "context": "Social constructs exist everywhere and inform many decisions we make, often on a subconscious level.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.943982683982684
+      }
+    },
+    {
+      "question": "What are some historical thought schools that approach the study of colonial Latin America from different perspectives?",
+      "context": "A progressive historian might explore the growth of democratic legal systems or people’s increased interest in republican forms of government. The intellectual historian might consider the Indigenous literature and philosophy of the period.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8707116412998765
+      }
+    },
+    {
+      "question": "What is the main goal of historians in presenting historical interpretations?",
+      "context": "It is not the historian’s job to pass judgment on the past, but to present it as clearly as possible and to preserve that clarity for future generations.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8056413941789435
+      }
+    },
+    {
+      "question": "What is the benefit of investigating multiple strands of history?",
+      "context": "However, the more strands of history we can investigate and bring together, the more accurate the picture will be.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7919191919191919
+      }
+    },
+    {
+      "question": "What is the role of interpretation in the field of history?",
+      "context": "interpretation plays a central role in the field of history.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.737979797979798
+      }
+    },
+    {
+      "question": "Why is using only one lens a danger for historians?",
+      "context": "The danger lies in using only one lens.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8656818181818182
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why did Sultan Mehmed II save the Hagia Sophia from destruction?",
+      "context": "he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8988980716253443
+      }
+    },
+    {
+      "question": "Why did Mehmed II lay siege to Constantinople?",
+      "context": "He had been badly treated by his father, and when he ascended the throne, he felt he had something to prove.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9044786096256685
+      }
+    },
+    {
+      "question": "How have maps been used throughout history, and what implications does this have for understanding the world?",
+      "context": "For most of history, however, this was not actually the case. Maps are some of the most contested pieces of historical evidence we have because they were almost always made from the perspective of the one making the map, not as an objective practice.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9028896103896104
+      }
+    },
+    {
+      "question": "How do social constructs influence human behavior?",
+      "context": "Social constructs exist everywhere and inform many decisions we make, often on a subconscious level.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.943982683982684
+      }
+    },
+    {
+      "question": "Can bias ever be a positive force in understanding history?",
+      "context": "Bias can even sometimes act as a positive force, allowing us to look at the past in new ways.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8926794258373205
+      }
+    }
+  ]
+}

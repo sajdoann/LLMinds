@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the conditional language model scheme?",
+      "context": "The idea is that you will again exploit the conditional language model scheme.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7569444444444444
+      }
+    },
+    {
+      "question": "What type of task will be exploited in this document?",
+      "context": "The idea is that you will again exploit the conditional language model scheme.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7416666666666667
+      }
+    },
+    {
+      "question": "How many questions should be generated based on this document?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the specific requirement for generating answers using only information in the document?",
+      "context": "2. The questions must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7737556561085973
+      }
+    },
+    {
+      "question": "What are the categories into which each question can fall (easy, medium, hard)?",
+      "context": "IMPORTANT GUIDELINES: 1. Generate exactly 5 questions. 2. The questions must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "analytical",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8165064102564102
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the conditional language model scheme?",
+      "context": "The idea is that you will again exploit the conditional language model scheme.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7569444444444444
+      }
+    },
+    {
+      "question": "What type of task will be exploited in this document?",
+      "context": "The idea is that you will again exploit the conditional language model scheme.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7416666666666667
+      }
+    },
+    {
+      "question": "What is the specific requirement for generating answers using only information in the document?",
+      "context": "2. The questions must be answerable using ONLY the information in the document - no external knowledge should be required.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7737556561085973
+      }
+    }
+  ]
+}

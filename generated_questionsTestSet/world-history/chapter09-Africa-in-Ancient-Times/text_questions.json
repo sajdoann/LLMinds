@@ -1,0 +1,1348 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of environments support ever-growing populations over long periods of time?",
+      "context": "Well-watered regions in Africa, such as the grassy plains of the savannas and the northern and southern fringes of the continent, have historically produced environments that foster settled human communities.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8778554778554779
+      }
+    },
+    {
+      "question": "What type of environment is less fertile and produces land that cannot be successfully farmed?",
+      "context": "More arid regions, such as the narrow transitional belts separating the savannas from Africa’s deserts, experience less rain and have less fertile soil, producing land that cannot be successfully farmed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9074074074074074
+      }
+    },
+    {
+      "question": "What is the result of Africa's position across the equatorial and subtropical latitudes?",
+      "context": "Africa is home to a range of climates, including searing deserts, frozen glaciers, sweltering rainforests, and lush grasslands. These divergent environments exist because most of the continent lies between the Tropic of Cancer and the Tropic of Capricorn, in the tropical climate zone.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.846011396011396
+      }
+    },
+    {
+      "question": "What is the primary reason why oral stories were more prevalent in societies along the Congo River compared to those along the Nile?",
+      "context": "The geographic differences between the environments of these rivers produced vastly different societies. The Nile River and its predictable flood patterns allowed Egyptian civilization to flourish for centuries. Large cities and grand architecture were features of the region due to readily available and plentiful food supplies, and hieroglyphs remained that left a clear and permanent record of key moments of its history. The Congo, however, flows through a tropical region, where dense forests created a very different kind of society, and the moist environment did not allow for recorded history but rather oral stories passed down through generations.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.9146520146520146
+      }
+    },
+    {
+      "question": "What is the Sahel?",
+      "context": "The Sahel , the northernmost band, is a semiarid belt between the Sahara and the grassland savannas to the south ( Figure 9.5 ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.735897435897436
+      }
+    },
+    {
+      "question": "Why do people of the Sahel adopt a mixed-farming system?",
+      "context": "The people of the Sahel have historically been seminomadic—that is, they have adopted a mixed-farming system of crop production and the breeding and raising of livestock.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8506410256410256
+      }
+    },
+    {
+      "question": "What is the climate like in the woodland savanna region?",
+      "context": "The area receives plentiful rainfall, usually nine months of the year, and farmers in the region cultivate palm oil trees and root crops such as yams.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8330443040587968
+      }
+    },
+    {
+      "question": "Why is it difficult for civilizations to grow in arid regions?",
+      "context": "Limits on resource availability in the more arid parts of Africa, as elsewhere in the world, have necessarily restricted the growth and expansion of civilizations.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8822658822658822
+      }
+    },
+    {
+      "question": "What is the main reason why no large civilizations emerged in the more obviously arid parts of Africa?",
+      "context": "Limits on resource availability in the more arid parts of Africa, as elsewhere in the world, have necessarily restricted the growth and expansion of civilizations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8449926979338744
+      }
+    },
+    {
+      "question": "What is the Sahara's average daytime high temperature?",
+      "context": "The average daytime high is 99°F, and average nighttime lows are as cool as 68°F...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8265532544378698
+      }
+    },
+    {
+      "question": "What is unique about the water collection in oases in the Sahara Desert?",
+      "context": "The only plants that can survive in this hostile environment rely on the water that collects in dry riverbeds during the exceptional periods of rain, but they are few.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8571717171717171
+      }
+    },
+    {
+      "question": "What is unique about the rainfall pattern in the Kalahari desert?",
+      "context": "Precipitation in the Kalahari depends largely on weather patterns influenced by the Indian Ocean and is highly variable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8328305681246857
+      }
+    },
+    {
+      "question": "What are the ideal conditions for growing olive trees, cereal grains, and grapes?",
+      "context": "The combination of dry summers with lower humidity (relative to the tropical band) and mild rainy winters makes them ideal environments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8626068376068377
+      }
+    },
+    {
+      "question": "Why do areas around Lake Victoria experience extreme amounts of rainfall?",
+      "context": "Coastal islands and the tropical area around Lake Victoria, for example, receive upward of fifty-nine inches of rain per year.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8996646628225575
+      }
+    },
+    {
+      "question": "What is unique about the climate in the Ethiopian highlands?",
+      "context": "Thanks to the influence of the eastern desert, the Ethiopian highlands form a drier climate region.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8025708859042193
+      }
+    },
+    {
+      "question": "What type of lifestyle did hunter-gatherers in Africa typically have?",
+      "context": "Hunter-gatherers do not plant crops or build permanent shelters but rather live nomadic lifestyles guided by the seasons, limited resource availability, conflict with other groups, or a combination of these factors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8668091168091168
+      }
+    },
+    {
+      "question": "What is unique about Baka village construction?",
+      "context": "Baka villages are made up of small single-family huts of branches and leaves, built predominantly by women and usually dismantled after about a week so the Baka can follow the available food supply.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8784682750199991
+      }
+    },
+    {
+      "question": "What is an example of how Baka society has a well-defined structure?",
+      "context": "In addition to building the family hut, women also dam small streams to catch fish and carry material gathered while foraging with their husbands.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8784064164498947
+      }
+    },
+    {
+      "question": "What type of structure do Baka villages have?",
+      "context": "Baka villages are made up of small single-family huts of branches and leaves, built predominantly by women and usually dismantled after about a week so the Baka can follow the available food supply.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8649609490126732
+      }
+    },
+    {
+      "question": "Who holds higher social status in Baka society?",
+      "context": "Men hold a higher social status derived from the fact that they engage in the more hazardous task of hunting and trapping animals.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9005924630924631
+      }
+    },
+    {
+      "question": "What do San people primarily rely on for food due to their arid living conditions?",
+      "context": "The San diet is dictated by the arid conditions in which they live.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8888176638176638
+      }
+    },
+    {
+      "question": "When did agriculture emerge in Africa?",
+      "context": "There is a general consensus that agriculture emerged in three distinct regions: along the Nile River in Egypt, in the eastern Sahara of Sudan, and in the great bend of the Niger River of West Africa.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8781259892371004
+      }
+    },
+    {
+      "question": "What was the timeline for the emergence of agriculture in the region south of the Sahara?",
+      "context": "The origins of that process can be traced to as early as 9000 BCE, when the Nilo-Saharan people of the region began to adopt the grain-collecting and grinding techniques of their northern neighbors and applied them to sorghum and pearl millet.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8293585148423859
+      }
+    },
+    {
+      "question": "What was the approximate timeline for agriculture's spread across North Africa?",
+      "context": "Over the next few thousand years, these practices were disseminated west across North Africa to Libya, Tunisia, Algeria, and Morocco.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8362665112665113
+      }
+    },
+    {
+      "question": "What was the approximate timeline for the emergence of agriculture in Egypt?",
+      "context": "The oldest evidence for agriculture in Africa can be found in Egypt along the Nile River valley, sometime after 7000 BCE.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8244796139532982
+      }
+    },
+    {
+      "question": "When did the Nilo-Saharans domesticate wild cattle?",
+      "context": "By around 8000 BCE, the Nilo-Saharans had domesticated wild cattle of the Red Sea hills and had begun to produce pottery they used to store and cook these grains.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8549206349206349
+      }
+    },
+    {
+      "question": "When did iron tools begin to overtake bronze tools in the Near East?",
+      "context": "It was only after about 1000 BCE that the number of iron tools began to overtake the number of bronze tools across the Near East.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8627492877492877
+      }
+    },
+    {
+      "question": "What was the effect of bronze technology on agricultural production?",
+      "context": "Bronze was introduced into Egypt from the Near East and Eastern Mediterranean a little before 3000 BCE. From there, bronze technology was gradually disseminated west across North Africa as well as south up the Nile into sub-Saharan Africa.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8249465811965813
+      }
+    },
+    {
+      "question": "Why were early iron objects inferior to bronze in strength?",
+      "context": "The reason for this is that iron is far more difficult to produce than bronze.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8904761904761904
+      }
+    },
+    {
+      "question": "What was the catalyst for the widespread adoption of ironworking technology in West Africa?",
+      "context": "The obvious utility of iron for fashioning tougher and more durable tools used to clear forests, aerate land, and dig trenchbased irrigation systems led others to adopt the new material.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8329437261061192
+      }
+    },
+    {
+      "question": "Where did modern scholars initially assume ironworking technology was introduced?",
+      "context": "For many years, modern historians assumed that ironworking technologies spread to other parts of Africa from Egypt.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9094771241830065
+      }
+    },
+    {
+      "question": "What is the current prevailing consensus regarding the origin of iron smelting in sub-Saharan Africa?",
+      "context": "Most modern scholars agree that iron smelting in sub-Saharan Africa likely preexisted its introduction into Egypt by a few centuries.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.875976800976801
+      }
+    },
+    {
+      "question": "What is the origin of the term \\",
+      "context": "The word “Bantu” is a modern term invented by linguists who have studied the languages of Africa. The word is made up of the common stem “ntu” and the plural prefix “ba” which put together literally means “people.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7959549411162314
+      }
+    },
+    {
+      "question": "What was the outcome of the adoption of ironworking technology in West Africa?",
+      "context": "As a result, over the next several centuries, ironworking technology spread around West Africa and later far beyond.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8076275576275577
+      }
+    },
+    {
+      "question": "Where did the original proto-Bantu speakers emerge and live?",
+      "context": "It is generally accepted today that the original proto-Bantu speakers emerged and lived in the area between modern-day Nigeria and Cameroon in West and Central Africa.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8734352067685401
+      }
+    },
+    {
+      "question": "What was the likely direction of the earliest Bantu migrations?",
+      "context": "In both phases, pioneering groups moved gradually and sporadically, first proceeding eastward across the northern reaches of the Congo Forest and arriving in the Great Lakes region of East Africa around 1500 BCE.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8075396825396826
+      }
+    },
+    {
+      "question": "What was the likely direction of the western Bantu migrations?",
+      "context": "Although scholars debate the precise timing, motivation, and directions of these migrations, linguistic evidence and archaeological traces of pottery and ironmaking technology suggest there were multiple waves. The earliest seems to have consisted of two phases: an initial eastern stream or “early split,” and a somewhat later western “rivers and coasts” stream.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.823076923076923
+      }
+    },
+    {
+      "question": "When did the Bantu communities stretch from Somalia to South Africa?",
+      "context": "By the seventh century, Bantu communities stretched from the extreme southern reaches of Somalia in the north to Natal and Eastern Cape in present-day South Africa.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8508834161008074
+      }
+    },
+    {
+      "question": "What was used for trade and jewelry fashioning by the Bantu?",
+      "context": "Copper was used for trade and to fashion jewelry, while iron was forged into tools and weapons.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8490805490805491
+      }
+    },
+    {
+      "question": "How were Urewe ware pottery bowls and pots recognizable?",
+      "context": "Confidently dated to between the second and fifth centuries CE, Urewe ware is found in the Great Lakes region and is recognizable by the distinctive indentation on the bases of its bowls and pots.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9200074616741284
+      }
+    },
+    {
+      "question": "What was used for trade and to fashion jewelry?",
+      "context": "copper used for trade and to fashion jewelry",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8320275403608737
+      }
+    },
+    {
+      "question": "Who were among the earliest groups to benefit from the diffusion of farming, herding and animal keeping, and advanced metalworking technologies?",
+      "context": "The Bantu were among the earliest groups to benefit from the diffusion of farming, herding and animal keeping, and advanced metalworking technologies",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8823529411764706,
+        "diversity_score": 0.8708951866846604
+      }
+    },
+    {
+      "question": "Why did the Bantu move towards the southeast?",
+      "context": "Initially, then, Bantu farm settlements were typically confined to fertile river valleys and regions with favorable rainfall—which helps explain why they moved toward the southeast, a path that avoided the much drier southwest",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8585355616605617
+      }
+    },
+    {
+      "question": "What happened as new generations of Bantu arrived in regions?",
+      "context": "The land was unsettled, enabling the Bantu to select the best sites for their farms, and because there was no need to clear thick forest or adopt new techniques to suit a difficult environment, their expansion across the subcontinent proceeded relatively rapidly",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8738095238095238
+      }
+    },
+    {
+      "question": "What changed as the birth of each new generation put pressure on a given area’s limited resources?",
+      "context": "The situation changed, however, as the birth of each new generation put pressure on a given area’s limited resources. Growing needs necessitated further expansion",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.8849869936826459
+      }
+    },
+    {
+      "question": "Why did the Bantu move towards the southeast?",
+      "context": "to fertile river valleys and regions with favorable rainfall—which helps explain why they moved toward the southeast, a path that avoided the much drier southwest.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8460266585266585
+      }
+    },
+    {
+      "question": "What was the result of the Bantu's interactions with existing populations in eastern and southern Africa?",
+      "context": "Although the areas into which the Bantu migrated were only sparsely populated, interactions with the peoples who already lived there were unavoidable. It is not entirely clear what these meetings were like, but evidence suggests that interactions were complex and included elements of cultural absorption and assimilation as well .as displacement, often at the same time.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8596153846153847
+      }
+    },
+    {
+      "question": "What was a key factor in the Bantu's ability to adapt to new environments?",
+      "context": "Had it not been for the rainforest dwellers, the Bantu may have had a far more difficult time adjusting to the environment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8426416138966746
+      }
+    },
+    {
+      "question": "What was a key factor in the decline of some hunter-gatherer societies?",
+      "context": "Early on, the Bantu moved in relatively small numbers, so there were no large-scale displacements of hunter-gatherer societies.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8224121557454891
+      }
+    },
+    {
+      "question": "What was a consequence of the Bantu's interactions with existing populations?",
+      "context": "Although it is not entirely clear what these meetings were like, but evidence suggests that interactions were complex and included elements of cultural absorption and assimilation as well .as displacement, often at the same time.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8319088319088319
+      }
+    },
+    {
+      "question": "What happened to the San and Khoekhoe peoples when the Bantu farmers arrived?",
+      "context": "On entering San territory, for example, the Bantu farmers displaced the previously dominant San and Khoekhoe peoples, the first inhabitants of South Africa.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8502849002849002
+      }
+    },
+    {
+      "question": "Why did the Bantu migrations have a significant impact on Africa's economic and cultural practices?",
+      "context": "The Bantu encountered different groups whose adaptations to their environments had produced innovations in plant and animal husbandry and metalworking.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8765632028789924
+      }
+    },
+    {
+      "question": "What was the traditional southern boundary of Ancient Egypt?",
+      "context": "The traditional southern boundary of Ancient Egypt was the first cataract of the Nile.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7764396097729431
+      }
+    },
+    {
+      "question": "What is the traditional southern boundary of Ancient Egypt?",
+      "context": "The traditional southern boundary of Ancient Egypt was the first cataract of the Nile.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7892601225934559
+      }
+    },
+    {
+      "question": "Where did the earliest Nubian state arise?",
+      "context": "the earliest Nubian state arose sometime around 2400 BCE and was organized around the city of Kerma (in present-day northern Sudan) located just south of the Nile’s third cataract",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8668864468864469
+      }
+    },
+    {
+      "question": "Why did the Kingdom of Kush have the liberty to develop its own traditions, culture, language, and history?",
+      "context": "Because it was sufficiently distant from Egypt.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.899985635279753
+      }
+    },
+    {
+      "question": "What is the name of the mud-brick architecture specific to Nubia?",
+      "context": "A deffufa is a form of mud-brick architecture specific to Nubia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8034188034188035
+      }
+    },
+    {
+      "question": "When did the Middle Kingdom collapse and the Second Intermediate Period begin?",
+      "context": "When the Middle Kingdom collapsed and the Second Intermediate Period (1782–1570 BCE) began, trade and Egyptian contact with Kush declined.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8892558059224726
+      }
+    },
+    {
+      "question": "What was the approximate population of Kerma at its height around the eighteenth century BCE?",
+      "context": "At its height, around the eighteenth century BCE, Kerma may have supported a population of about ten thousand people.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8501702975387186
+      }
+    },
+    {
+      "question": "Why did Pharaoh Thutmose I invade Kerma?",
+      "context": "Thutmose was determined to conquer Kerma. His forces sacked and burned the city, desecrating its great temple with the unsettling inscription, “There is not one of them left. The Nubian bowmen have fallen to slaughter, and are laid low throughout their land.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9216149347728295
+      }
+    },
+    {
+      "question": "What happened to the Kingdom of Kush after the New Kingdom period?",
+      "context": "The Kingdom of Kush was crushed as New Kingdom pharaohs asserted their control over Nubia, constructed Egyptian-style architecture, and promoted the use of Egyptian hieroglyphs on temples and Demotic (ancient Egyptian) script by the region’s Egyptian administrators.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8320926385442514
+      }
+    },
+    {
+      "question": "What was the result of King Piye's actions in Thebes?",
+      "context": "Piye managed to install his own sister as high priestess of Amun in Thebes. Such a move was tantamount to an assertion of Kushite authority over Upper Egypt itself and appears to have precipitated a war.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8181089743589743
+      }
+    },
+    {
+      "question": "What was the unique period in Egypt's history that lasted for several decades?",
+      "context": "Egyptologists refer to this unique period as the Twenty-Fifth Dynasty or the Ethiopian dynasty.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8481262327416174
+      }
+    },
+    {
+      "question": "Why did the Kushite leadership reconstitute their kingdom at Meroe?",
+      "context": "The Kushite leadership fled Thebes and reconstituted their kingdom at a new capital, Meroe, located well south of the fifth cataract.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8594017094017095
+      }
+    },
+    {
+      "question": "What was one advantage of Meroe's location?",
+      "context": "One advantage was its distance from Egypt, which helped to protect it from raiding and conquests coming from the north.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8133903133903134
+      }
+    },
+    {
+      "question": "What geographical feature allowed the agriculturalists of Meroe to expand their farms?",
+      "context": "Unlike lower reaches of the Nile, which were known for wide floodplains and insufficient rainfall, Meroe is far enough south to receive natural watering from the sub-Saharan tropical rains.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8413207163207164
+      }
+    },
+    {
+      "question": "How did the wealth of Meroe contribute to its trading status?",
+      "context": "As the goods flowed out, wealth flowed back in. According to some accounts, the wealth of Meroe was so well known that Persia in the sixth century BCE once attempted to conquer the kingdom and add it to its enormous empire.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8500617030028794
+      }
+    },
+    {
+      "question": "What script did the Meroitic rulers use for writing, replacing Egyptian hieroglyphs?",
+      "context": "The use of Egyptian hieroglyphs, for example, continued for centuries until it was ultimately replaced by Meroitic, an alpha-syllabic script derived from the Egyptian Demotic script.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8670104050538834
+      }
+    },
+    {
+      "question": "How did the cultural influence of Egypt shape the Kushite religious traditions in Meroe?",
+      "context": "Traces of Egyptian religious practices endured throughout Meroe’s long history, albeit gradually and predictably deviating from the original practices as time went on.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8630834976988824
+      }
+    },
+    {
+      "question": "What can be inferred about the social structure of Meroe based on the text?",
+      "context": "The majority of people worked in the fields and the grazing pastures. They lived in mud homes within small rural villages overseen by minor chiefs of family clans.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8557007451238221
+      }
+    },
+    {
+      "question": "How did the geographical location of Meroe impact its trading relationships?",
+      "context": "Given its proximity to the Red Sea, Meroe became an important trading center.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8584364353595123
+      }
+    },
+    {
+      "question": "What was unique about the succession to the throne in the Meroitic kingdom?",
+      "context": "Unlike in Egypt where succession to the throne tended to flow from father to son, in the Meroitic kingdom, the monarch was carefully selected by a group made up of local chiefs, military officials, and other high officials.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8272468272468272
+      }
+    },
+    {
+      "question": "What position did the kentake exercise power somewhere above the highest officials?",
+      "context": "The kentake exercised a degree of official power somewhere above the highest officials and below that of the king.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8353972416472417
+      }
+    },
+    {
+      "question": "What was the likely cause of the decline of the Meroitic Kingdom of Kush?",
+      "context": "Scholars are uncertain what caused its decline, although environmental degradation due to the overuse of timber for charcoal manufacture may have been a factor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.817022792022792
+      }
+    },
+    {
+      "question": "What was the effect of Rome's economic crisis on the Meroitic Kingdom of Kush?",
+      "context": "Having no partners of similar size and wealth with whom to trade African goods on a large scale, the kings of Kush found that Rome’s economic crisis triggered a fiscal crisis for them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8322649572649572
+      }
+    },
+    {
+      "question": "What was the likely consequence of the rise of the kingdom of Aksum?",
+      "context": "Better placed to take advantage of the Red Sea trade, Aksum starved Kush of regional commerce.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7931623931623932
+      }
+    },
+    {
+      "question": "What was the original form of government of Carthage?",
+      "context": "The government of Carthage was originally a monarchy, but by the turn of the fourth century BCE, it had given way to a republic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.774465811965812
+      }
+    },
+    {
+      "question": "What philosopher praised the Carthaginian republic?",
+      "context": "The Carthaginian republic was singled out for praise by the Greek philosopher Aristotle, who considered it the perfect balance between monarchy, aristocracy, and democracy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8247863247863247
+      }
+    },
+    {
+      "question": "What languages did the population of the Maghreb speak at the time of Carthage’s founding?",
+      "context": "At the time of Carthage’s founding, the population of the Maghreb —the western half of North Africa, including most of present-day Morocco, Algeria, Tunisia, and Libya—spoke indigenous languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8473306082001735
+      }
+    },
+    {
+      "question": "What were the occupations of the people living on the coastal plains of the Maghreb?",
+      "context": "Those who lived on the coastal plains were mostly settled farmers, while those who lived in the Atlas Mountain range were seminomadic pastoralists, and nomadic peoples lived in the Sahara.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8480963480963482
+      }
+    },
+    {
+      "question": "What was the term commonly used by the indigenous peoples of the Maghreb region?",
+      "context": "These groups had built impressive societies of their own. For example, the Garamantes developed a major urban society in the Libyan Fezzan, and the Masaesyli established the kingdom of Numidia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8327854481700636
+      }
+    },
+    {
+      "question": "What was the primary reason for Carthage's decision to stop paying tribute to its neighbors?",
+      "context": "But that changed after 480 BCE, when Carthage stopped paying tribute and moved to subjugate the region’s peoples.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8519196852530186
+      }
+    },
+    {
+      "question": "What was the result of the adaptation of the urban elite in inland towns to Carthaginian culture?",
+      "context": "Not only did they speak Punic, the language of the Phoenicians, but on occasion they also spoke Greek, particularly if they held positions of power or engaged in trade with Carthage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8477592366481256
+      }
+    },
+    {
+      "question": "What was the significance of the rise of the Roman Republic to Carthaginian dominance?",
+      "context": "Carthaginian control over North Africa did not go unchallenged. The most significant threat to its dominance emerged with the rise of the Roman Republic in the third century BCE.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8189289343135497
+      }
+    },
+    {
+      "question": "Why was the term Berber considered a simplification?",
+      "context": "Those who lived on the coastal plains were mostly settled farmers, while those who lived in the Atlas Mountain range were seminomadic pastoralists, and nomadic peoples lived in the Sahara. To the Carthaginians, Greeks, and Romans, these North African natives were collectively known as Berbers , a pejorative term equating to “barbarian”.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8662393162393163
+      }
+    },
+    {
+      "question": "What was the outcome of the Third Punic War?",
+      "context": "The Third Punic War (149–146 BCE) ended with the destruction of Carthage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7721445221445221
+      }
+    },
+    {
+      "question": "Who was the Roman general credited with defeating Hannibal in North Africa?",
+      "context": "The Roman general Publius Cornelius Scipio took the war to Carthage, forcing Hannibal to return from Italy to North Africa to defend it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8809791572949468
+      }
+    },
+    {
+      "question": "How did the absorption of North Africa into the Roman Empire affect local populations?",
+      "context": "The absorption of North Africa into the Roman Empire greatly affected the Indigenous African peoples of the region.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8574246266553959
+      }
+    },
+    {
+      "question": "What was North Africa known as due to its agricultural production?",
+      "context": "This bounty earned North Africa the nickname “the breadbasket of Rome.”",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8488733488733489
+      }
+    },
+    {
+      "question": "Why did the Romans establish limes?",
+      "context": "To help control the flow of people during these periods and to protect crops from migrating cattle, the Romans established limes (lee-meis), or lines of fortified frontier posts that marked out the territorial limits of Roman occupation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8450409544159544
+      }
+    },
+    {
+      "question": "Who founded the city of Alexandria?",
+      "context": "In 332 BCE, Alexander the Great, king of Macedon in Greece, conquered Egypt, and before leaving to continue his advance into western Asia, he founded the great city of Alexandria on the Nile River.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8274928774928775
+      }
+    },
+    {
+      "question": "Why did the Ptolemies style themselves as pharaohs?",
+      "context": "Of necessity, the Ptolemies styled themselves as pharaohs to demonstrate continuity from pharaonic times through Alexander to themselves.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8495789341377576
+      }
+    },
+    {
+      "question": "What was unique about the Museon or Museum of Alexandria?",
+      "context": "The focal point of Greek culture in Egypt was the Museon or Museum of Alexandria. This “Home of the Muses” was much more than a place to see artifacts from the past; it was also the world’s largest library, housing some 700,000 scrolls representing all the knowledge of the known world.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.828525641025641
+      }
+    },
+    {
+      "question": "What was the Museon or Museum of Alexandria primarily used for?",
+      "context": "It was much more than a place to see artifacts from the past; it was also the world’s largest library, housing some 700,000 scrolls representing all the knowledge of the known world.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8316354427465539
+      }
+    },
+    {
+      "question": "How did the Ptolemies solidify their position as Egypt's legitimate rulers?",
+      "context": "To further cement their position as Egypt’s legitimate rulers, the Ptolemies carried out the religious duties of the pharaoh, including dedicating new temples to Egyptian gods, visiting shrines throughout the country, and declaring themselves the inheritors of Alexander’s godlike mantle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8958818958818959
+      }
+    },
+    {
+      "question": "What was unique about Cleopatra VII's language abilities?",
+      "context": "A brilliant politician with a strong character, Cleopatra spoke upward of a dozen languages and was the only Greek ruler of Egypt fluent in Egyptian.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8513014763014763
+      }
+    },
+    {
+      "question": "What was Cleopatra's relationship with Marc Antony?",
+      "context": "She had an affair with the Roman general and dictator Julius Caesar and bore him a child named Caesarion. When Caesar fell afoul of the Roman Senate and was assassinated in 44 BCE, Cleopatra shifted her affection to the inheritor of Caesar’s armies, Marc Antony.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8709433841012788
+      }
+    },
+    {
+      "question": "What led to the decline of the Western Roman Empire?",
+      "context": "The weakened Western Roman Empire confronted a new series of challenges, including widespread barbarian invasions. One invading group was the Vandals.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8167853751187084
+      }
+    },
+    {
+      "question": "Why did the majority of Egyptian subjects live in rural areas under Roman rule?",
+      "context": "These people were also hardest hit by Roman taxation, a circumstance that inspired periodic revolts against the empire.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.874033374033374
+      }
+    },
+    {
+      "question": "What was the significance of the Battle of Actium?",
+      "context": "The climax of the war came at the Battle of Actium in 31 BCE, during which the naval forces of Octavian and Marcus Agrippa met to defeat those of Marc Antony and Cleopatra.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7672349018502864
+      }
+    },
+    {
+      "question": "Where did the Vandals migrate to after leaving Pannonia?",
+      "context": "By the fifth century, Vandals had migrated to Gaul and the Iberian Peninsula.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8302469135802469
+      }
+    },
+    {
+      "question": "What was the result of the Battle of Remini in Italy in 432?",
+      "context": "For the next several years, the Vandals fought Rome’s imperial forces on behalf of Bonifacius, who died at the Battle of Remini in Italy in 432.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8115384615384615
+      }
+    },
+    {
+      "question": "What was the outcome of the Byzantine reconquest of North Africa under Belisarius?",
+      "context": "Byzantine forces under the general Belisarius reconquered the territory and forced the Vandal king Gelimer to surrender in 534.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8163535810594634
+      }
+    },
+    {
+      "question": "What was the main product traded along the Trans-Saharan trade route?",
+      "context": "The movement of goods between oases and larger settlements in North and West Africa—has existed in one form or another since at least the ninth century BCE.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8419871794871795
+      }
+    },
+    {
+      "question": "What was the result of African farmers supplying Phoenician towns with food?",
+      "context": "In the ninth century BCE, African farmers supplied the Phoenician towns of North Africa with food.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.813960113960114
+      }
+    },
+    {
+      "question": "How did Phoenicians influence North African society?",
+      "context": "Over centuries of interaction, the two groups intermarried and became an integral part of North African society.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8896901709401709
+      }
+    },
+    {
+      "question": "What commodity was carried across the Sahara Desert as a currency?",
+      "context": "Salt was highly prized in the agricultural communities south of the Sahara where the mineral is scarce.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8287490287490287
+      }
+    },
+    {
+      "question": "Who conquered both Numidia and Mauretania after their relations with Rome soured?",
+      "context": "In typical fashion, the Romans established large estates as well as towns in the newly conquered territories.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9326923076923077
+      }
+    },
+    {
+      "question": "What were some of the valuable trading goods introduced across the Sahara Desert later in its history?",
+      "context": "Only gradually were highly valuable trading goods introduced, such as gold and copper, which were then brought across the desert from tropical West Africa to the far reaches of the North African coast.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8586716524216524
+      }
+    },
+    {
+      "question": "What type of animal did the Romans use to patrol their southernmost frontier?",
+      "context": "The dromedary camel (one-hump camel) was the ideal means to help secure Rome’s new southernmost frontier.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.842603550295858
+      }
+    },
+    {
+      "question": "How long could a camel travel without stopping for fresh water?",
+      "context": "The camel’s capacity to store fat and water enabled it to travel up to ten days without stopping for fresh water, more than twice the time and distance of almost every other pack animal.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9347837347837348
+      }
+    },
+    {
+      "question": "Why did the use of camels across North Africa take some time to spread?",
+      "context": "The introduction of the dromedary camel originally from Arabia into North Africa revolutionized the transSaharan trade, but its adoption across the region was slow.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8628408628408628
+      }
+    },
+    {
+      "question": "Who were some of the nomadic peoples in the Sahara who continued to rely on other pack animals besides camels?",
+      "context": "Despite this, desert transport remained largely in the hands of the nomadic peoples of the region, principally the Sanhaja in the west and the Tuareg of the central and southern Sahara.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8758309591642925
+      }
+    },
+    {
+      "question": "What types of animals did the nomads tend besides camels?",
+      "context": "In many cases, they tended goats and sheep, but they often also had camel and cattle and occasionally horses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8411324786324786
+      }
+    },
+    {
+      "question": "What groups did these nomadic pastoralists tend to graze?",
+      "context": "they tended goats and sheep, but they often also had camel and cattle and occasionally horses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8941851121338301
+      }
+    },
+    {
+      "question": "Why did the nomads migrate their flocks and herds during the hottest and driest seasons?",
+      "context": "when the nomads migrated their flocks and herds to the better grazing areas of the Maghreb in the north or the Sahel in the south.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8557735561784146
+      }
+    },
+    {
+      "question": "What was the result of cross-desert traffic growing?",
+      "context": "several new settlements developed to aid the movement of goods north and south of the Sahara, including Sijilmasa, Ghat, Gao, Awdaghust, and Kano.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7728632478632479
+      }
+    },
+    {
+      "question": "Who controlled the oases?",
+      "context": "The nomads, who controlled the oases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7978632478632479
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who conquered both Numidia and Mauretania after their relations with Rome soured?",
+      "context": "In typical fashion, the Romans established large estates as well as towns in the newly conquered territories.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9326923076923077
+      }
+    },
+    {
+      "question": "Why did Pharaoh Thutmose I invade Kerma?",
+      "context": "Thutmose was determined to conquer Kerma. His forces sacked and burned the city, desecrating its great temple with the unsettling inscription, “There is not one of them left. The Nubian bowmen have fallen to slaughter, and are laid low throughout their land.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9216149347728295
+      }
+    },
+    {
+      "question": "Who holds higher social status in Baka society?",
+      "context": "Men hold a higher social status derived from the fact that they engage in the more hazardous task of hunting and trapping animals.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9005924630924631
+      }
+    },
+    {
+      "question": "Why were early iron objects inferior to bronze in strength?",
+      "context": "The reason for this is that iron is far more difficult to produce than bronze.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8904761904761904
+      }
+    }
+  ]
+}

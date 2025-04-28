@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What makes machine translation statistical?",
+      "context": "Okay, so what does make machine translation statistical? So statistical in the information theoretic sense",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.7714285714285715
+      }
+    },
+    {
+      "question": "How do you specify a probabilistic model for machine translation?",
+      "context": "So you need to distribute the mass of probability that you have among the possible outputs of your system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7890625
+      }
+    },
+    {
+      "question": "What role does linguistics play in designing machine translation models?",
+      "context": "Yeah, the linguistics is helpful here when designing the models",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8444444444444444
+      }
+    },
+    {
+      "question": "How do you break down longer units such as sentences into smaller units for machine translation?",
+      "context": "So when you have longer units such as sentences, linguists can give you some ideas how to break them into smaller units",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "What kind of observations should the system take into account when deciding what is more probable in machine translation?",
+      "context": "And they will also tell you where you should primarily look at what are the important observations that the system should take into account",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.876984126984127
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What role does linguistics play in designing machine translation models?",
+      "context": "Yeah, the linguistics is helpful here when designing the models",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8444444444444444
+      }
+    },
+    {
+      "question": "How do you break down longer units such as sentences into smaller units for machine translation?",
+      "context": "So when you have longer units such as sentences, linguists can give you some ideas how to break them into smaller units",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "How do you specify a probabilistic model for machine translation?",
+      "context": "So you need to distribute the mass of probability that you have among the possible outputs of your system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7890625
+      }
+    },
+    {
+      "question": "What kind of observations should the system take into account when deciding what is more probable in machine translation?",
+      "context": "And they will also tell you where you should primarily look at what are the important observations that the system should take into account",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.876984126984127
+      }
+    }
+  ]
+}

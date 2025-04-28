@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Is the document discussing some approach to reorder sentences?",
+      "context": "Then you reorder the sentence as needed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8849206349206349
+      }
+    },
+    {
+      "question": "What is the consequence of reordering the sentence according to the given approach?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9318181818181819
+      }
+    },
+    {
+      "question": "Is there a specific reason why this approach can introduce non-projectivities?",
+      "context": "This reordering can, by the way, introduce non-projectivities.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9275568181818181
+      }
+    },
+    {
+      "question": "Does the document provide any further information about what projectivity is?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545454545454546
+      }
+    },
+    {
+      "question": "Can previous approaches handle non-projectivities?",
+      "context": "previous approaches could not ever do.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.95
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Does the document provide any further information about what projectivity is?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545454545454546
+      }
+    },
+    {
+      "question": "Can previous approaches handle non-projectivities?",
+      "context": "previous approaches could not ever do.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.95
+      }
+    },
+    {
+      "question": "What is the consequence of reordering the sentence according to the given approach?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9318181818181819
+      }
+    },
+    {
+      "question": "Is there a specific reason why this approach can introduce non-projectivities?",
+      "context": "This reordering can, by the way, introduce non-projectivities.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9275568181818181
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one way to formulate a politeness message that is in between 'can you move so that I can see' and 'you aren't made of glass'?",
+      "context": "The politeness and rudeness dimension",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13636363636363635,
+        "diversity_score": 0.52
+      }
+    },
+    {
+      "question": "What type of sentences are the annotators asked to create in relation to the politeness and rudeness dimension?",
+      "context": "This is still the politeness and rudeness dimension",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5703125
+      }
+    },
+    {
+      "question": "Who will be given the pair of 'can you move so that I can see' and 'you aren't made of glass' to create sentences in between?",
+      "context": "Then you can ask another set of annotators",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.17391304347826086,
+        "diversity_score": 0.7725
+      }
+    },
+    {
+      "question": "What is one example of a sentence that an annotator might create to request someone move without being overtly rude?",
+      "context": "So this is still the politeness and rudeness dimension",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6729166666666666
+      }
+    },
+    {
+      "question": "How many ways can one message be formulated in relation to the politeness and rudeness dimension?",
+      "context": "And then the annotators will be asked to create sentences such as hey can you move or please move or could you move a little bit",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7634943181818181
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one example of a sentence that an annotator might create to request someone move without being overtly rude?",
+      "context": "So this is still the politeness and rudeness dimension",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6729166666666666
+      }
+    },
+    {
+      "question": "What type of sentences are the annotators asked to create in relation to the politeness and rudeness dimension?",
+      "context": "This is still the politeness and rudeness dimension",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5703125
+      }
+    },
+    {
+      "question": "Who will be given the pair of 'can you move so that I can see' and 'you aren't made of glass' to create sentences in between?",
+      "context": "Then you can ask another set of annotators",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.17391304347826086,
+        "diversity_score": 0.7725
+      }
+    }
+  ]
+}

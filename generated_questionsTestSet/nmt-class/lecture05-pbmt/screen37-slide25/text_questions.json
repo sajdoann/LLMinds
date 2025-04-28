@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is cheaper to translate, function words or content words?",
+      "context": "Function words are cheaper to translate than content words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7013888888888888
+      }
+    },
+    {
+      "question": "Why is it difficult to translate the word 'tourism'?",
+      "context": "Tourism is hard to translate and common phrases are cheaper for the first time than unusual ones like the tourism initiative addresses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6569444444444444
+      }
+    },
+    {
+      "question": "What type of phrases are cheaper to translate than unusual ones?",
+      "context": "common phrases are cheaper for the first time than unusual ones like the tourism initiative addresses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.671969696969697
+      }
+    },
+    {
+      "question": "Why is it mentioned that this is 'for the first time' in relation to translation costs?",
+      "context": "So that's the future cost estimate and so again illustrated on that particular example tourism initiative addresses for the first time.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8359649122807018
+      }
+    },
+    {
+      "question": "What is the implication of function words being cheaper to translate than content words?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is cheaper to translate, function words or content words?",
+      "context": "Function words are cheaper to translate than content words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7013888888888888
+      }
+    },
+    {
+      "question": "Why is it mentioned that this is 'for the first time' in relation to translation costs?",
+      "context": "So that's the future cost estimate and so again illustrated on that particular example tourism initiative addresses for the first time.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8359649122807018
+      }
+    },
+    {
+      "question": "Why is it difficult to translate the word 'tourism'?",
+      "context": "Tourism is hard to translate and common phrases are cheaper for the first time than unusual ones like the tourism initiative addresses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6569444444444444
+      }
+    },
+    {
+      "question": "What is the implication of function words being cheaper to translate than content words?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who developed the first setup for producing English from French and German sources?",
+      "context": "to including additional sources. So the first setup was by Zoffa and Knight.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7596153846153846
+      }
+    },
+    {
+      "question": "What type of neural network was used in the initial setup?",
+      "context": "And it directly learned to produce English from French and German sources. And the way it was done was that these recurrent neural networks were deep, by the way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What was the output of the French decoder?",
+      "context": "The French one processed the sentence into a single vector that represented the whole meaning of the sentence in French.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7075892857142857
+      }
+    },
+    {
+      "question": "How were the outputs of the two decoders combined?",
+      "context": "And then these two decoders, the outputs of these two decoders, were put together, either by summation or averaging or whatever.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8023897058823529
+      }
+    },
+    {
+      "question": "What is a significant drawback of the initial setup for producing English from French and German sources?",
+      "context": "The problem, the main drawback of the setup, is that you really need a multiparl corpus.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7725840336134454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who developed the first setup for producing English from French and German sources?",
+      "context": "to including additional sources. So the first setup was by Zoffa and Knight.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7596153846153846
+      }
+    },
+    {
+      "question": "How were the outputs of the two decoders combined?",
+      "context": "And then these two decoders, the outputs of these two decoders, were put together, either by summation or averaging or whatever.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8023897058823529
+      }
+    },
+    {
+      "question": "What type of neural network was used in the initial setup?",
+      "context": "And it directly learned to produce English from French and German sources. And the way it was done was that these recurrent neural networks were deep, by the way.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What is a significant drawback of the initial setup for producing English from French and German sources?",
+      "context": "The problem, the main drawback of the setup, is that you really need a multiparl corpus.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7725840336134454
+      }
+    }
+  ]
+}

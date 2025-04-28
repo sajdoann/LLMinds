@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who sent a letter to the President of the European Commission, and what was the purpose of the letter?",
+      "context": "Dodatečný kontext: Vedoucí tiskového oddělení Zastoupení Magdaléna Frouzová nám potvrdila, že předsedkyně Evropské komise Von Der Leyenová dostala dopis od Fialy...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7988095238095239
+      }
+    },
+    {
+      "question": "What is the position of the Czech government on the inclusion of nuclear energy in the EU's taxonomy?",
+      "context": "výrok: naše vláda považuje jádro za nesmírně důležité, prosím vás, abyste to zohlednili při rozhodování...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6970238095238095
+      }
+    },
+    {
+      "question": "What is the resolution of the Czech Parliament on the inclusion of nuclear energy in the EU's taxonomy?",
+      "context": "dodatečný kontext: ...konstatuje, že důležitou roli jaderné energetiky potvrdila i předsedkyně Evropské komise...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.617445054945055
+      }
+    },
+    {
+      "question": "What is the main argument of the Czech government in its letter to the President of the European Commission?",
+      "context": "dodatečný kontext: ...vyzývá EU, aby zahrnula plyn jako přechodný zdroj a jadernou energetiku jako udržitelný zdroj...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7166666666666667
+      }
+    },
+    {
+      "question": "What is the position of the European Commission on the inclusion of nuclear energy in its taxonomy?",
+      "context": "dodatečný kontext: ...konstatuje, že jaderná energetika musí být plnohodnotně uznána jako součást řešení při dekarbonizaci ekonomiky...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6283482142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who sent a letter to the President of the European Commission, and what was the purpose of the letter?",
+      "context": "Dodatečný kontext: Vedoucí tiskového oddělení Zastoupení Magdaléna Frouzová nám potvrdila, že předsedkyně Evropské komise Von Der Leyenová dostala dopis od Fialy...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7988095238095239
+      }
+    },
+    {
+      "question": "What is the position of the Czech government on the inclusion of nuclear energy in the EU's taxonomy?",
+      "context": "výrok: naše vláda považuje jádro za nesmírně důležité, prosím vás, abyste to zohlednili při rozhodování...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6970238095238095
+      }
+    },
+    {
+      "question": "What is the position of the European Commission on the inclusion of nuclear energy in its taxonomy?",
+      "context": "dodatečný kontext: ...konstatuje, že jaderná energetika musí být plnohodnotně uznána jako součást řešení při dekarbonizaci ekonomiky...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6283482142857143
+      }
+    }
+  ]
+}

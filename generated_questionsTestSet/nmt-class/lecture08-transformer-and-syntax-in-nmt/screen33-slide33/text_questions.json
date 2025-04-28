@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What tools are used outside of the NMT system to process input sentences or training sentences before feeding them into the NMT system?",
+      "context": "You pre-process the input sentences or the training sentences, the target site training sentences with whatever parsers, taggers that you have",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3684210526315789,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "Why is it necessary to construct the network to mimic the syntactic structure of a sentence in an NMT system?",
+      "context": "So that's why three LSTMs were introduced. The recurrent neural networks process the sequence only left to right and right to left",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "How can explicit linguistic information be added to an NMT system?",
+      "context": "So one way is that you really follow the linguistic structure of the sentence, the syntactic structure, and construct the network to mimic that structure. Or put this information on the source side",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7224025974025974
+      }
+    },
+    {
+      "question": "What is the purpose of multitasking in an NMT system when additional sequences of information are added?",
+      "context": "So the network is then trained to produce sequences of words and in addition to that also some sequences of this additional information. And this multitasking strategy is supposed to help the network in the main task",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How can the attention mechanism be equipped with explicit linguistic information?",
+      "context": "So you can also somehow equip the attention calculation with explicit linguistic information. And this is like for the encoder and decoder parts",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7900432900432901
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What tools are used outside of the NMT system to process input sentences or training sentences before feeding them into the NMT system?",
+      "context": "You pre-process the input sentences or the training sentences, the target site training sentences with whatever parsers, taggers that you have",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3684210526315789,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is the purpose of multitasking in an NMT system when additional sequences of information are added?",
+      "context": "So the network is then trained to produce sequences of words and in addition to that also some sequences of this additional information. And this multitasking strategy is supposed to help the network in the main task",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "Why is it necessary to construct the network to mimic the syntactic structure of a sentence in an NMT system?",
+      "context": "So that's why three LSTMs were introduced. The recurrent neural networks process the sequence only left to right and right to left",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8055555555555556
+      }
+    }
+  ]
+}

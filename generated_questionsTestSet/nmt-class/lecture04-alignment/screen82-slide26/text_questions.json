@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the theory that led to this tectogrammatic layer?",
+      "context": "What is the theory that led to this? It's the tectogrammatic layer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "How are auxiliary words represented in the tectogrammatic representation?",
+      "context": "The auxiliaries are marked in red here and they are hidden as node attributes only within these trees.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8071895424836601
+      }
+    },
+    {
+      "question": "Why are it easier to align the nodes in the trees because they correspond to each other?",
+      "context": "It's easier to align the nodes in the trees because they correspond to each other.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8551282051282052
+      }
+    },
+    {
+      "question": "What is the main idea of the Prague's Combination Linguistics Studies?",
+      "context": "The very essential idea is that you draw three or four sentences and only content-bearing words have a note and auxiliary words are hidden in this deep syntactic representation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8226851851851852
+      }
+    },
+    {
+      "question": "What is the significance of observing these trees?",
+      "context": "So if you observe these trees, you can see that they are like similar.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7824519230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are it easier to align the nodes in the trees because they correspond to each other?",
+      "context": "It's easier to align the nodes in the trees because they correspond to each other.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8551282051282052
+      }
+    },
+    {
+      "question": "How are auxiliary words represented in the tectogrammatic representation?",
+      "context": "The auxiliaries are marked in red here and they are hidden as node attributes only within these trees.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8071895424836601
+      }
+    },
+    {
+      "question": "What is the main idea of the Prague's Combination Linguistics Studies?",
+      "context": "The very essential idea is that you draw three or four sentences and only content-bearing words have a note and auxiliary words are hidden in this deep syntactic representation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8226851851851852
+      }
+    },
+    {
+      "question": "What is the significance of observing these trees?",
+      "context": "So if you observe these trees, you can see that they are like similar.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7824519230769231
+      }
+    }
+  ]
+}

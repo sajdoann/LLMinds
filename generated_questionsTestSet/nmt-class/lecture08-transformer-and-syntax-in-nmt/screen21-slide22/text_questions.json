@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the weights used for in the given context?",
+      "context": "Then you have some weights which indicate how important for the given position one all the positions in the sentence were, including the position one itself.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.878968253968254
+      }
+    },
+    {
+      "question": "How does self-attention work when considering word importance?",
+      "context": "So maybe sometimes the network will decide that when doing the transformation at this layer, I will like preserve most of the information for this word. I will not consider many of the words around.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8460648148148149
+      }
+    },
+    {
+      "question": "What is the effect of self-attention on the number of positions after transformation?",
+      "context": "So the self-attention is like heavily focused on the current position itself on position one in this example.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7863636363636364
+      }
+    },
+    {
+      "question": "What is the purpose of aggregating information from all token positions after self-attention?",
+      "context": "So after the self-attention, you have the same number of positions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7884615384615384
+      }
+    },
+    {
+      "question": "How does self-attention relate to preserving information about word importance?",
+      "context": "And only a little bit of information will come from the position two.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8163461538461538
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the weights used for in the given context?",
+      "context": "Then you have some weights which indicate how important for the given position one all the positions in the sentence were, including the position one itself.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.878968253968254
+      }
+    },
+    {
+      "question": "How does self-attention work when considering word importance?",
+      "context": "So maybe sometimes the network will decide that when doing the transformation at this layer, I will like preserve most of the information for this word. I will not consider many of the words around.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8460648148148149
+      }
+    },
+    {
+      "question": "What is the purpose of aggregating information from all token positions after self-attention?",
+      "context": "So after the self-attention, you have the same number of positions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7884615384615384
+      }
+    },
+    {
+      "question": "How does self-attention relate to preserving information about word importance?",
+      "context": "And only a little bit of information will come from the position two.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8163461538461538
+      }
+    }
+  ]
+}

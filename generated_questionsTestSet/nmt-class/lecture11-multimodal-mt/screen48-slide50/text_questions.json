@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one major drawback of direct spoken language translation?",
+      "context": "The main drawback, and I've already hinted that, is the insufficient training data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6395833333333334
+      }
+    },
+    {
+      "question": "How do people currently address the lack of sufficient speech data for spoken language translation?",
+      "context": "So either they take a speech corpus and machine translate it to a target language, or they take a parallel corpus and they speech-synthetize the source side, and then they train on the synthesized voice.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.795
+      }
+    },
+    {
+      "question": "What is one challenge posed by the use of non-segmented input in spoken language translation?",
+      "context": "The alignment problem is obviously much more complicated than when you have text input. and if, yeah, as I've already said, people are not really considering that the input comes non-segmented.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7041666666666666
+      }
+    },
+    {
+      "question": "What does the use of synthesized speech for training models imply about the complexity of the alignment problem in spoken language translation?",
+      "context": "That's one drawback, that you don't have appropriate data for spoken language translation. the drawback is the input sequences are much longer.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.7290100250626567
+      }
+    },
+    {
+      "question": "What is a common assumption about how input is segmented in speech recognition tasks?",
+      "context": "Obviously we have even larger texts that are monolingual, but we have reasonably sized parallel texts. But what we don't have is speech in the source language and the text in the target language in sufficient amounts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7735042735042735
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one major drawback of direct spoken language translation?",
+      "context": "The main drawback, and I've already hinted that, is the insufficient training data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6395833333333334
+      }
+    },
+    {
+      "question": "How do people currently address the lack of sufficient speech data for spoken language translation?",
+      "context": "So either they take a speech corpus and machine translate it to a target language, or they take a parallel corpus and they speech-synthetize the source side, and then they train on the synthesized voice.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.795
+      }
+    },
+    {
+      "question": "What is a common assumption about how input is segmented in speech recognition tasks?",
+      "context": "Obviously we have even larger texts that are monolingual, but we have reasonably sized parallel texts. But what we don't have is speech in the source language and the text in the target language in sufficient amounts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7735042735042735
+      }
+    }
+  ]
+}

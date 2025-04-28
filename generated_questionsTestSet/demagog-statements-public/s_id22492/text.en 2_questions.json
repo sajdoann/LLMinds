@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "Who submitted the currently under discussed draft amendment to the Constitution?",
+      "context": "The currently under discussed draft amendment to the Constitution, which regulates the rules for sending Czech soldiers abroad and the passage of allied troops through the territory of the Czech Republic, was submitted by Petr Fiala's cabinet to the Chamber of Deputies June 22, 2022.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8401785714285714
+      }
+    },
+    {
+      "question": "What is the maximum time period for which a government can send troops outside Czech territory without prior parliamentary approval?",
+      "context": "However, this authority would still be limited to a period of 60 days, after which the presence of troops outside the Czech Republic would have to be approved by Parliament, just as it is now.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8145833333333333
+      }
+    },
+    {
+      "question": "What are the three situations in which the government can send troops outside Czech territory for a maximum of 60 days without prior parliamentary approval?",
+      "context": "According to the current wording of the Constitution, it can only make such a decision in three situations: when fulfilling obligations under international treaties on collective defense against attack, when participating in peacekeeping operations, and during rescue work after natural disasters or industrial and ecological accidents.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21052631578947367,
+        "diversity_score": 0.8459821428571428
+      }
+    },
+    {
+      "question": "Why were previous proposals to modify the government's powers in this area submitted to the Chamber of Deputies?",
+      "context": "In the past, other proposals to modify the government's powers in this area were also submitted to the Chamber of Deputies (.pdf, p. 4).",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.81171875
+      }
+    },
+    {
+      "question": "Who submitted a proposal to modify the government's powers in this area?",
+      "context": "The second was a proposal from 2019, submitted by deputies from ODS, ANO, ČSSD, KDU-ČSL and STAN.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7994791666666667
+      }
+    },
+    {
+      "question": "What is the purpose of sending soldiers abroad for a maximum of 60 days without the prior consent of Parliament?",
+      "context": "<i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8639705882352942
+      }
+    },
+    {
+      "question": "What is the proposed amendment aimed at?",
+      "context": "<i>The amendments were also necessary so that the Czech Republic could send units abroad within the framework of the so-called NATO Very Rapid Reaction Force (VJTF) even in cases that do not fall under <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7919372294372294
+      }
+    },
+    {
+      "question": "What is the purpose of changing the government's powers when sending soldiers abroad?",
+      "context": "The proposed changes were thus intended to enable the government <i>\"to decide operationally on the deployment of the Czech Republic's armed forces outside the territory of the Czech Republic and on the stay of the armed forces of other states in the territory of the Czech Republic without specifying the purpose of the deployment or stay\"</i>.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7897135416666666
+      }
+    },
+    {
+      "question": "What is misleading according to the chairman of the ANO movement?",
+      "context": "For this reason, we assess his statement as misleading.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8222222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of sending soldiers abroad for a maximum of 60 days without the prior consent of Parliament?",
+      "context": "<i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8639705882352942
+      }
+    },
+    {
+      "question": "What are the three situations in which the government can send troops outside Czech territory for a maximum of 60 days without prior parliamentary approval?",
+      "context": "According to the current wording of the Constitution, it can only make such a decision in three situations: when fulfilling obligations under international treaties on collective defense against attack, when participating in peacekeeping operations, and during rescue work after natural disasters or industrial and ecological accidents.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21052631578947367,
+        "diversity_score": 0.8459821428571428
+      }
+    },
+    {
+      "question": "Who submitted the currently under discussed draft amendment to the Constitution?",
+      "context": "The currently under discussed draft amendment to the Constitution, which regulates the rules for sending Czech soldiers abroad and the passage of allied troops through the territory of the Czech Republic, was submitted by Petr Fiala's cabinet to the Chamber of Deputies June 22, 2022.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8401785714285714
+      }
+    },
+    {
+      "question": "What is misleading according to the chairman of the ANO movement?",
+      "context": "For this reason, we assess his statement as misleading.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8222222222222222
+      }
+    },
+    {
+      "question": "Why were previous proposals to modify the government's powers in this area submitted to the Chamber of Deputies?",
+      "context": "In the past, other proposals to modify the government's powers in this area were also submitted to the Chamber of Deputies (.pdf, p. 4).",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.81171875
+      }
+    }
+  ]
+}

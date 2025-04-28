@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of this recent research done by Google?",
+      "context": "So let's now move to the last part and this is very recent research done by Google",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7038770053475936
+      }
+    },
+    {
+      "question": "How have multilingual systems performed in this experiment?",
+      "context": "we are trying to to really make make the multilingual systems work and we're trying to make them work for many languages at once",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7864583333333334
+      }
+    },
+    {
+      "question": "Which languages failed to show improvement in this experiment?",
+      "context": "so this is something which languages so far failed even two languages in the mix and they were high resource in fact they didn't get any improvement",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7349033816425121
+      }
+    },
+    {
+      "question": "What approach was used to improve multilingual systems for low-resource languages?",
+      "context": "so this is something which languages so far failed even two languages in the mix and they were high resource in fact they didn't get any improvement so so the only improvement that we got work always for low resource languages by using the data for high resource",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7810828877005347
+      }
+    },
+    {
+      "question": "What can be inferred about the limitations of multilingual systems?",
+      "context": "so let's now move to the last part and this is very recent research done by Google",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6970588235294117
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which languages failed to show improvement in this experiment?",
+      "context": "so this is something which languages so far failed even two languages in the mix and they were high resource in fact they didn't get any improvement",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7349033816425121
+      }
+    },
+    {
+      "question": "How have multilingual systems performed in this experiment?",
+      "context": "we are trying to to really make make the multilingual systems work and we're trying to make them work for many languages at once",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7864583333333334
+      }
+    },
+    {
+      "question": "What approach was used to improve multilingual systems for low-resource languages?",
+      "context": "so this is something which languages so far failed even two languages in the mix and they were high resource in fact they didn't get any improvement so so the only improvement that we got work always for low resource languages by using the data for high resource",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7810828877005347
+      }
+    },
+    {
+      "question": "What can be inferred about the limitations of multilingual systems?",
+      "context": "so let's now move to the last part and this is very recent research done by Google",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6970588235294117
+      }
+    }
+  ]
+}

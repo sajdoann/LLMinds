@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happened to the BLEU score when using a parallel corpus and a large monolingual corpus?",
+      "context": "A small parallel corpus and a large monolingual corpus, then BLEU score is already like not sure.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.759375
+      }
+    },
+    {
+      "question": "Why did the author suggest using the vanilla setup for BLEU score?",
+      "context": "BLEU score decreases and it says it is better to use the vanilla setup, while the semantic words counting is still improving.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6088516746411483
+      }
+    },
+    {
+      "question": "How does the author perceive the sensitivity of BLEU score towards word dropping?",
+      "context": "And here I think that the BLEU score is probably happy about the nice four grams of Czech, but it is not so sensitive about words being dropped as well.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.630787037037037
+      }
+    },
+    {
+      "question": "What is the current status of semantic words counting in relation to BLEU score?",
+      "context": "BLEU score decreases and it says it is better to use the vanilla setup, while the semantic words counting is still improving.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.631578947368421
+      }
+    },
+    {
+      "question": "How does the author view the impact of four grams of Czech on BLEU score?",
+      "context": "And here I think that the BLEU score is probably happy about the nice four grams of Czech, but it is not so sensitive about words being dropped as well.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6331908831908832
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the author view the impact of four grams of Czech on BLEU score?",
+      "context": "And here I think that the BLEU score is probably happy about the nice four grams of Czech, but it is not so sensitive about words being dropped as well.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6331908831908832
+      }
+    },
+    {
+      "question": "What is the current status of semantic words counting in relation to BLEU score?",
+      "context": "BLEU score decreases and it says it is better to use the vanilla setup, while the semantic words counting is still improving.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.631578947368421
+      }
+    },
+    {
+      "question": "How does the author perceive the sensitivity of BLEU score towards word dropping?",
+      "context": "And here I think that the BLEU score is probably happy about the nice four grams of Czech, but it is not so sensitive about words being dropped as well.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.630787037037037
+      }
+    },
+    {
+      "question": "Why did the author suggest using the vanilla setup for BLEU score?",
+      "context": "BLEU score decreases and it says it is better to use the vanilla setup, while the semantic words counting is still improving.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6088516746411483
+      }
+    }
+  ]
+}

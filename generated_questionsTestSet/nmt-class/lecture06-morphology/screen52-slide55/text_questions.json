@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of the translation system in this document?",
+      "context": "The idea that you can separate lexical translation and morphological generation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "How does the lemmatized Czech language handle information from English?",
+      "context": "It preserves some information which is already available in English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What is the purpose of the second step in the translation system?",
+      "context": "To convert simplified Czech to full Czech and train on more data",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What constraints are placed on the phrase length and word order in the translation system?",
+      "context": "Phrase max length is one, and no more word-by-word wordings",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "How does the translation system handle differences in number of words between Czech and English phrases?",
+      "context": "It can handle differences in number of words, but not decisions about case",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8305288461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of the translation system in this document?",
+      "context": "The idea that you can separate lexical translation and morphological generation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "How does the lemmatized Czech language handle information from English?",
+      "context": "It preserves some information which is already available in English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What constraints are placed on the phrase length and word order in the translation system?",
+      "context": "Phrase max length is one, and no more word-by-word wordings",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.825
+      }
+    }
+  ]
+}

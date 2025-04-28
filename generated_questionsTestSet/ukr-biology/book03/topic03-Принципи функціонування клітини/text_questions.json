@@ -1,0 +1,479 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main purpose of the metabolic process in a cell?",
+      "context": "Метаболізм може визначити як закономірний порядок перетворень речовин та енергії в клітині, спрямований на її ріст, життєді-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8448475213181096
+      }
+    },
+    {
+      "question": "What happens to the energy released during the breakdown of organic compounds in the cell?",
+      "context": "АДФ + Ф + Енергія  →  АТФ. Молекули АТФ, які містять макро-",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8901908901908901
+      }
+    },
+    {
+      "question": "What is the primary role of glikoliza in a cell?",
+      "context": "Гліколіз — це біохімічний процес, який ..., є одним із джерел постачання АТФ для клітини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8288288288288288
+      }
+    },
+    {
+      "question": "What happens to the energy released during glikoliza?",
+      "context": "...пірувату. Втім, з кожної молекули глюкози клітина отримує дві молекули пірувату і дві молекули АТФ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8896396396396397
+      }
+    },
+    {
+      "question": "What is glycolysis?",
+      "context": "Першим етапом бродіння є гліколіз.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7846846846846847
+      }
+    },
+    {
+      "question": "What is the difference between leguminous and cellular respiration?",
+      "context": "Клітинне дихання — це сукупність реакцій окиснення органічних речовин, яка відбувається без участі кисню та дає змогу клітинам отримувати енергію у вигляді молекул АТФ.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571696696696697
+      }
+    },
+    {
+      "question": "What is the main difference between легеневе дихання and клітинне дихання?",
+      "context": "Клітинне дихання — це сукупність реакцій окиснення органічних речовин киснем, які відбуваються в клітинах живих організмів. Легеневе дихання — це фізіологічний процес, унасліду якого певні гази потраплять із повітря в кров або з крові в повітря.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8802409447570738
+      }
+    },
+    {
+      "question": "What is the role of мітохондрії in клітинне дихання?",
+      "context": "Клітинне дихання складається з двох етапів. Перший з них (гліколіз) відбувається в цитозолі, а другий (кисневий) — у мітохондріях.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8093093093093093
+      }
+    },
+    {
+      "question": "What is the main product of photosynthesis?",
+      "context": "У результаті фотосинтезу з вуглекислого газу (CO2) й води (H2O) за допомогою сонячної енергії утворюються вуглеводи (C6H12O6): 6CO2 + 6H2O = C6H12O6 + 6O2",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8025012590229982
+      }
+    },
+    {
+      "question": "What is the role of chlorophyll in photosynthesis?",
+      "context": "Спочатку кванти світла вловлюються пігментом хлорофілом, який розташований на мембранах тилакоїдів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7992936117936118
+      }
+    },
+    {
+      "question": "What is the purpose of electrons in the light-dependent reaction?",
+      "context": "Енергія цих електронів використовується в тилакоїдах для синтезу АТФ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8168168168168168
+      }
+    },
+    {
+      "question": "What is the result of the light-dependent reaction?",
+      "context": "Результатом світлової фази фотосинтезу є утворення кисню, синтез АТФ та відновлення НАДФ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8046975546975548
+      }
+    },
+    {
+      "question": "What is the role of photosynthesis in relation to cellular respiration?",
+      "context": "Фотосинтез є дуже важливим світло для живих organisмів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402948402948403
+      }
+    },
+    {
+      "question": "Why do plants need to open stomata during the day?",
+      "context": "Для того щоб забезпечити процес фотосинтезу молекулами вуглекислого газу (СО 2), рослинам потрібно відкривати продихи на листках.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9432432432432433
+      }
+    },
+    {
+      "question": "What is the name of the type of photosynthesis that occurs in succulents and cacti?",
+      "context": "Цей тип фото-синтезу має назву САМ-метаболізм (у перекладі з англійської — метаболізм за типом товстянкових).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8687456687456687
+      }
+    },
+    {
+      "question": "What type of bacteria produce ferum(III) okxid?",
+      "context": "Залізобактерії здійснюють окиснення Fe 2+ до Fe 3+ . Цю сполуку бактерії відкладають у своїй слизовій капсулі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9074565637065637
+      }
+    },
+    {
+      "question": "What is the role of sirkobacteries in the ecosystem?",
+      "context": "Сіркобактерії використовують сірководень до сірки та далі до солей сульфатної кислоти.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8104729729729729
+      }
+    },
+    {
+      "question": "What is the main difference between chemosynthesis and photosynthesis?",
+      "context": "Хемосинтезом називають процес утворення органічних речовин з неорганічних, який відбувається за рахунок енергії хімічних реакцій.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8465465465465465
+      }
+    },
+    {
+      "question": "What is the role of Nitrorgen, Sulfur and Ferum in the water circulation?",
+      "context": "They produce organic substances there, where photosynthesis is impossible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8701201201201201
+      }
+    },
+    {
+      "question": "Why do iron bacteria create copper ore deposits?",
+      "context": "They are responsible for creating these deposits through their chemical reactions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9937039312039312
+      }
+    },
+    {
+      "question": "Місце, де відбувається процес гліколізу?",
+      "context": "Процес гліколізу відбувається в цитозоль",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9513513513513514
+      }
+    },
+    {
+      "question": "У процесі гліколізу з однієї молекули глюкози утворюється?",
+      "context": "Процес гліколізу відбувається утворенням пірувату",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9675675675675676
+      }
+    },
+    {
+      "question": "Макроергічною сполукою, яка утворюється в мітохондріях, є?",
+      "context": "Утворенням АТФ",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9777992277992278
+      }
+    },
+    {
+      "question": "Фотосинтез відбувається в органелі:",
+      "context": "Хлоропласти",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9932432432432432
+      }
+    },
+    {
+      "question": "Гранулярна ендоплазматична сітка здійснює:",
+      "context": "Синтез білків",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9932432432432432
+      }
+    },
+    {
+      "question": "What is the compound formed in mitochondria through macroergiological cooperation?",
+      "context": "Макроергічну сполукою, яка утворюється в мітохондріях, є:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8617760617760618
+      }
+    },
+    {
+      "question": "What is the location of photosynthesis in the cell?",
+      "context": "Фотосинтез відбувається в органелі:',\n    ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7685810810810811
+      }
+    },
+    {
+      "question": "What is the function of the granular endoplasmic reticulum?",
+      "context": "Гранулярна ендоплазматична сітка здійснює:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8513513513513513
+      }
+    },
+    {
+      "question": "What is produced in photosynthesis by plants?",
+      "context": "У результаті фотосинтезу рослини:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8354247104247104
+      }
+    },
+    {
+      "question": "How many phases are there in the process of photosynthesis?",
+      "context": "Кількість фаз, на які поділяють процес фотосинтезу:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890926640926641
+      }
+    },
+    {
+      "question": "What is not formed as a result of fermentation?",
+      "context": "Речовина, що НЕ утворюється внаслідок бродіння:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8903903903903904
+      }
+    },
+    {
+      "question": "Where are the biochemical systems that carry out biological oxidation located?",
+      "context": "Ферментні системи, які здійснюють біологічне окиснення, розташовані на мембранах органели:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9497542997542997
+      }
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "context": "Кисень, який утворюється в процесі фотосинтезу, вилучається з молекул речовини:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What is the result of cellular respiration in animals?",
+      "context": "У результаті клітинного дихання тварини:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8108108108108107
+      }
+    },
+    {
+      "question": "Which organisms can carry out chemosynthesis?",
+      "context": "Хемосинтез можуть здійснювати:",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.990990990990991
+      }
+    },
+    {
+      "question": "Where does the light-dependent phase of photosynthesis occur?",
+      "context": "а) світлова фаза фотосинтезу",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9037162162162162
+      }
+    },
+    {
+      "question": "Which organellae are involved in which biochemical processes?",
+      "context": "Органели. Процеси. Орگانелі.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9594594594594594
+      }
+    },
+    {
+      "question": "What is formed in the chloroplast and what is broken down in the mitochondria, based on the illustration?",
+      "context": "16",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9033264033264033
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Фотосинтез відбувається в органелі:",
+      "context": "Хлоропласти",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9932432432432432
+      }
+    },
+    {
+      "question": "What is not formed as a result of fermentation?",
+      "context": "Речовина, що НЕ утворюється внаслідок бродіння:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8903903903903904
+      }
+    },
+    {
+      "question": "What is produced in photosynthesis by plants?",
+      "context": "У результаті фотосинтезу рослини:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8354247104247104
+      }
+    },
+    {
+      "question": "Which organisms can carry out chemosynthesis?",
+      "context": "Хемосинтез можуть здійснювати:",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.990990990990991
+      }
+    },
+    {
+      "question": "Why do iron bacteria create copper ore deposits?",
+      "context": "They are responsible for creating these deposits through their chemical reactions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9937039312039312
+      }
+    }
+  ]
+}

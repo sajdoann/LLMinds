@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a characteristic of the language being discussed?",
+      "context": "and check as we have discussed is a free word order language. So the word order in the question actually specifies what you are checking, what you are validating with your question.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6639957264957265
+      }
+    },
+    {
+      "question": "What happened to Google Translate's performance when asked about meat grinds?",
+      "context": "The problem is that questions are not really or not to the sufficient amount and Google Translate makes it meat grinds mom or meat mom grinds mom.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.801948051948052
+      }
+    },
+    {
+      "question": "What was observed when the language being discussed was outside of the training data?",
+      "context": "So here is a clear evidence that the neural MT trained by Google didn't understand anything. It was able to process the words when they appeared in the order it was trained to process them but when we've stepped outside of the training data then suddenly the performance dropped beyond what is except the drop below.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7803030303030303
+      }
+    },
+    {
+      "question": "What does the author imply about Google Translate's limitations?",
+      "context": "So that's totally out of the original meaning. So here is a clear evidence that the neural MT trained by Google didn't understand anything.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6685606060606061
+      }
+    },
+    {
+      "question": "What does the author mean by 'free word order language'?",
+      "context": "and check as we have discussed is a free word order language. So the word order in the question actually specifies what you are checking, what you are validating with your question.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6903846153846154
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a characteristic of the language being discussed?",
+      "context": "and check as we have discussed is a free word order language. So the word order in the question actually specifies what you are checking, what you are validating with your question.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6639957264957265
+      }
+    },
+    {
+      "question": "What happened to Google Translate's performance when asked about meat grinds?",
+      "context": "The problem is that questions are not really or not to the sufficient amount and Google Translate makes it meat grinds mom or meat mom grinds mom.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.801948051948052
+      }
+    },
+    {
+      "question": "What does the author mean by 'free word order language'?",
+      "context": "and check as we have discussed is a free word order language. So the word order in the question actually specifies what you are checking, what you are validating with your question.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6903846153846154
+      }
+    },
+    {
+      "question": "What was observed when the language being discussed was outside of the training data?",
+      "context": "So here is a clear evidence that the neural MT trained by Google didn't understand anything. It was able to process the words when they appeared in the order it was trained to process them but when we've stepped outside of the training data then suddenly the performance dropped beyond what is except the drop below.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7803030303030303
+      }
+    }
+  ]
+}

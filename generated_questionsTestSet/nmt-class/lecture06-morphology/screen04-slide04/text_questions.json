@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one of the complexities that translators face when translating into Czech?",
+      "context": "change the words in some way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7948717948717949
+      }
+    },
+    {
+      "question": "How many cases, genders, and numbers are there in Czech?",
+      "context": "Czech has seven cases, four genders and three numbers",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8986111111111111
+      }
+    },
+    {
+      "question": "What is the significance of choosing the particular ending of a word in Czech?",
+      "context": "you also have to choose the particular ending of that word",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8077651515151515
+      }
+    },
+    {
+      "question": "How many combinations of words are there, but only a few are correct?",
+      "context": "Of these combinations, only very few are actually correct",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9236111111111112
+      }
+    },
+    {
+      "question": "What is the main challenge that translators face when translating into Czech?",
+      "context": "But you have to have some good understanding and this I saw two green striped cats",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one of the complexities that translators face when translating into Czech?",
+      "context": "change the words in some way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7948717948717949
+      }
+    },
+    {
+      "question": "How many combinations of words are there, but only a few are correct?",
+      "context": "Of these combinations, only very few are actually correct",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9236111111111112
+      }
+    },
+    {
+      "question": "How many cases, genders, and numbers are there in Czech?",
+      "context": "Czech has seven cases, four genders and three numbers",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8986111111111111
+      }
+    }
+  ]
+}

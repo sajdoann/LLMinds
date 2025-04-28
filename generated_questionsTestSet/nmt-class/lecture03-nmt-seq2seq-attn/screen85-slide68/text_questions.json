@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of scaling context vectors with a matrix so that they match the size of the decoder state?",
+      "context": "Here and they are again scaled with a matrix so that the context vectors match the size of the decoder state.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8782894736842105
+      }
+    },
+    {
+      "question": "What information does the output projection have access to in this network architecture?",
+      "context": "the output projection obviously also has access to that information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7846153846153846
+      }
+    },
+    {
+      "question": "How does the network design allow it to attend to any of the words in the input at every step?",
+      "context": "And the good thing is that the network can at every step attend to any of the words in the input by",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7546439628482973
+      }
+    },
+    {
+      "question": "What advantage does this network design provide compared to previous designs?",
+      "context": "the good thing is that the network can at every step attend to any of the words in the input by",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7196969696969697
+      }
+    },
+    {
+      "question": "Why are context vectors scaled with a matrix?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What information does the output projection have access to in this network architecture?",
+      "context": "the output projection obviously also has access to that information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7846153846153846
+      }
+    },
+    {
+      "question": "Why are context vectors scaled with a matrix?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "How does the network design allow it to attend to any of the words in the input at every step?",
+      "context": "And the good thing is that the network can at every step attend to any of the words in the input by",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7546439628482973
+      }
+    },
+    {
+      "question": "What is the purpose of scaling context vectors with a matrix so that they match the size of the decoder state?",
+      "context": "Here and they are again scaled with a matrix so that the context vectors match the size of the decoder state.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8782894736842105
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the second stage of the translation process?",
+      "context": "Main search comes and that's the second stage of the translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.6888888888888889
+      }
+    },
+    {
+      "question": "What are the possible translations of short and long phrases during the beam search stage?",
+      "context": "we have all the possible translation of the short and long phrases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6176948051948052
+      }
+    },
+    {
+      "question": "What is the process called when starting with the input sentence and possible translations of short and long phrases?",
+      "context": "So we have here the input sentence and we have all the possible translation of the short and long phrases and we start.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.6920955882352942
+      }
+    },
+    {
+      "question": "What is the goal of the beam search stage in the translation process?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "Why does the beam search stage start with the input sentence and possible translations of short and long phrases?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7941176470588235
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the second stage of the translation process?",
+      "context": "Main search comes and that's the second stage of the translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.6888888888888889
+      }
+    },
+    {
+      "question": "What is the process called when starting with the input sentence and possible translations of short and long phrases?",
+      "context": "So we have here the input sentence and we have all the possible translation of the short and long phrases and we start.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.6920955882352942
+      }
+    },
+    {
+      "question": "What are the possible translations of short and long phrases during the beam search stage?",
+      "context": "we have all the possible translation of the short and long phrases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6176948051948052
+      }
+    },
+    {
+      "question": "Why does the beam search stage start with the input sentence and possible translations of short and long phrases?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7941176470588235
+      }
+    }
+  ]
+}

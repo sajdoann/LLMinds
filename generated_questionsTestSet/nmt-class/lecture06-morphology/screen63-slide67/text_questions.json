@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to BLEU scores as monolingual data grows in size?",
+      "context": "If we have fixed parallel data and of a small size, then it is known that using a large language model will help",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5284090909090909
+      }
+    },
+    {
+      "question": "What limitation does the translation model face when using monolingual data?",
+      "context": "The translation model is limited to the small data. If you use only a certain amount of data, it can't utilize all the word forms available in the full dataset",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7428451178451179
+      }
+    },
+    {
+      "question": "How does using a large language model help in this situation?",
+      "context": "If we have fixed parallel data and of a small size, then it is known that using a large language model will help",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.5852272727272727
+      }
+    },
+    {
+      "question": "What would happen to the reliability of n-gram estimation if monolingual data grows in size?",
+      "context": "So here is how that helps. If we have fixed parallel data and of a small size, then it is known that using a large language model will help",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5772435897435897
+      }
+    },
+    {
+      "question": "What would be the outcome if one were to use only a certain amount of data in this situation?",
+      "context": "The translation model is limited to the small data. If you use... ",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.631578947368421
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to BLEU scores as monolingual data grows in size?",
+      "context": "If we have fixed parallel data and of a small size, then it is known that using a large language model will help",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5284090909090909
+      }
+    },
+    {
+      "question": "How does using a large language model help in this situation?",
+      "context": "If we have fixed parallel data and of a small size, then it is known that using a large language model will help",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.5852272727272727
+      }
+    },
+    {
+      "question": "What would happen to the reliability of n-gram estimation if monolingual data grows in size?",
+      "context": "So here is how that helps. If we have fixed parallel data and of a small size, then it is known that using a large language model will help",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5772435897435897
+      }
+    }
+  ]
+}

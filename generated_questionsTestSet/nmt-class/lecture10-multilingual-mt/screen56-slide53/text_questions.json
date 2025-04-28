@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was found to be a problem when trying to use the attention mechanism in a way that was never used before?",
+      "context": "So if you do not do the pivoting, then the performance on the DEF and test sets are just horrible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8444272445820433
+      }
+    },
+    {
+      "question": "What is the result of using the two paths of the network without explicit pivoting?",
+      "context": "If we use the two paths of the network, the Spanish to English and then English to French, in the way they were and then we are trained for it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7376893939393939
+      }
+    },
+    {
+      "question": "What is the benefit of using explicit pivoting?",
+      "context": "So with the explicit pivoting, it works. You get reasonable performance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6321022727272727
+      }
+    },
+    {
+      "question": "How did the authors train the English and French decoders to work together?",
+      "context": "And they were trained so that the span was always trained with the English decoder and the English encoder was always trained with the French decoder.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8463541666666667
+      }
+    },
+    {
+      "question": "What is the desired outcome of using explicit pivoting?",
+      "context": "So what we obtained only is a neural network which can process can do two tasks, but there is no sharing of information.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7222222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the benefit of using explicit pivoting?",
+      "context": "So with the explicit pivoting, it works. You get reasonable performance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6321022727272727
+      }
+    },
+    {
+      "question": "How did the authors train the English and French decoders to work together?",
+      "context": "And they were trained so that the span was always trained with the English decoder and the English encoder was always trained with the French decoder.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8463541666666667
+      }
+    },
+    {
+      "question": "What was found to be a problem when trying to use the attention mechanism in a way that was never used before?",
+      "context": "So if you do not do the pivoting, then the performance on the DEF and test sets are just horrible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8444272445820433
+      }
+    },
+    {
+      "question": "What is the result of using the two paths of the network without explicit pivoting?",
+      "context": "If we use the two paths of the network, the Spanish to English and then English to French, in the way they were and then we are trained for it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7376893939393939
+      }
+    }
+  ]
+}

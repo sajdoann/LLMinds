@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the effect of using a dummy parse on translation quality?",
+      "context": "The results on the devset and also on the test set in terms of translation quality are actually better than when we use true parse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.771780303030303
+      }
+    },
+    {
+      "question": "How does using a diagonal matrix improve the transformer's performance?",
+      "context": "it succeeded greatly in. The precision of that is close to 100%.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7979166666666666
+      }
+    },
+    {
+      "question": "What role do self-attention matrices play in the improvement of translation quality?",
+      "context": "helps for the attention matrices to be peaked. That's it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7895833333333333
+      }
+    },
+    {
+      "question": "In what layer is the most significant gain in translation quality achieved?",
+      "context": "Again, it helps most when this information is learned at the first layer or available at the first layer.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "What is being improved by using a peaked distribution of self-attention matrices?",
+      "context": "So you're just improving the numerical properties of that setup. And the additional linguistic information is actually not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7867647058823529
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the effect of using a dummy parse on translation quality?",
+      "context": "The results on the devset and also on the test set in terms of translation quality are actually better than when we use true parse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.771780303030303
+      }
+    },
+    {
+      "question": "How does using a diagonal matrix improve the transformer's performance?",
+      "context": "it succeeded greatly in. The precision of that is close to 100%.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7979166666666666
+      }
+    },
+    {
+      "question": "In what layer is the most significant gain in translation quality achieved?",
+      "context": "Again, it helps most when this information is learned at the first layer or available at the first layer.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "What role do self-attention matrices play in the improvement of translation quality?",
+      "context": "helps for the attention matrices to be peaked. That's it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7895833333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "all_questions": [
+    {
+      "question": "What causes an Eclipse of the Sun?",
+      "context": "An Eclipse of the Sun is caused simply by the Moon passing before it, or between it and the observer on the Earth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7944285714285715
+      }
+    },
+    {
+      "question": "Why can't the Earth cast a shadow on the Moon?",
+      "context": "The Earth has been proved to have no motion, either upon axes or in an orbit round the Sun, and therefore it could never come between the Sun and the Moon.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8525925925925926
+      }
+    },
+    {
+      "question": "What was observed during the eclipse by James Glaisher?",
+      "context": "I am suddenly struck by the fact that the whole of the western seas of the moon are showing through the shadow with singular sharpness, and that the whole region where they lie has assumed a decidedly reddish tinge, attaining its greatest brightness at a sort of temporary polar region, having ‘Endymion’ about the position of its imaginary pole.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.863719806763285
+      }
+    },
+    {
+      "question": "Why did James Glaisher observe the eclipse?",
+      "context": "I was anxious to observe with what degree of distinctness the eclipsed portion could be viewed, partly as an interesting fact, and partly with a view of verifying or discovering the weak points of an engraving (in which I am concerned) of a lunar eclipse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8465079365079365
+      }
+    },
+    {
+      "question": "What color is the Moon during the eclipse?",
+      "context": "The red colour is very brilliant to the naked eye.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7787301587301587
+      }
+    },
+    {
+      "question": "Why does the author notice a change in the Moon's tint during the eclipse?",
+      "context": "After this, I noticed a progressive change of tint in the Moon.—2h. 50m.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8174358974358975
+      }
+    },
+    {
+      "question": "What happened to the Moon's appearance during a lunar eclipse?",
+      "context": "The whole disc of the Moon being as perfect with light as if there had been no eclipse whatever!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7954117647058824
+      }
+    },
+    {
+      "question": "Why can't the Earth's shadow cause a lunar eclipse when the Sun and Moon are above the horizon?",
+      "context": "If all the light of the Sun is intercepted by the Earth, how can the Moon's non-luminous surface be distinctly visible and illuminated during the very totality of an eclipse?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.86285
+      }
+    },
+    {
+      "question": "Why can't a silvered glass ball reflect light evenly?",
+      "context": "But the Moon's whole surface is brilliantly illuminated! a condition or effect utterly impossible if it be spherical. The surface might be illuminated from the Sun, or any other source if opaque, instead of polished, like an ordinary silvered mirror, but it could not shine intensely from every part, and brightly illuminate the objects before it, as the Moon does so beautifully when full and in a clear firmament.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9065079365079365
+      }
+    },
+    {
+      "question": "What is required for a reflector to radiate light?",
+      "context": "A reflector necessarily gives off what it receives. If a mass of red-hot metal be placed before a plane or concave surface, heat will be reflected. If snow or ice be similarly placed, cold will be reflected. If light, ordinary or coloured, be presented, the same will be reflected.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8666013071895424
+      }
+    },
+    {
+      "question": "What happens to chloride of silver when it is acted upon by solar rays?",
+      "context": "This substance, however, highly susceptible as it is of having its colour affected by light, is, nevertheless, found not to be changed in any sensible degree when exposed to the light of the Moon, even when that light is condensed by the most powerful burning lenses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8473684210526315
+      }
+    },
+    {
+      "question": "What effect does the Sun's light have on certain chemical substances?",
+      "context": "The light of the Sun falling upon certain chemical substances, produces a change of colour, as in photographic and other processes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8159808612440191
+      }
+    },
+    {
+      "question": "What happens to chloride of silver when it is acted upon by lunar rays?",
+      "context": "This substance, however, highly susceptible as it is of having its colour affected by light, is, nevertheless, found not to be changed in any sensible degree when exposed to the light of the Moon, even when that light is condensed by the most powerful burning lenses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8416541353383459
+      }
+    },
+    {
+      "question": "What happens to metallic and alkaline substances when their light is concentrated?",
+      "context": "earthly and mineral compounds almost immediately vitrified; and all animal and vegetable structures in a few seconds burned up and destroyed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8922222222222222
+      }
+    },
+    {
+      "question": "Why doesn't the Moon's light cause a change in temperature?",
+      "context": "This has been proved by actual experiment. * * * The bulb of a thermometer sufficiently sensitive to render apparent a change of temperature amounting to the thousandth part of a degree, was placed in the focus of a concave reflector of vast dimensions, which, being directed to the Moon, the lunar rays were collected with great power upon it.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8615555555555556
+      }
+    },
+    {
+      "question": "What effect did concentrating lunar rays have on a thermometer?",
+      "context": "not the slightest change,[101] however, was produced in the thermometric column",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.822
+      }
+    },
+    {
+      "question": "How many degrees did the temperature reduce when the Moon's rays were concentrated?",
+      "context": "particulars are given of several experiments, which proved that the Moon’s rays when concentrated actually reduced the temperature upon a thermometer more than 8 degrees!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8391666666666666
+      }
+    },
+    {
+      "question": "What effect did concentrating lunar rays have on air-thermometers?",
+      "context": "not the slightest thermo-effect was produced![18] In the “Lancet” (medical journal) for March 14th, 1856, particulars are given of several experiments, which proved that the Moon’s rays when concentrated actually reduced the temperature upon a thermometer more than 8 degrees!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8514714714714715
+      }
+    },
+    {
+      "question": "How many times did Professor Forbes concentrate the Moon's light?",
+      "context": "Professor Forbes concentrated the Moon’s light by a lens thirty inches in diameter, its focal distance being about forty-one inches, and having a power of concentration exceeding 6,000 times.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8648571428571429
+      }
+    },
+    {
+      "question": "What temperature was measured by the Moon's rays when concentrated?",
+      "context": "d that the Moon’s rays when concentrated actually reduced the temperature upon a thermometer more than 8 degrees!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8050588235294117
+      }
+    },
+    {
+      "question": "What is the main argument against using calculation results to prove the Earth's rotundity?",
+      "context": "Persons who are unacquainted with the methods of calculating Eclipses and other astronomical phenomena, are prone to look upon the correctness of these calculations as powerful arguments in favour of the doctrine of the Earth’s rotundity and the Newtonian philosophy generally.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8663461538461539
+      }
+    },
+    {
+      "question": "When did the most ancient observations of sufficient accuracy for astronomical calculations occur?",
+      "context": "The most ancient observations of which we are in possession, that are sufficiently accurate to be employed in astronomical calculations, are those made at Babylon about 719 before the Christian Era, of three Eclipses of the Moon.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8717948717948718
+      }
+    },
+    {
+      "question": "What is the source of precision in astronomy?",
+      "context": "The precision of astronomy arises, not from theories, but from prolonged observations, and the regularity of the motions, or the ascertained uniformity of their irregularities.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7905263157894737
+      }
+    },
+    {
+      "question": "Can calculations of Eclipses be made with equal accuracy independent of every theory?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8723809523809524
+      }
+    },
+    {
+      "question": "What is the basis for the precision in astronomy?",
+      "context": "The precision of astronomy arises, not from theories, but from prolonged observations, and the regularity of the motions, or the ascertained uniformity of their irregularities.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7980263157894737
+      }
+    },
+    {
+      "question": "Can calculations for eclipses be made with accuracy regardless of any theory?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8673809523809524
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can calculations of Eclipses be made with equal accuracy independent of every theory?",
+      "context": "No particular theory is required to calculate Eclipses; and the calculations may be made with equal accuracy independent of every theory.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8723809523809524
+      }
+    },
+    {
+      "question": "What is required for a reflector to radiate light?",
+      "context": "A reflector necessarily gives off what it receives. If a mass of red-hot metal be placed before a plane or concave surface, heat will be reflected. If snow or ice be similarly placed, cold will be reflected. If light, ordinary or coloured, be presented, the same will be reflected.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8666013071895424
+      }
+    },
+    {
+      "question": "How many times did Professor Forbes concentrate the Moon's light?",
+      "context": "Professor Forbes concentrated the Moon’s light by a lens thirty inches in diameter, its focal distance being about forty-one inches, and having a power of concentration exceeding 6,000 times.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8648571428571429
+      }
+    },
+    {
+      "question": "What is the main argument against using calculation results to prove the Earth's rotundity?",
+      "context": "Persons who are unacquainted with the methods of calculating Eclipses and other astronomical phenomena, are prone to look upon the correctness of these calculations as powerful arguments in favour of the doctrine of the Earth’s rotundity and the Newtonian philosophy generally.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8663461538461539
+      }
+    }
+  ]
+}

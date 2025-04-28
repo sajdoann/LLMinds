@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the vanishing gradient problem?",
+      "context": "This problem is also realized in something which is called the vanishing gradient problem.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7259615384615384
+      }
+    },
+    {
+      "question": "How do changes of parameters propagate backwards through a network during backpropagation?",
+      "context": "if you know, if you knew more about the backpropagation algorithm, there is the change of the parameters that has to propagate backwards through the network to update the weights.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8781702898550725
+      }
+    },
+    {
+      "question": "What happens to the values in a deep network as they go through non-linearity at every step?",
+      "context": "then the values will get smaller and smaller.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8336397058823529
+      }
+    },
+    {
+      "question": "How does the depth of a network relate to its input length?",
+      "context": "So if we go back to. (no specific context, but this question requires understanding of the relationship between depth and input length)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7945075757575757
+      }
+    },
+    {
+      "question": "What is the effect on the network's weights due to the vanishing gradient problem?",
+      "context": "(no specific context, but this question requires inference about the consequences of the vanishing gradient problem)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.74375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the vanishing gradient problem?",
+      "context": "This problem is also realized in something which is called the vanishing gradient problem.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7259615384615384
+      }
+    },
+    {
+      "question": "How do changes of parameters propagate backwards through a network during backpropagation?",
+      "context": "if you know, if you knew more about the backpropagation algorithm, there is the change of the parameters that has to propagate backwards through the network to update the weights.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8781702898550725
+      }
+    },
+    {
+      "question": "How does the depth of a network relate to its input length?",
+      "context": "So if we go back to. (no specific context, but this question requires understanding of the relationship between depth and input length)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7945075757575757
+      }
+    },
+    {
+      "question": "What is the effect on the network's weights due to the vanishing gradient problem?",
+      "context": "(no specific context, but this question requires inference about the consequences of the vanishing gradient problem)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.74375
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a neural network in this context?",
+      "context": "The description of a neural network as having inputs, outputs, and intermediate layers",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7536057692307692
+      }
+    },
+    {
+      "question": "How do neurons activate at these intermediate layers?",
+      "context": "The statement that 'these neurons activate as they process the inputs'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.85625
+      }
+    },
+    {
+      "question": "What happens when a cut is made through the network, and what does this represent?",
+      "context": "The explanation of cuts in the network and their relation to representation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7702922077922079
+      }
+    },
+    {
+      "question": "How is the output constructed from the representation at a cut in the network?",
+      "context": "The statement that 'from this, from the representation at this cut, the output is then constructed'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7752976190476191
+      }
+    },
+    {
+      "question": "What can be observed by making a cut through the network?",
+      "context": "The statement that 'every cut of the network is a place where you can observe what the network is doing, how the network is representing'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be observed by making a cut through the network?",
+      "context": "The statement that 'every cut of the network is a place where you can observe what the network is doing, how the network is representing'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "How do neurons activate at these intermediate layers?",
+      "context": "The statement that 'these neurons activate as they process the inputs'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.85625
+      }
+    },
+    {
+      "question": "How is the output constructed from the representation at a cut in the network?",
+      "context": "The statement that 'from this, from the representation at this cut, the output is then constructed'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7752976190476191
+      }
+    }
+  ]
+}

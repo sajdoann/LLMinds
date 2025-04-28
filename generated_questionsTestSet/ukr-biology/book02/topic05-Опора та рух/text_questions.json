@@ -1,0 +1,490 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main function of the oporno-ruchova system in humans?",
+      "context": "Основними функціями опорно-рухової системи є захисна, опорна та рухова.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.810672514619883
+      }
+    },
+    {
+      "question": "Why is the taz human shaped like a bowl?",
+      "context": ".Таз людини має чашоподібну форму і є ширшим, проте коротшим, ніж у мавп (що утруднює процес пологів).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8962848297213623
+      }
+    },
+    {
+      "question": "What is the characteristic of the type of tissue that makes up bones and cartilage?",
+      "context": "Кровоносна судина, Діафіз, Суглобний хрящ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8663967611336032
+      }
+    },
+    {
+      "question": "What is the difference between the type of tissue that makes up short and flat bones?",
+      "context": "Плоскі кістки , як і короткі, утворені губчастою речовиною та, відповідно, теж містять червоний кістковий мозок",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8731907894736842
+      }
+    },
+    {
+      "question": "What is a суглоб (suglob) in the context of bone connections?",
+      "context": "Рухомі з’єднання кісток називають  суглобами , а нерухомі —  швами .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8301435406698565
+      }
+    },
+    {
+      "question": "What is the main function of хрящі (hryaщи) in bone connections?",
+      "context": "Хрящі відіграють важливу роль у з’єднаннях кісток і становлять ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8165071770334928
+      }
+    },
+    {
+      "question": "What is the percentage of the human body made up of bone?",
+      "context": "Only about 20% of our mass is bones.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.837171052631579
+      }
+    },
+    {
+      "question": "How many vertebrae are in the spine of a human being, excluding the atlas?",
+      "context": "There are seven cervical vertebrae, and the first one is called an atlas.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9109311740890689
+      }
+    },
+    {
+      "question": "What is the main function of muscles in the head?",
+      "context": "Мімічні м’язи зазвичай прикріплюються одним кінцем до кісток черепа, а іншим — до певної ділянки шкіри.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7847953216374269
+      }
+    },
+    {
+      "question": "What do muscles in the face control?",
+      "context": "Мімічні м’язи забезпечують вираження емоцій людиною.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8327067669172933
+      }
+    },
+    {
+      "question": "What is the function of mimetic muscles?",
+      "context": "Мімічні м’язи забезпечують вираження емоцій людиною.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7424812030075189
+      }
+    },
+    {
+      "question": "What is the approximate number of muscle fibers in an adult human?",
+      "context": "Тіло дорослої людини складається із 639 м’язів. Це приблизно 6 млрд м’яців.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8453947368421053
+      }
+    },
+    {
+      "question": "What is the mechanism of muscle contraction?",
+      "context": "У клітинах м’язів є мікроскопічні нитки, які складаються з білків актину й міозину.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7420474262579526
+      }
+    },
+    {
+      "question": "What is the role of calcium ions in muscle contraction?",
+      "context": "Важливу роль у процесах скорочення і розслаблення відіграють йони Кальцію, які є сигналом для початку роботи м’яза.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8000773993808049
+      }
+    },
+    {
+      "question": "What are the physical properties of muscle fibers?",
+      "context": "Фізичні властивості м’язів… Сила м’ятя, Швидкість скоро-чення м’яця, Витривалість м’яця, Тонус м’яця",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8265550239234449
+      }
+    },
+    {
+      "question": "What is the difference between static and dynamic muscle contraction?",
+      "context": "...статична робота… рух… Динамічна робота…",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8539473684210527
+      }
+    },
+    {
+      "question": "What is the difference between slow and fast contractions of muscles?",
+      "context": "Залежно від швидкості скорочення розрізняють повільні та швидкі м’язи",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8272195640616693
+      }
+    },
+    {
+      "question": "What is the purpose of muscle tone?",
+      "context": "Тонус м’яза. Стан постійного незначного напруження м’яза. він забезпечує підтримку постави й фіксацію внутрішніх органів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7575187969924813
+      }
+    },
+    {
+      "question": "What is the difference between static and dynamic work of muscles?",
+      "context": "Під час статичної роботи м’язи напружуються, але не скорочуються. Під час динамічної роботи м’язи почергово скорочуються й розтягуються.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8265550239234449
+      }
+    },
+    {
+      "question": "What is the effect of prolonged or intense work on muscles?",
+      "context": "Виконання тривалої або інтенсивної роботи приносить до стомлення м’язів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8423710792131844
+      }
+    },
+    {
+      "question": "What is the effect of cold temperatures on muscle contraction efficiency?",
+      "context": "ККД м’язів людини в умовах холоду знижується. це дозволяє організму виділяти більше енергії у вигляді тепла й підтримувати потрібну температуру тіла.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8380610617452723
+      }
+    },
+    {
+      "question": "What is the role of actin and myosin structures in muscle work?",
+      "context": "Активну участь беруть білкові структури, побудовані з білків актину й міозину.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8324362041467305
+      }
+    },
+    {
+      "question": "What is gipopodinamia?",
+      "context": "Недостатня рухова активність — одна з найпоширеніших проблем сучасності. Цю хворобу називають  гіподинамією .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7531328320802005
+      }
+    },
+    {
+      "question": "What are the consequences of gipopodinamia?",
+      "context": "Наслідки гіподинамії:\n• дистрофія (зменшення, ослаблення) скелетних м’язів;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "What is the name of the disease described in this text?",
+      "context": "This disease is called гіподинамія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8236842105263158
+      }
+    },
+    {
+      "question": "How long do processes of bone growth continue throughout a person's life?",
+      "context": "Processes of bone growth continue until the age of 22-24 years, but then continue throughout the rest of life",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.9546052631578947
+      }
+    },
+    {
+      "question": "What type of injuries can lead to problems with the opor-no-rozhovoi system?",
+      "context": "Mechanical injuries can lead to problems with the opor-no-rozhovoi system",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8921052631578947
+      }
+    },
+    {
+      "question": "What is the main cause of deformation of bones?",
+      "context": "Часто інфекції проникають у м’язи або кістки через поранення. Якщо пошкодження не вдається надійно знезаразити, то в рані починають розвиватися хвороботворні організми.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7902212918660287
+      }
+    },
+    {
+      "question": "What is the main function of ligaments?",
+      "context": "м’язи поділяють на колові, довгі, широкі та привідні",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7438909774436091
+      }
+    },
+    {
+      "question": "What is the name of the kistka",
+      "context": "кісткаnв куприкnб ключиця nг ліктьова кістка",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7390350877192982
+      }
+    },
+    {
+      "question": "Which part of the skeleton protects the heart, legs and spinal cord",
+      "context": "Захист серця, легень і спинного мозку забезпечує скелет:nа голови nв верхніх кінцівокnб тулуба nг нижніх кінцівок",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9051285885167464
+      }
+    },
+    {
+      "question": "What type of muscles are involved in the movement of flexion",
+      "context": "За виконуваними функціями мязи поділяють на:nа колові nб довгіnв широкіnг привідні",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8491626794258373
+      }
+    },
+    {
+      "question": "What type of muscle is the cruralis",
+      "context": "Кравецький мяз належить до мязів:nа голови nв верхніх кінцівокnб тулуба nг нижніх кінцівок",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7433487565066512
+      }
+    },
+    {
+      "question": "Which of the following is NOT a physical property of muscle",
+      "context": "До фізичних якостей мязів НЕ належить:nа силаnб тонус nвскоротністьnгвітривалість",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.854093567251462
+      }
+    },
+    {
+      "question": "What happens to the growth of bones in humans",
+      "context": "Кістки в людини ростуть:на до 5 років nв до 25 років nб до 18 роківnг до 40 років",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8323211875843455
+      }
+    },
+    {
+      "question": "",
+      "context": "Випадок для малюнка",
+      "difficulty": "NA",
+      "category": "NA",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9824561403508771
+      }
+    },
+    {
+      "question": "",
+      "context": "Випадок для малюнка",
+      "difficulty": "NA",
+      "category": "NA",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9824561403508771
+      }
+    },
+    {
+      "question": "",
+      "context": "Вплив на будовуorgans та їх функції",
+      "difficulty": "NA",
+      "category": "NA",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9780701754385965
+      }
+    },
+    {
+      "question": "",
+      "context": "Вплив на будовуorgans та їх функції",
+      "difficulty": "NA",
+      "category": "NA",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9780701754385965
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of injuries can lead to problems with the opor-no-rozhovoi system?",
+      "context": "Mechanical injuries can lead to problems with the opor-no-rozhovoi system",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8921052631578947
+      }
+    },
+    {
+      "question": "What are the consequences of gipopodinamia?",
+      "context": "Наслідки гіподинамії:\n• дистрофія (зменшення, ослаблення) скелетних м’язів;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How long do processes of bone growth continue throughout a person's life?",
+      "context": "Processes of bone growth continue until the age of 22-24 years, but then continue throughout the rest of life",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.9546052631578947
+      }
+    },
+    {
+      "question": "How many vertebrae are in the spine of a human being, excluding the atlas?",
+      "context": "There are seven cervical vertebrae, and the first one is called an atlas.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9109311740890689
+      }
+    },
+    {
+      "question": "Why is the taz human shaped like a bowl?",
+      "context": ".Таз людини має чашоподібну форму і є ширшим, проте коротшим, ніж у мавп (що утруднює процес пологів).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8962848297213623
+      }
+    }
+  ]
+}

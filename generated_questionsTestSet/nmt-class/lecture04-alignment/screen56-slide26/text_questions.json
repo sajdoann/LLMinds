@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does it mean to sum over all possible alignments in the context of calculating the probability of a target sentence given a source?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.36309523809523814
+      }
+    },
+    {
+      "question": "How does the IBM Model 1 define the normalization process for calculating the probability of a sentence?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.3416666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of considering all possible dot-filled matrices in alignment when summing over all alignments?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.359375
+      }
+    },
+    {
+      "question": "How does the length of sentences affect the normalization process according to the IBM Model 1?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.3482142857142857
+      }
+    },
+    {
+      "question": "What is the definition of a dot-filled matrix in alignment that corresponds to an alignment point?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.3416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does it mean to sum over all possible alignments in the context of calculating the probability of a target sentence given a source?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.36309523809523814
+      }
+    },
+    {
+      "question": "How does the length of sentences affect the normalization process according to the IBM Model 1?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.3482142857142857
+      }
+    },
+    {
+      "question": "How does the IBM Model 1 define the normalization process for calculating the probability of a sentence?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.3416666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of considering all possible dot-filled matrices in alignment when summing over all alignments?",
+      "context": "The specific part of the document containing the answer",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.359375
+      }
+    }
+  ]
+}

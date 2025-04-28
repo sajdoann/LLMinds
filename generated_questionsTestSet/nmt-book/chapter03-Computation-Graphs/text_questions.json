@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a Computation Graph?",
+      "context": "We represent this math in form of a computation graph . See Figure 3.1 for an illustration of the computation graph for our network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7886363636363636
+      }
+    },
+    {
+      "question": "How do Computation Graphs simplify model training?",
+      "context": "Now we will examine how it can be used to vastly simply model training.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9123376623376623
+      }
+    },
+    {
+      "question": "What is the purpose of the error function in model training?",
+      "context": "Model training requires an error function and the computation of gradients to derive update rules for parameters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7909090909090909
+      }
+    },
+    {
+      "question": "What are the two passes in the computation graph: forward pass and backward pass?",
+      "context": "The forward pass computes the output value, while the backward pass computes the gradients to derive update rules for parameters.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8398601398601399
+      }
+    },
+    {
+      "question": "What is the formula for computing the L2 norm's gradient?",
+      "context": "For the L2 node, we use the formula . L2.1.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.803030303030303
+      }
+    },
+    {
+      "question": "How are gradients associated with the sum node computed?",
+      "context": "For the lower sum node, we simply copy the previous value, since the derivative is 1. . sum.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8718434343434344
+      }
+    },
+    {
+      "question": "What are the main components of a node in a computation graph?",
+      "context": "function that computes its value . links to input nodes (to obtain argument values) . when processing an example in the forward pass, the computed value.function that executes its gradient computation . links to children nodes (to obtain downstream gradient values) .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8451125676831006
+      }
+    },
+    {
+      "question": "What are some popular deep learning frameworks for developing neural network methods?",
+      "context": "It would be quite tedious to write almost identical code to deal with each these variants. Hence, a number of frameworks have emerged to support developing neural network methods for any chosen problem.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9310850439882699
+      }
+    },
+    {
+      "question": "What is the sigmoid activation function?",
+      "context": ".sigmoid(T.dot(x,W).b)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8560606060606061
+      }
+    },
+    {
+      "question": "How does gradient descent training work in Theano?",
+      "context": "gW, gb, gW2, gb2 . TGrad(cost, (W,b,W2,b2))",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9285714285714286
+      }
+    },
+    {
+      "question": "What is the learning rate used in the training function?",
+      "context": "The function uses a learning rate of 0.1.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.783459595959596
+      }
+    },
+    {
+      "question": "Why do the predictions and cost change when calling the training function again?",
+      "context": "The training function returns the prediction and cost before the updates.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8939393939393939
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some popular deep learning frameworks for developing neural network methods?",
+      "context": "It would be quite tedious to write almost identical code to deal with each these variants. Hence, a number of frameworks have emerged to support developing neural network methods for any chosen problem.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9310850439882699
+      }
+    },
+    {
+      "question": "How do Computation Graphs simplify model training?",
+      "context": "Now we will examine how it can be used to vastly simply model training.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9123376623376623
+      }
+    },
+    {
+      "question": "Why do the predictions and cost change when calling the training function again?",
+      "context": "The training function returns the prediction and cost before the updates.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8939393939393939
+      }
+    }
+  ]
+}

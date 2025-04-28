@@ -76,7 +76,7 @@ def main():
                 responses[str(txt_path)[len("testset/"):]] = [
                     {
                         "question": question,
-                        "reference-answer": answer,
+                        "reference-answers": [answer],
                     }
                     for question, answer in zip(
                         response_questions,

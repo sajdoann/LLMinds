@@ -1,0 +1,1 @@
+ So what will the results be? If we use pivoting and no fine-tuning, then the scores are around 20, so it performs reasonably well. Then if we use the synthetic parallel corpus, the pseudo-parallel corpus, then depending on its size, the BLEU score can go up to 17, so it is worse than the pivoting.

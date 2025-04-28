@@ -1,0 +1,1 @@
+ We are after finding the probability of the alignment given the source and target sentences. We have used the chain rule to find the definition of the IBM model 1. That's the model which relies on the lexical translation probabilities and also the full probability of the target given the source across all the alignments. Now we have

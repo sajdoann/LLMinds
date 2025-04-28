@@ -1,0 +1,1 @@
+ And the idea is that you will simply share this attention across all the encoders and decoders. So the attention mechanism is just the same. And depending on which language pair you have at hand, you will train the respective encoder and decoder, but you will keep training the same attention mechanism across the language.

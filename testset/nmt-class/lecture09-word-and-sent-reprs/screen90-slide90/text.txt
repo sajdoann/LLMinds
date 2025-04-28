@@ -1,0 +1,1 @@
+ And here what we see is that the attention actually harms the performance. It is better to use just the final state of the encoder and decoder and that would serve better across the many evaluation tasks.

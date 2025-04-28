@@ -93,8 +93,7 @@ class LocalLLMInterface(LLMInterface):
         return response.response
 
 
-from azure.core.credentials import AzureKeyCredential
-from azure.ai.openai import OpenAIClient
+from openai import AzureOpenAI
 
 class AzureLLMInterface(LLMInterface):
     """Azure OpenAI deployment via azure.ai.openai.OpenAIClient."""
@@ -113,7 +112,7 @@ class AzureLLMInterface(LLMInterface):
             api_version:     (optional) Azure API version
         """
         credential = AzureKeyCredential(api_key)
-        self.client = OpenAIClient(api_version=api_version, endpoint=endpoint, credential=credential)
+        self.client = AzureOpenAI(api_version=api_version, endpoint=endpoint, credential=credential)
         self.deployment_name = deployment_name
 
     def generate_completion(
@@ -225,6 +224,7 @@ def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
         device = kwargs.get('device', None)
         return HuggingFaceInterface(model_name=model_name, device=device)
     elif provider == 'azure':
+        print("Using Azure OpenAI deployment...")
         endpoint = kwargs.get('endpoint')
         api_key = kwargs.get('api_key')
         deployment_name = kwargs.get('deployment_name')

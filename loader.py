@@ -27,63 +27,64 @@ FOLDERS_TESTSET: list[tuple[str, str]] = [
 FOLDERS: list[tuple[str, str]] = FOLDERS_TESTSET
 
 INSTANCES: list[Instance] = [
-    llama32_1b,
     llama32_3b_instruct,
+    llama32_1b,
     deepseek_r1_gguf_14b_q4_k_l,
 ]
 
-QUESTIONS_PER_DOCUMENT = 5
+QUESTIONS_PER_DOCUMENT = 3
 
 MAX_CHARS = 1024 * 16
 
 
 def main():
+    all_txt_data = sorted(
+        (path, content)
+        for folder, txt_file in FOLDERS
+        for path, content in load_data(folder, txt_file)
+    )
+
     for instance in INSTANCES:
         llm = instance.model.llm_factory()
         print(f"Using model: {instance.model.MODEL_ID}")
 
         responses: dict[str, list[dict[str, str]]] = {}
-        for i, (folder, txt_file) in enumerate(tqdm.tqdm(FOLDERS)):
-            txt_data = load_data(folder, txt_file)
-            if not txt_data:
-                print(f"Warning: No data found in {folder} with name {txt_file}")
-                continue
 
-            for txt_path, txt in txt_data:
-                print(f"Processing {txt_path}")
+        for i, (txt_path, txt) in enumerate(tqdm.tqdm(all_txt_data)):
+            print(f"Processing {txt_path}")
 
-                if len(txt) > MAX_CHARS:
-                    print(
-                        f"Warning: input text of {txt_path} is too long, truncating from {len(txt)} to last {MAX_CHARS} characters.")
-                    txt = txt[-MAX_CHARS:]
+            if len(txt) > MAX_CHARS:
+                print(
+                    f"Warning: input text of {txt_path} is too long, truncating from {len(txt)} to last {MAX_CHARS} characters.")
+                txt = txt[-MAX_CHARS:]
 
-                response_questions = llm(
-                    instance.prompt_question_generator(txt, instance.prompt_question),
-                    QUESTIONS_PER_DOCUMENT,
+            response_questions = llm(
+                instance.prompt_question_generator(txt, instance.prompt_question),
+                QUESTIONS_PER_DOCUMENT,
+            )
+            response_answers = [
+                llm(
+                    instance.prompt_answer_generator(
+                        txt,
+                        question.strip(),
+                        instance.prompt_answer,
+                    ),
+                    1
+                )[0]
+                for question in response_questions
+            ]
+
+            responses[str(txt_path)[len("testset/"):]] = [
+                {
+                    "question": question,
+                    "reference-answers": [answer],
+                }
+                for question, answer in zip(
+                    response_questions,
+                    response_answers,
+                    strict=True
                 )
-                response_answers = [
-                    llm(
-                        instance.prompt_answer_generator(
-                            txt,
-                            question.strip(),
-                            instance.prompt_answer,
-                        ),
-                        1
-                    )[0]
-                    for question in response_questions
-                ]
-
-                responses[str(txt_path)[len("testset/"):]] = [
-                    {
-                        "question": question,
-                        "reference-answers": [answer],
-                    }
-                    for question, answer in zip(
-                        response_questions,
-                        response_answers,
-                        strict=True
-                    )
-                ]
+            ]
 
         del llm
         gc.collect()

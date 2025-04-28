@@ -41,7 +41,7 @@ class QuestionGenerator:
         except Exception as e:
             raise Exception(f"Error reading file {file_path}: {str(e)}")
     
-    def generate_questions_from_text(self, document_text: str, num_questions: Optional[int] = None) -> List[Dict[str, Any]]:
+    def generate_questions_from_text(self, document_text: str, num_questions: Optional[int] = None, json_mode = False) -> List[Dict[str, Any]]:
         """Generate questions from text content.
         
         Args:
@@ -54,7 +54,10 @@ class QuestionGenerator:
         prompt = self._create_question_generation_prompt(document_text, num_questions)
         
         response = self.llm.generate_completion(prompt, max_tokens=2000, temperature=0.7)
-        
+
+        if not json_mode:
+            return response
+
         # Parse the response into a list of questions
         try:
             questions = self._extract_json_from_response(response)
@@ -87,6 +90,11 @@ class QuestionGenerator:
            - A difficulty rating (easy, medium, hard)
            - A category (factual, inferential, analytical)
 
+        5. Tell me only the questions
+        DOCUMENT:
+        {document_text}
+        """
+        json_prompt = """
         Format your response as a JSON array of objects with this structure:
         ```json
         [
@@ -98,12 +106,7 @@ class QuestionGenerator:
           }},
           ...
         ]
-        ```
-
-        DOCUMENT:
-        {document_text}
         """
-        
         return prompt
     
     def _extract_json_from_response(self, response: str) -> List[Dict[str, Any]]:

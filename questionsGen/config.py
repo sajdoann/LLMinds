@@ -19,9 +19,9 @@ class Config:
         # Default
         self._config = {
             "llm": {
-                "provider": "ollama", # huggingface, ollama or gpt4o
+                "provider": "huggingface", # huggingface, ollama or gpt4o
                 "api_key": os.environ.get("OPENAI_API_KEY", ""),
-                "model_path": "deepseek-r1:1.5b",
+                "model_path": "meta-llama/Llama-2-13b-chat-hf",#"deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
                 "temperature": 0.7,
                 "max_tokens": 2000
             },

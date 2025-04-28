@@ -14,7 +14,7 @@ from llm_interface import get_llm_interface
 from question_generator import QuestionGenerator
 from question_evaluator import QuestionEvaluator
 from config import Config
-
+import os
 
 def load_document(file_path):
     """Load document from file."""
@@ -52,7 +52,7 @@ def main():
     num_questions = config.get("question_generation", "default_num_questions") or 5
     print(f"Generating {num_questions} questions...")
     
-    questions = generator.generate_questions_from_text(document_text, num_questions)
+    questions = generator.generate_questions_from_text(document_text, num_questions, json_mode=False) # todo make True if needed
     print(f"Generated {len(questions)} questions")
     
     # Print the first few questions

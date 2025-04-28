@@ -85,20 +85,20 @@ def main():
                     )
                 ]
 
-            with open(
-                    (
-                            f"responses"
-                            f"_{instance.model.MODEL_ID.replace('/', '-')}"
-                            f"_{datetime.datetime.now().isoformat(timespec="seconds").replace(":", "")}"
-                            f".json"
-                    ),
-                    "w",
-            ) as f:
-                json.dump(responses, f, ensure_ascii=False, indent=4)
-
         del llm
         gc.collect()
         torch.cuda.empty_cache()
+
+        with open(
+                (
+                        f"responses"
+                        f"_{instance.model.MODEL_ID.replace('/', '-')}"
+                        f"_{datetime.datetime.now().isoformat(timespec="seconds").replace(":", "")}"
+                        f".json"
+                ),
+                "w",
+        ) as f:
+            json.dump(responses, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":

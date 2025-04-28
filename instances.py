@@ -7,8 +7,10 @@ from models import AbstractModel, LLAMAInstruct, LLAMADefault, DeepSeekR1GGUF
 @dataclass
 class Instance:
     model: AbstractModel
-    prompt_generator: Callable[[str, str], str]
-    prompt: str
+    prompt_question_generator: Callable[[str, str], str]
+    prompt_question: str
+    prompt_answer_generator: Callable[[str, str, str], str]
+    prompt_answer: str
 
 
 llama32_3b_instruct = Instance(
@@ -17,12 +19,17 @@ llama32_3b_instruct = Instance(
         system_prompt="You are a helpful assistant.",
         max_new_tokens=128,
     ),
-    prompt_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
-    prompt="""
+    prompt_question_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
+    prompt_answer_generator=lambda docs, question, prompt: f"TEXT:\n{docs}\n\nQUESTION:\n{question}\n\n{prompt}",
+    prompt_question="""
 Based on previous TEXT generate a single QUESTION for an exam which is answerable using only the information in the TEXT.
 Do not answer the question.
 Respond only with the QUESTION and nothing else.
-""".strip()
+""".strip(),
+    prompt_answer="""
+Based on previous TEXT generate an ANSWER for an the question. Answer only using the information in the TEXT.
+Respond only with the ANSWER and nothing else.
+""".strip(),
 )
 
 llama32_1b = Instance(
@@ -30,12 +37,18 @@ llama32_1b = Instance(
         MODEL_ID="meta-llama/Llama-3.2-1B",
         max_new_tokens=128,
     ),
-    prompt_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
-    prompt="""
+    prompt_question_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}\n\nQUESTION: ",
+    prompt_answer_generator=lambda docs, question, prompt: f"TEXT:\n{docs}\n\nQUESTION:\n{question}\n\n{prompt}\n\nANSWER: ",
+    prompt_question="""
 Based on previous TEXT generate a single QUESTION for an exam which is answerable using only the information in the TEXT.
 Do not answer the question.
 Respond only with the QUESTION and nothing else. 
-""".strip()
+""".strip(),
+    prompt_answer="""
+Based on previous TEXT generate an ANSWER for an the question. Answer only using the information in the TEXT.
+Respond only with the ANSWER and nothing else.
+QUESTION:
+""".strip(),
 )
 
 deepseek_r1_gguf_14b_q4_k_l = Instance(
@@ -45,10 +58,15 @@ deepseek_r1_gguf_14b_q4_k_l = Instance(
         max_new_tokens=2048,
         system_prompt="You are a helpful assistant."
     ),
-    prompt_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
-    prompt="""
+    prompt_question_generator=lambda docs, prompt: f"TEXT:\n{docs}\n\n{prompt}",
+    prompt_answer_generator=lambda docs, question, prompt: f"TEXT:\n{docs}\n\nQUESTION:\n{question}\n\n{prompt}",
+    prompt_question="""
 Based on previous TEXT generate a single QUESTION for an exam which is answerable using only the information in the TEXT.
 Do not answer the question.
 Respond only with the QUESTION and nothing else.
-""".strip()
+""".strip(),
+    prompt_answer="""
+Based on previous TEXT generate an ANSWER for an the question. Answer only using the information in the TEXT.
+Respond only with the ANSWER and nothing else.
+""".strip(),
 )

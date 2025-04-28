@@ -3,7 +3,8 @@ from dataclasses import dataclass
 from typing import Callable
 from llama_cpp import Llama
 from transformers import (
-    pipeline
+    pipeline,
+    set_seed,
 )
 
 
@@ -20,7 +21,7 @@ class DeepSeekR1GGUF(AbstractModel):
     MODEL_ID: str = "bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF"
     GGUF_FILE: str = "DeepSeek-R1-Distill-Qwen-14B-Q4_K_L.gguf"
     max_new_tokens: int = 2048
-    system_prompt: str = "You are a helpful assistant."
+    system_prompt: str = "You are a teacher making questions for an exam."
 
     def llm_factory(self) -> Callable[[str, int], list[str]]:
         context_window = 1024 * 16
@@ -29,16 +30,18 @@ class DeepSeekR1GGUF(AbstractModel):
             repo_id=self.MODEL_ID,
             filename=self.GGUF_FILE,
             n_ctx=context_window,
-            verbose=False
+            verbose=False,
         )
 
         def _llm(input_text: str, count: int) -> list[str]:
             responses = []
-            for _ in range(count):
+            for i in range(count):
                 input_tokens = llm.tokenize(bytes(input_text, "utf-8"))
                 if len(input_tokens) > context_window - self.max_new_tokens:
-                    print(f"Warning: input text is too long, truncating from {len(input_tokens)} to {context_window - self.max_new_tokens} tokens.")
-                    input_text = llm.detokenize(input_tokens[-(context_window - self.max_new_tokens):]).decode("utf-8", errors="ignore")
+                    print(
+                        f"Warning: input text is too long, truncating from {len(input_tokens)} to {context_window - self.max_new_tokens} tokens.")
+                    input_text = llm.detokenize(input_tokens[-(context_window - self.max_new_tokens):]).decode("utf-8",
+                                                                                                               errors="ignore")
 
                 response = llm(
                     f'<｜begin▁of▁sentence｜>{self.system_prompt}<｜User｜>{input_text}<｜Assistant｜><think>',
@@ -49,18 +52,20 @@ class DeepSeekR1GGUF(AbstractModel):
                         '<｜Assistant｜>',
                         '<｜end▁of▁sentence｜>'
                     ],
+                    seed=0x12345678 + i * 1337,
                 )
                 text = response['choices'][0]['text']
                 last_think = text.rfind('</think>')
                 responses.append((text[last_think + len('</think>'):] if last_think != -1 else text).strip())
             return responses
+
         return _llm
 
 
 @dataclass
 class LLAMAInstruct(AbstractModel):
     MODEL_ID: str = "meta-llama/Llama-3.2-3B-Instruct"
-    system_prompt: str = "You are a helpful assistant."
+    system_prompt: str = "You are a teacher making questions for an exam."
     max_new_tokens: int = 256
 
     def llm_factory(self) -> Callable[[str, int], list[str]]:
@@ -82,14 +87,19 @@ class LLAMAInstruct(AbstractModel):
                 {"role": "system", "content": self.system_prompt},
                 {"role": "user", "content": input_text}
             ]
-            outputs = gen_pipeline(
-                messages,
-                max_new_tokens=self.max_new_tokens,
-                num_return_sequences=count,
-                eos_token_id=eos_tokens,
-                pad_token_id=gen_pipeline.tokenizer.eos_token_id,
-            )
-            return [x["generated_text"][-1]['content'] for x in outputs]
+
+            res: list[str] = []
+            for i in range(count):
+                set_seed(0x12345678 + i * 1337)
+                outputs = gen_pipeline(
+                    messages,
+                    max_new_tokens=self.max_new_tokens,
+                    num_return_sequences=1,
+                    eos_token_id=eos_tokens,
+                    pad_token_id=gen_pipeline.tokenizer.eos_token_id,
+                )
+                res.append(outputs[0]["generated_text"][-1]['content'])
+            return res
         return _llm
 
 
@@ -113,12 +123,16 @@ class LLAMADefault(AbstractModel):
         ]
 
         def _llm(input_text: str, count: int) -> list[str]:
-            outputs = gen_pipeline(
-                input_text,
-                max_new_tokens=self.max_new_tokens,
-                num_return_sequences=count,
-                eos_token_id=eos_tokens,
-                pad_token_id=gen_pipeline.tokenizer.eos_token_id,
-            )
-            return [x["generated_text"][len(input_text):] for x in outputs]
+            res: list[str] = []
+            for i in range(count):
+                set_seed(0x12345678 + i * 1337)
+                outputs = gen_pipeline(
+                    input_text,
+                    max_new_tokens=self.max_new_tokens,
+                    num_return_sequences=1,
+                    eos_token_id=eos_tokens,
+                    pad_token_id=gen_pipeline.tokenizer.eos_token_id,
+                )
+                res.append(outputs[0]["generated_text"][-1]['content'])
+            return res
         return _llm

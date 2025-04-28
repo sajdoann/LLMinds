@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the beam search candidate when the next word's score is calculated?",
+      "context": "You simply multiply the score of the prefix with the probability of the next word",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5122377622377622
+      }
+    },
+    {
+      "question": "How does the score of the extended hypothesis compare to the beam search candidate?",
+      "context": "Your candidate is the prefix up to the current word and you compute the score of the extended hypothesis",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5598958333333333
+      }
+    },
+    {
+      "question": "What is the result when you multiply the score of the prefix with the probability of the next word?",
+      "context": "And that gives you hypothesis one word longer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6629464285714286
+      }
+    },
+    {
+      "question": "How does the beam search algorithm work in terms of adding new words to the hypothesis?",
+      "context": "You simply multiply the score of the prefix with the probability of the next word which comes after that",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6166666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of using beam search in natural language processing or machine learning?",
+      "context": "So what do you do with the beam search is that your candidate is the prefix up to the current word and you compute the score of the extended hypothesis.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6652173913043479
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the beam search candidate when the next word's score is calculated?",
+      "context": "You simply multiply the score of the prefix with the probability of the next word",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5122377622377622
+      }
+    },
+    {
+      "question": "How does the beam search algorithm work in terms of adding new words to the hypothesis?",
+      "context": "You simply multiply the score of the prefix with the probability of the next word which comes after that",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6166666666666667
+      }
+    },
+    {
+      "question": "How does the score of the extended hypothesis compare to the beam search candidate?",
+      "context": "Your candidate is the prefix up to the current word and you compute the score of the extended hypothesis",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5598958333333333
+      }
+    }
+  ]
+}

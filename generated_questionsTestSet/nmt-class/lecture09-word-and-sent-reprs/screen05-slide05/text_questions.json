@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is Danny carrying in his yellow bag?",
+      "context": "Such as a sentence, Danny approached the chair with a yellow bag.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What does the symbol mean?",
+      "context": "And this symbol is meant to stand for some situation, to correspond to some situation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Why is Danny carrying a yellow bag?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8928571428571428
+      }
+    },
+    {
+      "question": "What is the relationship between the symbol and its corresponding situation?",
+      "context": "to correspond to some situation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What can be inferred about Danny's purpose from his actions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is Danny carrying in his yellow bag?",
+      "context": "Such as a sentence, Danny approached the chair with a yellow bag.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What does the symbol mean?",
+      "context": "And this symbol is meant to stand for some situation, to correspond to some situation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What can be inferred about Danny's purpose from his actions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    },
+    {
+      "question": "Why is Danny carrying a yellow bag?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8928571428571428
+      }
+    }
+  ]
+}

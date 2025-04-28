@@ -1,0 +1,193 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of a Schlierenspiegel?",
+      "context": "Dort forscht Amayu Wakoya-Gena mit diesem Spiegel. Das ist ein ganz besonderer Spiegel. Mit dem kann man Dinge sichtbar machen, die man sonst nicht sieht.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8079004329004329
+      }
+    },
+    {
+      "question": "How does a Stoffmaske affect the airflow when worn?",
+      "context": "Die Maske bremst die Luft ab. Und der Atem geht nicht so weit. Und auch beim Husten wird er nicht so weit geschleudert.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9076510721247564
+      }
+    },
+    {
+      "question": "What is a Raster-Elektronen-Mikroskop used for?",
+      "context": "Damit kann er das sichtbar machen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "How are the Kunststofffasern created?",
+      "context": "Wie bei einem Kaugummi werden die Kügelchen also in die Länge gezogen.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9037878787878788
+      }
+    },
+    {
+      "question": "Was ist Meltblown-Vlies?",
+      "context": "Das Vlies aus Kunststoff ist, weil das Vlies aus Kunststoff ist, kann man das elektrisch aufladen. Ich zeige euch das mal mit diesem Luftballon.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9191176470588236
+      }
+    },
+    {
+      "question": "Warum ist FFP-Maske eng anliegen?",
+      "context": "Die sind hauptsächlich gemacht, um Tröpfchen oder Spritzer, die aus Mund und Nase kommen, aufzufangen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9357142857142857
+      }
+    },
+    {
+      "question": "Wie funktioniert die OP-Maske?",
+      "context": "Wenn man das jetzt nimmt und da eine Lage Meltblown drauflegt und dann nochmal eine Lage Spinnvlies drauflegt, hat man eine medizinische Gesichtsmaske oder auch OP-Maske.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9583333333333334
+      }
+    },
+    {
+      "question": "Was ist SMS?",
+      "context": "Daher nennt man das auch SMS. Und unter dem Mikroskop sieht man nochmal gut, wie dünn die Fasern vom Meltblown sind und wie dick die vom Spinnvlies, die die Meltblown-Lage schützen sollen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9066666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of FFP-Masken?",
+      "context": "Die können zum Beispiel so aussehen. Die sitzen ganz besonders eng. Daher ist das auch ein ziemliches Gefummel, die anzuziehen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7939814814814815
+      }
+    },
+    {
+      "question": "What is the difference between FFP-1, FFP-2, and FFP-3 masks?",
+      "context": "Eine FFP-1-Maske darf von 100 Teilchen in der Luft höchstens 20 durchlassen. Eine FFP-2-Maske lässt von 100 Teilchen in der Luft nur noch sechs durch.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9115740740740741
+      }
+    },
+    {
+      "question": "Who should wear FFP-2 and FFP-3 masks?",
+      "context": "Solche FFP-2- und 3-Masken brauchen vor allem Menschen, die zum Beispiel im Krankenhaus arbeiten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9404761904761905
+      }
+    },
+    {
+      "question": "What is the benefit of wearing a homemade mask compared to not wearing one?",
+      "context": "Und je nachdem, aus welchem Stoff und wie die gemacht ist, kann die wahrscheinlich auch helfen, sich selber etwas besser zu schützen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8762820512820513
+      }
+    },
+    {
+      "question": "What is the purpose of comparing homemade masks with FFP-Masken?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9041666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who should wear FFP-2 and FFP-3 masks?",
+      "context": "Solche FFP-2- und 3-Masken brauchen vor allem Menschen, die zum Beispiel im Krankenhaus arbeiten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9404761904761905
+      }
+    },
+    {
+      "question": "Warum ist FFP-Maske eng anliegen?",
+      "context": "Die sind hauptsächlich gemacht, um Tröpfchen oder Spritzer, die aus Mund und Nase kommen, aufzufangen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9357142857142857
+      }
+    },
+    {
+      "question": "How are the Kunststofffasern created?",
+      "context": "Wie bei einem Kaugummi werden die Kügelchen also in die Länge gezogen.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9037878787878788
+      }
+    },
+    {
+      "question": "What is the benefit of wearing a homemade mask compared to not wearing one?",
+      "context": "Und je nachdem, aus welchem Stoff und wie die gemacht ist, kann die wahrscheinlich auch helfen, sich selber etwas besser zu schützen.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8762820512820513
+      }
+    }
+  ]
+}

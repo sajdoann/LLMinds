@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What systems were shown in a different subset?",
+      "context": "a different subset of systems was shown and on a different sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.89375
+      }
+    },
+    {
+      "question": "Which system performed the worst?",
+      "context": "system A was the worst one, actually.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "How did systems B and C compare to each other?",
+      "context": "B and C were again on par",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9392857142857143
+      }
+    },
+    {
+      "question": "Which system performed the best?",
+      "context": "E was the best one.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What can be inferred about the assessments and screenings collected from many people?",
+      "context": "So now if you have these assessments, you have asked many people, collected many of such screens",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9526098901098901
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How did systems B and C compare to each other?",
+      "context": "B and C were again on par",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9392857142857143
+      }
+    },
+    {
+      "question": "Which system performed the worst?",
+      "context": "system A was the worst one, actually.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "Which system performed the best?",
+      "context": "E was the best one.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What can be inferred about the assessments and screenings collected from many people?",
+      "context": "So now if you have these assessments, you have asked many people, collected many of such screens",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9526098901098901
+      }
+    }
+  ]
+}

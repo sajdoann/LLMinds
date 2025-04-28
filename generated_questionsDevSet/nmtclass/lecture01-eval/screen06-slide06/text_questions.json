@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two options for showing source text to annotators during manual evaluation?",
+      "context": "When designing a manual evaluation method, you need to decide what to show to the annotators, ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6803571428571429
+      }
+    },
+    {
+      "question": "What is the main challenge in using reference translations for machine translation evaluation?",
+      "context": "So what to show? You can show the source text, or you can show the reference translation, which already distorts the scores a bit, ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "What is the purpose of using document-aware evaluation methods?",
+      "context": "And then there is the question of context to consider and for many years people in machine translation field focus only on the sentence level, ...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7065972222222222
+      }
+    },
+    {
+      "question": "What are the different types of output that can be shown to annotators during manual evaluation?",
+      "context": "And then you ask for one single score for the whole document. And document aware is something of a mix, You are going to show people smaller pieces, so individual sentences, ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7039331896551724
+      }
+    },
+    {
+      "question": "What is the main consequence of using different types of output during manual evaluation?",
+      "context": "And this also has the various consequences on the results of the evaluation, And you can also ask some more complicated questions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6623931623931624
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two options for showing source text to annotators during manual evaluation?",
+      "context": "When designing a manual evaluation method, you need to decide what to show to the annotators, ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6803571428571429
+      }
+    },
+    {
+      "question": "What is the main challenge in using reference translations for machine translation evaluation?",
+      "context": "So what to show? You can show the source text, or you can show the reference translation, which already distorts the scores a bit, ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "What are the different types of output that can be shown to annotators during manual evaluation?",
+      "context": "And then you ask for one single score for the whole document. And document aware is something of a mix, You are going to show people smaller pieces, so individual sentences, ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7039331896551724
+      }
+    },
+    {
+      "question": "What is the purpose of using document-aware evaluation methods?",
+      "context": "And then there is the question of context to consider and for many years people in machine translation field focus only on the sentence level, ...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7065972222222222
+      }
+    }
+  ]
+}

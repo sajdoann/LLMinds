@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the decoder state in the context of the formula?",
+      "context": "The decoder state",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.45833333333333337
+      }
+    },
+    {
+      "question": "How do the bidirectional recurrent networks function in this scenario?",
+      "context": "Then you have the encoder state, the bidirectional recurrent networks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the purpose of attention energies in this formula?",
+      "context": "You have the attention energies which decide how important each of the state is",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6346153846153846
+      }
+    },
+    {
+      "question": "How are attention energies normalized in the formula?",
+      "context": "and you normalize it with the softmax",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6383928571428572
+      }
+    },
+    {
+      "question": "What is being 'produced so far' in the context of the formula?",
+      "context": "You have the decoder state which will be gradually containing more and more information or information about what has been produced so far.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7121212121212122
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of attention energies in this formula?",
+      "context": "You have the attention energies which decide how important each of the state is",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6346153846153846
+      }
+    },
+    {
+      "question": "How are attention energies normalized in the formula?",
+      "context": "and you normalize it with the softmax",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6383928571428572
+      }
+    },
+    {
+      "question": "How do the bidirectional recurrent networks function in this scenario?",
+      "context": "Then you have the encoder state, the bidirectional recurrent networks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is being 'produced so far' in the context of the formula?",
+      "context": "You have the decoder state which will be gradually containing more and more information or information about what has been produced so far.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7121212121212122
+      }
+    }
+  ]
+}

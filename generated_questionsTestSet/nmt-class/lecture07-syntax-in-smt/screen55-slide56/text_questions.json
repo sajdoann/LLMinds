@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of the tectogrammatic transfer in this system?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.48863636363636365
+      }
+    },
+    {
+      "question": "How does the word order change between the tectogrammatic and surface trees?",
+      "context": "The third paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5613636363636363
+      }
+    },
+    {
+      "question": "What happens to long distance dependencies in the tectogrammatic layer?",
+      "context": "The second sentence of the first paragraph",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5375
+      }
+    },
+    {
+      "question": "How does the vocabulary size change due to the use of lemmas in the trees?",
+      "context": "The third sentence of the first paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "What is a potential feature that could be added to improve the system's reliability?",
+      "context": "The last sentence of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5946428571428571
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of the tectogrammatic transfer in this system?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.48863636363636365
+      }
+    },
+    {
+      "question": "How does the word order change between the tectogrammatic and surface trees?",
+      "context": "The third paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5613636363636363
+      }
+    },
+    {
+      "question": "How does the vocabulary size change due to the use of lemmas in the trees?",
+      "context": "The third sentence of the first paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "What is a potential feature that could be added to improve the system's reliability?",
+      "context": "The last sentence of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5946428571428571
+      }
+    }
+  ]
+}

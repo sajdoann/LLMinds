@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one potential issue that can cause delays between the presentation worker and the web?",
+      "context": "the final problem at the presentation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "How might end user devices impact the quality of subtitles in real-time?",
+      "context": "end user devices can get overwhelmed with data",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What is one potential responsibility of the presenter in managing the pipeline for complete presentation?",
+      "context": "acquisition and final presentation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    },
+    {
+      "question": "How can end users potentially impact the business if they are overloaded with data?",
+      "context": "they will not be presenting subtitles live enough",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "What is one concern about delays in subtitle presentation on web browsers?",
+      "context": "unacceptable delay of the subtitles on their web browsers",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8680555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one concern about delays in subtitle presentation on web browsers?",
+      "context": "unacceptable delay of the subtitles on their web browsers",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8680555555555556
+      }
+    },
+    {
+      "question": "How can end users potentially impact the business if they are overloaded with data?",
+      "context": "they will not be presenting subtitles live enough",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "How might end user devices impact the quality of subtitles in real-time?",
+      "context": "end user devices can get overwhelmed with data",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What is one potential responsibility of the presenter in managing the pipeline for complete presentation?",
+      "context": "acquisition and final presentation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214285714285714
+      }
+    }
+  ]
+}

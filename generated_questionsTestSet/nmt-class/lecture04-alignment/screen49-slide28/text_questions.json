@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process called when alignments for matching words get stronger, and alignments for non-matching words become less important or probable?",
+      "context": "For a little while, then again the alignments for the good words, for the matching words will get stronger and the alignments for the non-matching words get less important or less probable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6111111111111112,
+        "diversity_score": 0.8364661654135339
+      }
+    },
+    {
+      "question": "How does the probability mass distribute among words not covered in other sentences?",
+      "context": "words that are not covered in other sentences at all, such as this flower here, they will get aligned to each other simply because the probability mass has to be distributed somewhere",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8342948717948718
+      }
+    },
+    {
+      "question": "What is the name of the principle being described when words are assigned to holes (or categories) based on limited information?",
+      "context": "So this is the pigeonhole principle.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.7895833333333333
+      }
+    },
+    {
+      "question": "How does the alignment of a word like 'flower' become stronger over time, according to the document?",
+      "context": "It's guaranteed that the word flower will eventually get aligned to flare and that the probability mass that was acquired by the and la will like keep the pair the and la separate from the flare.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8262499999999999
+      }
+    },
+    {
+      "question": "What is the implication of having more words than categories when it comes to word alignment?",
+      "context": "You have to put the pigeons are coming to their house, then if there are more pigeons than holes, there must be a hole through which two pigeons go.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8072916666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the process called when alignments for matching words get stronger, and alignments for non-matching words become less important or probable?",
+      "context": "For a little while, then again the alignments for the good words, for the matching words will get stronger and the alignments for the non-matching words get less important or less probable.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6111111111111112,
+        "diversity_score": 0.8364661654135339
+      }
+    },
+    {
+      "question": "How does the probability mass distribute among words not covered in other sentences?",
+      "context": "words that are not covered in other sentences at all, such as this flower here, they will get aligned to each other simply because the probability mass has to be distributed somewhere",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8342948717948718
+      }
+    },
+    {
+      "question": "How does the alignment of a word like 'flower' become stronger over time, according to the document?",
+      "context": "It's guaranteed that the word flower will eventually get aligned to flare and that the probability mass that was acquired by the and la will like keep the pair the and la separate from the flare.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8262499999999999
+      }
+    }
+  ]
+}

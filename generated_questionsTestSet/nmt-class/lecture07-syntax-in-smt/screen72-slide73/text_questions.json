@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of Markov model is being used?",
+      "context": "Markov 3 model",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "Where will the best combination be determined?",
+      "context": "last slide of this talk today",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What action needs to be taken after selecting the best combination?",
+      "context": "select the best combination and then...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "What type of model is mentioned in the context of selection?",
+      "context": "Markov 3 model to select the best combination",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "Where will the results of the selection be presented?",
+      "context": "last slide of this talk today",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.734375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What action needs to be taken after selecting the best combination?",
+      "context": "select the best combination and then...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "What type of model is mentioned in the context of selection?",
+      "context": "Markov 3 model to select the best combination",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "Where will the best combination be determined?",
+      "context": "last slide of this talk today",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7321428571428572
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the most frequent character pair in the example?",
+      "context": "The introduction sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4027777777777778
+      }
+    },
+    {
+      "question": "Why do you decide to merge two tokens together?",
+      "context": "The second part of the introduction sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "What is introduced as a new unit in vocabulary?",
+      "context": "The third part of the introduction sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5138888888888888
+      }
+    },
+    {
+      "question": "How did you start your vocabulary?",
+      "context": "The fourth part of the introduction sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What is added to the existing list of letters in vocabulary?",
+      "context": "The last part of the introduction sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5113636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is introduced as a new unit in vocabulary?",
+      "context": "The third part of the introduction sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5138888888888888
+      }
+    },
+    {
+      "question": "Why do you decide to merge two tokens together?",
+      "context": "The second part of the introduction sentence",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "How did you start your vocabulary?",
+      "context": "The fourth part of the introduction sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    }
+  ]
+}

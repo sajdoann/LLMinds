@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when a child corpus is smaller than a parent corpus?",
+      "context": "One thing that has to be taken into account is the vocabulary size and the subword vocabularies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5639204545454546
+      }
+    },
+    {
+      "question": "How would extracting a subword dictionary from both corpora affect its quality?",
+      "context": "So if you have a parent corpus, which is typically big, and the child corpus, which is typically small, then if you would extract the subword dictionary from these two corpora together, then the subword dictionary would be heavily overfitted to the parent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.6375
+      }
+    },
+    {
+      "question": "What does it mean for a subword dictionary to be 'overfitted'?",
+      "context": "So if you have a parent corpus, which is typically big, and the child corpus, which is typically small, then if you would extract the subword dictionary from these two corpora together, then the subword dictionary would be heavily overfitted to the parent.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.575
+      }
+    },
+    {
+      "question": "What are typical characteristics of a child corpus compared to a parent corpus?",
+      "context": "So if you have a parent corpus, which is typically big, and the child corpus, which is typically small, then if you would extract the subword dictionary from these two corpora together, then the subword dictionary would be heavily overfitted to the parent.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.5229166666666667
+      }
+    },
+    {
+      "question": "Why is it a problem to have a child corpus that is too small compared to a parent corpus?",
+      "context": "One thing that has to be taken into account is the vocabulary size and the subword vocabularies.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.5927083333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when a child corpus is smaller than a parent corpus?",
+      "context": "One thing that has to be taken into account is the vocabulary size and the subword vocabularies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5639204545454546
+      }
+    },
+    {
+      "question": "How would extracting a subword dictionary from both corpora affect its quality?",
+      "context": "So if you have a parent corpus, which is typically big, and the child corpus, which is typically small, then if you would extract the subword dictionary from these two corpora together, then the subword dictionary would be heavily overfitted to the parent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.6375
+      }
+    },
+    {
+      "question": "What are typical characteristics of a child corpus compared to a parent corpus?",
+      "context": "So if you have a parent corpus, which is typically big, and the child corpus, which is typically small, then if you would extract the subword dictionary from these two corpora together, then the subword dictionary would be heavily overfitted to the parent.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.5229166666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the set of measures announced by the government to help families with children cope with high inflation and rising energy prices?",
+      "context": "<p>After its meeting on April 27, 2022, the government <a href=\"https://www.vlada.cz/cz/media-centrum/aktualne/vlada-prodiskutovala-tzv--balicek-rodinne-pomoci--schvalila-i-pomoc-socialnim-sluzbam-s-pokrytim-zvysenych-nakladu-na-peci-o-uprchliky-195891/\"></a>announced</p><p>...</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7965367965367965
+      }
+    },
+    {
+      "question": "What is the one-time contribution of for each child to all families whose annual income is up to one million crowns?",
+      "context": "<p>At the press conference, CNN Prima News editor Dáša Šamanová <a href=\"https://livestream.com/accounts/17590784/events/10363010/player?width=640&amp;height=360&amp;enableInfoAndActivity=false&amp;defaultDrawer=&amp;autoPlay=true&amp;mute=false\"></a> asked</p><p>...</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7945344129554656
+      }
+    },
+    {
+      "question": "What was the original answer of Marian Jurečka about whether the contribution is calculated from the gross or net annual income?",
+      "context": "<p>Marian Jurečka answered the question <a href=\"https://livestream.com/accounts/17590784/events/10363010/player?width=640&amp;height=360&amp;enableInfoAndActivity=false&amp;defaultDrawer=&amp;autoPlay=false&amp;mute=false\"></a>(video, time 32:00): <i>\"If I'm not mistaken, in the debate we had about that parameter, we were talking about the net income of that household.\"></i></p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6404352226720648
+      }
+    },
+    {
+      "question": "Why did Marian Jurečka correct his original answer about whether the contribution is calculated from the gross or net annual income?",
+      "context": "<p>He later corrected this original information on April 30, 2022 and <a href=\"https://www.ceskenoviny.cz/zpravy/jurecka-prispevek-5000-kc-na-dite-bude-do-rocniho-prijmu-rodiny-1-milion-kc-hrubeho/2199681\"></a>said</p>",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7798076923076923
+      }
+    },
+    {
+      "question": "What is the implied significance of Petr Fial's response to Marian Jurečka's question about the calculation of the contribution?",
+      "context": "<p>Marian Jurečka answered the question <a href=\"https://livestream.com/accounts/17590784/events/10363010/player?width=640&amp;height=360&amp;enableInfoAndActivity=false&amp;defaultDrawer=&amp;autoPlay=false&amp;mute=false\"></a>(video, time 32:00): <i>\"If I'm not mistaken, in the debate we had about that parameter, we were talking about the net income of that household.\"></i></p>",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.6947115384615384
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the set of measures announced by the government to help families with children cope with high inflation and rising energy prices?",
+      "context": "<p>After its meeting on April 27, 2022, the government <a href=\"https://www.vlada.cz/cz/media-centrum/aktualne/vlada-prodiskutovala-tzv--balicek-rodinne-pomoci--schvalila-i-pomoc-socialnim-sluzbam-s-pokrytim-zvysenych-nakladu-na-peci-o-uprchliky-195891/\"></a>announced</p><p>...</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7965367965367965
+      }
+    },
+    {
+      "question": "What was the original answer of Marian Jurečka about whether the contribution is calculated from the gross or net annual income?",
+      "context": "<p>Marian Jurečka answered the question <a href=\"https://livestream.com/accounts/17590784/events/10363010/player?width=640&amp;height=360&amp;enableInfoAndActivity=false&amp;defaultDrawer=&amp;autoPlay=false&amp;mute=false\"></a>(video, time 32:00): <i>\"If I'm not mistaken, in the debate we had about that parameter, we were talking about the net income of that household.\"></i></p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6404352226720648
+      }
+    },
+    {
+      "question": "Why did Marian Jurečka correct his original answer about whether the contribution is calculated from the gross or net annual income?",
+      "context": "<p>He later corrected this original information on April 30, 2022 and <a href=\"https://www.ceskenoviny.cz/zpravy/jurecka-prispevek-5000-kc-na-dite-bude-do-rocniho-prijmu-rodiny-1-milion-kc-hrubeho/2199681\"></a>said</p>",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7798076923076923
+      }
+    }
+  ]
+}

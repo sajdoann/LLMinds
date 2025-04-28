@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the 'backpropagation' process called?",
+      "context": "This deeper network, the idea is that you proceed through the layers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8371212121212122
+      }
+    },
+    {
+      "question": "Why are early parameters in a deep neural network prone to not changing during training?",
+      "context": "So the early parameters will not really change. So that's called the vanishing gradient problem.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What happens if the updates from backpropagation go through nonlinearity backwards at every step?",
+      "context": "So that's called the vanishing gradient problem.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why might numerical errors cause issues with training in early layers of a deep neural network?",
+      "context": "due to numerical errors you won't get any updates in the early layers at all.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8552083333333333
+      }
+    },
+    {
+      "question": "What problem is caused when nonlinearity goes through every step in a deep neural network during backpropagation?",
+      "context": "So we do not want to have the non-linearity at every step and this is",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7906862745098039
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the 'backpropagation' process called?",
+      "context": "This deeper network, the idea is that you proceed through the layers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8371212121212122
+      }
+    },
+    {
+      "question": "Why might numerical errors cause issues with training in early layers of a deep neural network?",
+      "context": "due to numerical errors you won't get any updates in the early layers at all.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8552083333333333
+      }
+    },
+    {
+      "question": "Why are early parameters in a deep neural network prone to not changing during training?",
+      "context": "So the early parameters will not really change. So that's called the vanishing gradient problem.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What problem is caused when nonlinearity goes through every step in a deep neural network during backpropagation?",
+      "context": "So we do not want to have the non-linearity at every step and this is",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7906862745098039
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Kolik lidí dal Václav Havel milost?",
+      "context": "Václav Havel dal dvě tisíce milostí, Václav Klaus čtyři sta, já dvacet, preciselyji dvacet jedna.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8779761904761905
+      }
+    },
+    {
+      "question": "Jakou množství milostí udělil Miloš Zeman?",
+      "context": "<a href=\"http://demagog.cz/vyrok/21795\">Miloš Zeman realmente udělil 21 milostí.</a>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9255952380952381
+      }
+    },
+    {
+      "question": "Kolik lidí dal Václav Klaus milost?",
+      "context": "<a href=\"https://ct24.ceskatelevize.cz/domaci/1061767-zeman-bude-udelovat-jen-nektere-milosti-tridit-je-bude-ministerstvo\">Oproti tomu Václav Klaus za 10 let ve funkci omilostnil 412 lidí.</a>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8477564102564102
+      }
+    },
+    {
+      "question": "What is the situation with Marta Chadimová?",
+      "context": "V ČT k tomu <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    },
+    {
+      "question": "Why does Miloš Zeman have a different opinion about Marta Chadimová?",
+      "context": "Miloš Zeman nazývá Martu Chadimovou jako restituční podvodnici.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9502840909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Jakou množství milostí udělil Miloš Zeman?",
+      "context": "<a href=\"http://demagog.cz/vyrok/21795\">Miloš Zeman realmente udělil 21 milostí.</a>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9255952380952381
+      }
+    },
+    {
+      "question": "Why does Miloš Zeman have a different opinion about Marta Chadimová?",
+      "context": "Miloš Zeman nazývá Martu Chadimovou jako restituční podvodnici.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9502840909090909
+      }
+    },
+    {
+      "question": "What is the situation with Marta Chadimová?",
+      "context": "V ČT k tomu <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    }
+  ]
+}

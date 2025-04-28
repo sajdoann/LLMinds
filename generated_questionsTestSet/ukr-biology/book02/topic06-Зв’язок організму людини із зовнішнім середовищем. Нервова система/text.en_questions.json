@@ -1,0 +1,479 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of tissue are neurons composed of?",
+      "context": "They are cells of nervous tissue.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7871621621621622
+      }
+    },
+    {
+      "question": "How does the length of an axon in human neurons differ from other types of processes?",
+      "context": "The length of an axon can reach 1 m. For comparison, it is not stated how long other processes are.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8707207207207207
+      }
+    },
+    {
+      "question": "What happens when neurotransmitter molecules penetrate through the synaptic gap?",
+      "context": "During signal transmission in chemical synapses, the process involves the secretion of special substances - neurotransmitters, which penetrate through the gap and transmit the signal to the receptors of the postsynaptic membrane.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8624324324324324
+      }
+    },
+    {
+      "question": "What happens to a signal in a reflex arc?",
+      "context": "The neuron, using its axon, transmits a signal from this receptor to the spinal cord.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8436293436293436
+      }
+    },
+    {
+      "question": "How do mirror neurons respond?",
+      "context": "These are neurons that are excited not only when a person (or animal) performs an action, but also when he simply observes the performance of this action by another creature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.922972972972973
+      }
+    },
+    {
+      "question": "What is white matter in the human brain?",
+      "context": "xon fibers a white color, so the parts of the human brain that consist mainly of axons and perform conductive functions are called white matter.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7756449631449631
+      }
+    },
+    {
+      "question": "What is the role of mirror neurons?",
+      "context": "In 1992, the so-called mirror neurons were discovered. These are neurons that are excited not only when a person (or animal) performs an action, but also when he simply observes the performance of this action by another creature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7722575516693164
+      }
+    },
+    {
+      "question": "What are the two main parts of the peripheral nervous system?",
+      "context": "The peripheral nervous system is functionally divided into two large parts - the somatic and autonomic nervous systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7761824324324325
+      }
+    },
+    {
+      "question": "Which departments does the human nervous system belong to?",
+      "context": "The central nervous system includes the brain and spinal cord. The peripheral nervous system consists of 12 pairs of cranial and 31 pairs of spinal nerves.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8168168168168168
+      }
+    },
+    {
+      "question": "What animals have a spinal cord?",
+      "context": "Before proceeding to the study of the human spinal cord, remember what structural features the human spine has. What animals have a spinal cord? ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8169748696064485
+      }
+    },
+    {
+      "question": "To which department does the spinal cord belong?",
+      "context": "What departments is the human nervous system divided into? To which of these departments does the spinal cord belong?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8029610492845787
+      }
+    },
+    {
+      "question": "What types of tissues are present in the spinal cord?",
+      "context": "Gray matter is a cluster of spinal cord neuron bodies located around the spinal canal. On the cut, it has the shape of a butterfly or the letter H.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8029377203290247
+      }
+    },
+    {
+      "question": "What are the two main types of pathways in the spinal cord?",
+      "context": "These axons form the brain's pathways. The spinal cord's pathways transmit information to the brain and back to the organs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8025952088452089
+      }
+    },
+    {
+      "question": "What is formed by the combination of neurons in a reflex arc?",
+      "context": "It is the place where the neurons of the reflex arc connect and the intervening neurons are located.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7722007722007722
+      }
+    },
+    {
+      "question": "What animals have a brain?",
+      "context": "Before proceeding to the study of the human brain, remember what structural features the human skull has.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7876447876447876
+      }
+    },
+    {
+      "question": "Which departments is the human nervous system divided into?",
+      "context": "Before proceeding to the study of the human brain, remember what structural features the human skull has.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7756327756327757
+      }
+    },
+    {
+      "question": "To which department does the brain belong?",
+      "context": "Before proceeding to the study of the human brain, remember what structural features the human skull has.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7953667953667953
+      }
+    },
+    {
+      "question": "What is the main function of the cerebellum?",
+      "context": "The cerebellum distinguishes two hemispheres and an unpaired middle part - the vermis. Responsible for the coordination of movements.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7402907108789462
+      }
+    },
+    {
+      "question": "What is the total area of the cerebral cortex?",
+      "context": "The total area of the cortex is 220 thousand mm².",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7338588588588588
+      }
+    },
+    {
+      "question": "What are the four main lobes of the brain responsible for different processes?",
+      "context": "The cerebral cortex is divided into several lobes, each of which is responsible for certain processes. The frontal, parietal, temporal and occipital lobes are distinguished.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8293184488836662
+      }
+    },
+    {
+      "question": "What are the four cerebral ventricles and where are they located?",
+      "context": "The brain was formed in the process of evolution from the anterior part of the spinal cord. And, as you already know, a characteristic feature of the spinal cord is the presence of the spinal canal, which is filled with cerebrospinal fluid.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8522522522522522
+      }
+    },
+    {
+      "question": "What are the main departments of the brain?",
+      "context": "The main departments of the brain are the terminal, midbrain, diencephalon, cerebellum and medulla oblongata.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7193347193347193
+      }
+    },
+    {
+      "question": "What is included in the peripheral nervous system?",
+      "context": "Before proceeding to the study of the autonomic nervous system, recall what functions the human nervous system performs. What departments is it divided into? What is included in the peripheral nervous system?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.7297297297297297
+      }
+    },
+    {
+      "question": "What departments does the autonomic nervous system consist of that have opposite effects on organs and tissues?",
+      "context": "The autonomic (autonomic) nervous system is a part of the peripheral nervous system that regulates the activity of internal organs, glands, blood vessels, smooth and some striated muscles, and also controls metabolic processes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.8483483483483483
+      }
+    },
+    {
+      "question": "What is included in the sympathetic nervous system?",
+      "context": "The nerve fibers of this system come from the brain and spinal cord. The ganglia (nerve nodes) of the sympathetic system are located along the spinal cord.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7297297297297297
+      }
+    },
+    {
+      "question": "What is the role of noradrenaline in the sympathetic nervous system?",
+      "context": "As a neurotransmitter, the cells use noradrenaline, which has an exciting effect on the body, increases the intensity of metabolism, enhances rhythmic forms of activity, lowers sensitivity thresholds.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.782972972972973
+      }
+    },
+    {
+      "question": "What is included in the parasympathetic nervous system?",
+      "context": "The autonomic (autonomic) nervous system consists of two departments that have opposite effects on the organs and tissues of the body - sympathetic and parasympathetic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7468629343629344
+      }
+    },
+    {
+      "question": "What is included in the peripheral nervous system?",
+      "context": "Before proceeding to the study of the autonomic nervous system, recall what functions the human nervous system performs. What departments is it divided into? What is included in the peripheral nervous system?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.7297297297297297
+      }
+    },
+    {
+      "question": "What is the main effect of the parasympathetic nervous system on the body?",
+      "context": "The parasympathetic nervous system causes a slowdown in the heart rate, dilation of the lumen of blood vessels, a decrease in blood pressure, and also affects the processes associated with the restoration of used substances in cells and tissues.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7993594243594244
+      }
+    },
+    {
+      "question": "What causes the sympathetic nervous system to become active?",
+      "context": "It becomes active when we experience different emotions (fear, anger) or are faced with significant stress (heavy physical labor, sports competitions).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8642213642213642
+      }
+    },
+    {
+      "question": "What is the main difference between the sympathetic and parasympathetic nervous systems?",
+      "context": "The nerve fibers of this system, like the sympathetic system, originate from the brain and spinal cord. The ganglia are located near the organ whose activity they regulate. Cells use acetylcholine as a neurotransmitter, which has an inhibitory effect on the body, reduces the intensity of metabolism and rhythmic forms of activity, and restores sensitivity thresholds.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8304122304122304
+      }
+    },
+    {
+      "question": "What types of organisms can cause meningitis?",
+      "context": "The causative agents of meningitis can be viruses, bacteria, fungi and some parasitic worms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8262548262548263
+      }
+    },
+    {
+      "question": "Why is vaccination against certain meningitis pathogens possible?",
+      "context": "usually they enter the human body through unwashed hands or by airborne droplets, so the best prevention of this disease is to follow the rules of personal hygiene.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9102027027027026
+      }
+    },
+    {
+      "question": "What is the name of the bacterium that causes Lyme disease?",
+      "context": "Its causative agent is the spiral-shaped bacterium Borrelia, which enters the human body through tick bites.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8175675675675675
+      }
+    },
+    {
+      "question": "Why are children under 5 years of age vulnerable to poliomyelitis?",
+      "context": "Children under 5 years of age are most vulnerable to it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8992628992628993
+      }
+    },
+    {
+      "question": "Which system should be avoided to prevent diseases from entering the body?",
+      "context": "uld be avoided and the pathogens of the corresponding diseases should be prevented from entering the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8653474903474904
+      }
+    },
+    {
+      "question": "What functions is the cerebellum primarily responsible for?",
+      "context": "coordinates various motor acts and adapts the body's motor reactions to environmental conditions",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8068693693693694
+      }
+    },
+    {
+      "question": "How is the image of the organ affected by diseases?",
+      "context": "Explain what diseases can affect it and how they can be transmitted.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8544908544908545
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are children under 5 years of age vulnerable to poliomyelitis?",
+      "context": "Children under 5 years of age are most vulnerable to it.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8992628992628993
+      }
+    },
+    {
+      "question": "How do mirror neurons respond?",
+      "context": "These are neurons that are excited not only when a person (or animal) performs an action, but also when he simply observes the performance of this action by another creature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.922972972972973
+      }
+    },
+    {
+      "question": "What causes the sympathetic nervous system to become active?",
+      "context": "It becomes active when we experience different emotions (fear, anger) or are faced with significant stress (heavy physical labor, sports competitions).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8642213642213642
+      }
+    },
+    {
+      "question": "How is the image of the organ affected by diseases?",
+      "context": "Explain what diseases can affect it and how they can be transmitted.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8544908544908545
+      }
+    },
+    {
+      "question": "What is formed by the combination of neurons in a reflex arc?",
+      "context": "It is the place where the neurons of the reflex arc connect and the intervening neurons are located.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7722007722007722
+      }
+    }
+  ]
+}

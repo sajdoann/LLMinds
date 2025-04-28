@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Is the document talking about a decision tree?",
+      "context": "So this is the decision tree, but still the full version is kind of excessive.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What is the purpose of providing the full version of the decision tree?",
+      "context": "So this is the decision tree, but still the full version is kind of excessive.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "Is there any information about the content or structure of the decision tree in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "Is the tone of the text informal or formal?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is the author's attitude towards the decision tree?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the tone of the text informal or formal?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What is the purpose of providing the full version of the decision tree?",
+      "context": "So this is the decision tree, but still the full version is kind of excessive.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "Is there any information about the content or structure of the decision tree in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "What is the author's attitude towards the decision tree?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.78125
+      }
+    }
+  ]
+}

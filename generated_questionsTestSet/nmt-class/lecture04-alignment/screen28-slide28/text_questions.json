@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the key insight about sentence alignment in machine translation?",
+      "context": "So if the texts are translations of each other and that is the assumption of sentence alignment processing, then you can, you will always find sentences like providing the same or comparable of information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6943573667711599
+      }
+    },
+    {
+      "question": "Why is it important to consider parallel parts in machine translation?",
+      "context": "And this is this observation that sentence length is the critical parallel part and you don't have to look at the words at all.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.659688995215311
+      }
+    },
+    {
+      "question": "What are the implications of considering only one aspect of alignment in machine translation?",
+      "context": "This is the... observation that sentence length is the critical parallel part and you don't have to look at the words at all.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6716346153846153
+      }
+    },
+    {
+      "question": "What does the document suggest as a way to improve machine translation accuracy?",
+      "context": "...you can, you will always find sentences like providing the same or comparable of information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7192307692307692
+      }
+    },
+    {
+      "question": "How does the concept of parallel parts relate to the structure of the document?",
+      "context": "So if there is some part where the sentences are short, it will be, it will be short in both languages and if it's long, it will be long in both languages.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7987689393939394
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the key insight about sentence alignment in machine translation?",
+      "context": "So if the texts are translations of each other and that is the assumption of sentence alignment processing, then you can, you will always find sentences like providing the same or comparable of information.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6943573667711599
+      }
+    },
+    {
+      "question": "How does the concept of parallel parts relate to the structure of the document?",
+      "context": "So if there is some part where the sentences are short, it will be, it will be short in both languages and if it's long, it will be long in both languages.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7987689393939394
+      }
+    },
+    {
+      "question": "Why is it important to consider parallel parts in machine translation?",
+      "context": "And this is this observation that sentence length is the critical parallel part and you don't have to look at the words at all.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.659688995215311
+      }
+    },
+    {
+      "question": "What are the implications of considering only one aspect of alignment in machine translation?",
+      "context": "This is the... observation that sentence length is the critical parallel part and you don't have to look at the words at all.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6716346153846153
+      }
+    }
+  ]
+}

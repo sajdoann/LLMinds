@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the consequences of having too many numbers in a complex network during training?",
+      "context": "This is the unlucky case in the other extreme. When your network is too complex, you have too many numbers to find out",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What happens when the learning algorithm is unable to properly separate lines in a network?",
+      "context": "the network, the learning algorithm is unable to find the best positions of the lines so that it would properly separate it",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What does this indicate about the design of the network in such cases?",
+      "context": "So this never properly trains. So this is like a bad design of the network.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7676282051282051
+      }
+    },
+    {
+      "question": "What are some potential issues with having too many free parameters in a network during training?",
+      "context": "When your network is too complex, you have too many numbers to find out, or too many free parameters",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6796875
+      }
+    },
+    {
+      "question": "What is the implication of not having enough training data for a network?",
+      "context": "or too many free parameters, and you don't have enough training data",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7419871794871795
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does this indicate about the design of the network in such cases?",
+      "context": "So this never properly trains. So this is like a bad design of the network.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7676282051282051
+      }
+    },
+    {
+      "question": "What happens when the learning algorithm is unable to properly separate lines in a network?",
+      "context": "the network, the learning algorithm is unable to find the best positions of the lines so that it would properly separate it",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What is the implication of not having enough training data for a network?",
+      "context": "or too many free parameters, and you don't have enough training data",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7419871794871795
+      }
+    }
+  ]
+}

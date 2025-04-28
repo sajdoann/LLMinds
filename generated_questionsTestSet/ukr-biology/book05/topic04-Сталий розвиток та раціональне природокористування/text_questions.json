@@ -1,0 +1,1194 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main environmental problems in Ukraine?",
+      "context": "Проблемами всієї України глобального рівня можна назвати забруднення водойм і ґрунтів, деградацію ґрунтів і знищення лісів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8459546925566344
+      }
+    },
+    {
+      "question": "What are the consequences of human activities on the environment?",
+      "context": "військові дії на Сході держави стали причиною руйнування еко-системи в цьому регіоні та виникнення цілої низки екологічних проблем.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8411542610571737
+      }
+    },
+    {
+      "question": "What is the definition of quality of air according to the Ukrainian Ministry of Health?",
+      "context": "Міністерство охорони здоров’я України дає таке визначення:  якість природного середовища — це стан природних та трансформованих люди-\nлюбим екосистеми, що зберігає їхню здатність до постійного обміну речовин та енергії, а також відтворення життя.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8681735436893204
+      }
+    },
+    {
+      "question": "What are the factors that affect the quality of air?",
+      "context": "Воно характеризує придатність до-\nвкілля до збереження здоров’я людини і є інтегративним показником, який \nузагальнює вплив усіх можливих факторів цього середовища на людину.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8511092350264997
+      }
+    },
+    {
+      "question": "What is гранично допустима концентрація (ГДК)?",
+      "context": "Гraniчно допустима концентрація — це максимальна кількість шкідливої речовини в одиниці об’єму або маси середовища, яка за умови щоденного впливу протягом тривалого часу не викликає змін в організмі людині...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.878120665742025
+      }
+    },
+    {
+      "question": "What are токсичні речовини?",
+      "context": "...які речовині можуть бути токсичними для живих організмів?...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8689320388349515
+      }
+    },
+    {
+      "question": "What are the main types of environmental pollution?",
+      "context": "Види забруднення…",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8307038834951457
+      }
+    },
+    {
+      "question": "What is the impact of thermal pollution on aquatic ecosystems?",
+      "context": "Теплове тощо…, що стає причиною її цвітіння або перешкоджає не-ресту тих видів риб, для яких потрібна більш низька температура води в сезон розмноження.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8383284086112284
+      }
+    },
+    {
+      "question": "What are some common sources of environmental pollution?",
+      "context": "тверді відходи, рідкі відходи, газоподібні викиди",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.887014563106796
+      }
+    },
+    {
+      "question": "Why do electronic devices become wasteful and contribute to pollution?",
+      "context": "інтенсивний розвиток комп’ютерних технологій quickly робить електрон-\nтронні пристрої застарілими.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.979126213592233
+      }
+    },
+    {
+      "question": "What is a significant source of pollution in urban areas?",
+      "context": "звалища, які створюються поблизу населених пунктів містять велетенську кількість токсічних речовин.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8710503089143866
+      }
+    },
+    {
+      "question": "How do problems with sewage systems affect local ecosystems?",
+      "context": "У багатьох країнах (особливо в бідних) існують проблеми із системами очищення стічних вод, унаслідок чого серйозно страждають місцеві екосистеми.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9785101913359451
+      }
+    },
+    {
+      "question": "What is the main problem with the disposal of waste in many countries, especially in poor ones?",
+      "context": "Повсякденне життя жителів міст та інших населених пунктів ви-\nмагає безперерунтового водопостачання і, відповідно, утворення стічних \nвод із великим умістом речовин побутової хімії.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8815111861544955
+      }
+    },
+    {
+      "question": "Why is it necessary to dispose of waste efficiently?",
+      "context": "Таке велетенське виробництво \n відходів від рівня звичайного бу-\nдинку до масштабів великого про-\nмислового комбінату породжує \nпроблемуВідходів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8986928104575164
+      }
+    },
+    {
+      "question": "What are some of the main pollutants in the atmosphere?",
+      "context": "Основні речовини, які в надмірній кількості потрапляють в атмосферу:\n• карбон(ІV) оксид СО 2 ;\n• карбон(ІІ) оксид СО;\n• оксиди Нітрогену;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8265911542610571
+      }
+    },
+    {
+      "question": "Why is it necessary to dispose of waste in a circular economy?",
+      "context": "Найбільш Perspektивним було б створення кругообігу \nпотрібних людині речовин і енергії на зразок природних екосистем, \nу яких речовини постійно циркулюють між окремими ланками, а не \nнакопичуються, утворюючи звалища.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8974803513638465
+      }
+    },
+    {
+      "question": "What is the main source of industrial pollution?",
+      "context": "Основними джерелами забруднення є промислові виробництва в галузі металургії та хімічних виробництв, теплові електростанції, транспорт (особливо автомобільний).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7935108509423187
+      }
+    },
+    {
+      "question": "What is the effect of acidic rain on ecosystems?",
+      "context": "Опади з підвищеною кислотністю погіршують стан екосистем, стають результатом деградації лісів і руйнують штучні споруди (зокрема, історичні пам’ятки, старі будинки тощо).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8274002157497303
+      }
+    },
+    {
+      "question": "What are the main pollutants in the atmosphere?",
+      "context": "Основними речовинами, які в надмірній кількості потрапляють в атмосферу: • карбон(ІV) оксид СО2; • карбон(ІІ) оксид СО; • оксиди Нітрогену;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8302271151178918
+      }
+    },
+    {
+      "question": "What are the main causes of global warming?",
+      "context": "The high concentration of greenhouse gases, such as water, carbon dioxide, and methane, trap heat in the atmosphere, leading to global warming.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8197526583448913
+      }
+    },
+    {
+      "question": "What is smog?",
+      "context": "Smog is an aerosol composed of smoke, dust, and man-made chemicals that forms in large cities under calm weather conditions and high atmospheric pollution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7580554383002673
+      }
+    },
+    {
+      "question": "What are the effects of ozone depletion on human health?",
+      "context": "Ozone depletion increases the risk of skin cancer and other health problems due to exposure to ultraviolet radiation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8557681324957167
+      }
+    },
+    {
+      "question": "What are the main components of smog?",
+      "context": "а певній території. В утворенні смогу беруть участь вихлопські гази транспорту та пил, який підіймається під час його руху, викиди опалювальних систем та промислових підприємств.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8024445214979196
+      }
+    },
+    {
+      "question": "What are the negative effects of smog on buildings and monuments?",
+      "context": "Агресивні хімічні речовини, які входять до складу аерозолю, прискорюють корозію металевих елементів та погіршують стан інших компонентів будівель і пам'яток.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8676301853486319
+      }
+    },
+    {
+      "question": "Why is it important to avoid outdoor activities during smog?",
+      "context": "і(case наявності алергій або хронічних захворювань органів дихання бажано покинути місто на період смогу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9410540915395285
+      }
+    },
+    {
+      "question": "What is the Kotsyubey Protocol?",
+      "context": "Also in 1997, the Kotsyubey Protocol was adopted – an international document aimed at regulating emissions of greenhouse gases into the atmosphere.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7780397595931576
+      }
+    },
+    {
+      "question": "What are some pollutants that enter the hydrosphere?",
+      "context": "The main pollutants entering the hydrosphere include: clay, mud and other substances; oil products; heavy metal salts; surface-active substances; pesticides; microorganisms (from food production and sewage); radionuclides; household waste, including plastic.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.881501386962552
+      }
+    },
+    {
+      "question": "How does human activity affect the hydrosphere?",
+      "context": "Human activities such as building hydroelectric power plants, canals and dams have changed the water regime of many rivers. Creating artificial lakes.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9209116126591854
+      }
+    },
+    {
+      "question": "What are some consequences of pollution in the hydrosphere?",
+      "context": "The consequences of pollution include: a decrease in freshwater resources; mass death of organisms in fresh and saltwater environments; changes to the species composition of ecosystems; and harm to land-dwelling animals through accumulation of toxic substances.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8357140200126474
+      }
+    },
+    {
+      "question": "What is the impact of thermal pollution on water bodies?",
+      "context": "Thermal pollution caused by cooling systems from power plants and industrial facilities has disrupted the reproduction processes of many species and increased the frequency and intensity of algal blooms in water.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8375943905070118
+      }
+    },
+    {
+      "question": "How does water scarcity affect human life?",
+      "context": "Water scarcity is a major problem, especially in southern regions where it makes it difficult to cultivate crops and raise animals.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9773578363384189
+      }
+    },
+    {
+      "question": "What is the main problem caused by the increased scale of human activities?",
+      "context": "The deficit of nutritional water has become much more significant due to a regime that",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8521844660194174
+      }
+    },
+    {
+      "question": "What are some factors contributing to the occurrence of algal blooms?",
+      "context": "the intensive use of water resources, such as",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8521624007060901
+      }
+    },
+    {
+      "question": "Which group of organisms can contribute to the occurrence of algal blooms?",
+      "context": "prokaryotic cyanobacteria, and different kinds of unicellular eukaryotic algae",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9079631264097283
+      }
+    },
+    {
+      "question": "What can be absorbed by plants and trees from the ground?",
+      "context": "Які речовини поглинають із ґрунту рослини і Trees?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8983892321270962
+      }
+    },
+    {
+      "question": "Why is it necessary to add fertilizers to the soil during plant cultivation?",
+      "context": "Чи можуть автотрофні організми рости без ґрунту?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9182847896440129
+      }
+    },
+    {
+      "question": "What are the main causes of soil degradation?",
+      "context": "вонається погіршення корисних властивостей та родючості ґрунту (мал. 39.2).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8219390507011866
+      }
+    },
+    {
+      "question": "What are the main sources of pollution in soils?",
+      "context": "забруднення ґрунтів стало значною проблемою для багатьох регіонів планети.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8263214670981661
+      }
+    },
+    {
+      "question": "What is the consequence of poor agricultural practices?",
+      "context": "Less crop yields and food shortage in some regions (e.g., Africa and Asia).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8155339805825242
+      }
+    },
+    {
+      "question": "Why are forests being destroyed?",
+      "context": "The destruction of forests creates problems for the entire region, even far from the area where deforestation takes place.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9494003426613363
+      }
+    },
+    {
+      "question": "What is the impact of a car accident on the ground?",
+      "context": "A small amount of fuel and oil can enter the soil during an accident.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8244798890429959
+      }
+    },
+    {
+      "question": "Why are nuclear accidents like Chernobyl so devastating?",
+      "context": "The radiation from these accidents contaminates large areas of land.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9565533980582525
+      }
+    },
+    {
+      "question": "What is the main goal of conserving soil?",
+      "context": "For maintenance of soils, a few technical- and legislative measures should be performed, when main efforts are directed on hindering penetration of pollution into soils.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7969255663430421
+      }
+    },
+    {
+      "question": "What is the effect of proper crop rotation on soil fertility?",
+      "context": "The preservation of fertility of the soil depends on correct sowing mode during the cultivation of agricultural cultures (small. 39.4). In its basis, there is a phenomenon of natural renewal of fertility of the soils.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8486319505736981
+      }
+    },
+    {
+      "question": "What type of bacteria are present on the roots of legume plants?",
+      "context": "Bulbocauli bacteria on the roots of legume plants enrich the soils with spores of Nitrogen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8682191594812954
+      }
+    },
+    {
+      "question": "Why is proper crop rotation important?",
+      "context": "The correct sowing mode should include alternating different cultures on certain areas. Some of them may enrich the soil with specific substances (for example, legumes enrich the soils with spores of Nitrogen for the account of activity of symbiotic bacteria) (small. 39.5).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9215210355987055
+      }
+    },
+    {
+      "question": "What is the effect of crop rotation on soil fertility?",
+      "context": "The periodical interruptions in the cultivation of cultures (keeping the land «under parachute») may also have a significant influence on the state of soils. In such periods, the microbiological assessment of the soil can restore its fertility.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8372614663542015
+      }
+    },
+    {
+      "question": "What is the importance of proper soil handling?",
+      "context": "The method of handling should use special technology and tools. The correct usage of fertilizers (both mineral and organic) creates optimal conditions for the functioning of the soil bio-cenosis and the cultivation of plants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8102184466019418
+      }
+    },
+    {
+      "question": "What is biotrichia and its significance?",
+      "context": "Biotrichia - it's a topic of Theme 8.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8634708737864077
+      }
+    },
+    {
+      "question": "What is the main reason for the greater diversity of amphibians in tropical regions compared to polar regions?",
+      "context": "Чому різноманіття амфібій є набагато більшим у тропічних регіонах порівняно з навколополярними?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8848991052731773
+      }
+    },
+    {
+      "question": "What is the main reason for the decline of species due to human activity?",
+      "context": "оріжу за рахунок стрімкого збільшення шкідливих викидів відходів виробництва",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8677288191851299
+      }
+    },
+    {
+      "question": "What is the main reason for the reintroduction of species into an ecosystem?",
+      "context": "Основною причиною реакліматизації є намагання відновити втраченне біорізноманіття.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8569983818770226
+      }
+    },
+    {
+      "question": "How does the reintroduction of a species into an ecosystem affect its stability?",
+      "context": "Збереження окремих видів збільшує стійкість і всієї екосистеми, а їх вимирання, навпаки,цю стійкість зменшує.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9189693801344286
+      }
+    },
+    {
+      "question": "What is the main direction of nature conservation in Ukraine?",
+      "context": "Основним напрямком охорони природи в Україні, як і в усьої світі, залишається максимально можливе збереження природних еcosystem, охорона біорізноманіття, зниження рівня антропогенного впливу на природу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8226537216828479
+      }
+    },
+    {
+      "question": "What is the main ecological problem in the Carpathian region?",
+      "context": "Карпатський регіон страждає від надмірного вирубування гірських лісів і, відповідно, посилення ерозійних процесїв та повеней.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8432578209277238
+      }
+    },
+    {
+      "question": "What is the purpose of creating sustainable industries in Ukraine?",
+      "context": "Перспективними напрямками є створення безвідходних виробництв, вторинна переробка відходів і раціональне природокористування.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8244336569579288
+      }
+    },
+    {
+      "question": "What is the concept of the Green Book in Ukraine?",
+      "context": "Тема 8. Концепція сталого розвитку. Які існують глобальні екологічні проблеми? Чому для вирішення глобальних проблем недостатньо зусиль окре­мих країн?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8161017430307159
+      }
+    },
+    {
+      "question": "What is the purpose of the Green Book in Ukraine?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8284789644012945
+      }
+    },
+    {
+      "question": "What is the significance of the Red Book and the Green Book in Ukraine?",
+      "context": "Червона книга України — офіційний перелік видів та підвидів організムів, які перебувають під загрозою зникнення на території України. Зеленая книга України у ньому наведено список рідкісних і типових природніх рослинних угруповань (понад 120), які необхідність охорони на території України.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84348337746396
+      }
+    },
+    {
+      "question": "What is the main goal of the concept of sustainable development?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8171521035598706
+      }
+    },
+    {
+      "question": "What is the main idea of the concept of sustainable development?",
+      "context": "Концепція сталого розвитку передбачає позитивний синтез і системне вирішення екологічних, економічних, соціальних і культурних проблем сучасності.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8067961165048544
+      }
+    },
+    {
+      "question": "Why is it necessary to adopt a sustainable development approach?",
+      "context": "Людство зіткнулося з гострим протиріччям між людськими potrzeбами, які постійно зростають, і нездатністю біосфери забезпечити їх.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9188106796116505
+      }
+    },
+    {
+      "question": "What is the main goal of sustainable development?",
+      "context": "Основною ідеєю Концепції було те, що розвиток повині задовольняти потреби нинішнього покоління без шкоди для майбутніх поколінь.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7893703597944032
+      }
+    },
+    {
+      "question": "What is the concept of sustainable development based on?",
+      "context": "Концепція сталого розвитку було сформульовано в рішеннях Конференції ООН із навколишнього середовища та розвитку (Ріо-де-Жанейро, 1992 р.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.818433117583603
+      }
+    },
+    {
+      "question": "Why is it necessary to manage natural resources effectively?",
+      "context": "Ресурси планети є обмеженими, і ним слід користуватися таким чином, щоб підтримувати баланс та мати можливість їх відновити.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9172060409924487
+      }
+    },
+    {
+      "question": "Why is sustainable development necessary?",
+      "context": "Але ресурси планети є обмеженими, і nimi слід користуватися таким чином, щоб підтримувати баланс і мати можливість їх відновити. Адже ми не можемо залишити майбутні покоління без будь-яких ресурсів для життя.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8951456310679612
+      }
+    },
+    {
+      "question": "What is the main goal of using modern agricultural technologies?",
+      "context": "Так, під час будівництва доріг у багатьох країнах, згідно зКонцепцією, висаджують додаткові зелені насадження. Таким чином компенсується вилучення частини території екосистеми під NEEDA для життя і зберігається стан довкілля.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8320735090152566
+      }
+    },
+    {
+      "question": "What is the purpose of using new technologies for water conservation?",
+      "context": "Такий полив дозволяє суттєво економити водні ресурси, дефіцит яких стає все більшим.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8623124448367167
+      }
+    },
+    {
+      "question": "Why is it necessary to use modern agricultural technologies?",
+      "context": "Якщо вносити мало добrivів, то знизиться врожайність, якщо багато — виникне загроза забруднення ґрунтів і вод.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9255663430420712
+      }
+    },
+    {
+      "question": "What is the main goal of using renewable energy sources?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.845631067961165
+      }
+    },
+    {
+      "question": "What is the main challenge in implementing a concept of sustainable development?",
+      "context": "Концепція сталого розвитку не може бути втілена без розуміння того, що всі ідеї не спрацюють без їх сприйняття населенням.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8401151722825052
+      }
+    },
+    {
+      "question": "What is required for the implementation of a sustainable development concept on local levels?",
+      "context": "Усі ці рівні необхідують тісної кооперації між різними людьми. Відрізняються лише масштаби цієї кооперації.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8782940360610263
+      }
+    },
+    {
+      "question": "What is the key to successful implementation of sustainable development?",
+      "context": "Уже стає можливим при участі органів міської самоврядування та взаємодії великої кількості людей.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8339432412247946
+      }
+    },
+    {
+      "question": "What is the European Union's standard for limiting carbon dioxide emissions from cars?",
+      "context": "Такі стандарти діють у країнах Європи з 1988 року. Останнім прийнятим стандартом є Євро-6, який набув чинності 2015 року. Згідно з цим стандартом, викиди вуглекислого газу легкових автомобілів не повинні перевищувати 130 г на кілометр шляху.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9064929930149804
+      }
+    },
+    {
+      "question": "What is the main goal of the concept of sustainable development?",
+      "context": "На міжнародному рівні кооперація для реалізації Концепції сталого розвитку потрібна для здійснення великих проектів, як, наприклад, očищення великих річок, економічна та природоохоронна політика в межах континенту і всієї планети та ін.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7987748497457235
+      }
+    },
+    {
+      "question": "What is the significance of expert opinions in decision-making for sustainable development?",
+      "context": "На рівні окремих держав або великих регіонів держави аналіз інформації та прийняття рішень відбувається через законодавчі та(voєнські органи влади. І безпосередньої впливу на них населення можливий через механізм виборів та систему громадських зв’язків. На цьому етапі суттєво зростає роль експертів у галузі екології, бо далеко не завжди наявні проблеми мають просте й очевидне рішення.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8541747572815535
+      }
+    },
+    {
+      "question": "Що таке раціональне природокористування?",
+      "context": "Раціональне природокористування — тема, пов’язана з Концепцією сталого розвитку.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9902912621359223
+      }
+    },
+    {
+      "question": "Чи можуть знання людини впливати на її поведінку по відношенню до природи?",
+      "context": "Можна не знати законів екології та особливостей взаємодій в екосистемах, але тоді слід бути готовими до ситуації, коли дія без урахування такого закону стане причиною катастрофічних наслідків.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9870550161812298
+      }
+    },
+    {
+      "question": "What is the problem faced by Australian farmers with their fields of cactus plants?",
+      "context": "For each question, include: The question text, The specific part of the text containing the answer (context), Difficulty (easy, medium, or hard), Category (factual, inferential, or analytical)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8883495145631068
+      }
+    },
+    {
+      "question": "Why did Australian farmers need to import a type of bee to solve the problem?",
+      "context": "Бджоли це зробити не могли. Довелося завозити в Австралію і джмелів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9094061278527298
+      }
+    },
+    {
+      "question": "What is a common consequence of importing invasive species from other countries?",
+      "context": "Відсутність екологічних знань часто стає причиною появи так зва­nnych видів-вселенців (інвазійних видів).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9033171521035599
+      }
+    },
+    {
+      "question": "What is the importance of having a deep understanding of ecology for humans in today's world?",
+      "context": "Для врахування законів екології людині в сучасному світі слід роз-відновати своє екологічне мислення.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8750809061488674
+      }
+    },
+    {
+      "question": "What is the ultimate goal of having a deep understanding of ecology?",
+      "context": "Екологічне мислення дозволяє розуміти, що всі організми та проціси на нашій планеті пов’язані між собою.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8407472786113563
+      }
+    },
+    {
+      "question": "What is the benefit of having a deep understanding of ecology for making informed decisions?",
+      "context": "Екологічне мислення дозволяє робити правильні висновки і приймати адекватні рішення.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8676144244105409
+      }
+    },
+    {
+      "question": "What is the impact of a lack of understanding of ecology on humans and the environment?",
+      "context": "Результатом цього є винищення живих організмів, пору-шення взаємозв’язків між компонентами в екосистемах та загроза для здорова’я і життя людей.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8529538933218034
+      }
+    },
+    {
+      "question": "What is the main idea of ecological thinking?",
+      "context": "екологічне мислення дозволяє розуміти, що всі організми та про-цеси на нашій планеті пов’язані між собою.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7874595469255663
+      }
+    },
+    {
+      "question": "Why is critical thinking important for ecological issues?",
+      "context": "Екологічне мислення потрібне для критичного сприйняття інфор-мації. Воно дозволяє робити правильні висновки і приймати адекватні рішення.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9220266990291262
+      }
+    },
+    {
+      "question": "How can mass media influence people's decisions on ecological issues?",
+      "context": "Сучасні засоби масової інформації подають велику кількість відо-мостей, зокрема й тих, що пов’язані з екологічною проблематикою.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9816140776699029
+      }
+    },
+    {
+      "question": "What is the correct way to perceive myths about ecology?",
+      "context": "Гарним прикладом можливості застосування екологічного мислення є аналіз різноманітних міфів, які поширюються через телебачення та в мережі Інтернет.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8680690399137001
+      }
+    },
+    {
+      "question": "Why is it important to be cautious when consuming natural products?",
+      "context": "Не менш популярним міфом є твердження про те, що все природно походження — це добре.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9390408943807003
+      }
+    },
+    {
+      "question": "What was the outcome of the construction of the Dniprovskaya HES?",
+      "context": "Свою часу відсутність екологічного мислення стала причиною ви­никнення великої кількості проблем під час будови Дніпровського ка́скаду електростанцій.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8587592804111936
+      }
+    },
+    {
+      "question": "What are the consequences of building dams on the Dnieper River?",
+      "context": "Побудовані греблі перекрили русло Дніпра, сховали дніпровські пороги і забезпечили електritchною енергією бага-то металургійних підприємств (мал. 43.3). Але наслідком цього стало …",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8665931156222418
+      }
+    },
+    {
+      "question": "Why is it necessary to apply ecological thinking in this situation?",
+      "context": "Але і виправлення такого роду помилок necessitates the application of ecological thinking. Because without mindfulness in this case can cause great harm. …",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9215817951571434
+      }
+    },
+    {
+      "question": "What are some global environmental problems?",
+      "context": "Глобальні екологічні проблеми • глобальне потепління • руїнування озонового шару • дефіцит чистої води • зниження видового біорізноманіття • знищення лісів …",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9080366774541532
+      }
+    },
+    {
+      "question": "What is the most widely used natural resource in your region?",
+      "context": "налокальні, регіо-\nнальні та глобальні.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8661959399823478
+      }
+    },
+    {
+      "question": "What methods of waste disposal would be most optimal for your region?",
+      "context": "Поясніть, які спосіби утилізації відходів будуть найбільш опти-\nмальними для вашого регіону, та обґрунтуйте свою точку зору.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9144774414620217
+      }
+    },
+    {
+      "question": "What are the most common types of pollution in your region?",
+      "context": "Проаналізуєте, які види забруднень є найбільш поширеними \nу вашому регіоні, і визначте їхні основні джерела.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8516622536040012
+      }
+    },
+    {
+      "question": "How can the most widely used natural resource in your region affect local ecosystems?",
+      "context": "Поясніть, які природні ресурси найбільш активно використо-\nвуються у вашому регіоні і як їх використання впливає на місцеві \nекосистеми.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9355062413314841
+      }
+    },
+    {
+      "question": "What are the most significant sources of pollution in your region?",
+      "context": "Оцініть ступінь забруднення території вашого регіону різними\nвидами забруднювачів (важкими металами, пестицидами, нафтопро-\nдуктами тощо) і встановіть основні джерела zabруднення для кожного \nз цих забруднювачхів.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8626654898499558
+      }
+    },
+    {
+      "question": "What is the main goal of the investigation?",
+      "context": "Результати свого дослідження представте у вигляді презентації.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7732316227461858
+      }
+    },
+    {
+      "question": "Who is responsible for the 'Зелену революцію'?",
+      "context": "Саме завдяки копіткій селекційній роботі в середині XX століття у світовому сільському господарстві вдалося здійснити «Зелену революцію»,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8870033450273314
+      }
+    },
+    {
+      "question": "What is the result of the 'зеленю революцію'?",
+      "context": "результатом селекційної роботи стало утворення тисяч сортів культурних рослин та десятків і сотень порід домашніх тварин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7859743411927878
+      }
+    },
+    {
+      "question": "What was the average yield of wheat in the 19th century?",
+      "context": "Якщо у XIX столітті середня врожайність пшениці становила не більше 5–8 центнерів із гектара",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8712205270457698
+      }
+    },
+    {
+      "question": "What is the current average yield of wheat?",
+      "context": "а на початкову XXI століття в країнах ЄСонья досягла 55 центнерів із гектара.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8107729648991785
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some common sources of environmental pollution?",
+      "context": "тверді відходи, рідкі відходи, газоподібні викиди",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.887014563106796
+      }
+    },
+    {
+      "question": "How can the most widely used natural resource in your region affect local ecosystems?",
+      "context": "Поясніть, які природні ресурси найбільш активно використо-\nвуються у вашому регіоні і як їх використання впливає на місцеві \nекосистеми.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9355062413314841
+      }
+    },
+    {
+      "question": "Why is it necessary to add fertilizers to the soil during plant cultivation?",
+      "context": "Чи можуть автотрофні організми рости без ґрунту?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9182847896440129
+      }
+    },
+    {
+      "question": "What is the main goal of using renewable energy sources?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.845631067961165
+      }
+    }
+  ]
+}

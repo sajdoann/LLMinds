@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two test sets used for translation quality evaluation?",
+      "context": "The introduction, where the author explains the approach to the translation quality evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6295454545454545
+      }
+    },
+    {
+      "question": "How will the author plot the results of the translation quality evaluation?",
+      "context": "The second paragraph, where the author describes the visualization method",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.615625
+      }
+    },
+    {
+      "question": "What is the purpose of the in-domain test set?",
+      "context": "The first sentence of the introduction, where the author explains the purpose of the subsets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "How will the author distinguish between professional translations related to the domain and those not related to it?",
+      "context": "The second paragraph, where the author explains how to separate the types of translations",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7437499999999999
+      }
+    },
+    {
+      "question": "What are the two axes used for observing translation quality?",
+      "context": "The third paragraph, where the author lists the axes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of the in-domain test set?",
+      "context": "The first sentence of the introduction, where the author explains the purpose of the subsets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "How will the author distinguish between professional translations related to the domain and those not related to it?",
+      "context": "The second paragraph, where the author explains how to separate the types of translations",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7437499999999999
+      }
+    },
+    {
+      "question": "How will the author plot the results of the translation quality evaluation?",
+      "context": "The second paragraph, where the author describes the visualization method",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.615625
+      }
+    }
+  ]
+}

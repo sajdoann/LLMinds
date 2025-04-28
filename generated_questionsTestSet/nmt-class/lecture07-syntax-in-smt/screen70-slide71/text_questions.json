@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of sentences exceed a certain threshold?",
+      "context": "Only 8% of sentences go beyond",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is assumed about the morphological information in the document?",
+      "context": "You are moving from the source side tector-hormatical tree to the target side tector-hormatical tree.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7430555555555556
+      }
+    },
+    {
+      "question": "What is being cloned when transitioning between trees?",
+      "context": "You start by cloning the trees.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "Why are the assumption about tree isomorphism considered viable?",
+      "context": "Only 8% of sentences go beyond",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What type of information is being moved from one side to another?",
+      "context": "You are moving from the source side tector-hormatical tree to the target side tector-hormatical tree.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7708333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being cloned when transitioning between trees?",
+      "context": "You start by cloning the trees.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What type of information is being moved from one side to another?",
+      "context": "You are moving from the source side tector-hormatical tree to the target side tector-hormatical tree.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is assumed about the morphological information in the document?",
+      "context": "You are moving from the source side tector-hormatical tree to the target side tector-hormatical tree.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7430555555555556
+      }
+    }
+  ]
+}

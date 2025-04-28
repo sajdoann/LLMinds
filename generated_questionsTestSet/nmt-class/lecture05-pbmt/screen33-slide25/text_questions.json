@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the reason for quadratic complexity in translation?",
+      "context": "The reordering",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "How does limiting the expansion of hypotheses affect the complexity of the search?",
+      "context": "allowing to expand hypothesis only close to the currently translated one",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What happens when we limit the reordering in translation?",
+      "context": "the number of considered translation options is not as many as there is the length of the sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7168803418803419
+      }
+    },
+    {
+      "question": "How does the restriction on max text size and sentence length impact the complexity of translation?",
+      "context": "the whole search reduces to linear complexity",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.819047619047619
+      }
+    },
+    {
+      "question": "What would happen if we were allowed to expand hypotheses beyond a certain distance from the currently translated one?",
+      "context": "then the number of considered translation options is as many as there is the length of the sentence",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8031376518218624
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when we limit the reordering in translation?",
+      "context": "the number of considered translation options is not as many as there is the length of the sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7168803418803419
+      }
+    },
+    {
+      "question": "How does limiting the expansion of hypotheses affect the complexity of the search?",
+      "context": "allowing to expand hypothesis only close to the currently translated one",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How does the restriction on max text size and sentence length impact the complexity of translation?",
+      "context": "the whole search reduces to linear complexity",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.819047619047619
+      }
+    },
+    {
+      "question": "What would happen if we were allowed to expand hypotheses beyond a certain distance from the currently translated one?",
+      "context": "then the number of considered translation options is as many as there is the length of the sentence",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8031376518218624
+      }
+    }
+  ]
+}

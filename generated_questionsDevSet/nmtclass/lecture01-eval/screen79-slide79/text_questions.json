@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary issue with BLEU scores in machine translation?",
+      "context": "The text discussing fundamental problems of BLEU",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6737012987012987
+      }
+    },
+    {
+      "question": "How many uni-grams (words) are present in the MT output?",
+      "context": "The sentence mentioning the total number of uni-grams",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7517857142857143
+      }
+    },
+    {
+      "question": "What percentage of words in the test set were confirmed by the reference?",
+      "context": "The sentence stating that 37% of words were confirmed",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What type of errors are more common than false positives in machine translation?",
+      "context": "The text explaining the types of errors",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7467948717948718
+      }
+    },
+    {
+      "question": "Why do higher BLEU scores correlate with human judgments, according to the author's research?",
+      "context": "The sentence discussing the relationship between BLEU and human judgment",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8353174603174603
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many uni-grams (words) are present in the MT output?",
+      "context": "The sentence mentioning the total number of uni-grams",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7517857142857143
+      }
+    },
+    {
+      "question": "Why do higher BLEU scores correlate with human judgments, according to the author's research?",
+      "context": "The sentence discussing the relationship between BLEU and human judgment",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8353174603174603
+      }
+    },
+    {
+      "question": "What percentage of words in the test set were confirmed by the reference?",
+      "context": "The sentence stating that 37% of words were confirmed",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.78125
+      }
+    }
+  ]
+}

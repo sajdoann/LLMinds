@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the relationship between the verb 'that' and grammar teams?",
+      "context": "That verb. You fill in the grammar teams",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What tense was used in the unconditional B?",
+      "context": "The B was unconditional and the tense was simple present",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "What number of translation was used for 'easy'?",
+      "context": "The easy was not easier, it was not any comparative adverb. The number of the translation was singular and the easy was not easier.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7072916666666667
+      }
+    },
+    {
+      "question": "What is being compared in the sentence 'the easy'?",
+      "context": "The easy was not easier, it was not any comparative adverb.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "Why did the author use a comparative adverb instead of just saying 'easy'?",
+      "context": "The easy was not easier, it was not any comparative adverb.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6602564102564102
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the relationship between the verb 'that' and grammar teams?",
+      "context": "That verb. You fill in the grammar teams",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What tense was used in the unconditional B?",
+      "context": "The B was unconditional and the tense was simple present",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "What is being compared in the sentence 'the easy'?",
+      "context": "The easy was not easier, it was not any comparative adverb.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5972222222222222
+      }
+    },
+    {
+      "question": "Why did the author use a comparative adverb instead of just saying 'easy'?",
+      "context": "The easy was not easier, it was not any comparative adverb.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6602564102564102
+      }
+    }
+  ]
+}

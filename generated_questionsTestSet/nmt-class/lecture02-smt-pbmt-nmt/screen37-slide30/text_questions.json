@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the problem with using shorter units in NLP tasks?",
+      "context": "We could fix this if we realized that this nemam is also somehow linked in the meaning to this no.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7540106951871658
+      }
+    },
+    {
+      "question": "How does introducing alignments affect precision and recall in NLP tasks?",
+      "context": "With longer units, you are improving precision, but losing recall. With smaller units, you are improving recall, but losing precision.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6381118881118881
+      }
+    },
+    {
+      "question": "What was the author's experience with introducing alignments in NLP tasks?",
+      "context": "I had a site research trying to introduce alignments here hoping to find a good balance but unfortunately I failed.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7165775401069518
+      }
+    },
+    {
+      "question": "What is the trade-off between precision and recall when using different unit lengths in NLP tasks?",
+      "context": "You're losing coverage. With longer units, you are improving precision, but losing recall. With smaller units, you are improving recall, but losing precision.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.6723958333333333
+      }
+    },
+    {
+      "question": "What was the author's conclusion about finding a balance between precision and recall in NLP tasks?",
+      "context": "It like fighted against me. It was impossible to.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7890625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the problem with using shorter units in NLP tasks?",
+      "context": "We could fix this if we realized that this nemam is also somehow linked in the meaning to this no.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7540106951871658
+      }
+    },
+    {
+      "question": "What is the trade-off between precision and recall when using different unit lengths in NLP tasks?",
+      "context": "You're losing coverage. With longer units, you are improving precision, but losing recall. With smaller units, you are improving recall, but losing precision.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.6723958333333333
+      }
+    },
+    {
+      "question": "How does introducing alignments affect precision and recall in NLP tasks?",
+      "context": "With longer units, you are improving precision, but losing recall. With smaller units, you are improving recall, but losing precision.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6381118881118881
+      }
+    },
+    {
+      "question": "What was the author's conclusion about finding a balance between precision and recall in NLP tasks?",
+      "context": "It like fighted against me. It was impossible to.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7890625
+      }
+    },
+    {
+      "question": "What was the author's experience with introducing alignments in NLP tasks?",
+      "context": "I had a site research trying to introduce alignments here hoping to find a good balance but unfortunately I failed.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7165775401069518
+      }
+    }
+  ]
+}

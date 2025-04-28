@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the Logdiner modal a generalization of?",
+      "context": "And the nice thing is that this Logdiner modal is a generalization of the base of the noisy channel approach.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What happens when you plug the two feature functions and equal weights into the formula?",
+      "context": "if you use equal weights and two particular feature functions defined like that, the one takes the log of the probability of the source given the target, and the other takes the log of the target, probability of the target only",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7739285714285714
+      }
+    },
+    {
+      "question": "What is the result when you exponentiate the sum of the two feature functions?",
+      "context": "and that simply cancels out, and you are back at the product of the probability of the source given the target and the language model",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "Why did using both models work best in practice?",
+      "context": "So we used both models at the same time because some of them were smoother for some sentences, and some of them were smoother based on the data for other sentences",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9239130434782609
+      }
+    },
+    {
+      "question": "What happens when you square the probability of the language model?",
+      "context": "If you want to square the probability of the language model, you just use a different lambda for that feature function that corresponds to the language model",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.725
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the Logdiner modal a generalization of?",
+      "context": "And the nice thing is that this Logdiner modal is a generalization of the base of the noisy channel approach.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What happens when you plug the two feature functions and equal weights into the formula?",
+      "context": "if you use equal weights and two particular feature functions defined like that, the one takes the log of the probability of the source given the target, and the other takes the log of the target, probability of the target only",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7739285714285714
+      }
+    },
+    {
+      "question": "What is the result when you exponentiate the sum of the two feature functions?",
+      "context": "and that simply cancels out, and you are back at the product of the probability of the source given the target and the language model",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "Why did using both models work best in practice?",
+      "context": "So we used both models at the same time because some of them were smoother for some sentences, and some of them were smoother based on the data for other sentences",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9239130434782609
+      }
+    }
+  ]
+}

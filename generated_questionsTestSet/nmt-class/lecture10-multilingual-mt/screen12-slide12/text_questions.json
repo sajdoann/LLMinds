@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the initial strategy for organizing sentences during training?",
+      "context": "What we did was to organize the sentences into batches.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6625
+      }
+    },
+    {
+      "question": "How long were the shorter sentence batches?",
+      "context": "first we had this batch of very short sentences up to five words and the model learned somewhat.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7688492063492064
+      }
+    },
+    {
+      "question": "What was the effect of allowing longer sentence lengths during training?",
+      "context": "And then we opened, we exposed the model also to the longer sentences, so we allowed sentences of length up to ten.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6470959595959596
+      }
+    },
+    {
+      "question": "What was a consequence of allowing sentences of all lengths during training?",
+      "context": "And then in the end we allowed sentences of all lengths. So at this end of the training, which by the way indeed improved the baseline a little bit.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7367424242424243
+      }
+    },
+    {
+      "question": "What was Tom Cosme's idea for improving sentence diversity?",
+      "context": "Tom Cosme had this French idea to just flip the order of this sorted batched corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7666666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was Tom Cosme's idea for improving sentence diversity?",
+      "context": "Tom Cosme had this French idea to just flip the order of this sorted batched corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "How long were the shorter sentence batches?",
+      "context": "first we had this batch of very short sentences up to five words and the model learned somewhat.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7688492063492064
+      }
+    },
+    {
+      "question": "What was the effect of allowing longer sentence lengths during training?",
+      "context": "And then we opened, we exposed the model also to the longer sentences, so we allowed sentences of length up to ten.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6470959595959596
+      }
+    }
+  ]
+}

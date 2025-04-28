@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the typical curve shape for the child data set?",
+      "context": "called the child",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6416666666666667
+      }
+    },
+    {
+      "question": "Why does the model not generalize well to new data when trained on a small dataset?",
+      "context": "the training data for the child is maybe very small so the model learns memorizes that data too much",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "What happens if you initialize the child model with non-random weights?",
+      "context": "if you simply continue training with the model as it was prepared as it was trained on the parent language pair",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8161764705882353
+      }
+    },
+    {
+      "question": "What is the effect of continuing to train a child model that has already been trained on its parent data?",
+      "context": "you can get rid of the degradation due to the overfitting and you get the better performance",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8394230769230769
+      }
+    },
+    {
+      "question": "What is the purpose of transfer learning in this context?",
+      "context": "this as is the normal case",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of transfer learning in this context?",
+      "context": "this as is the normal case",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why does the model not generalize well to new data when trained on a small dataset?",
+      "context": "the training data for the child is maybe very small so the model learns memorizes that data too much",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "What is the effect of continuing to train a child model that has already been trained on its parent data?",
+      "context": "you can get rid of the degradation due to the overfitting and you get the better performance",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8394230769230769
+      }
+    },
+    {
+      "question": "What happens if you initialize the child model with non-random weights?",
+      "context": "if you simply continue training with the model as it was prepared as it was trained on the parent language pair",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8161764705882353
+      }
+    }
+  ]
+}

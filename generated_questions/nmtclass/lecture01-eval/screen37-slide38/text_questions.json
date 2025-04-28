@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the initial approach to machine translation in this task-based evaluation?",
+      "context": "We made a simplification of that.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How were the translated texts checked for correctness?",
+      "context": "these questions were already in check because we were checking whether the Czech speakers would be able to correctly answer the question given the machine translated or machine produced Czech.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What types of texts were used for this task?",
+      "context": "We found them so that the text will be hopefully written by native speakers, and then we machine translated them into Czech and we equipped each of these texts with three questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7941468253968254
+      }
+    },
+    {
+      "question": "What was one area where the domain of the machine translation systems was tested?",
+      "context": "So election chances and similar stuff.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What was the ultimate goal of this task-based evaluation?",
+      "context": "Given machine translated snippet answer the questions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6448412698412699
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the initial approach to machine translation in this task-based evaluation?",
+      "context": "We made a simplification of that.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "How were the translated texts checked for correctness?",
+      "context": "these questions were already in check because we were checking whether the Czech speakers would be able to correctly answer the question given the machine translated or machine produced Czech.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What was one area where the domain of the machine translation systems was tested?",
+      "context": "So election chances and similar stuff.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ]
+}

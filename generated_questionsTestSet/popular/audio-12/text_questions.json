@@ -1,0 +1,138 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the speaker's relationship with the European Union?",
+      "context": "Ich bin eine Europaabgeordnete im Europaparlament.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "Why does the speaker think we should remember the EU's values and principles?",
+      "context": "Ich denke, dass wir uns auch erinnern sollten, welche Werte die Europäische Union hat und dass wir uns wieder zum Anfang begehen sollten.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9047619047619048
+      }
+    },
+    {
+      "question": "What was the speaker's experience like when trying to start a business outside of the EU?",
+      "context": "Meine erste Firma war in Italien und Sie können sich nicht vorstellen, wie schwierig es war, eine Firma zu gründen, wenn man nicht in der EU ist.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8351190476190475
+      }
+    },
+    {
+      "question": "What is the speaker's perspective on the importance of freedom of movement within the EU?",
+      "context": "Wir haben die Möglichkeit, ohne Grenzen zu reisen. Und das war auch eine sehr große Motivation, die in die EU beigetreten ist.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6976190476190476
+      }
+    },
+    {
+      "question": "What is the author's main concern about the future of Europe?",
+      "context": "Wir sollten die Hindernisse vermeiden. Die Hindernisse in unserem Binnenmarkt sollten wir auch vermeiden, denn die sind sehr hoch.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7469387755102042
+      }
+    },
+    {
+      "question": "What is the author's stance on the importance of freedom of movement within the EU?",
+      "context": "Und es ist eine Sache, die sehr wichtig ist. Wir haben die Möglichkeit, ohne Grenzen zu reisen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7008928571428572
+      }
+    },
+    {
+      "question": "In what year did the membership of the Czech Republic in the European Union lead to a significant increase in funding?",
+      "context": "Von dem Jahre 2004, seit der Mitgliedschaft, haben wir mehr als 741 Milliarden im Durchschnitt bekommen, als wir gegeben haben.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8758169934640523
+      }
+    },
+    {
+      "question": "What is the main goal of the EU funding for the Czech Republic?",
+      "context": "Die Fördergelder sollten dann auch mit einer Vision genutzt werden. Sie sollten auch effektiv genutzt werden.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7905844155844156
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the speaker's relationship with the European Union?",
+      "context": "Ich bin eine Europaabgeordnete im Europaparlament.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7619047619047619
+      }
+    },
+    {
+      "question": "Why does the speaker think we should remember the EU's values and principles?",
+      "context": "Ich denke, dass wir uns auch erinnern sollten, welche Werte die Europäische Union hat und dass wir uns wieder zum Anfang begehen sollten.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9047619047619048
+      }
+    },
+    {
+      "question": "In what year did the membership of the Czech Republic in the European Union lead to a significant increase in funding?",
+      "context": "Von dem Jahre 2004, seit der Mitgliedschaft, haben wir mehr als 741 Milliarden im Durchschnitt bekommen, als wir gegeben haben.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8758169934640523
+      }
+    },
+    {
+      "question": "What is the main goal of the EU funding for the Czech Republic?",
+      "context": "Die Fördergelder sollten dann auch mit einer Vision genutzt werden. Sie sollten auch effektiv genutzt werden.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7905844155844156
+      }
+    }
+  ]
+}

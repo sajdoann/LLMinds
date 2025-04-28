@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the European Union's involvement in Czech Republic during the early releases of the corpus?",
+      "context": "So in one of the very early releases of that corpus, CENG 0.7, we were able to find and include the sources of texts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7351190476190477
+      }
+    },
+    {
+      "question": "What types of documents were included in the corpus?",
+      "context": "So it was legal texts which was the European Union and back then the Czech Republic was part of the European Union only for a couple of years so that was not too big of a collection",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6997863247863247
+      }
+    },
+    {
+      "question": "What project allowed users to correct translations from the English Wikipedia into Czech?",
+      "context": "And then there was some commercial translation company that decided to translate the English Wikipedia into Czech and ask users to correct these translations and that was called the Davaho project.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8276923076923077
+      }
+    },
+    {
+      "question": "What types of data were considered for user-supplied data collection?",
+      "context": "So we also were seeking for some user supplied data and this the user supplied data that we were able to find were primarily translations or localizations of open source projects or desktop environments like KDE or GNOME.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7541666666666667
+      }
+    },
+    {
+      "question": "What was the outcome of the Davaho project?",
+      "context": "This project is now dead because the translations were not as good as expected and the users didn't provide too many translations but in the early stages some reasonable amount of sentence level corrections of manual of machine outputs were gathered.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7190126050420168
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What project allowed users to correct translations from the English Wikipedia into Czech?",
+      "context": "And then there was some commercial translation company that decided to translate the English Wikipedia into Czech and ask users to correct these translations and that was called the Davaho project.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8276923076923077
+      }
+    },
+    {
+      "question": "What types of documents were included in the corpus?",
+      "context": "So it was legal texts which was the European Union and back then the Czech Republic was part of the European Union only for a couple of years so that was not too big of a collection",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6997863247863247
+      }
+    },
+    {
+      "question": "What types of data were considered for user-supplied data collection?",
+      "context": "So we also were seeking for some user supplied data and this the user supplied data that we were able to find were primarily translations or localizations of open source projects or desktop environments like KDE or GNOME.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7541666666666667
+      }
+    },
+    {
+      "question": "What was the outcome of the Davaho project?",
+      "context": "This project is now dead because the translations were not as good as expected and the users didn't provide too many translations but in the early stages some reasonable amount of sentence level corrections of manual of machine outputs were gathered.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7190126050420168
+      }
+    }
+  ]
+}

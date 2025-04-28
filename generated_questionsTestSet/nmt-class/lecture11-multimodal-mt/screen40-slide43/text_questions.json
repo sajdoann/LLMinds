@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'op' mean in German, according to the translator's note?",
+      "context": "The example sentence where the mistranslation occurs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "How do speakers of English and Czech languages translate the word 'if'?",
+      "context": "The explanation of the mistranslation of the German word 'op'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7247023809523809
+      }
+    },
+    {
+      "question": "What happens when a word falls out of the vocabulary in the translation system?",
+      "context": "The example of a word being reported after profanity",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6730769230769231
+      }
+    },
+    {
+      "question": "Why did the English to Czech translation system use 'professional things' instead of profanities in one instance?",
+      "context": "The explanation of how the system handled unknown words and profanity",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7897058823529411
+      }
+    },
+    {
+      "question": "What is a potential consequence of using a word that falls out of the vocabulary in the translation system?",
+      "context": "The general information about errors induced by the speech recognition pipeline or component",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7942708333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'op' mean in German, according to the translator's note?",
+      "context": "The example sentence where the mistranslation occurs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "Why did the English to Czech translation system use 'professional things' instead of profanities in one instance?",
+      "context": "The explanation of how the system handled unknown words and profanity",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7897058823529411
+      }
+    },
+    {
+      "question": "How do speakers of English and Czech languages translate the word 'if'?",
+      "context": "The explanation of the mistranslation of the German word 'op'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7247023809523809
+      }
+    },
+    {
+      "question": "What is a potential consequence of using a word that falls out of the vocabulary in the translation system?",
+      "context": "The general information about errors induced by the speech recognition pipeline or component",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7942708333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two major components of phrase-based systems?",
+      "context": "If you remember, phrase-based systems have two major components.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What type of data is the translation model based on?",
+      "context": "One of them is the translation model, which is based on parallel data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8020833333333333
+      }
+    },
+    {
+      "question": "How does the global search work in phrase-based systems?",
+      "context": "And there is then the global search, which uses the sentence, the small pieces, to build complete sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7690972222222222
+      }
+    },
+    {
+      "question": "What has been hinted about the complexity of the global search in phrase-based systems?",
+      "context": "And I've already hinted a little that this global search is complicated, because you have many more options to choose from.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7614468864468864
+      }
+    },
+    {
+      "question": "What has been mentioned as complicating the language modeling and translation modeling?",
+      "context": "So this search space is larger. But let's now talk about the increased complexity in the language modeling and also in the translation modeling.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8363095238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two major components of phrase-based systems?",
+      "context": "If you remember, phrase-based systems have two major components.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What has been mentioned as complicating the language modeling and translation modeling?",
+      "context": "So this search space is larger. But let's now talk about the increased complexity in the language modeling and also in the translation modeling.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8363095238095238
+      }
+    },
+    {
+      "question": "What type of data is the translation model based on?",
+      "context": "One of them is the translation model, which is based on parallel data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8020833333333333
+      }
+    },
+    {
+      "question": "What has been hinted about the complexity of the global search in phrase-based systems?",
+      "context": "And I've already hinted a little that this global search is complicated, because you have many more options to choose from.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7614468864468864
+      }
+    }
+  ]
+}

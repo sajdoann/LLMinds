@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "Wie viele Menschen werden jährlich am Ende ihres Lebens betroffen?",
+      "context": "Rund 10.000 Menschen jährlich sind am Ende ihres Lebens betroffen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "Warum wurde der Tod in Deutschland per Gesetz geregelt?",
+      "context": "Dazu gehört auch die Leichenentsorgung.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8981481481481481
+      }
+    },
+    {
+      "question": "In welche Stadt in Deutschland ist es üblich, pro Jahr ungefähr 50 bis 70 Beerdigungen zu haben?",
+      "context": "Die Tobias-Bruderschaft ist ein Versuch zu reagieren auf die Situation, dass es in der Stadt Göttingen pro Jahr ungefähr 50 bis 70 Beerdigungen gibt, Leichenentsorgungen von Menschen, für die niemand zuständig ist.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.9479166666666666
+      }
+    },
+    {
+      "question": "Was soll nach den Friedhofsordnungen auf einem Friedhof sein?",
+      "context": "Namensschilder aus Metall werden über den vergrabenen Urnen auf die Erde gelegt. Nach den Friedhofsordnungen, also nach den Regeln für die Beerdigungen auf einem Friedhof, soll das sogar Pflicht werden.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.9633333333333334
+      }
+    },
+    {
+      "question": "What is the purpose of the Tobias-Bruderschaft?",
+      "context": "Aber die Bruderschaft ist nicht nur aus Traditionsbewusstsein entstanden, sagt Harald Storz, einer der Mitbegründer. Vor allem haben wir uns für diese Form entschieden, weil wir gemerkt haben, dass Männer im diakonischen Bereich sich sehr, sehr wenig engagieren.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8671171171171171
+      }
+    },
+    {
+      "question": "Why did the founders of the Tobias-Bruderschaft create a specific area for men's engagement?",
+      "context": "Männer drücken sich gern vor diesen Arbeiten. Sie machen nicht mit. Anders die Tobias-Bruderschaft. Sie hat sich einen Bereich geschaffen oder kreiert, wo sie sich engagieren kann.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9317168338907469
+      }
+    },
+    {
+      "question": "What is the name of the book from which the Tobias-Bruderschaft gets its name?",
+      "context": "Der Name stammt übrigens aus der Bibel. Im recht unbekannten Buch Tobit im Alten Testament sagt die Hauptperson Tobias, wenn ich sah, dass einer aus meinem Volk gestorben war und dass man seinen Leichnam hinter die Stadtmauer von Ninive geworfen hatte, begrub ihn.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9184941520467836
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Wie viele Menschen werden jährlich am Ende ihres Lebens betroffen?",
+      "context": "Rund 10.000 Menschen jährlich sind am Ende ihres Lebens betroffen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "Was soll nach den Friedhofsordnungen auf einem Friedhof sein?",
+      "context": "Namensschilder aus Metall werden über den vergrabenen Urnen auf die Erde gelegt. Nach den Friedhofsordnungen, also nach den Regeln für die Beerdigungen auf einem Friedhof, soll das sogar Pflicht werden.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.9633333333333334
+      }
+    },
+    {
+      "question": "Warum wurde der Tod in Deutschland per Gesetz geregelt?",
+      "context": "Dazu gehört auch die Leichenentsorgung.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8981481481481481
+      }
+    }
+  ]
+}

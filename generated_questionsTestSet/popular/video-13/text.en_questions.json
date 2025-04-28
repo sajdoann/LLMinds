@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main problem that micro-apartments aim to solve in cities?",
+      "context": "The introduction of the speech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "How small can a micro-apartment be in extreme cases?",
+      "context": "A description of micro-apartments",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6180555555555556
+      }
+    },
+    {
+      "question": "What is the typical price range for a micro-apartment?",
+      "context": "A description of micro-apartments",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5763888888888888
+      }
+    },
+    {
+      "question": "Why are alternative forms of housing like micro-apartments becoming increasingly important in cities?",
+      "context": "The main idea of the speech",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7923076923076924
+      }
+    },
+    {
+      "question": "What is a characteristic of luxury in a micro-apartment?",
+      "context": "A description of micro-apartments",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.515625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main problem that micro-apartments aim to solve in cities?",
+      "context": "The introduction of the speech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "Why are alternative forms of housing like micro-apartments becoming increasingly important in cities?",
+      "context": "The main idea of the speech",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7923076923076924
+      }
+    },
+    {
+      "question": "How small can a micro-apartment be in extreme cases?",
+      "context": "A description of micro-apartments",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6180555555555556
+      }
+    }
+  ]
+}

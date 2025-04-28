@@ -1,0 +1,930 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the average yield of wheat in the UK by year?",
+      "context": "Wheat had two periods of sharp growth - in the mid-19th and mid-20th centuries.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8173909423909425
+      }
+    },
+    {
+      "question": "When were pigs from Asia first imported to Europe again for crossing with local breeds?",
+      "context": "Only 300–400 years ago, pigs from Asia began to be imported to Europe again and used for crossing with local breeds.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.9504273504273504
+      }
+    },
+    {
+      "question": "Where did the first domesticated pigs come to Europe from?",
+      "context": "the Middle East and originated in Asia",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8472527472527472
+      }
+    },
+    {
+      "question": "What is the main area of activity for the Institute of Feed and Agriculture of Podillia?",
+      "context": "creation of new varieties and hybrids of fodder, leguminous and other crops",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8341715976331361
+      }
+    },
+    {
+      "question": "What is pathogen damage?",
+      "context": "gnostics of pathogen damage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7612179487179487
+      }
+    },
+    {
+      "question": "Who worked in the field of buckwheat breeding?",
+      "context": "With the participation of O. S. Alekseeva founded the Ternopil scientific and production system \"Buckwheat\", bred and submitted for variety testing 30 varieties of buckwheat, 12 of which were zoned.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8598989151873767
+      }
+    },
+    {
+      "question": "What is natural selection?",
+      "context": "What factors increase the number of mutations in living organisms ¬¬? What is natural selection? What factors of natural selection are considered in modern evolutionary theory?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.7775641025641026
+      }
+    },
+    {
+      "question": "Why is breeding new varieties of plants and animal breeds still necessary, given the great diversity of existing breeds?",
+      "context": "45. Why is there still a need to breed new varieties of plants ¬and animal breeds, although there is a great diversity of them? What factors increase the number of mutations in living organisms¬-? What is natural selection? What factors of natural selection are considered in modern evolutionary theory?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7058823529411765,
+        "diversity_score": 0.9047316547316547
+      }
+    },
+    {
+      "question": "What is the main advantage of the rapid microclonal propagation method?",
+      "context": "The main advantages of the method include the possibility of rapid propagation of plants that reproduce poorly vegetatively or are not capable of this type of reproduction at all.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8329710144927536
+      }
+    },
+    {
+      "question": "What is a hybridoma?",
+      "context": "Fusion of immune and cancer cells Hybridomas",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7396978021978022
+      }
+    },
+    {
+      "question": "What is somatic hybridization?",
+      "context": "Another very promising method that is actively used in breeding is somatic hybridization.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8076923076923077
+      }
+    },
+    {
+      "question": "How are monoclonal antibodies produced?",
+      "context": "Hybridomas combine the ability of a lymphocyte to form the necessary antibodies (of one type, the so-called monoclonal antibodies) and the ability of tumor cells to multiply indefinitely in artificial media.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9138461538461539
+      }
+    },
+    {
+      "question": "What is a hybridoma?",
+      "context": "Hybridomas are used in the field of biotechnology when creating highly efficient cell lines for the production of valuable drugs used for the diagnosis and treatment of many diseases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.768046265328874
+      }
+    },
+    {
+      "question": "What is the benefit of using hybridomas?",
+      "context": "With the help of hybridomas, it is possible to obtain antibodies of the required type in unlimited quantities.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7490842490842491
+      }
+    },
+    {
+      "question": "What are the three species used for citrus breeding?",
+      "context": "The initial forms for citrus breeding were three species: citron ( Citrus medica ), tangerine ( Citrus reticulata ) and pomelo ( Citrus maxima ).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8708689458689458
+      }
+    },
+    {
+      "question": "What is heterosis?",
+      "context": "The phenomenon of heterosis... The American geneticist G. Schell proposed the term “heterosis” (1914).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7366452991452992
+      }
+    },
+    {
+      "question": "Why does the manifestation of heterosis gradually decrease and disappear in subsequent generations?",
+      "context": "...the manifestation of heterosis gradually decreased, and then disappeared altogether (Fig. 46.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8839168310322156
+      }
+    },
+    {
+      "question": "What are the three main types of heterosis in plants?",
+      "context": "three main types of heterosis are distinguished according to those indicators that are most observed ¬in ¬a particular hybrid: reproductive, somatic, and adaptive.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8318764568764568
+      }
+    },
+    {
+      "question": "What is the effect of heterosis on seed production and yield?",
+      "context": "heterosis is manifested in an increase in seed production and yield.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8165501165501166
+      }
+    },
+    {
+      "question": "What is heterosis?",
+      "context": "which is now grown in the world is heterosis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.703525641025641
+      }
+    },
+    {
+      "question": "For what is heterosis used in animal husbandry?",
+      "context": "It gives a good effect for some hybrids of cattle and pigs (Fig. 46.4).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8263507326007327
+      }
+    },
+    {
+      "question": "What can be the limitation of using heterosis in agriculture?",
+      "context": "the inability to predict the degree of manifestation of the heterosis effect and its direction ( ¬ will resistance, growth rate or yield increase ¬), which requires ¬ preliminary research to develop the necessary crossbreeding scheme",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8433760683760684
+      }
+    },
+    {
+      "question": "What is heterosis?",
+      "context": "varieties of the same plant species or breeds of the same animal species can give different effects of heterosis during crossings",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7399839743589743
+      }
+    },
+    {
+      "question": "Who first formulated the law of homologous series of hereditary variability?",
+      "context": "M. I. Vavilov first formulated it as a separate law of homologous series of variability and gave a genetic explanation for this phenomenon.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.894017094017094
+      }
+    },
+    {
+      "question": "According to M. I. Vavilov, what happens to the variability in related genera?",
+      "context": "the presence of such series of variability in related genera is a consequence of their descent from a common ancestor.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.856177727501257
+      }
+    },
+    {
+      "question": "What is the relationship between the kinship and the similarity of variability series?",
+      "context": "And the greater the kinship, the more similar the variability series.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8175262237762237
+      }
+    },
+    {
+      "question": "Where did domestication of cultivated plants occur independently in different regions of the planet?",
+      "context": "Domestication of plants by humans occurred independently in different regions of our planet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8859303090072321
+      }
+    },
+    {
+      "question": "How many thousand years ago did the transition to the cultivation of cultivated plants occur in the Fertile Crescent?",
+      "context": "The transition to the cultivation of cultivated plants occurred there approximately 10–12 thousand years ago.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8878205128205128
+      }
+    },
+    {
+      "question": "What is the name of the region where all Australian cereal species have small seeds, but can be grown in grain production after being introduced from Europe?",
+      "context": "But all Australian cereal species have very small seeds. And it makes no sense to grow them for grain.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.34782608695652173,
+        "diversity_score": 0.9141363022941971
+      }
+    },
+    {
+      "question": "Why did the climate of certain regions of Australia become favorable for growing cereals after the introduction of cereal grains from Europe?",
+      "context": "For example, the climate of certain regions of Australia is very favorable for growing cereals.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5789473684210527,
+        "diversity_score": 0.8879113464133707
+      }
+    },
+    {
+      "question": "What was a key requirement for the formation of settled settlements in addition to favorable climatic conditions?",
+      "context": "the presence of some plant species with sufficiently large fruits and a sufficient number of people and certain social conditions were also required",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.866785175608705
+      }
+    },
+    {
+      "question": "When did the origin of lant arise?",
+      "context": "lant origin arose later.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9148351648351648
+      }
+    },
+    {
+      "question": "What are the characteristics of adult stem cells?",
+      "context": "Adult stem cells are considered the most accessible. However, their real potential for differentiation is still poorly understood.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.828525641025641
+      }
+    },
+    {
+      "question": "Why are human embryonic stem cells attractive for use in medicine?",
+      "context": "Human embryonic stem cells are extremely attractive for use in medicine: they can be used to obtain any type of cell in the body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8984240397283876
+      }
+    },
+    {
+      "question": "What is homing and how do stem cells exhibit it?",
+      "context": "This ability of stem cells is called homing. Once in the body during transplantation, stem cells continue to divide and find a place where their help is most needed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8559664694280078
+      }
+    },
+    {
+      "question": "What is homing?",
+      "context": "Once in the body during transplantation, stem cells continue to divide and find a place where their help is most needed. This ability of stem cells is called homing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7301117685733071
+      }
+    },
+    {
+      "question": "What is gene transfer?",
+      "context": "Gene transfer is carried out by a vector (recombinant DNA) - a special DNA molecule, constructed on the basis of viral DNA or plasmids, which contains the desired gene and is able to transport it to the cell and ensure its integration into its genetic apparatus.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8007189882189882
+      }
+    },
+    {
+      "question": "What are some potential benefits of genetically engineered plants?",
+      "context": "Among the positive arguments are increased yield, environmental benefits, protection from pests.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8735754985754985
+      }
+    },
+    {
+      "question": "What is the current status of research on the negative impact of genetically modified organisms on non-target species?",
+      "context": ", no reliable experimental data on the negative impact of such organisms on non-target species have been obtained.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8697335344394168
+      }
+    },
+    {
+      "question": "What are hereditary diseases?",
+      "context": "49\nWhat are hereditary ¬-human diseases do you know? Can they be treated? How can you prevent¬the birth of a child with a hereditary disease?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8408882783882784
+      }
+    },
+    {
+      "question": "Can hereditary diseases be prevented?",
+      "context": "49\nWhat are hereditary ¬-human diseases do you know? Can they be treated? How can you prevent¬the birth of a child with a hereditary disease?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8,
+        "diversity_score": 0.9489010989010989
+      }
+    },
+    {
+      "question": "How are somatic cells defined?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.967948717948718
+      }
+    },
+    {
+      "question": "What is a vector in the context of genetic engineering?",
+      "context": "49\nTopic 9\nHuman Genetic Engineering. Bioethical Issues",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8552884615384615
+      }
+    },
+    {
+      "question": "How does DNA analysis work?",
+      "context": "This diagnosis is based on the recognition of specific sections of nucleic acids - DNA or RNA.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9247596153846154
+      }
+    },
+    {
+      "question": "What is CRISPR technology used for in gene therapy?",
+      "context": "CRISPR technology (Clustered Regularly Interspaced Short Palindromic Repeats). This system was discovered in 2012.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8806980056980057
+      }
+    },
+    {
+      "question": "What is the main purpose of gene therapy?",
+      "context": "The main idea underlying gene therapy technologies is the replacement of a defective gene in cells with a normal one.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7632918552036199
+      }
+    },
+    {
+      "question": "What is the main advantage of using a marker sequence in gene therapy?",
+      "context": "The protein complex containing this sequence. Using such a marker sequence, the protein complex easily identifies the DNA of a virus that can penetrate the cell and neutralizes it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8325186519166452
+      }
+    },
+    {
+      "question": "How many human embryos successfully corrected with the CRISPR method were reported?",
+      "context": "This was done in 42 embryos out of 58.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8917378917378918
+      }
+    },
+    {
+      "question": "What is one of the areas where genetically modified organisms are used for drug production?",
+      "context": "In addition to insulin, genetically modified organisms are used to produce growth hormone, interferon, drugs for the treatment of myocardial infarction, cystic fibrosis, a number of forms of cancer and other diseases.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8441055113468907
+      }
+    },
+    {
+      "question": "What were the main problems of bioethics in modern medicine?",
+      "context": "The main problems of bioethics today are: taking material for organ and tissue transplantation; use of human embryos in research; use of human embryos as a source of stem cells; interference with the genetic apparatus of unborn children; human cloning; surrogate motherhood.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8342463092463093
+      }
+    },
+    {
+      "question": "Who proposed the basic principles of bioethics?",
+      "context": "The basic principles of bioethics, which it is desirable to adhere to in order to avoid ethical problems, were proposed by American scientists T. L. Beauchamp and J. F. Childress (1985).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8657003915624606
+      }
+    },
+    {
+      "question": "What are the main areas of modern biotechnology?",
+      "context": "Modern biotechnology is widely used in various fields: medicine, production of various food and non-food products, for environmental protection and within the framework of the concept of rational use of nature.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7982051282051282
+      }
+    },
+    {
+      "question": "When did the term 'biotechnology' appear?",
+      "context": "The term \\",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8354700854700855
+      }
+    },
+    {
+      "question": "What are some applications of biotechnology?",
+      "context": "Modern biotechnology is widely used in various fields: medicine, production of various food and non-food products, for environmental protection and within the framework of the concept of rational use of nature, etc.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8101577909270217
+      }
+    },
+    {
+      "question": "What are some examples of biotechnology applications in everyday life?",
+      "context": "Every time you buy, say, a washing powder with enzymes, you use biotechnology products. All citric acid sold in our stores is produced by microorganisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8816773504273504
+      }
+    },
+    {
+      "question": "What role do living organisms play in combating pests and plant diseases?",
+      "context": "Living organisms are also used as means of combating pests and plant diseases. The use of natural pathogens of pest diseases is much safer than treatment with pesticides.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8880670611439843
+      }
+    },
+    {
+      "question": "What is one way to remove carbon dioxide from the atmosphere?",
+      "context": "Planting forests is one of the ways to remove carbon dioxide from the atmosphere, which can reduce the rate of global warming.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8532388663967612
+      }
+    },
+    {
+      "question": "What is the purpose of higher aquatic vegetation in biological purification complexes?",
+      "context": "Higher aquatic vegetation is often used for this purpose (bio plateau technology).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8520299145299145
+      }
+    },
+    {
+      "question": "How do doctors suppress a patient's immune system to prevent rejection of transplants?",
+      "context": "To prevent this process, doctors have to suppress the patient's immune system with special drugs.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9197661313045928
+      }
+    },
+    {
+      "question": "What is the purpose of using genetically modified organisms in medicine?",
+      "context": "The science has become the successful basis for many projects related to solving food and medical problems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8187281468531469
+      }
+    },
+    {
+      "question": "Why do diabetics need insulin injections?",
+      "context": "Before that, diabetics had to take injections of insulin, which was extracted from the pancreases of pigs and calves.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9259259259259259
+      }
+    },
+    {
+      "question": "What is a biological hazard?",
+      "context": "The concept of biological hazard was proposed - the negative effect of biological objects, which creates insecurity in the medical and social, technological, agricultural or communal spheres.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7998885172798216
+      }
+    },
+    {
+      "question": "What are some sources of biological hazards?",
+      "context": "Groups of organisms Representatives Organisms that can cause physical damage Predatory animals (tigers, sharks, bears), large herbivores (cows, horses, elephants), animals with mechanical means of protection (porcupines, hedgehogs), etc.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8634474499859115
+      }
+    },
+    {
+      "question": "What is bioterrorism?",
+      "context": "Biological terrorism is a type of terrorism in which biological weapons are used against the population.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6988705738705738
+      }
+    },
+    {
+      "question": "How do biological terrorists typically attack populations?",
+      "context": "Usually, pathogens of dangerous infections or toxins produced by them are used as biological weapons. Bioterrorism can attack either directly the population (using pathogens of diseases such as anthrax, plague, smallpox, etc.)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9415814070986485
+      }
+    },
+    {
+      "question": "What is one way in which biological terrorists can attack a region's economy?",
+      "context": "In the latter case, not pathogens of human diseases are used, but organisms that affect farm animals or cultivated plants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8687376725838264
+      }
+    },
+    {
+      "question": "What is one example of biological terrorism in the USA?",
+      "context": "1984 - USA, Oregon. Infection with salmonella in bars, restaurants and shops.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8122863247863248
+      }
+    },
+    {
+      "question": "How many people died in a biological terrorist attack in the USA in 2001?",
+      "context": "Mailing of letters with anthrax pathogens. 5 people died.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8919159544159544
+      }
+    },
+    {
+      "question": "What were the consequences of the biological terrorism incidents in Japan and USA?",
+      "context": "hs. 1993 — Japan, Tokyo. Attempt to infect crowded places with anthrax pathogens. No victims. 2001 — USA. Mailing of letters with anthrax pathogens. 5 people died.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8724916387959867
+      }
+    },
+    {
+      "question": "What is the main purpose of biological safety?",
+      "context": "Biological safety is a state of the human living environment in which there is no harmful effect of environmental factors on the person himself and his future descendants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7720192307692307
+      }
+    },
+    {
+      "question": "What are the tasks of breeding plant varieties with high yield?",
+      "context": "The main tasks of breeding of plant varieties with high yield",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8171911421911422
+      }
+    },
+    {
+      "question": "What is the main goal of mass selection breeding method?",
+      "context": "reducing costs of growing plants and animals",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7837912087912088
+      }
+    },
+    {
+      "question": "What is biogas?",
+      "context": "Already now, living organisms play an important role in the purification of wastewater and a renewable source of energy by producing biogas by microorganisms (Fig. 52.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7422542735042735
+      }
+    },
+    {
+      "question": "What was the result of the 'green revolution'?",
+      "context": "This was achieved using methods of classical selection and chemicalization of agriculture.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8016983016983017
+      }
+    },
+    {
+      "question": "What is the main reason for human pressure on natural ecosystems?",
+      "context": "Population growth and increased industrial production are perhaps the main factors in increasing human pressure on natural ecosystems.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8378658378658379
+      }
+    },
+    {
+      "question": "What are some factors in increasing human pressure on natural ecosystems?",
+      "context": "Disruption of ecosystems Population growth and increased industrial production are perhaps the main factors in increasing human pressure on natural ecosystems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8647186147186148
+      }
+    },
+    {
+      "question": "What is accelerating due to the heating rays from glaciers?",
+      "context": "And this process is accelerating.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8102564102564103
+      }
+    },
+    {
+      "question": "What is the goal of Practical Work 3?",
+      "context": "Goal: to consolidate knowledge about methods for assessing the ecological state, ¬to get acquainted in detail with the ecological situation in your region.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8076923076923077
+      }
+    },
+    {
+      "question": "What is the purpose of the Practical Work 3?",
+      "context": "Equipment and materials: additional materials on methods for assessing the ecological ¬state and information about the ecological state of your region, textbook ¬, workbook.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7970467032967032
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When were pigs from Asia first imported to Europe again for crossing with local breeds?",
+      "context": "Only 300–400 years ago, pigs from Asia began to be imported to Europe again and used for crossing with local breeds.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.9504273504273504
+      }
+    },
+    {
+      "question": "How do biological terrorists typically attack populations?",
+      "context": "Usually, pathogens of dangerous infections or toxins produced by them are used as biological weapons. Bioterrorism can attack either directly the population (using pathogens of diseases such as anthrax, plague, smallpox, etc.)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9415814070986485
+      }
+    },
+    {
+      "question": "What is the name of the region where all Australian cereal species have small seeds, but can be grown in grain production after being introduced from Europe?",
+      "context": "But all Australian cereal species have very small seeds. And it makes no sense to grow them for grain.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.34782608695652173,
+        "diversity_score": 0.9141363022941971
+      }
+    },
+    {
+      "question": "Why did the climate of certain regions of Australia become favorable for growing cereals after the introduction of cereal grains from Europe?",
+      "context": "For example, the climate of certain regions of Australia is very favorable for growing cereals.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5789473684210527,
+        "diversity_score": 0.8879113464133707
+      }
+    },
+    {
+      "question": "What are some potential benefits of genetically engineered plants?",
+      "context": "Among the positive arguments are increased yield, environmental benefits, protection from pests.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8735754985754985
+      }
+    }
+  ]
+}

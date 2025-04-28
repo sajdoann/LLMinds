@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "Who created the slides?",
+      "context": "Let's move to the slides by Philip Cain.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "When were the slides presented?",
+      "context": "As you see, it's already 11 years old.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who created the slides?",
+      "context": "Let's move to the slides by Philip Cain.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "When were the slides presented?",
+      "context": "As you see, it's already 11 years old.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    }
+  ]
+}

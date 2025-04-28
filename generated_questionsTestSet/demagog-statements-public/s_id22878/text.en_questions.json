@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the typical duration for paying the housing allowance?",
+      "context": "In most regions, we are between 15 and 21 days.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7180555555555556
+      }
+    },
+    {
+      "question": "How long can the housing allowance application process take in Prague?",
+      "context": "In Prague, we are at the limit of around 30 days.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8181818181818181
+      }
+    },
+    {
+      "question": "What is the deadline for processing an application for housing allowance?",
+      "context": "<a href=",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What specific information did the Ministry of Labour and Social Affairs provide?",
+      "context": "We subsequently received a graph with internal data from the Ministry of Labour and Social Affairs, which documents the average processing time for applications for housing allowance",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8870833333333333
+      }
+    },
+    {
+      "question": "What was the reason for the assessment that Minister Jurečka's claim is unverifiable?",
+      "context": "However, we have not received another response, and&nbsp;we therefore assess the statement as unverifiable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8318452380952381
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What specific information did the Ministry of Labour and Social Affairs provide?",
+      "context": "We subsequently received a graph with internal data from the Ministry of Labour and Social Affairs, which documents the average processing time for applications for housing allowance",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8870833333333333
+      }
+    },
+    {
+      "question": "What was the reason for the assessment that Minister Jurečka's claim is unverifiable?",
+      "context": "However, we have not received another response, and&nbsp;we therefore assess the statement as unverifiable.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8318452380952381
+      }
+    },
+    {
+      "question": "How long can the housing allowance application process take in Prague?",
+      "context": "In Prague, we are at the limit of around 30 days.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8181818181818181
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the parameters used for the bilingual baselines and the standard transformer setup?",
+      "context": "And here is last year's continuation of that experiment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8298611111111112
+      }
+    },
+    {
+      "question": "How does adjusting the six hM parameters affect performance on high resource languages?",
+      "context": "That is the standard transformer setup and that heart, on high resource languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6778846153846154
+      }
+    },
+    {
+      "question": "What happens to performance when increasing the number of parameters from 400 million to 50 billion?",
+      "context": "So what",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9083333333333333
+      }
+    },
+    {
+      "question": "How many black points can be achieved on high resource language pairs with a 50 billion parameter model?",
+      "context": "And then if you do further tricks and go up to 50 billion parameters, then you can get up to five black points even on the",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What is the effect of adjusting the number of high resource languages on performance?",
+      "context": "That is the standard transformer setup and that heart, on high resource languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6666666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the parameters used for the bilingual baselines and the standard transformer setup?",
+      "context": "And here is last year's continuation of that experiment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8298611111111112
+      }
+    },
+    {
+      "question": "How does adjusting the six hM parameters affect performance on high resource languages?",
+      "context": "That is the standard transformer setup and that heart, on high resource languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6778846153846154
+      }
+    },
+    {
+      "question": "What is the effect of adjusting the number of high resource languages on performance?",
+      "context": "That is the standard transformer setup and that heart, on high resource languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "What happens to performance when increasing the number of parameters from 400 million to 50 billion?",
+      "context": "So what",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.9083333333333333
+      }
+    }
+  ]
+}

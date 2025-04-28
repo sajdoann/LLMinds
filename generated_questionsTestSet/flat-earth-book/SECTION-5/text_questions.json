@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the difference in position between the Sun's path and the North Pole during summer and winter?",
+      "context": "SECTION 5, introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5541666666666667
+      }
+    },
+    {
+      "question": "Why does the Sun's altitude change throughout the year?",
+      "context": "SECTION 5, introductory paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.578125
+      }
+    },
+    {
+      "question": "What is the difference in latitude between June 15th and December 21st at a specific location (e.g., Great Britain)?",
+      "context": "SECTION 5, table 'Sun's altitude...'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7447368421052631
+      }
+    },
+    {
+      "question": "What is the significance of the northern and southern declination?",
+      "context": "SECTION 5, introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5486111111111112
+      }
+    },
+    {
+      "question": "How does the Sun's daily path on December 21st differ from its daily path on June 15th?",
+      "context": "FIG. 27 (diagram)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the difference in position between the Sun's path and the North Pole during summer and winter?",
+      "context": "SECTION 5, introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5541666666666667
+      }
+    },
+    {
+      "question": "Why does the Sun's altitude change throughout the year?",
+      "context": "SECTION 5, introductory paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.578125
+      }
+    },
+    {
+      "question": "How does the Sun's daily path on December 21st differ from its daily path on June 15th?",
+      "context": "FIG. 27 (diagram)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    }
+  ]
+}

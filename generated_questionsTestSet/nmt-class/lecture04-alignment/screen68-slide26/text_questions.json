@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the method used to calculate the new lexical probabilities?",
+      "context": "get the new lexical probabilities. So we consider to what all other words the word was with which word",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5485294117647059
+      }
+    },
+    {
+      "question": "How does the fractional count of a target word relate to its maximum likelihood estimate?",
+      "context": "So what is the sum of fractional counts and what is the fractional count that falls to this particular the target word",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6647058823529411
+      }
+    },
+    {
+      "question": "What does the phrase 'link' imply about the relationship between words in the context?",
+      "context": "So we consider to what all other words the word was with which word which we observe with which all other words the words was the word was linked.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5875
+      }
+    },
+    {
+      "question": "What is the purpose of calculating maximum likelihood estimates?",
+      "context": "So what is the sum of fractional counts and what is the fractional count that falls to this particular the target word and we just divide that that's a that's the maximum likelihood estimate.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6444444444444445
+      }
+    },
+    {
+      "question": "What does 'fractional counts' refer to in the context of calculating lexical probabilities?",
+      "context": "get the new lexical probabilities. So we consider to what all other words the word was with which word",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5350678733031674
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the method used to calculate the new lexical probabilities?",
+      "context": "get the new lexical probabilities. So we consider to what all other words the word was with which word",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5485294117647059
+      }
+    },
+    {
+      "question": "How does the fractional count of a target word relate to its maximum likelihood estimate?",
+      "context": "So what is the sum of fractional counts and what is the fractional count that falls to this particular the target word",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6647058823529411
+      }
+    },
+    {
+      "question": "What does the phrase 'link' imply about the relationship between words in the context?",
+      "context": "So we consider to what all other words the word was with which word which we observe with which all other words the words was the word was linked.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5875
+      }
+    }
+  ]
+}

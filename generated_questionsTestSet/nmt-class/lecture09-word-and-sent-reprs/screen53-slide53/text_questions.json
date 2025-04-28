@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of modification is being asked from humans?",
+      "context": "Here we are asking humans to modify the sentence in a particular way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8173076923076923
+      }
+    },
+    {
+      "question": "What will be done with the modified sentences?",
+      "context": "and then we would relate this partial ordered set to the manifold of some embeddings.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.771875
+      }
+    },
+    {
+      "question": "What kind of relation is being made between the partial ordered set and the manifold?",
+      "context": "to this partial ordered set and then we would relate this partial ordered set to the manifold of some embeddings.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7428571428571429
+      }
+    },
+    {
+      "question": "What kind of mathematical structure is being referred to as a 'manifold'?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "Why are humans modifying sentences in the first place?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9722222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of modification is being asked from humans?",
+      "context": "Here we are asking humans to modify the sentence in a particular way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8173076923076923
+      }
+    },
+    {
+      "question": "What kind of mathematical structure is being referred to as a 'manifold'?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What will be done with the modified sentences?",
+      "context": "and then we would relate this partial ordered set to the manifold of some embeddings.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.771875
+      }
+    }
+  ]
+}

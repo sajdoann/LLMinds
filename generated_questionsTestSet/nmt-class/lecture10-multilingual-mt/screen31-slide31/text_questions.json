@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What language pairs were the main focus of the document?",
+      "context": "The vocabulary. This is the overlap of the vocabularies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7876984126984127
+      }
+    },
+    {
+      "question": "Why are there no common words or subword units between English and Russian due to script differences?",
+      "context": "So our main focus was English into Estonian translation, ... And because of the different script, because Russian is written in Cyrillic and Estonian is written in Latin",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.7747326203208555
+      }
+    },
+    {
+      "question": "What is a potential limitation of using subword units in child models due to script differences?",
+      "context": "...because there is actually no words, no subword units that would come to the child model",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8557291666666667
+      }
+    },
+    {
+      "question": "What languages are written in different scripts?",
+      "context": "...because Russian is written in Cyrillic and Estonian is written in Latin",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.748015873015873
+      }
+    },
+    {
+      "question": "Why was English added as a parent language for the translation task?",
+      "context": "And because of the different script, ... So our main focus was English into Estonian translation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What language pairs were the main focus of the document?",
+      "context": "The vocabulary. This is the overlap of the vocabularies.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7876984126984127
+      }
+    },
+    {
+      "question": "Why was English added as a parent language for the translation task?",
+      "context": "And because of the different script, ... So our main focus was English into Estonian translation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "Why are there no common words or subword units between English and Russian due to script differences?",
+      "context": "So our main focus was English into Estonian translation, ... And because of the different script, because Russian is written in Cyrillic and Estonian is written in Latin",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.7747326203208555
+      }
+    }
+  ]
+}

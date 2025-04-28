@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What date was the letter sent by Prime Minister Petr Fiala to the President of the European Commission?",
+      "context": "And I, as Prime Minister, I think, on 22 December, sent a letter to the President of the European Commission on behalf of the Czech Republic saying: our government considers the core to be extremely important, I ask you to take this into account in your decision-making, and I attach here a decision of our Parliament which shows that across the political spectrum the Czech Republic wants this.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8049938725490196
+      }
+    },
+    {
+      "question": "What is mentioned as the key aspect of the resolution adopted by both chambers of the Czech Parliament on 15 December?",
+      "context": "On 14 December 2021, the Chamber of Deputies voted on the Resolution on the necessary role of nuclear energy in the decarbonisation of the economy. It is resolution under which the Chamber of Deputies: ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.811292270531401
+      }
+    },
+    {
+      "question": "What does Petr Fiala request to be taken into account by the President of the European Commission in her decision-making?",
+      "context": "<i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.868421052631579
+      }
+    },
+    {
+      "question": "What is the main message of the European Parliament's resolution regarding nuclear energy?",
+      "context": "therefore notes that nuclear energy must be fully recognised as part of the solution to decarbonising the economy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7334558823529411
+      }
+    },
+    {
+      "question": "Why is natural gas included in a transitional resource by the Czech Republic?",
+      "context": "also notes that the Czech Republic intends to use natural gas in its mix on a temporary basis,</li><li>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7900641025641025
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does Petr Fiala request to be taken into account by the President of the European Commission in her decision-making?",
+      "context": "<i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.868421052631579
+      }
+    },
+    {
+      "question": "What is the main message of the European Parliament's resolution regarding nuclear energy?",
+      "context": "therefore notes that nuclear energy must be fully recognised as part of the solution to decarbonising the economy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7334558823529411
+      }
+    },
+    {
+      "question": "What is mentioned as the key aspect of the resolution adopted by both chambers of the Czech Parliament on 15 December?",
+      "context": "On 14 December 2021, the Chamber of Deputies voted on the Resolution on the necessary role of nuclear energy in the decarbonisation of the economy. It is resolution under which the Chamber of Deputies: ...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.811292270531401
+      }
+    }
+  ]
+}

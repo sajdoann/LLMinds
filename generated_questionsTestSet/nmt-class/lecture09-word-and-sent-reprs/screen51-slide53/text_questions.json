@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being proposed as a way of exploring this continuous space of sentences?",
+      "context": "So what we are doing is that we are proposing directions of exploration,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8146853146853147
+      }
+    },
+    {
+      "question": "Who will be asked to modify the sentence in a particular direction?",
+      "context": "And then we will ask human informants to modify the sentence in a particular direction,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the outcome of validating the relation between sentences?",
+      "context": "And then we would validate this relation and we would create a partial ordered set of sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5873015873015873
+      }
+    },
+    {
+      "question": "What type of human annotators will be asked to provide sentences in between two examples?",
+      "context": "And then we would ask the human annotators to tell us a sentence in between the two examples of a particle direction,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7270833333333333
+      }
+    },
+    {
+      "question": "What will be created as a result of validating the relation and creating partial ordered sets?",
+      "context": "And then we would validate this relation and we would create a partial ordered set of sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.6350446428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of human annotators will be asked to provide sentences in between two examples?",
+      "context": "And then we would ask the human annotators to tell us a sentence in between the two examples of a particle direction,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7270833333333333
+      }
+    },
+    {
+      "question": "What is being proposed as a way of exploring this continuous space of sentences?",
+      "context": "So what we are doing is that we are proposing directions of exploration,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8146853146853147
+      }
+    },
+    {
+      "question": "What will be created as a result of validating the relation and creating partial ordered sets?",
+      "context": "And then we would validate this relation and we would create a partial ordered set of sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.6350446428571428
+      }
+    }
+  ]
+}

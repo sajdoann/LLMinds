@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What technique was used by the colleague to improve machine translation, and what was its effect?",
+      "context": "The main observation that this is a better defined task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "How did the technique affect human agreement on the task of machine translation?",
+      "context": "So that's what my colleague did some years ago. He was aligning texogrammonical nodes instead of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.803921568627451
+      }
+    },
+    {
+      "question": "What was the main goal of applying this technique to phrase-based MT?",
+      "context": "The application to phrase-based MT was done some years after that and there were indeed little improvements.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7732843137254901
+      }
+    },
+    {
+      "question": "What is a disadvantage of the new task definition, as described by the colleague?",
+      "context": "But there is a disadvantage, there is a cost. It becomes language dependent.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8346153846153845
+      }
+    },
+    {
+      "question": "How did the colleague feel about having to redefine the task of machine translation?",
+      "context": "We were able to redefine the task so that it makes more sense and it's easier than to automate.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7740384615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What technique was used by the colleague to improve machine translation, and what was its effect?",
+      "context": "The main observation that this is a better defined task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "What is a disadvantage of the new task definition, as described by the colleague?",
+      "context": "But there is a disadvantage, there is a cost. It becomes language dependent.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8346153846153845
+      }
+    },
+    {
+      "question": "How did the technique affect human agreement on the task of machine translation?",
+      "context": "So that's what my colleague did some years ago. He was aligning texogrammonical nodes instead of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.803921568627451
+      }
+    },
+    {
+      "question": "What was the main goal of applying this technique to phrase-based MT?",
+      "context": "The application to phrase-based MT was done some years after that and there were indeed little improvements.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7732843137254901
+      }
+    }
+  ]
+}

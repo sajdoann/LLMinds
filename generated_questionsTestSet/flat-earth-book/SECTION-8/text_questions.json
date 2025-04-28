@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the light of a gas-lamp when seen through a damp or foggy atmosphere?",
+      "context": "This will be more remarkable when the medium holds aqueous particles in solution,—as in a damp or foggy atmosphere the light of a gas-lamp will seem greater at a given distance than it will under ordinary circumstances.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7540322580645161
+      }
+    },
+    {
+      "question": "Why does the Sun appear larger when rising and setting than when on the meridian?",
+      "context": "The latter (H 5) represents the greater amount of atmosphere which the Sun has to shine through when approaching the horizon; and as the air near the Earth is both more dense and more damp, or holds more watery particles in solution, the light of the Sun must be dilated or enlarged as well as modified in colour.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7834249084249084
+      }
+    },
+    {
+      "question": "What is the explanation for the apparent enlargement of the Sun when rising and setting?",
+      "context": "“If the angle of the Sun or Moon be taken either with a tube or micrometer when they appear so large to the eye in the horizon, the measure is identical when they are in the meridian and appear to the eye and mind but half the size. The apparent distance of the horizon is three or four times greater than the zenith.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6783424908424909
+      }
+    },
+    {
+      "question": "What type of mental mistake occurs when observing the Sun's apparent size?",
+      "context": "Hence the mental mistake of horizontal size, for the angular dimensions are equal; the first 5° is apparently to the eye equal to 10° or 15° at 50° or 60° of elevation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7227564102564102
+      }
+    },
+    {
+      "question": "What is mentioned as a reason for the apparent size of the Sun when observed in different positions?",
+      "context": "This is evidently owing to the ‘habit of sight,’ for with an accurate instrument the measure of 5° near the horizon is equal to 5° in the zenith.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6908263305322129
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the light of a gas-lamp when seen through a damp or foggy atmosphere?",
+      "context": "This will be more remarkable when the medium holds aqueous particles in solution,—as in a damp or foggy atmosphere the light of a gas-lamp will seem greater at a given distance than it will under ordinary circumstances.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7540322580645161
+      }
+    },
+    {
+      "question": "Why does the Sun appear larger when rising and setting than when on the meridian?",
+      "context": "The latter (H 5) represents the greater amount of atmosphere which the Sun has to shine through when approaching the horizon; and as the air near the Earth is both more dense and more damp, or holds more watery particles in solution, the light of the Sun must be dilated or enlarged as well as modified in colour.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7834249084249084
+      }
+    },
+    {
+      "question": "What type of mental mistake occurs when observing the Sun's apparent size?",
+      "context": "Hence the mental mistake of horizontal size, for the angular dimensions are equal; the first 5° is apparently to the eye equal to 10° or 15° at 50° or 60° of elevation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7227564102564102
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why is measuring output quality in machine translation important?",
+      "context": "Measuring of output quality in machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8948412698412699
+      }
+    },
+    {
+      "question": "What was the outcome when a system developed at Euratom was scored by two different groups of people?",
+      "context": "An example from the history (1970s)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9068627450980392
+      }
+    },
+    {
+      "question": "How did the choice of metric influence the research direction in machine translation?",
+      "context": "The importance of choosing the right metric and its impact on research direction",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8020833333333333
+      }
+    },
+    {
+      "question": "What is an example of a metric that scores short sequences of words, such as four-word windows?",
+      "context": "BLEU score",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9453125
+      }
+    },
+    {
+      "question": "How did the focus on piece-wise good translation methods influence the development of machine translation systems?",
+      "context": "The impact of choosing a wrong metric",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7767857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is measuring output quality in machine translation important?",
+      "context": "Measuring of output quality in machine translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8948412698412699
+      }
+    },
+    {
+      "question": "What is an example of a metric that scores short sequences of words, such as four-word windows?",
+      "context": "BLEU score",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9453125
+      }
+    },
+    {
+      "question": "What was the outcome when a system developed at Euratom was scored by two different groups of people?",
+      "context": "An example from the history (1970s)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9068627450980392
+      }
+    }
+  ]
+}

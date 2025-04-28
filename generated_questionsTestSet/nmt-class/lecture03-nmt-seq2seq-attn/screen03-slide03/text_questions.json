@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the architecture being described?",
+      "context": "So, this is what we are going to build.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6284722222222222
+      }
+    },
+    {
+      "question": "What type of encoder decoder architecture is being discussed?",
+      "context": "This is the basic encoder decoder architecture.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.748015873015873
+      }
+    },
+    {
+      "question": "Is the described architecture a specific type or general term?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What is being 'built' in this context?",
+      "context": "So, this is what we are going to build.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7043650793650793
+      }
+    },
+    {
+      "question": "Is the document providing a step-by-step guide or an overview of the architecture?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the described architecture a specific type or general term?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "Is the document providing a step-by-step guide or an overview of the architecture?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What type of encoder decoder architecture is being discussed?",
+      "context": "This is the basic encoder decoder architecture.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.748015873015873
+      }
+    },
+    {
+      "question": "What is being 'built' in this context?",
+      "context": "So, this is what we are going to build.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7043650793650793
+      }
+    }
+  ]
+}

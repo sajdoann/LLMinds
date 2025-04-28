@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a good representation in classification tasks?",
+      "context": "If your representation would be stupid, if it would not highlight the important things in the reference, in this source, for the particle task, then this representation would not serve well in the classification task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "What happens to a low-scoring sentence representation method?",
+      "context": "And there you will get a low score in the classification task and your sentence representation method will score badly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6654411764705882
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a good representation in classification tasks?",
+      "context": "If your representation would be stupid, if it would not highlight the important things in the reference, in this source, for the particle task, then this representation would not serve well in the classification task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "What happens to a low-scoring sentence representation method?",
+      "context": "And there you will get a low score in the classification task and your sentence representation method will score badly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6654411764705882
+      }
+    }
+  ]
+}

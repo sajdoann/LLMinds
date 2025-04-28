@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of data set is mentioned in the document?",
+      "context": "The Coco data set is images",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "How many captions are associated with a single image in the Coco data set?",
+      "context": "There we have a single image and five captions that people created for that image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "What is the purpose of having multiple captions for the same image?",
+      "context": "So that's again in some way the same meaning, the picture is described by different expressions.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7022727272727273
+      }
+    },
+    {
+      "question": "What can be inferred about the Coco data set from the context?",
+      "context": "So if",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "How do multiple captions for the same image relate to each other?",
+      "context": "So that's again in some way the same meaning, the picture is described by different expressions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7354166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of data set is mentioned in the document?",
+      "context": "The Coco data set is images",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7666666666666666
+      }
+    },
+    {
+      "question": "How many captions are associated with a single image in the Coco data set?",
+      "context": "There we have a single image and five captions that people created for that image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "How do multiple captions for the same image relate to each other?",
+      "context": "So that's again in some way the same meaning, the picture is described by different expressions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7354166666666666
+      }
+    },
+    {
+      "question": "What is the purpose of having multiple captions for the same image?",
+      "context": "So that's again in some way the same meaning, the picture is described by different expressions.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7022727272727273
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the speaker's goal in trying to say 'you have a bottle?'",
+      "context": "the realistic setups. So here is an example of all the challenges that an ASR system would face.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7463942307692307
+      }
+    },
+    {
+      "question": "Why did the speaker's pronunciation of 'bottle' and 'weir' cause confusion?",
+      "context": "We had those in one of our test sessions because we were taking part in a festival or fair trade of student companies like mock business companies and they were presenting their company.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8534902597402597
+      }
+    },
+    {
+      "question": "What was the ASR system's response to the speaker's mispronunciation?",
+      "context": "The current best system that we had recognized just oh yes the off because the noise was so bad that they simply couldn't catch up, couldn't recognize any words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7205555555555556
+      }
+    },
+    {
+      "question": "What would have been an ideal outcome for the ASR system?",
+      "context": "If the ideal output, the thing that we were all hoping for, and maybe a knowledgeable person would be able to understand, what the user wanted to say, you have a bottle and then České Budějovice.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8009530791788857
+      }
+    },
+    {
+      "question": "What was the speaker's actual location, as mentioned in the recording?",
+      "context": "So this is what he wanted to say and unfortunately his pronunciation because he was not native English speaker was wrong in the word bottle and also in the weir. So he would say you have a bottle? Oh yes, we are situated in heart instead of heart of České Budějovice.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.74375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the speaker's goal in trying to say 'you have a bottle?'",
+      "context": "the realistic setups. So here is an example of all the challenges that an ASR system would face.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7463942307692307
+      }
+    },
+    {
+      "question": "What was the speaker's actual location, as mentioned in the recording?",
+      "context": "So this is what he wanted to say and unfortunately his pronunciation because he was not native English speaker was wrong in the word bottle and also in the weir. So he would say you have a bottle? Oh yes, we are situated in heart instead of heart of České Budějovice.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.74375
+      }
+    },
+    {
+      "question": "Why did the speaker's pronunciation of 'bottle' and 'weir' cause confusion?",
+      "context": "We had those in one of our test sessions because we were taking part in a festival or fair trade of student companies like mock business companies and they were presenting their company.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8534902597402597
+      }
+    }
+  ]
+}

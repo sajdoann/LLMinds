@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What factors contribute to the performance of the parent model?",
+      "context": "If you start the child from the parent, when the parent is fully converged, you will get the best performance. If you stop training the parent prematurely and switch to the child too soon,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5381944444444444
+      }
+    },
+    {
+      "question": "What happens when the parent model is fully converged?",
+      "context": "If you start the child from the parent, when the parent is fully converged, you will get the best performance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5651041666666667
+      }
+    },
+    {
+      "question": "What should be done to switch to the child model from the parent model?",
+      "context": "If you stop training the parent prematurely and switch to the child too soon,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.45432692307692313
+      }
+    },
+    {
+      "question": "Why is it important to wait for the parent model to converge before switching to the child model?",
+      "context": "So here is a summary of the summary of the training that the performance of the parent is also important.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7083333333333333
+      }
+    },
+    {
+      "question": "What does stopping the parent model prematurely and switching to the child model too soon result in?",
+      "context": "If you stop training the parent prematurely and switch to the child too soon,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5064102564102564
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What factors contribute to the performance of the parent model?",
+      "context": "If you start the child from the parent, when the parent is fully converged, you will get the best performance. If you stop training the parent prematurely and switch to the child too soon,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5381944444444444
+      }
+    },
+    {
+      "question": "What happens when the parent model is fully converged?",
+      "context": "If you start the child from the parent, when the parent is fully converged, you will get the best performance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5651041666666667
+      }
+    },
+    {
+      "question": "What does stopping the parent model prematurely and switching to the child model too soon result in?",
+      "context": "If you stop training the parent prematurely and switch to the child too soon,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5064102564102564
+      }
+    },
+    {
+      "question": "Why is it important to wait for the parent model to converge before switching to the child model?",
+      "context": "So here is a summary of the summary of the training that the performance of the parent is also important.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7083333333333333
+      }
+    }
+  ]
+}

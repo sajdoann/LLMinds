@@ -1,0 +1,611 @@
+{
+  "all_questions": [
+    {
+      "question": "What is etolohiya?",
+      "context": "Etolohija vyvchaye pryrodu instynktiv, nabuti povedinkovi reaktsiyi, te, jak tvaryny spilkujut'sja mizh soboju (komunikatsiyi), jak zminjuyet'sja yikhnja povedinka pid diyeju riznomanitnykh chynnykiv toshcho.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6949598021026593
+      }
+    },
+    {
+      "question": "What is the purpose of sposterezhennja in etolohiya?",
+      "context": "Sposterezhennja — tse tsilesprjamovane spryjnjattja j reyestratsija povedinky doslidzhuvanoho ob’yekta.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7272959183673469
+      }
+    },
+    {
+      "question": "What is the main goal of etology?",
+      "context": "Etolohija — nauka pro povedinku tvaryn.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7320213799805637
+      }
+    },
+    {
+      "question": "What type of methods are used in etology to study behavior?",
+      "context": "V etolohiyi vykorystovujut'sja zahal'nobiolohichni metody — sposterezhennja, eksperyment, modeljuvannja.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.873222016079159
+      }
+    },
+    {
+      "question": "What is the main purpose of a reflex in an organism?",
+      "context": "Vony mozhut' buty bezumovnymy (pryrodzhenymy) j umovny-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7780280943546249
+      }
+    },
+    {
+      "question": "What is the difference between a conditioned reflex and an unconditioned reflex?",
+      "context": "Pryklady bezumovnykh refleksiv: dykhannja, kashel', chkhannja, vidsmykuvannja ruky vid harjachoho predmeta toshcho.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8503401360544217
+      }
+    },
+    {
+      "question": "What is the purpose of the reflexive responses to external and internal stimuli?",
+      "context": "Vyko-rystovuyet'sja pid chas dresyruvannja tvaryn. Jakshcho umovnyj podraznyk ne pidkripljuvatymet'sja bez-umovnym, to zhodom umovnyj refleks zhasne j znykne.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8379351740696278
+      }
+    },
+    {
+      "question": "What is the role of instinct in the behavior of animals?",
+      "context": "Instynkt (vid latyn. «instynktus» — sponukannja) — tse sukup'-nist' pryrodzhenykh stereotypnykh form povedinky tvaryn, shcho vynykajut' u vidpovid' na zovnishni abo vnutrishni podraznennja.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7680375180375181
+      }
+    },
+    {
+      "question": "What is the purpose of an experiment?",
+      "context": "Inshyj sposib nauchinnja — tse koly tvaryna navchayet'sja za pryn-tsypom «prob i pomylok». Koly tvaryna otrymuye pozytyvnyj re-zul'tat, vona joho zapam'jatovuye.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7324689274205923
+      }
+    },
+    {
+      "question": "What is the role of instincts in learning?",
+      "context": "Instynkt — tse sukupnist' pryrodzhenykh stereotypnykh form povedinky tvaryn, shcho vynykajut' u vidpovid' na zovnishni abo vnutrishni podraznennja.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7386621315192744
+      }
+    },
+    {
+      "question": "What is the main reason why birds don't migrate to warm regions?",
+      "context": "U teplykh krajakh i svoyikh pretendentiv na yizhu vystachaye.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8463718820861679
+      }
+    },
+    {
+      "question": "What is the term for a bird's ability to find its way home?",
+      "context": "Slovo «khominh» (homing) pokhodyt' vid anhlijs'koho home — po-vertatysja dodomu.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8552590266875981
+      }
+    },
+    {
+      "question": "Why do birds need to orient themselves in space?",
+      "context": "Zorova pam’jat' dozvoljaye zapam’jataty mistse, jake tvary- na vvazhaye svoyeju domivkoju.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9499072356215214
+      }
+    },
+    {
+      "question": "What is the term for the process of birds finding their way to a specific location?",
+      "context": "Mihratsijamy nazyvajut' rehuljarni peremishchennja tvaryn odnoho vydu z odniyeyi zony prozhyvannja v inshu.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8538984824699111
+      }
+    },
+    {
+      "question": "Why do some birds use sound to navigate?",
+      "context": "Perelitni ptakhy perevazhno vykorystovujut' sonjachni, zorjani j mahnitni «kompasy».",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9644274376417233
+      }
+    },
+    {
+      "question": "What is the main goal of a territorial behavior in animals?",
+      "context": "Tvaryny zakhyshchajut' svoju terytoriju, bo vid neyi zalezhyt' bezpeka, kormova baza, mozhlyvist' vyboru najlipshoho shljubnoho partnera toshcho.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7965731747244352
+      }
+    },
+    {
+      "question": "How do animals respond to a loss in their territory?",
+      "context": "U razi porazky — zazhura j sum. Ti sami hormony, shcho vydiljajut'sja u krovi mavp, ye i v nas.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9082766439909297
+      }
+    },
+    {
+      "question": "What is the relationship between a bird's sound and its direction?",
+      "context": "PoVEdinKa TVaRyn 46. Terytorial'na povedinka zumovljuye rozpodil terytoriyi, jaku zajmaye pevne uhrupovannja, na okremi diljanky.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.832626557116353
+      }
+    },
+    {
+      "question": "What is the main purpose of a rytual'na povedinka?",
+      "context": "Rytual'na povedinka v kotiv (Mal. 46.2), jaka dozvoljaye zmenshyty kil'kist' spravzhnikh bijok i travmuvannja.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7531584062196307
+      }
+    },
+    {
+      "question": "What is the purpose of a shljubna povedinka?",
+      "context": "Shljubna j bat'kivs'ka povedinka dopomahaye tva-ryn' vidshukaty paru.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7283163265306123
+      }
+    },
+    {
+      "question": "What does a shljubna povedinka provide for an individual?",
+      "context": "U khodi zalytsjan-nja tvaryni neobkhidno podolaty mezhi indyvidual'-noho prostoru, shcho, zvychajno, vyklykaye ahresiju.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8976103261817547
+      }
+    },
+    {
+      "question": "What is the main difference between a rytual'na povedinka and a shljubna povedinka?",
+      "context": "Tse vtrymuye dominujuchykh osobyn vid ataky. U ljudyny takymy zaspokijlyvymy dijamy ye posmishka, rukostyskannja toshcho.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8227891156462586
+      }
+    },
+    {
+      "question": "What is the purpose of the doslidnyts'ka povedinka?",
+      "context": "Doslidnyts'ka povedinka ye obov’jazkovoju chastynoju povedinky bud'-jakoyi tvaryny.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7164723032069971
+      }
+    },
+    {
+      "question": "What is the characteristic of a doslidnyts'ka povedinka?",
+      "context": "Koly tvaryna shukaye yizhu, vodu, ukryttja, shljubnoho partnera, to vona zdijsnjuye doslidnyts'ku povedinku.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7534340659340659
+      }
+    },
+    {
+      "question": "What type of animals are known as sinostavtsi?",
+      "context": "Zvidsy j druha nazva tsykh tvaryn — sinostavtsi.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8558673469387755
+      }
+    },
+    {
+      "question": "What is a scientific statement?",
+      "context": "Doslidnyts'ka povedinka ye obov’jazkovoju chastynoju povedinky bud'jakoyi tvaryna shukaye yizhu, vodu, ukryttja, shljubnoho partnera, to vona zdijsnjuye doslidnyts'ku povedinku.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7482277121374865
+      }
+    },
+    {
+      "question": "What is the purpose of a scientific statement?",
+      "context": "Doslidnyts'ka povedinka ye duzhe vazhlyvoju dlja vyjavlennja tvary-noyu nebezpeky.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7280328798185941
+      }
+    },
+    {
+      "question": "What is a social statement?",
+      "context": "Sotsial'na, abo suspil'na, povedinka ye odnym z ty-piv povedinky. Tvaryny utvorjujut' tymchasovi abo postijni uhrupovannja, z jakymy pov’jazani povedinkovi reaktysiyi, shcho dopomahajut’ im vyzhyvaty.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7428571428571429
+      }
+    },
+    {
+      "question": "What is the purpose of a social statement?",
+      "context": "Zavdjaky sotsial'nij povedintsi pidvyshchujut’sja shansy na vyzhyvannja vs’oho uhrupovannja j vydu.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.724025974025974
+      }
+    },
+    {
+      "question": "What is social language?",
+      "context": "Sotsial'na, abo suspil'na, povedinka ye odnym z ty-",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7283163265306123
+      }
+    },
+    {
+      "question": "What is the function of communication in social behavior?",
+      "context": "Zavdjaky sotsial'nij povedintsi pidvyshchujut'sja shansy na vyzhyvannja vs'oho uhrupovannja j vydu.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7665429808286951
+      }
+    },
+    {
+      "question": "What is the role of vocalizations in communication?",
+      "context": "Ljudy spilkujut'sja za dopomohoju zvukiv (mova, smikh, udary dolon'), zhestiv, poz tila toshcho.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765894819466248
+      }
+    },
+    {
+      "question": "What is the significance of spatial orientation in communication?",
+      "context": "Bahato khyzhakiv mitjat' terytoriju secheju. Tvaryny bahat'okh vydiv vy-korystovujut' u spilkuvanni feromony — osoblyvi pakhuchi rechovyny.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.780045351473923
+      }
+    },
+    {
+      "question": "What is the hierarchy in social behavior?",
+      "context": "Krim toho, u takykh uhrupovannjakh kozhna tvaryna vykonuye pevnu rol', tobto vynykaye javyshche iyerarkhiyi.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7682215743440233
+      }
+    },
+    {
+      "question": "What is the function of social hierarchy?",
+      "context": "Takyj typ iyerarkhiiyi kharakternyj dlja koriv, myshej, patsjukiv, pavianiv toshcho.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7556851311953352
+      }
+    },
+    {
+      "question": "What is the role of social hierarchy in communication?",
+      "context": "Stanovyshche tvaryny v iyerarkhiyi zazvychaj vyznachayet'sja rozmiramy, syloju, ahresyvnistju j zalyshayet'sja u ptakhiv postijnym u pevnomu uhrupovanni.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692035147392291
+      }
+    },
+    {
+      "question": "What is the main advantage of a hierarchical organization?",
+      "context": "Iyerarkhija maye velyke pozytyvne znachennja v zhytti uhrupovannja. Vona zmenshuye projavy ahresyvnosti, jaka pov’jazana z yizheju, vyborom shljubnoho partnera toshcho.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7738095238095238
+      }
+    },
+    {
+      "question": "What is the primary function of a queen bee in a hive?",
+      "context": "U sim’ї bdzhil ye samka-tsarytsja, zdatna do rozmnozhennia, robochi bdzholy — nedorozvyneni samky j samtsi-trutni, zdatni do rozmnozhennia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.789042889883226
+      }
+    },
+    {
+      "question": "What is the main difference between anonymous and individualized hierarchical organizations?",
+      "context": "Typy uhrupovan' tvaryn Vidomyj etoloh i laureat Nobelivs'koyi premiyi K. Lorents ustanovyv, shcho vsi uhrupovannja tvaryn mozhna rozdilyty na dvi velyki hrupy. Persha z nykh — anonimni uhrupovannja, jaki ne majut’ viznachenoyi struktury.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8423875231910947
+      }
+    },
+    {
+      "question": "What is the main difference between anonymous and individualized groupings?",
+      "context": "U nykh chleny hru-pty zustrichajut' «chuzhykh» duzhe ahresyvno. Skazhimo, patsjuky mozhut' prosto vbyty chuzhyntsja.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298833819241982
+      }
+    },
+    {
+      "question": "How do individualized groupings work?",
+      "context": "U tsykh uhrupovannjakh tvaryny znajut' odna odnu «v oblychchja». Indyvidualizovani uhrupovannja pobudovani na osobystykh kontaktakh tvaryn mizh soboju.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9662131519274376
+      }
+    },
+    {
+      "question": "What is the purpose of zapakh in anonymous groupings?",
+      "context": "Taki anonimne uhru-povannja nazyvajut' vidkrytymy. Typy uhrupovan' tvaryn Ale isnujut' i zakryti anonimni uhrupovannja. U nykh chleny hru-pty zustrichajut' «chuzhykh» duzhe ahresyvno.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7712842712842713
+      }
+    },
+    {
+      "question": "What type of animal are the examples of 'hrupovannia' (units) in the text?",
+      "context": "Prykladiv taxonomy bahato. Tse — zhraja vovkiv, hrupa pavianiv, lev’jachyj prajd",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8515769944341373
+      }
+    },
+    {
+      "question": "What is the main purpose of using a chimpanzee in research?",
+      "context": "Sered ssavtsiv holovnym pretendentom na dru- he mistse pislja ljudyny z vykorystannja znarjad' pratsi ye shympanze (mal. 49.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7841166769738198
+      }
+    },
+    {
+      "question": "What is the evolution of thought, according to the text?",
+      "context": "Elementarna rozumova dijal'nist'. Evoljutsija povedinky Elementarna rozumova diyal'nist',\n    ",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.804421768707483
+      }
+    },
+    {
+      "question": "What is a record for the vocabulary size of a primate?",
+      "context": "Rekordnyj rozmir slovnyka mala horyla Koko, jaka znala blyz'ko 1000 znakiv movy zhestiv.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8149921507064364
+      }
+    },
+    {
+      "question": "What is the purpose of a povedinka in an organism's evolution?",
+      "context": "Povedinka — tse znachushchyj rezul'tat evoljutsiyi, odna z vazhlyvykh adaptatsij orhanizmu do navkolyshn'oho seredovyshcha.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7702756427246223
+      }
+    },
+    {
+      "question": "What type of system does the nervous system in a primate use to store information?",
+      "context": "Podal'she uskladnennja sposterihalosja v pojavi instynktiv — vrodzhenoyi dosyt' skladnoyi systemy dij.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8589650145772595
+      }
+    },
+    {
+      "question": "What is the significance of the evolution of thought in an organism's development?",
+      "context": "Vykorystannja znarjad' pratsi prytamanne riznym tva-rynam — komakham, ptakham, ssavtsjam toshcho.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8070500927643784
+      }
+    },
+    {
+      "question": "What is the relationship between a povedinka and an organism's survival?",
+      "context": "Povedinka ye vazhlyvoju vlastyvistju tvaryn, jaka dopo-mahaye yim vyzhyvaty.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8146773861059575
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of etology?",
+      "context": "Etolohija — nauka pro povedinku tvaryn.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7320213799805637
+      }
+    },
+    {
+      "question": "What is the main purpose of a reflex in an organism?",
+      "context": "Vony mozhut' buty bezumovnymy (pryrodzhenymy) j umovny-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7780280943546249
+      }
+    },
+    {
+      "question": "Why do some birds use sound to navigate?",
+      "context": "Perelitni ptakhy perevazhno vykorystovujut' sonjachni, zorjani j mahnitni «kompasy».",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9644274376417233
+      }
+    },
+    {
+      "question": "What is the difference between a conditioned reflex and an unconditioned reflex?",
+      "context": "Pryklady bezumovnykh refleksiv: dykhannja, kashel', chkhannja, vidsmykuvannja ruky vid harjachoho predmeta toshcho.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8503401360544217
+      }
+    },
+    {
+      "question": "What is the significance of spatial orientation in communication?",
+      "context": "Bahato khyzhakiv mitjat' terytoriju secheju. Tvaryny bahat'okh vydiv vy-korystovujut' u spilkuvanni feromony — osoblyvi pakhuchi rechovyny.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.780045351473923
+      }
+    }
+  ]
+}

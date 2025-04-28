@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of allowing information to flow in both directions (bottom up and top down) in the network structure?",
+      "context": "Another refinement specified or provided in the same paper changes the network structure yet a bit again and here",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.6502192982456141
+      }
+    },
+    {
+      "question": "How does the bidirectional encoding work for each node in the tree?",
+      "context": "So that gave some improvements especially for Chinese to English translation.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What type of information are considered by the nodes in the left-to-right bidirectional encoding?",
+      "context": "it would consider all its governors in the constituency parts and then it brings the information from the governors back to the back to the node.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What specific improvement did this bidirectional encoding bring for Chinese to English translation?",
+      "context": "Another refinement specified or provided in the same paper changes the network structure yet a bit again and here",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6233974358974359
+      }
+    },
+    {
+      "question": "Why is the bidirectional encoding considered an improvement compared to previous networks?",
+      "context": "Another refinement specified or provided in the same paper changes the network structure yet a bit again and here",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.59375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of allowing information to flow in both directions (bottom up and top down) in the network structure?",
+      "context": "Another refinement specified or provided in the same paper changes the network structure yet a bit again and here",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.6502192982456141
+      }
+    },
+    {
+      "question": "How does the bidirectional encoding work for each node in the tree?",
+      "context": "So that gave some improvements especially for Chinese to English translation.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What type of information are considered by the nodes in the left-to-right bidirectional encoding?",
+      "context": "it would consider all its governors in the constituency parts and then it brings the information from the governors back to the back to the node.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What specific improvement did this bidirectional encoding bring for Chinese to English translation?",
+      "context": "Another refinement specified or provided in the same paper changes the network structure yet a bit again and here",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6233974358974359
+      }
+    }
+  ]
+}

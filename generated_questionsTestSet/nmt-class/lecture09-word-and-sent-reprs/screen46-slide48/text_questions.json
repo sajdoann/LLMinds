@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What operations can be used to represent hierarchical structure or variable assignments?",
+      "context": "You need to have some operations and you need to be able to reverse some of these operations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.813301282051282
+      }
+    },
+    {
+      "question": "How do variable vectors allow for the creation of new list representations in programming languages like Lisp?",
+      "context": "You could have like variable vectors and to put some variables together you would use these variable vectors to multiply the values, add it all together and then you can recover that value from the vector.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8416491596638656
+      }
+    },
+    {
+      "question": "What is the purpose of the 'carre' permutation in Lisp programming languages?",
+      "context": "If you have a vector which is set to represent a list, then you will apply the carre permutation. arrive at the vector which corresponds to the head and you reply.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8107707509881423
+      }
+    },
+    {
+      "question": "Can recurrent neural networks learn compositional structures, and if so, how often do they reflect this in their activations?",
+      "context": "Sometimes the network decides to understand the compositionality and reflect it in its activations. And in some training runs, the networks simply decide to memorize the input data.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.861244019138756
+      }
+    },
+    {
+      "question": "What is the difference between having 'capacity' to learn compositional structures and actually 'urging' to do so?",
+      "context": "There is the capacity, but there is not the urge to learn in the meaningful way.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8203125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What operations can be used to represent hierarchical structure or variable assignments?",
+      "context": "You need to have some operations and you need to be able to reverse some of these operations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.813301282051282
+      }
+    },
+    {
+      "question": "How do variable vectors allow for the creation of new list representations in programming languages like Lisp?",
+      "context": "You could have like variable vectors and to put some variables together you would use these variable vectors to multiply the values, add it all together and then you can recover that value from the vector.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8416491596638656
+      }
+    },
+    {
+      "question": "What is the purpose of the 'carre' permutation in Lisp programming languages?",
+      "context": "If you have a vector which is set to represent a list, then you will apply the carre permutation. arrive at the vector which corresponds to the head and you reply.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8107707509881423
+      }
+    },
+    {
+      "question": "Can recurrent neural networks learn compositional structures, and if so, how often do they reflect this in their activations?",
+      "context": "Sometimes the network decides to understand the compositionality and reflect it in its activations. And in some training runs, the networks simply decide to memorize the input data.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.861244019138756
+      }
+    }
+  ]
+}

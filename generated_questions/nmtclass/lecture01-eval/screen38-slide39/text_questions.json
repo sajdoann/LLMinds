@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the main issue with the type of questions used in the test?",
+      "context": "Now the problem here is that the questions revealed too much.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.88125
+      }
+    },
+    {
+      "question": "Why did gisting machine translation work well even with low-quality translations for a language you don't speak?",
+      "context": "If you know what you are after, you will find it even in some very badly translated output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9705882352941176
+      }
+    },
+    {
+      "question": "What is the relationship between context and finding answers in machine translation?",
+      "context": "So that's an approximation of the task",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7842261904761905
+      }
+    },
+    {
+      "question": "Why do Czech people seem to find roundabouts with traffic lights unnatural?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.96875
+      }
+    },
+    {
+      "question": "What was the task in this approximation?",
+      "context": "So that's an approximation of the task",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7321428571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do Czech people seem to find roundabouts with traffic lights unnatural?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.96875
+      }
+    },
+    {
+      "question": "What was the main issue with the type of questions used in the test?",
+      "context": "Now the problem here is that the questions revealed too much.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.88125
+      }
+    },
+    {
+      "question": "What is the relationship between context and finding answers in machine translation?",
+      "context": "So that's an approximation of the task",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7842261904761905
+      }
+    }
+  ]
+}

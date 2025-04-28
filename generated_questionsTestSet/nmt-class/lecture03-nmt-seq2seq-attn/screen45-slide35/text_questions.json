@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the true distribution of output words at every time stamp in the parral corpora?",
+      "context": "Our parral corpora for a given input sentence do not contain the set of all possible translations.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7598039215686274
+      }
+    },
+    {
+      "question": "How is the output distribution defined for each time step?",
+      "context": "We'll say that this output distribution is set to 1 for the word which was seen at this position in the training data and for 0 to all other candidate tokens.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.624074074074074
+      }
+    },
+    {
+      "question": "What is the purpose of defining an output distribution as peaked?",
+      "context": "So we define these output distributions very simply. We will say that this output distribution is set to 1 for the word which was seen at this position in the training data and for 0 to all other candidate tokens.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6186497326203209
+      }
+    },
+    {
+      "question": "What is meant by saying that the defined output distribution 'is not nice'?",
+      "context": "So we define these output distributions very simply. It is not nice. It just tells you this is the word that you were expected to produce.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6910535117056856
+      }
+    },
+    {
+      "question": "What does the comparison to 'ugly from...' suggest about the nature of the output distribution?",
+      "context": "It is like ugly from...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of defining an output distribution as peaked?",
+      "context": "So we define these output distributions very simply. We will say that this output distribution is set to 1 for the word which was seen at this position in the training data and for 0 to all other candidate tokens.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6186497326203209
+      }
+    },
+    {
+      "question": "What does the comparison to 'ugly from...' suggest about the nature of the output distribution?",
+      "context": "It is like ugly from...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "How is the output distribution defined for each time step?",
+      "context": "We'll say that this output distribution is set to 1 for the word which was seen at this position in the training data and for 0 to all other candidate tokens.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.624074074074074
+      }
+    },
+    {
+      "question": "What is meant by saying that the defined output distribution 'is not nice'?",
+      "context": "So we define these output distributions very simply. It is not nice. It just tells you this is the word that you were expected to produce.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6910535117056856
+      }
+    }
+  ]
+}

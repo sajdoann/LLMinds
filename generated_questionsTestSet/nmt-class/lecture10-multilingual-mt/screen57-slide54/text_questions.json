@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Where does the speaker suggest getting the parallel data for fine-tuning the network?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.48614190687361425
+      }
+    },
+    {
+      "question": "What type of action is being suggested for the network?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.3759146341463415
+      }
+    },
+    {
+      "question": "What are the specific languages being used for the parallel data?",
+      "context": "So now the question is where do we get this data, obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.36250000000000004
+      }
+    },
+    {
+      "question": "What is the goal of fine-tuning the network?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.35627177700348434
+      }
+    },
+    {
+      "question": "What type of task is being referred to as 'fine-tuning'?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.46341463414634143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where does the speaker suggest getting the parallel data for fine-tuning the network?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.48614190687361425
+      }
+    },
+    {
+      "question": "What type of action is being suggested for the network?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.3759146341463415
+      }
+    },
+    {
+      "question": "What is the goal of fine-tuning the network?",
+      "context": "But would it be possible to train the missing part, to add the few missing links kind of, in the network by fine-tuning on a small amount of parallel data between Spanish and French? So now the question is where do we get this data, obviously.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.35627177700348434
+      }
+    }
+  ]
+}

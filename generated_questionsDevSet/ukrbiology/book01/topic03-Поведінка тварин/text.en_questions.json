@@ -1,0 +1,556 @@
+{
+  "all_questions": [
+    {
+      "question": "What is ethology?",
+      "context": "Ethology is called the science of animal behavior in their natural habitat",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "Who received the Nobel Prize for outstanding discoveries in the field of ethology in 1973?",
+      "context": "K. Lorenz, who together with N. Tinbergen and M. Fischer received in 1973, the Nobel Prize for outstanding discoveries in the field of ethology.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.9,
+        "diversity_score": 0.9028200060808756
+      }
+    },
+    {
+      "question": "What is ethology?",
+      "context": "Ethology is the science of animal behavior.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6765010351966874
+      }
+    },
+    {
+      "question": "What is behavior in animals?",
+      "context": "People have been observing animal behavior for a long time. Knowledge of its specific aspects helped ancient people hunt and avoid predators.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7873706004140787
+      }
+    },
+    {
+      "question": "What are the two types of reflexes in behavior?",
+      "context": "Any behavior is a complex combination of instinctive and acquired elements. Behavior is based on reflexes - the corresponding reactions of the organism.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8216374269005848
+      }
+    },
+    {
+      "question": "What needs to be combined with an unconditional stimulus to develop a conditioned reflex?",
+      "context": "To develop a conditioned reflex, the conditioned stimulus signal must be combined with unconditional, for example, feeding.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9072428929765887
+      }
+    },
+    {
+      "question": "What happens to a conditioned reflex if it's not reinforced?",
+      "context": "If the conditioned stimulus will not be reinforced without conditioned, then the conditioned reflex will eventually fade away and disappear.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9169437340153452
+      }
+    },
+    {
+      "question": "What is imprinting in learning?",
+      "context": "Imprinting (Fig. 44.2) is a form of learning based on the genius of the reaction, to which individual experience is added.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7757246376811594
+      }
+    },
+    {
+      "question": "What is imprinting?",
+      "context": "Imprinting (Fig. 44.2) is a form of learning based on the genius of the reaction, to which individual experience is added.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7409420289855073
+      }
+    },
+    {
+      "question": "Why do animals migrate in large groups?",
+      "context": "Migrations are the regular movements of animals of the same species. from one habitat to another. Most often, migrations are associated with the processes of feeding and reproduction of animals.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8732784229003511
+      }
+    },
+    {
+      "question": "Why don't migrating animals stay in warm regions forever?",
+      "context": "A logical question arises: why don't they stay in warm regions and there are enough applicants for food.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9190821256038647
+      }
+    },
+    {
+      "question": "What is the origin of the word 'homing'?",
+      "context": "The word \\",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7743271221532091
+      }
+    },
+    {
+      "question": "How do migratory birds mainly use solar, stellar and magnetic cues for orientation?",
+      "context": "Migratory birds mainly use solar, stellar and magnetic \\",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9385916016350799
+      }
+    },
+    {
+      "question": "What sense do many fish rely on for orientation?",
+      "context": "For many fish, it becomes the most important means of orientation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8584760649978042
+      }
+    },
+    {
+      "question": "Why do two groups of monkeys try to shout at each other during a conflict?",
+      "context": "If one. Whoever shouts louder and more rhythmically wins.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9340579710144927
+      }
+    },
+    {
+      "question": "What happens to the winning monkey in terms of hormones after a duel?",
+      "context": "These hormones are released into the blood of the monkeys-winners. They evoke feelings of pleasure and euphoria.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8554626532887403
+      }
+    },
+    {
+      "question": "Why do humans still exhibit some monkey behaviors despite using them for different purposes?",
+      "context": "These behavioral programs have been left to us by our ancestors. Although we use them for something completely different now.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.9501552795031056
+      }
+    },
+    {
+      "question": "What do animals primarily use to navigate in space?",
+      "context": "Animals use all of these to navigate in space. your senses.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8300395256916996
+      }
+    },
+    {
+      "question": "What is the purpose of threat displays in animals?",
+      "context": "These are the Threat displays, such as tilting the head, showing baring of fangs, tugging of fur or feathers, growling, threatening cries, raising fins etc. Antagonistic behavior is calming behavior of animals that occupy a lower position in the hierarchy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8305383022774327
+      }
+    },
+    {
+      "question": "Why do male peacocks offer females food during courtship?",
+      "context": "During mating ritual, males often of waterfowl offer the females a fish or bunches of algae. This is how they demonstrate their ability to provide food for the female and chicks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9175828752290521
+      }
+    },
+    {
+      "question": "What is the primary reason for parental behavior in animals?",
+      "context": "Parental behavior (Fig. 46.4) is manifested in the care of offspring. It is especially found in animals that have a small amount of offspring.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8168478260869565
+      }
+    },
+    {
+      "question": "What is parental care?",
+      "context": "It is especially found in animals that have a small amount of offspring.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How do mammals take care of their young?",
+      "context": "They feed them, protect them, and teach them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9182841614906833
+      }
+    },
+    {
+      "question": "What is the purpose of exploratory behavior in animals?",
+      "context": "When an animal is looking for food, water, shelter, a mate partner, she engages in exploratory behavior.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8182011935208866
+      }
+    },
+    {
+      "question": "What are the two main factors that form animal behavior?",
+      "context": "Behavior is formed under the action of two main factors: hereditary information and environmental conditions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8586956521739131
+      }
+    },
+    {
+      "question": "Why do animals engage in exploratory behavior?",
+      "context": "When an animal is looking for food, water, shelter, a mate partner, she engages in exploratory behavior.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8704786262331019
+      }
+    },
+    {
+      "question": "What is social behavior?",
+      "context": "Such reactions are called social behavior.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8188405797101449
+      }
+    },
+    {
+      "question": "Why is communication important for groups with behavioral traits?",
+      "context": "Social behavior increases chances of survival of the entire group and species.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8727492314448836
+      }
+    },
+    {
+      "question": "What function do smells play in animal communication?",
+      "context": "Smells also play an important role in communication.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8790760869565217
+      }
+    },
+    {
+      "question": "What is the phenomenon of hierarchy?",
+      "context": "In such groups, each animal performs a certain function. role, that is, the phenomenon of hierarchy arises.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7830349531116795
+      }
+    },
+    {
+      "question": "How do animals determine their position in the hierarchy?",
+      "context": "An animal's position in the hierarchy is usually determined by size, strength, aggressiveness and remains constant in birds in a certain group.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8639492753623188
+      }
+    },
+    {
+      "question": "What determines an animal's position in a hierarchy?",
+      "context": "An animal's position in the hierarchy is usually determined by size, strength, aggressiveness",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.853574414715719
+      }
+    },
+    {
+      "question": "What type of group are tadpoles when they gather in one place?",
+      "context": "A herd is simply a collection of animals that have gathered together.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8536725955204216
+      }
+    },
+    {
+      "question": "What is the main difference between clusters and groups?",
+      "context": "Groups differ from clusters precisely because animals can distinguish between 'their own' and 'strangers'.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8850931677018634
+      }
+    },
+    {
+      "question": "How do individualized groups differ from anonymous groups?",
+      "context": "Individualized groups consist of individuals who are individually clearly distinguish between members of their group.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9142080745341615
+      }
+    },
+    {
+      "question": "What is an anonymous group?",
+      "context": "Anonymous groups consist of individuals who are in-",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8138586956521738
+      }
+    },
+    {
+      "question": "What do individualized groups allow them to do?",
+      "context": "Individualized groups consist of individuals who are individually clearly distinguish between members of their group. This allows them to to carry out very complex coordinated actions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8790760869565217
+      }
+    },
+    {
+      "question": "What is an example of a tool used by parrots?",
+      "context": "Parrots often use pieces of plastic or metal to lift",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8608695652173913
+      }
+    },
+    {
+      "question": "Which animal uses tools the most among mammals?",
+      "context": "Among mammals, the main contender for the second is chimpanzee (Fig. 49.1). And Chimpanzee is prepare and use quite a lot of",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8861714975845411
+      }
+    },
+    {
+      "question": "What do small solitary wasps use to build burrows?",
+      "context": "Small solitary wasps from the genera Sphex and Ammophila use pebbles to build burrows for their descendants in loose sand.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8745169082125603
+      }
+    },
+    {
+      "question": "How do woodpecker finches obtain insect larvae?",
+      "context": "To obtain insect larvae from under the bark, he uses sharp twigs or cactus hatches.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9349896480331263
+      }
+    },
+    {
+      "question": "What is the main contender for second only to humans in the use of tools among mammals?",
+      "context": "Among mammals, the main contender for the second second only to humans in the use of tools labor is chimpanzee (Fig. 49.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8409253432494279
+      }
+    },
+    {
+      "question": "What type of mental activity is characteristic of many birds and mammals?",
+      "context": "Elementary mental activity. Evolution of behavior Elementary mental activity The more we study animals, the more it becomes clear, that there is no gap between human and animal thinking.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8683794466403162
+      }
+    },
+    {
+      "question": "What type of abilities are found in monkeys, dolphins, elephants, and other mammals?",
+      "context": "The most complex processes are similar to elementary human thought. changes occur in the brains of birds and mammals.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8605072463768115
+      }
+    },
+    {
+      "question": "What is remarkable about the gorilla Koko's sign language abilities?",
+      "context": "Studies of chimpanzees and gorillas have shown that their mental abilities are approximately at the level of a two- or three-year-old child.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.864648033126294
+      }
+    },
+    {
+      "question": "What is the principle according to which various forms of behaviors are selected in the process of evolution?",
+      "context": "Behavior is a significant result of evolution, one of the important adaptations of the organism to the environment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8322981366459627
+      }
+    },
+    {
+      "question": "What property of living things do animals have that helps them survive?",
+      "context": "Animal behavior Conclusion We have considered very important aspects of animal life that are related to with behavior.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8752131287297528
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What function do smells play in animal communication?",
+      "context": "Smells also play an important role in communication.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8790760869565217
+      }
+    },
+    {
+      "question": "How do mammals take care of their young?",
+      "context": "They feed them, protect them, and teach them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9182841614906833
+      }
+    },
+    {
+      "question": "What sense do many fish rely on for orientation?",
+      "context": "For many fish, it becomes the most important means of orientation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8584760649978042
+      }
+    }
+  ]
+}

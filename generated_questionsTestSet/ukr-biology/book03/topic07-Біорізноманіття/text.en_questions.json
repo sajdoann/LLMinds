@@ -1,0 +1,424 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main systematic category used in biological systematics?",
+      "context": "The main systematic categories were introduced into science by the Swedish scientist Carl Linnaeus. The main systematic category is the species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.855859375
+      }
+    },
+    {
+      "question": "What are the main taxonomic categories for the kingdom of Plants?",
+      "context": "The main taxa of the kingdom of Plants Species → Genus → Family → Order → Class → Division → Kingdom of Plants",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8320913461538462
+      }
+    },
+    {
+      "question": "What are the main taxonomic categories for the kingdom of Animals?",
+      "context": "The main taxa of the kingdom of Animals Species → Genus → Family → Order → Class → Phylum → Kingdom of Animals",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8352163461538462
+      }
+    },
+    {
+      "question": "What is phylogeny?",
+      "context": "Phylogeny is a science that studies the historical process of the development of the organic world (phylogeny).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7771577380952381
+      }
+    },
+    {
+      "question": "What is the purpose of a phylogenetic tree?",
+      "context": "A phylogenetic tree is a diagram that reflects the evolutionary relationships between the taxa for which it is constructed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8115234375
+      }
+    },
+    {
+      "question": "What are the main groups of organisms mentioned in Topic 7?",
+      "context": "Main groups of organisms: viruses, bacteria, archaea, eukaryotes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8343394886363636
+      }
+    },
+    {
+      "question": "What was the name of the taxon proposed by Carl Voss in 1990 that divided cellular life forms into three domains?",
+      "context": "In 1990, Carl Voss, based on the analysis of the rRNA nucleotide sequence and some other molecular characteristics, proposed a new version of the taxonomy of living organisms. According to him, organisms were divided into large systematic groups - domains.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9020833333333333
+      }
+    },
+    {
+      "question": "What is the main difference between Archaea and Eukaryotes?",
+      "context": "Archaea differ significantly from other domains in the composition of lipids and proteins. Cells do not have a nucleus or membrane organelles.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.833727904040404
+      }
+    },
+    {
+      "question": "What is classified as a separate taxon Vira according to Carl Voss?",
+      "context": "Viruses were isolated as a separate taxon Vira, which unites non-cellular life forms and corresponds to the domain in rank.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8841145833333334
+      }
+    },
+    {
+      "question": "What is the primary representation of genetic material in Archaea?",
+      "context": "Genetic material is usually represented by a large circular DNA molecule (bacterial chromosome). May have plasmids. Genes do not contain introns",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8491071428571428
+      }
+    },
+    {
+      "question": "What system divides organisms into superkingdoms?",
+      "context": "This is the two-empire system, which divides organisms into the empires (superkingdoms) Prokaryotes and Eukaryotes, and the five-kingdom system - it distinguishes the kingdoms Prokaryotes, Protists, Fungi, Plants and Animals",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "What is unique about the representation of genetic material in Eukaryotes?",
+      "context": "Genetic material is contained in chromosomes and has the form of linear DNA molecules. Small circular DNA molecules are present in mitochondria and plastids",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8343479437229437
+      }
+    },
+    {
+      "question": "What is a challenge in determining the systematic affiliation of some groups of eukaryotes?",
+      "context": "In the process of evolution, they repeatedly included intracellular symbionts in their cells. These symbionts became organelles such as mitochondria and plastids",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.84296875
+      }
+    },
+    {
+      "question": "What characteristics are used to compare groups of eukaryotes?",
+      "context": "Features of the main groups of eukaryotes To compare groups of eukaryotes, such characteristics as the presence and composition of the cell wall, the number of nuclei in the cell, the presence of plastids, unicellularity or multicellularity, and the type of nutrition are used.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8648826628352491
+      }
+    },
+    {
+      "question": "Which of the main groups of eukaryotes lack a cell wall?",
+      "context": "Infusoria-shoe, didinium, trumpeter They do not have a cell wall.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8671875
+      }
+    },
+    {
+      "question": "What is the primary way that substances necessary for life are absorbed by multicellular eukaryotes?",
+      "context": "They absorb substances from the environment through the surface of the body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8729166666666667
+      }
+    },
+    {
+      "question": "In which domain do eukaryotic organisms belong?",
+      "context": "Eukaryotes are the largest domain of cellular organisms in terms of the number of species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8642113095238095
+      }
+    },
+    {
+      "question": "Who proposed c categories?",
+      "context": "c categories were proposed by",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.96328125
+      }
+    },
+    {
+      "question": "What corresponds to the taxon of animals, the order, in plants?",
+      "context": "The taxon of animals, the order, corresponds to the taxon of plants:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.798046875
+      }
+    },
+    {
+      "question": "What corresponds to the taxon of animals, the type, in plants?",
+      "context": "The taxon of animals, the type, corresponds to the taxon of plants:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.798046875
+      }
+    },
+    {
+      "question": "What is the scheme that reflects evolutionary relationships between taxa?",
+      "context": "The scheme that reflects the evolutionary relationships between the taxa for which it is built is:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8734375
+      }
+    },
+    {
+      "question": "Who proposed the system of three domains?",
+      "context": "The system of three domains was proposed by:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8370535714285714
+      }
+    },
+    {
+      "question": "Which disease is caused by a causative agent in the Eukaryote domain?",
+      "context": "The Eukaryote domain includes the causative agent of:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8792782738095238
+      }
+    },
+    {
+      "question": "What is a non-cellular form of life?",
+      "context": "A non-cellular form of life is:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8039434523809523
+      }
+    },
+    {
+      "question": "Which organisms have cells containing plasmids?",
+      "context": "Organisms whose cells contain plasmids:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8890625
+      }
+    },
+    {
+      "question": "Which organisms have genes with introns?",
+      "context": "Organisms whose genes contain introns:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9036458333333334
+      }
+    },
+    {
+      "question": "Which organisms have cells containing nuclei?",
+      "context": "Organisms whose cells contain nuclei:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8890625
+      }
+    },
+    {
+      "question": "What types of organisms have two nuclei and do not have a cell wall?",
+      "context": "Organisms whose cells have two nuclei and do not have a cell wall walls:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8629807692307692
+      }
+    },
+    {
+      "question": "Which organisms usually have one nucleus and a cell wall containing cellulose?",
+      "context": "Organisms whose cells usually have one nucleus and a cell wall containing cellulose:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.9029447115384616
+      }
+    },
+    {
+      "question": "What groups of eukaryotes do the organisms shown in the pictures belong to?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8984375
+      }
+    },
+    {
+      "question": "Match pathogens with their respective groups.",
+      "context": "PathogensGroups",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9947916666666666
+      }
+    },
+    {
+      "question": "Why are viruses isolated in a separate group?",
+      "context": "Explain why viruses are isolated in a separate group and not included in the domains of bacteria or archaebacteria.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8843315972222222
+      }
+    },
+    {
+      "question": "Compare fungi and plants, highlighting their similarities and differences.",
+      "context": "Compare fungi and plants. Indicate the similarities and differences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9296875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who proposed c categories?",
+      "context": "c categories were proposed by",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.96328125
+      }
+    },
+    {
+      "question": "Match pathogens with their respective groups.",
+      "context": "PathogensGroups",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9947916666666666
+      }
+    },
+    {
+      "question": "Which organisms have genes with introns?",
+      "context": "Organisms whose genes contain introns:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9036458333333334
+      }
+    },
+    {
+      "question": "Compare fungi and plants, highlighting their similarities and differences.",
+      "context": "Compare fungi and plants. Indicate the similarities and differences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9296875
+      }
+    },
+    {
+      "question": "What is a challenge in determining the systematic affiliation of some groups of eukaryotes?",
+      "context": "In the process of evolution, they repeatedly included intracellular symbionts in their cells. These symbionts became organelles such as mitochondria and plastids",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.84296875
+      }
+    }
+  ]
+}

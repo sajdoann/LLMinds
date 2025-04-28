@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What have been discussed previously regarding machine translation?",
+      "context": "We have discussed in the past, bear in mind the KVS on the evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "How is machine translation performing compared to humans in some settings?",
+      "context": "machine translation is also getting on par with humans in some settings and in some evaluation ways.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "What is the purpose of evaluating machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "In what ways can machine translation be evaluated?",
+      "context": "in some evaluation ways.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.609375
+      }
+    },
+    {
+      "question": "What is KVS on the evaluation of machine translation?",
+      "context": "bear in mind the KVS on the evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6051587301587302
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What have been discussed previously regarding machine translation?",
+      "context": "We have discussed in the past, bear in mind the KVS on the evaluation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "How is machine translation performing compared to humans in some settings?",
+      "context": "machine translation is also getting on par with humans in some settings and in some evaluation ways.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "What is KVS on the evaluation of machine translation?",
+      "context": "bear in mind the KVS on the evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6051587301587302
+      }
+    }
+  ]
+}

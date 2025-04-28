@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal of the 'translate and Czech' setup?",
+      "context": "Then we have a setup which I call translate and Czech and there we translate the form of English into form of Czech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5470588235294118
+      }
+    },
+    {
+      "question": "What is the benefit of applying multiple language models in the 'translate and Czech' setup?",
+      "context": "So for every word form the system also tries to identify what it's the morphological tag of that and the benefit.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6000939849624061
+      }
+    },
+    {
+      "question": "How do the three language models work together in the 'translate and Czech' setup?",
+      "context": "So you have one more language model and this check can be done twice.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6524725274725275
+      }
+    },
+    {
+      "question": "What is the purpose of checking the coherence of lemmas independently of word forms in the 'translate and Czech' setup?",
+      "context": "And this is like a preparatory step but reversed yet to the linguistically very motivated one that we have seen with the alternative decoding paths.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What kind of check can be done on the coherence of the sequence of part of speech text in the 'translate and Czech' setup?",
+      "context": "You can check not only the coherence of the sequence of word forms and the coherence of sequence of part of speech text or morphological text but you can also check the coherence of the lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.631578947368421,
+        "diversity_score": 0.7026315789473684
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of check can be done on the coherence of the sequence of part of speech text in the 'translate and Czech' setup?",
+      "context": "You can check not only the coherence of the sequence of word forms and the coherence of sequence of part of speech text or morphological text but you can also check the coherence of the lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.631578947368421,
+        "diversity_score": 0.7026315789473684
+      }
+    },
+    {
+      "question": "What is the purpose of checking the coherence of lemmas independently of word forms in the 'translate and Czech' setup?",
+      "context": "And this is like a preparatory step but reversed yet to the linguistically very motivated one that we have seen with the alternative decoding paths.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What is the benefit of applying multiple language models in the 'translate and Czech' setup?",
+      "context": "So for every word form the system also tries to identify what it's the morphological tag of that and the benefit.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6000939849624061
+      }
+    }
+  ]
+}

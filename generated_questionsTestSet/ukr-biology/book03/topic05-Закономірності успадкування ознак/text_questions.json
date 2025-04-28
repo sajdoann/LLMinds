@@ -1,0 +1,853 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a genotype?",
+      "context": "Генотип — це система генів організму, які мають прояв у фенотипі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7211907810499361
+      }
+    },
+    {
+      "question": "What happens to the phenotype of an organism under different environmental conditions?",
+      "context": "Фенотип змінюється. Межі, у яких змінюються фенотипові прояви генотипу, називаються нормою реакції.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8796948356807511
+      }
+    },
+    {
+      "question": "What is the difference between gomozigot and heterozygote?",
+      "context": "Гомозиготою називають рослину, яка має однакові алелі гена за цьому алелем (від грец. гомо — однаковий), якщо різні — гетерозиготою (від грец. гетеро — різний).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8049547283702213
+      }
+    },
+    {
+      "question": "What is the difference between dominant and recessive alleles?",
+      "context": "Домінантний алель — це алель, який проявляється у фенотипі гетерозиготного організму. Рецесивний алель — це алель, який не проявляється у фенотипі гетерозиготного organismu.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8061144645651688
+      }
+    },
+    {
+      "question": "What is cytogenetics?",
+      "context": "Полягає у вивченні набору хромосом (каріотипу) організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7018779342723005
+      }
+    },
+    {
+      "question": "What is the difference between genotype and phenotype?",
+      "context": "Система генів організму, які мають прояв у фенотипі, називається генотипом, а система зовнішніх і внутрішніх ознак організму, що сформувалися в результаті реалізації спадкової інформації в конкретних умовах середовища, — фенотипом.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7917318727177882
+      }
+    },
+    {
+      "question": "What is the difference between dominant and recessive alleles?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8317683881064163
+      }
+    },
+    {
+      "question": "What is the main purpose of genetic research?",
+      "context": "У генетічних дослідженнях використовують такі методи: гібридологічний, генеалогічний, ци-\nтогенетичний, біохімічний та інші.П",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7867686890574215
+      }
+    },
+    {
+      "question": "Who is the founder of modern genetic research?",
+      "context": "Грегор Мендель (мал. 29.1) був чеським священиком, але захоплювався ботанікою.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8637323943661972
+      }
+    },
+    {
+      "question": "What is the first generation of hybrids called?",
+      "context": "Гібриди першого покоління ( F 1 )",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8102364185110664
+      }
+    },
+    {
+      "question": "What is the ratio of genotypes in the second generation of hybrids for a certain trait?",
+      "context": "У другому поколінні розщеп­лення за генотипом: 1 ( AABB ) : 4 ( AaBb ) : 2 ( AABb ) : 2 ( AaBB ) : 1 ( aaBB ) : 2 ( aaBb ) : 1 ( AAbb ) : 2 ( Aabb ) : 1 ( aabb )",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8466568642624981
+      }
+    },
+    {
+      "question": "What is the notation used to represent the genotypes in the schemes?",
+      "context": "Великі літери позна-\n      чають домінантні алелі, а малими –\n      рецесивні.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.847887323943662
+      }
+    },
+    {
+      "question": "What does the notation (–) represent in the genotyped formula?",
+      "context": "– (наприклад,\n    A–B –)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8871283255086072
+      }
+    },
+    {
+      "question": "What is the ratio of genotypes for the AA, Aa, and aa phenotypes?",
+      "context": "1 (AA) : 2 (Aa) : 1 (aa).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.835595390524968
+      }
+    },
+    {
+      "question": "What is a monogenic trait?",
+      "context": "Ознаки, які визначаються одним геном, називають моногенними.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8018108651911469
+      }
+    },
+    {
+      "question": "What type of interaction between genes results in the development of a mixed phenotype?",
+      "context": "Розрізняють такі основні типи взаємодії генів: комплементарність, різноманітність забарв-лення очей у дрозофіл.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.863759479956663
+      }
+    },
+    {
+      "question": "What is the condition under which a genotype will be expressed?",
+      "context": "Під час взаємодії неалельних генів відбувається відхищення від менделівських закономірностей роз-щеплення за фенотипом у нащадків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8532223644899701
+      }
+    },
+    {
+      "question": "What is the purpose of a gene's interaction with another gene in terms of phenotype expression?",
+      "context": "У разі полімерної взаємодії генів для прояву ознاکی необхідна наявність хоча б одного домінантного алеля в будь-якого з кількох генів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8505868544600939
+      }
+    },
+    {
+      "question": "What type of genetic interaction involves a dominant allele suppressing the expression of another gene's allele?",
+      "context": "У разі епістатичної взаємодії генів домінантний або рецесивний алель одного гена пригнічує прояв домінантного алеля іншого гена.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8859154929577465
+      }
+    },
+    {
+      "question": "What is the result of a gene's interaction with another gene in terms of phenotype expression?",
+      "context": "Полімерні гени зазвичай визначають кількісні ознаки (розмір, шаблон, забарвлення тощо) шляхом зображення генотипів та генофенотипів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.868075117370892
+      }
+    },
+    {
+      "question": "What happens to the color of an organism's skin when two dominant alleles of a gene combine?",
+      "context": "Колір шкіри у людину визначається кількома генами. Але головну роль у цьо-му процесі відіграють чотири полімерні гени.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8965669014084507
+      }
+    },
+    {
+      "question": "What is the result of combining two alleles of a gene, one of which is dominant and the other is recessive?",
+      "context": "Взаємодія неалельних генів також може зумовити формування ознак. Прикладами таких взаємодій є явища комплементарності, епістазу й полімерії.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8742232808616405
+      }
+    },
+    {
+      "question": "What is the name of the phenomenon where two genes located on the same chromosome are inherited together?",
+      "context": "Гені, які розташовані в одній хромосомі, успадковуються разом (зчеплено).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.88302034428795
+      }
+    },
+    {
+      "question": "Виявилося, що гени, які розташовані в одній хромосомі, успадkovуються разом (зчеплено).",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What is the main object studied by T. X. Morgan in his research?",
+      "context": "Він вибрав муху-дрозофілу, яка згодом стала класичним об’єктом для генетичних екс-периментів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8905249679897567
+      }
+    },
+    {
+      "question": "What is the main idea of the chromosome theory of inheritance?",
+      "context": "- Матеріальною основою спадковості є хромосоми. - Гени розташовані в хромосомах у лінійній послідовності.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8054652702540026
+      }
+    },
+    {
+      "question": "What is the mechanism of crossing over?",
+      "context": "- Кросинговер — це обмін діляками гомологічних хромосом у процесі мейозу.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7586427656850192
+      }
+    },
+    {
+      "question": "What is diploid",
+      "context": "У бджіл і мурах гаплоїдні особини — самці, а диплоїдні — самки",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6986769099445156
+      }
+    },
+    {
+      "question": "What are autosomes",
+      "context": "Інші хромосоми в цьому випадку називають аутосомами",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8205902079141516
+      }
+    },
+    {
+      "question": "What is the typical number of sex chromosomes in animals?",
+      "context": "If an organism defines its sex by means of sex chromosomes, it has one or two such chromosomes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8313173156586579
+      }
+    },
+    {
+      "question": "What do the letters X and Y represent on a sex chromosome?",
+      "context": "The large chromosome is usually denoted by X, and the small one by Y.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8990610328638498
+      }
+    },
+    {
+      "question": "What are the two types of sex determination in animals?",
+      "context": "Gymnetic sex determination occurs when males have two different sex chromosomes, while heterogametic sex determination occurs when females have two different sex chromosomes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.859456740442656
+      }
+    },
+    {
+      "question": "What is the purpose of the XX and XY genetic combinations?",
+      "context": "The XX combination represents female characteristics, while the XY combination represents male characteristics in many organisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8313109425785482
+      }
+    },
+    {
+      "question": "What is hemizygosity?",
+      "context": "Гемізигота — це диплоїдна особина, яка має лише один алель певного гена.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7130281690140845
+      }
+    },
+    {
+      "question": "Why do genes on the X-chromosome behave differently in males and females?",
+      "context": "Цей стан виникає внаслідок того, що особини однієї зі статей мають дві різні статеві хромосоми.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9308685446009389
+      }
+    },
+    {
+      "question": "What is the role of the Y-chromosome in males?",
+      "context": "Гени, які розташовані в  Y -хромосомі самців, передаються напряму по лінії.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7852112676056338
+      }
+    },
+    {
+      "question": "How do genes on the X-chromosome interact with autosomal genes in females?",
+      "context": "В організмі самок ці гени поводяться як звичайні гени аутосом (нестатевих хромосом),",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9289372599231754
+      }
+    },
+    {
+      "question": "What is the difference between спадкову (genotipova) and неспадкову (modifikatsionna) m.in.livnosti?",
+      "context": "Зміни, які виникають у випадку спадкової мінливості, передаються нащадкам. А зміни, які виникають у випадку неспадкової мінливості, нащадкам не передаються.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8405432595573441
+      }
+    },
+    {
+      "question": "What is the result of комбінативна мінливість in eukaryots?",
+      "context": "Комбінативна мінливість пов’язана з отриманням нових поєднань генів у генотипі.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7830985915492958
+      }
+    },
+    {
+      "question": "What is комбінативна мінливість?",
+      "context": "Комбінативна мінливість пов’язана з отриманням нових поєднань генів у генотипі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7619718309859155
+      }
+    },
+    {
+      "question": "What is the result of a bacteriophage's reproduction in a host cell?",
+      "context": "Вірусна частка переносить цю ДНК в іншу бактеріальну клітину, де вона вбудовується у бактеріальну хромосому.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8210627400768246
+      }
+    },
+    {
+      "question": "What is the main difference between combinative and mutational variability?",
+      "context": "Зміни, які виникли внаслідок комбінативної мінливості структура ДНК не змінюється, а за мутаційну може змінюватися.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8345070422535211
+      }
+    },
+    {
+      "question": "What is the term for the phenomenon of different people having similar features despite being genetically identical?",
+      "context": "Часто вчені виділяють як окремий вид мінливості онтогенетичну мінливість.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8995011737089202
+      }
+    },
+    {
+      "question": "What is the primary mechanism of adaptation for bacteria to environmental changes?",
+      "context": "адаптивний (підвищується стійкість до дії чинників середовища).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8669517102615694
+      }
+    },
+    {
+      "question": "What is the term for the changes in genetic makeup that occur as a result of mutations?",
+      "context": "мутації змінюють генотип особини. вони виникають раптово й іноді надають організму значних відмінностей від вихідної форми.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8710387323943662
+      }
+    },
+    {
+      "question": "Who is credited with coining the term 'mutation' and formulating the basic principles of mutation theory?",
+      "context": "Останьому належить термін «мутація». Крім того він сформулював основні положення теорії мутацій (1901–1903):",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9162152401589021
+      }
+    },
+    {
+      "question": "What is the main difference between spontaneous and induced mutations?",
+      "context": "Причина виникнення не встановлена) та  індуковані (причиною ви-\nникнення є дія встановленого фактора — фізичного, хімічного або \nбіологічного) мутації.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375092661230541
+      }
+    },
+    {
+      "question": "What type of mutations occur in somatic cells and can only be passed on to offspring through asexual reproduction?",
+      "context": "Якщо вони виникають у соматичних клітинах —  соматичні  мутації, то \nможуть передаватися нащадкам лише за умови вегетативного розмно-\nження.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.913639733135656
+      }
+    },
+    {
+      "question": "What is the term for the changes in genetic makeup that occur as a result of mutations in different organisms?",
+      "context": "Наразі відомі мутації в усіх групах живих організмів. Існує ба-",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8823943661971831
+      }
+    },
+    {
+      "question": "What is the difference between somatic and germline mutations?",
+      "context": "Якщо вони виникають у соматичних клітинах — somatичні мутації, то могуть передаватися нащадкам лише за умови вегетативного розмноження. Если ж вони виникають у гаметах — генеративні мутації, то mogуть передаватися нащадкам за звичайного статевого розмноження.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8150234741784037
+      }
+    },
+    {
+      "question": "What is the definition of genomics?",
+      "context": "А коли зміни відбуваються на рівнях геному (зміна кількості окремих хромосом чи всього хромосомного набору), це є прикладом геномної мутації.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7444835680751174
+      }
+    },
+    {
+      "question": "What is the effect of mutagenic factors on human health?",
+      "context": "Значну загрозу як мутагени для людини можуть становити шкід-нервські звички. І тютюнопаління, і алкоголь, і наркотичні речовини є дуже сильними мутагенними факторами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8422535211267606
+      }
+    },
+    {
+      "question": "What are the different types of mutagenic factors?",
+      "context": "Фізичні (рентгенівське та інші випромінювання, ультразвук, температура тощо), хімічні (хімічні сполуки) та біологічні (віруси, токсини)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.846579476861167
+      }
+    },
+    {
+      "question": "What are the three types of mutations?",
+      "context": "типи мутацій",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229376257545271
+      }
+    },
+    {
+      "question": "What are mutagenic factors?",
+      "context": "мутагенні фактори",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8714788732394366
+      }
+    },
+    {
+      "question": "What is Hemophilia?",
+      "context": "Гемофілюя виникає внаслідок пошкодження одного з генів, що відповідають за процесз зсідання крові. Ці гени розташовані на Х-хромосомі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.71283255086072
+      }
+    },
+    {
+      "question": "What is Phenylketonuria?",
+      "context": "Фенілкетонурія виникає внаслідок пошкодження гена, розташованого на хромосомі 12. Призводить до неможливості переробки амінокислоти фенілаланіну.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7211267605633803
+      }
+    },
+    {
+      "question": "What is Daltonism?",
+      "context": "Дальтонізм виникає внаслідок пошкодження одного з трьох генів, що відповідають за синтез білка опсину, який сприймає відповідний колір. Ген синього опсину розташований на хромосомі 7, а гени червоного й зеленого — на X-хромосомі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7150821596244132
+      }
+    },
+    {
+      "question": "What is a genetic consultation?",
+      "context": "Генетичне консультування є прикладом зчепленого зі статтю генного захворювання. ",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7943661971830986
+      }
+    },
+    {
+      "question": "What is phenylketonuria?",
+      "context": "фенілкетонурія, муковісцидоз, дальтонізм, гемофілія це феніл켓онурія, муковісцидоз, далтонізм, гempoфілія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7232981220657277
+      }
+    },
+    {
+      "question": "What is the purpose of genetic counseling?",
+      "context": "для попередження спадкових захворювань створено система генетичного консультування.П",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7752766599597586
+      }
+    },
+    {
+      "question": "Кодування кольору у рослині відбувається за допомогою одного генома.",
+      "context": "Домінантний геном",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9929577464788732
+      }
+    },
+    {
+      "question": "What happens to the offspring of a cross between two plants with genotypes AA and aa?",
+      "context": "Схрестили рослину з червоними й рослину з білими пелюстками.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8631161971830986
+      }
+    },
+    {
+      "question": "What percentage of the offspring of a cross between two plants with genotypes AA and aa will have ruddy-colored flowers?",
+      "context": "Схрестили рослину з червоними й рослиnu з білими пелюстками.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8821400625978091
+      }
+    },
+    {
+      "question": "What happens to the offspring of a cross between two plants with genotypes AA and bb?",
+      "context": "Схрестили двох рослин, одна з яких має генотип ААbb , а друга — генотип ааВВ .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8579225352112676
+      }
+    },
+    {
+      "question": "What percentage of the offspring of a cross between two plants with genotypes AA and bb will be tall plants with yellow fruits?",
+      "context": "Схрестили двох рослин, одна з яких має генотип ААabb , а друга — генотип aaВВ .",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.10526315789473684,
+        "diversity_score": 0.8818075117370892
+      }
+    },
+    {
+      "question": "What happens to the offspring of a cross between two plants with genotypes AA and bb when crossed with individuals with genotype aa?",
+      "context": "Схрестили двох рослін, одна з яких має генотип ААabb , а друга — генотип aaВВ .",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.8832327297116029
+      }
+    },
+    {
+      "question": "What is the correct answer for number 11?",
+      "context": "Найменшу кількість генів серед хромосом людини містить:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8259557344064387
+      }
+    },
+    {
+      "question": "What is the value of the number of groups of recombination in drosophila?",
+      "context": "У дрозофіли в соматічних клітинах є по чотири пари хро-",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7929577464788732
+      }
+    },
+    {
+      "question": "What is the value of the number of groups of recombination in drosophila?",
+      "context": "Тому число груп зчеплення у дрозофіли дорівнює:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7980885311871228
+      }
+    },
+    {
+      "question": "What is the value of the number of groups of recombination in drosophila?",
+      "context": "Тому число груп зчеплення у дрозофіли дорівнює:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7980885311871228
+      }
+    },
+    {
+      "question": "What is the correct answer for number 10?",
+      "context": "У дрозофіли в соматичних клітинах є по чотири пари хро-",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7992957746478873
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Виявилося, що гени, які розташовані в одній хромосомі, успадkovуються разом (зчеплено).",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What type of mutations occur in somatic cells and can only be passed on to offspring through asexual reproduction?",
+      "context": "Якщо вони виникають у соматичних клітинах —  соматичні  мутації, то \nможуть передаватися нащадкам лише за умови вегетативного розмно-\nження.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.913639733135656
+      }
+    },
+    {
+      "question": "What is the correct answer for number 11?",
+      "context": "Найменшу кількість генів серед хромосом людини містить:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8259557344064387
+      }
+    },
+    {
+      "question": "What is the difference between dominant and recessive alleles?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8317683881064163
+      }
+    },
+    {
+      "question": "What is the correct answer for number 10?",
+      "context": "У дрозофіли в соматичних клітинах є по чотири пари хро-",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7992957746478873
+      }
+    }
+  ]
+}

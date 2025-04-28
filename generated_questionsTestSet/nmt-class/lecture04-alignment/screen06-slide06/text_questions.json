@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of the data consisted of legal texts?",
+      "context": "The legal texts were more than or almost two-thirds of the data",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6377840909090909
+      }
+    },
+    {
+      "question": "Which types of texts accounted for approximately 8% of the data, and what percentage did they account for in terms of words?",
+      "context": "the stories were like 8% for the news comment, 8% for the Reader's Digest",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.8006578947368421
+      }
+    },
+    {
+      "question": "What was the approximate total percentage of community-supplied localization texts in terms of sentences?",
+      "context": "The community supplied localization texts were quite substantial or 11% in total in terms of sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.676923076923077
+      }
+    },
+    {
+      "question": "Why were normal long sentences difficult to translate from the domain of these translations?",
+      "context": "they were very small less than 2% in terms of words, and the community-supplied localization texts were substantial but not substantial in terms of words",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8160714285714286
+      }
+    },
+    {
+      "question": "What was the estimated number of tokens in one of the languages?",
+      "context": "in number of tokens in one of the languages it was about 21 million tokens",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.73125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the estimated number of tokens in one of the languages?",
+      "context": "in number of tokens in one of the languages it was about 21 million tokens",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.73125
+      }
+    },
+    {
+      "question": "Which types of texts accounted for approximately 8% of the data, and what percentage did they account for in terms of words?",
+      "context": "the stories were like 8% for the news comment, 8% for the Reader's Digest",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.8006578947368421
+      }
+    },
+    {
+      "question": "What was the approximate total percentage of community-supplied localization texts in terms of sentences?",
+      "context": "The community supplied localization texts were quite substantial or 11% in total in terms of sentences",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.676923076923077
+      }
+    },
+    {
+      "question": "Why were normal long sentences difficult to translate from the domain of these translations?",
+      "context": "they were very small less than 2% in terms of words, and the community-supplied localization texts were substantial but not substantial in terms of words",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8160714285714286
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who is the head of the economics department at Unicredit Global?",
+      "context": "My name is Erik Nielsen and I'm head of the economics department at Unicredit Global.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the exception to adopting a single currency in the EU?",
+      "context": "There is also the exception of Great Britain and Denmark, which do not have to introduce the euro.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.838903743315508
+      }
+    },
+    {
+      "question": "Why was the introduction of the euro initially met with negative forecasts in Slovakia?",
+      "context": "Some forecasts were negative at the beginning.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.804945054945055
+      }
+    },
+    {
+      "question": "What was the GDP per year of the Czech Republic?",
+      "context": "The republic had 10 million inhabitants and industry was important for it. The GDP was 3,300 euros per year.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7883986928104576
+      }
+    },
+    {
+      "question": "What was the rate of economic growth in Slovakia between 2009 and 2016?",
+      "context": "The economy grew by 1.6% per year.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who is the head of the economics department at Unicredit Global?",
+      "context": "My name is Erik Nielsen and I'm head of the economics department at Unicredit Global.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the exception to adopting a single currency in the EU?",
+      "context": "There is also the exception of Great Britain and Denmark, which do not have to introduce the euro.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.838903743315508
+      }
+    },
+    {
+      "question": "What was the rate of economic growth in Slovakia between 2009 and 2016?",
+      "context": "The economy grew by 1.6% per year.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "Why was the introduction of the euro initially met with negative forecasts in Slovakia?",
+      "context": "Some forecasts were negative at the beginning.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.804945054945055
+      }
+    }
+  ]
+}

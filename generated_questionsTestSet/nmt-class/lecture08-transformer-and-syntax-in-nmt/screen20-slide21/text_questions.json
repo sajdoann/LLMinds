@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of normalizing the scores?",
+      "context": "And you normalize these scores in some way so that you account for the dimensionality of the vector representation and then you apply the normalization that we have seen many times before",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5398351648351648
+      }
+    },
+    {
+      "question": "What type of normalization is applied to the scores?",
+      "context": "the softmax normalization",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.4444444444444444
+      }
+    },
+    {
+      "question": "What problem does normalizing the scores help to solve?",
+      "context": "so that you account for the dimensionality of the vector representation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5722222222222222
+      }
+    },
+    {
+      "question": "Is the type of normalization mentioned in the document a standard practice?",
+      "context": "the softmax normalization",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5303030303030303
+      }
+    },
+    {
+      "question": "What is the context in which normalizing scores is described?",
+      "context": "And you normalize these scores in some way so that you account for the dimensionality of the vector representation and then you apply the normalization that we have seen many times before",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6132478632478633
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of normalizing the scores?",
+      "context": "And you normalize these scores in some way so that you account for the dimensionality of the vector representation and then you apply the normalization that we have seen many times before",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5398351648351648
+      }
+    },
+    {
+      "question": "What is the context in which normalizing scores is described?",
+      "context": "And you normalize these scores in some way so that you account for the dimensionality of the vector representation and then you apply the normalization that we have seen many times before",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6132478632478633
+      }
+    },
+    {
+      "question": "Is the type of normalization mentioned in the document a standard practice?",
+      "context": "the softmax normalization",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5303030303030303
+      }
+    }
+  ]
+}

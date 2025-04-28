@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the alignment function capable of?",
+      "context": "The alignment function allows us to reorder the words in any way.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.823051948051948
+      }
+    },
+    {
+      "question": "Who is Klein?",
+      "context": "Klein is the house, the house is small",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "Can any reordering be captured by the alignment function?",
+      "context": "any reordering is okay.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8368055555555556
+      }
+    },
+    {
+      "question": "What is a characteristic of Klein's house?",
+      "context": "the house is small",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7232142857142857
+      }
+    },
+    {
+      "question": "Why can the alignment function capture Klein's house?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can any reordering be captured by the alignment function?",
+      "context": "any reordering is okay.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8368055555555556
+      }
+    },
+    {
+      "question": "Who is Klein?",
+      "context": "Klein is the house, the house is small",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What is a characteristic of Klein's house?",
+      "context": "the house is small",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7232142857142857
+      }
+    }
+  ]
+}

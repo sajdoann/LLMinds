@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main steps in training a classical statistical machine translation system?",
+      "context": "I'll come back to this in a second. Okay, so here is a summary of the traditional pipeline for training classical statistical machine translation systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8605769230769231
+      }
+    },
+    {
+      "question": "How do you align parallel texts at different levels?",
+      "context": "You will align them at the level of sentences. You will align them at the level of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9111111111111111
+      }
+    },
+    {
+      "question": "What is the purpose of extracting translation units and language modul units?",
+      "context": "If it's phrases, phrases. If it's some syntactic units, some syntactic units. And the language modul is also similar.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is 'tuning' in the context of machine translation?",
+      "context": "And then you have the tables. So you have the tables for the feature functions. And you have the weights for the feature functions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "How does the system score its translations?",
+      "context": "So we'll talk about all parts of this pipeline in future lectures in more.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8612637362637363
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the main steps in training a classical statistical machine translation system?",
+      "context": "I'll come back to this in a second. Okay, so here is a summary of the traditional pipeline for training classical statistical machine translation systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8605769230769231
+      }
+    },
+    {
+      "question": "How do you align parallel texts at different levels?",
+      "context": "You will align them at the level of sentences. You will align them at the level of words.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9111111111111111
+      }
+    },
+    {
+      "question": "How does the system score its translations?",
+      "context": "So we'll talk about all parts of this pipeline in future lectures in more.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8612637362637363
+      }
+    },
+    {
+      "question": "What is the purpose of extracting translation units and language modul units?",
+      "context": "If it's phrases, phrases. If it's some syntactic units, some syntactic units. And the language modul is also similar.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

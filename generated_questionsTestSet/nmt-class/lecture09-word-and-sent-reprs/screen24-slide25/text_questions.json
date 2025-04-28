@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'hidden representation' mean in this context?",
+      "context": "which we like, which we understand",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.703125
+      }
+    },
+    {
+      "question": "What does it mean to resemble something that is 'happy to see there'?",
+      "context": "then we would say that the hidden representation is good because it resembles something that we are happy to see there.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8552631578947368
+      }
+    },
+    {
+      "question": "What does 'makes sense in some way' imply about the relationship between the representation and the desired outcome?",
+      "context": "It makes sense in some way.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8776041666666666
+      }
+    },
+    {
+      "question": "How does understanding something influence one's perception of its quality?",
+      "context": "which we like, which we understand",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "What is the relationship between being 'happy to see' something and its representation in a system?",
+      "context": "(no specific text) (implies)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'hidden representation' mean in this context?",
+      "context": "which we like, which we understand",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.703125
+      }
+    },
+    {
+      "question": "What does it mean to resemble something that is 'happy to see there'?",
+      "context": "then we would say that the hidden representation is good because it resembles something that we are happy to see there.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8552631578947368
+      }
+    },
+    {
+      "question": "How does understanding something influence one's perception of its quality?",
+      "context": "which we like, which we understand",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "What does 'makes sense in some way' imply about the relationship between the representation and the desired outcome?",
+      "context": "It makes sense in some way.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8776041666666666
+      }
+    }
+  ]
+}

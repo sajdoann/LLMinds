@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the simplified categories of errors that were used in the classification?",
+      "context": "The introduction to the classification of errors",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6354166666666666
+      }
+    },
+    {
+      "question": "Why was it decided to use a simpler way to classify errors instead of requiring syntactic knowledge?",
+      "context": "The reasoning behind the simplified classification",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What are the two main reasons why a word is considered 'bad disambiguation'?",
+      "context": "The definition of bad disambiguation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7134615384615385
+      }
+    },
+    {
+      "question": "How many categories were identified for missing words in the simplified classification?",
+      "context": "The description of missing word errors",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "What are some examples of long-range word-level errors mentioned in the document?",
+      "context": "The definition of long-range word-level error",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6979166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many categories were identified for missing words in the simplified classification?",
+      "context": "The description of missing word errors",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "Why was it decided to use a simpler way to classify errors instead of requiring syntactic knowledge?",
+      "context": "The reasoning behind the simplified classification",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What are some examples of long-range word-level errors mentioned in the document?",
+      "context": "The definition of long-range word-level error",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6979166666666667
+      }
+    }
+  ]
+}

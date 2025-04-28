@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one advantage of pre-computing processing steps?",
+      "context": "The good thing is that all these processing steps can be pre-computed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "How do the translation options change compared to the previous search?",
+      "context": "What is different is how the translation options are now constructed and they are constructed on the fly.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8142857142857143
+      }
+    },
+    {
+      "question": "Why is pre-computing processing steps considered a hard part?",
+      "context": "That's the hard part.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What can be done with the more verbose translation options in the search?",
+      "context": "So you simply use these more verbose translation options in the search.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "How does pre-computing processing steps affect the search?",
+      "context": "So you run this join of tables already in the stage when you are considering what are the translation options for a given phrase.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7663690476190477
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one advantage of pre-computing processing steps?",
+      "context": "The good thing is that all these processing steps can be pre-computed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "How do the translation options change compared to the previous search?",
+      "context": "What is different is how the translation options are now constructed and they are constructed on the fly.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8142857142857143
+      }
+    },
+    {
+      "question": "How does pre-computing processing steps affect the search?",
+      "context": "So you run this join of tables already in the stage when you are considering what are the translation options for a given phrase.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7663690476190477
+      }
+    }
+  ]
+}

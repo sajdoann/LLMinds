@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary limitation of using simple baseline machine translation evaluation methods like BLEU score for morphologically rich languages?",
+      "context": "This method will focus only on the word forms, whether you have generated the right word forms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "How does morphology affect machine translation scores in morphologically rich languages?",
+      "context": "And also if we would ignore the problems in morphology, the scores would jump higher.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7805944055944056
+      }
+    },
+    {
+      "question": "What is the implication of the BLEU score's focus on word forms for morphological richness?",
+      "context": "And obviously if you make any error in the ending, then you do not get the credit so that suddenly the whole word is counted as wrong.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8258928571428572
+      }
+    },
+    {
+      "question": "Can BLEU scores be improved by ensuring perfect word forms?",
+      "context": "So put in other words, if we ensure that our systems produce perfect word forms, they always make the right choice.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8178571428571428
+      }
+    },
+    {
+      "question": "How do BLEU scores compare to phrase-based machine translation era results?",
+      "context": "That was back then in the phrase based machine translation era.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7727272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can BLEU scores be improved by ensuring perfect word forms?",
+      "context": "So put in other words, if we ensure that our systems produce perfect word forms, they always make the right choice.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8178571428571428
+      }
+    },
+    {
+      "question": "How do BLEU scores compare to phrase-based machine translation era results?",
+      "context": "That was back then in the phrase based machine translation era.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7727272727272727
+      }
+    },
+    {
+      "question": "What is the primary limitation of using simple baseline machine translation evaluation methods like BLEU score for morphologically rich languages?",
+      "context": "This method will focus only on the word forms, whether you have generated the right word forms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.83125
+      }
+    }
+  ]
+}

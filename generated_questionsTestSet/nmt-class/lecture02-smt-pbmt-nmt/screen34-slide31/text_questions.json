@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What were the independence assumptions made in the approach?",
+      "context": "The text that explains what went wrong with the approach",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "Why was it incorrect to translate each puzzle piece without considering its surroundings?",
+      "context": "The explanation of why the independence assumption is flawed",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7896634615384616
+      }
+    },
+    {
+      "question": "How were the input puzzle pieces reassembled into a cohesive whole?",
+      "context": "The description of how the target side language model works",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8320707070707071
+      }
+    },
+    {
+      "question": "What role does the source language model play in this approach?",
+      "context": "The explanation of how the language models work together",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7911931818181819
+      }
+    },
+    {
+      "question": "Why is the independence assumption incorrect according to the text?",
+      "context": "The implication that the independence assumption is flawed",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7420634920634921
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What were the independence assumptions made in the approach?",
+      "context": "The text that explains what went wrong with the approach",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What role does the source language model play in this approach?",
+      "context": "The explanation of how the language models work together",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7911931818181819
+      }
+    },
+    {
+      "question": "Why was it incorrect to translate each puzzle piece without considering its surroundings?",
+      "context": "The explanation of why the independence assumption is flawed",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7896634615384616
+      }
+    },
+    {
+      "question": "Why is the independence assumption incorrect according to the text?",
+      "context": "The implication that the independence assumption is flawed",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7420634920634921
+      }
+    }
+  ]
+}

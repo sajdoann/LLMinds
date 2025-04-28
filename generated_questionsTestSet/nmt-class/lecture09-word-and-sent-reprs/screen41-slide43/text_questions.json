@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the meaning of the sentence 'so what is the meaning of the meaning'?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.53125
+      }
+    },
+    {
+      "question": "How do semantic representations on the internet relate to the semantic segmentation of pictures?",
+      "context": "The explanation of semantic representation in the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6116071428571428
+      }
+    },
+    {
+      "question": "What is the purpose of labeling each pixel in a picture with a class label?",
+      "context": "The description of how pictures are labeled",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "How do people searching for semantic representations on the internet typically use them?",
+      "context": "The explanation of how to use semantic representations in pictures",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7221153846153846
+      }
+    },
+    {
+      "question": "What is the relationship between semantic representations and understanding pictures, according to the author?",
+      "context": "The conclusion of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of labeling each pixel in a picture with a class label?",
+      "context": "The description of how pictures are labeled",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "How do people searching for semantic representations on the internet typically use them?",
+      "context": "The explanation of how to use semantic representations in pictures",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7221153846153846
+      }
+    },
+    {
+      "question": "How do semantic representations on the internet relate to the semantic segmentation of pictures?",
+      "context": "The explanation of semantic representation in the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6116071428571428
+      }
+    }
+  ]
+}

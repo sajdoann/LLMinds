@@ -1,0 +1,1 @@
+ So how does the self-attention work? We want to aggregate the information from an input which is arbitrarily long into a fixed size vector and we want this to be in a trainable way so that the network itself can decide what is important and what is not.

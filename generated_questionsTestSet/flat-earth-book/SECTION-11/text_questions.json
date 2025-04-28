@@ -1,0 +1,259 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the composition of the Earth's landmass?",
+      "context": "Chemical analysis proves to us the important fact that the great bulk of the Earth—meaning thereby the land as distinct from the waters—is composed of metallic oxides or metals in combination with oxygen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7490079365079365
+      }
+    },
+    {
+      "question": "What is believed to have caused the formation of the irregular condition of the Earth's surface?",
+      "context": "That such an incandescent molten state of a great portion of the lower parts of the Earth still exists is a matter of certainty; and there is evidence that the heat thus internally generated is gradually increasing.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8047161172161172
+      }
+    },
+    {
+      "question": "What is the temperature increase rate per unit depth in the Earth's interior?",
+      "context": "Hence it results that at a depth of about twelve miles from the surface, we should be on the verge of an incandescent mass.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7792508417508418
+      }
+    },
+    {
+      "question": "What is the rate at which temperature increases with depth in the Earth's interior according to Professor Gaussen?",
+      "context": "it has been shown, by numerous and often-repeated experiments, that the increase of temperature is on average one degree (Fahrenheit) for about every 545 feet.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.805359477124183
+      }
+    },
+    {
+      "question": "What is the general cause of volcanic eruptions according to the text?",
+      "context": "for these and many less striking phenomena, we must seek for some great and general cause, such only as the central heat of the earth affords us.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7931397306397306
+      }
+    },
+    {
+      "question": "How does temperature increase with depth in the earth according to Sir Charles Lyell?",
+      "context": "* * * An increase of heat is always experienced as we descend into the interior of the earth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8136243386243387
+      }
+    },
+    {
+      "question": "What was the temperature increase rate measured in these shafts?",
+      "context": "The temperature was found to rise at the rate of 1° Fah. for every increase of depth of from 65 to 70 feet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8070175438596492
+      }
+    },
+    {
+      "question": "Who first mentioned that terrestrial heat increases with increasing depth?",
+      "context": "The observations made by M. Arago, in 1821, threw great light on the origin of thermal springs, and on the establishment of the law, that terrestrial heat increases with increasing depth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9115384615384615
+      }
+    },
+    {
+      "question": "What causes hot springs?",
+      "context": "The cause of hot springs is this: waters which are more remote from the subterranean fire are colder, whilst those which rise nearer the fire, are heated by it, and bring with them to the surface which we inhabit, an insupportable degree of heat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8410493827160495
+      }
+    },
+    {
+      "question": "What was the result of the eruption of Vesuvius in A.D. 79?",
+      "context": "In the eruption of Vesuvius, A.D. 79, the scoriæ and ashes vomited forth far exceeded the entire bulk of the mountain;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8034313725490196
+      }
+    },
+    {
+      "question": "What type of eruptions did Sumbawa experience in 1815?",
+      "context": "Sumbawa, in 1815, during the most terrible eruption on record, sent its ashes as far as Java, a distance of three hundred miles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8434343434343434
+      }
+    },
+    {
+      "question": "Why is Vesuvius' activity affecting nearby volcanic vents?",
+      "context": "Since Vesuvius has resumed his activity, the numerous volcanic vents on the other side of the bay have sunk into comparative inactivity;",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9069444444444444
+      }
+    },
+    {
+      "question": "What is believed to be the reason for the earth's internal fires?",
+      "context": "The earth contains within it a mass of heated material; nay, it is a heated and incandescent body, habitable only because surrounded with a cool crust—the crust being to it a mere shell, within which the vast internal fires are securely inclosed:",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7907011289364231
+      }
+    },
+    {
+      "question": "What surrounds the heated internal body of the Earth?",
+      "context": "The earth contains within it a mass of heated material; nay, it is a heated and incandescent body, habitable only because surrounded with a cool crust—the crust being to it a mere shell, within which the vast internal fires are securely inclosed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7922794117647058
+      }
+    },
+    {
+      "question": "Why does the Earth's combustion not extend indefinitely?",
+      "context": "Wherever a fire is surrounded with heterogeneous materials—some highly combustible and others partially and indirectly combustible—it is not possible for it to remain continually in the same condition nor to diminish in extent and intensity, it must increase and extend itself.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8615196078431373
+      }
+    },
+    {
+      "question": "What fuels exist within the Earth's interior?",
+      "context": "The products of volcanic action being chiefly carbon in combination with hydrogen[122] and oxygen, prove also that these carbon compounds already exist in a state of combustion, and that as such immense quantities of the same fuel still exist",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7901945724526369
+      }
+    },
+    {
+      "question": "Why are volcanoes considered safety-valves?",
+      "context": "Every volcano is a safety-valve, ready to relieve the pressure from within when that pressure rises to a certain degree of intensity;",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8865497076023392
+      }
+    },
+    {
+      "question": "What type of chemical action is described as starting in the lower strata of combustible matter?",
+      "context": "Should such an action commence, knowing, as we do, that the rocks and minerals of the earth are but oxides of inflammable bases, and that the affinities of these bases are greatly weakened and almost suspended in the presence of highly heated carbon.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8361952861952862
+      }
+    },
+    {
+      "question": "What would happen to the whole earth if such a chemical action started?",
+      "context": "[...would rapidly decompose, volatilise, and burst into one vast indescribable, annihilating conflagration!]",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8903133903133903
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What causes hot springs?",
+      "context": "The cause of hot springs is this: waters which are more remote from the subterranean fire are colder, whilst those which rise nearer the fire, are heated by it, and bring with them to the surface which we inhabit, an insupportable degree of heat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8410493827160495
+      }
+    },
+    {
+      "question": "Why is Vesuvius' activity affecting nearby volcanic vents?",
+      "context": "Since Vesuvius has resumed his activity, the numerous volcanic vents on the other side of the bay have sunk into comparative inactivity;",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9069444444444444
+      }
+    },
+    {
+      "question": "Why are volcanoes considered safety-valves?",
+      "context": "Every volcano is a safety-valve, ready to relieve the pressure from within when that pressure rises to a certain degree of intensity;",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8865497076023392
+      }
+    },
+    {
+      "question": "What is believed to be the reason for the earth's internal fires?",
+      "context": "The earth contains within it a mass of heated material; nay, it is a heated and incandescent body, habitable only because surrounded with a cool crust—the crust being to it a mere shell, within which the vast internal fires are securely inclosed:",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7907011289364231
+      }
+    }
+  ]
+}

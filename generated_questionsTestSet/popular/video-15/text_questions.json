@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "In welchem Stift befindet sich das Benediktiner-Stift Atmund?",
+      "context": "Es geht um ein Benediktiner Stift. Auch dieses Stift befindet sich in der Steiermark, also dem Ort, wo Graz liegt, und zwar im Norden der Steiermark, in der sogenannten Obersteiermark.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9278846153846154
+      }
+    },
+    {
+      "question": "Was ist das älteste Buch in deutscher Sprache?",
+      "context": "Der Abrogans ist das älteste Buch in deutscher Sprache. Der Abrogans, ein lateinisches Wort, ist eine mehr als 1200 Jahre alte Handschrift.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8986111111111111
+      }
+    },
+    {
+      "question": "When did the Abrogans originate?",
+      "context": "Die Urschrift, also das Original des Abrogans dürfte im bayerischen Freising um das Jahr 770 entstanden sein.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.85625
+      }
+    },
+    {
+      "question": "What was the purpose of organizing words in the Abrogans?",
+      "context": "Es musste auch nach dem zweiten Buchstaben sortiert werden, also A, B, A, C, A, D und so weiter. Und es musste auch immer wieder zwischennotiert werden.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8324514991181657
+      }
+    },
+    {
+      "question": "Who is believed to have commissioned the Abrogans?",
+      "context": "Es ist möglich, dass die Mönhe im Auftrag Karls des Großen arbeiteten, der damals über das Frankenreich herrschte.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7646604938271605
+      }
+    },
+    {
+      "question": "Who is believed to have commissioned the Admonter Fund?",
+      "context": "Es ist möglich, dass die Mönche im Auftrag Karls des Großen arbeiteten, der damals über das Frankenreich herrschte.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7685185185185186
+      }
+    },
+    {
+      "question": "What was the strategic plan of Karl der Große?",
+      "context": "denn eine vereinheitliche Sprache und Schrift könnten, konnten Indirigentschaft erleichtern.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "What was the goal of creating a common language and script?",
+      "context": "Er ließ Musterübersetzungen vom Lateinischen ins Deutsche anfertigen und war erpicht darauf, dass Bildung verbreitet wurde.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8847853535353536
+      }
+    },
+    {
+      "question": "What is believed to be the purpose of the Admonter Fund?",
+      "context": "Es kann also durchaus sein, dass dieser Admonter Fund ein Wörterbuch war, das im Auftrag Karls des Großen erstellt wurde.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.788888888888889
+      }
+    },
+    {
+      "question": "What was created by the Mönche before the year 1200?",
+      "context": "Ich bin keine Mittelalter-Expertin, aber wenn ich mir vorstelle, wie die Mönche vor mehr als 1200 Jahren in mühsamster Arbeit eine Art ersten frühmittelalterlichen Langenscheid verfassten, dann werde ich richtig gerührt.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8863346104725415
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "In welchem Stift befindet sich das Benediktiner-Stift Atmund?",
+      "context": "Es geht um ein Benediktiner Stift. Auch dieses Stift befindet sich in der Steiermark, also dem Ort, wo Graz liegt, und zwar im Norden der Steiermark, in der sogenannten Obersteiermark.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9278846153846154
+      }
+    },
+    {
+      "question": "What was the goal of creating a common language and script?",
+      "context": "Er ließ Musterübersetzungen vom Lateinischen ins Deutsche anfertigen und war erpicht darauf, dass Bildung verbreitet wurde.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8847853535353536
+      }
+    },
+    {
+      "question": "What was the purpose of organizing words in the Abrogans?",
+      "context": "Es musste auch nach dem zweiten Buchstaben sortiert werden, also A, B, A, C, A, D und so weiter. Und es musste auch immer wieder zwischennotiert werden.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8324514991181657
+      }
+    },
+    {
+      "question": "Who is believed to have commissioned the Abrogans?",
+      "context": "Es ist möglich, dass die Mönhe im Auftrag Karls des Großen arbeiteten, der damals über das Frankenreich herrschte.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7646604938271605
+      }
+    }
+  ]
+}

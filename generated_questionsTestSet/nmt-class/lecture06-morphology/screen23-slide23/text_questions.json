@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What grammatical case can be translated to the sequence of an adjective and noun in English?",
+      "context": "You will be learning that you can translate either accusative or dative",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.5703125
+      }
+    },
+    {
+      "question": "What is the benefit of translating accusative or dative to the sequence of an adjective and noun in English?",
+      "context": "So the benefit...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6838235294117647
+      }
+    },
+    {
+      "question": "What grammatical case can be used as a direct object in English?",
+      "context": "You will be learning that you can translate either accusative or dative",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How does the translation of accusative or dative to the sequence of an adjective and noun in English relate to the grammar of English?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the purpose of learning about translating accusative or dative to the sequence of an adjective and noun in English?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7171052631578947
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What grammatical case can be used as a direct object in English?",
+      "context": "You will be learning that you can translate either accusative or dative",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the purpose of learning about translating accusative or dative to the sequence of an adjective and noun in English?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7171052631578947
+      }
+    },
+    {
+      "question": "What is the benefit of translating accusative or dative to the sequence of an adjective and noun in English?",
+      "context": "So the benefit...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6838235294117647
+      }
+    },
+    {
+      "question": "How does the translation of accusative or dative to the sequence of an adjective and noun in English relate to the grammar of English?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

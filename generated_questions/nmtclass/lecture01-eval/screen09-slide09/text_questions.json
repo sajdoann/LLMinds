@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using direct assessment for fluency?",
+      "context": "fluency used less frequently and only used to break ties",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7819444444444444
+      }
+    },
+    {
+      "question": "How does the fluency assessment differ from the adequacy assessment in terms of scoring?",
+      "context": "same single slider, but only one sentence is shown",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "What would happen if the fluency assessment were relied upon solely for evaluation?",
+      "context": "systems producing fluent sentences would win regardless of source or reference",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7893356643356644
+      }
+    },
+    {
+      "question": "Why is the fluency assessment used as a complement to the adequacy assessment?",
+      "context": "to provide additional information when systems score similarly in adequacy",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What would be the outcome if two systems scored around the same value in adequacy, and the fluency assessment was used to break ties?",
+      "context": "one of the systems would win due to its fluency score",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7840909090909092
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of using direct assessment for fluency?",
+      "context": "fluency used less frequently and only used to break ties",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7819444444444444
+      }
+    },
+    {
+      "question": "How does the fluency assessment differ from the adequacy assessment in terms of scoring?",
+      "context": "same single slider, but only one sentence is shown",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "What would be the outcome if two systems scored around the same value in adequacy, and the fluency assessment was used to break ties?",
+      "context": "one of the systems would win due to its fluency score",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7840909090909092
+      }
+    },
+    {
+      "question": "What would happen if the fluency assessment were relied upon solely for evaluation?",
+      "context": "systems producing fluent sentences would win regardless of source or reference",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7893356643356644
+      }
+    }
+  ]
+}

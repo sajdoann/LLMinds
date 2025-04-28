@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the topic of the first lecture?",
+      "context": "Good morning, welcome to the class on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5839285714285715
+      }
+    },
+    {
+      "question": "What subject will be covered in the first lecture?",
+      "context": "The first lecture is on evaluating machine translation quality.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "How many lectures are mentioned to be discussed in total?",
+      "context": "Good morning, welcome to the class on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the purpose of evaluating machine translation quality?",
+      "context": "The first lecture is on evaluating machine translation quality.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "How can one evaluate the quality of a machine translation?",
+      "context": "The first lecture is on evaluating machine translation quality.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5791666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many lectures are mentioned to be discussed in total?",
+      "context": "Good morning, welcome to the class on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the purpose of evaluating machine translation quality?",
+      "context": "The first lecture is on evaluating machine translation quality.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5416666666666667
+      }
+    },
+    {
+      "question": "What subject will be covered in the first lecture?",
+      "context": "The first lecture is on evaluating machine translation quality.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5416666666666667
+      }
+    }
+  ]
+}

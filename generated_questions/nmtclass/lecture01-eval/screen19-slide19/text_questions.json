@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How do you rank sentences that have bad wording at different places?",
+      "context": "Sentences can be bad at different places",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9717261904761905
+      }
+    },
+    {
+      "question": "Do people use a relative ranking of just a part of a sentence when evaluating document incomparability?",
+      "context": "Relative ranking of just a part of a sentence is used",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9226190476190477
+      }
+    },
+    {
+      "question": "What is the simplification provided for annotators when only highlighting a phrase in a sentence?",
+      "context": "Highlighting a phrase simplifies annotation process",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9255952380952381
+      }
+    },
+    {
+      "question": "Will using only highlighted phrases notice issues like lost verb conjugation?",
+      "context": "Loss of verb conjugation may not be noticed",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.9573863636363636
+      }
+    },
+    {
+      "question": "What is the goal of the sentence-level evaluation task?",
+      "context": "Evaluation goal is to assess highlighted phrases only",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.921875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Do people use a relative ranking of just a part of a sentence when evaluating document incomparability?",
+      "context": "Relative ranking of just a part of a sentence is used",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9226190476190477
+      }
+    },
+    {
+      "question": "How do you rank sentences that have bad wording at different places?",
+      "context": "Sentences can be bad at different places",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.9717261904761905
+      }
+    },
+    {
+      "question": "What is the simplification provided for annotators when only highlighting a phrase in a sentence?",
+      "context": "Highlighting a phrase simplifies annotation process",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9255952380952381
+      }
+    }
+  ]
+}

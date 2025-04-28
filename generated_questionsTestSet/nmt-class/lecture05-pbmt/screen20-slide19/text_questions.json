@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the document?",
+      "context": "It will tell us which words should we use.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How does the final output text relate to the initial hypothesis?",
+      "context": "the path through the search graph back to the initial hypothesis is then the final full output text of the target sentence, the best scoring sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8636904761904762
+      }
+    },
+    {
+      "question": "What happens when this process completes?",
+      "context": "He does not go home.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9791666666666666
+      }
+    },
+    {
+      "question": "Is the document related to natural language processing or machine learning?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9318181818181819
+      }
+    },
+    {
+      "question": "How does the scoring sentence relate to the initial hypothesis in terms of direction?",
+      "context": "the best scoring sentence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7788461538461539
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the document related to natural language processing or machine learning?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9318181818181819
+      }
+    },
+    {
+      "question": "How does the final output text relate to the initial hypothesis?",
+      "context": "the path through the search graph back to the initial hypothesis is then the final full output text of the target sentence, the best scoring sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8636904761904762
+      }
+    },
+    {
+      "question": "How does the scoring sentence relate to the initial hypothesis in terms of direction?",
+      "context": "the best scoring sentence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7788461538461539
+      }
+    }
+  ]
+}

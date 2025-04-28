@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the topic of the speaker's speech?",
+      "context": "The topic is, in the broadest sense, the car and everything that has to do with it, parking, repairs and so on, including refuelling, and I'm going to report on a technology project that is currently underway at Google.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8073593073593074
+      }
+    },
+    {
+      "question": "What is Google working on in terms of car technology?",
+      "context": "They are trying to develop self-driving or so-called autonomous cars, which should make driving easier for us in the future or take it off our hands completely.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.867948717948718
+      }
+    },
+    {
+      "question": "What is Google X?",
+      "context": "It's called Google X.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Why must the human driver always retain full control of an autonomous vehicle?",
+      "context": "The decisive factor is that, at the end of the day, the human driver must always retain full control of the vehicle.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8393665158371041
+      }
+    },
+    {
+      "question": "What is required for autonomous cars to be allowed to drive?",
+      "context": "there must always be two people with a driving licence in the car",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7788461538461539
+      }
+    },
+    {
+      "question": "Why do some countries have specific routes where autonomous cars are allowed to drive?",
+      "context": "because, at the end of the day, the human driver must always retain full control of the vehicle.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333333
+      }
+    },
+    {
+      "question": "What is the goal of engineers designing autonomous cars?",
+      "context": "I think the engineers would prefer the cars to drive themselves anyway",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7988215488215489
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is Google working on in terms of car technology?",
+      "context": "They are trying to develop self-driving or so-called autonomous cars, which should make driving easier for us in the future or take it off our hands completely.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.867948717948718
+      }
+    },
+    {
+      "question": "Why do some countries have specific routes where autonomous cars are allowed to drive?",
+      "context": "because, at the end of the day, the human driver must always retain full control of the vehicle.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333333
+      }
+    },
+    {
+      "question": "Why must the human driver always retain full control of an autonomous vehicle?",
+      "context": "The decisive factor is that, at the end of the day, the human driver must always retain full control of the vehicle.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8393665158371041
+      }
+    },
+    {
+      "question": "What is the goal of engineers designing autonomous cars?",
+      "context": "I think the engineers would prefer the cars to drive themselves anyway",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7988215488215489
+      }
+    }
+  ]
+}

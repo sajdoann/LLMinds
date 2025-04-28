@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What was one of the main problems with the current phrase-based extraction system?",
+      "context": "So the problem is that in your normal phrase-based extraction you already have a large number of phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6597222222222222
+      }
+    },
+    {
+      "question": "Why were there too many extractable lures in the current system?",
+      "context": "And now you are also adding many more by subtracting varying shorter ones from the bigger ones. So the number of extractable lures is too high.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8127272727272727
+      }
+    },
+    {
+      "question": "What was one of the limitations on the size of phrases that could be extracted?",
+      "context": "So these constants that were used to limit it were very arbitrary. So the initial phrases were extracted as normal up to 10 words in a row, but the rules that were created were always limited to have at most six symbols.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7782634032634033
+      }
+    },
+    {
+      "question": "Why was there a need for hypothesis recombination in the new type of search?",
+      "context": "The language model is a non-local feature, so it was more difficult to integrate it into this new type of search. But we'll talk about it only in a second.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.746031746031746
+      }
+    },
+    {
+      "question": "What was one of the reservations people had about the new type of search?",
+      "context": "So one reservation that people always had is that this is not a proper syntactic model, so why don't we move to proper syntax where the non-terminals have some linguistic meaning and where there is some restriction on what can be plugged",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7407738095238094
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was one of the main problems with the current phrase-based extraction system?",
+      "context": "So the problem is that in your normal phrase-based extraction you already have a large number of phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6597222222222222
+      }
+    },
+    {
+      "question": "Why were there too many extractable lures in the current system?",
+      "context": "And now you are also adding many more by subtracting varying shorter ones from the bigger ones. So the number of extractable lures is too high.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8127272727272727
+      }
+    },
+    {
+      "question": "What was one of the limitations on the size of phrases that could be extracted?",
+      "context": "So these constants that were used to limit it were very arbitrary. So the initial phrases were extracted as normal up to 10 words in a row, but the rules that were created were always limited to have at most six symbols.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7782634032634033
+      }
+    },
+    {
+      "question": "Why was there a need for hypothesis recombination in the new type of search?",
+      "context": "The language model is a non-local feature, so it was more difficult to integrate it into this new type of search. But we'll talk about it only in a second.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.746031746031746
+      }
+    },
+    {
+      "question": "What was one of the reservations people had about the new type of search?",
+      "context": "So one reservation that people always had is that this is not a proper syntactic model, so why don't we move to proper syntax where the non-terminals have some linguistic meaning and where there is some restriction on what can be plugged",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7407738095238094
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the 'implementation' section in this document?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How can you tell that this is a coding assignment, and what kind of implementation is being asked for?",
+      "context": "The phrase 'implementation' itself",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "What programming language is implied to be used based on the fact that it's a 'favorite language'?",
+      "context": "The phrase 'your favorite language'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7941176470588236
+      }
+    },
+    {
+      "question": "Is there any specific functionality or requirement mentioned in this document?",
+      "context": "None explicitly stated, but it's an implementation assignment",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8551136363636364
+      }
+    },
+    {
+      "question": "Can you infer the type of problem or challenge being presented in this assignment based on the context?",
+      "context": "The fact that it's a coding assignment and the phrase 'if you do it...'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8223981900452488
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any specific functionality or requirement mentioned in this document?",
+      "context": "None explicitly stated, but it's an implementation assignment",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8551136363636364
+      }
+    },
+    {
+      "question": "Can you infer the type of problem or challenge being presented in this assignment based on the context?",
+      "context": "The fact that it's a coding assignment and the phrase 'if you do it...'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8223981900452488
+      }
+    },
+    {
+      "question": "How can you tell that this is a coding assignment, and what kind of implementation is being asked for?",
+      "context": "The phrase 'implementation' itself",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "What programming language is implied to be used based on the fact that it's a 'favorite language'?",
+      "context": "The phrase 'your favorite language'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7941176470588236
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the IBM Model 1 rely on for its lexical translation?",
+      "context": "So the IBM Model 1 is a generative model that covers the first step of the translation, of the word-based translation. And it only relies",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do you calculate the probability of the English aligned to the given source French?",
+      "context": "The probability of the English aligned to the given source French is this. is the product of the lexical probabilities in the alignment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8389423076923077
+      }
+    },
+    {
+      "question": "What happens when you normalize out the null position in the language?",
+      "context": "That is this one more possible alignment point or target point of the alignment. So for every word and there is le target words you are deciding where you aligned it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7891414141414141
+      }
+    },
+    {
+      "question": "What is the purpose of the alignment function in the IBM Model 1?",
+      "context": "And we also define the alignment between these source and target words using the alignment function. So if we know the alignment, we define the IBM Model 1",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7460227272727273
+      }
+    },
+    {
+      "question": "What is the relationship between the position of words and the calculation of translation probabilities?",
+      "context": "The positions are only used within the alignment function to like see which words are at which positions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.79375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the IBM Model 1 rely on for its lexical translation?",
+      "context": "So the IBM Model 1 is a generative model that covers the first step of the translation, of the word-based translation. And it only relies",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do you calculate the probability of the English aligned to the given source French?",
+      "context": "The probability of the English aligned to the given source French is this. is the product of the lexical probabilities in the alignment.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8389423076923077
+      }
+    },
+    {
+      "question": "What is the purpose of the alignment function in the IBM Model 1?",
+      "context": "And we also define the alignment between these source and target words using the alignment function. So if we know the alignment, we define the IBM Model 1",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7460227272727273
+      }
+    },
+    {
+      "question": "What happens when you normalize out the null position in the language?",
+      "context": "That is this one more possible alignment point or target point of the alignment. So for every word and there is le target words you are deciding where you aligned it.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7891414141414141
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of creating a fixed-size dictionary from token types and frequencies?",
+      "context": "are broken into smaller parts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8160714285714286
+      }
+    },
+    {
+      "question": "How are longer words or unknown words treated in the dictionary construction process?",
+      "context": "these units of themselves by themselves should also be like the most",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7178030303030303
+      }
+    },
+    {
+      "question": "What is the method used to construct the dictionary, and what is being replaced?",
+      "context": "So you repeatedly identify which character pairs are often seen together.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "What happens when a new unit replaces the most frequent character pair in the dictionary construction process?",
+      "context": "So given a dictionary of token types and frequencies and their frequencies, you are trying to come up with a fixed size dictionary",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8296875
+      }
+    },
+    {
+      "question": "What is the purpose of breaking down words into units in the dictionary construction process?",
+      "context": "these units of themselves by themselves should also be like the most",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.685064935064935
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of creating a fixed-size dictionary from token types and frequencies?",
+      "context": "are broken into smaller parts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8160714285714286
+      }
+    },
+    {
+      "question": "What happens when a new unit replaces the most frequent character pair in the dictionary construction process?",
+      "context": "So given a dictionary of token types and frequencies and their frequencies, you are trying to come up with a fixed size dictionary",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8296875
+      }
+    },
+    {
+      "question": "How are longer words or unknown words treated in the dictionary construction process?",
+      "context": "these units of themselves by themselves should also be like the most",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7178030303030303
+      }
+    },
+    {
+      "question": "What is the method used to construct the dictionary, and what is being replaced?",
+      "context": "So you repeatedly identify which character pairs are often seen together.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ]
+}

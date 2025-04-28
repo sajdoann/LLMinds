@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Can multiple words in the target language map to the same position in the source language?",
+      "context": "Then it also can produce one-to-many translations",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9148351648351648
+      }
+    },
+    {
+      "question": "Why does the function not have to be a bijection?",
+      "context": "So this one-to-many is easily captured.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8666666666666667
+      }
+    },
+    {
+      "question": "What type of translation does the function produce?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What does the word 'bijection' refer to in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What is the purpose of capturing one-to-many translations?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can multiple words in the target language map to the same position in the source language?",
+      "context": "Then it also can produce one-to-many translations",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9148351648351648
+      }
+    },
+    {
+      "question": "What is the purpose of capturing one-to-many translations?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "Why does the function not have to be a bijection?",
+      "context": "So this one-to-many is easily captured.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8666666666666667
+      }
+    },
+    {
+      "question": "What does the word 'bijection' refer to in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    }
+  ]
+}

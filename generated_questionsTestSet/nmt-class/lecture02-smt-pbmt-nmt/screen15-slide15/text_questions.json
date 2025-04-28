@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What do we use to calculate the probability of a trigram?",
+      "context": "The way we do it",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6431818181818182
+      }
+    },
+    {
+      "question": "How do we find all the triples of words in a text?",
+      "context": "we search for all the triples of words, all the trigrams from a text",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What happens to the count of each trigram after finding it?",
+      "context": "each of them, and we divide it by the number of occurrences of the antecedent of the history",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.729020979020979
+      }
+    },
+    {
+      "question": "Where is the word at the beginning of the n-gram located?",
+      "context": "the words at the beginning of the n-gram",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What do we divide each trigram's count by to calculate its probability?",
+      "context": "the number of occurrences of the antecedent of the history",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where is the word at the beginning of the n-gram located?",
+      "context": "the words at the beginning of the n-gram",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "How do we find all the triples of words in a text?",
+      "context": "we search for all the triples of words, all the trigrams from a text",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What do we divide each trigram's count by to calculate its probability?",
+      "context": "the number of occurrences of the antecedent of the history",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "What happens to the count of each trigram after finding it?",
+      "context": "each of them, and we divide it by the number of occurrences of the antecedent of the history",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.729020979020979
+      }
+    }
+  ]
+}

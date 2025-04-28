@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the benefits of using a reverse translation approach when collecting parallel data?",
+      "context": "If you have less than a million, less than half a million parallel sentences",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.752435064935065
+      }
+    },
+    {
+      "question": "When is the reverse translation trick still helpful to use?",
+      "context": "If you have about one million",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7291666666666667
+      }
+    },
+    {
+      "question": "What happens when there are two million parallel sentences?",
+      "context": "from two million of parallel sentences",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "Under what condition does the reverse translation trick lose its benefits?",
+      "context": "If you are also collecting real parallel data, then very soon there is not much benefit",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8394886363636364
+      }
+    },
+    {
+      "question": "What is a more favorable scenario for using this approach?",
+      "context": "(no specific context mentioned)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when there are two million parallel sentences?",
+      "context": "from two million of parallel sentences",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "Under what condition does the reverse translation trick lose its benefits?",
+      "context": "If you are also collecting real parallel data, then very soon there is not much benefit",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8394886363636364
+      }
+    },
+    {
+      "question": "When is the reverse translation trick still helpful to use?",
+      "context": "If you have about one million",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7291666666666667
+      }
+    }
+  ]
+}

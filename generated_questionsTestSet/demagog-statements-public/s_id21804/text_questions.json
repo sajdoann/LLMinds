@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Was the minister's answer about whether the payment would be counted from a clean or dirty income clear?",
+      "context": "The original statement from Dáša Šamanová about the minister's response",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8562091503267975
+      }
+    },
+    {
+      "question": "What was the specific amount of the one-time payment mentioned in the press conference?",
+      "context": "The part of the document that mentions the payment amount",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "How did the minister's answer change over time, and when was the correction made?",
+      "context": "The part of the document that explains the correction made by Mariana Jurečka",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7176573426573426
+      }
+    },
+    {
+      "question": "What is the difference between 'clean' and 'dirty' income, as mentioned in the context?",
+      "context": "The part of the document that defines 'clean' and 'dirty' income",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7413461538461539
+      }
+    },
+    {
+      "question": "Why did the minister's initial answer seem ambiguous to some readers, and what was the reason for the correction?",
+      "context": "The introductory text that sets up the question",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7573529411764706
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the specific amount of the one-time payment mentioned in the press conference?",
+      "context": "The part of the document that mentions the payment amount",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "Was the minister's answer about whether the payment would be counted from a clean or dirty income clear?",
+      "context": "The original statement from Dáša Šamanová about the minister's response",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8562091503267975
+      }
+    },
+    {
+      "question": "What is the difference between 'clean' and 'dirty' income, as mentioned in the context?",
+      "context": "The part of the document that defines 'clean' and 'dirty' income",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7413461538461539
+      }
+    },
+    {
+      "question": "Why did the minister's initial answer seem ambiguous to some readers, and what was the reason for the correction?",
+      "context": "The introductory text that sets up the question",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7573529411764706
+      }
+    }
+  ]
+}

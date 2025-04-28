@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What position did the colleague attach the chest mic to his body?",
+      "context": "So here is an illustration of what a colleague of mine did when he was presenting in one of our test sessions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "How did this position affect the sound volume and clarity during the presentation?",
+      "context": "And this distance, like talking in the wrong direction, has decreased the sound volume and the clarity of the sound.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9114583333333334
+      }
+    },
+    {
+      "question": "What was the consequence of the colleague's action on his presentation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "Why do you think the colleague attached the mic in this way?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9318181818181819
+      }
+    },
+    {
+      "question": "What advice can be inferred for a presenter to improve their audio quality?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9711538461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What position did the colleague attach the chest mic to his body?",
+      "context": "So here is an illustration of what a colleague of mine did when he was presenting in one of our test sessions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What advice can be inferred for a presenter to improve their audio quality?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9711538461538461
+      }
+    },
+    {
+      "question": "What was the consequence of the colleague's action on his presentation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "Why do you think the colleague attached the mic in this way?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9318181818181819
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What year was David Chang involved with this project?",
+      "context": "It's due to David Chang in 2005",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8492063492063492
+      }
+    },
+    {
+      "question": "How does this model handle gaps in phrases?",
+      "context": "So it will allow to translate the English do not something into no something pa",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7879464285714286
+      }
+    },
+    {
+      "question": "What is the difference between this approach and phrase-based approaches?",
+      "context": "But if you decide to put a cat there, do not cat, then the model would happily translate it as nšapa.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.756547619047619
+      }
+    },
+    {
+      "question": "What is preserved in the target language when the input sentence has a good grammatical structure?",
+      "context": "So for good input this is not a problem.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What are the limitations of using this model for validating sentences with grammatical structures?",
+      "context": "It only allows to circumfix the verb with something but if you decide to put if you put a cat there, do not cat",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7570488721804511
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What year was David Chang involved with this project?",
+      "context": "It's due to David Chang in 2005",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8492063492063492
+      }
+    },
+    {
+      "question": "What is preserved in the target language when the input sentence has a good grammatical structure?",
+      "context": "So for good input this is not a problem.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "How does this model handle gaps in phrases?",
+      "context": "So it will allow to translate the English do not something into no something pa",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7879464285714286
+      }
+    }
+  ]
+}

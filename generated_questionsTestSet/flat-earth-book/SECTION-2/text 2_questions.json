@@ -1,0 +1,182 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected outcome when a ball is thrown upwards on a moving ship?",
+      "context": "The ball being thrown upwards in the direction A C, and the vessel moving from A to B, will cause it to pass in the direction A D, arriving at D when the vessel reaches B; the two forces[66] having expended themselves when the ball arrives at D, it will begin to descend by the force of gravity in the direction D B H",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6641346153846154
+      }
+    },
+    {
+      "question": "Why does a ball thrown upwards on a moving ship eventually fall behind the vessel?",
+      "context": "To bring the ball from D to S two forces would be required, as D H and D W; but as D W does not exist, the force of gravity operates alone, and the ball necessarily falls behind the vessel at a distance proportionate to the altitude attained at D",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7297619047619048
+      }
+    },
+    {
+      "question": "What happens to a ball when it's thrown upwards from a moving train?",
+      "context": "While the carriage or tender passes from A to B, the ball thrown from A to C will reach the position D, but while the ball then comes down by the force of gravity, operating alone, to the point H, the carriage will have advanced to W, so that the ball will always drop more or less behind the carriage, according to the force first given to it in the direction A C and the time occupied in ascending to D, and thence descending to H.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7028301886792453
+      }
+    },
+    {
+      "question": "What is the outcome of an experiment where a ball is shot upwards into the air on a moving Earth?",
+      "context": "On making the experiment no such effect is observed, and therefore the conclusion is unavoidable, that the Earth DOES NOT MOVE UPON AXES!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6955882352941176
+      }
+    },
+    {
+      "question": "What happens when a ball is shot upwards from a gun on a train?",
+      "context": "If the Earth is a globe, having a circumference of 25,000 miles at the equator, the circumference at the latitude of London (51°) will be about 16,000 statute miles; so that the motion of the Earth’s surface, if 25,000 miles in 24 hours at the equator, in England would be more than 700 feet per second.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6600877192982456
+      }
+    },
+    {
+      "question": "What is the expected outcome when a ball is shot upwards from a gun on a train if the Earth is moving around its axis?",
+      "context": "The average time that the ball was in the atmosphere was 16 seconds; and, as half the time would be required for the ascent and half for the descent, it is evident that if the Earth had a motion once round its axis in 24 hours, the ball would have passed in 8 seconds to the point D, while the air-gun would have reached the position B H.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.7175531914893617
+      }
+    },
+    {
+      "question": "What is the conclusion drawn from the experiment that a ball was shot upwards from a gun on a train?",
+      "context": "The ball then commencing its descent, requiring also 8 seconds, would in that time have fallen to the point H, while the Earth and the gun would[69] have advanced as far as W. The time occupied being 8 seconds, and the Earth’s velocity being 700 feet per second, the progress of the Earth and the air-gun to W, in advance of the ball at H, would be 5,600 feet!",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6877777777777778
+      }
+    },
+    {
+      "question": "How would the ball fall if it were thrown from a vertical air-gun?",
+      "context": "In these experiments, the ball, which always fell back to the place of its detachment, should have fallen 5,600 feet, or considerably more than one statute mile to the west of the air-gun! Proving beyond all doubt that the supposed axial motion of the Earth DOES NOT EXIST!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7791346153846154
+      }
+    },
+    {
+      "question": "What would be required for a star to be visible at the same moment by two lines of sight parallel to each other and only one yard asunder?",
+      "context": "A slight inclination of the second tube towards the first would be required for the star to be seen at the same moment.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38095238095238093,
+        "diversity_score": 0.8054655870445344
+      }
+    },
+    {
+      "question": "What conclusion can be drawn from the experiment if no difference in the direction of the tube is required?",
+      "context": "But as no such difference in the direction of the tube is required, the conclusion is unavoidable that in six months a given meridian upon the Earth has not moved a single[71] yard, and that therefore the Earth has not the slightest degree of orbital motion—or motion at right angles to the meridian of a given star!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7386123680241328
+      }
+    },
+    {
+      "question": "What can be concluded about the Earth's orbital motion based on the signals received?",
+      "context": "But as no such difference in the direction of the tube is required, the conclusion is unavoidable that in six months a given meridian upon the Earth has not moved a single yard, and that therefore the Earth has not the slightest degree of orbital motion—or motion at right angles to the meridian of a given star!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7512820512820513
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when a ball is shot upwards from a gun on a train?",
+      "context": "If the Earth is a globe, having a circumference of 25,000 miles at the equator, the circumference at the latitude of London (51°) will be about 16,000 statute miles; so that the motion of the Earth’s surface, if 25,000 miles in 24 hours at the equator, in England would be more than 700 feet per second.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6600877192982456
+      }
+    },
+    {
+      "question": "What would be required for a star to be visible at the same moment by two lines of sight parallel to each other and only one yard asunder?",
+      "context": "A slight inclination of the second tube towards the first would be required for the star to be seen at the same moment.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38095238095238093,
+        "diversity_score": 0.8054655870445344
+      }
+    },
+    {
+      "question": "What is the expected outcome when a ball is shot upwards from a gun on a train if the Earth is moving around its axis?",
+      "context": "The average time that the ball was in the atmosphere was 16 seconds; and, as half the time would be required for the ascent and half for the descent, it is evident that if the Earth had a motion once round its axis in 24 hours, the ball would have passed in 8 seconds to the point D, while the air-gun would have reached the position B H.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.7175531914893617
+      }
+    },
+    {
+      "question": "What conclusion can be drawn from the experiment if no difference in the direction of the tube is required?",
+      "context": "But as no such difference in the direction of the tube is required, the conclusion is unavoidable that in six months a given meridian upon the Earth has not moved a single[71] yard, and that therefore the Earth has not the slightest degree of orbital motion—or motion at right angles to the meridian of a given star!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7386123680241328
+      }
+    },
+    {
+      "question": "What is the outcome of an experiment where a ball is shot upwards into the air on a moving Earth?",
+      "context": "On making the experiment no such effect is observed, and therefore the conclusion is unavoidable, that the Earth DOES NOT MOVE UPON AXES!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6955882352941176
+      }
+    }
+  ]
+}

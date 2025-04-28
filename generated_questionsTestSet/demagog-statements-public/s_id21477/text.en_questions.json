@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the initial stance of Alena Schillerová regarding the salaries of firefighters and police officers?",
+      "context": "However, in September 2021, former Minister Schillerová finally reversed course and agreed to increase the salaries of all state employees, including firefighters and police officers, even though debates continued over the rate of increase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7871543778801844
+      }
+    },
+    {
+      "question": "What was the exception to the salary freeze for civil servants in June 2021?",
+      "context": "The government approved Andrej Babiš's draft state budget, which envisaged that the salary freeze would apply not only to civil servants, but also to police officers, firefighters and soldiers. The only exception was to be teachers' salaries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7466947115384616
+      }
+    },
+    {
+      "question": "What group of state employees initially proposed a 3.5% salary increase in June 2021?",
+      "context": "The then Minister of the Interior Hamáček had long opposed the freezing of the salaries of police officers and firefighters, who, on the contrary, proposed a salary increase for these groups of 3.5%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7870879120879121
+      }
+    },
+    {
+      "question": "What was approved by the government of Petr Fiala on December 29, 2021?",
+      "context": "The government of Petr Fiala approved a salary increase for only some state employees on December 29, 2021.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.6933760683760684
+      }
+    },
+    {
+      "question": "Why did the government of Petr Fiala freeze the salaries of civil servants in ministries and other offices from January?",
+      "context": "The government of Petr Fiala has decided to freeze the salaries of civil servants in ministries and other offices from January.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8235294117647058,
+        "diversity_score": 0.7507309941520468
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What group of state employees initially proposed a 3.5% salary increase in June 2021?",
+      "context": "The then Minister of the Interior Hamáček had long opposed the freezing of the salaries of police officers and firefighters, who, on the contrary, proposed a salary increase for these groups of 3.5%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7870879120879121
+      }
+    },
+    {
+      "question": "Why did the government of Petr Fiala freeze the salaries of civil servants in ministries and other offices from January?",
+      "context": "The government of Petr Fiala has decided to freeze the salaries of civil servants in ministries and other offices from January.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8235294117647058,
+        "diversity_score": 0.7507309941520468
+      }
+    },
+    {
+      "question": "What was the initial stance of Alena Schillerová regarding the salaries of firefighters and police officers?",
+      "context": "However, in September 2021, former Minister Schillerová finally reversed course and agreed to increase the salaries of all state employees, including firefighters and police officers, even though debates continued over the rate of increase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7871543778801844
+      }
+    }
+  ]
+}

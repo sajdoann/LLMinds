@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a phrase-based machine translation approach?",
+      "context": "IMPORTANT GUIDELINES",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571429
+      }
+    },
+    {
+      "question": "What is an empty pipeline in phrase-based machine translation?",
+      "context": "So what goes along with the phrase-based machine translation approach is this so-called phrase-based empty pipeline.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.7527777777777778
+      }
+    },
+    {
+      "question": "What are the steps involved in training a phrase-based translation system?",
+      "context": "First you had to find parallel texts, then you have to align them at the level of documents and sentences and then at the level of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8044258373205742
+      }
+    },
+    {
+      "question": "What is the purpose of extracting translation units with their scores?",
+      "context": "So this is what I have briefly hinted at the beginning and I'll again repeat in a second.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "How does one perform inference in machine learning for phrase-based translation?",
+      "context": "And then there you take the input sentence, you break it into known units, those that are listed in your translation dictionary in your phrase table and you",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8601778656126482
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of extracting translation units with their scores?",
+      "context": "So this is what I have briefly hinted at the beginning and I'll again repeat in a second.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "What are the steps involved in training a phrase-based translation system?",
+      "context": "First you had to find parallel texts, then you have to align them at the level of documents and sentences and then at the level of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8044258373205742
+      }
+    },
+    {
+      "question": "What is an empty pipeline in phrase-based machine translation?",
+      "context": "So what goes along with the phrase-based machine translation approach is this so-called phrase-based empty pipeline.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.7527777777777778
+      }
+    }
+  ]
+}

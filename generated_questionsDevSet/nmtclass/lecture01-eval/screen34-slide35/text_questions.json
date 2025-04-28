@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was shown to highlight the effect of the actual calculation of the score?",
+      "context": "But in some cases the results will differ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8622159090909091
+      }
+    },
+    {
+      "question": "Why are pairwise comparisons unreliable according to the author?",
+      "context": "If they don't do pairwise comparisons, these pairwise comparisons can be unreliable.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is a concern about the human process behind certain statistical methods?",
+      "context": "So we have something which is statistically better because it is based on more numbers, but the human process behind that is less stable.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "Why are people questioning the way things are evaluated?",
+      "context": "So that is why people keep questioning the way things are evaluated.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What advice does the author give for how to approach evaluations?",
+      "context": "And this is something that you should always keep questioning.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8340909090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was shown to highlight the effect of the actual calculation of the score?",
+      "context": "But in some cases the results will differ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8622159090909091
+      }
+    },
+    {
+      "question": "Why are pairwise comparisons unreliable according to the author?",
+      "context": "If they don't do pairwise comparisons, these pairwise comparisons can be unreliable.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "Why are people questioning the way things are evaluated?",
+      "context": "So that is why people keep questioning the way things are evaluated.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8229166666666667
+      }
+    }
+  ]
+}

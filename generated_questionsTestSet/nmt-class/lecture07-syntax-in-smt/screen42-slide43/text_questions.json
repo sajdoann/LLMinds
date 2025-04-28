@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of Czech sentences contain non-projectivity?",
+      "context": "Almost a quarter of Czech sentences contains this non-projectivity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6726190476190477
+      }
+    },
+    {
+      "question": "How often do most Czech sentences have gaps in their construction?",
+      "context": "So 99.5% of Czech sentences are actually well nested and with at most one gap.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8227272727272728
+      }
+    },
+    {
+      "question": "What is the main characteristic that allows for non-projectivity in Czech sentences?",
+      "context": "The lexical choices in the sentence are so designed that it is clear that these have to be dependencies.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8131127450980392
+      }
+    },
+    {
+      "question": "Why is non-projectivity in Czech sentences not very common?",
+      "context": "That is very common. Almost a quarter of Czech sentences contains this non-projectivity.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7264957264957265
+      }
+    },
+    {
+      "question": "What type of grammars are sufficient for understanding the construction of most Czech sentences?",
+      "context": "So the mildly context-sensitive grammars would be sufficient for Czech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8442307692307692
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of grammars are sufficient for understanding the construction of most Czech sentences?",
+      "context": "So the mildly context-sensitive grammars would be sufficient for Czech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8442307692307692
+      }
+    },
+    {
+      "question": "How often do most Czech sentences have gaps in their construction?",
+      "context": "So 99.5% of Czech sentences are actually well nested and with at most one gap.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8227272727272728
+      }
+    },
+    {
+      "question": "Why is non-projectivity in Czech sentences not very common?",
+      "context": "That is very common. Almost a quarter of Czech sentences contains this non-projectivity.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7264957264957265
+      }
+    }
+  ]
+}

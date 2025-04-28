@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the BLE score when the transformer model is removed from the setup?",
+      "context": "the picture is even clearer, the BLE is more negatively correlated and the other metrics are more positively correlated with each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7279411764705882
+      }
+    },
+    {
+      "question": "How does the depth of the network affect its performance in semantic scoring?",
+      "context": "deep and to see whether the depth of the network would indeed lead to representations which perform better in the semantic scoring.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8234649122807017
+      }
+    },
+    {
+      "question": "Why is the standard Bahdanau shallow recurrent neural network considered 'processing' rather than a deeper model?",
+      "context": "But the standard Bahdanau shallow recurrent neural network is simply processing rather",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8723958333333334
+      }
+    },
+    {
+      "question": "What is the implication of the transformer model being only in the English to German evaluation when it's removed?",
+      "context": "We also had the transformer model in the setup and if we remove the transformer results, which we had the transformer setup only in the English to German evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8202614379084967
+      }
+    },
+    {
+      "question": "How does removing the transformer model affect the correlation between metrics?",
+      "context": "the BLE is more negatively correlated and the other metrics are more positively correlated with each other.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6839285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the BLE score when the transformer model is removed from the setup?",
+      "context": "the picture is even clearer, the BLE is more negatively correlated and the other metrics are more positively correlated with each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7279411764705882
+      }
+    },
+    {
+      "question": "How does the depth of the network affect its performance in semantic scoring?",
+      "context": "deep and to see whether the depth of the network would indeed lead to representations which perform better in the semantic scoring.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8234649122807017
+      }
+    },
+    {
+      "question": "What is the implication of the transformer model being only in the English to German evaluation when it's removed?",
+      "context": "We also had the transformer model in the setup and if we remove the transformer results, which we had the transformer setup only in the English to German evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8202614379084967
+      }
+    },
+    {
+      "question": "Why is the standard Bahdanau shallow recurrent neural network considered 'processing' rather than a deeper model?",
+      "context": "But the standard Bahdanau shallow recurrent neural network is simply processing rather",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8723958333333334
+      }
+    }
+  ]
+}

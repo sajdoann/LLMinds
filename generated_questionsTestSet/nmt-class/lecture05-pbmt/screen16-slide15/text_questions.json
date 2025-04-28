@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the current state of the hypothesis?",
+      "context": "with an empty hypothesis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "Why is the coverage vector set to zero?",
+      "context": "This coverage vector is still set to zero and we have not produced any output words so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "What does an empty hypothesis imply?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What has not been done so far in the translation process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9204545454545454
+      }
+    },
+    {
+      "question": "Why is the translation process being described in terms of a hypothesis and coverage vector?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9083333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the current state of the hypothesis?",
+      "context": "with an empty hypothesis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "What has not been done so far in the translation process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9204545454545454
+      }
+    },
+    {
+      "question": "Why is the coverage vector set to zero?",
+      "context": "This coverage vector is still set to zero and we have not produced any output words so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.890625
+      }
+    },
+    {
+      "question": "What does an empty hypothesis imply?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    }
+  ]
+}

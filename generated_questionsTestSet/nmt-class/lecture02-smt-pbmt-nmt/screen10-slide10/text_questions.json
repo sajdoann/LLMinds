@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of normalizing counts to make a probability distribution?",
+      "context": "These are the two problems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.74375
+      }
+    },
+    {
+      "question": "Why does the probability distribution not generalize well enough?",
+      "context": "So you use the counts of sentence occurrences.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "What is meant by a 'smooth' probability distribution in this context?",
+      "context": "That's useful. And the more important problem that you've mentioned, this only zeros and ones, is that this probability distribution is not smooth enough.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7784090909090909
+      }
+    },
+    {
+      "question": "How does asking for a sentence pair listed in the table affect the probability output?",
+      "context": "And if you ask for just a slightly changed sentence, then suddenly you are at zero.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What is the implication of having a very high probability for certain sentences in the table?",
+      "context": "So that's the problem. And good morning is dobre ráno and that gives you the conditional probability of one, given this small database.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7666666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of normalizing counts to make a probability distribution?",
+      "context": "These are the two problems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.74375
+      }
+    },
+    {
+      "question": "How does asking for a sentence pair listed in the table affect the probability output?",
+      "context": "And if you ask for just a slightly changed sentence, then suddenly you are at zero.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Why does the probability distribution not generalize well enough?",
+      "context": "So you use the counts of sentence occurrences.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    }
+  ]
+}

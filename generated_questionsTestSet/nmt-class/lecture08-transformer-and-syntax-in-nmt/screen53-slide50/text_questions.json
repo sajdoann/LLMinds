@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of dependency tree is being represented in the matrix form?",
+      "context": "The description of the linear parse",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5895833333333333
+      }
+    },
+    {
+      "question": "How do the words in the sequence depend on each other?",
+      "context": "The explanation of the linear parse",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7125
+      }
+    },
+    {
+      "question": "What is the goal of training the transformer model?",
+      "context": "The description of the task being performed",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.578125
+      }
+    },
+    {
+      "question": "What kind of dependency tree is the correct one, according to the parser?",
+      "context": "The comparison with the incorrect dependency tree",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "Why are the transformer models not producing true parses?",
+      "context": "The description of the task being performed",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of dependency tree is being represented in the matrix form?",
+      "context": "The description of the linear parse",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5895833333333333
+      }
+    },
+    {
+      "question": "What kind of dependency tree is the correct one, according to the parser?",
+      "context": "The comparison with the incorrect dependency tree",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "How do the words in the sequence depend on each other?",
+      "context": "The explanation of the linear parse",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7125
+      }
+    }
+  ]
+}

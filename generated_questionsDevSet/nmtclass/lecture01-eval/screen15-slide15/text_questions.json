@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why is it a challenge to assess the performance of translation systems?",
+      "context": "So there is a huge chunk of incomparable systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What percentage of the systems are considered statistically indistinguishable from each other?",
+      "context": "Statistically, they are on par.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "Why do researchers need to make multiple judgments to determine which systems perform better?",
+      "context": "So you have to do many more judgments to see whether Microsoft was better than humans or not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9106334841628959
+      }
+    },
+    {
+      "question": "How many systems were considered to be worse than the significantly better one?",
+      "context": "There is only two systems which were like worse.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.857905982905983
+      }
+    },
+    {
+      "question": "Why are there more participating systems in English-to-German than in Czech-to-English?",
+      "context": "Well, there is more speakers and more researchers of German area than for Czech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8451923076923077
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is it a challenge to assess the performance of translation systems?",
+      "context": "So there is a huge chunk of incomparable systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What percentage of the systems are considered statistically indistinguishable from each other?",
+      "context": "Statistically, they are on par.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "Why are there more participating systems in English-to-German than in Czech-to-English?",
+      "context": "Well, there is more speakers and more researchers of German area than for Czech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8451923076923077
+      }
+    }
+  ]
+}

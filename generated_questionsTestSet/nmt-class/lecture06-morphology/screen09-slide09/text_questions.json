@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the word forms that should be used to translate 'two green striped cats'?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "Why is the translation 'dva zelená pruhovány kočky' considered good, but 'zelené pruhovány kočkách' not?",
+      "context": "The explanation of the example",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7366071428571428
+      }
+    },
+    {
+      "question": "What type of language model is too weak to ensure agreement in word forms?",
+      "context": "The description of the triagram language model",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6845238095238095
+      }
+    },
+    {
+      "question": "Why would a language model need more data to select the correct combination of word forms?",
+      "context": "The explanation of why a corpus is needed",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7421875
+      }
+    },
+    {
+      "question": "What type of data is required for a language model to choose between different combinations of word forms?",
+      "context": "The description of the types of data required",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.6997549019607843
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the word forms that should be used to translate 'two green striped cats'?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "Why would a language model need more data to select the correct combination of word forms?",
+      "context": "The explanation of why a corpus is needed",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7421875
+      }
+    },
+    {
+      "question": "Why is the translation 'dva zelená pruhovány kočky' considered good, but 'zelené pruhovány kočkách' not?",
+      "context": "The explanation of the example",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7366071428571428
+      }
+    }
+  ]
+}

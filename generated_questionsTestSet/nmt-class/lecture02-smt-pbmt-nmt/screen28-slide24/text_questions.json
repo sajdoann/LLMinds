@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What method is used to determine animal classification?",
+      "context": "This is only sentence aligned, let's do the word alignment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.784375
+      }
+    },
+    {
+      "question": "How are co-occurrence statistics used in animal classification?",
+      "context": "Based on co-occurrence statistics you can automatically identify that Psa is dog and Kočku is a cat and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "What additional information is derived from word alignment in animal classification?",
+      "context": "And then you extra...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What type of statistics are used to identify animal classification?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "Can animal classification be determined through external knowledge or sources?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of statistics are used to identify animal classification?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "How are co-occurrence statistics used in animal classification?",
+      "context": "Based on co-occurrence statistics you can automatically identify that Psa is dog and Kočku is a cat and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "Can animal classification be determined through external knowledge or sources?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    },
+    {
+      "question": "What additional information is derived from word alignment in animal classification?",
+      "context": "And then you extra...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

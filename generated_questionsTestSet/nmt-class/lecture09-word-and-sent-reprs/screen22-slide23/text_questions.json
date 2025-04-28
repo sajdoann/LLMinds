@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the ABC representation allow to separate in a picture?",
+      "context": "Then this ABC representation can be seen as good because it allows to separate the border from the face in the picture.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.5681818181818181
+      }
+    },
+    {
+      "question": "Why is the ABC representation considered good?",
+      "context": "Then this ABC representation can be seen as good because",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5535714285714286
+      }
+    },
+    {
+      "question": "What does 'face' refer to in the context of the picture?",
+      "context": "it allows to separate the border from the face in the picture.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6125
+      }
+    },
+    {
+      "question": "Is the ABC representation a characteristic or an action?",
+      "context": "Then this ABC representation can be seen as good because it allows to separate the border from the face in the picture.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "What is the purpose of using the ABC representation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the ABC representation a characteristic or an action?",
+      "context": "Then this ABC representation can be seen as good because it allows to separate the border from the face in the picture.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "Why is the ABC representation considered good?",
+      "context": "Then this ABC representation can be seen as good because",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5535714285714286
+      }
+    },
+    {
+      "question": "What is the purpose of using the ABC representation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the tasks involved in this experiment?",
+      "context": "We will have pairs of sentences that are in French and Spanish.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "How many encoders and decoders are being used in the network?",
+      "context": "And we can take the network as we have it with two encoders, two decoders.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8208041958041958
+      }
+    },
+    {
+      "question": "What is the current state of the training process?",
+      "context": "They were trained in the two pairs but never across.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.784375
+      }
+    },
+    {
+      "question": "What is the goal of fine-tuning with new data?",
+      "context": "And now we will continue training. We will fine-tune with these data that go across.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7745726495726496
+      }
+    },
+    {
+      "question": "In what direction are the new data being translated?",
+      "context": "They go from Spanish into French.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the current state of the training process?",
+      "context": "They were trained in the two pairs but never across.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.784375
+      }
+    },
+    {
+      "question": "How many encoders and decoders are being used in the network?",
+      "context": "And we can take the network as we have it with two encoders, two decoders.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8208041958041958
+      }
+    },
+    {
+      "question": "What is the goal of fine-tuning with new data?",
+      "context": "And now we will continue training. We will fine-tune with these data that go across.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7745726495726496
+      }
+    }
+  ]
+}

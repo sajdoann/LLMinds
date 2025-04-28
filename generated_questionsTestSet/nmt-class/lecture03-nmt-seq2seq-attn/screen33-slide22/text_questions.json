@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of representation does the encoder have for each word (h2) in a sentence?",
+      "context": "is that at each of the state you have the information about the full sentence. You have the information which is if you take the word h2 then the representation of in this encoder",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8159420289855073
+      }
+    },
+    {
+      "question": "What are the two parts of the bidirectional representation that the network can access?",
+      "context": "the slower part which has the capacity to remember everything what is important in the tail.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7544642857142857
+      }
+    },
+    {
+      "question": "How does the network decide whether to focus on certain keywords or sequences of words?",
+      "context": "because at every state you have access or potentially the network can decide to remember it can decide to have that access to the complete sentence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "What types of tasks are bidirectional recollect neural networks effective for?",
+      "context": "because the network of course given enough training data will simply spot whether it should focus on some keywords or on some like sequences of words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7934782608695652
+      }
+    },
+    {
+      "question": "What specific capabilities can a trained bidirectional recollect neural network have?",
+      "context": "all that the network can spot given enough training data. indulged in the use of the Teles strategically Tailor hornъe‬",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7569444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of representation does the encoder have for each word (h2) in a sentence?",
+      "context": "is that at each of the state you have the information about the full sentence. You have the information which is if you take the word h2 then the representation of in this encoder",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8159420289855073
+      }
+    },
+    {
+      "question": "How does the network decide whether to focus on certain keywords or sequences of words?",
+      "context": "because at every state you have access or potentially the network can decide to remember it can decide to have that access to the complete sentence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "What types of tasks are bidirectional recollect neural networks effective for?",
+      "context": "because the network of course given enough training data will simply spot whether it should focus on some keywords or on some like sequences of words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7934782608695652
+      }
+    },
+    {
+      "question": "What are the two parts of the bidirectional representation that the network can access?",
+      "context": "the slower part which has the capacity to remember everything what is important in the tail.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7544642857142857
+      }
+    }
+  ]
+}

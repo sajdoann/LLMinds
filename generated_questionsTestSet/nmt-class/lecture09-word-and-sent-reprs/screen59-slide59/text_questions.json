@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of scale can be used in this context?",
+      "context": "Sometimes there will be linear scales and sometimes some sentences will be incomparable in the extent to which they are polite or rude.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.60625
+      }
+    },
+    {
+      "question": "What can be concluded about the nature of similar relations?",
+      "context": "And then the question is whether we will be able to find similar relations.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6267857142857143
+      }
+    },
+    {
+      "question": "Can all sentences in this context be compared in terms of politeness or rudeness?",
+      "context": "Sometimes there will be linear scales and sometimes some sentences will be incomparable in the extent to which they are polite or rude.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6235576923076923
+      }
+    },
+    {
+      "question": "What is the ultimate goal of this problem?",
+      "context": "So you will arrive at a partially ordered set.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8038194444444444
+      }
+    },
+    {
+      "question": "Can all sentences in this context be compared directly, or are there some that cannot be compared?",
+      "context": "And then the question is whether we will be able to find similar relations.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.6517857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the ultimate goal of this problem?",
+      "context": "So you will arrive at a partially ordered set.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8038194444444444
+      }
+    },
+    {
+      "question": "What can be concluded about the nature of similar relations?",
+      "context": "And then the question is whether we will be able to find similar relations.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6267857142857143
+      }
+    },
+    {
+      "question": "Can all sentences in this context be compared directly, or are there some that cannot be compared?",
+      "context": "And then the question is whether we will be able to find similar relations.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.6517857142857143
+      }
+    }
+  ]
+}

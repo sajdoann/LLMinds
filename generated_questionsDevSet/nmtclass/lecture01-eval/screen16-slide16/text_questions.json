@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the best setting for mixing systems in this area?",
+      "context": "Okay, so the best setting that we could do in this area is mixing all together.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8224431818181819
+      }
+    },
+    {
+      "question": "How are scores being collected from Turkers?",
+      "context": "We are asking adequacy, fluency for each of the sentences and an overall quality.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "Why can't this approach be used with Turkers?",
+      "context": "People really have to focus on that. So this is something we cannot do with the Turkers.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8731617647058824
+      }
+    },
+    {
+      "question": "How many scores are being collected for each row of sentences?",
+      "context": "And then maybe one more score for the whole chunk of sentences. So we are getting quite a large number of numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8371212121212122
+      }
+    },
+    {
+      "question": "What is the purpose of highlighting only 10 sentences in a row?",
+      "context": "So that way the scoring doesn't take too much time.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8479166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of highlighting only 10 sentences in a row?",
+      "context": "So that way the scoring doesn't take too much time.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8479166666666667
+      }
+    },
+    {
+      "question": "How many scores are being collected for each row of sentences?",
+      "context": "And then maybe one more score for the whole chunk of sentences. So we are getting quite a large number of numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8371212121212122
+      }
+    },
+    {
+      "question": "How are scores being collected from Turkers?",
+      "context": "We are asking adequacy, fluency for each of the sentences and an overall quality.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "Why can't this approach be used with Turkers?",
+      "context": "People really have to focus on that. So this is something we cannot do with the Turkers.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8731617647058824
+      }
+    }
+  ]
+}

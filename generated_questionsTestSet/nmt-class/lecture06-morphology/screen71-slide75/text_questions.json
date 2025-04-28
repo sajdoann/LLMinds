@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the new letter that replaces a pair of characters in the corpus?",
+      "context": "The beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5
+      }
+    },
+    {
+      "question": "How many characters are there in the word that contains the most frequent pair of characters?",
+      "context": "The sentence starting with 'You replace this pair of characters with this single new letter'.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6717948717948719
+      }
+    },
+    {
+      "question": "What is the result of scanning for the most frequent pair of characters in the corpus?",
+      "context": "The last sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.4673076923076923
+      }
+    },
+    {
+      "question": "What can be inferred about the nature of the word that contains the most frequent pair of characters?",
+      "context": "The fact that it is a 'word' and not a general concept.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7295454545454545
+      }
+    },
+    {
+      "question": "What analysis would be required to fully understand the significance of scanning for the most frequent pair of characters in the corpus?",
+      "context": "The lack of additional context or explanation about what this process means.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7061403508771931
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the new letter that replaces a pair of characters in the corpus?",
+      "context": "The beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5
+      }
+    },
+    {
+      "question": "What can be inferred about the nature of the word that contains the most frequent pair of characters?",
+      "context": "The fact that it is a 'word' and not a general concept.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7295454545454545
+      }
+    },
+    {
+      "question": "How many characters are there in the word that contains the most frequent pair of characters?",
+      "context": "The sentence starting with 'You replace this pair of characters with this single new letter'.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6717948717948719
+      }
+    }
+  ]
+}

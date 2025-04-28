@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What types of microphones were compared in the session?",
+      "context": "This is based just on three minutes, so this is something that we should really redo.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7956349206349207
+      }
+    },
+    {
+      "question": "Why was using a headset microphone preferred over the chest mic?",
+      "context": "And there is a clear benefit of using the headset microphone because the distance from the mouth doesn't change.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8729946524064172
+      }
+    },
+    {
+      "question": "What is the specific advantage of using the headset microphone?",
+      "context": "the one which is just very close to your mouth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7611111111111111
+      }
+    },
+    {
+      "question": "Why does it matter to redo this comparison?",
+      "context": "Well, we made a very little comparison in one of the sessions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "What is expected from the redoing of the comparison?",
+      "context": "Because this is something that we should really redo.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6927083333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What types of microphones were compared in the session?",
+      "context": "This is based just on three minutes, so this is something that we should really redo.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7956349206349207
+      }
+    },
+    {
+      "question": "Why does it matter to redo this comparison?",
+      "context": "Well, we made a very little comparison in one of the sessions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "Why was using a headset microphone preferred over the chest mic?",
+      "context": "And there is a clear benefit of using the headset microphone because the distance from the mouth doesn't change.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8729946524064172
+      }
+    },
+    {
+      "question": "What is expected from the redoing of the comparison?",
+      "context": "Because this is something that we should really redo.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6927083333333334
+      }
+    }
+  ]
+}

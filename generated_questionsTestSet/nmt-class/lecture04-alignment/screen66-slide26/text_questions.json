@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of the alignment model?",
+      "context": "Remember we need to know how likely are the alignment points what how much do we trust them for a given source and target sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7262228260869565
+      }
+    },
+    {
+      "question": "What mathematical operation is applied to calculate the probability of alignment?",
+      "context": "The chain rule was applied and now we plug in what we have simplified.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6774475524475525
+      }
+    },
+    {
+      "question": "How does the normalization cancel out in the calculation of the alignment probability?",
+      "context": "So this is all the possible alignments of the sentences of the given pair of sentences and considering the lexical alignment between the words in those sentences.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8039772727272727
+      }
+    },
+    {
+      "question": "What mathematical operation is swapped before the product?",
+      "context": "We plug in now after the trick the swapped product and sum.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6846590909090909
+      }
+    },
+    {
+      "question": "Why can the computation of alignment probability be made tractable?",
+      "context": "So this is what makes the computation tractable. It's this is simply the normalization that you have seen in the.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7794117647058824
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of the alignment model?",
+      "context": "Remember we need to know how likely are the alignment points what how much do we trust them for a given source and target sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7262228260869565
+      }
+    },
+    {
+      "question": "How does the normalization cancel out in the calculation of the alignment probability?",
+      "context": "So this is all the possible alignments of the sentences of the given pair of sentences and considering the lexical alignment between the words in those sentences.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8039772727272727
+      }
+    },
+    {
+      "question": "Why can the computation of alignment probability be made tractable?",
+      "context": "So this is what makes the computation tractable. It's this is simply the normalization that you have seen in the.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7794117647058824
+      }
+    },
+    {
+      "question": "What mathematical operation is applied to calculate the probability of alignment?",
+      "context": "The chain rule was applied and now we plug in what we have simplified.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6774475524475525
+      }
+    }
+  ]
+}

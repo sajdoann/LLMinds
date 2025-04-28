@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "How many languages do Google and Orhan Ferrat's colleagues have parallel corpora for?",
+      "context": "So this is the distribution that Orhan Ferrat from Google and colleagues experimented with.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8708791208791209
+      }
+    },
+    {
+      "question": "What is the range of data sizes for sentence pairs in their experiment?",
+      "context": "Sometimes you have billions of word pairs. Sometimes you have just dozens of thousands of sentence pairs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.708041958041958
+      }
+    },
+    {
+      "question": "What is an example of a language that has parallel corpora with very large data sizes?",
+      "context": "They have parallel corpora for 102 languages and this is the data sizes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7235576923076923
+      }
+    },
+    {
+      "question": "How does the distribution of data sizes between word pairs and sentence pairs compare in terms of scale?",
+      "context": "Sometimes you have billions of word pairs. Sometimes you have just dozens of thousands of sentence pairs.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.7350852272727273
+      }
+    },
+    {
+      "question": "What can be inferred about the nature of Orhan Ferrat's experiment based on the distribution of data sizes?",
+      "context": "They have parallel corpora for 102 languages and this is the data sizes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.7079326923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many languages do Google and Orhan Ferrat's colleagues have parallel corpora for?",
+      "context": "So this is the distribution that Orhan Ferrat from Google and colleagues experimented with.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8708791208791209
+      }
+    },
+    {
+      "question": "How does the distribution of data sizes between word pairs and sentence pairs compare in terms of scale?",
+      "context": "Sometimes you have billions of word pairs. Sometimes you have just dozens of thousands of sentence pairs.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.7350852272727273
+      }
+    },
+    {
+      "question": "What is the range of data sizes for sentence pairs in their experiment?",
+      "context": "Sometimes you have billions of word pairs. Sometimes you have just dozens of thousands of sentence pairs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.708041958041958
+      }
+    },
+    {
+      "question": "What is an example of a language that has parallel corpora with very large data sizes?",
+      "context": "They have parallel corpora for 102 languages and this is the data sizes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7235576923076923
+      }
+    },
+    {
+      "question": "What can be inferred about the nature of Orhan Ferrat's experiment based on the distribution of data sizes?",
+      "context": "They have parallel corpora for 102 languages and this is the data sizes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.7079326923076923
+      }
+    }
+  ]
+}

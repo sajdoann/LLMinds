@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the primary focus of early works in transfer learning?",
+      "context": "The setup where we have one language in common",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7310606060606061
+      }
+    },
+    {
+      "question": "Which languages were commonly used in early experiments on transfer learning?",
+      "context": "The English and related languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8022727272727272
+      }
+    },
+    {
+      "question": "What was the idea behind trivial transfer in early experiments?",
+      "context": "Training on one language pair and then switching to a child language pair",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7534090909090909
+      }
+    },
+    {
+      "question": "How did early experimenters adapt their parameters and hyperparameters for trivial transfer?",
+      "context": "No changes were made",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9479166666666666
+      }
+    },
+    {
+      "question": "What was the goal of experimenting with language pairs in early works on transfer learning?",
+      "context": "Not explicitly stated, but implied as part of exploring new approaches",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.825
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which languages were commonly used in early experiments on transfer learning?",
+      "context": "The English and related languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8022727272727272
+      }
+    },
+    {
+      "question": "What was the goal of experimenting with language pairs in early works on transfer learning?",
+      "context": "Not explicitly stated, but implied as part of exploring new approaches",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What was the idea behind trivial transfer in early experiments?",
+      "context": "Training on one language pair and then switching to a child language pair",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7534090909090909
+      }
+    },
+    {
+      "question": "How did early experimenters adapt their parameters and hyperparameters for trivial transfer?",
+      "context": "No changes were made",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9479166666666666
+      }
+    }
+  ]
+}

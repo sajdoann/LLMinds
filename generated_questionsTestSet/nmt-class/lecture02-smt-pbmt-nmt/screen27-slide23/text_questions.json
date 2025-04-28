@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the speaker's statement about having a dog?",
+      "context": "So here's an example. This is our training corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "Who or what did the speaker see?",
+      "context": "Viděl kočku, he saw a cat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8511904761904762
+      }
+    },
+    {
+      "question": "What is the purpose of training a machine translation system?",
+      "context": "And we are going to train a machine translation system, the classical one from this.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8208333333333333
+      }
+    },
+    {
+      "question": "Is the speaker's statement about having a dog already in word form?",
+      "context": "So I've told you this is already a word line.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "What type of machine translation system will be trained?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who or what did the speaker see?",
+      "context": "Viděl kočku, he saw a cat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8511904761904762
+      }
+    },
+    {
+      "question": "What is the purpose of training a machine translation system?",
+      "context": "And we are going to train a machine translation system, the classical one from this.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8208333333333333
+      }
+    },
+    {
+      "question": "What type of machine translation system will be trained?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "Who visited the Agro school in Pozďatín?",
+      "context": "V den stávky <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7952380952380953
+      }
+    },
+    {
+      "question": "What was the purpose of the strike by the teachers?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6770833333333333
+      }
+    },
+    {
+      "question": "Where did the Prime Minister Petr Fiala visit Agroškola in?",
+      "context": "V&nbsp;den stávky <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the name of the district where the Prime Minister Petr Fiala and the Minister of Agriculture visited the farmers in?",
+      "context": "Sv%C5%AFj%20pond%C4%9Bln%C3%AD%20program%20zah%C3%A1jil%20r%C3%A1no%20v%20Brn%C4%9B%2C%20kde%20se%20setkal%20v%20Hotelu%20International%20s%20novin%C3%A1%C5%99i.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "Who is the president of Czech Republic?",
+      "context": "družstvu Pooslaví v Nové Vsi.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.888095238095238
+      }
+    },
+    {
+      "question": "Kteří jsou subjekty, které se zúčastňují demonstračních farem?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Kdo zastává místo ředitele družstva Pooslaví?",
+      "context": "Bratr ministra Jurečky Lukáš Jurečka",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where did the Prime Minister Petr Fiala visit Agroškola in?",
+      "context": "V&nbsp;den stávky <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "Kdo zastává místo ředitele družstva Pooslaví?",
+      "context": "Bratr ministra Jurečky Lukáš Jurečka",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What was the purpose of the strike by the teachers?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6770833333333333
+      }
+    }
+  ]
+}

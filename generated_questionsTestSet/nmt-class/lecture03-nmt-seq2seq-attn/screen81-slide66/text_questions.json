@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary focus of the decoder in the sequence-to-sequence model?",
+      "context": "The description of how the decoder works, specifically that it does not initialize with an aggregate representation of the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5338235294117647
+      }
+    },
+    {
+      "question": "What is the purpose of the attention mechanism in the sequence-to-sequence model?",
+      "context": "The explanation of how the attention mechanism works, specifically that it chooses or weights states for the decoder.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.45625000000000004
+      }
+    },
+    {
+      "question": "How does the attention mechanism change over time in the sequence-to-sequence model?",
+      "context": "The description of how the attention mechanisms changes, specifically that it creates a weighted sum of encoder states.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6001420454545454
+      }
+    },
+    {
+      "question": "What is the advantage of using the attention mechanism over other aggregation techniques like max pooling?",
+      "context": "The comparison between different aggregation techniques and their use cases, specifically that the attention mechanism is best for copying or replicating sentence structure.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7534090909090909
+      }
+    },
+    {
+      "question": "What is the role of the encoder in the sequence-to-sequence model?",
+      "context": "The description of how the bidirectional recurrent neural network works, specifically that it encodes the whole sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.47777777777777775
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary focus of the decoder in the sequence-to-sequence model?",
+      "context": "The description of how the decoder works, specifically that it does not initialize with an aggregate representation of the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5338235294117647
+      }
+    },
+    {
+      "question": "How does the attention mechanism change over time in the sequence-to-sequence model?",
+      "context": "The description of how the attention mechanisms changes, specifically that it creates a weighted sum of encoder states.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6001420454545454
+      }
+    },
+    {
+      "question": "What is the purpose of the attention mechanism in the sequence-to-sequence model?",
+      "context": "The explanation of how the attention mechanism works, specifically that it chooses or weights states for the decoder.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.45625000000000004
+      }
+    },
+    {
+      "question": "What is the advantage of using the attention mechanism over other aggregation techniques like max pooling?",
+      "context": "The comparison between different aggregation techniques and their use cases, specifically that the attention mechanism is best for copying or replicating sentence structure.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7534090909090909
+      }
+    }
+  ]
+}

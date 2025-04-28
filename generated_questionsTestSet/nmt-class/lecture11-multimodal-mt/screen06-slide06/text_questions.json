@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of cascade brings issues with lost information?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What is one of the direct attempts being made to address these issues?",
+      "context": "The main idea of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7442307692307693
+      }
+    },
+    {
+      "question": "What is the process of spoken language translation called?",
+      "context": "A specific detail about the direct attempt",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6984126984126984
+      }
+    },
+    {
+      "question": "What happens to speech in a source language during spoken language translation?",
+      "context": "A consequence of the process",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6613636363636364
+      }
+    },
+    {
+      "question": "Is an explicit transcription used in the middle step of spoken language translation?",
+      "context": "A characteristic of the process",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.65
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of cascade brings issues with lost information?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "What is one of the direct attempts being made to address these issues?",
+      "context": "The main idea of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7442307692307693
+      }
+    },
+    {
+      "question": "What happens to speech in a source language during spoken language translation?",
+      "context": "A consequence of the process",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6613636363636364
+      }
+    },
+    {
+      "question": "What is the process of spoken language translation called?",
+      "context": "A specific detail about the direct attempt",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6984126984126984
+      }
+    }
+  ]
+}

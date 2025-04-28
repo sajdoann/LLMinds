@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many pairwise comparisons did A take part in?",
+      "context": "A took part in six pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8849206349206349
+      }
+    },
+    {
+      "question": "In how many of these comparisons was A the better one?",
+      "context": "And in three of them it was the better one",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8170454545454545
+      }
+    },
+    {
+      "question": "What can be inferred about A's performance in the pairwise comparisons?",
+      "context": "",
+      "difficulty": "inferential",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "Why was A considered better in three of the comparisons?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What can be deduced about the relative performance of A compared to others?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many pairwise comparisons did A take part in?",
+      "context": "A took part in six pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8849206349206349
+      }
+    },
+    {
+      "question": "In how many of these comparisons was A the better one?",
+      "context": "And in three of them it was the better one",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8170454545454545
+      }
+    },
+    {
+      "question": "Why was A considered better in three of the comparisons?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    }
+  ]
+}

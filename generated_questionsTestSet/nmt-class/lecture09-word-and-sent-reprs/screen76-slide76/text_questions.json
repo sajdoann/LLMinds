@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of evaluating sentence representations in semantic processing tasks?",
+      "context": "So that is ways of multiple ways of evaluating the meaning or the semantics of the sentence representation. How well the sentence representation serves in these semantic processing tasks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7574300699300699
+      }
+    },
+    {
+      "question": "What is the limitation of using the attention mechanism in sequence-to-sequence models?",
+      "context": "And now how do we get these sentence representations. So I've said that we use the the attention sequence to sequence paper.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5831339712918661
+      }
+    },
+    {
+      "question": "What is the problem with using bidirectional encoder and attention mechanism in sequence-to-sequence models?",
+      "context": "But there is the problem that has doublebed. There is no sentence embedding.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.573051948051948
+      }
+    },
+    {
+      "question": "Why can't you use concatenation to combine vectors from attention mechanism in sequence-to-sequence models?",
+      "context": "And you cannot just concatenate these vectors because the sentence has different like varies in length.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7555803571428572
+      }
+    },
+    {
+      "question": "What is the missing component in using bidirectional encoder and attention mechanism in sequence-to-sequence models?",
+      "context": "So there is no like single vector representation of the input sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5967261904761905
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of evaluating sentence representations in semantic processing tasks?",
+      "context": "So that is ways of multiple ways of evaluating the meaning or the semantics of the sentence representation. How well the sentence representation serves in these semantic processing tasks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7574300699300699
+      }
+    },
+    {
+      "question": "Why can't you use concatenation to combine vectors from attention mechanism in sequence-to-sequence models?",
+      "context": "And you cannot just concatenate these vectors because the sentence has different like varies in length.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7555803571428572
+      }
+    },
+    {
+      "question": "What is the limitation of using the attention mechanism in sequence-to-sequence models?",
+      "context": "And now how do we get these sentence representations. So I've said that we use the the attention sequence to sequence paper.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.5831339712918661
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What winner seems to be according to the competition's outcome?",
+      "context": "The first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5
+      }
+    },
+    {
+      "question": "Why did the author ask about how scores were obtained from judgments?",
+      "context": "The same paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6145833333333334
+      }
+    },
+    {
+      "question": "How did the organizers respond to the author's question about scoring?",
+      "context": "The second sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6791666666666667
+      }
+    },
+    {
+      "question": "What rule was followed by the author according to the organizers' response?",
+      "context": "The rest of the first paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "Why can't we determine what numbers or ranking system was used in the competition based on the provided information?",
+      "context": "Throughout the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How did the organizers respond to the author's question about scoring?",
+      "context": "The second sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6791666666666667
+      }
+    },
+    {
+      "question": "What rule was followed by the author according to the organizers' response?",
+      "context": "The rest of the first paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "Why did the author ask about how scores were obtained from judgments?",
+      "context": "The same paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6145833333333334
+      }
+    }
+  ]
+}

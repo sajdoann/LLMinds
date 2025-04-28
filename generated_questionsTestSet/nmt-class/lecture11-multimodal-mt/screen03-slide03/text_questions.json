@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What has always been used for the source language of translations?",
+      "context": "We have always had the text in the source language",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5353535353535354
+      }
+    },
+    {
+      "question": "How were machine translation systems being used to get the target language text?",
+      "context": "We were using machine translation to get to the text in the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6217948717948718
+      }
+    },
+    {
+      "question": "What was the role of machine translation in the document's explanation of translations?",
+      "context": "So this is what we have been doing so far. We have always had the text in the source language and we were using machine translation to get to the text in the target language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.610909090909091
+      }
+    },
+    {
+      "question": "What can be inferred about the document's focus based on the mention of translations?",
+      "context": "So this is what we have been doing so far. We have always had the text in the source language and we were using machine translation to get to the text in the target language.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6546153846153846
+      }
+    },
+    {
+      "question": "What is required for each question, according to the instructions?",
+      "context": "Generate exactly 5 questions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the role of machine translation in the document's explanation of translations?",
+      "context": "So this is what we have been doing so far. We have always had the text in the source language and we were using machine translation to get to the text in the target language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.610909090909091
+      }
+    },
+    {
+      "question": "What can be inferred about the document's focus based on the mention of translations?",
+      "context": "So this is what we have been doing so far. We have always had the text in the source language and we were using machine translation to get to the text in the target language.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6546153846153846
+      }
+    },
+    {
+      "question": "How were machine translation systems being used to get the target language text?",
+      "context": "We were using machine translation to get to the text in the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6217948717948718
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was found when trying the underscore trick in German-to-Czech experiments?",
+      "context": "And in our German-to-Czech experiments, we tried this underscore trick and we found one more interesting thing.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7068181818181818
+      }
+    },
+    {
+      "question": "What was observed when adding an underscore after every word form, but not after the final full stop?",
+      "context": "But if we added the underscore after every word form, every token except for the final full stop, then it helped much better.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8224789915966386
+      }
+    },
+    {
+      "question": "What was found to be the best technique for improving BLEU score in German-to-Czech experiments?",
+      "context": "So the best technique that we had for this particular language pair was to, well, the best one was actually the sub-vortex encoder from tensor to tensor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7525362318840579
+      }
+    },
+    {
+      "question": "What could be investigated further regarding the use of underscores in BPE?",
+      "context": "And what we haven't, like, searched for the underscore was observed so that the BPE learned different words or whether this indication of the last word token was actually helpful for the subsequent translation model.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7604166666666667
+      }
+    },
+    {
+      "question": "What is a key takeaway from the experiment regarding the impact of small details on method performance?",
+      "context": "So one message to the first thing that I would take from this is that the very tiny details such as adding an underscore at the end of every word can suddenly very dramatically change the performance of your method.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8446691176470589
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a key takeaway from the experiment regarding the impact of small details on method performance?",
+      "context": "So one message to the first thing that I would take from this is that the very tiny details such as adding an underscore at the end of every word can suddenly very dramatically change the performance of your method.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8446691176470589
+      }
+    },
+    {
+      "question": "What was observed when adding an underscore after every word form, but not after the final full stop?",
+      "context": "But if we added the underscore after every word form, every token except for the final full stop, then it helped much better.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8224789915966386
+      }
+    },
+    {
+      "question": "What was found to be the best technique for improving BLEU score in German-to-Czech experiments?",
+      "context": "So the best technique that we had for this particular language pair was to, well, the best one was actually the sub-vortex encoder from tensor to tensor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7525362318840579
+      }
+    },
+    {
+      "question": "What could be investigated further regarding the use of underscores in BPE?",
+      "context": "And what we haven't, like, searched for the underscore was observed so that the BPE learned different words or whether this indication of the last word token was actually helpful for the subsequent translation model.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7604166666666667
+      }
+    }
+  ]
+}

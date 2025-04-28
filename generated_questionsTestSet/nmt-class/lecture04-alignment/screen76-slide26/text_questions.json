@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary direction of alignment used today?",
+      "context": "These days the alignments are used in two directions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "How do you combine English to Spanish and Spanish to English alignments?",
+      "context": "Remember each of those is a function so each of them allows only one to many or many to one alignment points.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9215686274509804
+      }
+    },
+    {
+      "question": "What is the goal when extracting parallel dictionaries for humans?",
+      "context": "you want the reliable link so you rely on the intersection if you want to extract phrase translations for the phrase based empty that will be discussed in the upcoming lecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "What is 'grow dive final' and how does it relate to enlarging the intersection?",
+      "context": "So one particular heuristic how to how to enlarge the intersection but not get the the fully union yet",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.844047619047619
+      }
+    },
+    {
+      "question": "What optimizations are used in principled algorithms?",
+      "context": "there were also like principled algorithms that that use optimizations like minimum edge cover.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9181547619047619
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal when extracting parallel dictionaries for humans?",
+      "context": "you want the reliable link so you rely on the intersection if you want to extract phrase translations for the phrase based empty that will be discussed in the upcoming lecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "What optimizations are used in principled algorithms?",
+      "context": "there were also like principled algorithms that that use optimizations like minimum edge cover.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9181547619047619
+      }
+    },
+    {
+      "question": "How do you combine English to Spanish and Spanish to English alignments?",
+      "context": "Remember each of those is a function so each of them allows only one to many or many to one alignment points.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9215686274509804
+      }
+    },
+    {
+      "question": "What is 'grow dive final' and how does it relate to enlarging the intersection?",
+      "context": "So one particular heuristic how to how to enlarge the intersection but not get the the fully union yet",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.844047619047619
+      }
+    }
+  ]
+}

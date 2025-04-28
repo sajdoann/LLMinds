@@ -1,0 +1,138 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of foreigners lived in the Czech Republic in 2020?",
+      "context": "This number includes both citizens of the Czech Republic and foreigners.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "Why does Interior Minister Vít Rakušan say that criminal activity by foreigners is increasing despite a decrease in their percentage?",
+      "context": "because the increase in crime committed by foreigners does not correspond to the overall increase in foreigners living in the Czech Republic.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "What was the share of foreigners in the population at the end of March 2023?",
+      "context": "For the sake of completeness, let us add that according to later published data, this share reached 9.5% at the end of June (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7388716356107661
+      }
+    },
+    {
+      "question": "What was the number of cleared crimes that are being used to calculate the share of foreigners in criminal activity?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8015873015873016
+      }
+    },
+    {
+      "question": "What percentage of crimes in which the police identified the perpetrators were committed by foreigners in 2020?",
+      "context": "Statistics for 2020 state that foreigners were responsible for approximately 8.2% of crimes in which the police identified the perpetrators.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.6992063492063492
+      }
+    },
+    {
+      "question": "What percentage of solved crimes were committed by foreigners in the first half of 2023?",
+      "context": "In the first half of 2023, foreigners were responsible for approximately 10.9% of solved crimes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.6734693877551021
+      }
+    },
+    {
+      "question": "How much did the percentage of solved crimes committed by foreigners increase compared to 2022?",
+      "context": "Compared to 2022, this share increased by approximately 2.7 percentage points.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7956709956709958
+      }
+    },
+    {
+      "question": "What was the share of foreigners in criminal activity in 2020?",
+      "context": "foreigners participated in 8.2% of criminal activity in 2020",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6142857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the share of foreigners in the population at the end of March 2023?",
+      "context": "For the sake of completeness, let us add that according to later published data, this share reached 9.5% at the end of June (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7388716356107661
+      }
+    },
+    {
+      "question": "What was the number of cleared crimes that are being used to calculate the share of foreigners in criminal activity?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8015873015873016
+      }
+    },
+    {
+      "question": "How much did the percentage of solved crimes committed by foreigners increase compared to 2022?",
+      "context": "Compared to 2022, this share increased by approximately 2.7 percentage points.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7956709956709958
+      }
+    },
+    {
+      "question": "Why does Interior Minister Vít Rakušan say that criminal activity by foreigners is increasing despite a decrease in their percentage?",
+      "context": "because the increase in crime committed by foreigners does not correspond to the overall increase in foreigners living in the Czech Republic.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8660714285714286
+      }
+    }
+  ]
+}

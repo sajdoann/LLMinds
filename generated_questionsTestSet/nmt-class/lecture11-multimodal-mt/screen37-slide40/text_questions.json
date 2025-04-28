@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the speaker's claim about the word error rates of different systems?",
+      "context": "So if we look at the word error rates, on the very first slide I was talking about the word error rate of 4%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8270833333333334
+      }
+    },
+    {
+      "question": "How does the speaker define 'offline' in the context of system performance?",
+      "context": "And this is actually offline. So the recognition after the recording has been made, not the online mode.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8004261363636364
+      }
+    },
+    {
+      "question": "What happens to systems when the sound input is poor?",
+      "context": "So if the sound input is too bad, some of the systems really give up.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "How do the scores change when all recordings are evaluated and a system gives up?",
+      "context": "And if the system has given up. Then we will see that the scores are yet a bit worse, so the Google is giving up and it is approaching to total failure on that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8708333333333333
+      }
+    },
+    {
+      "question": "What does the speaker mean by 'total failure' in this context?",
+      "context": "It's close to 100% of word error rate so nothing.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7727272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the speaker's claim about the word error rates of different systems?",
+      "context": "So if we look at the word error rates, on the very first slide I was talking about the word error rate of 4%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8270833333333334
+      }
+    },
+    {
+      "question": "How do the scores change when all recordings are evaluated and a system gives up?",
+      "context": "And if the system has given up. Then we will see that the scores are yet a bit worse, so the Google is giving up and it is approaching to total failure on that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8708333333333333
+      }
+    },
+    {
+      "question": "How does the speaker define 'offline' in the context of system performance?",
+      "context": "And this is actually offline. So the recognition after the recording has been made, not the online mode.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8004261363636364
+      }
+    }
+  ]
+}

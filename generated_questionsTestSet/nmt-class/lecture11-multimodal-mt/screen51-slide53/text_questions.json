@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the year when the first truly end-to-end approach was achieved?",
+      "context": "across the whole corpus. The first truly end-to-end approach was in 2018 by the same team.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the purpose of using paramiddle recurrent neural networks in this context?",
+      "context": "And they have a speech encoder which uses some feedforward layers at the beginning and then the convolution because we have to first reduce the input length to some smaller number of positions. What people use here also is paramiddle recurrent neural networks which is like a standard deep recurrent network except that the deeper layers are not run at every time step but they are run only every three steps or every five steps.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7999325236167342
+      }
+    },
+    {
+      "question": "How does the deep recurrent network affect the input to the bidirectional LSTM?",
+      "context": "And that the deeper layers are not run at every time step but they are run only every three steps or every five steps. And that this deep recurrent networks then condense the time dimension of the input.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7750783699059561
+      }
+    },
+    {
+      "question": "What type of decoding was used in the 2018 experiments?",
+      "context": "So they are using both sides of the data. Then there is the standard attention that we have discussed in the past and they used character level decoding in this 2018 experiments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.6866071428571429
+      }
+    },
+    {
+      "question": "What was being predicted in the 2018 experiments?",
+      "context": "So they are predicting either the English transcription or the French translation so they are using both sides of the data.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.640625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the year when the first truly end-to-end approach was achieved?",
+      "context": "across the whole corpus. The first truly end-to-end approach was in 2018 by the same team.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the purpose of using paramiddle recurrent neural networks in this context?",
+      "context": "And they have a speech encoder which uses some feedforward layers at the beginning and then the convolution because we have to first reduce the input length to some smaller number of positions. What people use here also is paramiddle recurrent neural networks which is like a standard deep recurrent network except that the deeper layers are not run at every time step but they are run only every three steps or every five steps.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7999325236167342
+      }
+    },
+    {
+      "question": "What was being predicted in the 2018 experiments?",
+      "context": "So they are predicting either the English transcription or the French translation so they are using both sides of the data.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.640625
+      }
+    }
+  ]
+}

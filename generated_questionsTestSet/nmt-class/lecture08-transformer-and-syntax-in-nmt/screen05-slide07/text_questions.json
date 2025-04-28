@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the role of the decoder in the sequence generation process?",
+      "context": "You emit the final word based on what the decoder says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6499999999999999
+      }
+    },
+    {
+      "question": "What information does the decoder consider when making a decision about the next word?",
+      "context": "So the decoder consults its previous state, the context vector, the last word produced and it decides what should be the next word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.614423076923077
+      }
+    },
+    {
+      "question": "What is the output of the decoder during sequence generation?",
+      "context": "You again do the output projection to the full vocabulary size of the target language and then you pick the most probable token or you perform some clever",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7258454106280193
+      }
+    },
+    {
+      "question": "What type of decision-making process does the decoder use to select the next word?",
+      "context": "...and it decides what should be the next word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.5726495726495726
+      }
+    },
+    {
+      "question": "How does the decoder interact with its previous state when making decisions about sequence generation?",
+      "context": "So the decoder consults its previous state, the context vector, the last word produced and it decides what should be the next word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.6541666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the role of the decoder in the sequence generation process?",
+      "context": "You emit the final word based on what the decoder says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6499999999999999
+      }
+    },
+    {
+      "question": "How does the decoder interact with its previous state when making decisions about sequence generation?",
+      "context": "So the decoder consults its previous state, the context vector, the last word produced and it decides what should be the next word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.6541666666666667
+      }
+    },
+    {
+      "question": "What information does the decoder consider when making a decision about the next word?",
+      "context": "So the decoder consults its previous state, the context vector, the last word produced and it decides what should be the next word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.614423076923077
+      }
+    },
+    {
+      "question": "What is the output of the decoder during sequence generation?",
+      "context": "You again do the output projection to the full vocabulary size of the target language and then you pick the most probable token or you perform some clever",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7258454106280193
+      }
+    }
+  ]
+}

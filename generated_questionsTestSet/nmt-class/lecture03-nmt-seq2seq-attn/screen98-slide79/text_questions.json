@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of attention does the network learn to attend to in image captioning?",
+      "context": "It's the attention is now two dimensional not just one dimensional thing",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.5218531468531469
+      }
+    },
+    {
+      "question": "How does the network handle different objects in an image when generating a caption description?",
+      "context": "So when it is producing the word dog, it is mostly attending to the area of the image where the dog is present and if it's talking about trees and there was a giraffe",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.825925925925926
+      }
+    },
+    {
+      "question": "What type of attention does the network have before learning to attend to parts of the picture?",
+      "context": "It's the attention is now two dimensional not just one dimensional thing and here the network learns to attend to parts of the the pictures",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.6696428571428572
+      }
+    },
+    {
+      "question": "How does the success of the image captioner relate to its ability to generate captions?",
+      "context": "It is very flexible and clever. It is also successful in image captioning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "Why is it called 'two dimensional' attention?",
+      "context": "It's the attention is now two dimensional not just one dimensional thing",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7045454545454546
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the success of the image captioner relate to its ability to generate captions?",
+      "context": "It is very flexible and clever. It is also successful in image captioning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "How does the network handle different objects in an image when generating a caption description?",
+      "context": "So when it is producing the word dog, it is mostly attending to the area of the image where the dog is present and if it's talking about trees and there was a giraffe",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.825925925925926
+      }
+    },
+    {
+      "question": "Why is it called 'two dimensional' attention?",
+      "context": "It's the attention is now two dimensional not just one dimensional thing",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7045454545454546
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the beam search algorithm start with?",
+      "context": "So the beam search algorithm, you begin with a single empty hypothesis in the beam.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "What is the purpose of the beam in the beam search algorithm?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How does the beam search algorithm generate new hypotheses?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the final output of the beam search algorithm?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Can you provide an example or explanation of how the beam search algorithm works?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8482142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the beam search algorithm start with?",
+      "context": "So the beam search algorithm, you begin with a single empty hypothesis in the beam.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "What is the purpose of the beam in the beam search algorithm?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the final output of the beam search algorithm?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

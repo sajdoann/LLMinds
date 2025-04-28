@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of network processes the input sequence of symbols?",
+      "context": "an encoder, it will process the input sequence of symbols into a single vector representation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6722222222222223
+      }
+    },
+    {
+      "question": "What is the purpose of using the representation from the encoder in the decoder?",
+      "context": "to start the decoder given the condensed representation of the input",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "What type of network runs the standard language model generation?",
+      "context": "the standard language model generation in the decoder",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7785714285714286
+      }
+    },
+    {
+      "question": "What happens to the input sequence after it is processed by the encoder?",
+      "context": "it will be condensed into a single vector representation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7326388888888888
+      }
+    },
+    {
+      "question": "How does the decoder use the output of the encoder?",
+      "context": "given the condensed representation of the input",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6041666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of network runs the standard language model generation?",
+      "context": "the standard language model generation in the decoder",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7785714285714286
+      }
+    },
+    {
+      "question": "What type of network processes the input sequence of symbols?",
+      "context": "an encoder, it will process the input sequence of symbols into a single vector representation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.6722222222222223
+      }
+    },
+    {
+      "question": "What happens to the input sequence after it is processed by the encoder?",
+      "context": "it will be condensed into a single vector representation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7326388888888888
+      }
+    },
+    {
+      "question": "How does the decoder use the output of the encoder?",
+      "context": "given the condensed representation of the input",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6041666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of using the representation from the encoder in the decoder?",
+      "context": "to start the decoder given the condensed representation of the input",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6805555555555556
+      }
+    }
+  ]
+}

@@ -1,0 +1,1238 @@
+{
+  "all_questions": [
+    {
+      "question": "What is Zetetic Astronomy?",
+      "context": "Bath: Printed By S. HAYWARD, GREEN STREET.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.812917222963952
+      }
+    },
+    {
+      "question": "What does 'Zetetic' mean?",
+      "context": "[Entered at Stationer’s Hall.] ZETETIC ASTRONOMY.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.860981308411215
+      }
+    },
+    {
+      "question": "What is Zetetic Astronomy?",
+      "context": "The term “zetetic” is derived from the Greek verb zeteo; which means to search or examine—to proceed only by inquiry.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7483398917855386
+      }
+    },
+    {
+      "question": "Why do philosophers create theories without evidence?",
+      "context": "These have not done near so much harm as that pride and ambition which has led philosophers to think it beneath them to offer anything less to the world than a complete and finished system of nature; and, in order to obtain this at once, to take the liberty of inventing certain principles and hypotheses, from which they pretend to explain all her mysteries.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9222790881669386
+      }
+    },
+    {
+      "question": "What is the main point Copernicus makes about hypotheses?",
+      "context": "It is not necessary that hypotheses should be true, or even probable; it is sufficient that they lead to results of calculation which agree with calculations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7931057835568197
+      }
+    },
+    {
+      "question": "What is the author's criticism of systems of nature like Newton's?",
+      "context": "The foundations or premises are always unproved; no proof is ever attempted; the necessity for it is denied; it is considered sufficient that the assumptions shall seem to explain the phenomena selected.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8018332135154564
+      }
+    },
+    {
+      "question": "What does 'zetetic' mean?",
+      "context": "'Nature speaks to us in a peculiar language; in the language of phenomena, she answers at all times the questions which are put to her; and such questions are experiments.',\n    ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.793785046728972
+      }
+    },
+    {
+      "question": "What is the 'Rule-of-Three' or 'Golden Rule'?",
+      "context": "If one hundred weight of any article is worth a given sum, what will some other weight of that article be worth? The separate figures may be considered as the elements or facts of the inquiry; the placing and working of these as the logical arrangement; and the quotient or answer as the fair and natural deduction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7700767690253671
+      }
+    },
+    {
+      "question": "What is rejected by the author?",
+      "context": "Let the practice of theorising be cast aside as one fatal to the full development of truth; oppressive to the reasoning power; and in every sense inimical to the progress and permanent improvement of the human race.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7398753894080997
+      }
+    },
+    {
+      "question": "What type of surface would all standing water on the Earth have if it were a globe?",
+      "context": "every part must be an arc of a circle, curvating from the summit at the rate of 8 inches per mile multiplied by the square of the distance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.82179649592466
+      }
+    },
+    {
+      "question": "What is the depression of the true level on the Earth's surface?",
+      "context": "or C. D = B. C² / (2 A. D.)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8327102803738318
+      }
+    },
+    {
+      "question": "What is the formula derived from Euclid's third book to calculate C. D.?",
+      "context": "To find an expression for C. D. we have Euclid, third book, 36 prop. which proves that B. C² = C. D. (2 A D × C D);",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8515456506110711
+      }
+    },
+    {
+      "question": "What is the depression of the true level equal to in feet for a distance of four miles?",
+      "context": "For example, taking a distance of four miles, the square of 4 = 16, and putting down twice the radius of the Earth’s curvature as in round figures about 8000 miles, we make the depression on four miles = 168000 of a mile = 16 × 17608000 yards = 17650 yards = 52850feet,",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8248861730170142
+      }
+    },
+    {
+      "question": "Why was an allowance not made for refraction in the foregone formulæ?",
+      "context": "The effect of this is to lessen the difference between the true and apparent levels, but in such an extremely variable and uncertain manner that if any constant or fixed allowance is made for it in formulæ or tables, it will often lead to a greater error than what it was intended to obviate.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8537595581988106
+      }
+    },
+    {
+      "question": "What effect does refraction have on the difference between true and apparent levels?",
+      "context": "For though the refraction may at a mean compensate for about a seventh of the curvature of the earth, it sometimes exceeds a fifth, and at other times does not amount to a fifteenth.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8289000718907261
+      }
+    },
+    {
+      "question": "What is the main reason why an allowance was not made for refraction?",
+      "context": "We have, therefore, made no allowance for refraction in the foregone formulæ.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8238677210639828
+      }
+    },
+    {
+      "question": "What is the difference between the true and apparent level of water, in terms of inches per mile?",
+      "context": "For though the refraction may at a mean compensate for about a seventh of the curvature of the earth, it sometimes exceeds a fifth, and at other times does not amount to a fifteenth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8105230050323509
+      }
+    },
+    {
+      "question": "How high would the water surface be in the center of an arc of 6 miles extent?",
+      "context": "but as the eye of the observer was only eight inches above the water, the highest point of the surface would be at one mile from the place of observation; below which point the surface of the water at the end of the remaining five miles would be 16 feet 8 inches",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8663834607759842
+      }
+    },
+    {
+      "question": "Why were experiments made upon standing water?",
+      "context": "Experiments made upon the sea have been objected to on account of its constantly-changing altitude; and the existence of banks and channels which produce[11] a “a crowding” of the waters, currents, and other irregularities.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.904539385847797
+      }
+    },
+    {
+      "question": "What is the minimum altitude required for an observer to see the Welsh coast from the Isle of Man if the Earth is a globe?",
+      "context": "If the earth is a globe, the surface of the water would form an arc 60 miles in length, the centre of which would be 1,944 feet higher than the coast line at either end, so that an observer would be obliged to attain this altitude before he could see the Welsh[14] coast from the Isle of Man: as shown in the diagram, Figure 4.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7333333333333333,
+        "diversity_score": 0.8313796172674677
+      }
+    },
+    {
+      "question": "What is the relationship between the surface of standing water and the line-of-sight according to this experiment?",
+      "context": "this simple experiment is all-sufficient to prove that the surface of the water is parallel to the line-of-sight, and is therefore horizontal",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7708997617738684
+      }
+    },
+    {
+      "question": "What would be the height of the Welsh coast line below the line of sight if the Earth is a globe?",
+      "context": "The altitude of 100 feet could cause the line of sight to touch the horizon at the distance of nearly 13 miles; and from the horizon to Orm’s Head being 47 miles, the square of this number multiplied by 8 inches gives 1472 feet as the distance which the Welsh coast line would be below the line of sight B C.—A representing the Great Orm’s Head, which, being 600 feet high, its summit would be 872 feet below the horizon.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8368305176132279
+      }
+    },
+    {
+      "question": "What is the approximate distance from which the Great Orm's Head can be seen in clear weather?",
+      "context": "00 feet the Great Orm’s Head is visible in clear weather from Douglas Harbour.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8338618157543392
+      }
+    },
+    {
+      "question": "What would be the distance below the horizon where a vessel would be if it sailed 40 miles westwards?",
+      "context": "The square of 20 miles multiplied by 8 inches gives 266 feet as the amount the vessel would be below the line C D at the beginning and at the end of the 40 miles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8481524749048114
+      }
+    },
+    {
+      "question": "What is the shape of the Earth's surface as seen from a great height?",
+      "context": "If we stand upon the deck of a ship, or mount to the mast head; or go to the top of a mountain, or ascend above the Earth in a balloon, and look over the sea, the surface appears as a vast inclined plane rising up until in the distance it intercepts the line of sight.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7897016534867002
+      }
+    },
+    {
+      "question": "What is the shape of the horizon when viewed through a mirror?",
+      "context": "If a good mirror be held in the opposite direction, the horizon will be reflected as a well-defined mark or line across the centre, as represented in diagram, Figure 7.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7731874822996319
+      }
+    },
+    {
+      "question": "What does the horizon appear as on a concave Earth?",
+      "context": "The Earth, when we were at our greatest altitude, positively appeared concave, looking like a huge dark bowl, rather than the convex sphere such as we naturally expect to see it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8252658717370287
+      }
+    },
+    {
+      "question": "What shape does the Earth appear in an optical illusion when viewed from a balloon?",
+      "context": "the appearance of the World around me assumed a shape or form like that which is made by placing two watch-glasses together by their edges, the balloon apparently in the central cavity all the time of its flight at that elevation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8247388675096207
+      }
+    },
+    {
+      "question": "What was observed by Mr. Elliott during his ascension from Baltimore?",
+      "context": "Mr. Elliott, an American æronaut, in a letter giving an account of his ascension from Baltimore, thus speaks of the appearance of the Earth from a balloon:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8680462839341344
+      }
+    },
+    {
+      "question": "What is the apparent shape of the Earth when viewed from a high altitude?",
+      "context": "the surface of the earth C D appears to rise to the line-of-sight from the balloon, and “seems to close with the sky” at the points H H in the same manner that the ceiling and the floor of a long room, or the top and bottom of a tunnel appear to approach each other, and from the same cause, viz.: that they are parallel to the line-of-sight, and therefore horizontal.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7932981867561306
+      }
+    },
+    {
+      "question": "What is the expected shape of the Earth if it were convex?",
+      "context": "If the Earth’s surface were convex the observer, looking from a balloon, instead of seeing it gradually ascend to the level of the eye, would[20] have to look downwards to the horizon H H, as represented in figure 9, and the amount of dip in the line-of-sight C H would be the greatest at the highest elevation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.784760229989528
+      }
+    },
+    {
+      "question": "What is the implication of the Earth appearing concave when viewed from a high altitude?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8724966622162884
+      }
+    },
+    {
+      "question": "What is the apparent effect on the horizon when looking at a convex Earth from a balloon?",
+      "context": "If the Earth’s surface were convex the observer, looking from a balloon, instead of seeing it gradually ascend to the level of the eye, would[20] have to look downwards to the horizon H H",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8084471603163192
+      }
+    },
+    {
+      "question": "What is the conclusion drawn about the Earth's shape when traveling in a direction towards the North polar star?",
+      "context": "If we now consider the fact that when we travel by land or sea, and from any part of the known world, in a direction towards the North polar star, we shall arrive at one and the same point",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8179985673113765
+      }
+    },
+    {
+      "question": "What is the implication of traveling in a direction towards the North polar star?",
+      "context": "That[21] from this northern centre the land diverges and stretches out, of necessity, towards a circumference, which must now be called the Southern Region",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7726846497671366
+      }
+    },
+    {
+      "question": "What is the shape of the Earth according to this text?",
+      "context": "That from this northern centre the land diverges and stretches out, of necessity, towards a circumference, which must now be called the Southern Region: which is a vast circle, and not a pole or centre.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7473520249221184
+      }
+    },
+    {
+      "question": "Why do navigators struggle to circumnavigate the Earth?",
+      "context": "In his account of the voyage he says, at page 96—“We found ourselves every day from 12 to 16 miles by observation in advance of our reckoning.” “By our observations we found ourselves 58 miles to the eastward of our reckoning in two days.”",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8605741999433588
+      }
+    },
+    {
+      "question": "What is the relationship between the North and South regions?",
+      "context": "That there is One Centre—the North, and One Circumference—the South.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7829698857736241
+      }
+    },
+    {
+      "question": "Why is the water level higher in the southern region than in the northern region?",
+      "context": "It is clearly ascertained that the altitude of the water in various parts of the world is much influenced by the pressure of the atmosphere—however this[24] pressure is caused—and it is well known that the atmospheric pressure in the south is constantly less than it is in the north, and therefore the water in the southern region must always be considerably higher than it is in the northern.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8519429414658141
+      }
+    },
+    {
+      "question": "What is the assumption made when concluding that the water is convex based on the disappearing hull of an outward-bound vessel?",
+      "context": "In this conclusion, however, there is an assumption involved, viz., that such a phenomenon can only result from a convex surface.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8437954309449637
+      }
+    },
+    {
+      "question": "What would be expected to happen to the rails of a straight and level railway as they appear in the distance?",
+      "context": "If we select for observation a few miles of straight and level railway, we shall find that the rails, which are parallel, appear in the distance to approach each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.8085868877801982
+      }
+    },
+    {
+      "question": "What is the phenomenon observed when an observer looks at a train or a row of lamps from a certain angle?",
+      "context": "The lines 1.2 and A D will converge at the point D and the pedestal of the lamp at D will seem to have disappeared",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7809091172130436
+      }
+    },
+    {
+      "question": "Why do the rails appear to move towards each other when viewed from a certain angle?",
+      "context": "But the two rails which are nearest together do so more rapidly than those which are farthest asunder, as shown in the following diagram",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8706052514463729
+      }
+    },
+    {
+      "question": "What happens to the image of a narrow bank or poles when viewed from a certain angle?",
+      "context": "The bank having the altitude 1.3 and 2.4 will, in the distance of two or three miles (according to its depth) disappear to the eye of an observer placed at Figure 1",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8154746452059536
+      }
+    },
+    {
+      "question": "What happens to parallel lines in the distance?",
+      "context": "Many other familiar instances could be given to show the true law of perspective; which is, that parallel lines appear in the distance to converge to one and the same datum line, but to reach it at different distances if themselves dissimilarly distant.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7816342843089031
+      }
+    },
+    {
+      "question": "Why does the hull of a ship appear to disappear before the mast-head?",
+      "context": "The hull of the vessel being contained within the lines A B and C H, must gradually diminish as these converge, until at H, or the horizon, it enters the vanishing point and disappears; but the mast-head represented by the line E D is still above the horizon at H.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8328660436137072
+      }
+    },
+    {
+      "question": "What do optical sequences of perspective reveal about the Earth's shape?",
+      "context": "Thus all these phenomena which have so long been considered as proofs of the Earth’s rotundity are really optical sequences of the contrary doctrine.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8290144435004247
+      }
+    },
+    {
+      "question": "What is the argument made about the Earth's rotundity?",
+      "context": "To argue that because the lower part of an outward-bound ship disappears before the highest the water must be round, is to assume that a round surface only can produce this effect!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.759262349799733
+      }
+    },
+    {
+      "question": "What is the law of perspective, according to Nature?",
+      "context": "It is true only of lines equidistant from the eye-line. It is true that parallel lines converge to one and the same eye-line, but meet it at different distances when more or less apart from each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.741588785046729
+      }
+    },
+    {
+      "question": "What happens to lines not equidistant from the eye-line in perspective?",
+      "context": "lines will converge on the same datum but at different distances!",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8113848768054376
+      }
+    },
+    {
+      "question": "What is the vanishing point?",
+      "context": "It may, therefore, be very easily understood that a line passing over the hull of a ship, and continuing[33] parallel to the surface of the water, must converge to the vanishing point at the distance of about 3000 times its own elevation; in other words, if the surface of the hull be 10 feet above the water it will vanish at 3,000 times 10 feet; or nearly six statute miles;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7096573208722742
+      }
+    },
+    {
+      "question": "What is the maximum distance an object can be seen from?",
+      "context": "The range of vision is from 110° to 1°. * * The smallest angle under which an object can be seen is upon an average for different sights the 60th part of a degree, or one minute in space; so that when an object is removed from the eye 3000 times its own diameter, it will only just be distinguishable;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8115707306711979
+      }
+    },
+    {
+      "question": "Why do objects vanish at a given distance?",
+      "context": "* * The range of the eye, or diameter of the field of vision is 110°; consequently this is the largest angle under which an object can be seen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8736724723874256
+      }
+    },
+    {
+      "question": "What causes objects to appear to recede into the distance?",
+      "context": "Hence the phenomenon of a receding ship’s hull being the first to disappear, which has been so universally quoted and relied upon as proving the rotundity of the Earth is fairly and logically a proof of the very contrary!",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8061501356647574
+      }
+    },
+    {
+      "question": "Why can the receding ship’s hull appear to disappear even with telescopes?",
+      "context": "From which it must be concluded that it had[34] disappeared through the influence of perspective, and not from having sunk behind the summit of a convex surface!",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8359576053094948
+      }
+    },
+    {
+      "question": "What can cause a vessel to disappear from view when viewed through a telescope?",
+      "context": "it could not arise from the convexity of the water, is proved by the following experiment:—Let an observer stand upon the sea-shore with the eye at an elevation of about six feet above the water, and watch a vessel until it is just “hull down.” If now a good telescope be applied the hull will be distinctly restored to sight!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8575416430854887
+      }
+    },
+    {
+      "question": "What is meant by sailing due east or west?",
+      "context": "Practically it is[35] sailing at right angles to north and south: this is determined ordinarily by the mariners’ compass, but more accurately by the meridian lines which converge to the northern centre of the Earth.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8325025960539979
+      }
+    },
+    {
+      "question": "Why would a telescope not be able to 'look round a corner' or penetrate a dense medium?",
+      "context": "If the elevation of the observer be much greater than six feet the distance at which the vanishing point is formed will be so great that the telescope may not have power enough to magnify or enlarge the angle constituting it;",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8820204717400979
+      }
+    },
+    {
+      "question": "What shape is the earth, according to this text?",
+      "context": "the earth is a plane having a central region, towards which the compass and the meridian lines which guide him, converge.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7630260827072262
+      }
+    },
+    {
+      "question": "What is the purpose of proving a proposition by direct and immediate evidence?",
+      "context": "This portion of the subject furnishes a striking instance of the necessity of, at all times,[38] proving a proposition by direct and immediate evidence, instead of quoting a natural phenomenon as a proof of what has previously been assumed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8085572429906542
+      }
+    },
+    {
+      "question": "What is incorrect about assuming that a globe only could produce the effect observed during circumnavigation?",
+      "context": "It will be seen, by reference to diagram, Figure 19, that the effect must take place equally upon a plane as upon a globe.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8198810535259133
+      }
+    },
+    {
+      "question": "What is the implication of proving a theory's assumptions, according to the text?",
+      "context": "Whoever creates or upholds a theory, adopts a monster which will sooner or later betray and enslave him, or make him ridiculous in the eyes of practical observers.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.776588785046729
+      }
+    },
+    {
+      "question": "What happens to Polaris as a mariner approaches the equator?",
+      "context": "Polaris, or the north polar star, gradually sinks to the horizon as the mariner approaches the equator, on passing which it becomes invisible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.802570093457944
+      }
+    },
+    {
+      "question": "Why does Polaris appear lower as an observer recedes from a distant object?",
+      "context": "First, it is an ordinary effect of perspective for an object to appear lower and lower as the observer recedes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.837846473360492
+      }
+    },
+    {
+      "question": "What phenomenon does the story of two brothers who met after circumnavigating the earth in opposite directions illustrate?",
+      "context": "Whatever truth there may be in this account, it is here shown to be no more favourable to the idea of rotundity than it is to the opposite fact that the earth is a plane; as both forms will permit of the same effect.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.8323254535459044
+      }
+    },
+    {
+      "question": "How does perspective affect the appearance of an elevated object from a distance?",
+      "context": "Let any one try the experiment of looking at a lighthouse, church spire, monument, gas-lamp, or other elevated object, from the distance of a few yards, and notice the angle at which it is observed: on going farther away, the angle will diminish and the object appear lower, until, if the distance be sufficiently great, the line-of-sight to the object, and the apparently ascending surface of the Earth upon which it stands will converge to the angle which constitutes the vanishing point; at a single yard beyond which it will be invisible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8555056314402109
+      }
+    },
+    {
+      "question": "What happens to a distant object when its line-of-sight and the surface it stands on converge?",
+      "context": "object appear lower, until, if the distance be sufficiently great, the line-of-sight to the object, and the apparently[41] ascending surface of the Earth upon which it stands will converge to the angle which constitutes the vanishing point;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8220774250725105
+      }
+    },
+    {
+      "question": "Why is it impossible to see the polar star if the Earth is a globe?",
+      "context": "This would be utterly impossible if the Earth were a globe, as shown in the diagram, Figure 20. Let N represent the north pole, E E the equator, C C the tropic of Capricorn, and P the polar star.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8248112868439972
+      }
+    },
+    {
+      "question": "Let N represent the north pole, E E the equator, C C the tropic of Capricorn, and P the polar star.",
+      "context": "[42]Earth as a globe",
+      "difficulty": "inferential",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.8355724299065421
+      }
+    },
+    {
+      "question": "What is the argument against the Earth's rotundity?",
+      "context": "The fact, then, that the polar star has often been seen from many degrees beyond the equator, is really an important argument against the doctrine of the Earth’s rotundity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7649666221628839
+      }
+    },
+    {
+      "question": "What proportion of the diameter was given by Newton to be different between the poles and equator?",
+      "context": "The difference was calculated by Newton to be the 235th part of the whole diameter; or that the polar was to the equatorial diameter as 689 to 692.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8141410769915443
+      }
+    },
+    {
+      "question": "What conclusion did many scientists draw after measuring arcs of the meridian?",
+      "context": "Others have given still different proportions; but recently the difference of opinion has become so great that many have concluded that the Earth is really instead of oblate an oblong spheroid.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8460107303565247
+      }
+    },
+    {
+      "question": "What was a convincing proof for the accuracy of the ordnance survey operations?",
+      "context": "“when these were connected by a chain of triangles and the length computed the result did not differ more than one inch from the actual measurements—a convincing proof of the accuracy with which all the operations had been conducted.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8234148799706799
+      }
+    },
+    {
+      "question": "What was measured using glass rods and steel chains on Hounslow Heath and Salisbury Plain?",
+      "context": "which was conducted by the Duke of Richmond, Col. Mudge, General Roy, Mr. Dalby, and others,[44] who measured base lines on Hounslow Heath and Salisbury Plain with glass rods and steel chains",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.9096573208722741
+      }
+    },
+    {
+      "question": "How was the distance between Beachy Head and Dunnose in the Isle of Wight calculated?",
+      "context": "The two stations, of Beachy Head in Sussex and Dunnose in the Isle of Wight, are visible from each other, and more than 64 miles asunder, nearly in a direction from east to west; their exact distance was found by the geodetical operations to be 339,397 feet",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8576563623292595
+      }
+    },
+    {
+      "question": "What is the observed deviation in the length of degrees in various parallels?",
+      "context": "The measurements of small arcs of the meridian in other countries have presented similar instances.”[4] This table presents a singular deviation from the common rule; for instead of the degrees increasing as we proceed from north to south, they appear to decrease, as if the Earth were an oblong instead of an oblate spheroid.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7992171380021847
+      }
+    },
+    {
+      "question": "What causes the measurements of small arcs of the meridian in different countries to show similar instances?",
+      "context": "A number of French Academicians who measured above three degrees of the meridian in Peru, gave as the result of their labours the first degree of the meridian from the equator as 56,653 toises; whilst another company of Academicians, who proceeded to Bothnia in Lapland, gave as the result of their calculation 57,422 toises for the length of a degree cutting the polar circle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8587873261910189
+      }
+    },
+    {
+      "question": "What temperature variation affects the length of a metal pendulum?",
+      "context": "The elongation of –1/1000th of an inch will cause it to lose one second per day; and that a change of temperature equal to 30° Fah. will alter its length ¹⁄50000th part and occasion an error in the rate of going of 8 seconds per day.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8017653167185878
+      }
+    },
+    {
+      "question": "What is the primary cause of variations in a pendulum's oscillations as it is carried from the equator towards the north?",
+      "context": "From these data it is readily seen that the variations in the rate of a pendulum as it is carried from the equator towards the north are sufficiently explained, without supposing that they arise from a peculiar spheroidal form of the Earth.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8176230194620306
+      }
+    },
+    {
+      "question": "What temperature range does London experience?",
+      "context": "„ (London) 50 53·6 „ „ „ 39,139 [5]",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9244548286604362
+      }
+    },
+    {
+      "question": "What causes variations in the rate of a pendulum as it is carried from the equator towards the north?",
+      "context": "First, if the pendulum vibrates in the air, which is colder and therefore denser in the north than at the equator, it must be more or less resisted in its passage through it; and, secondly, if it vibrates in vacuo, the temperature being less, the length must be less, the arcs of vibration less, and the velocity greater.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8185953820780649
+      }
+    },
+    {
+      "question": "What effect does the temperature have on the pendulum's vibrations as it is carried towards the equator?",
+      "context": "The degrees of longitude radiating from the north pole gradually increase in extent as they approach the equator; beyond which they again converge towards the south.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8310818465024072
+      }
+    },
+    {
+      "question": "What is said about the measurement of degrees of longitude beyond the equator?",
+      "context": "To this it is replied that no actual measurement of a degree of longitude has ever been made south of the equator!",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7612149532710281
+      }
+    },
+    {
+      "question": "What evidence is cited against the doctrine of the Earth's rotundity?",
+      "context": "It will be seen from the following table of what the degrees of longitude would be if the earth were a globe of 25,000 miles circumference, and comparing these with the results of practical navigation, that the diminution of degrees of longitude beyond the equator is purely imaginary.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7733644859813085
+      }
+    },
+    {
+      "question": "What is the discrepancy between the calculated circumference of the Earth and the navigators' measurements?",
+      "context": "The average longitude of these places is 45°, at which parallel the circuit of the Earth, if it be a globe, should only be 14,282 miles. Here, then, is an error between the theory of rotundity and practical sailing of 7,718 miles.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7921622769753611
+      }
+    },
+    {
+      "question": "What would be the distance made by the whole 360 degrees into which the surface is divided?",
+      "context": "If 143 degrees make 9,000 miles, what will be the distance made by the whole 360 degrees into which the surface is divided?",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.9166666666666666,
+        "diversity_score": 0.8320093457943926
+      }
+    },
+    {
+      "question": "How many miles more than the theory of rotundity would permit is the actual distance round the Southern region at a given latitude in statute miles?",
+      "context": "It must be borne in mind, however, that the above distances are nautical measure, which, reduced to statute miles, gives the actual distance round the Southern region at a given latitude as 26,433 statute miles; or nearly 1,500 miles more than the largest circumference ever assigned to the Earth at the equator.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.631578947368421,
+        "diversity_score": 0.8724688473520249
+      }
+    },
+    {
+      "question": "What is the actual distance round the Southern region at a given latitude?",
+      "context": "The actual distance round the Southern region at a given latitude as 26,433 statute miles; or nearly 1,500 miles more than the largest circumference ever assigned to the Earth at the equator.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8094496365524403
+      }
+    },
+    {
+      "question": "Why is it difficult to determine the distance made by a degree of longitude in Australia versus England?",
+      "context": "A degree of longitude along the southern part of Australia ought to be, if the Earth is a plane, nearly 20 miles greater than a degree of longitude on the southern coast of England.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8211318795430945
+      }
+    },
+    {
+      "question": "What has led to many shipwrecks and loss of life and property in navigating the southern region?",
+      "context": "Such a subject, therefore, ought to be candidly and boldly discussed.[8] “In the southern hemisphere, navigators to India have often fancied themselves east of the Cape when still West, and have been driven ashore on the African coast, which according to their reckoning lay behind them.”",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8543224299065421
+      }
+    },
+    {
+      "question": "What is being proposed as a solution to determine the cause of these anomalies?",
+      "context": "The problem to be solved might be given as the following:—A degree of longitude in England at the latitude of 50° N. is 38·57 nautical or 45 statute miles; at the latitude of Port Jackson in Australia, which is 45° S., a degree of longitude, if the Earth is a globe, should be 42·45 nautical or 49·52 statute miles.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8022696929238986
+      }
+    },
+    {
+      "question": "What is the recommended allowance for the Earth's curvature when laying out railways and canals?",
+      "context": "It is commonly believed that surveyors when laying out railways and canals, are obliged to allow 8 inches per mile for the Earth’s curvature;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8292445482866044
+      }
+    },
+    {
+      "question": "Why did the ordnance department of the Government abandon the practice of allowing for convexity in railway and canal surveying?",
+      "context": "It was considered that whether the surface were convex or horizontal, or whether the convexity were more or less than the supposed degree, would be of no consequence in practice if the spirit level or theodolite were employed to read both backwards and forwards;",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8550066755674233
+      }
+    },
+    {
+      "question": "What is meant by the 'double sight' or 'back-and-forth sight' method in railway and canal surveying?",
+      "context": "It was considered that whether the surface were convex or horizontal, or whether the convexity were more or less than the supposed degree, would be of no consequence in practice if the spirit level or theodolite were employed to read both backwards and forwards;",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8235425011125945
+      }
+    },
+    {
+      "question": "What type of surface is the Earth generally accepted to have based on surveying practices?",
+      "context": "Every survey of this and other countries, whether ordnance or otherwise, is now carried out in connection with a horizontal datum, and therefore, as no other method proves satisfactory, it is virtually an admission by all the most practical scientific men of the day that the Earth cannot be other than a plane!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8155763239875389
+      }
+    },
+    {
+      "question": "What is the argument for the Earth's convexity based on?",
+      "context": "An argument for the Earth’s convexity is thought by many to be found in the following facts:—“Fluid or semi-fluid substances in a state of motion invariably assume the globular form, as rain, hail, dew, mercury, and melted lead...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7799584631360332
+      }
+    },
+    {
+      "question": "Why does the tendency in falling fluids to become globular not necessarily prove the Earth's convexity?",
+      "context": "It will be shown in a subsequent part of this work, that such axial and orbital motion does not exist, and therefore any argument founded upon and including it as a fact is necessarily fallacious.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.860044216661642
+      }
+    },
+    {
+      "question": "What is the 'attraction of cohesion'?",
+      "context": "in falling fluids to become globular is owing to what has been called “attraction of cohesion” (not “attraction of gravitation”), which is very limited in its operation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7119796091758709
+      }
+    },
+    {
+      "question": "Why can't small quantities of matter be made spherical?",
+      "context": "If, in the manufacture of small shot, the melted metal is allowed to fall in masses of several ounces or pounds, instead of being divided into particles weighing only a few grains, it will never take a spherical form.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8823834829882109
+      }
+    },
+    {
+      "question": "Why can bullets be made without the 'attraction of cohesion'?",
+      "context": "Bullets of even half-an-inch diameter can only be made by casting the metal into spherical moulds.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.834696261682243
+      }
+    },
+    {
+      "question": "What is wrong with using an eclipse as evidence for the Earth's rotundity?",
+      "context": "Those who hold that the Earth is a globe will often affirm, with visible enthusiasm, that in an eclipse of the Moon there is proof positive of rotundity.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8085160555954949
+      }
+    },
+    {
+      "question": "Why can't the shadow of the Earth on the Moon be used as evidence for its rotundity?",
+      "context": "That the shadow of the Earth upon the Moon is always round; and that nothing but a globe could, in all positions, cast a circular shadow.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8278249787595582
+      }
+    },
+    {
+      "question": "What is the 'spherical excess' observed in levelling?",
+      "context": "This excess is inappreciable in common cases, but in the larger triangles it becomes necessary to allow for it, and to diminish each of the angles of the observed triangle by one-third of the spherical excess. To calculate this excess, divide the area of the triangle in feet by the radius of the Earth in seconds and the quotient is the excess.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.774440482046237
+      }
+    },
+    {
+      "question": "What is the purpose of allowing for the 'spherical excess' in levelling?",
+      "context": "and to diminish each of the angles of the observed triangle by one-third of the spherical excess.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7393307626952487
+      }
+    },
+    {
+      "question": "What is being measured when a spirit-level or theodolite is 'levelled'?",
+      "context": "If a spirit-level or theodolite be “levelled,” and a given point be read upon a graduated staff at the distance of about or more than 100 chains, this point will have an altitude slightly in excess of the altitude of the cross-hair of the theodolite;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.81256018125177
+      }
+    },
+    {
+      "question": "What is observed when a spirit-level or theodolite is moved and 'levelled' again?",
+      "context": "and again levelled, and a backward sight taken to the distance of 100 chains, another excess of altitude will be observed;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8007870142646336
+      }
+    },
+    {
+      "question": "What is the implication of the 'spherical excess' in levelling for the shape of the Earth?",
+      "context": "It is concluded that as the sea horizon is always observed to be below the cross-hair of the “levelled” theodolite, the line of sight is a tangent, the surface of the water convex, and therefore the Earth is a globe.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7617378727191811
+      }
+    },
+    {
+      "question": "What type of experiment was described in Figure 21?",
+      "context": "Take a convex lens or a magnifying glass and hold it over a straight line drawn across a sheet of paper.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8328141225337486
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was measured using glass rods and steel chains on Hounslow Heath and Salisbury Plain?",
+      "context": "which was conducted by the Duke of Richmond, Col. Mudge, General Roy, Mr. Dalby, and others,[44] who measured base lines on Hounslow Heath and Salisbury Plain with glass rods and steel chains",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.9096573208722741
+      }
+    },
+    {
+      "question": "Why do philosophers create theories without evidence?",
+      "context": "These have not done near so much harm as that pride and ambition which has led philosophers to think it beneath them to offer anything less to the world than a complete and finished system of nature; and, in order to obtain this at once, to take the liberty of inventing certain principles and hypotheses, from which they pretend to explain all her mysteries.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9222790881669386
+      }
+    },
+    {
+      "question": "Why were experiments made upon standing water?",
+      "context": "Experiments made upon the sea have been objected to on account of its constantly-changing altitude; and the existence of banks and channels which produce[11] a “a crowding” of the waters, currents, and other irregularities.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.904539385847797
+      }
+    },
+    {
+      "question": "What is the implication of the Earth appearing concave when viewed from a high altitude?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8724966622162884
+      }
+    }
+  ]
+}

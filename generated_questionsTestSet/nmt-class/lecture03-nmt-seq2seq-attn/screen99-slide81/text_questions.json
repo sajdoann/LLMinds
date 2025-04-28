@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main purpose of comparing scores from two papers?",
+      "context": "The introduction paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5568181818181819
+      }
+    },
+    {
+      "question": "Why might it seem that the attention mechanism is worse than a vanilla system?",
+      "context": "The first sentence of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7446428571428572
+      }
+    },
+    {
+      "question": "What does the author suggest about the relative performance of different systems?",
+      "context": "The introduction paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6477272727272727
+      }
+    },
+    {
+      "question": "Why might the comparison of scores from two papers not provide a clear picture of the attention mechanism's performance?",
+      "context": "[Implicit, as this information is inferred from the text]",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.826797385620915
+      }
+    },
+    {
+      "question": "What can be inferred about the author's attitude towards comparing scores from two papers?",
+      "context": "The final sentence of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6910714285714286
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main purpose of comparing scores from two papers?",
+      "context": "The introduction paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5568181818181819
+      }
+    },
+    {
+      "question": "Why might the comparison of scores from two papers not provide a clear picture of the attention mechanism's performance?",
+      "context": "[Implicit, as this information is inferred from the text]",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.826797385620915
+      }
+    },
+    {
+      "question": "Why might it seem that the attention mechanism is worse than a vanilla system?",
+      "context": "The first sentence of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7446428571428572
+      }
+    },
+    {
+      "question": "What can be inferred about the author's attitude towards comparing scores from two papers?",
+      "context": "The final sentence of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6910714285714286
+      }
+    }
+  ]
+}

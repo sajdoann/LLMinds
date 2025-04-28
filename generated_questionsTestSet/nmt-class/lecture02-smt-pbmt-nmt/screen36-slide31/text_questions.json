@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two strong independence assumptions about the phrases?",
+      "context": "So that's the language model is separate unit",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "Is there a statement about language models being separate units?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "Are there any specific assumptions mentioned about phrases?",
+      "context": "So that's the language model is separate unit",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "Is there a mention of phrases in the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is the context of the phrase 'So that's the language model is separate unit'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there a mention of phrases in the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "Are there any specific assumptions mentioned about phrases?",
+      "context": "So that's the language model is separate unit",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "What is the context of the phrase 'So that's the language model is separate unit'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ]
+}

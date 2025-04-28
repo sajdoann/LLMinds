@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the researcher's first experiment with BLEU cores about?",
+      "context": "Yeah, so here is something like my first experiment with BLEU cores many years ago.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "What language pair was the researcher working on in their first experiment with BLEU cores?",
+      "context": "I was working on translation from Czech to English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7222222222222222
+      }
+    },
+    {
+      "question": "What technique did the researcher use for corpus expansion in their first experiment with BLEU cores?",
+      "context": "And that gave me just plus 0.3 BLEU core.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7534722222222222
+      }
+    },
+    {
+      "question": "What problems did the researcher attempt to fix in their work on BLEU cores?",
+      "context": "I fixed clear BLEU problems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6857142857142857
+      }
+    },
+    {
+      "question": "What was the result of the changes made by the researcher to address the 'clear BLEU problems'?",
+      "context": "...like, I don't know if I...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7976190476190477
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the researcher's first experiment with BLEU cores about?",
+      "context": "Yeah, so here is something like my first experiment with BLEU cores many years ago.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "What language pair was the researcher working on in their first experiment with BLEU cores?",
+      "context": "I was working on translation from Czech to English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7222222222222222
+      }
+    },
+    {
+      "question": "What problems did the researcher attempt to fix in their work on BLEU cores?",
+      "context": "I fixed clear BLEU problems",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6857142857142857
+      }
+    },
+    {
+      "question": "What was the result of the changes made by the researcher to address the 'clear BLEU problems'?",
+      "context": "...like, I don't know if I...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7976190476190477
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who presented the slides to address complexity?",
+      "context": "So now we need to fight this complexity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.703125
+      }
+    },
+    {
+      "question": "What is one of the topics discussed in the slides by Barry Heddo?",
+      "context": "And for that let's look at the slides by Barry Heddo, where we will discuss the hypothesis recombination...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5998774509803921
+      }
+    },
+    {
+      "question": "What method is mentioned as being used in the context of complexity?",
+      "context": "So now we need to fight this complexity.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6510416666666667
+      }
+    },
+    {
+      "question": "What additional topic will be discussed after addressing complexity?",
+      "context": "And for that let's look at the slides by Barry Heddo, where we will discuss the hypothesis recombination...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6519607843137255
+      }
+    },
+    {
+      "question": "What approach is mentioned as being used to reduce cost in the future?",
+      "context": "And for that let's look at the slides by Barry Heddo, where we will discuss the hypothesis recombination...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5910633484162896
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who presented the slides to address complexity?",
+      "context": "So now we need to fight this complexity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.703125
+      }
+    },
+    {
+      "question": "What method is mentioned as being used in the context of complexity?",
+      "context": "So now we need to fight this complexity.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6510416666666667
+      }
+    },
+    {
+      "question": "What approach is mentioned as being used to reduce cost in the future?",
+      "context": "And for that let's look at the slides by Barry Heddo, where we will discuss the hypothesis recombination...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5910633484162896
+      }
+    }
+  ]
+}

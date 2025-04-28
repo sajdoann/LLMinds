@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What types of words were found to be the hardest for humans to align in word alignment tasks?",
+      "context": "We have checked what the humans do because we have been manually aligning words and we see that it was quite difficult for humans to align auxiliary words.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7662377450980392
+      }
+    },
+    {
+      "question": "What specific examples of words were found to be particularly challenging for human alignment in English?",
+      "context": "So the words where people had a disagreement were in English the words like to, the, of, a, and",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6677389705882353
+      }
+    },
+    {
+      "question": "How do humans differ in their word alignments, specifically regarding auxiliary words?",
+      "context": "So the words where people had a disagreement were in English the words like to, the, of, a, and in Czech the auxiliaries were comma or the tokens comma, sev, na, and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What is the implication of human disagreements in word alignment tasks?",
+      "context": "So if you ask two humans to draw word alignments, they will likely have different results due to these differences.",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7541866028708134
+      }
+    },
+    {
+      "question": "Can word alignment as a task be considered meaningful or practical from a linguistic point of view?",
+      "context": "Okay, so let's step a little bit back, especially back from the formulas and let's consider if word alignment as a task makes sense from the linguistic point of view or not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8515625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do humans differ in their word alignments, specifically regarding auxiliary words?",
+      "context": "So the words where people had a disagreement were in English the words like to, the, of, a, and in Czech the auxiliaries were comma or the tokens comma, sev, na, and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What specific examples of words were found to be particularly challenging for human alignment in English?",
+      "context": "So the words where people had a disagreement were in English the words like to, the, of, a, and",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6677389705882353
+      }
+    },
+    {
+      "question": "Can word alignment as a task be considered meaningful or practical from a linguistic point of view?",
+      "context": "Okay, so let's step a little bit back, especially back from the formulas and let's consider if word alignment as a task makes sense from the linguistic point of view or not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "What is the implication of human disagreements in word alignment tasks?",
+      "context": "So if you ask two humans to draw word alignments, they will likely have different results due to these differences.",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7541866028708134
+      }
+    }
+  ]
+}

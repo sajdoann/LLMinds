@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What improvement did pre-training on an Arabic-Cyrillic language pair bring to the Latin-Estonian into Latin-English model?",
+      "context": "We got a non-significant improvement from pre-training on a language pair which doesn't share the script at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5569852941176471
+      }
+    },
+    {
+      "question": "What was the original goal of training the model on Arabic and Cyrillic scripts?",
+      "context": "We were training on the Arabic script into Cyrillic script and that was supposed to help in Latin-Estonian into Latin-English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8039529914529915
+      }
+    },
+    {
+      "question": "Which improvements did not result from pre-training, according to the document?",
+      "context": "For the other setups, the improvements ...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "What kind of improvement can be expected from pre-training on a language pair that doesn't share the script?",
+      "context": "We got a non-significant improvement from pre-training on a language pair which doesn't share the script at all.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.5812908496732027
+      }
+    },
+    {
+      "question": "How significant was the improvement from pre-training on an Arabic-Cyrillic language pair?",
+      "context": "We got a non-significant improvement from pre-training on a language pair which doesn't share the script at all.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.5257352941176471
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What improvement did pre-training on an Arabic-Cyrillic language pair bring to the Latin-Estonian into Latin-English model?",
+      "context": "We got a non-significant improvement from pre-training on a language pair which doesn't share the script at all.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5569852941176471
+      }
+    },
+    {
+      "question": "What was the original goal of training the model on Arabic and Cyrillic scripts?",
+      "context": "We were training on the Arabic script into Cyrillic script and that was supposed to help in Latin-Estonian into Latin-English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8039529914529915
+      }
+    },
+    {
+      "question": "What kind of improvement can be expected from pre-training on a language pair that doesn't share the script?",
+      "context": "We got a non-significant improvement from pre-training on a language pair which doesn't share the script at all.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.5812908496732027
+      }
+    },
+    {
+      "question": "Which improvements did not result from pre-training, according to the document?",
+      "context": "For the other setups, the improvements ...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8257575757575757
+      }
+    }
+  ]
+}

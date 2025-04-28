@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the basis for ranking systems?",
+      "context": "A description of that in the paper and the description says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7261904761904763
+      }
+    },
+    {
+      "question": "How were judgments obtained?",
+      "context": "So when having read this, I was looking at the...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.975
+      }
+    },
+    {
+      "question": "What was the goal of the author while reading the paper?",
+      "context": "I downloaded the judgments and I was trying to come up with the same ranking as was in the paper.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "What is being attempted by the author?",
+      "context": "A description of that in the paper and the description says.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7261904761904763
+      }
+    },
+    {
+      "question": "Why was the author trying to achieve a certain ranking?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the basis for ranking systems?",
+      "context": "A description of that in the paper and the description says.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7261904761904763
+      }
+    },
+    {
+      "question": "How were judgments obtained?",
+      "context": "So when having read this, I was looking at the...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.975
+      }
+    },
+    {
+      "question": "What is being attempted by the author?",
+      "context": "A description of that in the paper and the description says.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7261904761904763
+      }
+    },
+    {
+      "question": "What was the goal of the author while reading the paper?",
+      "context": "I downloaded the judgments and I was trying to come up with the same ranking as was in the paper.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402777777777778
+      }
+    }
+  ]
+}

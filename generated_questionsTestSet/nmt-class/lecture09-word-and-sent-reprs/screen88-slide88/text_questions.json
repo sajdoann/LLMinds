@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of evaluation is being performed?",
+      "context": "So here is the semantic evaluation again",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.5178571428571429
+      }
+    },
+    {
+      "question": "What machine translation system is being evaluated?",
+      "context": "of the representations learned by the English to Czech machine translation system",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6136363636363636
+      }
+    },
+    {
+      "question": "What type of task is the evaluation focused on?",
+      "context": "and it's important...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5694444444444444
+      }
+    },
+    {
+      "question": "Is the evaluation positive or negative in tone?",
+      "context": "So here is the semantic evaluation again of the representations learned by the English to Czech machine translation system and it's important...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.634375
+      }
+    },
+    {
+      "question": "What does the phrase 'and it's important...' suggest about the significance of the evaluation?",
+      "context": "So here is the semantic evaluation again of the representations learned by the English to Czech machine translation system and it's important...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6708333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of task is the evaluation focused on?",
+      "context": "and it's important...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5694444444444444
+      }
+    },
+    {
+      "question": "Is the evaluation positive or negative in tone?",
+      "context": "So here is the semantic evaluation again of the representations learned by the English to Czech machine translation system and it's important...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.634375
+      }
+    },
+    {
+      "question": "What machine translation system is being evaluated?",
+      "context": "of the representations learned by the English to Czech machine translation system",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6136363636363636
+      }
+    }
+  ]
+}

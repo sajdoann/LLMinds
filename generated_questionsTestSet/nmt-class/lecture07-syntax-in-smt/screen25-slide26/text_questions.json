@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main issue with extracting translation from word alignments in phrase-based MT?",
+      "context": "Detailed illustration of these two few rules.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8303571428571429
+      }
+    },
+    {
+      "question": "Why does Green Witch not constitute a constituent in the syntactic tree?",
+      "context": "And this leads to a loss of",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8139880952380952
+      }
+    },
+    {
+      "question": "What is the primary approach being discussed in the document?",
+      "context": "In phrase-based MT, when you saw this a la Brucha Verde, the Green Witch with these word alignments, you could easily extract the translation of Brucha Verde as Green Witch.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8039529914529915
+      }
+    },
+    {
+      "question": "What is the consequence of not accounting for syntactic information in phrase-based MT?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "How does the document relate to the concept of constituent extraction?",
+      "context": "Green Witch is not any constituent in the syntactic tree.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main issue with extracting translation from word alignments in phrase-based MT?",
+      "context": "Detailed illustration of these two few rules.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8303571428571429
+      }
+    },
+    {
+      "question": "How does the document relate to the concept of constituent extraction?",
+      "context": "Green Witch is not any constituent in the syntactic tree.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "Why does Green Witch not constitute a constituent in the syntactic tree?",
+      "context": "And this leads to a loss of",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8139880952380952
+      }
+    },
+    {
+      "question": "What is the consequence of not accounting for syntactic information in phrase-based MT?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    }
+  ]
+}

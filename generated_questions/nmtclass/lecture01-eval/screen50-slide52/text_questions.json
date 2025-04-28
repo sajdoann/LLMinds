@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happened during the specified action?",
+      "context": "action and there is again who was taking part in that action",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "Who was involved in the action?",
+      "context": "action and there is again who was taking part in that action",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What circumstances were present during the action?",
+      "context": "action and there is again who was taking part in that action",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6071428571428572
+      }
+    },
+    {
+      "question": "Is this information about a specific event or situation, or general guidance?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9886363636363636
+      }
+    },
+    {
+      "question": "Can the meaning of the text be determined without making assumptions beyond what is explicitly stated?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is this information about a specific event or situation, or general guidance?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9886363636363636
+      }
+    },
+    {
+      "question": "Who was involved in the action?",
+      "context": "action and there is again who was taking part in that action",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "Can the meaning of the text be determined without making assumptions beyond what is explicitly stated?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    }
+  ]
+}

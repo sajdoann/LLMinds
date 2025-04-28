@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of phrase is 'Taiwan surplus in trade between two shores' when translated into English?",
+      "context": "This sentence from the real data",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7135416666666667
+      }
+    },
+    {
+      "question": "Why does the translation system need to decompose 'Taiwan surplus in trade between two shores'?",
+      "context": "The reasons for decomposition of this phrase",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6488095238095238
+      }
+    },
+    {
+      "question": "What is a consequence of decomposing 'Taiwan surplus in trade between two shores' into its constituents?",
+      "context": "The potential outcome of decomposition",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6546875
+      }
+    },
+    {
+      "question": "How does the translation system relate to prepositional phrases and noun phrases?",
+      "context": "Relationships between parts of speech",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "What is needed on the target side for the verb phrase in 'Taiwan surplus in trade between two shores'?",
+      "context": "The requirements for translation",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6838235294117647
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of phrase is 'Taiwan surplus in trade between two shores' when translated into English?",
+      "context": "This sentence from the real data",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7135416666666667
+      }
+    },
+    {
+      "question": "How does the translation system relate to prepositional phrases and noun phrases?",
+      "context": "Relationships between parts of speech",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "Why does the translation system need to decompose 'Taiwan surplus in trade between two shores'?",
+      "context": "The reasons for decomposition of this phrase",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6488095238095238
+      }
+    },
+    {
+      "question": "What is needed on the target side for the verb phrase in 'Taiwan surplus in trade between two shores'?",
+      "context": "The requirements for translation",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6838235294117647
+      }
+    },
+    {
+      "question": "What is a consequence of decomposing 'Taiwan surplus in trade between two shores' into its constituents?",
+      "context": "The potential outcome of decomposition",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6546875
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process called when applying a sequence of merges to new input?",
+      "context": "So you end up with this sequence of merges and then when you apply this to the new input, you simply apply it in the order in which it was created.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "How does the vocabulary size relate to the number of merge operations?",
+      "context": "The vocabulary size will be as big as your alphabet and the number of merge operations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7637987012987013
+      }
+    },
+    {
+      "question": "What is the purpose of separating subword units from other parts of words?",
+      "context": "So for our machine translation system, the the input is now not a single token newest, but it is a sequence of four tokens. But it is designed so that frequent words will have their own unit and less frequent words will be broken even maybe like if their stems, if their basic meaning components are frequent enough, then there could be like a stem part and the ending part.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8057598039215687
+      }
+    },
+    {
+      "question": "What is the main advantage of neural empty over phrase-based empty?",
+      "context": "Neural empty simply learns by itself what is the correct combination of the subword units and it gracefully handles all the morphological richness of objects.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What happens to parts of words that are not merged further during processing?",
+      "context": "So whatever and whatever is not merged any further that will simply remain represented as the subword with the subword units.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7580128205128205
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the process called when applying a sequence of merges to new input?",
+      "context": "So you end up with this sequence of merges and then when you apply this to the new input, you simply apply it in the order in which it was created.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the purpose of separating subword units from other parts of words?",
+      "context": "So for our machine translation system, the the input is now not a single token newest, but it is a sequence of four tokens. But it is designed so that frequent words will have their own unit and less frequent words will be broken even maybe like if their stems, if their basic meaning components are frequent enough, then there could be like a stem part and the ending part.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8057598039215687
+      }
+    },
+    {
+      "question": "How does the vocabulary size relate to the number of merge operations?",
+      "context": "The vocabulary size will be as big as your alphabet and the number of merge operations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7637987012987013
+      }
+    },
+    {
+      "question": "What is the main advantage of neural empty over phrase-based empty?",
+      "context": "Neural empty simply learns by itself what is the correct combination of the subword units and it gracefully handles all the morphological richness of objects.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7613636363636364
+      }
+    }
+  ]
+}

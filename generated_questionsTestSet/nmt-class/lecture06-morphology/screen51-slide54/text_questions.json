@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the risk associated with pruning without linear context?",
+      "context": "unmodivation. But then the pruning happens without linear context.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "Why are two-step translation and reverse self-training techniques used to handle sparseness?",
+      "context": "One of them is called two-step translation and the other is called reverse self-training.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What is the goal of using these techniques?",
+      "context": "So there is very risk, very high risk of search errors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.859375
+      }
+    },
+    {
+      "question": "How does two-step translation work?",
+      "context": "So we'll now cover two techniques which try to handle the sparseness but still avoid the explosion.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9109375
+      }
+    },
+    {
+      "question": "What is reverse self-training?",
+      "context": "One of them is called two-step translation and the other is called reverse self-training.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6770833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the risk associated with pruning without linear context?",
+      "context": "unmodivation. But then the pruning happens without linear context.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "Why are two-step translation and reverse self-training techniques used to handle sparseness?",
+      "context": "One of them is called two-step translation and the other is called reverse self-training.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What is reverse self-training?",
+      "context": "One of them is called two-step translation and the other is called reverse self-training.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6770833333333334
+      }
+    }
+  ]
+}

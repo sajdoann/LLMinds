@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Which three ministries share assistance tools mainly?",
+      "context": "the Ministry of Labor and Social Affairs, for us it is the Antivirus programs (...), and then we also share the assistance tools with the Ministry of Industry and Trade and the Ministry of Finance",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9635416666666666
+      }
+    },
+    {
+      "question": "What are the purposes of the first two antivirus programs?",
+      "context": "<a href=https://www.vlada.cz/cz/epidemie-coronavirusu/dulezite-informace/podpora-a-ulevy-pro-podnikatele-a-zamestnance-180601/",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of the COVID Uncovered Costs program?",
+      "context": "<a href=https://www.mpo.cz/covid-2021>management</a> of the <a href=https://www.mpo.cz/covid-2021>COVID 2021</a> subsidy program and the <a href=https://covid.gov.cz/situace/kompenzace/covid-2021>The COVID Uncovered Costs</a> program, intended for companies with a significant drop in sales",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8103864734299517
+      }
+    },
+    {
+      "question": "What type of programs were launched to support companies with a significant drop in sales?",
+      "context": "the COVID Uncovered Costs program, intended for companies with&nbsp;a significant drop in sales.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.842948717948718
+      }
+    },
+    {
+      "question": "Why did the government decide not to launch the COVID 2021 subsidy program again?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which three ministries share assistance tools mainly?",
+      "context": "the Ministry of Labor and Social Affairs, for us it is the Antivirus programs (...), and then we also share the assistance tools with the Ministry of Industry and Trade and the Ministry of Finance",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9635416666666666
+      }
+    },
+    {
+      "question": "Why did the government decide not to launch the COVID 2021 subsidy program again?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    },
+    {
+      "question": "What are the purposes of the first two antivirus programs?",
+      "context": "<a href=https://www.vlada.cz/cz/epidemie-coronavirusu/dulezite-informace/podpora-a-ulevy-pro-podnikatele-a-zamestnance-180601/",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'nemám kočku' translate to in English?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.546875
+      }
+    },
+    {
+      "question": "Why did the phrase-based system drop the negation in 'nemám kočku'?",
+      "context": "The main problem of the phrase-based systems highlighted by this example",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What is the main problem with phrase-based systems according to the document?",
+      "context": "This sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "How does the example in the document relate to the functioning of phrase-based systems?",
+      "context": "The system, the phrase-based system",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What is the expected behavior of a phrase-based system regarding negation in translations?",
+      "context": "This sentence",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5432692307692307
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'nemám kočku' translate to in English?",
+      "context": "This sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.546875
+      }
+    },
+    {
+      "question": "How does the example in the document relate to the functioning of phrase-based systems?",
+      "context": "The system, the phrase-based system",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "Why did the phrase-based system drop the negation in 'nemám kočku'?",
+      "context": "The main problem of the phrase-based systems highlighted by this example",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What is the main problem with phrase-based systems according to the document?",
+      "context": "This sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the Symmetrisation heuristic?",
+      "context": "So the popular Symmetrisation heuristics is this Grodiag final",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6150793650793651
+      }
+    },
+    {
+      "question": "How does the Symmetrisation heuristic work?",
+      "context": "where you include only points that are already in close vicinity from the intersection ones.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "What is a Grodiag final?",
+      "context": "So the popular Symmetrisation heuristics is this Grodiag final",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7472222222222222
+      }
+    },
+    {
+      "question": "Why would you use the Symmetrisation heuristic?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "What is meant by 'close vicinity' in the context of the Symmetrisation heuristic?",
+      "context": "where you include only points that are already in close vicinity from the intersection ones.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7229166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a Grodiag final?",
+      "context": "So the popular Symmetrisation heuristics is this Grodiag final",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7472222222222222
+      }
+    },
+    {
+      "question": "How does the Symmetrisation heuristic work?",
+      "context": "where you include only points that are already in close vicinity from the intersection ones.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "What is meant by 'close vicinity' in the context of the Symmetrisation heuristic?",
+      "context": "where you include only points that are already in close vicinity from the intersection ones.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7229166666666667
+      }
+    },
+    {
+      "question": "Why would you use the Symmetrisation heuristic?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    }
+  ]
+}

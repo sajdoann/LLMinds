@@ -1,0 +1,204 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main conclusion of the Czech Statistical Office's demographic projection?",
+      "context": "The statement: The Czech Statistical Office - a demographic report prepared by experts - tells us after five years that the situation from the perspective of the pension system is worse than five years ago.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "Why does the Minister of Labor and Social Affairs Marian Jurečka claim that a recent projection by demographers shows worsening development in the pension system?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9118589743589743
+      }
+    },
+    {
+      "question": "What is the medium variant of population development likely to represent?",
+      "context": "The authors of the CZSO studies state that the medium variant represents the most likely scenario for future population development (<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7977548767022451
+      }
+    },
+    {
+      "question": "Will life expectancy increase in the Czech Republic between 2023 and 2050?",
+      "context": "Although this increase is slowing down over the years, between 2023 and 2050, life expectancy for men is expected to increase by 5.2 years to 82.2 years and for women by 4.1 years to 87.1 years (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8305860805860805
+      }
+    },
+    {
+      "question": "What is the projected increase in life expectancy for men and women between 2023 and 2050?",
+      "context": "life expectancy for men is expected to increase by 5.2 years to 82.2 years and for women by 4.1 years to 87.1 years",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8099358974358974
+      }
+    },
+    {
+      "question": "When will the number of people of working age begin to decline?",
+      "context": "the mid-30s",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7045454545454546
+      }
+    },
+    {
+      "question": "What is the share of people of working age in the total population?",
+      "context": "This value is crucial for the state of the pension system, as it shows how large a portion of society will be able to earn on their pensions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7834857450242065
+      }
+    },
+    {
+      "question": "What does fertility rate measure?",
+      "context": "The fertility rate makes this figure more precise by expressing the number of these children per thousand women of reproductive age.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7923076923076923
+      }
+    },
+    {
+      "question": "What is total fertility rate?",
+      "context": "The sum of fertility rates for all age groups (divided by a thousand) expresses the intensity of fertility in the population and indicates the average number of live births per woman, the so-called total fertility.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.753021978021978
+      }
+    },
+    {
+      "question": "What is the estimated total fertility rate for 2023 according to CZSO projection?",
+      "context": "The CZSO projection from November 2023, based on the current data at the time, estimated that in 2023 the total fertility rate would be 1.5 child per woman.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7627218934911243
+      }
+    },
+    {
+      "question": "Why is 2.1 children per woman considered sufficient to prevent population decline?",
+      "context": "If the value of total fertility falls below 2.1, the population decreases in the long term, and vice versa.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8736802413273002
+      }
+    },
+    {
+      "question": "What is the total fertility rate estimated by CZSO in 2023?",
+      "context": "The CZSO projection from November 2023, based on the current data at the time, estimated that in 2023 the total fertility rate would be 1.5 children per woman (<a href=\"https://csu.gov.cz/docs/107508/de376ac6-82c8-1856-dc1f-ffecc8b88b34/13013923.pdf?version=1.0\">.pdf</a>, p. 2).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.748131179165662
+      }
+    },
+    {
+      "question": "What is the difference in fertility rate assumption between CZSO projections from 2023 and 2018?",
+      "context": "In contrast, the previous projection from 2018 assumed a gradual stabilization at 1.74 children per woman (<a href=\"https://csu.gov.cz/docs/107508/73b20901-b471-9635-8861-0ccbaa3f34c3/13013918u.pdf?version=1.0\">.pdf</a>, p.&nbsp;2).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.787719298245614
+      }
+    },
+    {
+      "question": "When does the CZSO projection from 2023 assume better development in the share of the working-age population?",
+      "context": "However, in the statement, it primarily compares the CZSO projections from 2023 and 2018 and says that the newer document assumes <i>\"from the perspective of the pension system\"></i> worse results than previous estimates.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8391941391941392
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Will life expectancy increase in the Czech Republic between 2023 and 2050?",
+      "context": "Although this increase is slowing down over the years, between 2023 and 2050, life expectancy for men is expected to increase by 5.2 years to 82.2 years and for women by 4.1 years to 87.1 years (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8305860805860805
+      }
+    },
+    {
+      "question": "Why does the Minister of Labor and Social Affairs Marian Jurečka claim that a recent projection by demographers shows worsening development in the pension system?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9118589743589743
+      }
+    },
+    {
+      "question": "What is the medium variant of population development likely to represent?",
+      "context": "The authors of the CZSO studies state that the medium variant represents the most likely scenario for future population development (<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7977548767022451
+      }
+    },
+    {
+      "question": "Why is 2.1 children per woman considered sufficient to prevent population decline?",
+      "context": "If the value of total fertility falls below 2.1, the population decreases in the long term, and vice versa.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8736802413273002
+      }
+    }
+  ]
+}

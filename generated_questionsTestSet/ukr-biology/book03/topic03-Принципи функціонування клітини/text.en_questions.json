@@ -1,0 +1,534 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a biological system?",
+      "context": "A cell is a single whole, a biological system, the elements of which are united by a common metabolism and energy conversion.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7928229665071771
+      }
+    },
+    {
+      "question": "What happens to ATP molecules during energy metabolism?",
+      "context": "ATP → ADP + F + Energy",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9308712121212122
+      }
+    },
+    {
+      "question": "What is glycolysis?",
+      "context": "Glycolysis is a biochemical process that C 6 H 12 O 6 Glucose usually occurs in all cells of the body and is one of the sources of ATP supply for the cell.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7344276094276094
+      }
+    },
+    {
+      "question": "What is fermentation?",
+      "context": "Fermentation is the process of oxidation of carbohydrates, which occurs without the participation of oxygen and allows cells to obtain energy in the form of ATP molecules.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7178030303030303
+      }
+    },
+    {
+      "question": "What type of fermentation occurs without the participation of oxygen?",
+      "context": "action is the process of oxidation of carbohydrates, which occurs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7929292929292929
+      }
+    },
+    {
+      "question": "What substances are formed during lactic acid fermentation?",
+      "context": "During lactic acid fermentation, the product of the process is lactic acid",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8202335858585859
+      }
+    },
+    {
+      "question": "What is cellular respiration?",
+      "context": "Cellular respiration is a set of reactions of oxidation of organic substances by oxygen that occur in the cells of living organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7633074162679425
+      }
+    },
+    {
+      "question": "Why are mitochondria needed?",
+      "context": "Remember from your chemistry course what oxidation is. Using the material from the previous paragraph, explain the difference between pulmonary and cellular respiration.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9579545454545455
+      }
+    },
+    {
+      "question": "What is cellular respiration?",
+      "context": "Cellular respiration is an extremely efficient process.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8120941558441559
+      }
+    },
+    {
+      "question": "Where does photosynthesis occur?",
+      "context": "In plant cells, the process of photosynthesis occurs in chloroplasts",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7872474747474747
+      }
+    },
+    {
+      "question": "What happens to photosynthesis?",
+      "context": "But photosynthesis does not occur in them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8469967532467533
+      }
+    },
+    {
+      "question": "Where does the Calvin cycle occur?",
+      "context": "The dark phase of photosynthesis occurs in the stroma of chloroplasts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8118686868686869
+      }
+    },
+    {
+      "question": "What is the role of the ozone layer in protecting living organisms?",
+      "context": "This protects living organisms from possible negative consequences (significantly reduces the risk of damage to DNA molecules in cells).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8560243584167029
+      }
+    },
+    {
+      "question": "What is CAM metabolism?",
+      "context": "Therefore, plants from the Tolstyanov and Cactaceae families accumulate this gas in their cells in the form of certain compounds at night, and use it for photosynthesis during the day.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7982954545454546
+      }
+    },
+    {
+      "question": "What are the consequences of disrupting the balance between oxygen production and consumption in the atmosphere?",
+      "context": "If the balance between oxygen production and consumption is disrupted, it can lead to catastrophic consequences for the entire planet.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8975991114149009
+      }
+    },
+    {
+      "question": "What process allows plants to produce enough heat to survive in harsh conditions?",
+      "context": "it allows seals and polar bears to produce enough heat to survive in the harsh conditions of the Arctic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8874777183600713
+      }
+    },
+    {
+      "question": "What type of photosynthesis do plants from the Tolstyanov and Cactaceae families use to accumulate carbon dioxide at night?",
+      "context": "This type of photosynthesis is called CAM metabolism (translated from English - metabolism according to the type of tolstyanov).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8781025717703349
+      }
+    },
+    {
+      "question": "What do chemosynthetic microorganisms use as a source of energy for their reactions?",
+      "context": "Chemosynthesis is the process of forming organic substances from inorganic ones, which occurs due to the energy of chemical reactions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8661130536130536
+      }
+    },
+    {
+      "question": "What is formed by iron bacteria as a result of their activity?",
+      "context": "As a result of their activity , iron(III) oxide Fe 2 O 3 is formed .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8612689393939394
+      }
+    },
+    {
+      "question": "What is chemosynthesis?",
+      "context": "Chemosynthetic organisms play a very important role in the cycle of elements such as Nitrogen, Sulfur and Ferrum. They produce organic substances where photosynthesis is impossible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7432983682983683
+      }
+    },
+    {
+      "question": "What is formed by sulfur bacteria?",
+      "context": "This compound is deposited by bacteria in their mucous capsule.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.831060606060606
+      }
+    },
+    {
+      "question": "How do hydrogen bacteria obtain energy?",
+      "context": "Hydrogen bacteria use hydrogen, which is formed as a result of the decomposition of the remains of organisms by other bacteria. They oxidize this hydrogen, and the energy obtained is used to convert CO2 into methane and other organic compounds.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9337121212121212
+      }
+    },
+    {
+      "question": "What is heterotrophs?",
+      "context": "For the reactions of plastic metabolism of their cells, both heterotrophic and autotrophic organisms use external sources of energy and carbon atoms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7519936204146731
+      }
+    },
+    {
+      "question": "What is glycolysis?",
+      "context": "The biochemical process that unites them with each other and with the processes of energy metabolism is the Krebs cycle. The main biochemical processes in the cells of different organisms are similar to each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7331002331002331
+      }
+    },
+    {
+      "question": "What occurs as a result of genetic changes - mutations?",
+      "context": "Disorders can also occur as a result of genetic changes - mutations. You will learn more about them in the following paragraphs of the textbook.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8781126482213438
+      }
+    },
+    {
+      "question": "Where does glycolysis process occur?",
+      "context": "The place where the glycolysis process occurs:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8443181818181819
+      }
+    },
+    {
+      "question": "What is glucose formed from in glycolysis?",
+      "context": "In the process of glycolysis, one glucose molecule is formed from:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "What is the macroergic compound that is formed in mitochondria?",
+      "context": "The macroergic compound that is formed in mitochondria is:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8005050505050505
+      }
+    },
+    {
+      "question": "Where does photosynthesis occur?",
+      "context": "Photosynthesis occurs in the organelle:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7670454545454546
+      }
+    },
+    {
+      "question": "What is carried out by the granular endoplasmic reticulum?",
+      "context": "The granular endoplasmic reticulum carries out:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8535353535353536
+      }
+    },
+    {
+      "question": "As a result of photosynthesis, plants form what substance?",
+      "context": "As a result of photosynthesis, plants:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8251262626262627
+      }
+    },
+    {
+      "question": "How many phases is the photosynthesis process divided into?",
+      "context": "The number of phases into which the photosynthesis process is divided:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8268939393939394
+      }
+    },
+    {
+      "question": "What substance is NOT formed as a result of fermentation?",
+      "context": "Substance that is NOT formed as a result of fermentation:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8102272727272728
+      }
+    },
+    {
+      "question": "Where are enzyme systems that carry out biological oxidation located?",
+      "context": "Enzyme systems that carry out biological oxidation are located on the membranes of organelles:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.9201298701298701
+      }
+    },
+    {
+      "question": "What is removed from the molecule of the substance formed during photosynthesis?",
+      "context": "Oxygen, which is formed during photosynthesis, is removed from the molecule of the substance:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8156852617079889
+      }
+    },
+    {
+      "question": "As a result of cellular respiration, animals form what substance?",
+      "context": "As a result of cellular respiration, animals:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8435064935064935
+      }
+    },
+    {
+      "question": "What can chemosynthesis be carried out by?",
+      "context": "Chemosynthesis can be carried out by:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.9388528138528138
+      }
+    },
+    {
+      "question": "Where do the light phase of photosynthesis and the Krebs cycle occur?",
+      "context": "Write the names of the structures in which: the light phase of photosynthesis occurs)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8347107438016529
+      }
+    },
+    {
+      "question": "Establish a correspondence between biochemical processes and organelles.",
+      "context": "Establish a correspondence between biochemical processes and the organelles in which they occur.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.9057036713286714
+      }
+    },
+    {
+      "question": "Where does glycolysis process occur?",
+      "context": "The place where the glycolysis process occurs:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8443181818181819
+      }
+    },
+    {
+      "question": "What organelle is shown in task 15?",
+      "context": "Consider the organelle shown in ",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7824675324675325
+      }
+    },
+    {
+      "question": "What is an angiosperm?",
+      "context": "b) angiosperms",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8579545454545454
+      }
+    },
+    {
+      "question": "Where does the light phase of photosynthesis occur?",
+      "context": "13 Write the names of the structures in which: a) the light phase of photosynthesis occurs)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8319493006993006
+      }
+    },
+    {
+      "question": "In which organelle does glycolysis occur?",
+      "context": "13 Write the names of the structures in which: c) glycolysis g) the formation of eukaryotic ribosomes)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8763528138528138
+      }
+    },
+    {
+      "question": "Where is lipid synthesis located?",
+      "context": "13 Write the names of the structures in which: d) lipid synthesis)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8328512396694214
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can chemosynthesis be carried out by?",
+      "context": "Chemosynthesis can be carried out by:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.9388528138528138
+      }
+    },
+    {
+      "question": "Why are mitochondria needed?",
+      "context": "Remember from your chemistry course what oxidation is. Using the material from the previous paragraph, explain the difference between pulmonary and cellular respiration.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9579545454545455
+      }
+    },
+    {
+      "question": "What type of photosynthesis do plants from the Tolstyanov and Cactaceae families use to accumulate carbon dioxide at night?",
+      "context": "This type of photosynthesis is called CAM metabolism (translated from English - metabolism according to the type of tolstyanov).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8781025717703349
+      }
+    }
+  ]
+}

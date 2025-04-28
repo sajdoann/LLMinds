@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Is the yellow hat always used at the beginning of a sentence?",
+      "context": "And when we did this for multiple sentences, we saw this picture and we had the impression that like the yellow hat is always used at the beginning of the sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.5804924242424242
+      }
+    },
+    {
+      "question": "What is the relationship between the use of red hats and the sequence of sentences?",
+      "context": "So we have actually...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666667
+      }
+    },
+    {
+      "question": "Why did they make this observation about the hat colors?",
+      "context": "And when we did this for multiple sentences, we saw this picture and we had the impression that like the yellow hat is always used at the beginning of the sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6145833333333333
+      }
+    },
+    {
+      "question": "Is there any evidence to support the idea that the red hat is not always used after the first sentence?",
+      "context": "So we have actually...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6856617647058824
+      }
+    },
+    {
+      "question": "What does this observation imply about the pattern of hat usage in sentences?",
+      "context": "And when we did this for multiple sentences, we saw this picture and we had the impression that like the yellow hat is always used at the beginning of the sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6049679487179487
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the yellow hat always used at the beginning of a sentence?",
+      "context": "And when we did this for multiple sentences, we saw this picture and we had the impression that like the yellow hat is always used at the beginning of the sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.5804924242424242
+      }
+    },
+    {
+      "question": "Is there any evidence to support the idea that the red hat is not always used after the first sentence?",
+      "context": "So we have actually...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6856617647058824
+      }
+    },
+    {
+      "question": "What is the relationship between the use of red hats and the sequence of sentences?",
+      "context": "So we have actually...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6666666666666667
+      }
+    }
+  ]
+}

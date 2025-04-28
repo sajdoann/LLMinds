@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a potential issue with using low numbers in maximum likelihood estimates?",
+      "context": "So the observations of the phrase counts can be pretty low numbers because this can be very long phrases and long phrases appear infrequently",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8011133603238867
+      }
+    },
+    {
+      "question": "How does lexical weighting improve upon phrase probabilities?",
+      "context": "lexically weighted scores are reliable even for long and infrequent phrases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8778409090909091
+      }
+    },
+    {
+      "question": "What is the purpose of the fifth score that has been removed in some versions of the standard decoder?",
+      "context": "So this is the four numbers because this lexical weighting is again used in two in two directions and then we have the fifth score which has been removed only in very late versions of the standard decoder",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8061995967741935
+      }
+    },
+    {
+      "question": "What happens to phrase probabilities when adding scores from the Moses decoder?",
+      "context": "So whenever you are using any of these phrases you are adding these scores to their appropriate to the appropriate elements of the final score vector",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7971491228070176
+      }
+    },
+    {
+      "question": "What is the significance of setting the phrase penalty to e^1 in some versions of the standard decoder?",
+      "context": "that the Moses decoder and the phrase penalty that was always set to e to the power of one so 2.71 and that is just the phrase phrase count",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a potential issue with using low numbers in maximum likelihood estimates?",
+      "context": "So the observations of the phrase counts can be pretty low numbers because this can be very long phrases and long phrases appear infrequently",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8011133603238867
+      }
+    },
+    {
+      "question": "How does lexical weighting improve upon phrase probabilities?",
+      "context": "lexically weighted scores are reliable even for long and infrequent phrases",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8778409090909091
+      }
+    },
+    {
+      "question": "What happens to phrase probabilities when adding scores from the Moses decoder?",
+      "context": "So whenever you are using any of these phrases you are adding these scores to their appropriate to the appropriate elements of the final score vector",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7971491228070176
+      }
+    }
+  ]
+}

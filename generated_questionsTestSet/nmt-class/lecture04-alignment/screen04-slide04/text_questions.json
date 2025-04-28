@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'So the data is everything' imply about the importance of data?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "Who is the author of the document?",
+      "context": "Not specified in the provided text",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4375
+      }
+    },
+    {
+      "question": "What does 'first start' suggest about the sequence of events or actions described in the document?",
+      "context": "The beginning",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6166666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of providing a context for the questions?",
+      "context": "Not specified in the provided text",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5458333333333333
+      }
+    },
+    {
+      "question": "Is there any information about the structure or format of the document?",
+      "context": "Not specified in the provided text",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5265151515151515
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'first start' suggest about the sequence of events or actions described in the document?",
+      "context": "The beginning",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6166666666666667
+      }
+    },
+    {
+      "question": "Who is the author of the document?",
+      "context": "Not specified in the provided text",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4375
+      }
+    },
+    {
+      "question": "What is the purpose of providing a context for the questions?",
+      "context": "Not specified in the provided text",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5458333333333333
+      }
+    },
+    {
+      "question": "What does 'So the data is everything' imply about the importance of data?",
+      "context": "The introduction",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    }
+  ]
+}

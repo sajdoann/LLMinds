@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Who is speaking at this lecture?",
+      "context": "So good morning again, welcome to our next lecture on machine translation and today we're going to discuss morphology in machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What topic will be discussed in the lecture?",
+      "context": "welcome to our next lecture on machine translation and today we're going to discuss morphology in machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why is morphology being discussed in machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.921875
+      }
+    },
+    {
+      "question": "What type of text will be the focus of discussion on morphology?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545454545454546
+      }
+    },
+    {
+      "question": "How many topics are being covered in this lecture so far?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545454545454546
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who is speaking at this lecture?",
+      "context": "So good morning again, welcome to our next lecture on machine translation and today we're going to discuss morphology in machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What type of text will be the focus of discussion on morphology?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545454545454546
+      }
+    },
+    {
+      "question": "What topic will be discussed in the lecture?",
+      "context": "welcome to our next lecture on machine translation and today we're going to discuss morphology in machine translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

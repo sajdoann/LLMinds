@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are word embeddings?",
+      "context": "So let's talk about word representations. We've already talked about them as a technical means to circumvent or to resolve the problem of too many words to rich vocabulary and also too dissimilar words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6395833333333334
+      }
+    },
+    {
+      "question": "What are some examples of word embeddings?",
+      "context": "These dimensions, these continuous dimensions do not have any clear interpretation and the embeddings are trained for various tasks. So the best known word embeddings are Word2Vex, but there's also GloVe embeddings and many others.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7438423645320198
+      }
+    },
+    {
+      "question": "What is the purpose of neural empty systems?",
+      "context": "by the neural empty system are also of different nature.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "How do word-to-action representations help with sentence translation?",
+      "context": "So it's continuous representations of words but they are they have properties which help to translate the sentence.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8676470588235294
+      }
+    },
+    {
+      "question": "What are language modeling tasks that can be used for word embeddings?",
+      "context": "word-to act representations are from two language modeling tasks either you are predicting the word in a corpus from its four neighbors or you are predicting the likely neighbors of a given word",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.828125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some examples of word embeddings?",
+      "context": "These dimensions, these continuous dimensions do not have any clear interpretation and the embeddings are trained for various tasks. So the best known word embeddings are Word2Vex, but there's also GloVe embeddings and many others.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7438423645320198
+      }
+    },
+    {
+      "question": "What is the purpose of neural empty systems?",
+      "context": "by the neural empty system are also of different nature.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What are language modeling tasks that can be used for word embeddings?",
+      "context": "word-to act representations are from two language modeling tasks either you are predicting the word in a corpus from its four neighbors or you are predicting the likely neighbors of a given word",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "How do word-to-action representations help with sentence translation?",
+      "context": "So it's continuous representations of words but they are they have properties which help to translate the sentence.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8676470588235294
+      }
+    }
+  ]
+}

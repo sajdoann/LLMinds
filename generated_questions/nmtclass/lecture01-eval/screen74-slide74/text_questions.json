@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'PC translator' refer to in this context?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48611111111111116
+      }
+    },
+    {
+      "question": "Why is the label for the test set classification important?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6055555555555555
+      }
+    },
+    {
+      "question": "What systems were 'PC translator' run on, according to the text?",
+      "context": "The third sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5136363636363637
+      }
+    },
+    {
+      "question": "Can 'PC translator' be evaluated as being in domain or out of domain based solely on the train systems?",
+      "context": "The fourth paragraph of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.5986111111111111
+      }
+    },
+    {
+      "question": "What is the purpose of illustrating the observation about 'PC translator' using two different test sets?",
+      "context": "The first sentence of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.5083333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What systems were 'PC translator' run on, according to the text?",
+      "context": "The third sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5136363636363637
+      }
+    },
+    {
+      "question": "Why is the label for the test set classification important?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6055555555555555
+      }
+    },
+    {
+      "question": "Can 'PC translator' be evaluated as being in domain or out of domain based solely on the train systems?",
+      "context": "The fourth paragraph of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.5986111111111111
+      }
+    },
+    {
+      "question": "What is the purpose of illustrating the observation about 'PC translator' using two different test sets?",
+      "context": "The first sentence of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.5083333333333333
+      }
+    }
+  ]
+}

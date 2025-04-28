@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What were the two types of questions in the test set associated with Word2Egg?",
+      "context": "The introduction to the test set",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How did the syntactic and morphosyntactic questions differ from the semantic questions?",
+      "context": "The differences between the two types of questions",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5698051948051948
+      }
+    },
+    {
+      "question": "What words were used in the syntactic and morphosyntactic questions?",
+      "context": "The types of words used in the syntactic and morphosyntactic questions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.6125
+      }
+    },
+    {
+      "question": "How did the semantic questions differ from each other?",
+      "context": "The differences between the different categories of semantic questions",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6753472222222222
+      }
+    },
+    {
+      "question": "What examples were given for the syntactic and morphosyntactic questions?",
+      "context": "The specific examples used to illustrate the syntactic and morphosyntactic questions",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.65
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What were the two types of questions in the test set associated with Word2Egg?",
+      "context": "The introduction to the test set",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "What examples were given for the syntactic and morphosyntactic questions?",
+      "context": "The specific examples used to illustrate the syntactic and morphosyntactic questions",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.65
+      }
+    },
+    {
+      "question": "How did the syntactic and morphosyntactic questions differ from the semantic questions?",
+      "context": "The differences between the two types of questions",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5698051948051948
+      }
+    }
+  ]
+}

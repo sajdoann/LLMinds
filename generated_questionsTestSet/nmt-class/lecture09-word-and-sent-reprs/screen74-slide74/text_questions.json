@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is another way to measure the goodness of a clustering?",
+      "context": "That's one of the score.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7272727272727273
+      }
+    },
+    {
+      "question": "What happens when the nearest neighbor of an element is in the same cluster?",
+      "context": "And if it is, then yes, the clustering is again like compact and the clusters are not too much internal.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5614316239316239
+      }
+    },
+    {
+      "question": "What does 'not too much internal' mean in the context of cluster analysis?",
+      "context": "And if it is, then yes, the clustering is again like compact and the clusters are not too much internal.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.47489316239316237
+      }
+    },
+    {
+      "question": "What does 'compact' mean in the context of cluster analysis?",
+      "context": "And if it is, then yes, the clustering is again like compact and the clusters are not too much internal.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.4027777777777778
+      }
+    },
+    {
+      "question": "What does 'nearest neighbor' mean in the context of cluster analysis?",
+      "context": "Another way of measuring the goodness of this clustering is that you retrieve the nearest neighbor for each element and you will check whether this nearest neighbor is in the same cluster.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6429924242424242
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is another way to measure the goodness of a clustering?",
+      "context": "That's one of the score.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7272727272727273
+      }
+    },
+    {
+      "question": "What happens when the nearest neighbor of an element is in the same cluster?",
+      "context": "And if it is, then yes, the clustering is again like compact and the clusters are not too much internal.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5614316239316239
+      }
+    },
+    {
+      "question": "What does 'not too much internal' mean in the context of cluster analysis?",
+      "context": "And if it is, then yes, the clustering is again like compact and the clusters are not too much internal.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.47489316239316237
+      }
+    }
+  ]
+}

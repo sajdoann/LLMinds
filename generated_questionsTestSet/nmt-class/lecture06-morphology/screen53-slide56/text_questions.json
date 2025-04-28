@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the metric that checks whether content words are present in a parallel and small monolingual corpus?",
+      "context": "The two-step setup",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "What was the improvement achieved by using BLEUCore with the two-step setup compared to vanilla?",
+      "context": "The two arrows at the end",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8071428571428572
+      }
+    },
+    {
+      "question": "What is the purpose of Semantic POS?",
+      "context": "Semantic POS, that was kind of checking whether the content words are there",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7843406593406593
+      }
+    },
+    {
+      "question": "What type of corpus can benefit from using BLEUCore with a two-step setup?",
+      "context": "small parallel and small monolingual corpus",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What was the outcome of applying the two-step setup compared to vanilla for parallel and small monolingual corpora?",
+      "context": "both these metrics have an improvement",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8529411764705882
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of Semantic POS?",
+      "context": "Semantic POS, that was kind of checking whether the content words are there",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7843406593406593
+      }
+    },
+    {
+      "question": "What type of corpus can benefit from using BLEUCore with a two-step setup?",
+      "context": "small parallel and small monolingual corpus",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What was the improvement achieved by using BLEUCore with the two-step setup compared to vanilla?",
+      "context": "The two arrows at the end",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8071428571428572
+      }
+    },
+    {
+      "question": "What was the outcome of applying the two-step setup compared to vanilla for parallel and small monolingual corpora?",
+      "context": "both these metrics have an improvement",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8529411764705882
+      }
+    }
+  ]
+}

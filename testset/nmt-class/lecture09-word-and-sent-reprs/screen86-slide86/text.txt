@@ -1,0 +1,1 @@
+ We observed that the setups which use the inner attention or the compound attention perform better. So yes, even if the attention is restricted to have a fixed number of points and not allowed to change throughout the output sentence, it is useful.

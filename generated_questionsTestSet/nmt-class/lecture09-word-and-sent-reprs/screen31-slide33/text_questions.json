@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of model did you create, and what feature does it include that is different from word2vec?",
+      "context": "Then we created our own model which included when creating the word embeddings also the subword units or some substrings of characters.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.8788515406162465
+      }
+    },
+    {
+      "question": "What was the performance of your model on the original test set?",
+      "context": "on the original test set the performance was 42, a little bit lower than the word2vec model performance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7251420454545454
+      }
+    },
+    {
+      "question": "What is the main difference between your training data and the word2vec system?",
+      "context": "The difference between these two word2vecs is the size of the training data.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7518939393939394
+      }
+    },
+    {
+      "question": "Who designed the US RFbe model mentioned in the document?",
+      "context": "we didn't have access to the huge I will tell you that this is the US RFbe is designed by Tomas Mikolov and our training data",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8697916666666667
+      }
+    },
+    {
+      "question": "What was the performance difference between your system and the word2vec model on the original test set?",
+      "context": "On our test set there was a huge difference between these systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7020833333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of model did you create, and what feature does it include that is different from word2vec?",
+      "context": "Then we created our own model which included when creating the word embeddings also the subword units or some substrings of characters.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.8788515406162465
+      }
+    },
+    {
+      "question": "What was the performance of your model on the original test set?",
+      "context": "on the original test set the performance was 42, a little bit lower than the word2vec model performance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7251420454545454
+      }
+    },
+    {
+      "question": "What was the performance difference between your system and the word2vec model on the original test set?",
+      "context": "On our test set there was a huge difference between these systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7020833333333334
+      }
+    },
+    {
+      "question": "What is the main difference between your training data and the word2vec system?",
+      "context": "The difference between these two word2vecs is the size of the training data.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7518939393939394
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "When did the author's paper appear at the conference?",
+      "context": "Okay, there is one little caveat, like a little intermed, so on, the ultimate evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7790178571428572
+      }
+    },
+    {
+      "question": "In what year was Tomáš Mikolov's follow-up paper submitted to the archive?",
+      "context": "Tomáš Mikolov, there was a follow-up paper, which used the same idea of this word embedding, as we did using sequences of characters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7869318181818181
+      }
+    },
+    {
+      "question": "How many citations does Tomáš Mikolov's paper have compared to the author's paper?",
+      "context": "Later, it appeared in TAKL and now they have 3,000 citations.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7893356643356644
+      }
+    },
+    {
+      "question": "What was the main difference between the author's approach and Tomáš Mikolov's follow-up paper?",
+      "context": "That the other paper was submitted to archive or archive in July. So when our paper was under review, the same year.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7366452991452992
+      }
+    },
+    {
+      "question": "What were the conference and publication dates of the author's paper?",
+      "context": "So we, with our subword word embeddings, submitted the paper in March 2016 to a conference, text, speech and dialogue, not a very famous conference, and it appeared there in September.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7620370370370371
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When did the author's paper appear at the conference?",
+      "context": "Okay, there is one little caveat, like a little intermed, so on, the ultimate evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7790178571428572
+      }
+    },
+    {
+      "question": "In what year was Tomáš Mikolov's follow-up paper submitted to the archive?",
+      "context": "Tomáš Mikolov, there was a follow-up paper, which used the same idea of this word embedding, as we did using sequences of characters.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7869318181818181
+      }
+    },
+    {
+      "question": "What was the main difference between the author's approach and Tomáš Mikolov's follow-up paper?",
+      "context": "That the other paper was submitted to archive or archive in July. So when our paper was under review, the same year.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7366452991452992
+      }
+    }
+  ]
+}

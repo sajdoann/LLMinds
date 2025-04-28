@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the sound quality when the first cable is badly plugged in?",
+      "context": "The following slides",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7788461538461539
+      }
+    },
+    {
+      "question": "How can the speaker recover from a bad sound quality due to a poorly plugged-in cable?",
+      "context": "But essentially if the first cable is badly plugged in, then the sound quality is bad and then nothing can recover from...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6754385964912281
+      }
+    },
+    {
+      "question": "What are some issues that can be encountered with sound input?",
+      "context": "There is also a number of issues that you can have with the sound input.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8568181818181818
+      }
+    },
+    {
+      "question": "How does the speaker describe the impact of a poorly plugged-in cable on the overall audio experience?",
+      "context": "But essentially if the first cable is badly plugged in, then the sound quality is bad and then nothing can recover from...",
+      "difficulty": "analytical",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7254385964912281
+      }
+    },
+    {
+      "question": "What does the speaker mean by 'nothing can recover' from a poorly plugged-in cable?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some issues that can be encountered with sound input?",
+      "context": "There is also a number of issues that you can have with the sound input.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8568181818181818
+      }
+    },
+    {
+      "question": "How can the speaker recover from a bad sound quality due to a poorly plugged-in cable?",
+      "context": "But essentially if the first cable is badly plugged in, then the sound quality is bad and then nothing can recover from...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6754385964912281
+      }
+    },
+    {
+      "question": "What does the speaker mean by 'nothing can recover' from a poorly plugged-in cable?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392857142857143
+      }
+    }
+  ]
+}

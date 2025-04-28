@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of computing the IBM model one alignment?",
+      "context": "So we need to compute the IBM model one alignment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7136363636363636
+      }
+    },
+    {
+      "question": "How does the probability of alignment given source and target sentences relate to other concepts in the text?",
+      "context": "we need to know how likely is the alignment given the source and target sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6586134453781513
+      }
+    },
+    {
+      "question": "What mathematical operation applies when calculating the probability of alignment given source and target sentences?",
+      "context": "And we can apply the chain rule for this probability which gives us this fraction.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6773809523809524
+      }
+    },
+    {
+      "question": "What is the definition of the numerator in the formula for the probability of alignment given source and target sentences?",
+      "context": "The numerator is the alignment is the definition of the IBM model one. of the target sentence and the alignment given the source.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.6495535714285714
+      }
+    },
+    {
+      "question": "What concept does the text refer to as 'the probability of the target sentence given the source regardless the alignment'?",
+      "context": "This is like if we consider all the possible alignments. So let's let's.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7104072398190046
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of computing the IBM model one alignment?",
+      "context": "So we need to compute the IBM model one alignment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7136363636363636
+      }
+    },
+    {
+      "question": "How does the probability of alignment given source and target sentences relate to other concepts in the text?",
+      "context": "we need to know how likely is the alignment given the source and target sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6586134453781513
+      }
+    },
+    {
+      "question": "What is the definition of the numerator in the formula for the probability of alignment given source and target sentences?",
+      "context": "The numerator is the alignment is the definition of the IBM model one. of the target sentence and the alignment given the source.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.6495535714285714
+      }
+    },
+    {
+      "question": "What concept does the text refer to as 'the probability of the target sentence given the source regardless the alignment'?",
+      "context": "This is like if we consider all the possible alignments. So let's let's.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7104072398190046
+      }
+    }
+  ]
+}

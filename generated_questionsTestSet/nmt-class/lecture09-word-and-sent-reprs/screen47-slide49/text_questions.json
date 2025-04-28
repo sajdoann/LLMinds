@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How are sentence level embeddings created?",
+      "context": "Let's talk about ambiguity. The question is how do we model ambiguity? I would like to highlight that sentence level embeddings are created by deterministic encoders.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8189102564102564
+      }
+    },
+    {
+      "question": "What happens to the embedding of 'apple' in a semantic space when it has multiple meanings?",
+      "context": "That is a difficult question. Maybe it's some average of the meanings or whatever, but this embeddings of fruits would work for all fruits, but less so for apple, because apple would be also affected by its other meaning.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8332589285714286
+      }
+    },
+    {
+      "question": "How should expressions be represented in a semantic space?",
+      "context": "Ideally, I think that expressions should not correspond to the points in the semantic space, because expressions are ambiguous and it should be the meanings of words that are the points in this space.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.745
+      }
+    },
+    {
+      "question": "What is the purpose of creating a distribution over the points in a semantic space?",
+      "context": "So when you have an expression it should correspond it should represent a distribution over the points so the the embedding for Apple should not be this single vector here but rather the distribution which is peaked around the area of fruits and which has another peak around the area of companies",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8183198380566802
+      }
+    },
+    {
+      "question": "How do sentence level embeddings capture ambiguity?",
+      "context": "So the ambiguous sentence can be only converted to one particle vector.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7752976190476191
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How are sentence level embeddings created?",
+      "context": "Let's talk about ambiguity. The question is how do we model ambiguity? I would like to highlight that sentence level embeddings are created by deterministic encoders.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8189102564102564
+      }
+    },
+    {
+      "question": "What happens to the embedding of 'apple' in a semantic space when it has multiple meanings?",
+      "context": "That is a difficult question. Maybe it's some average of the meanings or whatever, but this embeddings of fruits would work for all fruits, but less so for apple, because apple would be also affected by its other meaning.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8332589285714286
+      }
+    },
+    {
+      "question": "What is the purpose of creating a distribution over the points in a semantic space?",
+      "context": "So when you have an expression it should correspond it should represent a distribution over the points so the the embedding for Apple should not be this single vector here but rather the distribution which is peaked around the area of fruits and which has another peak around the area of companies",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8183198380566802
+      }
+    }
+  ]
+}

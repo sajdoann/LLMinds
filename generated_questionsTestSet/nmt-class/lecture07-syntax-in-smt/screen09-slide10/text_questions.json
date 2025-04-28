@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two major classes of formal descriptions of sentence structure?",
+      "context": "into the gaps. So, talking about proper syntax",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7926136363636364
+      }
+    },
+    {
+      "question": "How do constituency trees reflect the structure of a sentence?",
+      "context": "constituency trees reflect only how the sentence is divided into smaller parts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "What is the purpose of the brackets in a constituency tree?",
+      "context": "So, that's the divide and conquer approach to understanding the sentence structure. here is when you see a tree, an analysis of a sentence such as John loves Mary.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7028846153846153
+      }
+    },
+    {
+      "question": "What is the difference between non-terminals in constituency trees and word order in dependency trees?",
+      "context": "In constituency trees you have these non-terminals in the inner nodes of the tree, and all the words will appear only as the terminals at the final row of the tree.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7842261904761905
+      }
+    },
+    {
+      "question": "What is meant by 'labeled' in the context of constituency trees?",
+      "context": "And that corresponds to the bracketing, and the brackets can be seen as labeled by the particle non-terminal.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7204545454545455
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two major classes of formal descriptions of sentence structure?",
+      "context": "into the gaps. So, talking about proper syntax",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7926136363636364
+      }
+    },
+    {
+      "question": "How do constituency trees reflect the structure of a sentence?",
+      "context": "constituency trees reflect only how the sentence is divided into smaller parts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "What is the purpose of the brackets in a constituency tree?",
+      "context": "So, that's the divide and conquer approach to understanding the sentence structure. here is when you see a tree, an analysis of a sentence such as John loves Mary.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7028846153846153
+      }
+    }
+  ]
+}

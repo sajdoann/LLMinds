@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of estimating alignment between words in source and target sentences?",
+      "context": "in the summary slide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "How are fractional counts used in the process?",
+      "context": "we use this knowledge to create the fractional counts",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the outcome of using fractional counts?",
+      "context": "and then we use these fractional counts to",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Can you provide more information about how alignment between words in source and target sentences is estimated?",
+      "context": "(no specific text provided)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8897058823529411
+      }
+    },
+    {
+      "question": "What does the document imply about the relationship between word alignment and fractional counts?",
+      "context": "(implied by the context, but not explicitly stated)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8245192307692307
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of estimating alignment between words in source and target sentences?",
+      "context": "in the summary slide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "How are fractional counts used in the process?",
+      "context": "we use this knowledge to create the fractional counts",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "Can you provide more information about how alignment between words in source and target sentences is estimated?",
+      "context": "(no specific text provided)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8897058823529411
+      }
+    }
+  ]
+}

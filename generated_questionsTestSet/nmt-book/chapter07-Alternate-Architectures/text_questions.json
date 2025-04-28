@@ -1,0 +1,193 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the disadvantage of using recurrent neural networks on the input side?",
+      "context": "Arguable, a disadvantage of using recurrent neural networks on the input side is that it requires a long sequential process that consumes each input word in one step.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.7919444444444445
+      }
+    },
+    {
+      "question": "What is the hierarchical process of building up a sentence representation bottom-up, similar to?",
+      "context": "The hierarchical process of building up a sentence representation bottom-up is well grounded in linguistic insight in the recursive nature of language. It is similar to chart parsing.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the problem that the decoder has to decide on in the reverse process?",
+      "context": "One problem for the decoder is to decide the length of the output sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7799145299145299
+      }
+    },
+    {
+      "question": "How do convolutional layers encode a word with its left and right context?",
+      "context": "a convolution encodes a word with its left and right context, in a limited window.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.891025641025641
+      }
+    },
+    {
+      "question": "What type of neural network is used in the encoder?",
+      "context": "For each input word, the state at each layer is informed by the corresponding state in the previous layer and its two neighbors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7606481481481482
+      }
+    },
+    {
+      "question": "How are words processed in parallel in the convolutional version of the decoder?",
+      "context": "All words at one depth can be processed in parallel, even combined into one massive tensor operation that can be efficiently parallelized on a GPU.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "What is self-attention?",
+      "context": "the attention mechanism considers associations between every input word and any output word, and uses it to build a vector representation of the entire input sequence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6817632850241546
+      }
+    },
+    {
+      "question": "How does self-attention work?",
+      "context": "The association between every word representation.any other context word.is done via the dot product between the packed matrix . and its transpose., resulting in a vector of . values.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.89375
+      }
+    },
+    {
+      "question": "What is the purpose of residual connections in the self-attention layer?",
+      "context": "The deep modeling is the reason behind the residual connections in the self-attention layer. such residual connections help with training since they allow a shortcut to the input which may be utilized in early stages of training, before it can take advantage of the more complex interdependencies that deep models enable.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7857723577235772
+      }
+    },
+    {
+      "question": "What is added to the output of the attention computation?",
+      "context": "The output of the attention computation is a weighted sum over input word representations.To this, we add the (self-attended) representation of the decoder state.via a residual connection. This allows skipping over the deep layers, thus speeding up training.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7468637992831542
+      }
+    },
+    {
+      "question": "What is added to the output of the attention computation?",
+      "context": "To this, we add the (self-attended) representation of the decoder state.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6986111111111111
+      }
+    },
+    {
+      "question": "What layering technique is used in the model to skip over deep layers and speed up training?",
+      "context": "via a residual connection.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7843137254901961
+      }
+    },
+    {
+      "question": "Who proposed a refinement of the model that incorporates wider context with each layer?",
+      "context": "Gehring et al. (2017) who use multiple convolutional layers in the encoder and the decoder.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How are words processed in parallel in the convolutional version of the decoder?",
+      "context": "All words at one depth can be processed in parallel, even combined into one massive tensor operation that can be efficiently parallelized on a GPU.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "What is the disadvantage of using recurrent neural networks on the input side?",
+      "context": "Arguable, a disadvantage of using recurrent neural networks on the input side is that it requires a long sequential process that consumes each input word in one step.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.7919444444444445
+      }
+    },
+    {
+      "question": "What layering technique is used in the model to skip over deep layers and speed up training?",
+      "context": "via a residual connection.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7843137254901961
+      }
+    },
+    {
+      "question": "What is the purpose of residual connections in the self-attention layer?",
+      "context": "The deep modeling is the reason behind the residual connections in the self-attention layer. such residual connections help with training since they allow a shortcut to the input which may be utilized in early stages of training, before it can take advantage of the more complex interdependencies that deep models enable.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7857723577235772
+      }
+    }
+  ]
+}

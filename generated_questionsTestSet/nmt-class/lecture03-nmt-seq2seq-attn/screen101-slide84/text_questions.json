@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the author mean by comparing attention models to encoder-decoder architectures?",
+      "context": "then the attention model is much better than the encoder decoder architecture.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "Why did the author repeat the idea of comparing comparable setups?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "What is the main message or takeaway from the document for the audience?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9204545454545454
+      }
+    },
+    {
+      "question": "How does the author's statement about attention models being better than encoder-decoder architectures relate to their previous statements?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9305555555555556
+      }
+    },
+    {
+      "question": "What can be inferred about the audience of the document based on the content and tone?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9196428571428572
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be inferred about the audience of the document based on the content and tone?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9196428571428572
+      }
+    },
+    {
+      "question": "How does the author's statement about attention models being better than encoder-decoder architectures relate to their previous statements?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9305555555555556
+      }
+    },
+    {
+      "question": "Why did the author repeat the idea of comparing comparable setups?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "What is the main message or takeaway from the document for the audience?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9204545454545454
+      }
+    }
+  ]
+}

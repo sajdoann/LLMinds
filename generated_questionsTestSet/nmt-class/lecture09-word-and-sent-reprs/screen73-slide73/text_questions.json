@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the Davis Bulldin Index check?",
+      "context": "So the Davis Bulldin Index checks how well the cluster is separated from the other clusters.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7053571428571429
+      }
+    },
+    {
+      "question": "Why are the clusters of individual sentences or pictures desirable?",
+      "context": "we would be happy if the clusters of the individual sentences or individual pictures would be far away, would be clearly separated.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "What is a desirable characteristic of the clusters?",
+      "context": "would be clearly separated.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "How does the separation between clusters relate to the overall goal?",
+      "context": "So the Davis Bulldin Index checks how well the cluster is separated from the other clusters.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "What kind of mathematical expression is used by the Davis Bulldin Index?",
+      "context": "That's just a mathematical expression.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8854166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a desirable characteristic of the clusters?",
+      "context": "would be clearly separated.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "Why are the clusters of individual sentences or pictures desirable?",
+      "context": "we would be happy if the clusters of the individual sentences or individual pictures would be far away, would be clearly separated.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.865625
+      }
+    },
+    {
+      "question": "How does the separation between clusters relate to the overall goal?",
+      "context": "So the Davis Bulldin Index checks how well the cluster is separated from the other clusters.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7910714285714285
+      }
+    }
+  ]
+}

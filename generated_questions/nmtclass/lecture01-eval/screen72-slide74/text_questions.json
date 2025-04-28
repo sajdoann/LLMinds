@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the correlation between BLEU score and human rank?",
+      "context": "A simple version of phrase-based systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "Why did the commercial system not care about n-grams?",
+      "context": "The commercial system's focus on user experience",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8115079365079365
+      }
+    },
+    {
+      "question": "How does the BLEU score relate to human rank in a phrase-based system?",
+      "context": "An improved version of phrase-based systems",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8108974358974359
+      }
+    },
+    {
+      "question": "What type of system did not care about n-grams?",
+      "context": "A commercial system",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "Why is the BLEU score low for a system that scored well in human rank?",
+      "context": "The correlation between BLEU score and human rank",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8510416666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of system did not care about n-grams?",
+      "context": "A commercial system",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "Why did the commercial system not care about n-grams?",
+      "context": "The commercial system's focus on user experience",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8115079365079365
+      }
+    },
+    {
+      "question": "Why is the BLEU score low for a system that scored well in human rank?",
+      "context": "The correlation between BLEU score and human rank",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8510416666666667
+      }
+    }
+  ]
+}

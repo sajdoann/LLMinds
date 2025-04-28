@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the language module's preference regarding negation in longer outputs?",
+      "context": "This is longer output. So longer outputs are generally scored lower.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.740909090909091
+      }
+    },
+    {
+      "question": "Why does the language module prefer to drop the negation?",
+      "context": "So the language module prefers to drop the negation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8090277777777778
+      }
+    },
+    {
+      "question": "What is the reason for introducing phrases that do not talk to each other?",
+      "context": "There are no reasons to introduce this 'no', like if there was no žádného in the...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "What is the implication of having a cat on the language module's scoring?",
+      "context": "Here, in this example, I have a cat, is actually happier than if the candidate was I do not have a cat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7554824561403508
+      }
+    },
+    {
+      "question": "What is the significance of the phrase 'žádného' in the context?",
+      "context": "So the phrases do not talk to each other. So there is no reason to introduce this no, like if there was no žádného in the...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6912878787878788
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the implication of having a cat on the language module's scoring?",
+      "context": "Here, in this example, I have a cat, is actually happier than if the candidate was I do not have a cat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7554824561403508
+      }
+    },
+    {
+      "question": "Why does the language module prefer to drop the negation?",
+      "context": "So the language module prefers to drop the negation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8090277777777778
+      }
+    },
+    {
+      "question": "What is the reason for introducing phrases that do not talk to each other?",
+      "context": "There are no reasons to introduce this 'no', like if there was no žádného in the...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7410714285714286
+      }
+    }
+  ]
+}

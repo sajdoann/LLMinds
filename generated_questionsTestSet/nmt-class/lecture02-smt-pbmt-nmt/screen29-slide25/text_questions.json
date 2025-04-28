@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What do the words 'Kočku' and 'Videl' translate to in English?",
+      "context": "These units are extracted so that they do not violate the word alignments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6923076923076923
+      }
+    },
+    {
+      "question": "Why were the words 'Kočku' and 'Videl' extracted from the original text?",
+      "context": "So based on this you will learn that Kočku translates as ØKET, these two words at the same time.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8433014354066986
+      }
+    },
+    {
+      "question": "What is the purpose of using 'puzzle pieces' in relation to the extracted units?",
+      "context": "And now you are going to use these puzzle pieces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8288461538461538
+      }
+    },
+    {
+      "question": "Can anyone solve the puzzle using the given 'puzzle pieces'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9305555555555556
+      }
+    },
+    {
+      "question": "How does this process relate to word alignments?",
+      "context": "These units are extracted so that they do not violate the word alignments.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7860576923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of using 'puzzle pieces' in relation to the extracted units?",
+      "context": "And now you are going to use these puzzle pieces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8288461538461538
+      }
+    },
+    {
+      "question": "Why were the words 'Kočku' and 'Videl' extracted from the original text?",
+      "context": "So based on this you will learn that Kočku translates as ØKET, these two words at the same time.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8433014354066986
+      }
+    },
+    {
+      "question": "How does this process relate to word alignments?",
+      "context": "These units are extracted so that they do not violate the word alignments.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7860576923076923
+      }
+    },
+    {
+      "question": "Can anyone solve the puzzle using the given 'puzzle pieces'?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9305555555555556
+      }
+    }
+  ]
+}

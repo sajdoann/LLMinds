@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is Western Bohemia?",
+      "context": "Western Bohemia has benefited a great deal from its accession to the EU in 2004.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7979166666666666
+      }
+    },
+    {
+      "question": "Why does the author consider the Czech Republic's participation in the EU worth mentioning?",
+      "context": "The example is the Teppler Monastery. This monastery is located in western Bohemia.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8248106060606061
+      }
+    },
+    {
+      "question": "What does Chodowa Plana have as a unique feature?",
+      "context": "You can find there good cuisine, a nice restaurant and which is completely underground in a rock.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8880208333333334
+      }
+    },
+    {
+      "question": "Why do many Czechs view the EU negatively?",
+      "context": "It is also a problem that is represented by politicians. A new Chamber of Deputies was elected in the Czech Republic. That was earlier, of course. But it is very different from England, France or the Netherlands.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8814655172413793
+      }
+    },
+    {
+      "question": "What is the attitude of younger people in the Czech Republic towards the EU?",
+      "context": "They do not see it as a construct to which they have to submit. The younger generation takes the EU for granted.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8612938596491229
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does Chodowa Plana have as a unique feature?",
+      "context": "You can find there good cuisine, a nice restaurant and which is completely underground in a rock.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8880208333333334
+      }
+    },
+    {
+      "question": "Why do many Czechs view the EU negatively?",
+      "context": "It is also a problem that is represented by politicians. A new Chamber of Deputies was elected in the Czech Republic. That was earlier, of course. But it is very different from England, France or the Netherlands.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8814655172413793
+      }
+    },
+    {
+      "question": "Why does the author consider the Czech Republic's participation in the EU worth mentioning?",
+      "context": "The example is the Teppler Monastery. This monastery is located in western Bohemia.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8248106060606061
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Where is the Atmund monastery located?",
+      "context": "This monastery is also located in Styria, the place where Graz is situated, in the north of Styria, in what is known as Upper Styria.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8497807017543859
+      }
+    },
+    {
+      "question": "What language does the Abrogans manuscript translate into?",
+      "context": "And then they are translated into German, at that time into Old High German.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8713942307692308
+      }
+    },
+    {
+      "question": "How old is the Abrogans manuscript?",
+      "context": "The Abrogans, a Latin word, is a manuscript that is more than 1200 years old.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7868589743589743
+      }
+    },
+    {
+      "question": "When was the Abrogans manuscript probably written?",
+      "context": "The original Abrogans was probably written in the Bavarian town of Freising around the year 770.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8303571428571428
+      }
+    },
+    {
+      "question": "Who possibly commissioned the Admont find, a dictionary that resembles an early medieval Langenscheid?",
+      "context": "It is therefore quite possible that this Admont find was a dictionary commissioned by Charlemagne.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.905952380952381
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where is the Atmund monastery located?",
+      "context": "This monastery is also located in Styria, the place where Graz is situated, in the north of Styria, in what is known as Upper Styria.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8497807017543859
+      }
+    },
+    {
+      "question": "Who possibly commissioned the Admont find, a dictionary that resembles an early medieval Langenscheid?",
+      "context": "It is therefore quite possible that this Admont find was a dictionary commissioned by Charlemagne.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.905952380952381
+      }
+    },
+    {
+      "question": "What language does the Abrogans manuscript translate into?",
+      "context": "And then they are translated into German, at that time into Old High German.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8713942307692308
+      }
+    }
+  ]
+}

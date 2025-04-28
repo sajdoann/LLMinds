@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the next step after converting text back into speech?",
+      "context": "And the next step that people may want to do would be further to convert the text back into speech.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7373737373737373
+      }
+    },
+    {
+      "question": "How does a system with this function work?",
+      "context": "So you could have a system that sits in your ear as the babelfish and whatever it hears, it will whisper it to your ear in the language that you speak.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7479619565217391
+      }
+    },
+    {
+      "question": "What is meant by 'cascade of three' in this context?",
+      "context": "This would be a cascade of three...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8053571428571429
+      }
+    },
+    {
+      "question": "How does babelfish relate to the system described?",
+      "context": "So you could have a system that sits in your ear as the babelfish and whatever it hears, it will whisper it to your ear in the language that you speak.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7479619565217391
+      }
+    },
+    {
+      "question": "What is the purpose of this system?",
+      "context": "And the next step that people may want to do would be further to convert the text back into speech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6448412698412699
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does babelfish relate to the system described?",
+      "context": "So you could have a system that sits in your ear as the babelfish and whatever it hears, it will whisper it to your ear in the language that you speak.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7479619565217391
+      }
+    },
+    {
+      "question": "How does a system with this function work?",
+      "context": "So you could have a system that sits in your ear as the babelfish and whatever it hears, it will whisper it to your ear in the language that you speak.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7479619565217391
+      }
+    },
+    {
+      "question": "What is the purpose of this system?",
+      "context": "And the next step that people may want to do would be further to convert the text back into speech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6448412698412699
+      }
+    },
+    {
+      "question": "What is meant by 'cascade of three' in this context?",
+      "context": "This would be a cascade of three...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8053571428571429
+      }
+    }
+  ]
+}

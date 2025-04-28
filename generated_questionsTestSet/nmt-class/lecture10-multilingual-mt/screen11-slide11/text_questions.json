@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why is training a network on a non-random dataset considered bad practice?",
+      "context": "So when we've trained the system using this sorted corpus, it's not alphabetically sorted, but it starts with...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7733585858585859
+      }
+    },
+    {
+      "question": "What is the goal of curriculum learning in training a network?",
+      "context": "So we wanted to achieve this curriculum learning. We wanted to give the model first the easy sentences and then the hard sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7184343434343434
+      }
+    },
+    {
+      "question": "Why does sorting the data by sentence length not work as intended?",
+      "context": "So when we said, okay, simple sentences are probably just sort the corpus from the shortest to the longest sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "What is the consequence of training a network on non-random data in terms of its ability to learn?",
+      "context": "So when the network is trained on data which is not random, then it fails to learn in the final task.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7352941176470589
+      }
+    },
+    {
+      "question": "What is a better approach than sorting the corpus by sentence length?",
+      "context": "And then the network will, each of the batches will illustrate well enough where the optimum of the parameters is and where the training should move in the next step.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7973484848484849
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is training a network on a non-random dataset considered bad practice?",
+      "context": "So when we've trained the system using this sorted corpus, it's not alphabetically sorted, but it starts with...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7733585858585859
+      }
+    },
+    {
+      "question": "Why does sorting the data by sentence length not work as intended?",
+      "context": "So when we said, okay, simple sentences are probably just sort the corpus from the shortest to the longest sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "What is the goal of curriculum learning in training a network?",
+      "context": "So we wanted to achieve this curriculum learning. We wanted to give the model first the easy sentences and then the hard sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7184343434343434
+      }
+    }
+  ]
+}

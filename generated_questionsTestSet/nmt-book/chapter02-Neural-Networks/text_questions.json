@@ -1,0 +1,479 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the limitations of Linear Models?",
+      "context": "Linear models do not allow us to define more complex relationships between the features. Let us say that we find that for short sentences the language model is less important than the translation model, or that average phrase translation probabilities higher than 0.1 are similarly reasonable but any value below that is really terrible.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8392964392964393
+      }
+    },
+    {
+      "question": "Why do Linear Models fail with XOR?",
+      "context": "For a linear model with two features (representing the inputs), it is not possible to come up with weights that give the correct output in all cases. Linear models assume that all instances, represented as points in the feature space, are linearly separable.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9087837837837838
+      }
+    },
+    {
+      "question": "What is a hidden layer in a neural network?",
+      "context": "Instead of computing the output value directly from the input values, a hidden layer is introduced.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7545045045045045
+      }
+    },
+    {
+      "question": "Why are activation functions used in neural networks?",
+      "context": "We realize that we have not gained anything so far to model input/output relationships.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8742203742203742
+      }
+    },
+    {
+      "question": "What is the main advantage of using hidden nodes in neural networks?",
+      "context": "Advocates of neural networks claim that the use of hidden nodes obviates (or at least drastically reduces) the need for feature engineering.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7970720720720721
+      }
+    },
+    {
+      "question": "How does the XOR operation get implemented in the neural network?",
+      "context": "XOR is effectively implemented as the subtraction of the AND from the OR hidden node.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8153846153846154
+      }
+    },
+    {
+      "question": "What is the main advantage of using neural networks over linear models for modeling Boolean operations?",
+      "context": "e that the non-linearity is key here. Since the value for the OR node.is not that much higher for the input of (1,1) opposed to a single 1 in the input (0.993 vs. 0.881 and 0.731), the distinct high value for the AND node.in this case . manages to push the final output.below the threshold.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8425675675675676
+      }
+    },
+    {
+      "question": "Why is moving alongside the gradient a good idea in the context of weight optimization during back-propagation training?",
+      "context": "The error for a specific node is understood as a function of the incoming weights. To reduce the error given this function, we compute the gradient of the error function with respect to each of the weights, and move against the gradient to reduce the error.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8313963050271367
+      }
+    },
+    {
+      "question": "Why is moving alongside the gradient a good idea?",
+      "context": "If you are looking for the lowest point in an area (maybe you are looking for water in a desert), and the ground falls off steep to the west of you, and also slightly south of you, then you would go in a direction that is mainly west . and only slightly south. In other words, you go alongside the gradient.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8329304914670768
+      }
+    },
+    {
+      "question": "What is the derivative of the output value with respect to the weight?",
+      "context": ". The derivative of the output value.with respect to.(the linear combination of weight and hidden node values) depends on the activation function. In the case of sigmoid, we have.sigmoid.sigmoid .(1 . sigmoid To keep our treatment below as general as possible and not commit to the sigmoid as an activation function, we will use the shorthand.for.below.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8419428297477078
+      }
+    },
+    {
+      "question": "What drives weight updates?",
+      "context": "Weight updates are computed based on error terms associated with each non-input node in the network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8319256756756757
+      }
+    },
+    {
+      "question": "How do we track how the error caused by a hidden node contributed to the error in the next layer?",
+      "context": "The idea behind back-propagation is to track how the error caused by the hidden node contributed to the error in the next layer.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8647158187599364
+      }
+    },
+    {
+      "question": "What drives weight updates?",
+      "context": "Weight updates are computed based on error terms. associated with each non-input node in the network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8319256756756757
+      }
+    },
+    {
+      "question": "Why is setting the learning rate too high a problem during gradient descent training?",
+      "context": "Setting the learning rate too high leads to updates that overshoot the optimum.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8294723294723294
+      }
+    },
+    {
+      "question": "What happens when the activation function is sigmoid, which only has a short interval of significant change?",
+      "context": "Bad initialization of weights may lead to long paths of many update steps to reach the optimum.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8464228934817171
+      }
+    },
+    {
+      "question": "What is the consequence of local optima when using gradient descent training?",
+      "context": "The existence of local optima lead the search to get trapped and miss the global optimum.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7939189189189189
+      }
+    },
+    {
+      "question": "What happens when a neural network misses its global optimum due to local optima?",
+      "context": "The existence of local optima lead the search to get trapped and miss the global optimum.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8416988416988417
+      }
+    },
+    {
+      "question": "When should training stop in a neural network?",
+      "context": "However, at some point over-fitting sets in, where the training data is memorized and not sufficiently generalized. We can check this with an additional set of examples, called the validation set , that is not used during training.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.852841812400636
+      }
+    },
+    {
+      "question": "What happens to the error on the validation set when training a neural network?",
+      "context": "When we measure the error on the validation set at each point of training, we see that at some point this error increases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8247863247863247
+      }
+    },
+    {
+      "question": "Why do initial weights for a hidden layer have to be chosen from a specific range?",
+      "context": "We prefer initial weights that lead to node values that are in the transition area for the activation function, and not in the low or high shallow slope where it would take a long time to push towards a change.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8903285638579757
+      }
+    },
+    {
+      "question": "What is the purpose of the momentum term in training a neural network?",
+      "context": "A common trick is to use a momentum term to speed up training.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7784602784602784
+      }
+    },
+    {
+      "question": "Why does the learning rate need to be adapted during training?",
+      "context": "A common training strategy is to reduce the learning rate . over time.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8193158193158193
+      }
+    },
+    {
+      "question": "What happens to the momentum term at each time step?",
+      "context": "This momentum term gets updated at each time step (i.e., for each training example).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8769230769230769
+      }
+    },
+    {
+      "question": "How does Adagrad adjust the learning rate for a parameter?",
+      "context": "One such method, called Adagrad, records the gradients that were computed for each parameter and accumulates their square values over time, and uses this sum to adjust the learning rate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8613899613899614
+      }
+    },
+    {
+      "question": "What is used to correct for bias in the hyperparameters?",
+      "context": "The hyper parameters . are set typically close to 1, but this also means that early in training the values for . and are close to their initialization values of 0.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7797297297297296
+      }
+    },
+    {
+      "question": "How does Adam adjust the learning rate?",
+      "context": "Adam uses exponential decay, just like for the momentum term.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8675675675675676
+      }
+    },
+    {
+      "question": "What is drop-out?",
+      "context": "One currently popular method in neural machine translation is called drop-out . It sounds a bit simplistic and wacky.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7486960644855382
+      }
+    },
+    {
+      "question": "How does layer normalization work?",
+      "context": "Layer normalization addresses a problem that arises especially in the deep neural networks that we are using in neural machine translation, where computing proceeds through a large sequence of layers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9009355509355509
+      }
+    },
+    {
+      "question": "Why is layer normalization needed?",
+      "context": "For some training examples, average values at one layer may become very large, which feed into the following layer, also producing large output values, and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8629629629629629
+      }
+    },
+    {
+      "question": "What is the purpose of normalization in the context of neural networks?",
+      "context": "Recall that a feed-forward layer consists of the matrix multiplication of the weight matrix . with the node values from the previous layer., resulting in a weighted sum., followed by an activation function such as sigmoid..sigmoid.We can compute the mean and variance of the values in the weighted sum vector.by.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7864134404674945
+      }
+    },
+    {
+      "question": "What is the purpose of normalizing the values in a weighted sum vector?",
+      "context": "The formula first normalizes the values in .by shifting them against their average value, hence ensuring that their average afterwards is 0.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8147818871503082
+      }
+    },
+    {
+      "question": "What is stochastic gradient descent?",
+      "context": "A training method that updates the model with each training example is called online learning. The online learning variant of gradient descent training is called stochastic gradient descent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7821106821106821
+      }
+    },
+    {
+      "question": "What is the advantage of using mini batches in neural network training?",
+      "context": "Online learning generally takes fewer passes over the training set (called epochs for convergence. However, since training constantly changes the weights, it is hard to parallelize.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8023648648648649
+      }
+    },
+    {
+      "question": "What is Hogwild?",
+      "context": "Finally, a scheme called Hogwild runs several training threads that immediately update weights, even though other threads still use the weight values to compute gradients.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.740990990990991
+      }
+    },
+    {
+      "question": "What is the main advantage of using specialized hardware like GPUs for fast graphics processing?",
+      "context": "These processors have a massive number of cores (for example, the NVIDIA GTX 1080ti GPU provides 3584 thread processors) but a rather lightweight instruction set. GPUs provide instructions that are applied to many data points at once, which is exactly what is needed out the vector space computations listed above.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8730113091815219
+      }
+    },
+    {
+      "question": "What problem do methods like drop-out and gradient clipping solve in neural network training?",
+      "context": "Training is made more robust by methods such as drop-out (Srivastava et al., 2014), where during training intervals a number of nodes are randomly masked. To avoid exploding or vanishing gradients during back-propagation over several layers, gradients are typically clipped (Pascanu et al., 2013).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8927555374923796
+      }
+    },
+    {
+      "question": "What is the purpose of the 'tensor' concept in neural networks?",
+      "context": "The general term for scalars, vectors, and matrices is tensors.tensor may also have more dimensions. a sequence of matrices can be packed into a 3-dimensional tensor.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.779054054054054
+      }
+    },
+    {
+      "question": "What is the main challenge in using matrix operations for neural network computations?",
+      "context": "Executing these operations is computationally expensive. If our layers have, say, 200 nodes, then the matrix operation.requires 200 . 200 . 40 . 000 multiplications.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8467973467973469
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When should training stop in a neural network?",
+      "context": "However, at some point over-fitting sets in, where the training data is memorized and not sufficiently generalized. We can check this with an additional set of examples, called the validation set , that is not used during training.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.852841812400636
+      }
+    },
+    {
+      "question": "How does layer normalization work?",
+      "context": "Layer normalization addresses a problem that arises especially in the deep neural networks that we are using in neural machine translation, where computing proceeds through a large sequence of layers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9009355509355509
+      }
+    },
+    {
+      "question": "What problem do methods like drop-out and gradient clipping solve in neural network training?",
+      "context": "Training is made more robust by methods such as drop-out (Srivastava et al., 2014), where during training intervals a number of nodes are randomly masked. To avoid exploding or vanishing gradients during back-propagation over several layers, gradients are typically clipped (Pascanu et al., 2013).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8927555374923796
+      }
+    },
+    {
+      "question": "Why do initial weights for a hidden layer have to be chosen from a specific range?",
+      "context": "We prefer initial weights that lead to node values that are in the transition area for the activation function, and not in the low or high shallow slope where it would take a long time to push towards a change.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8903285638579757
+      }
+    },
+    {
+      "question": "What happens when the activation function is sigmoid, which only has a short interval of significant change?",
+      "context": "Bad initialization of weights may lead to long paths of many update steps to reach the optimum.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8464228934817171
+      }
+    }
+  ]
+}

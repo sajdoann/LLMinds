@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the basis for calculating derivatives in the context of output words?",
+      "context": "For the computation of the derivatives afterwards, you just collect all the losses at each of the output words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7645833333333334
+      }
+    },
+    {
+      "question": "How is the loss calculated for a given word position?",
+      "context": "At each of the words, at each of the positions, you get loss proportional to the negative logarithm of the probability of the word that should have been predicted.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.75625
+      }
+    },
+    {
+      "question": "What is the relationship between loss and probability in this context?",
+      "context": "loss proportional to the negative logarithm of the probability of the word that should have been predicted.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7094155844155844
+      }
+    },
+    {
+      "question": "Is there any additional information needed to calculate derivatives beyond what is provided in the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Can the loss calculation be understood independently of the context of output words?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any additional information needed to calculate derivatives beyond what is provided in the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "Can the loss calculation be understood independently of the context of output words?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "How is the loss calculated for a given word position?",
+      "context": "At each of the words, at each of the positions, you get loss proportional to the negative logarithm of the probability of the word that should have been predicted.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.75625
+      }
+    }
+  ]
+}

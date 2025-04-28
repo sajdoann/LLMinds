@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main issue with handling variable length input in a neural network?",
+      "context": "And when we were discussing the basics of neural networks, we had a fixed number of inputs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "How does the author propose to handle the variable length input?",
+      "context": "The idea how to digest a variable length input is to use the same matrix, same operation calculation to one unit at a time and consume the input sensor.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8477272727272727
+      }
+    },
+    {
+      "question": "What is the consequence of using the same transformation on multiple steps during training?",
+      "context": "So, the network then suddenly becomes much deeper. So the same parameters are trained in multiple steps...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.9092548076923077
+      }
+    },
+    {
+      "question": "Why do vanishing gradients occur when training a neural network with variable length input?",
+      "context": "...And when there is a problem of vanishing gradients.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8323412698412698
+      }
+    },
+    {
+      "question": "What basic units of the neural network are suggested to avoid vanishing gradients?",
+      "context": "...to avoid the...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8942307692307692
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main issue with handling variable length input in a neural network?",
+      "context": "And when we were discussing the basics of neural networks, we had a fixed number of inputs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "What basic units of the neural network are suggested to avoid vanishing gradients?",
+      "context": "...to avoid the...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8942307692307692
+      }
+    },
+    {
+      "question": "How does the author propose to handle the variable length input?",
+      "context": "The idea how to digest a variable length input is to use the same matrix, same operation calculation to one unit at a time and consume the input sensor.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8477272727272727
+      }
+    },
+    {
+      "question": "What is the consequence of using the same transformation on multiple steps during training?",
+      "context": "So, the network then suddenly becomes much deeper. So the same parameters are trained in multiple steps...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.9092548076923077
+      }
+    }
+  ]
+}

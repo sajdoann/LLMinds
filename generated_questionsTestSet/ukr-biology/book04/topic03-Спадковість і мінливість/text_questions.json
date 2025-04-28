@@ -1,0 +1,1722 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of genetics?",
+      "context": "Генетика — це наука, яка вивчає спадковість і мінливість живих організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7652813852813853
+      }
+    },
+    {
+      "question": "What is the difference between genotype and phenotype?",
+      "context": "Сукупність генетичної інформації somатичної клітини organisму називають генотипом. Генотип включає як ядерні, так і позаядерні гени, які входять до складу мітохондрій, пластид або плазмід (наприклад, у дріжджів). Сукупність властивостей та ознак організму, що сформувалися в результаті взаємодії генотипу із зовнішнім середовищем, називають фенотипом.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.832510162601626
+      }
+    },
+    {
+      "question": "What is the difference between homozygosity and heterozygosity?",
+      "context": "Якщо алелі одного гена, що розташовані в різних гомологіч-ніх хромосомах, є однаковими, організм називають гомозиготою (за певним геном). Якщо алелі в гомологічних хромосомах різні — це гетерозигота.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8265277777777778
+      }
+    },
+    {
+      "question": "What is the role of dominance and recessiveness in genetics?",
+      "context": "За таких взаємовідносин один з алелів (домінантний) маскує у гетерозиготі прояв іншого алеля (рецесивного).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269523809523809
+      }
+    },
+    {
+      "question": "What is the purpose of studying organisms with different zygotes?",
+      "context": "Досліджуючи такі організми, можна з’ясувати роль чинників довкілля у формуванні фенотипу особин: різний характер їхнього впливу зумовлює розбіжності у прояві тих чи інших станів певних ознак.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.847
+      }
+    },
+    {
+      "question": "What is gibbonological analysis?",
+      "context": "Гібридологічний аналіз — це дослідження характеру успадкування ознак за допомогою системи схрещувань.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7958333333333334
+      }
+    },
+    {
+      "question": "What is a monogibrid?",
+      "context": "Monogibridne (один ген) схрещування",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7883333333333333
+      }
+    },
+    {
+      "question": "What is the law of independent assortment?",
+      "context": "Закон не-залежного комбінування спадкових ознак",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7912380952380953
+      }
+    },
+    {
+      "question": "What is the notation used to represent genotypes in a formula?",
+      "context": "Будь-який алель (домінантний чи рецесивний, якщо \nце не має значення) у генотиповій формулі\n– (наприклад,  A–B –)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8676648841354724
+      }
+    },
+    {
+      "question": "What type of gametes are produced by the parent with genotype Ab?",
+      "context": "Гамети ( G )\nAb  \naB\n— типи їхніх гамет",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8925925925925926
+      }
+    },
+    {
+      "question": "What is the primary purpose of секвенування ДНК?",
+      "context": "Метод  секвенування ДНК  по-лягає у визначенні послідовності нуклеотидних основ (аденіну, тиміну, гуаніну й цитозину) на певній ділянці ДНК для подальшої ідентифікації такої ділянки і з’ясування складу РНК та білків, які можуть бути на ній закодовані.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8077146464646465
+      }
+    },
+    {
+      "question": "What is the main function of секвенатор?",
+      "context": "Секвенатор — прилад для Zdійснення секвенування ДНК",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7652380952380953
+      }
+    },
+    {
+      "question": "What is the main goal of the Polymerase Chain Reaction (PCR) technology?",
+      "context": "Її головне завдання — збільшити кількість молекул ДНК, необхідних для їх аналізу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8467929292929293
+      }
+    },
+    {
+      "question": "What is the purpose of using primers in PCR?",
+      "context": "Для позначення місця, де полімераза починає синтез, використовують спеціальні коротенькі ланцюжки ДНК — праймери.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8161640211640211
+      }
+    },
+    {
+      "question": "What is the effect of temperature on PCR?",
+      "context": "Потім температуру знижують, і полімераза зновуможе працювати.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8145238095238095
+      }
+    },
+    {
+      "question": "What is the main purpose of genetical markers?",
+      "context": "Генетичні маркери (або  ДНК-маркeri ) — це поліморфні ознаки, які виявляють на рівні нуклеотидної послідовності ДНК під час здійснення досліджень.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7946666666666666
+      }
+    },
+    {
+      "question": "What is the main purpose of the DNA microchip method?",
+      "context": "Суть методу  ДНК-мікрочіпу  полягає в тому, що на спеціальній платі розташовується (за допомогою складного роботизованого механізму) велика кількість  зондів  — невеликих молекул ДНК, з якими взаємодіють молекули РНК.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8145502645502646
+      }
+    },
+    {
+      "question": "What is the purpose of using a specific DNA probe with RNA molecules?",
+      "context": "Усі РНК досліджуваних клітин мітять спеціальними сигнальними молекулами, … jika досліджувані клітини зруй-нувати і вилити отриманий розчин на поверхню плати, то усі РНК будуть взаємодіяти із зондами, що їм відповідають",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8708424908424908
+      }
+    },
+    {
+      "question": "What is the main difference between prokaryotic and eukaryotic organisms?",
+      "context": "Які організми відносять до прокаріотічних, а які — до еукаріотичних?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84125
+      }
+    },
+    {
+      "question": "Where is the genetic material located in eukaryotic cells?",
+      "context": "Основна частина генів еукаріотів зосереджена у ядерній частині геному. Ядерна частина — це гени, що розташовані в хро-мосомах ядра клітини",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8721637426900585
+      }
+    },
+    {
+      "question": "Що таке позаядерний геном?",
+      "context": "Позаядерна частина геному — це гени, що розташовані в пластидах і мітохондріях (мал. 29.2).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9596428571428571
+      }
+    },
+    {
+      "question": "Коли є геном еукаріота більший за вірусний?",
+      "context": "Найменший розмір геному у вірусів. Віноже може бути меншим, ніж 2 тисячі пар нуклеотидів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9888095238095238
+      }
+    },
+    {
+      "question": "Що таке мобільні генетичні елементи?",
+      "context": "У геномах еукаріотів трапляються мобільні генетичні елементи (мобільні гени), які здатні переміщатися всередині геному.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9787142857142858
+      }
+    },
+    {
+      "question": "What is the main function of the promoter in a eukaryotic gene?",
+      "context": "Промотор",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.843939393939394
+      }
+    },
+    {
+      "question": "What are exons and introns in a eukaryotic gene?",
+      "context": "екзони — ділянки ДНК, що містять таку інформацію. Інтрони — це послідовності нуклеотидів, які не містять інформацію.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8965079365079365
+      }
+    },
+    {
+      "question": "What is the process called when a eukaryotic cell removes introns from a pre-mRNA molecule?",
+      "context": "процес її дозрівання, у ході якого інтронні ділянки видаляються з РНК.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.888982683982684
+      }
+    },
+    {
+      "question": "What are enhancers and silencers in a eukaryotic gene?",
+      "context": "ділянки, що прискорюють роботу гена — енхансерами, а уповільнюють або припиняють — сайленсерами",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8998148148148148
+      }
+    },
+    {
+      "question": "How many introns can be present in a eukaryotic gene?",
+      "context": "Кількість інтронів в одному гені може коливатися від нуля до кількох десятків.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9602222222222222
+      }
+    },
+    {
+      "question": "What is the function of regulators (silencers) of genes?",
+      "context": "Регуляторні гені — теж містять інформацію про структуру молекул білків або РНК. Але їхнє завдання — регулювати роботу структуурних генів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8153728070175439
+      }
+    },
+    {
+      "question": "Why are some genes not active all the time?",
+      "context": "Більшість хромосом у клітинах є неактивною, «вимкненою». Але й ті гени, які працюють не завжди, повинні працювати одна-ково інтенсивно.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9382066276803119
+      }
+    },
+    {
+      "question": "What is the role of enhancers in gene regulation?",
+      "context": "Така будова дозволяє еукаріотичним організмам здій-снювати дуже тонку регуляцію роботи своїх генів. Ділянки, що прискорюють роботу гена, називають енхансерами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8250292397660819
+      }
+    },
+    {
+      "question": "What is the purpose of regulation of gene activity?",
+      "context": "У геномі еукаріотів міститься кілька тисяч генів, але для життєдіяльності й виконання своїх функцій кожній окремій клітині притрібно набагато менше генів.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8076388888888889
+      }
+    },
+    {
+      "question": "Why do eukaryotic cells have fewer genes than proteins produced?",
+      "context": "This is possible because one gene can produce several functional products (molecules of proteins).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9927619047619047
+      }
+    },
+    {
+      "question": "What mechanism allows for the regulation of gene expression?",
+      "context": "It involves the use of regulatory mechanisms, which operate at different levels of realizing inherited information.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8741481481481481
+      }
+    },
+    {
+      "question": "What is the difference between гетерохроматинові та еухроматинові ділянки на хромосомах?",
+      "context": "на хромосомах розрізняють  гетерохроматинові  (щільно упаковані) та  еухроматинові  (не щільно упаковані) ділянки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8818181818181818
+      }
+    },
+    {
+      "question": "What is the effect of adding a метильний радикал (CH3) to a DNA molecule?",
+      "context": "Існує ще одним способом хімічної регуляції — ацетилювання білків-гістонів, навколо яких намотуються нитки ДНК в хромосомах. На наявності додаткової ацетильної групи також робить неможливим зчитування інформації з ділянки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8661630036630037
+      }
+    },
+    {
+      "question": "What is the purpose of білки-шаперони in the process of protein synthesis?",
+      "context": "Білки - шаперони формують просторову будову білка, модифікуюючи його вторинну й третинну структуру (мал. 30.3).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8392222222222222
+      }
+    },
+    {
+      "question": "What is the effect of adding an ацетильна група to a protein molecule?",
+      "context": "На наявності додаткової ацетільної групи також робить неможливим зчитування інформації з ділянки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8665384615384615
+      }
+    },
+    {
+      "question": "What is the purpose of пост-трансляційна регуляція?",
+      "context": "Зазвичай цей процес відбувається у вигляді пост-трансляційної модифікації. Пост - трансляційна модифікація — це зміна білкової молекули після її утворення в процесі трансляції.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7770600414078674
+      }
+    },
+    {
+      "question": "What is the role of промотор та регуляторні ділянки in regulating gene expression?",
+      "context": "Регуляція під час транскрипції відбувається внасліду взаємодії продуктів регуляторних генів (зазвичай білків) з певними структурами генів: промотором або регуляtorними ділянками.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8761666666666666
+      }
+    },
+    {
+      "question": "What are the special proteins that form a spatial structure around a protein molecule?",
+      "context": "Білки - шаперони формують просторову будову білка, модифікуючи його вторинну й третинну структури (мал. 30.3).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.921982905982906
+      }
+    },
+    {
+      "question": "What is the main idea of the chromosomal theory of inheritance?",
+      "context": "Хромосомна теорія спадковості була запропонована майже відразу після перевідкриття законів Г. Менделя.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.835462962962963
+      }
+    },
+    {
+      "question": "What is the main function of histones in a chromosome?",
+      "context": "Кожна з хромосом є довгою молекулою ДНК, яка утворює складний комплекс із білками гістонами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8156666666666667
+      }
+    },
+    {
+      "question": "What is the main difference between somatic and reproductive cells in terms of chromosome number?",
+      "context": "...кість кількості хромосом у статевих і соматичних клітинах?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8597777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of telomeres in a chromosome?",
+      "context": "Довге плече Теломери...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.817037037037037
+      }
+    },
+    {
+      "question": "What is a telomere?",
+      "context": "Кінцеві ділянки плечей хромосом називають теломерами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7733333333333333
+      }
+    },
+    {
+      "question": "What determines the sex of an individual based on its chromosomal content?",
+      "context": "Якщо статеві хромосоми двох типів, то одна стать має дві однакові статеві хромосоми (гомогаметна стать), а друга — дві різні (гетерогаметна стать).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.896578947368421
+      }
+    },
+    {
+      "question": "What is a karyogram?",
+      "context": "Каріотип можна зобразити у вигляді схеми — ідіограми (каріограми), на якій хромосоми розташовані за порядком зменшення довжини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7663725490196078
+      }
+    },
+    {
+      "question": "What is a homologous chromosome?",
+      "context": "У кожній з хромосом такої пари однакові ділянки є алельними генами. Гомологічні хромосомі дублюють одна одну.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8084583333333333
+      }
+    },
+    {
+      "question": "What is the difference between a gynogamous and heterogamous sex?",
+      "context": "Якщо статеві хромосоми одного типу, то стать особини значається тим, скільки статевих хромосом міститься в її хромосомному наборі — одна чи дві.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.850121212121212
+      }
+    },
+    {
+      "question": "What is гомогаметність?",
+      "context": "атivity ). Наприклад, у людини і двокрилих комах гомогametною є жіноча стату́ (її представники мають по дві X -хромосоми, генотип — XX ), а гетерогаметну́я — чолові́ча (її представники мали́ mają одну X - і одну Y -хромосоми, генотип — XY ). У більшості птахів і метеликів, на-впаки, гомогametну́ю статтю є чолові́ча (її представники мали́ мають по два однакові хромосоми, але позначаються вони вже іншою латинською літерою — Z , генотип — ZZ ), а гетерогаметну́я — жіноча (генотип — ZW ).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7455765199161426
+      }
+    },
+    {
+      "question": "What is анеуплоїдія?",
+      "context": "це явище називається анеуплоїдією (мал. 31.3). Відсутність певної хромосоми в окремих парах",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7391666666666667
+      }
+    },
+    {
+      "question": "What is моносомія?",
+      "context": "у каріотипі однієї з гомологічних хромосом називають моно́сомією, а двох — нулісомією.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7194444444444444
+      }
+    },
+    {
+      "question": "What is трисомія?",
+      "context": "Наявність зайвої хромосоми дістала назву трисомії.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7516666666666667
+      }
+    },
+    {
+      "question": "What is the term for a situation where one of two identical chromosomes has a specific change?",
+      "context": "у каріотипі однієї з гомологічних хромосом називають  моносомією ,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8725925925925926
+      }
+    },
+    {
+      "question": "What is the process of analyzing and studying the numbers and features of a specific chromosome?",
+      "context": "Хромосомний аналіз - це процес дослідження й аналізу числа й особливостей будови хромосом певного каріотипу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8674908424908425
+      }
+    },
+    {
+      "question": "What is the term for a change in DNA that occurs due to the disruption of a genetic structure?",
+      "context": "Мутацією (від латин. mutatio — зміна) називають зміну ознак, яка зумовлена порушеннями спадкових структур, перебудовою генетичного апарату.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8841176470588236
+      }
+    },
+    {
+      "question": "Who proposed the term 'mutation' and formulated the main principles of mutation theory?",
+      "context": "Вченим такі зміни були відомі давно. Гуґо де Фріз (мал. 32.1) запропонував термін «мутація».",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9303968253968254
+      }
+    },
+    {
+      "question": "What is the classification of mutations based on the type of expression of traits in heterozygotes?",
+      "context": "Існує кілька варіантів класифікації мутацій: • за  типом manifestedu ознаки в гетерозиготі:",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.868525641025641
+      }
+    },
+    {
+      "question": "What is the main difference between non-sense and missense mutations?",
+      "context": "Non-sense -мутації — викли-\nкають появу стоп-кодону \nвсередині мРНК, яка кодує \nмолекулу білка.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.856974358974359
+      }
+    },
+    {
+      "question": "What happens when a missense mutation occurs?",
+      "context": "Міссенс -мутації — зміню-\nють одну амінокислоту в \nмолекулі білка на іншу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9002380952380953
+      }
+    },
+    {
+      "question": "What is the main difference between chromosomal and genome mutations?",
+      "context": "Геномні\nЗміна кількості \nокремих хромосом \nчи всього хромо-\nсомного набору. ",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8606666666666667
+      }
+    },
+    {
+      "question": "What is the main characteristic of a non-sense mutation?",
+      "context": "Нонсенс -мутації — зміню-\nють тільки один \nген",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.805787037037037
+      }
+    },
+    {
+      "question": "What is translocation?",
+      "context": "Робертсонівська трансlohaція — об’єднання двох хромосом в одну",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7211111111111111
+      }
+    },
+    {
+      "question": "What causes mutation?",
+      "context": "Фактори, які здатні індукувати мутаційний ефект, називають мутагенними.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8551388888888889
+      }
+    },
+    {
+      "question": "What is the estimated time of origin of this mutation?",
+      "context": "цім населення виникла через мутацію одного з тих регуляторних генів, які відповідають за розвиток ока. За оцінками вчених, це мутація мала місце більше 400 млн років тому.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8368233618233618
+      }
+    },
+    {
+      "question": "Що таке метильна група?",
+      "context": "дах (до деяких із них приєднуватися метильні групи –CH 3).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9865
+      }
+    },
+    {
+      "question": " Jak що запобігає контакт мутагенів з ДНК клітин?",
+      "context": "Захисні речовини. У клітинах наявна велика кількість речовин, які можуть зв’язувати молекули хімічних мутагенів (наприклад, аскорбінова кислота здатна зв’язувати вільні радикали).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9865
+      }
+    },
+    {
+      "question": " Як було засновано міжнародний проект «Геном людини»?",
+      "context": "1990 року було створено міжнародний проект «Геном людини».",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9991071428571429
+      }
+    },
+    {
+      "question": "Що таке спадковість і мінливість?",
+      "context": "і мітохондріальна ДНК разом містять приблизно 3,234 мільярда пар нуклеотидів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9826666666666667
+      }
+    },
+    {
+      "question": "Де зберігається спадкова інформація в організмі людини?",
+      "context": "22 аутосоми, статеві хромосоми X та Y",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9866666666666667
+      }
+    },
+    {
+      "question": "Кількість пар хромосом містять клітини людини?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9988888888888889
+      }
+    },
+    {
+      "question": "Що таке кросингер?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9855555555555555
+      }
+    },
+    {
+      "question": "What is the main difference between genetic and non-genetic variation?",
+      "context": "Uчені виділяють дві основні форми мінливості — спадкову (генотипову) і неспадкову (модифікаційну, або фенотипову).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8445238095238095
+      }
+    },
+    {
+      "question": "What is the purpose of genetic variation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is phenotypic variability?",
+      "context": "Модифікаційна (фенотипова) мінливість Неспадкову мінливість ще називають  фенотиповою , або  модифікаційною .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8037878787878788
+      }
+    },
+    {
+      "question": "What is the characteristic of phenotypic variability?",
+      "context": "Характерною рисою модифікаційної мінливості є оборотність  — зникнення змін в організмі у разі зникнення специфічних умов се-редовища, що призвели до появи модифікації.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7768253968253969
+      }
+    },
+    {
+      "question": "What is the result of phenotypic variability?",
+      "context": "Внаслідок цієї мінливості в організмі змінюється інтенсивність ферментативних реакцій, що зумовлюється зміною інтенсивності їх біосинтезу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7871111111111111
+      }
+    },
+    {
+      "question": "What is the type of genetic variation that combines different gene combinations?",
+      "context": "Комбінативна мінливість пов’язана з отриманням нових поєднань генів у генотипі.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8480555555555556
+      }
+    },
+    {
+      "question": "What is the process of genetic variation that combines different gene combinations?",
+      "context": "У людини комбінативна мінливість відбувається під час процесїв: • незалежного розходження хромосом під час мейозу; • випадкового поєднанняпід час запліднення; • рекомбінації генів завдяки кросинговеру.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8580555555555556
+      }
+    },
+    {
+      "question": "What is the result of combining different gene combinations?",
+      "context": "Самі гени при цьому не змінюються, але виникають нові їх поєд-ання, що спричинює появу organisмів з іншими генотипом і фено-типом.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8300185185185185
+      }
+    },
+    {
+      "question": "Where is the DNA located in human cells?",
+      "context": "Де в клітинах організму людини розміщена ДНК?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8754166666666666
+      }
+    },
+    {
+      "question": "How do different genes interact with each other?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9925
+      }
+    },
+    {
+      "question": "Who formulated the laws of inheritance?",
+      "context": "Які за-coni сформулював Г. Мендель?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8812222222222222
+      }
+    },
+    {
+      "question": "What are dominant and recessive alleles called?",
+      "context": "Які алелі називають до-мінантними, а які — рецесивними?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8980952380952381
+      }
+    },
+    {
+      "question": "What is the type of inheritance for the alelle in 26% of the population?",
+      "context": "алеля є 26 % на-селення. Тацей алель не є алелем гена, який відповідає за біляве волосся у європейців.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8430659536541889
+      }
+    },
+    {
+      "question": "What is the name of the genetic mechanism that determines the synthesis of melanin in hair?",
+      "context": "Хоча ця мутація також припиняє синтез меланіну у волоссі, але виникла вона в іншому гені.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8563760683760684
+      }
+    },
+    {
+      "question": "What is the name of the genetic mechanism that determines the expression of a particular trait?",
+      "context": "Конкретний механізм успадкування ознаки залежить від того, в якій із хромосом (аутосомі чи статевій хромосомі) розташований відповідний ген та якою (домінантною чи рецесивною) є дістівувана ознака.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8569230769230769
+      }
+    },
+    {
+      "question": "What is the name of the genetic mechanism that determines the expression of a particular trait in humans?",
+      "context": "Механізми успадкування різних ознак у людини можуть забезпечуватися різними механізмами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8615555555555556
+      }
+    },
+    {
+      "question": "What is the name of the genetic mechanism that determines the expression of a particular trait in humans?",
+      "context": "Значна частина з них є результатом взаємодії великої кількості генів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625555555555555
+      }
+    },
+    {
+      "question": "What is the name of the genetic mechanism that determines the expression of a particular trait in humans?",
+      "context": "У людини також спостерігається позахромосомне успадкування.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8545555555555555
+      }
+    },
+    {
+      "question": "What type of inheritance is responsible for the development of brachydactyly?",
+      "context": "Брахидактилія - аутосомно-домі-нантне (мал. 36.1)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8456666666666667
+      }
+    },
+    {
+      "question": "What type of inheritance is responsible for the development of blue eye color?",
+      "context": "Синій колір очей, далтонізм за синім кольором.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8729365079365079
+      }
+    },
+    {
+      "question": "What type of inheritance is responsible for the development of hemophilia?",
+      "context": "Нефрогенний нецу-кровий діабет.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.853
+      }
+    },
+    {
+      "question": "What is the dominant allele for Braphidactilia?",
+      "context": "Ознака визначається домінантним але-\nлем гена, що розташований в аутосомі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8200000000000001
+      }
+    },
+    {
+      "question": "What is the manifestation of the autosomal dominant allele for Braphidactilia?",
+      "context": "Ознака проявляється у кожному поколін-\nні незалежно від статі",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8403703703703704
+      }
+    },
+    {
+      "question": "What is the relationship between sex and Braphidactilia?",
+      "context": "Оznака проявляється незалежно від статі",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.844
+      }
+    },
+    {
+      "question": "What is polymery",
+      "context": "Їх називають  полімерними генами . Полімерна взаємодія …",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.74375
+      }
+    },
+    {
+      "question": "What is the example of polymery",
+      "context": " Їїх називають  полімерними генами. Полімерна взаємодія …",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613492063492064
+      }
+    },
+    {
+      "question": "What is the main goal of genetic monitoring?",
+      "context": "Генетичний моніторинг — це система спостережень, спрямованих на відслідковування, виникнення та поширення спадкових порушення в популяціях.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What is the difference between observation and monitoring?",
+      "context": "Чим моніторинг відрізняється від спостережень?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8396666666666667
+      }
+    },
+    {
+      "question": "What is the main goal of genetic monitoring?",
+      "context": "Основним завданням генетійного моніторингу є контроль генетичних vad, які виникають у популяції, та по-передження їх виникнення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.780625
+      }
+    },
+    {
+      "question": "What is the purpose of genetic monitoring in controlling genetic variability?",
+      "context": "Для контролювання спадкової мінливості в популяціях необхідно оцінювати коефіцієнт імбридингу, величину генетичного вантажу, інтенсивність мутаційного процесу у певній популяції",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8221052631578947
+      }
+    },
+    {
+      "question": "What is the main objective of genetic monitoring?",
+      "context": "Основним завданням генетійного моніторингу є контроль генетичних vad, які виникають у популяції, та по-передження їх виникнення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7835416666666667
+      }
+    },
+    {
+      "question": "What is the purpose of genetic monitoring in predicting the number of people with hereditary diseases?",
+      "context": "Прогнозування кількості людей зі спадковими захворюваннями.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8748412698412699
+      }
+    },
+    {
+      "question": "What is the main goal of genetic monitoring in controlling the impact of environmental factors on the genome?",
+      "context": "Оцінка шкідливого впливу факторів навколишнього середовища на генофонд популяції.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8756296296296296
+      }
+    },
+    {
+      "question": "What is a genofond?",
+      "context": "Генофонд — це сукупність усіх можливих варіантів генів певного виду організмів у конкретній популяції або у виду в цілому.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.761421568627451
+      }
+    },
+    {
+      "question": "What is the purpose of genetical monitoring?",
+      "context": "Генетичний моніторинг застосовуються для виявлення потенційної мутагенної дії нових лікарських препаратів, різноманітних побутових засобів, харчові добавки та інші речовини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7883709273182957
+      }
+    },
+    {
+      "question": "What is the effect of high polymorphism in a genofond?",
+      "context": "Генофонд з високим рівнем поліморфізму набагато краще забезпечує здатність популяції до виживання в умовах змін навколишнього середовища.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8262549019607843
+      }
+    },
+    {
+      "question": "What factors influence the genofond of a population?",
+      "context": "Між собою генофонди людських спільнот можуть досить суттєво відрізнятися один від одного. На появу таких відмінностей впливає цілий ряд факторів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8469166666666667
+      }
+    },
+    {
+      "question": "What is the effect of abiotical factors on human skin color?",
+      "context": "Більш темне забарвлення Lessens the risk of developing skin cancer under strong UV radiation. А світле zabарвлення Lighter skin tone makes it easier for the skin to synthesize vitamin D and lessens the risk of developing rickets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8661859979101358
+      }
+    },
+    {
+      "question": "How do migrating populations affect the genetic makeup of a population?",
+      "context": "Міграції Migrations can bring new alleles into a population. For example, the introduction of a mitochondrial DNA variant in Europe that originated from an European territory eventually entered the gene pool of the Native Americans",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9183870967741935
+      }
+    },
+    {
+      "question": "What is the impact of founder effect on the genetic diversity of a population?",
+      "context": "Через те що нові популяції засновує usually relatively small group of people, this can lead to significant changes in allele frequencies or even their disappearance. In the case of Native Americans, not all individuals from the B blood type group migrated, so when European settlers arrived, there were only two blood types: I (0) and II (A)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8604059829059829
+      }
+    },
+    {
+      "question": "What was the event that occurred 75,000 years ago in Indonesia and had a significant impact on human populations?",
+      "context": "виверження супервулкану Тоба в Індонезії 75 тисяч років тому",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9293567251461988
+      }
+    },
+    {
+      "question": "How did the interaction with other human species influence the genetic diversity of a population?",
+      "context": "Запозичення певних алелів з геному неандртальців представниками людини розумної принесли неафриканським популяціям нашого виду суттєву користь.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9272619047619047
+      }
+    },
+    {
+      "question": "What is the significance of the genetic variations inherited from Neanderthals for modern humans?",
+      "context": "Саме ці варіанти алелів забезпечують стійкість особини до низки вірусних інфекцій.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8803962703962704
+      }
+    },
+    {
+      "question": "How did the geographical location of a population affect its genetic diversity?",
+      "context": "Різні географічні умови по-різному впливають на популяції. Так, Австралія є рівнинним материком, на якому відсутні суттєві бар’єри для пересування людини.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9164473684210527
+      }
+    },
+    {
+      "question": "What was the impact of the volcanic eruption in Indonesia on human populations?",
+      "context": "Наслідком виверження стала загибель значної частини людей на території Азії та Африки, що суттєво змінило генофонди тих груп, яким удалося вижити в цій ситуації",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8879166666666667
+      }
+    },
+    {
+      "question": "Why do the genetic funds of Australian Aboriginals vary little across regions?",
+      "context": "Так, Австралія є рівнинним материком, на якому відсутні суттєві бар’єри для перехіду людини. Тому генофонди австралійських аборигенів різких регіонів різняються не дуже сильно (мал. 38.3). А от Нова Гвінея — гористий острів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9253819444444444
+      }
+    },
+    {
+      "question": "What is the primary goal of medical genetics?",
+      "context": "Надзвичайно важливою метою медичної генетики є дослідження механізмів виникнення спадкових захворювань.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8112878787878788
+      }
+    },
+    {
+      "question": "What is the main goal of genna therapy?",
+      "context": "Головним її завданням є заміна дефектних генів на нормальні й повна ліквідація захворювання в окремої людині.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7945833333333333
+      }
+    },
+    {
+      "question": "What is the difference between direct and indirect diagnosis of genetic diseases?",
+      "context": "Лікування спадкових захворювань тривалий час залишився найбільш складним для реалізації напрямком медичної генетики.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8562606837606838
+      }
+    },
+    {
+      "question": "What is the main direction of medical genetics?",
+      "context": "Профілактика спадкових захворювань є найбільш розвиненим напрямком. Вона поділяється на соціальну, коли робота ведеться з усім населенням або певними соціальними групами, та індивіду-alну, засновану на аналізі індивідуального генотипу чи родоводу з ціною personalним ризиком народження дітей зі спадковими захворюваннями.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.804786036036036
+      }
+    },
+    {
+      "question": "Jak діють мутагени?",
+      "context": "Мутагени діють на ДНК.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9822222222222222
+      }
+    },
+    {
+      "question": "Що таке каріотип людини?",
+      "context": "Каріотип складається з пар хромосом.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9721666666666666
+      }
+    },
+    {
+      "question": "What is Hemofilepsy?",
+      "context": "Виникає внаслідок пошкодження одного з генів, що відповідають за процесз зсідання крові.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7397222222222223
+      }
+    },
+    {
+      "question": "What causes the development of genetic diseases?",
+      "context": "Основною причиною виникнення таких захворювань є формування відносно вразливого генотипу, завдяки чому в певних умовах різко підвищується ймовірність розвитку захворювання.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8212619047619047
+      }
+    },
+    {
+      "question": "What are the three main groups of genetic diseases?",
+      "context": "Захворювання людини можна поділити на три великі групи. Перша — захворювання, поява яких повністю залежить від спадкових порушень (синдром Дауна, синдром Шерешевского-Тернера тощо).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8479871175523349
+      }
+    },
+    {
+      "question": "Які типи успадкування ознак є в людині?",
+      "context": "Існує багато захворювань зі спадковою схильністю, і їхня при-рода може бути різною:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9887301587301587
+      }
+    },
+    {
+      "question": "Що таке спадкове захворювання?",
+      "context": "Основною причиною виникнення таких захворювань є формуван-\r\n     ння відносно вразливого генотипу, завдяки якому в певних умовах\r\n     різко підвищується ймовірність розвитку захворювання.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9751587301587301
+      }
+    },
+    {
+      "question": "Які спадкові захворювання трапляються в людині?",
+      "context": "\n• уроджені вади розвитку (гідроцефалія, косолапість тощо);\r\n• психічні та нервові захворювання (шизофренія, епілепсія тощо);\r\n• захворювання серцево-судинної системи;\r\n• діабет;\r\n• виразка шлунка та дванадцятипалої кишки;\r\n• хвороба Альцгеймера;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9941414141414141
+      }
+    },
+    {
+      "question": "Як можна розрахувати внесок спадковості у розвиток певного захворювання?",
+      "context": "Для розрахунку внеску спадковості у розвиток захворювання\r\n     використовують формулу:\r\n     С  = ( М (%) –  D (%))/(100 –  D (%)),\r\n     де  М  (%) — співпадіння (конкордантність) для монозиготних близню-\r\n    ків, а  D  (%) — співпадіння (конкордантність) для дизиготних близнюків.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9872354497354497
+      }
+    },
+    {
+      "question": "What is the main conclusion from studying such diseases?",
+      "context": "Головним висновком за ре-зультатами вивчення таких захворювань є те, що спадкові захворювання людини набагато простіше попередити, ніж вилікувати.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8522222222222222
+      }
+    },
+    {
+      "question": "What is Mediko-genetic consultation?",
+      "context": "Медико-генетичне консультування — це один з видів медичної допомоги населенню, який дозволяє попередити народження дітей зі спадковою патологією.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7963888888888889
+      }
+    },
+    {
+      "question": "What can be calculated using mediko-genetic consultation?",
+      "context": "Za допомогою медико-генетичного консультування можна розрахунок ризику (або повторного риску у випадку вже виявленого спадкового захворювання у старшої дитини) народження хворої дитини;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.932063492063492
+      }
+    },
+    {
+      "question": "What is the main purpose of Mediko-genetic consultation?",
+      "context": "Медико-генетичне консультування в Україні здійснюють медико-генетичні кабінети, медико-генетичні центри і відповідальні фахівці медичних інститутів, науково-дослідних інститутів та інститутів удосконалення лікарів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.798287037037037
+      }
+    },
+    {
+      "question": "What is the main reason for profylaxis of hereditary diseases?",
+      "context": "Профілактика спадкових захворювань є дуже важливою, оскільки витрати на неї незрівнянно менші, ніж витрати на лікування новонароджених зі спадковими вадами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8340740740740741
+      }
+    },
+    {
+      "question": "What are some effective measures for profylaxis of hereditary diseases?",
+      "context": "Ефективними заходами профілактики спадкових захворювань є: надання батькам елементарних знань про причини спадкових захворювань та можливість їх попередження;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.91375
+      }
+    },
+    {
+      "question": "What is the law of independent combination of hereditary characters?",
+      "context": "Закон незалежного комбінування спадкових ознак",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8334814814814815
+      }
+    },
+    {
+      "question": "What is the system of inheritance used by gibbon hybrids?",
+      "context": "у нащадків гібрида",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8205555555555556
+      }
+    },
+    {
+      "question": "What is meant by 'спадковість і мінливість'?",
+      "context": ".«Спадковість і мінливість»",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8763492063492063
+      }
+    },
+    {
+      "question": "What are the types of genetic mutations mentioned?",
+      "context": "Форми мінливості",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8475
+      }
+    },
+    {
+      "question": "What is the difference between monogenic and polygenic inheritance in humans?",
+      "context": "Типи успадкування моногенних ознак людини",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653333333333333
+      }
+    },
+    {
+      "question": "When was Olena Semenivna Alexeeva born?",
+      "context": "1926–2006)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9966666666666667
+      }
+    },
+    {
+      "question": "What is the name of the scientific school founded by O. S. Alexeeva?",
+      "context": "Є засновником наукової школи вчених із селекції, насінництва та технології вирощування гречки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8683333333333334
+      }
+    },
+    {
+      "question": "Who discovered the phenomenon of phagocytosis in 1882?",
+      "context": "1882 року вчений здійснив відкриття в галузі фагоцитозу, защо 1908 року одержав Нобелівську премію.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.898301282051282
+      }
+    },
+    {
+      "question": "What is the name of the scientific institution founded by O. S. Alexeeva?",
+      "context": "За участі О. С. Алексєєвої засновано Тернопільську науково-виробничу систему «Гре чка», виведено й передано на сортовипробування 30 сортів гречки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8731578947368421
+      }
+    },
+    {
+      "question": "When did I. I. Mechnikov die?",
+      "context": "1901 рік був її директором.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.992
+      }
+    },
+    {
+      "question": "When did Chernenko Semen Fedorovych start working on the selection of crops?",
+      "context": "Селекцією займався з 1902 року.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9288888888888889
+      }
+    },
+    {
+      "question": "What is the name of the institute founded by Yurei Vasyl Yakovych in 1908?",
+      "context": "Інститут рослинництва ім. В. Я. Юр’єва НААН засновано у м. Харкові 1908 р.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8733333333333333
+      }
+    },
+    {
+      "question": "What is the main goal of the Sellyeo-genetic Institute?",
+      "context": "Основні напрями діяльності: дослідження актуальних питань селекції та насінництва сільськогосподарських культур, виведення нових сортів і гибридів пшениці, ячменю, соняшника, рапсу, сої, нуту, гороху, сорго та інших культур.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8092948717948718
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Кількість пар хромосом містять клітини людини?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9988888888888889
+      }
+    },
+    {
+      "question": "When did Chernenko Semen Fedorovych start working on the selection of crops?",
+      "context": "Селекцією займався з 1902 року.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9288888888888889
+      }
+    },
+    {
+      "question": "What type of gametes are produced by the parent with genotype Ab?",
+      "context": "Гамети ( G )\nAb  \naB\n— типи їхніх гамет",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8925925925925926
+      }
+    },
+    {
+      "question": "Що таке кросингер?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9855555555555555
+      }
+    },
+    {
+      "question": "What is meant by 'спадковість і мінливість'?",
+      "context": ".«Спадковість і мінливість»",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8763492063492063
+      }
+    }
+  ]
+}

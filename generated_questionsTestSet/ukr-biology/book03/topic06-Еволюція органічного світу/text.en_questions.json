@@ -1,0 +1,743 @@
+{
+  "all_questions": [
+    {
+      "question": "Which group of living organisms is the largest in terms of the number of species?",
+      "context": "You have become familiar with the features of the structure and vital activity of many groups of living organisms. Is there a connection between the features of the structure and vital activity of these organisms?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.85539914468995
+      }
+    },
+    {
+      "question": "Who is the author of the first scientific theory that explained the origin of various species of living organisms?",
+      "context": "The author of the first scientific theory that explained the origin of various species of living organisms was J.-B. Lamarck.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8666666666666667,
+        "diversity_score": 0.8632172131147541
+      }
+    },
+    {
+      "question": "What is the difference between evolution and evolutionary theory?",
+      "context": "Evolution is the process of changes in living organisms, which causes the emergence of their new forms. And we can observe and reproduce this process in experiments. Evolutionary theory is an explanation of the mechanisms of this process.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8238030184751497
+      }
+    },
+    {
+      "question": "What is the basis for molecular genetic evidence of evolution?",
+      "context": "Molecular genetic methods have made it possible to trace evolutionary events that have left no trace in the paleontological record. Organic molecules are not preserved in fossil form for a long time. But they are reproduced in living organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8267598842815815
+      }
+    },
+    {
+      "question": "What is the purpose of tracing evolutionary development through paleontology?",
+      "context": "Paleontologists were able to trace the evolutionary development of all major groups of living organisms.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.796487119437939
+      }
+    },
+    {
+      "question": "What is stored in living cells about past events?",
+      "context": "hus, information about past events is stored in living cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8675774134790528
+      }
+    },
+    {
+      "question": "How do populations of small organisms have their population size calculated?",
+      "context": "For populations of small organisms (especially aquatic ones), the number is calculated for a certain volume (water, soil, air).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8996936578903791
+      }
+    },
+    {
+      "question": "What is population density?",
+      "context": "Population size can change over time. If we count not the total number of individuals, but the average number per unit area or volume, then we can determine population density.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.794344262295082
+      }
+    },
+    {
+      "question": "What is a population considered an elementary unit of evolution?",
+      "context": "It is populations, not individual organisms, that are participants in the evolutionary process and elementary units of evolution.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7979963570127504
+      }
+    },
+    {
+      "question": "What is a population considered an elementary unit of evolution?",
+      "context": "Why is a population considered an elementary unit of evolution? What is the population gene pool? Can it change?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8218900675024108
+      }
+    },
+    {
+      "question": "What is the example of action for stabilizing selection?",
+      "context": "There are three main forms of natural selection: disruptive",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.795992714025501
+      }
+    },
+    {
+      "question": "What happens to bacteria that are resistant to antibiotics?",
+      "context": "When patients use antibiotics, only those bacteria that are resistant to them survive",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8830390920554855
+      }
+    },
+    {
+      "question": "Under what condition does stabilizing selection occur?",
+      "context": "It acts when the average value of a trait is most advantageous. It usually occurs in conditions when the environment changes little and organisms are well adapted to it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8626823995676455
+      }
+    },
+    {
+      "question": "What drives disruptive selection?",
+      "context": "Disruptive (disruptive) selection is observed when",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8620218579234973
+      }
+    },
+    {
+      "question": "Why were dark-colored butterflies less likely to survive?",
+      "context": "ators were less likely to notice dark butterflies against their background.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9531482861400894
+      }
+    },
+    {
+      "question": "What led to the divergence of human and chimpanzee ancestors?",
+      "context": "After the onset of another cooling cycle on our planet, the area of forests decreased, the size of the forest areas on the edge of the savannah also became smaller, and the distances between them became larger.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8443253467843632
+      }
+    },
+    {
+      "question": "What type of selection led to individuals living in the savannah becoming the ancestors of humans?",
+      "context": "Disruptive selection led to the fact that those individuals that remained in the forest became the ancestors of chimpanzees, and those individuals that lived in the savannah became the ancestors of humans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8319672131147541
+      }
+    },
+    {
+      "question": "What is an example of a situation where disruptive selection affects the evolution of a species?",
+      "context": "For example, among insects that live on small islands in the ocean, most species either fly very well or do not have wings at all.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8607259953161592
+      }
+    },
+    {
+      "question": "What is an example of a form of selection that contributes to the appearance of sexual dimorphism?",
+      "context": "This form of selection contributes to the appearance of sexual dimorphism, when individuals of the same species, but of different sexes, differ significantly in appearance.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8377049180327869
+      }
+    },
+    {
+      "question": "What are the factors of evolution that act specifically on populations?",
+      "context": "All other factors of evolution are undirected.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8241430700447094
+      }
+    },
+    {
+      "question": "What is natural selection and how does it differ from other evolutionary factors?",
+      "context": "Only natural selection is directed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8858764186633039
+      }
+    },
+    {
+      "question": "What is the most important condition for the formation of a new species?",
+      "context": "The isolation of its individual populations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7663934426229508
+      }
+    },
+    {
+      "question": "How do organisms become isolated from each other?",
+      "context": "Geographic (allopatric), new forms of organisms arise as a result of the fragmentation of the range and the isolation of individual populations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9177917068466731
+      }
+    },
+    {
+      "question": "What is the main difference between ecological (sympatric) speciation and other methods?",
+      "context": "Ecological (sympatric), new forms of organisms occupy different ecological niches within the same range.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8510928961748634
+      }
+    },
+    {
+      "question": "What is polyploidy in speciation?",
+      "context": "A new form of organisms is formed from an old one by polyploidization (multiple increase in the number of chromosomes).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.777825711820535
+      }
+    },
+    {
+      "question": "What type of adaptations occur to various factors of both living and non-living nature?",
+      "context": "All adaptations are the result of the evolutionary process based on natural selection.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.83927070197562
+      }
+    },
+    {
+      "question": "What is adaptation?",
+      "context": "Adaptations can occur to various factors of both living and non-living nature. But they are all aimed at increasing the resistance of living organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7190760059612519
+      }
+    },
+    {
+      "question": "What types of adaptations do organisms undergo?",
+      "context": "The methods of adaptation can be different: — morphological adaptations (protective coloration, spines, thick cuticle, hair cover, fat layer, etc.) (Fig. 41.1);",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8600702576112412
+      }
+    },
+    {
+      "question": "What is the result of adaptations in organisms?",
+      "context": "Adaptations are the result of the evolutionary process",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6992096018735363
+      }
+    },
+    {
+      "question": "What happens to related species when they diverge?",
+      "context": "In the case of divergence, related species become dissimilar (such as whales, hippos, and moose, which originate from a common ancestor) (Fig. 41.2).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8655559515324305
+      }
+    },
+    {
+      "question": "What is an example of convergence in organisms?",
+      "context": "Under conditions when systematic groups of organisms that are distant from each other begin to adapt to the same conditions, the phenomenon of convergence occurs. This is the process of forming similar features in groups of organisms that are distant in terms of their level of kinship.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8081222056631893
+      }
+    },
+    {
+      "question": "What happens when species that are close in origin adapt to similar conditions?",
+      "context": "Parallelism occurs when species that are quite close in origin adapt to similar conditions. In the case of external and internal similarity, the organs of such organisms may differ in different ways of adapting to living conditions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8784363177805801
+      }
+    },
+    {
+      "question": "What is parallelism in evolution?",
+      "context": "Parallelism occurs when species that are quite close in origin adapt to similar conditions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7864168618266979
+      }
+    },
+    {
+      "question": "Who contributed significantly to the development of the synthetic theory of evolution?",
+      "context": "A significant contribution to the development of the synthetic theory of evolution was made by scientists J. Haldane, R. Fisher, F. Dobzhansky, M. Vavilov, S. Chetverikov (Fig. 41.5), O. Sievertsov, I. Schmalhausen, J. Simpson and others.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8793343268753104
+      }
+    },
+    {
+      "question": "What is the main driving factor of evolution?",
+      "context": "The main driving factor of evolution is natural selection, which arises on the basis of the struggle for existence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7771516393442623
+      }
+    },
+    {
+      "question": "When did the last common ancestor of man and chimpanzees live?",
+      "context": "Their last common ancestor, Nakalipithecus, lived in Africa 9.9–9.8 million years ago.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.9089046199701938
+      }
+    },
+    {
+      "question": "How many genera and species are included in the family Humans?",
+      "context": "The evolution of this family is currently very well studied. It includes 7 genera and about 30 species.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.88474913065077
+      }
+    },
+    {
+      "question": "Where did early representatives of the family live?",
+      "context": "All early representatives of the family lived only in Africa - mainly on the border of the forest and savannah, although they spent most of their time in the forest and were good climbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.869719419924338
+      }
+    },
+    {
+      "question": "What was the result of transitioning to a vegetarian diet for paranthropes?",
+      "context": "However, the transition to a vegetarian diet led to competition between paranthropes and representatives of ungulates. They could not withstand this competition, which is why they became extinct.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8379571248423707
+      }
+    },
+    {
+      "question": "Where did human ancestors interbreed with other species?",
+      "context": "Other species of this genus became extinct. But our ancestors interbred with them at least several times, and a small number of their genes remained with us.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9345901639344263
+      }
+    },
+    {
+      "question": "What was the impact of natural factors on human evolution?",
+      "context": "Natural factors had a huge impact on evolution. Even while living in the forest, our ancestors had improved color vision, because thanks to it it was easier to find ripe fruit.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8502341920374707
+      }
+    },
+    {
+      "question": "What is the genus Homo?",
+      "context": "The genus Homo was formed approximately 2.4 million years ago in Africa. Its early representatives include, for example, Homo habilis (Fig. 42.4) and Homo ergaster (Fig. 42.5).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7783469945355191
+      }
+    },
+    {
+      "question": "Who were the ancestors of Neanderthals?",
+      "context": "European populations became the ancestors of Neanderthals (Fig. 42.7),",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8123861566484517
+      }
+    },
+    {
+      "question": "What was the result of the evolutionary line that remained omnivorous?",
+      "context": "Representatives of the second evolutionary line remained omnivorous and increased their meat consumption. This line led to the appearance of the first representatives of the genus Homo.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8307377049180328
+      }
+    },
+    {
+      "question": "What is the reason for the development of three types of cones in human eyes?",
+      "context": "thanks to it [the influence of natural factors] it was easier to find ripe fruit.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8373266078184111
+      }
+    },
+    {
+      "question": "Why did the area of forests in the world decrease significantly during glaciation?",
+      "context": "due to the onset of glaciation, the area of forests in the world decreased significantly, because moisture from the atmosphere was spent on the formation of glaciers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8816354410616706
+      }
+    },
+    {
+      "question": "What type of social structure did Neanderthals have?",
+      "context": "Their relationships were more flexible than a pack is in baboons, with a clear hierarchy.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8711943793911007
+      }
+    },
+    {
+      "question": "Why are the fangs of humans smaller compared to other primates?",
+      "context": "Well-developed fangs are a sign of greater aggressiveness in peaceful primates, and the hierarchy is not so strict.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8484020533200861
+      }
+    },
+    {
+      "question": "What factor contributed most to the evolutionary success of the human species?",
+      "context": "The ability to transfer experience, teach and learn, interact in difficult situations, and the development of speech.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8100347739692002
+      }
+    },
+    {
+      "question": "What is meant by neoanthropes?",
+      "context": "representatives of our species are called neoanthropes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7873536299765809
+      }
+    },
+    {
+      "question": "What is RNA-world theory?",
+      "context": "For a long time, there was a dispute among supporters of the theories of abiogenesis about what appeared first - DNA or protein. DNA stores hereditary information, and proteins are catalysts, without which metabolism is impossible. Only after the discovery of ribozymes (RNA molecules that work as reaction catalysts) was the theory of the RNA-world formed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7993983257760725
+      }
+    },
+    {
+      "question": "What is coacervates?",
+      "context": "The modern theory of abiogenesis cannot do without coacervates (Fig. 43.2). According to the theory, they became the basis for the formation of cell membranes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.73224043715847
+      }
+    },
+    {
+      "question": "Where is life likely to have originated?",
+      "context": "where life originated, there are many hypotheses. It is only clear that life originated in a solution. But in which one? The open ocean or sea has almost no chance of this: it is impossible to achieve a sufficient concentration of the necessary substances in such reservoirs.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8874677235332973
+      }
+    },
+    {
+      "question": "What are hot freshwater reservoirs?",
+      "context": "Fig. 43.3. Hot freshwater reservoirs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9147540983606557
+      }
+    },
+    {
+      "question": "What is the name given to the proposed single common ancestor of all currently existing cellular organisms?",
+      "context": "It was proposed to call it the last universal common ancestor (in English, last universal common ancestor, or, for short, LUCA).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8711125843780134
+      }
+    },
+    {
+      "question": "What is believed to be the approximate age of the last universal common ancestor?",
+      "context": "It is believed that such an organism could have lived 3.6–4.1 billion years ago.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8656548369663124
+      }
+    },
+    {
+      "question": "What is the term for the process by which hereditary information is exchanged among ancient organisms through horizontal gene transfer?",
+      "context": "And modern living organisms received their genetic heritage from the entire community of ancient organisms, which exchanged hereditary information among themselves through horizontal gene transfer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8851183970856102
+      }
+    },
+    {
+      "question": "What is horizontal gene transfer?",
+      "context": "And modern living organisms received their genetic heritage from the entire community of ancient organisms, which exchanged hereditary information among themselves through horizontal gene transfer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8101639344262295
+      }
+    },
+    {
+      "question": "What does density refer to in ecology?",
+      "context": "The average number of individuals per unit area or volume in a certain territory that belong to one population is:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8352459016393443
+      }
+    },
+    {
+      "question": "What is the correct answer for living organisms adapted to a hot climate?",
+      "context": "1 leaves transformed into spines 2 dense leathery cover covered with horny scales",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9035308953341741
+      }
+    },
+    {
+      "question": "Who lived in Europe 100 thousand years ago?",
+      "context": "11 100 thousand years ago in Europe lived: a) ardipithecines c) sahelanthropes b) paranthropes d) Neanderthals",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.9697745901639344
+      }
+    },
+    {
+      "question": "What is the theory that life was brought to Earth from space?",
+      "context": "to Earth from space:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8463114754098361
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why were dark-colored butterflies less likely to survive?",
+      "context": "ators were less likely to notice dark butterflies against their background.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9531482861400894
+      }
+    },
+    {
+      "question": "What is natural selection and how does it differ from other evolutionary factors?",
+      "context": "Only natural selection is directed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8858764186633039
+      }
+    },
+    {
+      "question": "What is the term for the process by which hereditary information is exchanged among ancient organisms through horizontal gene transfer?",
+      "context": "And modern living organisms received their genetic heritage from the entire community of ancient organisms, which exchanged hereditary information among themselves through horizontal gene transfer.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8851183970856102
+      }
+    },
+    {
+      "question": "Where is life likely to have originated?",
+      "context": "where life originated, there are many hypotheses. It is only clear that life originated in a solution. But in which one? The open ocean or sea has almost no chance of this: it is impossible to achieve a sufficient concentration of the necessary substances in such reservoirs.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8874677235332973
+      }
+    },
+    {
+      "question": "What drives disruptive selection?",
+      "context": "Disruptive (disruptive) selection is observed when",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8620218579234973
+      }
+    }
+  ]
+}

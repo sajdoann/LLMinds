@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of text was used for training the machine translation system mentioned in the document?",
+      "context": "...the Charles University Transformer setup, that was trained on such an amount of text that you would need 50 years to read it if you were reading eight hours that only 40% of this amount of text was actually parallel.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8192708333333334
+      }
+    },
+    {
+      "question": "What is the purpose of using an earlier version of the machine translation system to generate data for training?",
+      "context": "...the system used an earlier version of itself to use that data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7800245098039216
+      }
+    },
+    {
+      "question": "How do neural networks create representations that could correspond to some meaning of a sentence?",
+      "context": "...these representations could correspond to some meaning of the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "What is the main reason why machine translation systems are considered capable of understanding?",
+      "context": "...one reason why the machine translation systems could be good, could understand.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8344155844155844
+      }
+    },
+    {
+      "question": "How does testing a user's ability to speak Czech relate to evaluating the capabilities of machine translation systems?",
+      "context": "...If you can speak Czech you can test it on our service.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main reason why machine translation systems are considered capable of understanding?",
+      "context": "...one reason why the machine translation systems could be good, could understand.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8344155844155844
+      }
+    },
+    {
+      "question": "How does testing a user's ability to speak Czech relate to evaluating the capabilities of machine translation systems?",
+      "context": "...If you can speak Czech you can test it on our service.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What is the purpose of using an earlier version of the machine translation system to generate data for training?",
+      "context": "...the system used an earlier version of itself to use that data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7800245098039216
+      }
+    },
+    {
+      "question": "How do neural networks create representations that could correspond to some meaning of a sentence?",
+      "context": "...these representations could correspond to some meaning of the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8583333333333334
+      }
+    }
+  ]
+}

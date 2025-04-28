@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What limitations do BLEU scores have when comparing translations across different languages?",
+      "context": "BLEU scores are not comparable across languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "Why are BLEU scores sensitive to tokenization?",
+      "context": "They are very sensitive to tokenization",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8690476190476191
+      }
+    },
+    {
+      "question": "What is the problem with comparing BLEU scores across different test sets?",
+      "context": "BLEU scores are not comparable across different test sets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "Is there a way to mitigate some of these problems by using a single fixed reference implementation?",
+      "context": "So that's something which removes some of these problems",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "Who developed the SACREBLEU evaluation tool, and what is its purpose?",
+      "context": "it's called SACREBLEU. So that's something which removes some of these problems",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8494318181818181
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What limitations do BLEU scores have when comparing translations across different languages?",
+      "context": "BLEU scores are not comparable across languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "Is there a way to mitigate some of these problems by using a single fixed reference implementation?",
+      "context": "So that's something which removes some of these problems",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8515625
+      }
+    },
+    {
+      "question": "Why are BLEU scores sensitive to tokenization?",
+      "context": "They are very sensitive to tokenization",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8690476190476191
+      }
+    }
+  ]
+}

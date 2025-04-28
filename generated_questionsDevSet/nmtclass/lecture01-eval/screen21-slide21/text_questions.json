@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was system A considered compared to the other systems?",
+      "context": "This block of annotation is the dots where you put them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8022727272727272
+      }
+    },
+    {
+      "question": "How did the annotator rate system D compared to another system?",
+      "context": "That will show to one person. Then maybe to another person",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6920454545454545
+      }
+    },
+    {
+      "question": "What was the main point made by the annotator about comparing systems A and B, or C?",
+      "context": "But system A was the best here, B and C were on par",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8425480769230769
+      }
+    },
+    {
+      "question": "How did the annotator describe the difference between systems D and one of the other systems?",
+      "context": "and D was the worst, and the annotator even said it's like a little more worse than just one bit worse",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8174603174603174
+      }
+    },
+    {
+      "question": "What did the annotator imply about showing information to different people?",
+      "context": "That will show to one person. Then maybe to another person",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7034090909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the main point made by the annotator about comparing systems A and B, or C?",
+      "context": "But system A was the best here, B and C were on par",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8425480769230769
+      }
+    },
+    {
+      "question": "How did the annotator describe the difference between systems D and one of the other systems?",
+      "context": "and D was the worst, and the annotator even said it's like a little more worse than just one bit worse",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8174603174603174
+      }
+    },
+    {
+      "question": "How did the annotator rate system D compared to another system?",
+      "context": "That will show to one person. Then maybe to another person",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6920454545454545
+      }
+    },
+    {
+      "question": "What did the annotator imply about showing information to different people?",
+      "context": "That will show to one person. Then maybe to another person",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7034090909090909
+      }
+    }
+  ]
+}

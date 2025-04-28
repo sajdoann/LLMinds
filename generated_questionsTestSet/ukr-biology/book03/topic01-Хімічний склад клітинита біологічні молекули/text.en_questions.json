@@ -1,0 +1,754 @@
+{
+  "all_questions": [
+    {
+      "question": "What are ions and how are they formed?",
+      "context": "Ions and how are they formed?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8435374149659864
+      }
+    },
+    {
+      "question": "What type of chemical bond is in a water molecule?",
+      "context": "What type of chemical bond is in a water molecule?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.769047619047619
+      }
+    },
+    {
+      "question": "What types of compounds are important for living organisms?",
+      "context": "Inorganic compounds can be found in living organisms both in dissolved form (in the form of ions) and in insoluble form. Dissolved forms are represented by many salts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.841820987654321
+      }
+    },
+    {
+      "question": "What is the reason for the high surface tension of water?",
+      "context": "It has a high surface tension.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8365079365079365
+      }
+    },
+    {
+      "question": "What is water's role in maintaining body temperature?",
+      "context": "The thermoregulatory function of water is extremely important for maintaining the body temperature of organisms. When, for example, a person sweats, the water that evaporates lowers his body temperature.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8512336093857833
+      }
+    },
+    {
+      "question": "What substance do plants use to maintain their shape?",
+      "context": "Plants maintain the shape of leaves and grassy stems due to increased pressure in water-filled cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8656856261022927
+      }
+    },
+    {
+      "question": "What are some examples of organic substances?",
+      "context": "Proteins, carbohydrates, lipids, nucleic acids, water, minerals (mainly salts), acids They are contained in the bodies of both inanimate and living nature, more than inorganic ones.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8271847200418629
+      }
+    },
+    {
+      "question": "What is unique about the structure of organic molecules compared to inorganic substances?",
+      "context": "Features of the structure of molecules of organic substances differ from each other in the number of links in the carbon chain.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8340964590964591
+      }
+    },
+    {
+      "question": "What is the typical size range for large molecules (macromolecules)?",
+      "context": "Macromolecules have a mass of more than 1000 Da.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8401234567901235
+      }
+    },
+    {
+      "question": "Why are silicon-based chains considered to be much worse than carbon-based chains?",
+      "context": "Silicon forms much weaker chemical bonds due to its larger radius.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9586339586339586
+      }
+    },
+    {
+      "question": "What are biopolymers?",
+      "context": "Polymers that are produced by living organisms are called biopolymers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7821869488536155
+      }
+    },
+    {
+      "question": "How many monomers can be in a biopolymer?",
+      "context": "The number of monomers in biopolymers can vary: from one or two dozen for some proteins and carbohydrates to hundreds of thousands and even millions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8944099378881988
+      }
+    },
+    {
+      "question": "What is the main structure of protein molecules?",
+      "context": "Proteins are large organic molecules, consisting of monomers - amino acids, which are connected in the form of a chain.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7505511463844797
+      }
+    },
+    {
+      "question": "What are the two groups of atoms attached to one carbon atom in amino acids?",
+      "context": "These groups of atoms are attached to one carbon atom. In amino acids that are not part of proteins (and such also occur in nature), these groups can also be attached to different carbon atoms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8517094017094017
+      }
+    },
+    {
+      "question": "What is the purpose of the peptide bond in a protein molecule?",
+      "context": "The primary structure of a protein ensures the combination of amino acids into one chain. This chain has a linear structure (i.e., it has the form of a thread). The bond that connects amino acid molecules is called a peptide bond, and the chain itself is called a polypeptide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7962962962962963
+      }
+    },
+    {
+      "question": "What type of chemical bonds and interactions help maintain the structure of a protein molecule?",
+      "context": "To maintain such a structure, or to stabilize it, there are certain chemical bonds and interactions. They ensure the constancy of its configuration, and therefore its functioning.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.8350340136054422
+      }
+    },
+    {
+      "question": "What is the relationship between the α-helical and β-pleated structures?",
+      "context": "In one protein molecule, different parts of it can have different versions of the secondary structure. In some parts, it can have a folded α-helical structure , and in others, a helical structure.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8139329805996472
+      }
+    },
+    {
+      "question": "What is the most complex level of structural organization in protein molecules?",
+      "context": "There are four levels of structural organization of a protein molecule. The primary structure is the simplest, the quaternary structure is the most complex.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What forms the secondary structure of a protein?",
+      "context": "the folding of the β-pleated structure of the molecule into a more compact structure.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7718253968253969
+      }
+    },
+    {
+      "question": "How do different parts of a protein molecule have different versions of secondary structure?",
+      "context": "In one protein molecule, different parts of it can have different versions of the secondary structure.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8613945578231292
+      }
+    },
+    {
+      "question": "What type of bonds are formed between amino acid residues to stabilize the tertiary structure of a protein?",
+      "context": "This is achieved by stabilizing the protein molecule in space using hydrogen, ionic, disulfide bonds and hydrophobic interactions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8430594460006224
+      }
+    },
+    {
+      "question": "What type of bond is formed between radicals of amino acid cysteine due to the interaction of Sulfur atoms?",
+      "context": "The formation of disulfide bonds, or disulfide bridges, is of greater importance .",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8323147440794499
+      }
+    },
+    {
+      "question": "What type of bond occurs between radicals of hydrophobic amino acids?",
+      "context": "Hydrophobic interaction occurs between radicals of hydrophobic amino acids.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8390873015873016
+      }
+    },
+    {
+      "question": "What happens to hydrophobic interaction between radicals of hydrophobic amino acids when a protein molecule is in an aqueous solution?",
+      "context": "Such radicals often accumulate together when a protein molecule is in an aqueous solution. Thus, hydrophobic radicals “hide” inside the molecule, and hydrophilic radicals are located outside, in contact with the aqueous environment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.8675259577515216
+      }
+    },
+    {
+      "question": "What are the two large groups of proteins according to their composition?",
+      "context": "Proteins can be divided into two large groups according to their composition - simple and complex.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.857473544973545
+      }
+    },
+    {
+      "question": "What is a prosthetic group in complex proteins?",
+      "context": "Complex proteins (proteids), in addition to amino acid residues, also contain a non-protein part - a prosthetic group.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.840219421101774
+      }
+    },
+    {
+      "question": "What is the difference between globular and fibrillar protein molecules?",
+      "context": "Globular protein molecules have the appearance of a lump. Fibrillar protein molecules have the appearance of a thread.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7982683982683982
+      }
+    },
+    {
+      "question": "What is the function of proteins in living organisms?",
+      "context": "Almost all functions of living organisms are to one degree or another related to the work of certain groups of proteins.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7835097001763669
+      }
+    },
+    {
+      "question": "What are protein hormones and their role?",
+      "context": "Protein hormones are important regulators of metabolic processes in the body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8034425891568748
+      }
+    },
+    {
+      "question": "What do proteins provide for oxygen transport?",
+      "context": "Proteins provide the transport of oxygen, fatty acids, lipids and other compounds in the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8492063492063492
+      }
+    },
+    {
+      "question": "What is the role of enzymes in metabolic processes?",
+      "context": "Enzymes are needed to carry out metabolic processes in the cell. Without them, metabolic reactions proceed extremely slowly. And often, these reactions do not occur at all without enzymes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8077262243928911
+      }
+    },
+    {
+      "question": "What is unique about an enzyme's spatial structure?",
+      "context": "The secret is in their spatial structure. Any enzyme is a chain of amino acids that is folded in a certain way in space.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8399122807017544
+      }
+    },
+    {
+      "question": "What is the spatial arrangement that creates the active center of an enzyme?",
+      "context": "The folding of the chain occurs in such a way that the amino acid radicals form a unique structure — the active center of the enzyme.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8296296296296296
+      }
+    },
+    {
+      "question": "What is the role of cofactors in enzymes?",
+      "context": "In some cases, a non-protein component is also required for the enzyme to work. This is a compound (called a cofactor) that joins the enzyme and also participates in the process of catalyzing the reaction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.766559829059829
+      }
+    },
+    {
+      "question": "What type of carbohydrates are biopolymers?",
+      "context": "A significant part of carbohydrates is biopolymers (such as starch, cellulose, glycogen). Such biopolymers are called polysaccharides.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7840608465608465
+      }
+    },
+    {
+      "question": "What type of monosaccharide does glucose contain?",
+      "context": "Cells of all living organisms Ribose Linear or ring molecule, contains 5 carbon atoms",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8435374149659864
+      }
+    },
+    {
+      "question": "Which type of polysaccharide is glycogen?",
+      "context": "Glycogen Glucose Mushrooms and animals Insoluble compound, not sweet to taste A highly branched biopolymer molecule. One molecule can contain up to 50,000 monomers",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8601909362778928
+      }
+    },
+    {
+      "question": "What is the difference between cellulose and glycogen in terms of their solubility?",
+      "context": "Cellulose, starch, glycogen In which organisms Compound Structural features of the molecule Highly soluble compound, sweet to taste",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8185117351784019
+      }
+    },
+    {
+      "question": "How much cellulose is considered relatively small?",
+      "context": "lecule is relatively small - no more than 100. On average - 60.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9404761904761905
+      }
+    },
+    {
+      "question": "What functions do lipids perform in the human body?",
+      "context": "They can also perform structural (cellulose, chitin) and storage (starch, glycogen) functions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8697089947089947
+      }
+    },
+    {
+      "question": "Why should lipids enter the body with food in addition to proteins and carbohydrates?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9529478458049887
+      }
+    },
+    {
+      "question": "What are phospholipid molecules made of?",
+      "context": "Phospholipid molecules have two properties. On the one hand, their molecules are hydrophilic, and on the other hand, they are hydrophobic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8460648148148149
+      }
+    },
+    {
+      "question": "What type of molecule does a wax contain?",
+      "context": "Waxes are compounds of fatty acids with other alcohols that have long molecules and only one OH group.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8230820105820106
+      }
+    },
+    {
+      "question": "How do lipids contribute to the structure of cell membranes?",
+      "context": "The structural function is performed by triglycerides, which form the basis of cell membranes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8494505494505494
+      }
+    },
+    {
+      "question": "What is adipose tissue used for?",
+      "context": "Such a layer retains heat well, because adipose tissue is a good heat insulator.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Why do animals store lipids in their bodies?",
+      "context": "This is why camels (Fig. 7.6), which live in deserts, store lipids in their bodies.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9282879818594104
+      }
+    },
+    {
+      "question": "What are the main components of cell membranes?",
+      "context": "They are important components of metabolism (vitamin A) and the basis of cell membranes (triglycerides).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7902494331065759
+      }
+    },
+    {
+      "question": "What are the five types of nucleotides?",
+      "context": "Depending on which nitrogenous ¬base is part of the nucleotide, there are five types of nucleotides: thymidylic (base - thymine), cytidylic (base - cytosine), uridylic (base - uracil), adenylic (base - adenine), guanylic (base - guanine).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8022171831695641
+      }
+    },
+    {
+      "question": "What are the nitrogenous bases of DNA nucleotides?",
+      "context": "DNA nucleotides consist of the monosaccharide deoxyribose and four nitrogenous bases—adenine, thymine, cytosine, and guanine.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8032879818594104
+      }
+    },
+    {
+      "question": "What are the hydrogen bonds between RNA nucleotides?",
+      "context": "Three such bonds are formed between guanine and cytosine, and two between adenine and thymine or adenine and uracil.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.842545351473923
+      }
+    },
+    {
+      "question": "What is the principle of complementarity in DNA molecules?",
+      "context": "Opposite each nucleotide of one chain is the nucleotide that corresponds to it. Opposite adenyl is thymidyl, and opposite cytidylic is guanyl.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7678182384064738
+      }
+    },
+    {
+      "question": "What is a characteristic of RNA molecules?",
+      "context": "RNA molecule usually consists of one chain of nucleotides, different fragments of which form hydrogen bonds with each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8005869014272375
+      }
+    },
+    {
+      "question": "What is the relationship between nucleotides and orthophosphate acid residues?",
+      "context": "From one to three such residues can be attached to a nucleotide.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8352092352092352
+      }
+    },
+    {
+      "question": "Why do enzymes need energy from ATP molecules?",
+      "context": "In order for enzymes to carry out a biochemical reaction, they in most cases need energy.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9373015873015873
+      }
+    },
+    {
+      "question": "What type of bond is formed between orthophosphoric acid residues in ATP molecules?",
+      "context": "A lot of energy is required to form this bond, but during its destruction, energy is released in large quantities.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8249559082892417
+      }
+    },
+    {
+      "question": "How does the formation of di- or triorthophosphates from monoorthophosphate nucleotides relate to energy storage?",
+      "context": "To do this, one or two orthophosphoric acid residues are added to nucleotides of monoorthophosphates (for example, AMP) and a molecule of di- or triorthophosphates (respectively, ADP or ATP) is formed.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8985890652557319
+      }
+    },
+    {
+      "question": "What happens when molecules of carbohydrates, proteins, and lipids in cells are broken down?",
+      "context": "eased in large quantities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8582766439909297
+      }
+    },
+    {
+      "question": "What is the structure in Fig. 2?",
+      "context": "The structure in Fig. 2 is a monomer of:\\n\\na) nucleic acid c) lipid\\nb) protein d) polysaccharide",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7790532879818595
+      }
+    },
+    {
+      "question": "What is the monosaccharide in Fig. 3 designated by?",
+      "context": "The monosaccharide in Fig. 3 is designated by the number:\\n\\na) 1 b) 2 c) 3 d) 4",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8361552028218695
+      }
+    },
+    {
+      "question": "What type of bond holds a disulfide bond together?",
+      "context": "A disulfide bond can occur between different parts of the same polypeptide chain, then it keeps this chain in a bent state.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.810374149659864
+      }
+    },
+    {
+      "question": "What type of bond holds peptide bonds together?",
+      "context": "Peptide bonds occur between the carboxyl group of one amino acid (–COOH)\\nand the amino group (–NH2 ) of another\\namino acid.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "What types of bonds are present in protein molecules?",
+      "context": "Protein molecules contain covalent bonds (peptide and disulfide bonds) and noncovalent bonds (hydrogen, ionic bonds, and hydrophobic interactions).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8400352733686067
+      }
+    },
+    {
+      "question": "What type of bond occurs between Hydrogen atoms with a partially positive charge and an atom with a partially negative charge?",
+      "context": "Occurs between Hydrogen atoms, which have a partially positive charge, of one functional group and an atom (Oxygen, Nitrogen), which has a partially negative charge and an unshared electron pair, of another functional group.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8950617283950617
+      }
+    },
+    {
+      "question": "Where does the disulfide bond occur in a protein molecule?",
+      "context": "If a disulfide bond occurs between two polypeptides, then it unites them into one molecule.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8912698412698412
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where does the disulfide bond occur in a protein molecule?",
+      "context": "If a disulfide bond occurs between two polypeptides, then it unites them into one molecule.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8912698412698412
+      }
+    },
+    {
+      "question": "Why should lipids enter the body with food in addition to proteins and carbohydrates?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9529478458049887
+      }
+    },
+    {
+      "question": "Why do animals store lipids in their bodies?",
+      "context": "This is why camels (Fig. 7.6), which live in deserts, store lipids in their bodies.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.9282879818594104
+      }
+    },
+    {
+      "question": "What type of bond is formed between orthophosphoric acid residues in ATP molecules?",
+      "context": "A lot of energy is required to form this bond, but during its destruction, energy is released in large quantities.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8249559082892417
+      }
+    }
+  ]
+}

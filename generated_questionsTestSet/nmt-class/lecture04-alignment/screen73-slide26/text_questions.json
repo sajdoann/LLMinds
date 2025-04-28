@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary function of the IBM Model 2?",
+      "context": "the IBM Model 2 adds absolute reordering models",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6128472222222222
+      }
+    },
+    {
+      "question": "How does the IBM Model 3 differ from previous models?",
+      "context": "Model 3 finally allows to translate a single word into multiple words",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6333333333333333
+      }
+    },
+    {
+      "question": "What type of reordering model is added in the IBM Model 2?",
+      "context": "So it considers whether the word is at the beginning of the sentence or at the end or in the middle, the exact position.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7286096256684492
+      }
+    },
+    {
+      "question": "How does the IBM Model 1 differ from the IBM Model 2?",
+      "context": "So let's quickly summarize what the other models do. So this was a quite detailed look at the IBM Model 1 for lexical translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is the specific feature of the IBM Model 3?",
+      "context": "Model 3 finally allows to translate a single word into multiple words",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5833333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of reordering model is added in the IBM Model 2?",
+      "context": "So it considers whether the word is at the beginning of the sentence or at the end or in the middle, the exact position.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7286096256684492
+      }
+    },
+    {
+      "question": "How does the IBM Model 1 differ from the IBM Model 2?",
+      "context": "So let's quickly summarize what the other models do. So this was a quite detailed look at the IBM Model 1 for lexical translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "How does the IBM Model 3 differ from previous models?",
+      "context": "Model 3 finally allows to translate a single word into multiple words",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6333333333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of corpus was used in Berard's proof of concept for end-to-end spoken language translation?",
+      "context": "And this exactly used the synthetic corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7357142857142858
+      }
+    },
+    {
+      "question": "How were the voices synthesized in Berard's proof of concept?",
+      "context": "Berard and colleagues synthesized French speech with seven and these voices are corpus based and concatenative approach.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What type of representations were used as input to the deep LSTM decoder in Berard's proof of concept?",
+      "context": "So at the beginning did not have the words or subord units, but instead it had the MFCCs, which is the standard representation of frequency frames of sound.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7619485294117647
+      }
+    },
+    {
+      "question": "Why might the LSTMs in Berard's proof of concept have learned to classify word samples rather than translate speech?",
+      "context": "I have to remind you that the input was synthetic. So the LSTMs could have kind of learned to classify the word samples because the words were too simple.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.8031798245614035
+      }
+    },
+    {
+      "question": "What can be inferred about the performance of Berard's proof of concept compared to cascading approaches?",
+      "context": "So the results on this small corpus were not too far from the cascading approach.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7267857142857144
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of corpus was used in Berard's proof of concept for end-to-end spoken language translation?",
+      "context": "And this exactly used the synthetic corpus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7357142857142858
+      }
+    },
+    {
+      "question": "Why might the LSTMs in Berard's proof of concept have learned to classify word samples rather than translate speech?",
+      "context": "I have to remind you that the input was synthetic. So the LSTMs could have kind of learned to classify the word samples because the words were too simple.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4375,
+        "diversity_score": 0.8031798245614035
+      }
+    },
+    {
+      "question": "How were the voices synthesized in Berard's proof of concept?",
+      "context": "Berard and colleagues synthesized French speech with seven and these voices are corpus based and concatenative approach.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What can be inferred about the performance of Berard's proof of concept compared to cascading approaches?",
+      "context": "So the results on this small corpus were not too far from the cascading approach.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7267857142857144
+      }
+    }
+  ]
+}

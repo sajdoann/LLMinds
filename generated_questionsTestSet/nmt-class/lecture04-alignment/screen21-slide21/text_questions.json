@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the recommended approach for translation when one knows their domain?",
+      "context": "So if you know your domain, it is good to use primarily the in-domain data and carefully check if adding more will help or not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What are the benefits of using all available data for translation when one does not know their domain?",
+      "context": "And then we have the final plot here and that's using all the data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "What is BLEU score and how is it related to translation quality?",
+      "context": "The message is that if you do not know your domain, use all the data that you can. Because that will give you the best BLEU score, the best translation quality",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7465415019762847
+      }
+    },
+    {
+      "question": "How does using more in-domain data affect out of vocabulary rate?",
+      "context": "So if you know your domain, it is good to use primarily the in-domain data and carefully check if adding more will help or not.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6079545454545454
+      }
+    },
+    {
+      "question": "What does 'carefully check' imply about using additional out-of-domain data?",
+      "context": "So if you know your domain, it is good to use primarily the in-domain data and carefully check if adding more will help or not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the recommended approach for translation when one knows their domain?",
+      "context": "So if you know your domain, it is good to use primarily the in-domain data and carefully check if adding more will help or not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What are the benefits of using all available data for translation when one does not know their domain?",
+      "context": "And then we have the final plot here and that's using all the data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "How does using more in-domain data affect out of vocabulary rate?",
+      "context": "So if you know your domain, it is good to use primarily the in-domain data and carefully check if adding more will help or not.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6079545454545454
+      }
+    },
+    {
+      "question": "What does 'carefully check' imply about using additional out-of-domain data?",
+      "context": "So if you know your domain, it is good to use primarily the in-domain data and carefully check if adding more will help or not.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6
+      }
+    }
+  ]
+}

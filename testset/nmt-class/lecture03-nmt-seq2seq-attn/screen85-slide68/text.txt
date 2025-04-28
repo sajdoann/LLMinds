@@ -1,0 +1,1 @@
+ Here and they are again scaled with a matrix so that the context vectors match the size of the decoder state. And the output projection obviously also has access to that information. So now the good thing is that the network can at every step attend to any of the words in the input by

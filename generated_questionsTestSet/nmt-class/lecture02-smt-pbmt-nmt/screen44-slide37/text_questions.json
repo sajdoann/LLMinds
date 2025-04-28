@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is required for a perfect calculation of circle coordinates without needing a hidden layer?",
+      "context": "If you use perfect coordinates, if you use perfect inputs, which could be x1 squared and x2 squared",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7788461538461539
+      }
+    },
+    {
+      "question": "What is the formula for the circle that allows for this calculation?",
+      "context": "the formula for the circle is x squared plus y squared equals 1, or x1 squared plus x2 squared minus 1 is less than 0",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7473684210526316
+      }
+    },
+    {
+      "question": "What are the implications of using this formula for calculation?",
+      "context": "So this is an exact calculation of the points in the center versus the points on the circumference.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "Under what conditions does the need for a hidden layer disappear?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What inputs allow for this calculation to be exact?",
+      "context": "which could be x1 squared and x2 squared",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6686507936507937
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is required for a perfect calculation of circle coordinates without needing a hidden layer?",
+      "context": "If you use perfect coordinates, if you use perfect inputs, which could be x1 squared and x2 squared",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7788461538461539
+      }
+    },
+    {
+      "question": "Under what conditions does the need for a hidden layer disappear?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What is the formula for the circle that allows for this calculation?",
+      "context": "the formula for the circle is x squared plus y squared equals 1, or x1 squared plus x2 squared minus 1 is less than 0",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7473684210526316
+      }
+    }
+  ]
+}

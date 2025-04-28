@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some potential ambiguities in spoken language that can affect machine translation?",
+      "context": "This sentence and sentences and there could be some uncertainty.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8450854700854701
+      }
+    },
+    {
+      "question": "How does the system handle ambiguous inputs from ASR?",
+      "context": "So if the ASR is not sure, for example, if I say ice cream, it could be the delicious cold thing that you eat in the summer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8177083333333334
+      }
+    },
+    {
+      "question": "What role does the NBEST list play in mitigating the risk of confusing messages?",
+      "context": "And then the machine translation will take that candidate, for example, the delicious summer thing, as the ground truth, and it will translate it into the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "How does the system's behavior change when it has access to an NBEST list?",
+      "context": "So if we had some NBEST list in between these two components, if we were shipping uncertain outputs of the ASR, then obviously there will be lower risk of the user getting a completely confusing message.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8649553571428572
+      }
+    },
+    {
+      "question": "What is the primary goal of using an NBEST list in machine translation?",
+      "context": "And then the machine translation will take that candidate, for example, the delicious summer thing, as the ground truth, and it will translate it into the target language.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6835664335664335
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the system handle ambiguous inputs from ASR?",
+      "context": "So if the ASR is not sure, for example, if I say ice cream, it could be the delicious cold thing that you eat in the summer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8177083333333334
+      }
+    },
+    {
+      "question": "What role does the NBEST list play in mitigating the risk of confusing messages?",
+      "context": "And then the machine translation will take that candidate, for example, the delicious summer thing, as the ground truth, and it will translate it into the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "What are some potential ambiguities in spoken language that can affect machine translation?",
+      "context": "This sentence and sentences and there could be some uncertainty.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8450854700854701
+      }
+    }
+  ]
+}

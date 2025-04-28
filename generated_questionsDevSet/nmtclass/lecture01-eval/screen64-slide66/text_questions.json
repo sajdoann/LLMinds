@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What systems were used in the 2019 competition that were also used in this evaluation?",
+      "context": "We actually, we used the same systems which took part in this 2019 competition.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8677884615384616
+      }
+    },
+    {
+      "question": "Why was there a discrepancy between the automatic scoring and the manual ranking of PC Translator?",
+      "context": "So I said, how come that my system is so good in the automatic evaluation and so bad in the manual assessment?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "What type of errors did the author's system make more than PC Translator?",
+      "context": "So I had the lowest number of words with a bad sense but I had the highest number of missed content words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7211538461538461
+      }
+    },
+    {
+      "question": "What was the problem with the author's system that led to it performing poorly in manual assessment?",
+      "context": "So that's an obvious problem.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "How did PC Translator's performance compare to the author's system in terms of missed content words?",
+      "context": "PC Translator, it actually made almost the highest number of bad lexical choices, but it had the lowest number of missed content words.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7828947368421053
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What systems were used in the 2019 competition that were also used in this evaluation?",
+      "context": "We actually, we used the same systems which took part in this 2019 competition.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8677884615384616
+      }
+    },
+    {
+      "question": "What type of errors did the author's system make more than PC Translator?",
+      "context": "So I had the lowest number of words with a bad sense but I had the highest number of missed content words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7211538461538461
+      }
+    },
+    {
+      "question": "Why was there a discrepancy between the automatic scoring and the manual ranking of PC Translator?",
+      "context": "So I said, how come that my system is so good in the automatic evaluation and so bad in the manual assessment?",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "What was the problem with the author's system that led to it performing poorly in manual assessment?",
+      "context": "So that's an obvious problem.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.825
+      }
+    }
+  ]
+}

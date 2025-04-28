@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of highlighting the baseline transfer?",
+      "context": "IMPORTANT GUIDELINES: This section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Is the transfer being discussed a trivial one?",
+      "context": "So this was just to highlight the baseline transfer, the trivial transfer that we have discussed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6614583333333334
+      }
+    },
+    {
+      "question": "What type of transfer is being highlighted in this section?",
+      "context": "baseline transfer",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6
+      }
+    },
+    {
+      "question": "Is the discussion about transfer related to something specific or general?",
+      "context": "So this was just to highlight the baseline transfer, the trivial transfer that we have discussed.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What is the relationship between the highlighted transfer and the discussion that came before it?",
+      "context": "This section is part of the IMPORTANT GUIDELINES",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7560096153846154
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of highlighting the baseline transfer?",
+      "context": "IMPORTANT GUIDELINES: This section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Is the discussion about transfer related to something specific or general?",
+      "context": "So this was just to highlight the baseline transfer, the trivial transfer that we have discussed.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "Is the transfer being discussed a trivial one?",
+      "context": "So this was just to highlight the baseline transfer, the trivial transfer that we have discussed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.6614583333333334
+      }
+    }
+  ]
+}

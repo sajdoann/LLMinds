@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of words are being used in the tectogram article 3?",
+      "context": "So you will contract them and this way you build the backbone of the tectogram article 3.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6895833333333333
+      }
+    },
+    {
+      "question": "What has been done to the X-series content in the document?",
+      "context": "All the X-series have been hidden, have been contracted.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8142857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of contracting words mentioned in the article?",
+      "context": "It only contains content bearing words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.65
+      }
+    },
+    {
+      "question": "What type of writing style or approach is being referred to as 'tectogram'?",
+      "context": "So you will contract them and this way you build the backbone of the tectogram article 3.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7416666666666667
+      }
+    },
+    {
+      "question": "What is the result or outcome of contracting words in the document?",
+      "context": "It only contains content bearing words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6477272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of words are being used in the tectogram article 3?",
+      "context": "So you will contract them and this way you build the backbone of the tectogram article 3.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6895833333333333
+      }
+    },
+    {
+      "question": "What has been done to the X-series content in the document?",
+      "context": "All the X-series have been hidden, have been contracted.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8142857142857143
+      }
+    },
+    {
+      "question": "What is the result or outcome of contracting words in the document?",
+      "context": "It only contains content bearing words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6477272727272727
+      }
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main function of sensory systems?",
+      "context": "Людина живе у світі, який постійно змінюється. І щоб нормально існувати в цьому мінливому середовищі, їй потрібно постійно отри-\nмувати інформацію.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7512096774193548
+      }
+    },
+    {
+      "question": "What are the five main types of sensory systems in humans?",
+      "context": "Серед сенсорних систем людини виділяють такі: • зору; • слуху; • рівноваги; • смаку; • нюху.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.83272238514174
+      }
+    },
+    {
+      "question": "What are the three main parts of a sensory system?",
+      "context": "Відповідно, у кожній сенсорній системі ви-\nділяють три тісно пов’язані між собою частини: \nпериферичну, Середню та центральну  (мал. 37.1) .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8286290322580645
+      }
+    },
+    {
+      "question": "What is the role of receptive receptors in sensory systems?",
+      "context": "Периферичною частиною  сенсорних систем є \nрецептори органів чуттів, що перетворюють енер-\nгію підразника на процес нервового збудження \nабо, інакше кажучи, трансформувать силу підразника в nerveовий імпульс.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7908064516129032
+      }
+    },
+    {
+      "question": "What is the function of the cerebral cortex in sensory systems?",
+      "context": "Ділянки кори великих півкуль, які сприймають інформацію від \nвідповідних рецепторних утворень, становлять  центральну, або кір-\nкову, частину   ( ядро )  сенсорної системи. Ядра аналізаторів не мають \nчітко окреслених меж. Її роль полягає в усвідомленні сприйнятого \nвідчуття.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7922043010752688
+      }
+    },
+    {
+      "question": "What are the three main parts of a sensory system again?",
+      "context": "Perifernichna, Serednya ta Tsentrál'nyi.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8577712609970675
+      }
+    },
+    {
+      "question": "What are the differences between the eyes of mammals and insects?",
+      "context": "Чи відрізняються органи зору у ссавців і комах?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8336693548387096
+      }
+    },
+    {
+      "question": "Where is the visual processing center located in the human brain?",
+      "context": "Ця ділянка (кірковий центр) зорової сенсорної системи розташована в потиличній частці кори.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8810483870967742
+      }
+    },
+    {
+      "question": "What is the main function of the retina?",
+      "context": "Війкове тіло розміщується за райдужною оболонкою. Воно підтримує кришталик і завдяки скороченням війкового м’яза може змінювати його форму.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7336149513568868
+      }
+    },
+    {
+      "question": "What is the purpose of the pupil in the eye?",
+      "context": "Зіниця може розширюватися або звужуватися, таким чином регулюючи кількість світла, що потrapляється в око.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7523041474654378
+      }
+    },
+    {
+      "question": "What is the composition of the scleral body?",
+      "context": "Воно складається з прозорої драглистої маси, що не містить ні кровоносних судин, ні нервів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7642679900744417
+      }
+    },
+    {
+      "question": "What is the purpose of the yellow spot in the fovea?",
+      "context": "Більшість колбочок розташовані в центрі сітівки. Це місце називається жовтою плямою і є зоною найкращого бачення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7787298387096775
+      }
+    },
+    {
+      "question": "What is the purpose of the fotorceptors in the eye?",
+      "context": "Око — це парний орган, який розташований в очних западинах черепа і складається з очного яблука та допоміжного апарату ока (повіки, брови, вії, м’язи і слізні залози). Очне яблуко утворене трьома оболонками, кришталиком і склистим тілом. Кришталик забезпечує фокусування зображення на сітківці.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75625
+      }
+    },
+    {
+      "question": "What is the main difference between humans and other animals in terms of eye structure?",
+      "context": "Besides humans, three types of cones have only a monkey-like species. In other monkeys, there are only two types of cones that detect only blue and red colors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8618279569892473
+      }
+    },
+    {
+      "question": "What is the function of the melanin in the iris?",
+      "context": "* У людини після 40 років настіє різке зниження акомодаційної здатності: вона перестає розрізняти предмети на близькій відстані. це явище має назву старечої далекозорості. Його розвиток пов’язаний із втратою кришталиком еластичності.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7522112382934443
+      }
+    },
+    {
+      "question": "What is the main component of the auditory system?",
+      "context": "Слух  — це вид чутливості, що забезпечує сприйняття звукових коливань. До складу слухової сенсорної системи входять органи слуху, слухові нерви й ділянка кори, яка обробляє сигнали слухових рецепторів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7671370967741935
+      }
+    },
+    {
+      "question": "What is the main difference between humans and other animals in terms of ear structure?",
+      "context": "В інших мавп у сітківці міститься тільки два типи колбочок, які сприймають тільки синій та червоний кольори.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8346438172043011
+      }
+    },
+    {
+      "question": "What is the function of the vestibular nerve?",
+      "context": "вестибулярний нерв",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7546082949308756
+      }
+    },
+    {
+      "question": "What are the main parts of the middle ear?",
+      "context": "барабанна порожнина, слухова трубу та три слухові кісточки",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7953629032258065
+      }
+    },
+    {
+      "question": "What is the function of the basilar membrane in the ear?",
+      "context": "ець Basальна мембрана , що містить слухові рецептори.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7730734767025089
+      }
+    },
+    {
+      "question": "How do sound vibrations travel from the eardrum to the inner ear?",
+      "context": "Звукові коливання від барабанної перетинки з допомогою слухових кісточок переправляються до овального вікна внутрішнього вуха.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9382209188660802
+      }
+    },
+    {
+      "question": "What is the role of the cochlear nerve in sound perception?",
+      "context": "Волокнах слухового нерва, що відходить від рецепторів, передаются збудження та спізнана звуків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7987903225806452
+      }
+    },
+    {
+      "question": "How does the vestibular system regulate balance and equilibrium?",
+      "context": "В organisмі людини внутрішнє вухо виконує подвійну роль: сприйняття звуків (завитка зі спіральним органі) та регулювання положення тіла в просторі, збереження рівноваги.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9152585765488992
+      }
+    },
+    {
+      "question": "What is the difference between musical and non-musical hearing?",
+      "context": ". • Гострота слуху в різних людей неоднакова. В одних вона знижена або нормальна, в інших — підвищена.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.830981182795699
+      }
+    },
+    {
+      "question": "How do people with musical hearing perceive and reproduce sound?",
+      "context": ". • Музичний слух дає змогу точно визначати інтервали між звуками різної висо-\nти, упізнавати мелодії. Людям з музичним слухом властиве відчуття ритму, вони\nвміють точно повторити заданий тон, музичну фразу.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9803763440860215
+      }
+    },
+    {
+      "question": "What is the function of the vestibular apparatus in the ear?",
+      "context": "Функція збереження рівноваги забезпечується вестибулярним апаратом, що складається з двох мішечків — овального і кругло-їгих, а також трьох півколових каналів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7685483870967742
+      }
+    },
+    {
+      "question": "What is the composition of the olfactory system?",
+      "context": "Нюхові рецептори розташовані всередині носової порожнини, а саме в ділянці верхнього носового ходу й задньої верхньої частини-ні носової перегородки  (мал. 40.1) .",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7538402457757296
+      }
+    },
+    {
+      "question": "What is the variation in human olfactory perception?",
+      "context": "Гострота нюху характеризується порогом відчуття, тобто мінімальною кількістю пахучих речовин, які здатні викликати відчуття запаху.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8094758064516129
+      }
+    },
+    {
+      "question": "What is the role of the taste receptors in the human tongue?",
+      "context": "Смакові рецептори розташовані у ротовій порожнині, провідні нерви й ділянка кори, яка обробляє сигнали сма-\nкових рецепторів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.791650853889943
+      }
+    },
+    {
+      "question": "What happens to the nerve receptors when they are stimulated for a certain smell, and how does this affect the sense of smell?",
+      "context": "У разі повної адаптації до одного запаху, тобто цілковитої втрати здатності відчувати його, гострота нюху щодо інших запахів може залишатися незміннною.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9126169529395336
+      }
+    },
+    {
+      "question": "Where are the nerve receptors for smell and taste located?",
+      "context": "Рецептори нюхової сенсорної системи розташовані в носовій порожнині, а рецептори смакової сенсорної системи — у ротовій порожнині.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8887096774193548
+      }
+    },
+    {
+      "question": "What triggers the nerve receptors for smell and taste?",
+      "context": "Для нюхових рецепторів це молекули летких речовин, які потрапляють в організм із повітрям. Для смакових рецепtorів — це розчинені у воді річовини, які потрапили в ротову порожнину.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8585398161134487
+      }
+    },
+    {
+      "question": "What type of receptors are responsible for detecting touch in humans?",
+      "context": "Дотикова сенсорна система відіграє виняткову роль у житті люdinи. Особливо важливою вона є під час взаємодії із зором і слухом у процесї формування в людині цілісного сприйняття навколишнього світу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.867197318810222
+      }
+    },
+    {
+      "question": "What is the primary function of mechanoreceptors in the skin?",
+      "context": "Тепловий рецептор. Рецептор холоду. Більовий рецептор. Рецептор тиску та вібрації.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7711693548387097
+      }
+    },
+    {
+      "question": "What is the role of mechanoreceptors in the skin?",
+      "context": "Працює дотикова система дуже просто. Механічна дія на шкіру спричиняє підняття нервового закінчення, у результаті чого виникає нервовий імпульс.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7546689303904923
+      }
+    },
+    {
+      "question": "What type of receptors are responsible for detecting temperature in humans?",
+      "context": "Рецептори температурної сенсорної системи розташовані особливо у шкірі, хоча вони є і в інших місцях.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8499511241446726
+      }
+    },
+    {
+      "question": "What is the primary function of mechanoreceptors in muscles?",
+      "context": "Рухова сенсорна система забезпечує координацію рухів людини. Її рецептори містяться у м’язах та сухожилках.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.756336405529954
+      }
+    },
+    {
+      "question": "What is the role of mechanoreceptors in muscles?",
+      "context": "Рухова сенсорна система сигналізують про ступень напруження м’язових волокон, положення суглобів та частин тіла людини в просторі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7438330170777989
+      }
+    },
+    {
+      "question": "What is the primary function of nociceptors in humans?",
+      "context": "Біль — це специфічний психофізіологічний стан людини, що виникає внаслідок дії сильних або пошкоджуючих факторів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7672043010752688
+      }
+    },
+    {
+      "question": "What is the role of nociceptors in humans?",
+      "context": "Сильні або пошкоджуючі подразнення сприймаються больовими рецепторами, які розташовані майже у усіх органах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7406947890818858
+      }
+    },
+    {
+      "question": "What are mechanoreceptors used for?",
+      "context": "Сенсорна система руху й дотику для сприйняття по-дразнень використовують механорецептори.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8717741935483871
+      }
+    },
+    {
+      "question": "What are the two main types of temperature receptors?",
+      "context": "Сенсорна температурна система має два основних типи рецепторів — теплові й холодові.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8172043010752688
+      }
+    },
+    {
+      "question": "What is necessary for the normal functioning of sensory systems?",
+      "context": "Будь-яка сенсорна система може працювати лише за умови, коли працюють усі три її частини.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8185483870967742
+      }
+    },
+    {
+      "question": "What is caused by damage to the receptor part of a sensory system?",
+      "context": "Сильні або пошкоджуючі підразнення організму людини сприймаються больовими рецепторами, які розташовані майже в усіх органах.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8411497105045492
+      }
+    },
+    {
+      "question": "What is the purpose of the cornea in the eye?",
+      "context": "Для корекції короткозорості використовують двоввігнущі, а далекозорості — двоопуклі лінзи окулярів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7591642228739003
+      }
+    },
+    {
+      "question": "Що є центральною частиною сенсорної системи?",
+      "context": "Центральną частю сенсорної системи є...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9854838709677419
+      }
+    },
+    {
+      "question": "Аппарат ока, до складу якого входять брови, повіки, вії та слізні залози, називається:",
+      "context": "...іслузейного apparat",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "What is the main function of the retina?",
+      "context": "Судинна оболонка ока виконує функцію: захисту",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7300307219662059
+      }
+    },
+    {
+      "question": "What is the name of the inner layer of the eye?",
+      "context": "сітківка",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7963709677419355
+      }
+    },
+    {
+      "question": "What does the cochlea do in the ear?",
+      "context": "Захисний апарат ока до складу якого входять брови, повіки, вії та слізні залози",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8087557603686636
+      }
+    },
+    {
+      "question": "What is the function of the sclera?",
+      "context": "Узагальнення за темою «Зв'язок організму людини із зовнішнім середовищем. Сенсорні системи»",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7036901270772238
+      }
+    },
+    {
+      "question": "What is the main function of the retina?",
+      "context": "Судинна оболонка ока виконує функцію: світлосприйняття",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7300307219662059
+      }
+    },
+    {
+      "question": "What is the name of the part of the eye that contains the lens?",
+      "context": "Барабанна перетинка",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8306451612903226
+      }
+    },
+    {
+      "question": "What does the rod cell do in the retina?",
+      "context": "Колбочки — це фоторецептори, які є чутливими до денного світла",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8213709677419354
+      }
+    },
+    {
+      "question": "What is the main function of the cochlea?",
+      "context": "Довідка за темою «Зв'язок організму людини із зовнішнім середовищем. Сенсорні системи»",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.728843736908253
+      }
+    },
+    {
+      "question": "What is the name of the structure that contains the auditory nerve?",
+      "context": "Тім’яна",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.832258064516129
+      }
+    },
+    {
+      "question": "What does the tympanic membrane do in the ear?",
+      "context": "Коваделко",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.845766129032258
+      }
+    },
+    {
+      "question": "What is the main function of the auditory nerve?",
+      "context": "Установіть відповідність між органами чуттів та структурами, які входять до їхнього складу.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7459677419354839
+      }
+    },
+    {
+      "question": "What is the name of the structure that contains the olfactory receptors?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8330645161290322
+      }
+    },
+    {
+      "question": "What does the nasal cavity do in terms of smell?",
+      "context": "Назовите назви органів, які зображені на малюнках.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269585253456221
+      }
+    },
+    {
+      "question": "What is the relationship between the organs of sense and their structures?",
+      "context": "Установіть відповідність між органами чуттів та структурами, які входять до їхнього складу.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8205645161290323
+      }
+    },
+    {
+      "question": "What are some common diseases that affect the organ on the illustration?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9046920821114369
+      }
+    },
+    {
+      "question": "How can we predict which diseases may affect the organ on the illustration?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9556451612903226
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the part of the eye that contains the lens?",
+      "context": "Барабанна перетинка",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8306451612903226
+      }
+    },
+    {
+      "question": "What are some common diseases that affect the organ on the illustration?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9046920821114369
+      }
+    },
+    {
+      "question": "What does the tympanic membrane do in the ear?",
+      "context": "Коваделко",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.845766129032258
+      }
+    },
+    {
+      "question": "How do people with musical hearing perceive and reproduce sound?",
+      "context": ". • Музичний слух дає змогу точно визначати інтервали між звуками різної висо-\nти, упізнавати мелодії. Людям з музичним слухом властиве відчуття ритму, вони\nвміють точно повторити заданий тон, музичну фразу.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9803763440860215
+      }
+    },
+    {
+      "question": "What happens to the nerve receptors when they are stimulated for a certain smell, and how does this affect the sense of smell?",
+      "context": "У разі повної адаптації до одного запаху, тобто цілковитої втрати здатності відчувати його, гострота нюху щодо інших запахів може залишатися незміннною.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9126169529395336
+      }
+    }
+  ]
+}

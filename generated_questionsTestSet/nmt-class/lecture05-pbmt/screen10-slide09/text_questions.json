@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of translation probabilities are being referred to in the context of Europa?",
+      "context": "The co-occurrence counts divided by either the count of the source phrase or the count of the target phrase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7403846153846154
+      }
+    },
+    {
+      "question": "How are scores associated with phrases calculated?",
+      "context": "And there is also lexically weighted scores of the phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6928571428571428
+      }
+    },
+    {
+      "question": "What do parallel corpus and Europa represent in terms of phrase translation?",
+      "context": "So here is a very short snippet from this phrase table that it illustrates how what everything can be translated to the English phrase in Europe.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8975
+      }
+    },
+    {
+      "question": "How are scores for phrases such as 'in Europa' calculated?",
+      "context": "And there is also lexically weighted scores of the phrases.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the purpose of dividing co-occurrence counts by the count of either the source phrase or the target phrase?",
+      "context": "The co-occurrence counts divided by either the count of the source phrase or the count of the target phrase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7704326923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How are scores associated with phrases calculated?",
+      "context": "And there is also lexically weighted scores of the phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6928571428571428
+      }
+    },
+    {
+      "question": "What do parallel corpus and Europa represent in terms of phrase translation?",
+      "context": "So here is a very short snippet from this phrase table that it illustrates how what everything can be translated to the English phrase in Europe.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8975
+      }
+    },
+    {
+      "question": "What is the purpose of dividing co-occurrence counts by the count of either the source phrase or the target phrase?",
+      "context": "The co-occurrence counts divided by either the count of the source phrase or the count of the target phrase.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7704326923076923
+      }
+    }
+  ]
+}

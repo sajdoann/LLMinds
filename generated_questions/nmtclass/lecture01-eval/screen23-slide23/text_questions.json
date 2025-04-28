@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary purpose of the competition?",
+      "context": "The first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.43452380952380953
+      }
+    },
+    {
+      "question": "Why are medals not being given out at the competition?",
+      "context": "The fourth paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5666666666666667
+      }
+    },
+    {
+      "question": "What is meant by 'mutual cross-fertilization' in the context of the competition?",
+      "context": "The second paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5075757575757576
+      }
+    },
+    {
+      "question": "How do you interpret scores if there are many caveats to the evaluation?",
+      "context": "The fifth paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6185897435897436
+      }
+    },
+    {
+      "question": "What is the significance of following articles and system descriptions from previous years in the competition?",
+      "context": "The third paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.55
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary purpose of the competition?",
+      "context": "The first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.43452380952380953
+      }
+    },
+    {
+      "question": "How do you interpret scores if there are many caveats to the evaluation?",
+      "context": "The fifth paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6185897435897436
+      }
+    },
+    {
+      "question": "Why are medals not being given out at the competition?",
+      "context": "The fourth paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5666666666666667
+      }
+    }
+  ]
+}

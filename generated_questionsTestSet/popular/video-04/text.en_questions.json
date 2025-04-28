@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of a FFP mask?",
+      "context": "And there are also special FFP masks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "How does a homemade fabric mask slow down air?",
+      "context": "The mask slows down the air. And the breath doesn't go as far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9259259259259259
+      }
+    },
+    {
+      "question": "What is meltblown fleece?",
+      "context": "And the liquid then runs through this silver tube. And then comes out of this slit again. Like a kind of waterfall. And so that the plastic soup doesn't cool down immediately, it is blown with hot air from the right and left. This is called blowing.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8235735735735736
+      }
+    },
+    {
+      "question": "What makes meltblown fleece attract viruses and bacteria?",
+      "context": "Because the fleece is made of plastic, it can be electrically charged.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8865740740740741
+      }
+    },
+    {
+      "question": "What is spunbond?",
+      "context": "This is what this stuff looks like. It's called spunbond. And you all have it at home.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7951388888888888
+      }
+    },
+    {
+      "question": "Why are FFP masks tighter to fit?",
+      "context": "That's why it's quite a fiddle to put them on.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9380952380952381
+      }
+    },
+    {
+      "question": "What is the difference between FFP-1, FFP-2, and FFP-3 masks?",
+      "context": "An FFP-1 mask only allows six out of 100 particles in the air to pass through.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409722222222222
+      }
+    },
+    {
+      "question": "How are FFP masks made?",
+      "context": "There are many more layers of meltblown fleece on these masks, with five here and even seven in another.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8865497076023392
+      }
+    },
+    {
+      "question": "What is the maximum number of particles allowed to pass through an FFP-1 mask?",
+      "context": "ask must not allow more than 20 of 100 particles in the air to pass through.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8482142857142857
+      }
+    },
+    {
+      "question": "How many particles can pass through an FFP-3 mask?",
+      "context": "An FFP 3 mask. Only one particle in 100 can get through.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8935185185185185
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What makes meltblown fleece attract viruses and bacteria?",
+      "context": "Because the fleece is made of plastic, it can be electrically charged.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8865740740740741
+      }
+    },
+    {
+      "question": "Why are FFP masks tighter to fit?",
+      "context": "That's why it's quite a fiddle to put them on.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9380952380952381
+      }
+    },
+    {
+      "question": "How does a homemade fabric mask slow down air?",
+      "context": "The mask slows down the air. And the breath doesn't go as far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9259259259259259
+      }
+    },
+    {
+      "question": "How are FFP masks made?",
+      "context": "There are many more layers of meltblown fleece on these masks, with five here and even seven in another.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8865497076023392
+      }
+    }
+  ]
+}

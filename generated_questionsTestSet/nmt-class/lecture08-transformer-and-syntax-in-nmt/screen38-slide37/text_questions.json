@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of network structure combines convolution with the idea of network structure along the dependency parse?",
+      "context": "graph convolution networks",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How does the graph convolution network process information from surrounding words?",
+      "context": "use some convolutional network with the receptive field covering part of the sentence not the sentence as a whole",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7933238636363636
+      }
+    },
+    {
+      "question": "What is the purpose of using a dependency tree in the graph convolution network?",
+      "context": "to flow the information in multiple layers of the subsequent processing",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7365384615384616
+      }
+    },
+    {
+      "question": "How does each node in the dependency parse relate to its governor and children?",
+      "context": "each node depends on some other node, one node is the governor, and then some node is the root of the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8169642857142857
+      }
+    },
+    {
+      "question": "What are the two weight matrices used in the graph convolution network?",
+      "context": "one weight matrix tells the node how to make use of information from the governor, and another matrix specifies how to make use of information from arbitrary number of children",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7596590909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of network structure combines convolution with the idea of network structure along the dependency parse?",
+      "context": "graph convolution networks",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How does the graph convolution network process information from surrounding words?",
+      "context": "use some convolutional network with the receptive field covering part of the sentence not the sentence as a whole",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7933238636363636
+      }
+    },
+    {
+      "question": "How does each node in the dependency parse relate to its governor and children?",
+      "context": "each node depends on some other node, one node is the governor, and then some node is the root of the sentence",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8169642857142857
+      }
+    },
+    {
+      "question": "What is the purpose of using a dependency tree in the graph convolution network?",
+      "context": "to flow the information in multiple layers of the subsequent processing",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7365384615384616
+      }
+    }
+  ]
+}

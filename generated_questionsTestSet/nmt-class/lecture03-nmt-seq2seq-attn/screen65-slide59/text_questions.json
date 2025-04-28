@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the effect of the approach on sentence length?",
+      "context": "So this approach worked quite well for short sentences and its quality degraded heavily with longer sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7647058823529411
+      }
+    },
+    {
+      "question": "Why was the network structure changed?",
+      "context": "we need to change the structure of the network so that we retain the performance even for longer sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6770833333333334
+      }
+    },
+    {
+      "question": "What is the desired outcome of changing the network structure?",
+      "context": "so that we retain the performance even for longer sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333334
+      }
+    },
+    {
+      "question": "What type of performance does the author want to maintain after changing the network structure?",
+      "context": "even for longer sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4866071428571429
+      }
+    },
+    {
+      "question": "Why did the approach's quality degrade with longer sentences?",
+      "context": "heavily with longer sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6180555555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the effect of the approach on sentence length?",
+      "context": "So this approach worked quite well for short sentences and its quality degraded heavily with longer sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7647058823529411
+      }
+    },
+    {
+      "question": "Why was the network structure changed?",
+      "context": "we need to change the structure of the network so that we retain the performance even for longer sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6770833333333334
+      }
+    },
+    {
+      "question": "Why did the approach's quality degrade with longer sentences?",
+      "context": "heavily with longer sentences.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6180555555555556
+      }
+    },
+    {
+      "question": "What type of performance does the author want to maintain after changing the network structure?",
+      "context": "even for longer sentences.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4866071428571429
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is phrase-based machine translation?",
+      "context": "So we have already talked about the scores a bit and we have talked about the recombination of hypothesis. And here I would like to highlight the difference between feature functions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.621875
+      }
+    },
+    {
+      "question": "What is the purpose of local features in phrase-based machine translation?",
+      "context": "Some of the scoring functions then consider the output in a way which is in line with the segmentation. That's the local features.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7278708133971292
+      }
+    },
+    {
+      "question": "What are non-local feature functions used for in phrase-based machine translation?",
+      "context": "And some of the scoring functions also like properties across boundaries of these puzzle pieces. And that is the non-local feature functions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.722488038277512
+      }
+    },
+    {
+      "question": "What are the two types of features in this context?",
+      "context": "So the phrase, the word penalty should be two for this phrase and not for not for this phrase.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is a non-local feature?",
+      "context": "The non-local feature here is the language model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6464285714285715
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two types of features in this context?",
+      "context": "So the phrase, the word penalty should be two for this phrase and not for not for this phrase.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What are non-local feature functions used for in phrase-based machine translation?",
+      "context": "And some of the scoring functions also like properties across boundaries of these puzzle pieces. And that is the non-local feature functions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.722488038277512
+      }
+    },
+    {
+      "question": "What is a non-local feature?",
+      "context": "The non-local feature here is the language model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6464285714285715
+      }
+    }
+  ]
+}

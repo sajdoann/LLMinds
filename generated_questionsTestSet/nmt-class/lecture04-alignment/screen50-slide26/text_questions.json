@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the conditions under which the convergence of an optimization algorithm indicates alignment between words?",
+      "context": "the end when it converges and this has a global optimum",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6659090909090909
+      }
+    },
+    {
+      "question": "How quickly does the optimization algorithm converge to a global optimum in order to indicate alignment between words?",
+      "context": "and it also converges quickly",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7176470588235294
+      }
+    },
+    {
+      "question": "What is the purpose of identifying which words align with each other based on the optimization algorithm's convergence?",
+      "context": "based on that...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8823529411764706
+      }
+    },
+    {
+      "question": "How does the optimization algorithm's convergence rate relate to its ability to identify word alignments?",
+      "context": "the end when it converges and this has a global optimum",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "What is the ultimate goal of using an optimization algorithm to align words?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7980769230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of identifying which words align with each other based on the optimization algorithm's convergence?",
+      "context": "based on that...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8823529411764706
+      }
+    },
+    {
+      "question": "How quickly does the optimization algorithm converge to a global optimum in order to indicate alignment between words?",
+      "context": "and it also converges quickly",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7176470588235294
+      }
+    },
+    {
+      "question": "How does the optimization algorithm's convergence rate relate to its ability to identify word alignments?",
+      "context": "the end when it converges and this has a global optimum",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7159090909090909
+      }
+    }
+  ]
+}

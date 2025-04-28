@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What architectures were evaluated for translation from English into Czech or German?",
+      "context": "So we have evaluated a number of these architectures",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "Why did the results differ between English to Czech and English to German translations?",
+      "context": "It is important to mention also that the data sets differed for the English to Czech",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8199404761904762
+      }
+    },
+    {
+      "question": "What datasets were used for training the systems for translation from English into German?",
+      "context": "for the English to German we used only the Multi-30k dataset which is on image captions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7557692307692307
+      }
+    },
+    {
+      "question": "How might the results be affected by the size of the training data?",
+      "context": "We use the large corpus of very diverse domains. for the English to Czech",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7972027972027972
+      }
+    },
+    {
+      "question": "What factors could potentially influence the accuracy of translation systems?",
+      "context": "So the results are affected by the size of the training data and the domain variables.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8326923076923076
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What architectures were evaluated for translation from English into Czech or German?",
+      "context": "So we have evaluated a number of these architectures",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "Why did the results differ between English to Czech and English to German translations?",
+      "context": "It is important to mention also that the data sets differed for the English to Czech",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8199404761904762
+      }
+    },
+    {
+      "question": "How might the results be affected by the size of the training data?",
+      "context": "We use the large corpus of very diverse domains. for the English to Czech",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7972027972027972
+      }
+    }
+  ]
+}

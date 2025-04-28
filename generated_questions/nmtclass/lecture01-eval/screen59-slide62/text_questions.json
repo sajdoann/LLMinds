@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of classification hierarchy was proposed by the authors?",
+      "context": "This is the full version of that. So actually the categories can be much more refined.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8041666666666667
+      }
+    },
+    {
+      "question": "Why do humans getting lost with this fine hierarchy imply a difficulty in human classification tasks?",
+      "context": "Everybody will get lost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What was the primary intention behind creating such a fine hierarchy?",
+      "context": "If you have a very difficult classification task for humans, then what they did, that's a clever idea, they've actually created",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8914772727272727
+      }
+    },
+    {
+      "question": "What is the relationship between the proposed hierarchy and human classification tasks?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "Can humans perform a task described as 'very difficult' with a classification system like the one proposed by the authors?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of classification hierarchy was proposed by the authors?",
+      "context": "This is the full version of that. So actually the categories can be much more refined.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8041666666666667
+      }
+    },
+    {
+      "question": "Why do humans getting lost with this fine hierarchy imply a difficulty in human classification tasks?",
+      "context": "Everybody will get lost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.90625
+      }
+    },
+    {
+      "question": "What is the relationship between the proposed hierarchy and human classification tasks?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "Can humans perform a task described as 'very difficult' with a classification system like the one proposed by the authors?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    }
+  ]
+}

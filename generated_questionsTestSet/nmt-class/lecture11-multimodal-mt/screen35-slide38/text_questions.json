@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "When did the speaker's ASR system stop working?",
+      "context": "And suddenly the ASR will not work either.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What was the topic of the lecture about, according to the speaker?",
+      "context": "So I've talked at the beginning of my lecture about the superhuman quality of speech recognition and we tested the superhuman quality ourselves in one of...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6767857142857143
+      }
+    },
+    {
+      "question": "What did the speaker claim to have accomplished with their ASR system?",
+      "context": "And suddenly the ASR will not work either.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "Why was the lecture testing the superhuman quality of speech recognition?",
+      "context": "So I've talked at the beginning of my lecture about the superhuman quality of speech recognition and we tested the superhuman quality ourselves in one of...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7267857142857144
+      }
+    },
+    {
+      "question": "What was implied to be a significant aspect of the speaker's ASR system?",
+      "context": "And suddenly the ASR will not work either.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5336538461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When did the speaker's ASR system stop working?",
+      "context": "And suddenly the ASR will not work either.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5625
+      }
+    },
+    {
+      "question": "What was the topic of the lecture about, according to the speaker?",
+      "context": "So I've talked at the beginning of my lecture about the superhuman quality of speech recognition and we tested the superhuman quality ourselves in one of...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6767857142857143
+      }
+    },
+    {
+      "question": "What was implied to be a significant aspect of the speaker's ASR system?",
+      "context": "And suddenly the ASR will not work either.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5336538461538461
+      }
+    }
+  ]
+}

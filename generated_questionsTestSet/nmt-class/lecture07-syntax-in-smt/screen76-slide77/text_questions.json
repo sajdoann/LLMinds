@@ -1,0 +1,72 @@
+{
+  "all_questions": [
+    {
+      "question": "What is added after a sentence in the text?",
+      "context": "...then you need to add functional words and",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.36458333333333337
+      }
+    },
+    {
+      "question": "What is the context of adding functional words?",
+      "context": "...then you need to add functional words and",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.21875
+      }
+    },
+    {
+      "question": "What is the purpose of adding functional words?",
+      "context": "...sentence. Then you need to add functional words and ...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.3375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is added after a sentence in the text?",
+      "context": "...then you need to add functional words and",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.36458333333333337
+      }
+    },
+    {
+      "question": "What is the purpose of adding functional words?",
+      "context": "...sentence. Then you need to add functional words and ...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.3375
+      }
+    },
+    {
+      "question": "What is the context of adding functional words?",
+      "context": "...then you need to add functional words and",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.21875
+      }
+    }
+  ]
+}

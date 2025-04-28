@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one concept or warning mentioned in the document about neural networks?",
+      "context": "The introduction section of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6557692307692308
+      }
+    },
+    {
+      "question": "How do neural networks adapt to changes in their training batches?",
+      "context": "The paragraph explaining catastrophic forgetting",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What is the name of the phenomenon mentioned in the document where models forget what they have learned in the past?",
+      "context": "The introduction section of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.70625
+      }
+    },
+    {
+      "question": "How do machine learning systems with humans compare to neural networks in accumulating knowledge?",
+      "context": "The paragraph comparing human and neural network learning styles",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8273809523809523
+      }
+    },
+    {
+      "question": "What is the goal of using a curriculum-style training data organization for neural networks?",
+      "context": "The paragraph explaining the experiment's motivation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7178571428571429
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the phenomenon mentioned in the document where models forget what they have learned in the past?",
+      "context": "The introduction section of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.70625
+      }
+    },
+    {
+      "question": "How do machine learning systems with humans compare to neural networks in accumulating knowledge?",
+      "context": "The paragraph comparing human and neural network learning styles",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8273809523809523
+      }
+    },
+    {
+      "question": "How do neural networks adapt to changes in their training batches?",
+      "context": "The paragraph explaining catastrophic forgetting",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    }
+  ]
+}

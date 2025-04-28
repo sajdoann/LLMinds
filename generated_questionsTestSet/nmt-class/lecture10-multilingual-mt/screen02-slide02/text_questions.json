@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'transfer learning' in the context of multilingual systems mean?",
+      "context": "The first part of the lecture that motivates using more than two languages in the setup.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.765422077922078
+      }
+    },
+    {
+      "question": "How do auxiliary languages fit into a system's operation, according to the speaker?",
+      "context": "The explanation of the 'transfer setup' mentioned later in the lecture.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "What is the main goal of preserving translation quality in multilingual systems?",
+      "context": "The description of the 'truly multilingual' system setup.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6964285714285714
+      }
+    },
+    {
+      "question": "Who are some colleagues mentioned as providing slides for the lecture?",
+      "context": "A mention of specific researchers and institutions in relation to Tom Kotzmi's PhD.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8627622377622377
+      }
+    },
+    {
+      "question": "What is notable about the number of languages present in some systems mentioned in the last part of the lecture?",
+      "context": "The description of 'massively multilingual' systems with many languages present.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who are some colleagues mentioned as providing slides for the lecture?",
+      "context": "A mention of specific researchers and institutions in relation to Tom Kotzmi's PhD.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8627622377622377
+      }
+    },
+    {
+      "question": "How do auxiliary languages fit into a system's operation, according to the speaker?",
+      "context": "The explanation of the 'transfer setup' mentioned later in the lecture.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8269230769230769
+      }
+    },
+    {
+      "question": "What is notable about the number of languages present in some systems mentioned in the last part of the lecture?",
+      "context": "The description of 'massively multilingual' systems with many languages present.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when a large corpus of text with a specific word (e.g., 'house') is searched?",
+      "context": "The introduction and explanation of the concept",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.55
+      }
+    },
+    {
+      "question": "Why is the German word 'shell' considered an unlikely translation for the English word 'house'?",
+      "context": "The comparison between the translations of 'house' and 'shell'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5649038461538461
+      }
+    },
+    {
+      "question": "What can be concluded about the most common translation of the German word 'house' when searching a corpus with a specific word?",
+      "context": "The comparison between the translations of 'house' and 'shell'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.60625
+      }
+    },
+    {
+      "question": "What happens to the translation 'building' in relation to other possible translations for the English word 'house'?",
+      "context": "The explanation of the German word 'house' being translated as both 'house' and 'building'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6666666666666666
+      }
+    },
+    {
+      "question": "How does the comparison between 'house', 'shell', and 'building' as translations for the English word help to understand the concept?",
+      "context": "The introduction and explanation of the concept",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.5694444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when a large corpus of text with a specific word (e.g., 'house') is searched?",
+      "context": "The introduction and explanation of the concept",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.55
+      }
+    },
+    {
+      "question": "What can be concluded about the most common translation of the German word 'house' when searching a corpus with a specific word?",
+      "context": "The comparison between the translations of 'house' and 'shell'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23529411764705882,
+        "diversity_score": 0.60625
+      }
+    },
+    {
+      "question": "How does the comparison between 'house', 'shell', and 'building' as translations for the English word help to understand the concept?",
+      "context": "The introduction and explanation of the concept",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.5694444444444444
+      }
+    },
+    {
+      "question": "What happens to the translation 'building' in relation to other possible translations for the English word 'house'?",
+      "context": "The explanation of the German word 'house' being translated as both 'house' and 'building'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6666666666666666
+      }
+    }
+  ]
+}

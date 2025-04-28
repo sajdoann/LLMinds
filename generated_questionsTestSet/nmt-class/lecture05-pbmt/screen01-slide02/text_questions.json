@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the topic of the fifth lecture?",
+      "context": "So good morning, welcome to the fifth lecture on machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "How many years of state-of-the-art research are being covered in this lecture?",
+      "context": "And this lecture is devoted to the state of the art of the previous ten years or a little bit more.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8298611111111112
+      }
+    },
+    {
+      "question": "What specific approach to machine translation is being focused on in this lecture?",
+      "context": "This lecture is devoted to phrase based machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6634615384615384
+      }
+    },
+    {
+      "question": "What can be inferred about the scope of the previous ten years' research?",
+      "context": "So...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "Why does the lecturer's tone seem to be inviting or welcoming?",
+      "context": "And this lecture is devoted to phrase based machine translation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7170454545454545
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the topic of the fifth lecture?",
+      "context": "So good morning, welcome to the fifth lecture on machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "What can be inferred about the scope of the previous ten years' research?",
+      "context": "So...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "How many years of state-of-the-art research are being covered in this lecture?",
+      "context": "And this lecture is devoted to the state of the art of the previous ten years or a little bit more.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8298611111111112
+      }
+    }
+  ]
+}

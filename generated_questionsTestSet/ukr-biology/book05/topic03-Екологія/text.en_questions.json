@@ -1,0 +1,1073 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some classical methods of ecology?",
+      "context": "The classical methods of ecology are observation, experiment, and comparison.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7722135007849293
+      }
+    },
+    {
+      "question": "What is bioindication used for in ecology?",
+      "context": "Bioindication is an easy-to-use method, because it is based mainly on external observations of individual species of organisms (the so-called indicator species or indicator species).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8301936159079016
+      }
+    },
+    {
+      "question": "What is the advantage of bioindication?",
+      "context": "Bioindication is an easy-to-use method, because it is based mainly on external observations of individual species of organisms (the so-called indicator species or indicator species). The advantage of this method is also that it is integrative.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7522893772893773
+      }
+    },
+    {
+      "question": "What are the three large groups of environmental factors?",
+      "context": "They are divided into three large groups: biogenic, abiogenic and anthropogenic.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8442668442668443
+      }
+    },
+    {
+      "question": "What is an example of an abiogenic factor?",
+      "context": "Abiogenic factors include temperature, humidity, light, movement of air masses (wind), currents and salt",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8143642072213501
+      }
+    },
+    {
+      "question": "What happens to the cooling effect when temperature and high humidity are combined?",
+      "context": "temperature and high humidity sharply increases the cooling effect, and the combination of low temperature and low humidity, on the contrary, reduces this effect.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8632009016624401
+      }
+    },
+    {
+      "question": "Why do living organisms need to be able to move along steep slopes in mountainous terrain?",
+      "context": "But there is a need to be able to move along steep slopes, rocks and even snowy peaks.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.9338289161818574
+      }
+    },
+    {
+      "question": "What types of relationships have been formed between species through evolution?",
+      "context": "In the process of evolution, several types of interspecific relationships have been formed (competition, predation, parasitism, commensalism, etc.).",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8658988070752777
+      }
+    },
+    {
+      "question": "Why is competition between individuals of one species more severe than between individuals of different species?",
+      "context": "This is due to the fact that individuals of one species have the same environmental needs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8472527472527472
+      }
+    },
+    {
+      "question": "What types of environmental factors exist?",
+      "context": "human economic activity, especially after the beginning of the industrial revolution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7902930402930404
+      }
+    },
+    {
+      "question": "To which type of factor for wild boars can human hunting be attributed?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9585798816568047
+      }
+    },
+    {
+      "question": "Which species are called stenobionts, and which are eurybionts?",
+      "context": "stence of these groups.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8504709576138147
+      }
+    },
+    {
+      "question": "Give two examples of species for each of these groups.",
+      "context": "two examples of species for each of these groups.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8888888888888888,
+        "diversity_score": 0.8652319902319903
+      }
+    },
+    {
+      "question": "What types of environmental factors exist?",
+      "context": "Several factors can be limiting at the same time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.815018315018315
+      }
+    },
+    {
+      "question": "To which type of factor for wild boars can human hunting be attributed?",
+      "context": "The action of environmental factors is decisive for the processes of adaptation of living organisms.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8514370245139475
+      }
+    },
+    {
+      "question": "What are stenobionts and eurybionts?",
+      "context": "Stenobionts and eurybionts. Give two examples of species for each of these groups.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8047619047619048
+      }
+    },
+    {
+      "question": "What are the mechanisms of adaptation of species to environmental factors?",
+      "context": "The mechanism of adaptation of species to the action of a factor is natural selection.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7604395604395604
+      }
+    },
+    {
+      "question": "What is ecological tolerance?",
+      "context": "The ability of organisms to withstand adverse environmental conditions is called ecological tolerance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.738799661876585
+      }
+    },
+    {
+      "question": "What level of organization forms the totality of all unicellular and multicellular organisms living in one cave?",
+      "context": "What level ¬of organization of living organisms exists? What level¬of organization of living organisms forms the totality of all unicellular and multicellular organisms living in one cave?",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8548836032388665
+      }
+    },
+    {
+      "question": "What features are inherent in the organismal, population-species, and ecosystem levels of organization?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9065934065934066
+      }
+    },
+    {
+      "question": "What is the definition of a population?",
+      "context": "A population is a collection of individuals of the same species that are capable of self-reproduction over a large number of generations and occupy a certain territory for a long time, functioning and developing in one or more groups of living organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7493696779411065
+      }
+    },
+    {
+      "question": "What is fertility?",
+      "context": "Fertility is the number of new individuals that appear per unit of time as a result of reproduction (Fig. 27.3).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7023809523809524
+      }
+    },
+    {
+      "question": "How is population growth affected by fertility and mortality?",
+      "context": "Population growth is the difference between the quantitative indicators of fertility and mortality.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8516483516483516
+      }
+    },
+    {
+      "question": "What is the definition of velocity (growth rate) in population growth?",
+      "context": "Velocity (growth rate) is the average increase in the population per unit of time.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7820640897563975
+      }
+    },
+    {
+      "question": "What happens to population growth when mortality exceeds fertility?",
+      "context": "If mortality in a population exceeds fertility, then population growth will be negative.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.891941391941392
+      }
+    },
+    {
+      "question": "What is the main reason for a uniform spatial distribution of individuals in a population in agrocenoses?",
+      "context": "The main reason for this is technological.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7805337519623234
+      }
+    },
+    {
+      "question": "Why do populations occupy a certain space, build shelters, move, use certain types of food, and influence the surrounding nature?",
+      "context": "Populations occupy a certain space, build shelters, move, use certain types of food and thereby influence the surrounding nature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8897082449714029
+      }
+    },
+    {
+      "question": "What is the main reason for a uniform spatial structure in populations of microorganisms?",
+      "context": "A uniform structure is observed in populations of organisms whose individuals are distributed evenly throughout the range.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7986887062517315
+      }
+    },
+    {
+      "question": "What factors can affect an organism's lifespan?",
+      "context": "But after the organism becomes an adult, its chances of death decrease significantly. Such a population structure is characteristic of many species of fish, mollusks, amphibians. In the case when the birth rate is low and care for offspring is significant (elephants, whales, etc.), the number of young individuals in the population is small and middle-aged individuals predominate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8772655915513059
+      }
+    },
+    {
+      "question": "What type of population consists only of individuals of different ages?",
+      "context": "The population does not necessarily have to consist of individuals of different ages. For example, all individuals in populations of annual plants are the same age.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8389110889110889
+      }
+    },
+    {
+      "question": "What is the characteristic population structure of species with significant care for offspring?",
+      "context": "In the case when the birth rate is low and care for offspring is significant (elephants, whales, etc.), the number of young individuals in the population is small and middle-aged individuals predominate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8228902507748661
+      }
+    },
+    {
+      "question": "What is the proportion of men to women in Ukraine as of January 1, 2018?",
+      "context": "The number of men in Ukraine as of January 1, 2018 was 19,558.2 thousand people, and women - 22,658.6 thousand.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8330785755597786
+      }
+    },
+    {
+      "question": "What is the main mechanism for regulating population size in natural populations of organisms?",
+      "context": "Predators and parasites are one of the most effective mechanisms for regulating population size.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7947409733124019
+      }
+    },
+    {
+      "question": "What is the primary mechanism for regulating population size at the ecosystem level?",
+      "context": "Predators and parasites are one of the most effective mechanisms for regulating population size",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8115515436944009
+      }
+    },
+    {
+      "question": "Why were rabbits introduced to Australia in the 19th century?",
+      "context": "They were brought to the new continent in the 19th century. It was planned to use them as an object of hunting.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8857142857142857
+      }
+    },
+    {
+      "question": "How did the population of rabbits in Australia become unregulated?",
+      "context": "The lack of natural regulators of the population caused a very intensive reproduction of this species.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8432797971259509
+      }
+    },
+    {
+      "question": "What is myxomatosis virus?",
+      "context": "The number of rabbits was reduced by infecting them with the myxomatosis virus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7541208791208791
+      }
+    },
+    {
+      "question": "How do living organisms obtain energy for their vital activity?",
+      "context": "How do living organisms obtain energy for their vital activity? How do the processes of ¬obtaining energy differ in plants, animals and fungi?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.9068681318681319
+      }
+    },
+    {
+      "question": "What are chemoautotrophs?",
+      "context": "What organisms are¬ called chemoautotrophs and to which domains of cellular organisms can they belong?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7564102564102564
+      }
+    },
+    {
+      "question": "What are the main components of living organisms that participate in ecosystem cycles?",
+      "context": "For the functioning of ecosystems, the most important are the cycles of elements that are the main components of living organisms - Carbon, Nitrogen, Oxygen, Sulfur, Phosphorus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8348629392585436
+      }
+    },
+    {
+      "question": "What is self-regulation in an ecosystem?",
+      "context": "The self-regulation of an ecosystem means its ability to independently “manage” life within the ecosystem in order to ensure its long-term existence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7942612942612943
+      }
+    },
+    {
+      "question": "What is necessary for an ecosystem's long-term existence?",
+      "context": "For the long-term existence of any ecosystem, it is necessary that all its resources are constantly reproduced in it: organisms, the composition of soil and water, oxygen in the air, etc.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8325447700447701
+      }
+    },
+    {
+      "question": "What happens to a species when predators eat herbivores until their number decreases?",
+      "context": "Predators can eat herbivores of a certain species until their number decreases. Then, if there is a diversity of species, they switch to another food source (for example, to another species of herbivore).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.900410131179362
+      }
+    },
+    {
+      "question": "What makes an ecosystem stable?",
+      "context": "The most stable ecosystems are those that have a rich species composition (for example, the ecosystem of a tropical forest).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.82002442002442
+      }
+    },
+    {
+      "question": "What is the role of decomposers in an ecosystem?",
+      "context": "Reducers are heterotrophic organisms of ecosystems that obtain organic substances by feeding on the remains of living organisms or products of their vital activity. Reducers convert dead organic matter into simple organic and inorganic substances.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7963664687802618
+      }
+    },
+    {
+      "question": "What is trophic relationship between species in an ecosystem?",
+      "context": "The main type of relationship between them is trophic (food). Thus, consumers eat producers and sometimes reducers. And reducers use the remains of dead producers and consumers for their nutrition.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8349358974358975
+      }
+    },
+    {
+      "question": "What happens to an ecosystem when a key species or producer is removed?",
+      "context": "An interesting fact happened in Germany. Local residents cut down a forest on one of the slopes ¬of the Spessart mountain range. And then they decided to restore it. The trees that used to grow there - oaks - for some reason did not take root.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8777321579519382
+      }
+    },
+    {
+      "question": "What is the main type of relationship between organisms?",
+      "context": "oups can interact with each other in different ways. The main type of relationship between them is trophic (food).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7824047297731509
+      }
+    },
+    {
+      "question": "What percentage of energy is lost during the transfer of energy from link to link of the trophic chain?",
+      "context": "During the transfer of this energy from link to link of the trophic chain, the majority of it (80–90%) is lost in the form of heat.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8330166074526977
+      }
+    },
+    {
+      "question": "What are the three types of consumers mentioned?",
+      "context": "Consumer of the first orderConsumer of the second orderConsumer of the third order",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7616758241758241
+      }
+    },
+    {
+      "question": "How do different food chains intersect with each other?",
+      "context": "In any ecosystem, different food chains do not exist separately from each other, but intersect with each other, creating a trophic web.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9604700854700855
+      }
+    },
+    {
+      "question": "What is a biocenosis?",
+      "context": "organisms of a certain species can be links of different trophic chains..Topic 7",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7431318681318682
+      }
+    },
+    {
+      "question": "What are the stages in the development of succession?",
+      "context": "The formation of a suitable area of the earth's surface; the settlement of the area by the first species of organisms; the intensification of interspecific competition and the displacement of some species; the growth of biodiversity and the formation of a stable ecosystem.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7951007326007327
+      }
+    },
+    {
+      "question": "What is primary succession?",
+      "context": "Primary successions arise in those areas of the territory where no ecosystems existed before. Their formation occurs in parallel with the process of soil formation and at the first stages with rather low competition between organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7842490842490842
+      }
+    },
+    {
+      "question": "What is primary succession?",
+      "context": "Primary successions in modern ecosystems occur infrequently. But each of the modern areas of the earth's surface once went through primary succession.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7716727716727717
+      }
+    },
+    {
+      "question": "What are agrocenoses?",
+      "context": "Artificial ecosystems are often considered as a separate type of ecosystem (agrocenoses). They are created by humans and used by them for economic purposes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7578255078255078
+      }
+    },
+    {
+      "question": "What is the main method of regulation in agrocenoses?",
+      "context": "The main method of regulation is the elimination of competing species and the creation of favorable conditions for the growth of useful species.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7594986712633771
+      }
+    },
+    {
+      "question": "What is an agrocenose?",
+      "context": "the consumption of resources of a certain agrocenose. Features of the functioning of agrocenoses",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "Why are cultivated organisms less genetically diverse than wild species?",
+      "context": "The genetic diversity of cultivated organisms is less than that of wild species. The reason for this is the strict selection for human use of only certain genetic variants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9085414585414585
+      }
+    },
+    {
+      "question": "What methods are used to regulate processes in agrocenoses?",
+      "context": "The regulation of these systems is carried out by humans. The main method of regulation is the elimination of competing species and the creation of favorable conditions for the growth of useful species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8410574932314063
+      }
+    },
+    {
+      "question": "What is one reason why it is easier for pathogens to adapt to cultivated species?",
+      "context": "The genetic diversity of cultivated organisms is less than that of wild species. The reason for this is the strict selection for human use of only certain genetic variants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8598516867747636
+      }
+    },
+    {
+      "question": "What can increase the productivity of agrocenoses?",
+      "context": "Increasing the productivity of agrocenoses A person constantly removes substances from agrocenoses (when consuming products grown in them). Therefore, these substances have to be constantly renewed (for example, by applying fertilizers).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.799646781789639
+      }
+    },
+    {
+      "question": "What can increase the productivity of agrocenoses besides applying fertilizers?",
+      "context": "Increasing the productivity of agrocenoses A person constantly removes substances from agrocenoses (when consuming products grown in them). Therefore, these substances have to be constantly renewed (for example, by applying fertilizers). In addition to applying fertilizers, there are other ways to increase the productivity of agrocenoses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8527167277167277
+      }
+    },
+    {
+      "question": "What is one way to maintain the overall productivity of an agrocenose system?",
+      "context": "In addition, crop rotation technology is of great importance. By alternating different agrocenoses in the same territory, it is possible to maintain the overall productivity of such a system for a long time and with high efficiency.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.83281382079459
+      }
+    },
+    {
+      "question": "What is the biosphere?",
+      "context": "The concept of 'biosphere' (from the Greek bios - life) was proposed in 1875 by the Austrian geologist E. Suess.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7135225885225885
+      }
+    },
+    {
+      "question": "What are the four main components of the biosphere?",
+      "context": "The biosphere consists of four main components: living matter; biogenic matter; inert matter; bioinert matter.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7938503803888419
+      }
+    },
+    {
+      "question": "What are the characteristics of terrestrial biomes?",
+      "context": "There are several classifications of biomes. As a rule, aquatic and terrestrial biomes are considered separately (Fig. 32.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7902853449071936
+      }
+    },
+    {
+      "question": "What type of vegetation dominates the biome?",
+      "context": "There are no forests, the vegetation is mainly herbaceous, formed by mosses, lichens ¬and low-growing grasses and small shrubs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8074857473353714
+      }
+    },
+    {
+      "question": "What type of climate supports coniferous forest biome?",
+      "context": "It is located mainly in regions with a temperate or continental climate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8498168498168498
+      }
+    },
+    {
+      "question": "What biome has the highest species diversity?",
+      "context": "The biome is located in the tropical zone of the planet in places with high humidity and high year-round air temperatures. They have the highest species diversity among biomes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.826661433804291
+      }
+    },
+    {
+      "question": "What type of climate supports steppes biome?",
+      "context": "The biome of the temperate zone of the northern and southern hemispheres, which is characterized by the dominance of herbaceous vegetation and less precipitation than for forest biomes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8266376480662195
+      }
+    },
+    {
+      "question": "What indicator determines the characteristics of aquatic biomes?",
+      "context": "The oxygen saturation of water. The highest oxygen saturation in freshwater biomes is characteristic of shallow rivers with a fast flow.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7978749191984487
+      }
+    },
+    {
+      "question": "What are the main sources of elements participating in biogeochemical cycles?",
+      "context": "The main elements that participate in biogeochemical cycles are Nitrogen, Sulfur, Phosphorus, Carbon, etc.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8298844013129727
+      }
+    },
+    {
+      "question": "What is the main source of nitrogen for biocenoses?",
+      "context": "Nitrogen from atmospheric nitrogen can be converted into a form suitable for consumption by organisms in two ways - due to the activity of nitrogen-fixing microorganisms and under the influence of lightning.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7904298766367732
+      }
+    },
+    {
+      "question": "What is the term proposed by French scientists E. Leroy and P. T. de Chardin in 1927?",
+      "context": "The concept of the noosphere V. I. Vernadsky predicted in the first half of the 20th century that the biosphere would develop into the noosphere.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8766372945939509
+      }
+    },
+    {
+      "question": "What is a characteristic feature of the noosphere according to V. I. Vernadsky?",
+      "context": "A person must approach the solution of any problems from the position of ecological thinking, that is, the preservation and improvement of the state of the natural environment.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8273960471762669
+      }
+    },
+    {
+      "question": "What is the noosphere?",
+      "context": "However, he later came to the conclusion that the noosphere is a certain state of the biosphere, in which human mental activity becomes a determining factor in its development.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7075824175824176
+      }
+    },
+    {
+      "question": "What is ecological thinking?",
+      "context": "A characteristic feature of the noosphere is the ecologization of all spheres of human life. A person must approach the solution of any problems from the position of ecological thinking, that is, the preservation and improvement of the state of the natural environment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7769230769230769
+      }
+    },
+    {
+      "question": "What are Red Books?",
+      "context": "The so-called Red Books are created. The Red Book is an approved list of rare and endangered species, which contains brief information about their biology, distribution and protection measures taken.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8138481888481889
+      }
+    },
+    {
+      "question": "What problem do the ecological laws address?",
+      "context": "The law of optimum - any environmental factor has certain limits of positive impact on living organisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8301609105180534
+      }
+    },
+    {
+      "question": "What is the law of mutual compensation of environmental factors?",
+      "context": "The law of mutual compensation of environmental factors - the absence or deficiency of some environmental factors can be compensated to certain limits by other (similar) factors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8096903096903096
+      }
+    },
+    {
+      "question": "What are the characteristics of a population?",
+      "context": "PopulationsA population is a collection of individuals of the same species that reproduce themselves over a large number of generations and occupy a certain territory for a long time, functioning and developing in one or more groups of living organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7678987678987679
+      }
+    },
+    {
+      "question": "What is a pseudopopulation?",
+      "context": "PseudopopulationsFormedby groups of individuals that are unable to reproduce due to migration from other populations.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7554945054945055
+      }
+    },
+    {
+      "question": "What are pseudopopulations formed by?",
+      "context": "PseudopopulationsFormed ¬by groups of individuals that are unable to reproduce due to migration from other populations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8285714285714285
+      }
+    },
+    {
+      "question": "What is the need for environmental knowledge in doing business, according to the text?",
+      "context": "Justify the need for environmental knowledge for doing business in the field of motor vehicle production, dairy products, and construction.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8297877336338875
+      }
+    },
+    {
+      "question": "What is the purpose of establishing a minimum viable population to preserve an animal species?",
+      "context": "in order to preserve an animal species that is threatened with extinction, it is necessary to establish the characteristics of the minimum viable ¬population",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8270538984824699
+      }
+    },
+    {
+      "question": "What are pseudopopulations compared to agrocenosis and natural ecosystems?",
+      "context": "Using a specific example (wheat field and steppe, fish farm and lake, etc.), compare the features of the organization and functioning of the agrocenosis and the natural ecosystem",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.862288505145648
+      }
+    },
+    {
+      "question": "What do different environments affect in organisms?",
+      "context": "Analyze the dependence of the vital activity of organisms on the ¬environment using the example of different environments (deep water, treetops, soil, caves, wood) and make a presentation based on your own vision of this problem",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8649921507064364
+      }
+    },
+    {
+      "question": "What is a system?",
+      "context": "Planet Earth is a single large ecosystem Planet Earth has several shells located on its surface. These are the atmosphere, hydrosphere, lithosphere. These shells do not exist separately from each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7767094017094017
+      }
+    },
+    {
+      "question": "What does ecology study?",
+      "context": "What environmental factors can act on living organisms?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8681318681318682
+      }
+    },
+    {
+      "question": "Where does 80% of garbage enter the ocean from?",
+      "context": "In the Pacific Ocean, 80% of garbage enters the ocean from the coast",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8463203463203464
+      }
+    },
+    {
+      "question": "What is the total area of a large garbage patch that has already exceeded?",
+      "context": "A large garbage patch has been formed, the total area of which has already exceeded 700 thousand km^2",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8489934435312587
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Give two examples of species for each of these groups.",
+      "context": "two examples of species for each of these groups.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8888888888888888,
+        "diversity_score": 0.8652319902319903
+      }
+    },
+    {
+      "question": "How do different food chains intersect with each other?",
+      "context": "In any ecosystem, different food chains do not exist separately from each other, but intersect with each other, creating a trophic web.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9604700854700855
+      }
+    },
+    {
+      "question": "Why do living organisms need to be able to move along steep slopes in mountainous terrain?",
+      "context": "But there is a need to be able to move along steep slopes, rocks and even snowy peaks.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.9338289161818574
+      }
+    },
+    {
+      "question": "To which type of factor for wild boars can human hunting be attributed?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9585798816568047
+      }
+    },
+    {
+      "question": "What are pseudopopulations compared to agrocenosis and natural ecosystems?",
+      "context": "Using a specific example (wheat field and steppe, fish farm and lake, etc.), compare the features of the organization and functioning of the agrocenosis and the natural ecosystem",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.862288505145648
+      }
+    }
+  ]
+}

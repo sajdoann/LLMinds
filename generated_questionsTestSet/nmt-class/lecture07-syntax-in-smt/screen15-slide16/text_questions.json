@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is an example of a rule for machine translation using context-free grammars?",
+      "context": "The idea is that each of these rules will not only have the source side for the source language, but also the target side for the target language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8100961538461539
+      }
+    },
+    {
+      "question": "How does the non-terminal X in a rule indicate its position in a sentence?",
+      "context": "The left-hand side of the rule is indicating what can be expanded and the right-hand side is indicated what we are expanding into.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of the coindexation of non-terminals in the right-hand side of a rule?",
+      "context": "This rule specifies that the English phrase something in somewhere is translated as these two things swapped in Chinese.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What type of grammar does this rule capture formally?",
+      "context": "The problem is that the non-terminals in the whole tree have to match exactly...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "How do parallel generation trees work for source and target languages?",
+      "context": "You start from this non-terminal X and you do the non-terminal X. And you generate the trees in the two languages in parallel, in source and target languages in parallel.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9049043062200957
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an example of a rule for machine translation using context-free grammars?",
+      "context": "The idea is that each of these rules will not only have the source side for the source language, but also the target side for the target language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8100961538461539
+      }
+    },
+    {
+      "question": "What type of grammar does this rule capture formally?",
+      "context": "The problem is that the non-terminals in the whole tree have to match exactly...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "How does the non-terminal X in a rule indicate its position in a sentence?",
+      "context": "The left-hand side of the rule is indicating what can be expanded and the right-hand side is indicated what we are expanding into.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of the coindexation of non-terminals in the right-hand side of a rule?",
+      "context": "This rule specifies that the English phrase something in somewhere is translated as these two things swapped in Chinese.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    }
+  ]
+}

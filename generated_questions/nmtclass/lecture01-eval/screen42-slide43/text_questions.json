@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main issue with sublease agreements according to the text?",
+      "context": "I think the problems. So it says things like that the that the tenant as one side of the party and the tenant as the other side of the party, it uses the same Czech word na nájemce,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8036363636363637
+      }
+    },
+    {
+      "question": "How does the system treat agreements with three parties in practice?",
+      "context": "So there is three parties in practice. It's trained on texts which mention either these two parties or these two parties, but when you have three the system is free to choose any of the translations and there is no document level context",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7363636363636363
+      }
+    },
+    {
+      "question": "What are some possible outcomes of using sublease agreements without proper handling?",
+      "context": "So these superhuman systems produce totally unusable outputs for agreement. So this is again to highlight that depending on the setting, different results will",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6947463768115942
+      }
+    },
+    {
+      "question": "What type of translation does the system use when it has two parties?",
+      "context": "It's trained on texts which mention either these two parties or these two parties, but when you have three the system is free to choose any of the translations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7211538461538461
+      }
+    },
+    {
+      "question": "What can be inferred about the effectiveness of sublease agreements in generating usable outputs?",
+      "context": "So these superhuman systems produce totally unusable outputs for agreement. So this is again to highlight that depending on the setting, different results will",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6739130434782609
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main issue with sublease agreements according to the text?",
+      "context": "I think the problems. So it says things like that the that the tenant as one side of the party and the tenant as the other side of the party, it uses the same Czech word na nájemce,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8036363636363637
+      }
+    },
+    {
+      "question": "How does the system treat agreements with three parties in practice?",
+      "context": "So there is three parties in practice. It's trained on texts which mention either these two parties or these two parties, but when you have three the system is free to choose any of the translations and there is no document level context",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7363636363636363
+      }
+    },
+    {
+      "question": "What type of translation does the system use when it has two parties?",
+      "context": "It's trained on texts which mention either these two parties or these two parties, but when you have three the system is free to choose any of the translations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7211538461538461
+      }
+    },
+    {
+      "question": "What are some possible outcomes of using sublease agreements without proper handling?",
+      "context": "So these superhuman systems produce totally unusable outputs for agreement. So this is again to highlight that depending on the setting, different results will",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6947463768115942
+      }
+    },
+    {
+      "question": "What can be inferred about the effectiveness of sublease agreements in generating usable outputs?",
+      "context": "So these superhuman systems produce totally unusable outputs for agreement. So this is again to highlight that depending on the setting, different results will",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6739130434782609
+      }
+    }
+  ]
+}

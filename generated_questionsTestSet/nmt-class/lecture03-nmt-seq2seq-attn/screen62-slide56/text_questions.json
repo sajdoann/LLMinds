@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when a hypothesis reaches the end of a sentence symbol?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.3295454545454546
+      }
+    },
+    {
+      "question": "What is done with hypotheses that reach the end of sentence symbols?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.32291666666666663
+      }
+    },
+    {
+      "question": "What is done with the list of finished hypotheses?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.2222222222222222
+      }
+    },
+    {
+      "question": "What action is taken after putting a hypothesis in the list of finished hypotheses?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.3214285714285714
+      }
+    },
+    {
+      "question": "What happens after keeping reading with finished hypotheses?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.3125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when a hypothesis reaches the end of a sentence symbol?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.3295454545454546
+      }
+    },
+    {
+      "question": "What action is taken after putting a hypothesis in the list of finished hypotheses?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.3214285714285714
+      }
+    },
+    {
+      "question": "What happens after keeping reading with finished hypotheses?",
+      "context": "If any of the hypothesis reaches the end of sentence symbols, you put it to a separate list of finished hypotheses and you keep reading.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.3125
+      }
+    }
+  ]
+}

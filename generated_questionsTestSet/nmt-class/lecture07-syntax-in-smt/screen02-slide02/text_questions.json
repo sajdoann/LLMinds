@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main focus of the lecture today?",
+      "context": "And here is the summary of the lecture today.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "How does language model integration relate to machine translation?",
+      "context": "We'll need to talk about language model integration because language model is a sequential view of the sentence and that goes against the hierarchical view of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8396464646464646
+      }
+    },
+    {
+      "question": "What type of trees will be discussed in the lecture on machine translation?",
+      "context": "So for constituency syntax, we'll again remind you of context-tree grammars and then make them synchronous for the use of translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7732793522267206
+      }
+    },
+    {
+      "question": "What is the 'tectorochromatic layer' in machine translation?",
+      "context": "And it's something which are uniquely Pragueian or highly Pragueian approach. It's called the tectorochromatic layer.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "Why is the 'tectorochromatic layer' not widely used in machine translation applications?",
+      "context": "But now it's again at like a, it is a little dormant in the application area, not in the theory area because neural MT has not grown up yet to make use of that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.810483870967742
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of trees will be discussed in the lecture on machine translation?",
+      "context": "So for constituency syntax, we'll again remind you of context-tree grammars and then make them synchronous for the use of translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7732793522267206
+      }
+    },
+    {
+      "question": "How does language model integration relate to machine translation?",
+      "context": "We'll need to talk about language model integration because language model is a sequential view of the sentence and that goes against the hierarchical view of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8396464646464646
+      }
+    },
+    {
+      "question": "Why is the 'tectorochromatic layer' not widely used in machine translation applications?",
+      "context": "But now it's again at like a, it is a little dormant in the application area, not in the theory area because neural MT has not grown up yet to make use of that.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.810483870967742
+      }
+    }
+  ]
+}

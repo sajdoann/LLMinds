@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process of adding new information to a source?",
+      "context": "Adding, adding, covering words from the source and appending the current hypothesis with the words in the target.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "How does the document describe the relationship between the source and the target?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What is the result of appending the current hypothesis with new words from the target?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8942307692307692
+      }
+    },
+    {
+      "question": "Does the document provide any information about how this process works?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose of the described process?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Does the document provide any information about how this process works?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "How does the document describe the relationship between the source and the target?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What is the result of appending the current hypothesis with new words from the target?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8942307692307692
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose of the described process?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    }
+  ]
+}

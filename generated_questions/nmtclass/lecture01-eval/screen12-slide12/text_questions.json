@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the initial approach to evaluating news articles in the assessment?",
+      "context": "So one attempt to fix it, but that's a very simple attempt, hacked quickly together for last year's evaluation for 2019",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7846590909090909
+      }
+    },
+    {
+      "question": "What is the issue with using this approach to evaluate news articles?",
+      "context": "because it's mentally impossible to score it reliably. And another problem is that you are getting too few judgments",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7872807017543859
+      }
+    },
+    {
+      "question": "Why are the statistics from this assessment generally unreliable?",
+      "context": "So this will make your statistics run over two small set of numbers, and these statistics are generally unreliable",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "What is the new approach to evaluating news articles?",
+      "context": "So obviously this is directly assessing the whole news article and then you give one number",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6996527777777778
+      }
+    },
+    {
+      "question": "Why was this new approach developed?",
+      "context": "So that's the problem of a very simple way of handling document level scores",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7371794871794872
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the initial approach to evaluating news articles in the assessment?",
+      "context": "So one attempt to fix it, but that's a very simple attempt, hacked quickly together for last year's evaluation for 2019",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7846590909090909
+      }
+    },
+    {
+      "question": "Why was this new approach developed?",
+      "context": "So that's the problem of a very simple way of handling document level scores",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7371794871794872
+      }
+    },
+    {
+      "question": "What is the issue with using this approach to evaluate news articles?",
+      "context": "because it's mentally impossible to score it reliably. And another problem is that you are getting too few judgments",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7872807017543859
+      }
+    }
+  ]
+}

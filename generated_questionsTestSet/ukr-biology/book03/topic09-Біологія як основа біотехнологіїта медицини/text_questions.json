@@ -1,0 +1,446 @@
+{
+  "all_questions": [
+    {
+      "question": "Who is credited with discovering the origins of domesticated plants?",
+      "context": "Виявив ці центри видатний учений, генетик і селекціонер М. І. Вавилов (мал. 53.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9296380090497738
+      }
+    },
+    {
+      "question": "What are some of the main crops grown in the Indo-Malay region?",
+      "context": "Банан, кокосова пальма, помаранча, чорний перець, рис",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9131016042780749
+      }
+    },
+    {
+      "question": "What animals were first domesticated?",
+      "context": "Сучасні домашні собаки пройшли процес одомашнювання приблизно 10 тисяч років тому на території Азії. Коти стали домашніми трохи пізніше.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9210526315789473
+      }
+    },
+    {
+      "question": "Why are some animals more likely to be domesticated than others?",
+      "context": "Тварини повинні достатньо швидко рости, бути невибагливими до їжі, утворювати в природних умовах групи з певною соціальною структурою (стада або зграї), не проявляти до людини надмірну агресивність тощо.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9754406813230343
+      }
+    },
+    {
+      "question": "When did humans domesticate animals?",
+      "context": "тварини одомашнювалися людиною в періоді від 10 до 2 тисяч років тому.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.975735294117647
+      }
+    },
+    {
+      "question": "What are the methods used in classical selection of organisms?",
+      "context": "Методи класичної селекції організмів… Переважно в селекції рослин і мікроорганізмів, у селекції тварин дуже рідко через малу кількість нащадків.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8783737024221453
+      }
+    },
+    {
+      "question": "What is the main goal of selection in genetics?",
+      "context": "Селекція — це наука про методи створення нових сорів і гібридів рослин, порід тварин та штамів мікроорганізмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8508266051518647
+      }
+    },
+    {
+      "question": "What is biotechnology?",
+      "context": "Біотехнологія — це сукупність промислових методів, які застосуються для виробництва різних речовин із використанням живих organisingмів, біологічних процесїв чи явищ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7669117647058823
+      }
+    },
+    {
+      "question": "What microorganisms are used in fermentation processes?",
+      "context": "У цій галузі використовують мікроскопічні гриби й бактерії.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    },
+    {
+      "question": "What is the purpose of genomics and gene editing in biotechnology?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8917112299465241
+      }
+    },
+    {
+      "question": "What is Cloning?",
+      "context": "Одним з напрямків клітинної інженерії є клонування тварин і рослин.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7774509803921569
+      }
+    },
+    {
+      "question": "What is Genetic Engineering?",
+      "context": "Суть генетичної інженерії полягає в штуч-ному створенні генів з потрібними властивостями і введення їх у відповідну клітину.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8014705882352942
+      }
+    },
+    {
+      "question": "What is Biotechnology?",
+      "context": "Біотехнологія — це сукупність промислових методів, які застосуванняють для виробництва різних речовин з використанням живих організмів, біологічних процесїв чи явищ.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7617647058823529
+      }
+    },
+    {
+      "question": "What is Genetically Modified Organisms?",
+      "context": "Генетично модифіковані організми (ГМО) — це організми, генотип яких було змінено за допомогою методів генетичної інженерії з використанням технології рекомбінантних ДНК.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8151260504201681
+      }
+    },
+    {
+      "question": "Що таке горизонтальне перенесення генів?",
+      "context": "Цей процес у них відомий як трансдукція — перенесення бактеріальних генів іншим бактеріям за допомогою бактеріофагів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9738970588235294
+      }
+    },
+    {
+      "question": "Що таке плазміди?",
+      "context": "Плазміда — рекомбінантна ДНК.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9497549019607843
+      }
+    },
+    {
+      "question": "What is a recombinant DNA technology?",
+      "context": "з використанням технології рекомбінант-них ДНК.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8465686274509804
+      }
+    },
+    {
+      "question": "What is the purpose of genetic engineering in modern biotechnology and medicine?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8921568627450981
+      }
+    },
+    {
+      "question": "What is the main argument against genetically modified organisms (GMOs)?",
+      "context": "Непевність частини споживачів у без-печатті нових технологій.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8846638655462185
+      }
+    },
+    {
+      "question": "How do genetically modified organisms (GMOs) affect other organisms?",
+      "context": "Теоретично негативний вплив, наприклад, трансгенних рослин на інші organisми можливий...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9647058823529412
+      }
+    },
+    {
+      "question": "What is the role of genetic engineering in modern biotechnology and medicine?",
+      "context": "Генетична інженерія надзвичайно широко використовується в сучасній біології та...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8815359477124183
+      }
+    },
+    {
+      "question": "What are the benefits of genetically modified organisms (GMOs) in food production?",
+      "context": "...виробництво харчових продуктів до-зvolено з 1997 року, а харчові ферменти, добавки...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8973930481283422
+      }
+    },
+    {
+      "question": "How do genetically modified organisms (GMOs) affect human health?",
+      "context": "...виробництво лікарських препаратів... Ген людського інсуліну згадуваній бактерії дістався штучно.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9723856209150327
+      }
+    },
+    {
+      "question": "What is the purpose of genna therapy?",
+      "context": "Генна терапія — це сукупність технологій, яка забезпечує вне-сенсаХідну змін у генетичний апарат соматичних клітин людини. Головне її призначення — лікування спадкових захворюваннях.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8350840336134454
+      }
+    },
+    {
+      "question": "When was the first successful genna therapy for humans performed?",
+      "context": "Перша успішна генна терапія для людини було проведено 14 вересня 1990 року.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9610294117647059
+      }
+    },
+    {
+      "question": "Кто відкрив центр походження рису?",
+      "context": "Центром походіння рису є б) Ефіопський",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9950980392156863
+      }
+    },
+    {
+      "question": "В Америці було одомашнено вівцю",
+      "context": "В Америці було одомашнено а) вівцю",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.9681372549019608
+      }
+    },
+    {
+      "question": "Галузь біотехнології, яка розробляє й використовує технології культивування клітин і тканин поза організмом у штучних умовах — це",
+      "context": "Галузь біотехнології, яка розробляє й використовує технології культивування клітин і тканин поза organisком у штучних умовах — це г) Біотехнологія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.9444444444444444,
+        "diversity_score": 0.9705882352941176
+      }
+    },
+    {
+      "question": "What is genetic engineering?",
+      "context": "Генетично модифіковані організми — це organisми, генотип яких було змінено за допомогою методів: б) генетичної інженерії",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.796875
+      }
+    },
+    {
+      "question": "What is domestication?",
+      "context": "Процес змін популяцій рослин або тварин, завдяки якому вони стають пристосованими до утримання в неволі й ви-користування їх людяха) конвергенція",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7870098039215687
+      }
+    },
+    {
+      "question": "What is a viral vector?",
+      "context": "Спеціальна молекула ДНК, сконструйована на основі ДНК вірусів або плазмід, яка містить потрібний ген, здатна транс­портувати його в клітину й забезпечити його вбудовування в її генетичний апарат - це ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8647058823529412
+      }
+    },
+    {
+      "question": "What are the centers of origin for the listed plants?",
+      "context": "Напишіть назви центрів походження рослин, у яких було одомашнено перелічені види. Баклажан, ...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8903971845148315
+      }
+    },
+    {
+      "question": "What is the correct pairing of processes and technologies?",
+      "context": "Установіть відповідність між процесами та технологіями, до яких вони належать. Процеси Технології",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8713235294117647
+      }
+    },
+    {
+      "question": "What is the difference between classical selection and genetic engineering?",
+      "context": "Порівняйте класичну селекцію та технології з використанням рекомбінантної ДНК.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8687908496732026
+      }
+    },
+    {
+      "question": "What are the perspectives of using GMOs in medicine?",
+      "context": "Поясніть, які перспективи має використання ГМО в медицинах.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8770424836601307
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What microorganisms are used in fermentation processes?",
+      "context": "У цій галузі використовують мікроскопічні гриби й бактерії.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017857142857143
+      }
+    },
+    {
+      "question": "Why are some animals more likely to be domesticated than others?",
+      "context": "Тварини повинні достатньо швидко рости, бути невибагливими до їжі, утворювати в природних умовах групи з певною соціальною структурою (стада або зграї), не проявляти до людини надмірну агресивність тощо.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9754406813230343
+      }
+    },
+    {
+      "question": "What are some of the main crops grown in the Indo-Malay region?",
+      "context": "Банан, кокосова пальма, помаранча, чорний перець, рис",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9131016042780749
+      }
+    },
+    {
+      "question": "What is the purpose of genetic engineering in modern biotechnology and medicine?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8921568627450981
+      }
+    },
+    {
+      "question": "What are the perspectives of using GMOs in medicine?",
+      "context": "Поясніть, які перспективи має використання ГМО в медицинах.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8770424836601307
+      }
+    }
+  ]
+}

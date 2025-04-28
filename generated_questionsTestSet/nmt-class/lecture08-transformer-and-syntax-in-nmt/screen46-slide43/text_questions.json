@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of neural network is being described in the document?",
+      "context": "The sequence to sequence, recurrent neural network processing",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "Why does using the same tag with a vocabulary size set to one for interleaved tags lead to the network not learning anything useful?",
+      "context": "A badly designed training setting and the network does not learn anything.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.29411764705882354,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "What is the outcome of using the multi-decoder setup compared to the baseline in terms of results?",
+      "context": "Both setups come out similarly, but one produces slightly better results than the other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "What is the reason why CCG tags are produced as a side effect in the multi-decoder setup?",
+      "context": "The output length of sequences can differ, making CCG tags too easy for the network to produce.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What does the increased depth of the network provide in terms of results?",
+      "context": "An additional step to deliberate about the next word, leading to better performance.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7339015151515151
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of neural network is being described in the document?",
+      "context": "The sequence to sequence, recurrent neural network processing",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "Why does using the same tag with a vocabulary size set to one for interleaved tags lead to the network not learning anything useful?",
+      "context": "A badly designed training setting and the network does not learn anything.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.29411764705882354,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "What is the outcome of using the multi-decoder setup compared to the baseline in terms of results?",
+      "context": "Both setups come out similarly, but one produces slightly better results than the other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7857142857142857
+      }
+    },
+    {
+      "question": "What does the increased depth of the network provide in terms of results?",
+      "context": "An additional step to deliberate about the next word, leading to better performance.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7339015151515151
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two phases of translation in the phrase-based system?",
+      "context": "The first phase, where you search your phrase table and consider which phrases are applicable for this sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8138888888888889
+      }
+    },
+    {
+      "question": "How do you select the puzzle pieces that could cover the input sentence in the decoding phase?",
+      "context": "You're playing around with the combinations of the puzzle pieces and sub-selecting to find the final small set.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7338541666666667
+      }
+    },
+    {
+      "question": "What is the analogy used for translating phrases, according to the document?",
+      "context": "The puzzle piece analogy is used for translating phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7866161616161617
+      }
+    },
+    {
+      "question": "How do you determine the final set of puzzle pieces that will be used to cover the sentence in translation?",
+      "context": "You're selecting the final small set of puzzle pieces and putting them in some particle order.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.743421052631579
+      }
+    },
+    {
+      "question": "What is described as being given 'the whole bag of all possible puzzle pieces' in the analogy?",
+      "context": "You're presented with the whole bag of all possible puzzle pieces.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7606951871657754
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two phases of translation in the phrase-based system?",
+      "context": "The first phase, where you search your phrase table and consider which phrases are applicable for this sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8138888888888889
+      }
+    },
+    {
+      "question": "How do you determine the final set of puzzle pieces that will be used to cover the sentence in translation?",
+      "context": "You're selecting the final small set of puzzle pieces and putting them in some particle order.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.743421052631579
+      }
+    },
+    {
+      "question": "How do you select the puzzle pieces that could cover the input sentence in the decoding phase?",
+      "context": "You're playing around with the combinations of the puzzle pieces and sub-selecting to find the final small set.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7338541666666667
+      }
+    },
+    {
+      "question": "What is described as being given 'the whole bag of all possible puzzle pieces' in the analogy?",
+      "context": "You're presented with the whole bag of all possible puzzle pieces.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7606951871657754
+      }
+    }
+  ]
+}

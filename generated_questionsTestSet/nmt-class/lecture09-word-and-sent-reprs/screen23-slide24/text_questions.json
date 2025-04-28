@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of input can cause other things to happen in the network?",
+      "context": "Other things can also happen if your input is something very complicated and the network learns to process this complicated thing into something which...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7674825174825175
+      }
+    },
+    {
+      "question": "What does the network learn to do with complicated input?",
+      "context": "...into something which...)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5791666666666667
+      }
+    },
+    {
+      "question": "How does the network process complicated input?",
+      "context": "...into something which...)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5595238095238095
+      }
+    },
+    {
+      "question": "What is the implication of the network processing complicated input?",
+      "context": "Other things can also happen if your input is something very complicated and the network learns to process this complicated thing into something which...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6136363636363636
+      }
+    },
+    {
+      "question": "What happens as a result of the network's processing of complicated input?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8181818181818181
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of input can cause other things to happen in the network?",
+      "context": "Other things can also happen if your input is something very complicated and the network learns to process this complicated thing into something which...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7674825174825175
+      }
+    },
+    {
+      "question": "What is the implication of the network processing complicated input?",
+      "context": "Other things can also happen if your input is something very complicated and the network learns to process this complicated thing into something which...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6136363636363636
+      }
+    },
+    {
+      "question": "What does the network learn to do with complicated input?",
+      "context": "...into something which...)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5791666666666667
+      }
+    }
+  ]
+}

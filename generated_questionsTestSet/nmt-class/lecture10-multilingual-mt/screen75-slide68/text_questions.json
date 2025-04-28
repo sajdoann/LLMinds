@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the typical structure of the transformer setup, consisting of an encoder and a decoder?",
+      "context": "This is the transformer setup. We have discussed that two weeks ago in quite some detail.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7723214285714286
+      }
+    },
+    {
+      "question": "What are the sub-layers within each encoder layer, and how do they contribute to the overall processing of the input?",
+      "context": "And normally there are six of these encoder layers. And each of these encoder layers has two sub-layers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "How does the feedforward network contribute to the processing of intermediate representations in the transformer setup?",
+      "context": "And there is also the feet forward network which like expands and then releases range to trace and reduces the representation again.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7847744360902256
+      }
+    },
+    {
+      "question": "What are the key differences between using recurrent neural networks versus the transformer setup in multi-language setups?",
+      "context": "The previous experiments that we have discussed so far were based on the recurrent neural networks, mainly on the recurrent neural networks, and they didn't really perform well for the for the high resource.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8128124999999999
+      }
+    },
+    {
+      "question": "What is the primary challenge in adapting the transformer setup to multi-language setups, according to the previous experiments?",
+      "context": "Now the key is that there are wcze, and that's the most important platforms. I think people face it to the size that had to be more energy, they were least80 or a larger wall off transmission, and they have to be exactly the same thing!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7975225225225225
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the typical structure of the transformer setup, consisting of an encoder and a decoder?",
+      "context": "This is the transformer setup. We have discussed that two weeks ago in quite some detail.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7723214285714286
+      }
+    },
+    {
+      "question": "What are the sub-layers within each encoder layer, and how do they contribute to the overall processing of the input?",
+      "context": "And normally there are six of these encoder layers. And each of these encoder layers has two sub-layers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8194444444444444
+      }
+    },
+    {
+      "question": "What are the key differences between using recurrent neural networks versus the transformer setup in multi-language setups?",
+      "context": "The previous experiments that we have discussed so far were based on the recurrent neural networks, mainly on the recurrent neural networks, and they didn't really perform well for the for the high resource.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8128124999999999
+      }
+    },
+    {
+      "question": "What is the primary challenge in adapting the transformer setup to multi-language setups, according to the previous experiments?",
+      "context": "Now the key is that there are wcze, and that's the most important platforms. I think people face it to the size that had to be more energy, they were least80 or a larger wall off transmission, and they have to be exactly the same thing!",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7975225225225225
+      }
+    }
+  ]
+}

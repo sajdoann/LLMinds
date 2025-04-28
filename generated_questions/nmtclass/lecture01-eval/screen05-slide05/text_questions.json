@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal of this translation task?",
+      "context": "So what is our goal? We restrict the task to the following conditions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "How do machine translation systems handle cultural differences and nuances?",
+      "context": "What do you mean by cultural differences? So that's, yeah, an example of these cultural differences, I remember of a story I heard somewhere.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8773809523809524
+      }
+    },
+    {
+      "question": "What is the expected output quality of machine translation systems?",
+      "context": "So the output can be worth reading. If you do not know the language, the source language, the machine translation would be of some use to you.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "Why is it risky to rely on machine translation systems?",
+      "context": "And then the level two remains and it will remain risky because the systems cannot step out of the training data, they have read more text than a human can read in a lifetime.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8573275862068965
+      }
+    },
+    {
+      "question": "What is the difference between preserving core meaning and minimizing edits?",
+      "context": "Notice that here the goal is slightly different. That already like asks for different optimization.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8733766233766234
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary goal of this translation task?",
+      "context": "So what is our goal? We restrict the task to the following conditions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "How do machine translation systems handle cultural differences and nuances?",
+      "context": "What do you mean by cultural differences? So that's, yeah, an example of these cultural differences, I remember of a story I heard somewhere.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8773809523809524
+      }
+    },
+    {
+      "question": "What is the difference between preserving core meaning and minimizing edits?",
+      "context": "Notice that here the goal is slightly different. That already like asks for different optimization.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8733766233766234
+      }
+    },
+    {
+      "question": "Why is it risky to rely on machine translation systems?",
+      "context": "And then the level two remains and it will remain risky because the systems cannot step out of the training data, they have read more text than a human can read in a lifetime.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8573275862068965
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the scores achieved by the model when using pivoting and no fine-tuning?",
+      "context": "The results after using pivoting and no fine-tuning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6766826923076923
+      }
+    },
+    {
+      "question": "How does the BLEU score change with the size of the synthetic parallel corpus?",
+      "context": "The impact of the synthetic parallel corpus size on BLEU score",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7104166666666667
+      }
+    },
+    {
+      "question": "What is the performance of the model when using pivoting compared to fine-tuning with a large synthetic parallel corpus?",
+      "context": "The comparison between pivoting and fine-tuning with a large corpus",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5958333333333333
+      }
+    },
+    {
+      "question": "What is the BLEU score of the model when using no fine-tuning, compared to when using pivoting?",
+      "context": "The comparison between non-fine-tuned and pivoted models",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.5178571428571429
+      }
+    },
+    {
+      "question": "What is the BLEU score of the model when using the synthetic parallel corpus, compared to when using no fine-tuning or pivoting?",
+      "context": "The comparison between different training configurations and their impact on BLEU score",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.5868055555555556
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the scores achieved by the model when using pivoting and no fine-tuning?",
+      "context": "The results after using pivoting and no fine-tuning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6766826923076923
+      }
+    },
+    {
+      "question": "How does the BLEU score change with the size of the synthetic parallel corpus?",
+      "context": "The impact of the synthetic parallel corpus size on BLEU score",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7104166666666667
+      }
+    },
+    {
+      "question": "What is the BLEU score of the model when using no fine-tuning, compared to when using pivoting?",
+      "context": "The comparison between non-fine-tuned and pivoted models",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.5178571428571429
+      }
+    },
+    {
+      "question": "What is the performance of the model when using pivoting compared to fine-tuning with a large synthetic parallel corpus?",
+      "context": "The comparison between pivoting and fine-tuning with a large corpus",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5958333333333333
+      }
+    }
+  ]
+}

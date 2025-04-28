@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process called when decomposing trees into smaller treelets?",
+      "context": "You decompose these trees into smaller treelets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What do you end up with after decomposing the trees?",
+      "context": "and you extract these treelets",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How can you use the extracted treelets to build a target sentence?",
+      "context": "So you will have like a dictionary of treelets and you can use the substitution grammars",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8354166666666667
+      }
+    },
+    {
+      "question": "What are the two sides that the treelets will be used on?",
+      "context": "to synchronously use these treelets on the source side and target side",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What is the goal of using the substitution grammars with the extracted treelets?",
+      "context": "and cover the source sentence and build the target sentence",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the process called when decomposing trees into smaller treelets?",
+      "context": "You decompose these trees into smaller treelets",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What are the two sides that the treelets will be used on?",
+      "context": "to synchronously use these treelets on the source side and target side",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What do you end up with after decomposing the trees?",
+      "context": "and you extract these treelets",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the goal of using the substitution grammars with the extracted treelets?",
+      "context": "and cover the source sentence and build the target sentence",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

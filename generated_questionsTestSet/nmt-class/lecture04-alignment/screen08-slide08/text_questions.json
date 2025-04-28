@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the characteristics of community supply data that make it of high quality?",
+      "context": "The community supply data, if it's not anonymous, ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7232905982905983
+      }
+    },
+    {
+      "question": "Why do people contributing under their own name try to have a good impression on the community?",
+      "context": "They may be using some nicknames, but still they are part of the community, so they do want to have a good impression on the community.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.948849104859335
+      }
+    },
+    {
+      "question": "Is vandalism present in this type of data?",
+      "context": "There is obviously no vandalism and the quality is almost professional.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "What is a notable difference between this type of data and others?",
+      "context": "The domain is different. It's only very short very short segments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "How does the quality of community supply data relate to its anonymous nature?",
+      "context": "The community supply data, if it's not anonymous, ...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7232905982905983
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is vandalism present in this type of data?",
+      "context": "There is obviously no vandalism and the quality is almost professional.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.84375
+      }
+    },
+    {
+      "question": "Why do people contributing under their own name try to have a good impression on the community?",
+      "context": "They may be using some nicknames, but still they are part of the community, so they do want to have a good impression on the community.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.948849104859335
+      }
+    },
+    {
+      "question": "What is a notable difference between this type of data and others?",
+      "context": "The domain is different. It's only very short very short segments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "How does the quality of community supply data relate to its anonymous nature?",
+      "context": "The community supply data, if it's not anonymous, ...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7232905982905983
+      }
+    }
+  ]
+}

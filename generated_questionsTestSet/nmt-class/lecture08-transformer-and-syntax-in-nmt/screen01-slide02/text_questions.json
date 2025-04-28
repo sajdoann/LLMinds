@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the standard model used in statistical machine translation?",
+      "context": "It's called the transform model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "Why did you decide to merge this lecture with another topic?",
+      "context": "I decided to merge this lecture with another topic and that's a topic on including syntax in neural machine translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9425837320574163
+      }
+    },
+    {
+      "question": "What is the main focus of today's lecture?",
+      "context": "Welcome to the lecture, another lecture on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.74375
+      }
+    },
+    {
+      "question": "Why is the transform model widely used in statistical machine translation?",
+      "context": "Everybody uses it today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What topic will be discussed at the end of the lecture?",
+      "context": "So you will see at the end why I think",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the standard model used in statistical machine translation?",
+      "context": "It's called the transform model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "Why did you decide to merge this lecture with another topic?",
+      "context": "I decided to merge this lecture with another topic and that's a topic on including syntax in neural machine translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9425837320574163
+      }
+    },
+    {
+      "question": "Why is the transform model widely used in statistical machine translation?",
+      "context": "Everybody uses it today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What topic will be discussed at the end of the lecture?",
+      "context": "So you will see at the end why I think",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8625
+      }
+    }
+  ]
+}

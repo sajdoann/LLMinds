@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does adjacency sense mean in the context of word similarity?",
+      "context": "the words grass and cut are very far away in the adjacency sense",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "How do dependency trees relate to lexical choices in predicting grammatical categories?",
+      "context": "So regardless how many words you pump in between, there will be one edge connecting the cutting and the grass.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7955043859649122
+      }
+    },
+    {
+      "question": "What is a characteristic of dependency trees that phrase-based translation approaches can approximate?",
+      "context": "So if you take a Czech tree bank with manual trees, then 50% of the edges will actually link neighbors and 80% of edges will fit in a foreground.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7434615384615384
+      }
+    },
+    {
+      "question": "How do phrase-based translation systems handle dependencies between words when pumping words in between?",
+      "context": "But the way you break it is that you pump words in between and then the phrase-based system can know.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8076923076923077
+      }
+    },
+    {
+      "question": "What percentage of edges in a Czech tree bank will link neighbors?",
+      "context": "So if you take a Czech tree bank with manual trees, then 50% of the edges will actually link neighbors",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.7416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does adjacency sense mean in the context of word similarity?",
+      "context": "the words grass and cut are very far away in the adjacency sense",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7954545454545454
+      }
+    },
+    {
+      "question": "How do phrase-based translation systems handle dependencies between words when pumping words in between?",
+      "context": "But the way you break it is that you pump words in between and then the phrase-based system can know.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.8076923076923077
+      }
+    },
+    {
+      "question": "How do dependency trees relate to lexical choices in predicting grammatical categories?",
+      "context": "So regardless how many words you pump in between, there will be one edge connecting the cutting and the grass.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7955043859649122
+      }
+    }
+  ]
+}

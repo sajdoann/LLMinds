@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who illustrated the slides used to explain the pipeline's various methods?",
+      "context": "pipeline in various ways. So I'll briefly illustrate how this works using the slides of Martin Popel.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5705882352941176
+      }
+    },
+    {
+      "question": "What type of model is mentioned as the transfer stack?",
+      "context": "And I'll end with just one slide on hidden Markov-3 model, which is the transfer stack.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.678125
+      }
+    },
+    {
+      "question": "Why are the slides used to explain the pipeline's methods illustrated by Martin Popel?",
+      "context": "pipeline in various ways. So I'll briefly illustrate how this works using the slides of Martin Popel.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6052036199095022
+      }
+    },
+    {
+      "question": "What is meant by 'hidden Markov-3 model' in the context of the transfer stack?",
+      "context": "And I'll end with just one slide on hidden Markov-3 model, which is the transfer stack.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.703125
+      }
+    },
+    {
+      "question": "What is the purpose of the explanation of the pipeline's methods?",
+      "context": "pipeline in various ways. So I'll briefly illustrate how this works using the slides of Martin Popel.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5174632352941176
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are the slides used to explain the pipeline's methods illustrated by Martin Popel?",
+      "context": "pipeline in various ways. So I'll briefly illustrate how this works using the slides of Martin Popel.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6052036199095022
+      }
+    },
+    {
+      "question": "What type of model is mentioned as the transfer stack?",
+      "context": "And I'll end with just one slide on hidden Markov-3 model, which is the transfer stack.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.678125
+      }
+    },
+    {
+      "question": "What is the purpose of the explanation of the pipeline's methods?",
+      "context": "pipeline in various ways. So I'll briefly illustrate how this works using the slides of Martin Popel.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5174632352941176
+      }
+    },
+    {
+      "question": "What is meant by 'hidden Markov-3 model' in the context of the transfer stack?",
+      "context": "And I'll end with just one slide on hidden Markov-3 model, which is the transfer stack.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.703125
+      }
+    }
+  ]
+}

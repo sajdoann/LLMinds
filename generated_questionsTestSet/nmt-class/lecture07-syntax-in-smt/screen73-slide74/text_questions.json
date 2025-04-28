@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first step in producing the final surface syntactic tree?",
+      "context": "Then you use this best combination to produce the final surface syntactic tree. So again you start by cloning the tree but obviously you...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7329545454545454
+      }
+    },
+    {
+      "question": "What is being cloned in the first step?",
+      "context": "So again you start by cloning the tree but obviously you...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "Why is cloning necessary?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the goal of producing the final surface syntactic tree?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Is there any context or information about what 'best combination' refers to in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of producing the final surface syntactic tree?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is being cloned in the first step?",
+      "context": "So again you start by cloning the tree but obviously you...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "Is there any context or information about what 'best combination' refers to in the document?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9
+      }
+    }
+  ]
+}

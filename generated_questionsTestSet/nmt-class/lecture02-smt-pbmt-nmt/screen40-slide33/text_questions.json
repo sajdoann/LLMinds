@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a technical device that learns from training data?",
+      "context": "The introduction sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5375
+      }
+    },
+    {
+      "question": "Can neural networks approximate an arbitrary function to arbitrary precision with just one hidden layer?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5696428571428571
+      }
+    },
+    {
+      "question": "Is it possible to train a neural network with just one hidden layer to produce any desired output?",
+      "context": "The second paragraph of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5544117647058824
+      }
+    },
+    {
+      "question": "What is the general claim made about neural networks in the document?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5477272727272727
+      }
+    },
+    {
+      "question": "What does it mean for a device to be a 'universal approximator' according to the document?",
+      "context": "The introduction sentence of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5357142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the general claim made about neural networks in the document?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5477272727272727
+      }
+    },
+    {
+      "question": "Can neural networks approximate an arbitrary function to arbitrary precision with just one hidden layer?",
+      "context": "The second paragraph of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5696428571428571
+      }
+    },
+    {
+      "question": "What does it mean for a device to be a 'universal approximator' according to the document?",
+      "context": "The introduction sentence of the document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5357142857142857
+      }
+    },
+    {
+      "question": "Is it possible to train a neural network with just one hidden layer to produce any desired output?",
+      "context": "The second paragraph of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5544117647058824
+      }
+    }
+  ]
+}

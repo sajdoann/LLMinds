@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'to get in shape' mean in English?",
+      "context": "The warning about translation accuracy",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.653125
+      }
+    },
+    {
+      "question": "How is the Czech translation of '90s related to the original phrase?",
+      "context": "The example sentence with the original and translated phrases",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7144886363636364
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between word level correspondence and translation accuracy?",
+      "context": "The warning about translation accuracy",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.6464285714285715
+      }
+    },
+    {
+      "question": "How does the Czech translator's choice of words affect the overall meaning of the phrase?",
+      "context": "The example sentence with the original and translated phrases",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "What is the implication of a 'nicer translation' for the alignment of the text?",
+      "context": "The warning about translation accuracy",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6090909090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'to get in shape' mean in English?",
+      "context": "The warning about translation accuracy",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.653125
+      }
+    },
+    {
+      "question": "How does the Czech translator's choice of words affect the overall meaning of the phrase?",
+      "context": "The example sentence with the original and translated phrases",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "How is the Czech translation of '90s related to the original phrase?",
+      "context": "The example sentence with the original and translated phrases",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7144886363636364
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between word level correspondence and translation accuracy?",
+      "context": "The warning about translation accuracy",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.6464285714285715
+      }
+    },
+    {
+      "question": "What is the implication of a 'nicer translation' for the alignment of the text?",
+      "context": "The warning about translation accuracy",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6090909090909091
+      }
+    }
+  ]
+}

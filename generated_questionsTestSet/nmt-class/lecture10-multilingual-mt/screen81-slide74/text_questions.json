@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the baseline size of the transformer setup being compared?",
+      "context": "So this is the performance of this smaller model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.690625
+      }
+    },
+    {
+      "question": "Why is the multilingual system underperforming the bilingual baselines?",
+      "context": "the high-resource languages do not fit into the capacity of the model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.721875
+      }
+    },
+    {
+      "question": "What happens when using adapters in the transformer setup?",
+      "context": "But with the adapters, the loss is reduced and the performance on the low-resource languages is retained.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7841880341880342
+      }
+    },
+    {
+      "question": "Which languages are being compared in terms of their impact on model capacity?",
+      "context": "the high-resource languages do not fit into the capacity of the model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7615384615384615
+      }
+    },
+    {
+      "question": "What is the primary effect of using adapters when translating into English?",
+      "context": "This is when translating into English.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7708333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when using adapters in the transformer setup?",
+      "context": "But with the adapters, the loss is reduced and the performance on the low-resource languages is retained.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7841880341880342
+      }
+    },
+    {
+      "question": "Which languages are being compared in terms of their impact on model capacity?",
+      "context": "the high-resource languages do not fit into the capacity of the model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7615384615384615
+      }
+    },
+    {
+      "question": "Why is the multilingual system underperforming the bilingual baselines?",
+      "context": "the high-resource languages do not fit into the capacity of the model.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.721875
+      }
+    },
+    {
+      "question": "What is the primary effect of using adapters when translating into English?",
+      "context": "This is when translating into English.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7708333333333334
+      }
+    }
+  ]
+}

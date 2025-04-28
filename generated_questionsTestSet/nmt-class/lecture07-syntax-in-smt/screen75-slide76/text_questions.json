@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What cases and numbers should be used for dependent words such as adjectives?",
+      "context": "The system ensures that the output sentence will be grammatically correct.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8057692307692308
+      }
+    },
+    {
+      "question": "Where is linguistic knowledge applied in the system?",
+      "context": "And this is where the linguistic knowledge is applied.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "What does the explicit representation enable?",
+      "context": "And it can be applied because we have this explicit representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8276515151515151
+      }
+    },
+    {
+      "question": "How do adjectives inherit information from nouns in the system?",
+      "context": "The adjectives will simply inherit it from the nouns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "What is the role of grammatical correctness in the system's output?",
+      "context": "This is exactly where the system ensures that the output sentence will be grammatically correct.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7392857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do adjectives inherit information from nouns in the system?",
+      "context": "The adjectives will simply inherit it from the nouns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "Where is linguistic knowledge applied in the system?",
+      "context": "And this is where the linguistic knowledge is applied.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "What is the role of grammatical correctness in the system's output?",
+      "context": "This is exactly where the system ensures that the output sentence will be grammatically correct.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7392857142857143
+      }
+    },
+    {
+      "question": "What does the explicit representation enable?",
+      "context": "And it can be applied because we have this explicit representation.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8276515151515151
+      }
+    }
+  ]
+}

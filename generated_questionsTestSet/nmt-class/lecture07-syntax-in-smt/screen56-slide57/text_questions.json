@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the approach of the author for synchronous tree substitution grammars?",
+      "context": "This is still the analytical surface syntax trees.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6505681818181819
+      }
+    },
+    {
+      "question": "How would the input be decomposed according to the author's method?",
+      "context": "I would decompose the input into tree leds.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.803125
+      }
+    },
+    {
+      "question": "What happens to the red subtree led after replacement according to the author's idea?",
+      "context": "This is still the analytical surface syntax trees.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "What is the ultimate goal of joining the tree leds created in step 2?",
+      "context": "I would join these these tree leds to create the full tree.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7937062937062938
+      }
+    },
+    {
+      "question": "What type of transformation does the author suggest for synchronous tree substitution grammars?",
+      "context": "replacing tree leds with their translations",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7836538461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the approach of the author for synchronous tree substitution grammars?",
+      "context": "This is still the analytical surface syntax trees.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6505681818181819
+      }
+    },
+    {
+      "question": "How would the input be decomposed according to the author's method?",
+      "context": "I would decompose the input into tree leds.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.803125
+      }
+    },
+    {
+      "question": "What is the ultimate goal of joining the tree leds created in step 2?",
+      "context": "I would join these these tree leds to create the full tree.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7937062937062938
+      }
+    },
+    {
+      "question": "What happens to the red subtree led after replacement according to the author's idea?",
+      "context": "This is still the analytical surface syntax trees.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7395833333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using pairwise comparisons in this context?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.303030303030303
+      }
+    },
+    {
+      "question": "What benefit does using pairwise comparisons bring to the evaluation?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.2833333333333333
+      }
+    },
+    {
+      "question": "Why does using pairwise comparisons make the evaluation more stable?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.33333333333333337
+      }
+    },
+    {
+      "question": "What does 'larger numbers' refer to in this context?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.35185185185185186
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of using pairwise comparisons in this context?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.303030303030303
+      }
+    },
+    {
+      "question": "Why does using pairwise comparisons make the evaluation more stable?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.33333333333333337
+      }
+    },
+    {
+      "question": "What benefit does using pairwise comparisons bring to the evaluation?",
+      "context": "So this is a way to get larger statistics, larger numbers, so that this evaluation is more stable because it is based on more numbers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.2833333333333333
+      }
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "all_questions": [
+    {
+      "question": "What is evolution of organisms?",
+      "context": "The ability of living organisms to change contributed to the appearance among their descendants of certain forms, for which the new conditions were already comfortable. And they began to reproduce quite successfully. The process was repeated many times. It continues today. We call it the evolution of living organisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7647075770671277
+      }
+    },
+    {
+      "question": "What is the approximate number of species of Archaea?",
+      "context": "Archaea 503456",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8349719101123596
+      }
+    },
+    {
+      "question": "What is the modern system of classification levels based on?",
+      "context": "The modern system of classification levels was proposed by Carl Linnaeus (Fig. 3.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8149956784788246
+      }
+    },
+    {
+      "question": "Why do organisms included in the same taxon must originate from a common ancestor?",
+      "context": "organisms included in the same taxon must originate from a common ancestor.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8895799892990904
+      }
+    },
+    {
+      "question": "What defines a monophyletic group?",
+      "context": "organisms included in the same taxon must originate from a common ancestor",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8363295880149813
+      }
+    },
+    {
+      "question": "What is a reference sample used for in Typological concept of species?",
+      "context": "All individuals of a species are compared with a reference sample",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8269662921348315
+      }
+    },
+    {
+      "question": "What is a typological concept in the context of species?",
+      "context": "This is a group of individuals that are identical to a reference individual in certain respects",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7825842696629213
+      }
+    },
+    {
+      "question": "What is meant by 'species criteria' according to the text?",
+      "context": "to determine the species, not a single sign is used, but a whole complex of species criteria (pp. 18–19)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8377652933832709
+      }
+    },
+    {
+      "question": "What are some common features or characteristics that distinguish Nominalistic, Biological, and Phylogenetic concepts of species?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9392556179775281
+      }
+    },
+    {
+      "question": "What forms exist in viruses?",
+      "context": "Viruses exist in two forms: extracellular and cellular.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8426966292134832
+      }
+    },
+    {
+      "question": "Why can't viruses reproduce independently?",
+      "context": "They are not capable of carrying out self-reproduction processes independently.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9224719101123595
+      }
+    },
+    {
+      "question": "What type of organisms can viruses reproduce?",
+      "context": "Viruses can reproduce only in living cells, because the synthesis of the substances they consist of requires ribosomes, tRNA, ATP molecules, enzymes and other components of cellular structures that are responsible for the synthesis of organic substances and which viruses themselves do not have.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8306581059390048
+      }
+    },
+    {
+      "question": "Why do all viruses lack the ability to carry out self-reproduction processes independently?",
+      "context": "Therefore, all viruses without exception are intracellular parasites. They are not capable of carrying out self-reproduction processes independently.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.9194417611469825
+      }
+    },
+    {
+      "question": "What is the primary function of a lipoprotein shell in complex viruses?",
+      "context": "This is not surprising, because this shell is formed from a section of the cell membrane of the cell in which it has reproduced.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8112310270057166
+      }
+    },
+    {
+      "question": "What type of nucleic acid can be found inside the capsid of viruses?",
+      "context": "Nucleic acids inside the capsid can be of only one type - either RNA or DNA.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8536985018726592
+      }
+    },
+    {
+      "question": "What is the primary function of proteins located in the inner rod of a virus?",
+      "context": "Enzymes that help the virus capture the host cell can be located there.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8445692883895131
+      }
+    },
+    {
+      "question": "What is a viroid?",
+      "context": "Viroids are circular RNA molecules and do not contain any proteins.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.780388151174668
+      }
+    },
+    {
+      "question": "What is the main difference between prions and viruses?",
+      "context": "They have only one of these two components - either nucleic acid or protein.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8297217763509899
+      }
+    },
+    {
+      "question": "Where did viruses originate?",
+      "context": "There are three main versions of the appearance of viruses. Version 1. Viruses originated from bacteria that switched to intracellular parasitism and lost most of their genes. This version is supported by the existence of the mimivirus.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9432312432040595
+      }
+    },
+    {
+      "question": "Viruses originated from bacteria that switched to intracellular parasitism and lost most of their genes. This version is supported by the existence of the mimivirus.",
+      "context": "a different way becomes very resistant to any influences that disrupt its structure. In a modified state, it ceases to perform its usual functions in the cell. And during a “meeting” with the same normal protein, it initiates its transformation into the prion form (Fig. 5.6).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9197705277334003
+      }
+    },
+    {
+      "question": "What is the main way of transmission of infection for kyu?",
+      "context": "The main way of transmission of infection was ritual cannibalism, when after a person's death, his body was eaten by other members of the tribe.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8296147672552167
+      }
+    },
+    {
+      "question": "What is the provirus?",
+      "context": "But under the influence of certain factors (for example, weakening of the body's immunity), the provirus is activated and turns into an active virus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7129481005885501
+      }
+    },
+    {
+      "question": "What is phage therapy?",
+      "context": "The effect of phage therapy - attack by bacteriophages of a pathogenic bacterium",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7626404494382022
+      }
+    },
+    {
+      "question": "What types of organisms can viruses infect?",
+      "context": "Viruses infect only certain types of organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8154093097913323
+      }
+    },
+    {
+      "question": "What is CRISPR and how does it work?",
+      "context": "If the attack of a bacteriophage on a cell is unsuccessful, then fragments of the bacteriophage DNA are integrated into the genome (CRISPR system) of the host cell.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8547017121455324
+      }
+    },
+    {
+      "question": "What does CRISPR protect against?",
+      "context": "a template for the prokaryotic cell, according to which it recognizes and destroys the virus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8581059390048154
+      }
+    },
+    {
+      "question": "What type of cellular structure is present in prokaryotic cells?",
+      "context": "Ribosomes and a nucleoid (DNA molecule) are necessarily present in the cell.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8133895131086142
+      }
+    },
+    {
+      "question": "Why do prokaryotes obtain substances they need from the environment?",
+      "context": "They can absorb what they need for their life with their entire surface.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9228804902962207
+      }
+    },
+    {
+      "question": "What is osmotrophs?",
+      "context": "Osmotrophs are organisms that obtain the substances they need from the environment through the cell membrane, using the phenomenon of osmosis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7116104868913857
+      }
+    },
+    {
+      "question": "What is conjugation in prokaryotes?",
+      "context": "Conjugation: Direct contact between two bacterial cells using special hollow tubes, F-piles, during which genetic material from one cell is transferred to another",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8186614557889594
+      }
+    },
+    {
+      "question": "What is transformation in prokaryotes?",
+      "context": "Transformation: Transfer of DNA that has been removed from the cell (most often during cell destruction) from one bacterial cell to other bacterial cells",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7884831460674158
+      }
+    },
+    {
+      "question": "What is transduction in prokaryotes?",
+      "context": "Transduction: Transfer of bacterial genes from one cell to another using a bacteriophage",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7850475367329299
+      }
+    },
+    {
+      "question": "What is the name of the group of bacteria that includes hydrogen bacteria and thermotogases?",
+      "context": "Representatives of ancient bacteria are hydrogen bacteria (obtain energy by oxidizing hydrogen) and thermotogases (bacteria that live in hot springs).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8304504238123398
+      }
+    },
+    {
+      "question": "What is the term used to describe a group of microorganisms discovered in hydrothermal spring 'Loki's Castle'?",
+      "context": "The proteoarchaea group includes the recently discovered (2015) lochiarchaea.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.868101454064772
+      }
+    },
+    {
+      "question": "What is unique about the distribution of archaea compared to bacteria?",
+      "context": "Archaea were initially discovered in zones of extreme existence: very hot springs (for example, geysers), very cold conditions and in water bodies with very salty, acidic and alkaline environments.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8450663942798774
+      }
+    },
+    {
+      "question": "What type of energy is used by the flagella of archaea that grow at the base?",
+      "context": "Solid protein filaments, grow at the base; rotation occurs due to the use of ATP energy.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8504547886570358
+      }
+    },
+    {
+      "question": "What is a characteristic feature of the cell membrane of bacteria compared to archaea?",
+      "context": "The membrane can be double-layered, consisting of glycerol ethers and terpene compounds.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8137784500144051
+      }
+    },
+    {
+      "question": "Why are bacteria easily transported by air currents?",
+      "context": "Bacteria occur in all habitats: in water, in soil, in living organisms. They can be in the air, because they are easily transported by its currents (especially in the form of spores).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9241011235955057
+      }
+    },
+    {
+      "question": "What is a common habitat for many archaea?",
+      "context": "Many representatives of these organisms are inhabitants of the digestive tracts of animals (ruminants, termites, humans, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8376404494382023
+      }
+    },
+    {
+      "question": "What types of environments do archaea live in?",
+      "context": "rs), very cold conditions and in water bodies with very salty, acidic and alkaline environments.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.866843128781331
+      }
+    },
+    {
+      "question": "What is a common role of archaea in the digestive tracts of animals?",
+      "context": "Many representatives of these organisms are inhabitants of the digestive tracts of animals (ruminants, termites, humans, etc.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8104868913857678
+      }
+    },
+    {
+      "question": "What domains are distinguished among living organisms?",
+      "context": "History of eukaryotic systematics The first attempt to classify living beings can be considered the system of Aristotle, who distinguished groups of plants and animals (Fig. 9.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8677434456928839
+      }
+    },
+    {
+      "question": "What domains are distinguished among living organisms?",
+      "context": "Modern views on the system of eukaryotic organisms",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8251404494382022
+      }
+    },
+    {
+      "question": "Who proposed the concept of evolutionary taxonomy?",
+      "context": "ad of the evolutionary theory of Charles Darwin, E. Haeckel (Fig. 9.2) proposed the concept of evolutionary taxonomy.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.869983948635634
+      }
+    },
+    {
+      "question": "According to whom, organisms should be classified based on the course of evolution?",
+      "context": "the classification system should reflect the course of evolution of living organisms.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8681071737251512
+      }
+    },
+    {
+      "question": "What are domains in the classification of living organisms?",
+      "context": "domains are divided into smaller systematic units—subdomains—which consist of superkingdoms (or groups of kingdoms),",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8168635359646595
+      }
+    },
+    {
+      "question": "What group of eukaryotes are exclusively unicellular organisms?",
+      "context": "Excavates are the most ancient group of eukaryotes and include only unicellular organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8016421780466725
+      }
+    },
+    {
+      "question": "What types of organisms can excavates be in relation to multicellular organisms?",
+      "context": "They can be free-living, parasitic, or become symbionts of multicellular organisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8516768811712632
+      }
+    },
+    {
+      "question": "What type of organism are hypermastigines?",
+      "context": "hypermastigines (for example, trichonymph) - unicellular organisms with a large number of flagella.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8071881302218381
+      }
+    },
+    {
+      "question": "Why do termites and cockroaches have hypermastigines?",
+      "context": "They are symbionts that live in the intestines of termites and cockroaches.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.87312734082397
+      }
+    },
+    {
+      "question": "What is diaphoretic group?",
+      "context": "Diaphoretics can be unicellular, colonial, or multicellular organisms (Fig. 10.3, p. 42).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8029026217228464
+      }
+    },
+    {
+      "question": "What are most autotrophic eukaryotes in the diaphoretic group?",
+      "context": "Most autotrophic eukaryotes belong to the diaphoretic group.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8320068664169789
+      }
+    },
+    {
+      "question": "Can all terrestrial plants be classified as bikonts?",
+      "context": "Red and green algae and all terrestrial plants are also bikonts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9523876404494382
+      }
+    },
+    {
+      "question": "What is the source of chloroplasts in eukaryotes?",
+      "context": "For a long time, scientists called all such organisms plants and allocated them to a separate kingdom. But more detailed studies have found that the chloroplasts of eukaryotes arose by endosymbiosis (settling inside the cell of a unicellular photosynthetic organism).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.786750936329588
+      }
+    },
+    {
+      "question": "What type of organisms are represented in the group Amorphaea?",
+      "context": "Unicellular forms in Amorpheans are represented by amoebae, collared flagellates, yeasts, and other groups (Fig. 10.4).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8283707865168539
+      }
+    },
+    {
+      "question": "What is the largest group of eukaryotes in terms of species?",
+      "context": "In terms of the number of species, this group is the largest among eukaryotes.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.7777153558052434
+      }
+    },
+    {
+      "question": "What is the term used to describe organisms that obtain substances they need from the environment by absorbing them with their body surface?",
+      "context": "To designate these organisms, the term osmotrophs is used.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.8840369992055386
+      }
+    },
+    {
+      "question": "What is the current classification of autotrophic eukaryotes in modern systematics?",
+      "context": "Different groups of autotrophic eukaryotes belong to different kingdoms, superkingdoms and subdomains.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8105209397344229
+      }
+    },
+    {
+      "question": "What is the main way by which autotrophic eukaryotes obtain substances they need from their environment?",
+      "context": "They can absorb only those substances that are in dissolved form.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8720633299284984
+      }
+    },
+    {
+      "question": "What are some examples of plant species that produce allergens?",
+      "context": "allergen producers (ragweed, poplar, etc.),",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9129213483146067
+      }
+    },
+    {
+      "question": "What organisms belong to heterotrophs?",
+      "context": "Some groups of autotrophic eukaryotes of the superkingdom SAR Group nameCharacteristicsRepresentatives\\nLaminaria, fucus, macrocystis Brown algaeChloroplasts originate from red algae. Exceptionally multicellular organisms. Have the rudiments of tissues and organs. Almost all live in saltwater",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8491482421167089
+      }
+    },
+    {
+      "question": "What is the shape of their body that facilitates osmotrophy?",
+      "context": "This method of nutrition is facilitated by the fact that their body has the shape of a mycelium.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8014044943820224
+      }
+    },
+    {
+      "question": "Why do fungi and fungus-like organisms need to absorb organic substances from the external environment?",
+      "context": "because they are all heterotrophs and are not able to independently synthesize organic substances from inorganic ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.9118913857677903
+      }
+    },
+    {
+      "question": "What is formed by various polysaccharides as a cell wall in the cells of most true fungi?",
+      "context": "It is formed by various polysaccharides.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8757986340603657
+      }
+    },
+    {
+      "question": "In some cases, what replaces chitin in the cell walls of yeast?",
+      "context": "or replaced by chitosan (mucor).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8689479060265577
+      }
+    },
+    {
+      "question": "What are some products that producers of certain fungi and fungus-like organisms produce?",
+      "context": "Producers of: — various compounds (citric acid, enzymes, etc.) in biotechnological production (aspergillus, fusarium, etc.); — antibiotics (penicillium, cephalosporium, etc.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9153664195059819
+      }
+    },
+    {
+      "question": "What is the difference between fungi and myxomycetes?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8665730337078652
+      }
+    },
+    {
+      "question": "What type of cell division do basidiomycetes have?",
+      "context": "The mycelium in most representatives is divided into cells, the cells have one or two nuclei.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8410580524344569
+      }
+    },
+    {
+      "question": "What do animals obtain their substances they need with?",
+      "context": "Like fungi, animals are heterotrophic organisms. A characteristic feature of multicellular animals is that they obtain the substances they need with food, which they then digest.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8742875753134669
+      }
+    },
+    {
+      "question": "What are the most primitive animal groups among multicellular animals?",
+      "context": "The most primitive among them are considered sponges, lamellae, ribophytes and intestinal coelenterates (stinging). But which of them is closest to the common ancestor of all animals is still a subject of scientific debate.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8636574970941495
+      }
+    },
+    {
+      "question": "What are the characteristics of sponges?",
+      "context": "SpongesAquatic organisms. The body consists of two layers of cells. They have a limestone, silicon or horny skeleton. They are common in salt and fresh water bodies. They feed by filtering out food particles",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7608735048930773
+      }
+    },
+    {
+      "question": "What is the characteristic of lamellar animals?",
+      "context": "LamellarLamellar animals have an irregular shape that can change. They have only four types of cells in their bodies. They live in tropical and subtropical seas",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7661037057715123
+      }
+    },
+    {
+      "question": "What are the characteristics of ribophytes?",
+      "context": "RibophytesAquatic organisms. The body consists of two layers of cells. They have radial symmetry of the body. On the surface of the body there are combs of cilia, which ensure the movement of animals. Common in salt water bodies. Most representatives are predators",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7707162921348314
+      }
+    },
+    {
+      "question": "What is the characteristic of stinging animals?",
+      "context": "Stinging Aquatic organisms. The body consists of two layers of cells. They have radial symmetry of the body. Stinging cells are located on the surface of the body. Common in salt and fresh water bodies. Most representatives are predators",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7577581594435527
+      }
+    },
+    {
+      "question": "What are the characteristic features of primary stomata?",
+      "context": "Insects, mollusks, round and annelid wormsPrimary stomata Aquatic or terrestrial organisms. The body consists of three layers of cells. They have bilateral symmetry of the body. During embryonic development, a mouth is formed in the place of the blastopore in the gastrula. They live in all known habitats.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8107628622117091
+      }
+    },
+    {
+      "question": "What are the characteristic features of secondary stomata?",
+      "context": "Starfish, fish, birds, mammals Secondary stomata",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8572097378277154
+      }
+    },
+    {
+      "question": "What type of organisms have bilateral symmetry and a mouth formed in the place of the blastopore during embryonic development?",
+      "context": "Aquatic or terrestrial organisms. The body consists of three layers of cells. They have bilateral symmetry of the body. During embryonic development, a mouth is formed in the place of the blastopore in the gastrula.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8687057844361215
+      }
+    },
+    {
+      "question": "What is the name given to the last universal ancestor of all living organisms?",
+      "context": "Chemical evolution The emergence of LUCA (the last universal ancestor of all living organisms) 4.1–3.6 billion years ago",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8450353347907875
+      }
+    },
+    {
+      "question": "When did the emergence of prokaryotes occur?",
+      "context": "The emergence of prokaryotes (bacteria and archaea) The emergence of LUCA (the last universal ancestor of all living organisms) 4.1–3.6 billion years ago",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8630565176987413
+      }
+    },
+    {
+      "question": "What is the name given to the first armored animals?",
+      "context": "The first armored animals The first sponges",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.812234706616729
+      }
+    },
+    {
+      "question": "When did the Cambrian explosion occur?",
+      "context": "Cambrian explosion - the mass appearance of a large number of organisms with a hard skeleton",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8788121990369182
+      }
+    },
+    {
+      "question": "What is the Cambrian explosion?",
+      "context": "the mass appearance of a large number of organisms with a hard skeleton The appearance of all known types of animals The appearance of the first land plants Mass extinction of living organisms (Ordovician-Silurian)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7521134296415195
+      }
+    },
+    {
+      "question": "What is the main characteristic of prokaryotic organisms?",
+      "context": "Bacteria Archaea Characteristics: Unicellular, colonial or multicellular Cell wall made of murein The membrane is always double-layered The genome does not contain histones",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7877936670071501
+      }
+    },
+    {
+      "question": "What caused the mass extinction event at the end of the Permian period?",
+      "context": "The largest extinction of living organisms in history (Permian-Triassic)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8105776869821814
+      }
+    },
+    {
+      "question": "What is Euryarchaea?",
+      "context": "Representatives: Euryarchaea (haloarchaea, methanoarchaea), crenarchaeote, nanoarchaeote, asgardarchaeote",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7696629213483146
+      }
+    },
+    {
+      "question": "What type of flagella do unicellular eukaryotes typically have?",
+      "context": "Characteristics: unicellular, colonial or multicellular flagella predominantly 1, posterior mitochondria with tubular or lamellar cristae heterotrophic",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8877652933832709
+      }
+    },
+    {
+      "question": "What is the difference between prions and other pathogens in terms of sterilization prevention?",
+      "context": "Sterilization of meat and offal before cooking by boiling ensured the prevention of infection with bacteria and viruses. But it did not prevent infection with prions.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8477309207646286
+      }
+    },
+    {
+      "question": "What type of flagella do Archaea typically have?",
+      "context": "Representatives: Euryarchaea (haloarchaea, methanoarchaea), crenarchaeote, nanoarchaeote, asgardarchaeote",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.886938202247191
+      }
+    },
+    {
+      "question": "What is the characteristic of unicellular eukaryotes that distinguishes them from Archaea?",
+      "context": "Characteristics: unicellular flagella predominantly 4, 6, 8; occasionally 1–2 anterior mitochondria often reduced or with disc-shaped cristae sexual process absent heterotrophic (except for some euglena)",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8709550561797753
+      }
+    },
+    {
+      "question": "What is the relationship between viroids and prions?",
+      "context": "Groups of organisms for comparison: viroids and prions",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7921348314606742
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are bacteria easily transported by air currents?",
+      "context": "Bacteria occur in all habitats: in water, in soil, in living organisms. They can be in the air, because they are easily transported by its currents (especially in the form of spores).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9241011235955057
+      }
+    },
+    {
+      "question": "Why can't viruses reproduce independently?",
+      "context": "They are not capable of carrying out self-reproduction processes independently.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9224719101123595
+      }
+    },
+    {
+      "question": "Why do fungi and fungus-like organisms need to absorb organic substances from the external environment?",
+      "context": "because they are all heterotrophs and are not able to independently synthesize organic substances from inorganic ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.9118913857677903
+      }
+    },
+    {
+      "question": "Why do termites and cockroaches have hypermastigines?",
+      "context": "They are symbionts that live in the intestines of termites and cockroaches.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.87312734082397
+      }
+    }
+  ]
+}

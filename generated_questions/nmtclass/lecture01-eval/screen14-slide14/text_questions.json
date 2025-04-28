@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why was the system from 2018 significantly worse than humans in English to Czech translation?",
+      "context": "The results from this pseudo-document-aware evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6958333333333333
+      }
+    },
+    {
+      "question": "How does the document author interpret the change in performance between 2018 and the current year?",
+      "context": "The author's explanation for the change in performance",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8035714285714286
+      }
+    },
+    {
+      "question": "What is one possible reason why the system may have performed better than humans in some cases, despite overall worse performance?",
+      "context": "The text discussing potential factors affecting translation quality",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7931547619047619
+      }
+    },
+    {
+      "question": "According to the document author, what is a key consideration when evaluating the performance of machine translation systems like the one from 2018?",
+      "context": "The discussion of limitations in evaluation methods",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.058823529411764705,
+        "diversity_score": 0.7797619047619048
+      }
+    },
+    {
+      "question": "What does the author suggest as an alternative to the claim that machines are no longer better than humans in translation?",
+      "context": "The text discussing the implications of the evaluation results",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7026785714285715
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the author suggest as an alternative to the claim that machines are no longer better than humans in translation?",
+      "context": "The text discussing the implications of the evaluation results",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7026785714285715
+      }
+    },
+    {
+      "question": "What is one possible reason why the system may have performed better than humans in some cases, despite overall worse performance?",
+      "context": "The text discussing potential factors affecting translation quality",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7931547619047619
+      }
+    },
+    {
+      "question": "Why was the system from 2018 significantly worse than humans in English to Czech translation?",
+      "context": "The results from this pseudo-document-aware evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6958333333333333
+      }
+    }
+  ]
+}

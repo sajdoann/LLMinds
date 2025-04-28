@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the basis for the importance of having fewer but more reliable references?",
+      "context": "This is just highlighted in numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7644230769230769
+      }
+    },
+    {
+      "question": "How does the number of sentences affect the correlation with evaluation results?",
+      "context": "So you get a higher correlation with a fewer number of sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7386363636363636
+      }
+    },
+    {
+      "question": "What is the optimal number of post-edit references for achieving good correlation with evaluation results?",
+      "context": "So just 100 sentences with six or seven post-edit references is as good in correlation as 3,000 of independently created references.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.75625
+      }
+    },
+    {
+      "question": "What is the implication of having more but less reliable references on evaluation results?",
+      "context": "if you have a chance to correct empty",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7633928571428572
+      }
+    },
+    {
+      "question": "Why is it important to consider both the number of sentences and the reliability of references in evaluation?",
+      "context": "",
+      "difficulty": "analytical",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the basis for the importance of having fewer but more reliable references?",
+      "context": "This is just highlighted in numbers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7644230769230769
+      }
+    },
+    {
+      "question": "What is the implication of having more but less reliable references on evaluation results?",
+      "context": "if you have a chance to correct empty",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7633928571428572
+      }
+    },
+    {
+      "question": "How does the number of sentences affect the correlation with evaluation results?",
+      "context": "So you get a higher correlation with a fewer number of sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7386363636363636
+      }
+    }
+  ]
+}

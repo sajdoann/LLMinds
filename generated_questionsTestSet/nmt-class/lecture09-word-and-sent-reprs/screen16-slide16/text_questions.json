@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the focus of the Czech sentence being discussed?",
+      "context": "The introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4305555555555556
+      }
+    },
+    {
+      "question": "Why is the specific word order of the Czech sentence considered appropriate for highlighting the topic focused articulation?",
+      "context": "The introductory paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5729166666666667
+      }
+    },
+    {
+      "question": "What is the system being referred to in the document that takes the same inputs as a human would, but grinds meat instead?",
+      "context": "The sentence 'So now the superhuman system, same inputs, mom grinds meat',",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8658008658008658
+      }
+    },
+    {
+      "question": "What does the author's self-described language proficiency level imply about their understanding of the English language?",
+      "context": "The sentence 'I'm not a native speaker of English, but I think that this is probably the appropriate word order to highlight the topic focused articulation in the Czech sentence'.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8935185185185185
+      }
+    },
+    {
+      "question": "What is being double-checked in the context of the system's performance?",
+      "context": "The introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4666666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being double-checked in the context of the system's performance?",
+      "context": "The introductory paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4666666666666667
+      }
+    },
+    {
+      "question": "What does the author's self-described language proficiency level imply about their understanding of the English language?",
+      "context": "The sentence 'I'm not a native speaker of English, but I think that this is probably the appropriate word order to highlight the topic focused articulation in the Czech sentence'.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8935185185185185
+      }
+    },
+    {
+      "question": "Why is the specific word order of the Czech sentence considered appropriate for highlighting the topic focused articulation?",
+      "context": "The introductory paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5729166666666667
+      }
+    },
+    {
+      "question": "What is the system being referred to in the document that takes the same inputs as a human would, but grinds meat instead?",
+      "context": "The sentence 'So now the superhuman system, same inputs, mom grinds meat',",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8658008658008658
+      }
+    }
+  ]
+}

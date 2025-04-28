@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of parsing was used for machine translation?",
+      "context": "So that is the bottom-up parsing used for machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9347222222222222
+      }
+    },
+    {
+      "question": "Why was the previous example considered linguistically inadequate?",
+      "context": "It was not proper syntax. It was just a hierarchical model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9079861111111112
+      }
+    },
+    {
+      "question": "What labels are assigned to syntactic trees by linguists?",
+      "context": "those that have labels that linguists assign to them when drawing a tree bank.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9391025641025641
+      }
+    },
+    {
+      "question": "Why did adding syntactic information make the life more complicated?",
+      "context": "So, yeah. And on slides by David Cheng from in 2010, I will illustrate why the added syntactic information actually makes your life more complicated.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7424999999999999
+      }
+    },
+    {
+      "question": "Who illustrated why adding syntactic information makes the life more complicated?",
+      "context": "And on slides by David Cheng from in 2010, I will illustrate why the added syntactic information actually makes your life more complicated.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7445652173913043
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What labels are assigned to syntactic trees by linguists?",
+      "context": "those that have labels that linguists assign to them when drawing a tree bank.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9391025641025641
+      }
+    },
+    {
+      "question": "Why was the previous example considered linguistically inadequate?",
+      "context": "It was not proper syntax. It was just a hierarchical model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9079861111111112
+      }
+    },
+    {
+      "question": "Why did adding syntactic information make the life more complicated?",
+      "context": "So, yeah. And on slides by David Cheng from in 2010, I will illustrate why the added syntactic information actually makes your life more complicated.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7424999999999999
+      }
+    }
+  ]
+}

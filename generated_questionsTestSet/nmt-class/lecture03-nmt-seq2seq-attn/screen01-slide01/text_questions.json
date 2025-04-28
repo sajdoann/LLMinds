@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What will be covered in this lecture?",
+      "context": "So good morning again. Welcome to the third lecture on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6991758241758241
+      }
+    },
+    {
+      "question": "What is not the current state of the art for NeuralMT?",
+      "context": "is not the current state of the art of NeuralMT.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What will be discussed after this lecture on NeuralMT?",
+      "context": "So expect after some series of lectures on the more traditional approach, expect also the details about the transformer.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7534722222222222
+      }
+    },
+    {
+      "question": "What is being covered previously in the overview lecture?",
+      "context": "We have had some of that already in the overview lecture previous, as a previous session.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6953125
+      }
+    },
+    {
+      "question": "What type of architecture will be discussed today?",
+      "context": "Today we'll focus on the basics of NeuralMT. We have had some of that already in the overview lecture previous, as a previous session.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6960227272727273
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What will be covered in this lecture?",
+      "context": "So good morning again. Welcome to the third lecture on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6991758241758241
+      }
+    },
+    {
+      "question": "What is not the current state of the art for NeuralMT?",
+      "context": "is not the current state of the art of NeuralMT.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What will be discussed after this lecture on NeuralMT?",
+      "context": "So expect after some series of lectures on the more traditional approach, expect also the details about the transformer.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7534722222222222
+      }
+    }
+  ]
+}

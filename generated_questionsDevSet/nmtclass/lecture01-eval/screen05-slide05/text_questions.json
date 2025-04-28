@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal of this project, according to the writer?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8238636363636364
+      }
+    },
+    {
+      "question": "How do machine translation systems handle cultural differences, as illustrated by an example?",
+      "context": "A specific anecdote about bilingual kids",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8509615384615384
+      }
+    },
+    {
+      "question": "What is the expected output quality of these machine translation systems?",
+      "context": "The discussion about optimization",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6732954545454546
+      }
+    },
+    {
+      "question": "How do professional translators benefit from using this machine translation system?",
+      "context": "A comparison with human translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8727272727272727
+      }
+    },
+    {
+      "question": "What is the primary concern about these machine translation systems in terms of their limitations?",
+      "context": "The discussion about level two and risk",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7690476190476191
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary goal of this project, according to the writer?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8238636363636364
+      }
+    },
+    {
+      "question": "How do professional translators benefit from using this machine translation system?",
+      "context": "A comparison with human translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8727272727272727
+      }
+    },
+    {
+      "question": "How do machine translation systems handle cultural differences, as illustrated by an example?",
+      "context": "A specific anecdote about bilingual kids",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8509615384615384
+      }
+    }
+  ]
+}

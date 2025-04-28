@@ -1,0 +1,292 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of vaccines?",
+      "context": "They pretend to be a dangerous infection.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7863095238095239
+      }
+    },
+    {
+      "question": "What is the basic principle of vaccinations?",
+      "context": "This is the basic principle of vaccinations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7928571428571429
+      }
+    },
+    {
+      "question": "How many cases of measles were there in Europe in 2018?",
+      "context": "But there were only 83,000 cases of measles in Europe in 2018.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8913636363636364
+      }
+    },
+    {
+      "question": "What percentage of children who survive measles will have a severely damaged immune system?",
+      "context": "The children who survive will have a severely damaged immune system that takes a long time to recover.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.883718487394958
+      }
+    },
+    {
+      "question": "How many cases of pneumonia were there in the parallel universe where vaccinations were discontinued?",
+      "context": "600,000 children, or 6%, get pneumonia, the most dangerous side effect of measles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8842032967032967
+      }
+    },
+    {
+      "question": "How many children are expected to die from measles in a parallel universe where vaccinations were discontinued?",
+      "context": "Approximately 20,000 children will die from measles.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8827731092436975
+      }
+    },
+    {
+      "question": "What percentage of vaccinated children got a fever after vaccination?",
+      "context": "After they are vaccinated, about 10% of our 10,000,000 children get a fever.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8311538461538461
+      }
+    },
+    {
+      "question": "How many percent of vaccinated children got a slight rash after vaccination?",
+      "context": "500,000, 5%, get a slight rash.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What happens when 10,000,000 children are vaccinated with the MMR vaccine?",
+      "context": "After they are vaccinated, about 10% of our 10,000,000 children get a fever. 500,000, 5%, get a slight rash.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8724598930481283
+      }
+    },
+    {
+      "question": "What is the link between autism and vaccinations?",
+      "context": "The link between autism and vaccinations comes from a single source, which has since been refuted many times.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8836805555555556
+      }
+    },
+    {
+      "question": "How many people die from measles worldwide every year?",
+      "context": "In 2017, 110,000 people worldwide died from measles alone. Statistically, 300 children die from measles today.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.9103174603174603
+      }
+    },
+    {
+      "question": "What is herd immunity?",
+      "context": "But to achieve this with measles, 95% of all people around you need to be vaccinated. The problem with the vaccination debate is that it is not being conducted fairly.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8024038461538462
+      }
+    },
+    {
+      "question": "How many children are expected to experience serious side effects from vaccinations?",
+      "context": "Up to 100 or 0.001% may have a serious allergic reaction that needs to be treated. Up to 10 boys, or 0.0001%, may develop genital inflammation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8955357142857143
+      }
+    },
+    {
+      "question": "What is the relationship between vaccinations and seatbelts?",
+      "context": "You can compare vaccinations to seatbelts. Are there tragic accidents where someone is killed by their seatbelt? Yes, there are.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8796052631578948
+      }
+    },
+    {
+      "question": "What percentage of people around you need to be vaccinated to achieve herd immunity against measles?",
+      "context": "But to achieve this with measles, 95% of all people around you need to be vaccinated.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8516666666666667
+      }
+    },
+    {
+      "question": "How rare is it for a child to die from vaccinations?",
+      "context": "It is actually very difficult to say whether even a single one of our 10 million vaccinated children would die. We have done a lot of research on this and spoken to many experts.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8683284457478007
+      }
+    },
+    {
+      "question": "How rare are documented deaths from vaccinations compared to measles?",
+      "context": "Measles is many, many thousands of times more dangerous to our children than the absolute worst case of vaccine side effects.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8725
+      }
+    },
+    {
+      "question": "Can a child with an allergy ever get vaccinated?",
+      "context": "What if your child is actually allergic? What if our facts don't apply to your specific situation?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9402777777777778
+      }
+    },
+    {
+      "question": "Is the vaccination debate conducted fairly?",
+      "context": "The problem with the vaccination debate is that it is not being conducted fairly.",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8833333333333333
+      }
+    },
+    {
+      "question": "What is herd immunity?",
+      "context": "Herd immunity means that so many people are immune to a disease that the pathogen cannot spread, but dies before it can reach its victims.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.83125
+      }
+    },
+    {
+      "question": "Why do vaccinations need to be at such a high percentage for measles?",
+      "context": "But to achieve this with measles, 95% of all people around you need to be vaccinated.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8641025641025641
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many children are expected to experience serious side effects from vaccinations?",
+      "context": "Up to 100 or 0.001% may have a serious allergic reaction that needs to be treated. Up to 10 boys, or 0.0001%, may develop genital inflammation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8955357142857143
+      }
+    },
+    {
+      "question": "How many cases of measles were there in Europe in 2018?",
+      "context": "But there were only 83,000 cases of measles in Europe in 2018.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8913636363636364
+      }
+    },
+    {
+      "question": "How many cases of pneumonia were there in the parallel universe where vaccinations were discontinued?",
+      "context": "600,000 children, or 6%, get pneumonia, the most dangerous side effect of measles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8842032967032967
+      }
+    },
+    {
+      "question": "What percentage of children who survive measles will have a severely damaged immune system?",
+      "context": "The children who survive will have a severely damaged immune system that takes a long time to recover.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.883718487394958
+      }
+    },
+    {
+      "question": "What is the link between autism and vaccinations?",
+      "context": "The link between autism and vaccinations comes from a single source, which has since been refuted many times.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8836805555555556
+      }
+    }
+  ]
+}

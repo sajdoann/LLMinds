@@ -1,0 +1,545 @@
+{
+  "all_questions": [
+    {
+      "question": "Why does the observer's perception of the Moon's surface differ from their perception of other natural objects?",
+      "context": "But that anything really similar to the surface of our own world is anywhere visible upon the Moon is altogether fallacious. This is admitted by some of those who have written upon the subject",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8637873754152824
+      }
+    },
+    {
+      "question": "What advice is given to students before taking their first view of the Moon through a telescope?",
+      "context": "I would advise, therefore, before the student takes even his first view of the Moon through a telescope, to form as clear an idea as he can how mountains, and valleys, and caverns situated at such a distance ought to look, and by what marks they may be recognised.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8531002449654821
+      }
+    },
+    {
+      "question": "Who first made the drawings to help inexperienced observers understand celestial objects?",
+      "context": "And who first interpreted the “unmeaning figures” and the “confused mass of light and shade?” Who first declared them to indicate mountains and valleys, and ventured to make drawings and give explanations and interpretations for the purpose of biasing the minds, and fixing or guiding the imaginations of subsequent observers?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8980278157774738
+      }
+    },
+    {
+      "question": "What event occurred in 1781 regarding Uranus?",
+      "context": "In the year 1781, on March 13, Uranus was discovered by Sir William Herschel, who was examining some small stars near the feet of Gemini;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8768597428860321
+      }
+    },
+    {
+      "question": "Why were ancient observations of Uranus discarded?",
+      "context": "It was found utterly impossible to construct tables which would represent the 17 ancient observations, and at the same time the more numerous modern ones;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.864726274736386
+      }
+    },
+    {
+      "question": "What was the main issue with the previous observations of Uranus?",
+      "context": "erroneous, or that some strange and unknown action disturbed, or had disturbed, the planet; consequently M. Bouvard discarded entirely the old observations, and used only those taken between 1781 and 1820, in constructing the tables of Uranus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8195798949737434
+      }
+    },
+    {
+      "question": "What did M. Le Verrier ask for in his second paper about Uranus?",
+      "context": "He then successively proves that this planet cannot be situated either between the Sun and Saturn, or between Saturn and Uranus; but that it must be beyond Uranus. And in this paper he asks the following questions:—‘Is it possible that the irregularities of Uranus can be owing to the action of a planet situated in the ecliptic, at a distance of twice the mean distance of Uranus from the Sun? If so, where is it actually situated? What is its mass? What are the elements of the orbit it describes?’",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8854944173709209
+      }
+    },
+    {
+      "question": "What planet was discovered based on calculations by M. Le Verrier?",
+      "context": "Dr. Galle at Berlin discovered a star of the eighth magnitude, which has proved to be the planet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8372093023255813
+      }
+    },
+    {
+      "question": "What is the predicted diameter of the newly discovered planet as seen from Earth?",
+      "context": "Its diameter cannot be much less than 40,000 miles, and may be more;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8425014907573047
+      }
+    },
+    {
+      "question": "What was the diameter of Uranus estimated to be?",
+      "context": "its diameter cannot be much less than 40,000 miles, and may be more;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7987726098191215
+      }
+    },
+    {
+      "question": "Why does M. Le Verrier's theory about Neptune fall down?",
+      "context": "M. Le Verrier had stated the revolutions of his planet round the Sun to take place in two hundred and seventeen years; Neptune performs its revolutions in one hundred and sixty-six years!",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.865848406546081
+      }
+    },
+    {
+      "question": "What was the predicted period of Neptune's revolution around the Sun?",
+      "context": "M. Le Verrier had stated the revolutions of his planet round the Sun to take place in two hundred and seventeen years; Neptune performs its revolutions in one hundred and sixty-six years!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.787941429801895
+      }
+    },
+    {
+      "question": "Why did M. Le Verrier admit error about Neptune?",
+      "context": "In the sitting of the 14th, M. Le Verrier noticed the communication of M. Babinet, and to a great extent admitted his own error!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8520671834625323
+      }
+    },
+    {
+      "question": "What was the actual mass of Neptune compared to the Sun?",
+      "context": "Its mass of Neptune, instead of being as at first stated one nine thousand three hundredth is only one twenty three thousandth that of the Sun;",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7899577167019027
+      }
+    },
+    {
+      "question": "What was the actual periodic time of Neptune's revolution around the Sun?",
+      "context": "Its periodic time is now given with a greater probability at 166 years;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.82972841112376
+      }
+    },
+    {
+      "question": "Who conducted the pendulum experiment that demonstrated Earth's rotation?",
+      "context": "M. Foucault, who was induced by certain reflections to repeat Galileo’s experiments in the cellar of his mother’s house at Paris,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8148763381321521
+      }
+    },
+    {
+      "question": "Where were M. Foucault's pendulum experiments repeated?",
+      "context": "His experiments have since been repeated in the hall of the observatory, under the superintendence of M. Arago,",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8703211517165006
+      }
+    },
+    {
+      "question": "What does M. Foucault show about the apparent motion of a plane in relation to the Earth's rotation?",
+      "context": "M. Foucault, however, has succeeded in showing that this is not the case, but that the plane is itself slowly moving round the fixed point as a centre in a direction contrary to the Earth’s rotation, i.e., with the apparent heavens, from east to west.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8231684146526828
+      }
+    },
+    {
+      "question": "Who solved the problem of rendering the Earth's rotation palpable to the senses?",
+      "context": "here we have the problem solved by a man not probably possessing a tithe of his science or talent; and, what is very remarkable, after the discovery was made, it was found to be legitimately deducible from mathematical principles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8468698614047452
+      }
+    },
+    {
+      "question": "What is the name of the experiment that demonstrated the rotation of the globe?",
+      "context": "The beautiful experiment contrived by M. Foucault to demonstrate the rotation of the globe, has deservedly excited universal interest.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7858413132694939
+      }
+    },
+    {
+      "question": "What is the purpose of a metallic point projecting below the brass ball in Foucault's pendulum experiment?",
+      "context": "A metallic[140] point projecting below the ball, and so directed as if it formed a continuation of the suspension wire, served as an index to mark the change of position more precisely.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8238049095607235
+      }
+    },
+    {
+      "question": "What is observed in the pendulum's movement over time?",
+      "context": "In one minute the ball had sensibly deviated from the original plane of vibration towards the observer’s left. Afterwards he experimented at the Observatory with a pendulum 11 metres (30 feet) long, and latterly at the Pantheon with one still longer.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8164614683082536
+      }
+    },
+    {
+      "question": "How does Foucault's experiment demonstrate the Earth's rotation?",
+      "context": "Thus, supposing the oscillations to commence in a plane directed south and north, in two hours the oscillations will point SSW. and NNE.; in four hours they will point SW. and NE.; and in eight hours the oscillations will point due east and west, or at right angles to their original direction.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8459302325581395
+      }
+    },
+    {
+      "question": "Why is Foucault's experiment surprising?",
+      "context": "No one anticipated such a result; and the experiment has been received by some with incredulity, by all with wonderment; and one source of the incredulity arises from the difficulty of conceiving how, amidst the ten thousand experiments of which the pendulum has been the subject, so remarkable a fact could have escaped notice so long.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8626772546795236
+      }
+    },
+    {
+      "question": "Why did M. Foucault discover that the pendulum's plane of vibration is parallel to itself?",
+      "context": "Thanks to M. Foucault, we now know that this is a mistake.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8127906976744186
+      }
+    },
+    {
+      "question": "What is the effect on the plane of vibration when the experiment is made at some point other than the pole?",
+      "context": "The tendency of the pendulum is to continue its vibrations in planes absolutely parallel to the original plane, it will be seen, if we trace both motions, that, while it is carried eastward with the Earth along a parallel of latitude, this tendency will operate to draw the plane of vibration away from a ‘great circle’ into a ‘small circle’ (that is, from a circle dividing the globe into two equal parts, into one dividing it into two unequal parts).",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8582638975251835
+      }
+    },
+    {
+      "question": "What is M. Foucault’s rule for calculating the angular motion of the pendulum at any latitude in a given time?",
+      "context": "The angular space passed over by the pendulum at any latitude in a given time, is equal to the angular motion of the Earth in the period, multiplied by the sine of the latitude.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8069410444716443
+      }
+    },
+    {
+      "question": "Why does the period necessary for the pendulum to complete a revolution increase with distance from the pole?",
+      "context": "But the pendulum must necessarily move in a ‘great circle,’ and hence to counteract its tendency to deviate into a ‘small circle,’ a correctory movement is constantly going on, to which the lengthening of the period necessary to complete a revolution must be ascribed.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8444767441860466
+      }
+    },
+    {
+      "question": "What is the basis for calculating the angular motion of a pendulum?",
+      "context": "The angular motion of the Earth is 15 degrees per hour; and at the latitude of 30, for example, the sine being to radius as 500 to 1000, the angular motion of the pendulum will consequently be 7¹⁄₂ degrees per hour.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7835532550849311
+      }
+    },
+    {
+      "question": "In what direction does the pendulum move when it returns to the vertical?",
+      "context": "of excursion the[147] direction of the wire is to the west of this plane, and when it returns to the vertical the direction of passage through the lowest point is as much to the west of this plane as it was in the former case to the west of the meridian plane;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8072373696872495
+      }
+    },
+    {
+      "question": "What is the expected outcome if a pendulum were allowed to oscillate in a complete vacuum beyond the Earth's atmosphere?",
+      "context": "The first position of these theorists is, that in a complete vacuum beyond the sphere of the Earth’s atmosphere, a pendulum will continue to oscillate in one and the same original plane.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8148976346650765
+      }
+    },
+    {
+      "question": "What does the writer from Liverpool believe about the French experiment on the pendulum?",
+      "context": "Liverpool, 22nd May, 1851.” “T.” Another writer declared that he and others had made many experiments and had discovered that the plane of vibration had nothing whatever to do with the meridian longitude nor with the Earth’s motion, but followed the plane of the magnetic meridian.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8432447397563677
+      }
+    },
+    {
+      "question": "What does the writer from Dundee believe about the French experiment on the pendulum?",
+      "context": "“A scientific gentleman in Dundee recently tried the pendulum experiment, and he says—‘that the pendulum is capable of showing the Earth’s motion I regard as a gross delusion; but that it tends to the magnetic meridian I have found to be a fact.’”[38]",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8178294573643411
+      }
+    },
+    {
+      "question": "What is the expected rate of variation in the plane of vibration of the pendulum according to theory?",
+      "context": "The pendulum should diverge from its original line towards the west, at the rate of one inch or degree in five minutes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7914451827242526
+      }
+    },
+    {
+      "question": "Why is it difficult to achieve a perfect result with this experiment?",
+      "context": "This, however, Mr. Jones explained, was a perfection of accuracy only attainable in a vacuum, and rarely could be approached where the pendulum had to pass through an atmosphere subject to disturbances; besides, it was difficult to avoid giving it some slight lateral bias at starting.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8762525997352997
+      }
+    },
+    {
+      "question": "What was the purpose of adjusting the point of suspension with delicate nicety?",
+      "context": "In order to obviate this as much as possible, the steel wire was as fine as would bear the weight, ¹⁄₃₀th of an inch thick; and the point of suspension was adjusted with delicate nicety.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8108199939595289
+      }
+    },
+    {
+      "question": "Why was the motion of the pendulum considered a proof of the Earth's diurnal motion?",
+      "context": "Besides the irregularities so often observed in the time and direction of the pendulum vibrations, and which are quite sufficient to render them worthless as evidence of the Earth’s motion, the use which the Newtonian astronomers made of the general fact that the plane of oscillation is variable, was most unfair and illogical.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8150193798449612
+      }
+    },
+    {
+      "question": "What was the author's stance on the idea that the Earth's motion can be proven through observation?",
+      "context": "Besides the irregularities so often observed in the time and direction of the pendulum vibrations, and which are quite sufficient to render them worthless as evidence of the Earth’s motion, the use which the Newtonian astronomers made of the general fact that the plane of oscillation is variable, was most unfair and illogical.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8454457364341086
+      }
+    },
+    {
+      "question": "What can be taken as evidence for the motion of the Earth?",
+      "context": "It cannot therefore be taken as evidence; for that which is inconstant cannot be used in favour of or against any given proposition.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8134501157756973
+      }
+    },
+    {
+      "question": "What principle guides the experimenter to conclude it is the Earth's motion under the pendulum?",
+      "context": "What logical right or necessity forces one conclusion in preference to the other?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7844364937388193
+      }
+    },
+    {
+      "question": "Why was M. Foucault's experiment used to disprove that the Earth does not move underneath the pendulum?",
+      "context": "It therefore is not evidence and proves nothing!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8379360465116279
+      }
+    },
+    {
+      "question": "What principle of reasoning guides the experimenter to conclude that it is the Earth which moves underneath the pendulum, and not the pendulum which moves over the Earth?",
+      "context": "What logical right or necessity forces one conclusion in preference to the other?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09523809523809523,
+        "diversity_score": 0.8133029760936737
+      }
+    },
+    {
+      "question": "Why was Poinsinet de Sivry's discovery important for the construction of a mariner's compass?",
+      "context": "because, provided the motion were continually kept up, the pendulum would continue to oscillate in the same direction, no matter by how many points, or how often the ship might happen to change her course.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.866998892580288
+      }
+    },
+    {
+      "question": "What is the effect of a 'ball-and-socket' joint on the plane of oscillation of a pendulum?",
+      "context": "a “ball-and-socket” joint is one which facilitates circular[154] motion more readily than any other; and that a pendulum so suspended (as was M. Foucault’s), could not, after passing over one arc of vibration, return through the same arc without there being many chances to one that its globular point of suspension would slightly turn or twist in its bed.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8116428145497913
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What event occurred in 1781 regarding Uranus?",
+      "context": "In the year 1781, on March 13, Uranus was discovered by Sir William Herschel, who was examining some small stars near the feet of Gemini;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8768597428860321
+      }
+    },
+    {
+      "question": "Why is it difficult to achieve a perfect result with this experiment?",
+      "context": "This, however, Mr. Jones explained, was a perfection of accuracy only attainable in a vacuum, and rarely could be approached where the pendulum had to pass through an atmosphere subject to disturbances; besides, it was difficult to avoid giving it some slight lateral bias at starting.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8762525997352997
+      }
+    },
+    {
+      "question": "Why was Poinsinet de Sivry's discovery important for the construction of a mariner's compass?",
+      "context": "because, provided the motion were continually kept up, the pendulum would continue to oscillate in the same direction, no matter by how many points, or how often the ship might happen to change her course.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.866998892580288
+      }
+    },
+    {
+      "question": "Why does the observer's perception of the Moon's surface differ from their perception of other natural objects?",
+      "context": "But that anything really similar to the surface of our own world is anywhere visible upon the Moon is altogether fallacious. This is admitted by some of those who have written upon the subject",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8637873754152824
+      }
+    },
+    {
+      "question": "What was the author's stance on the idea that the Earth's motion can be proven through observation?",
+      "context": "Besides the irregularities so often observed in the time and direction of the pendulum vibrations, and which are quite sufficient to render them worthless as evidence of the Earth’s motion, the use which the Newtonian astronomers made of the general fact that the plane of oscillation is variable, was most unfair and illogical.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8454457364341086
+      }
+    }
+  ]
+}

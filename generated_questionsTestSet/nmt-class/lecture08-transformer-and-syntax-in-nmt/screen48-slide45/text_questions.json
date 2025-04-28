@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the network's power when the length of the output increases?",
+      "context": "And you have to realize that by increasing the length of the output, you are effectively increasing the depth of the network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8231534090909091
+      }
+    },
+    {
+      "question": "What is the benefit of using convolutional neural networks for syntax encoding?",
+      "context": "Here's another approach. This is just to highlight that sometimes the syntactic neighborhood can be encoded into the factors of words, not by using some formal tagging mechanisms such as the CCG super tags",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What kind of representations are constructed for each token in this approach?",
+      "context": "So this parse is used for CNN derivation, which will construct compact representations for each token.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8770833333333333
+      }
+    },
+    {
+      "question": "Why does the network produce linguistic information?",
+      "context": "It's not difficult for it to produce. But the benefit actually comes from something else.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8797619047619047
+      }
+    },
+    {
+      "question": "What is the difference between using convolutional neural networks and word factors in syntax encoding?",
+      "context": "And they are combined with the normal word embedding. So this is again like word factors, except that the factors are not learned much.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7940476190476191
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the network's power when the length of the output increases?",
+      "context": "And you have to realize that by increasing the length of the output, you are effectively increasing the depth of the network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8231534090909091
+      }
+    },
+    {
+      "question": "What is the benefit of using convolutional neural networks for syntax encoding?",
+      "context": "Here's another approach. This is just to highlight that sometimes the syntactic neighborhood can be encoded into the factors of words, not by using some formal tagging mechanisms such as the CCG super tags",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What kind of representations are constructed for each token in this approach?",
+      "context": "So this parse is used for CNN derivation, which will construct compact representations for each token.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8770833333333333
+      }
+    },
+    {
+      "question": "Why does the network produce linguistic information?",
+      "context": "It's not difficult for it to produce. But the benefit actually comes from something else.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8797619047619047
+      }
+    }
+  ]
+}

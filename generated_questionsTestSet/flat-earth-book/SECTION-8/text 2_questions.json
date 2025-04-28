@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why does a light appear larger when shining through a dense medium than when seen through a lighter medium?",
+      "context": "SECTION 8. CAUSE OF SUN APPEARING LARGER WHEN RISING AND SETTING THAN WHEN ON THE MERIDIAN.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "How does the amount of atmosphere affect the appearance of the Sun when it is rising or setting?",
+      "context": "SECTION 8. CAUSE OF SUN APPEARING LARGER WHEN RISING AND SETTING THAN WHEN ON THE MERIDIAN.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What is the reason for the apparent enlargement of the Sun's size when it rises and sets?",
+      "context": "[10] “Million of Facts,” by Sir Richard Philips, p. 537.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6
+      }
+    },
+    {
+      "question": "How does the 'habit of sight' affect our perception of angles near the horizon?",
+      "context": "[10] “Million of Facts,” by Sir Richard Philips, p. 537.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6208333333333333
+      }
+    },
+    {
+      "question": "What is the actual measurement of the Sun's angle when it appears large to the eye in the horizon compared to its angle in the meridian?",
+      "context": "[10] “Million of Facts,” by Sir Richard Philips, p. 537.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.6263157894736842
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why does a light appear larger when shining through a dense medium than when seen through a lighter medium?",
+      "context": "SECTION 8. CAUSE OF SUN APPEARING LARGER WHEN RISING AND SETTING THAN WHEN ON THE MERIDIAN.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8083333333333333
+      }
+    },
+    {
+      "question": "How does the amount of atmosphere affect the appearance of the Sun when it is rising or setting?",
+      "context": "SECTION 8. CAUSE OF SUN APPEARING LARGER WHEN RISING AND SETTING THAN WHEN ON THE MERIDIAN.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What is the reason for the apparent enlargement of the Sun's size when it rises and sets?",
+      "context": "[10] “Million of Facts,” by Sir Richard Philips, p. 537.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6
+      }
+    }
+  ]
+}

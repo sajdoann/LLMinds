@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the goal of the thesis, according to the author?",
+      "context": "The introduction of the document, where the author explains the problem with speech recognition and machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7371031746031746
+      }
+    },
+    {
+      "question": "Why did the machine translation system translate 'twofold' as 'to fall apart'?",
+      "context": "The explanation of how the machine translation system worked, where it is mentioned that 'the final of the machine translation output has no other information to consider'.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7263257575757576
+      }
+    },
+    {
+      "question": "What would happen if a person's speech contained repeated positive statements followed by a negative statement?",
+      "context": "The explanation of how the machine translation system might produce errors, where it is mentioned that 'errors are going to be much more severe than the errors in machine translation alone'.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7740740740740741
+      }
+    },
+    {
+      "question": "What does the author believe is necessary for end users to use speech recognition and machine translation systems correctly?",
+      "context": "The conclusion of the document, where it is mentioned that 'the end user should rely on much larger context to get the full message correctly'.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7525743707093822
+      }
+    },
+    {
+      "question": "What was the author's original intention when using a speech recognition system?",
+      "context": "The explanation of how the speech recognition system worked, where it is mentioned that 'the words that are recognized are related, they are very similar to the words that were actually uttered'.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6904166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the goal of the thesis, according to the author?",
+      "context": "The introduction of the document, where the author explains the problem with speech recognition and machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7371031746031746
+      }
+    },
+    {
+      "question": "What does the author believe is necessary for end users to use speech recognition and machine translation systems correctly?",
+      "context": "The conclusion of the document, where it is mentioned that 'the end user should rely on much larger context to get the full message correctly'.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7525743707093822
+      }
+    },
+    {
+      "question": "Why did the machine translation system translate 'twofold' as 'to fall apart'?",
+      "context": "The explanation of how the machine translation system worked, where it is mentioned that 'the final of the machine translation output has no other information to consider'.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7263257575757576
+      }
+    },
+    {
+      "question": "What would happen if a person's speech contained repeated positive statements followed by a negative statement?",
+      "context": "The explanation of how the machine translation system might produce errors, where it is mentioned that 'errors are going to be much more severe than the errors in machine translation alone'.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7740740740740741
+      }
+    },
+    {
+      "question": "What was the author's original intention when using a speech recognition system?",
+      "context": "The explanation of how the speech recognition system worked, where it is mentioned that 'the words that are recognized are related, they are very similar to the words that were actually uttered'.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6904166666666667
+      }
+    }
+  ]
+}

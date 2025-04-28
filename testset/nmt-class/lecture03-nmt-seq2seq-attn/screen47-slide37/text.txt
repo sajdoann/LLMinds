@@ -1,0 +1,1 @@
+ So in the end you're just taking the negative log of the word that was expected and you search for the probability of the word that you are expecting in your softmax output and you take the negative log of that and that is the loss incurred at this position. So this is nice, this is easy.

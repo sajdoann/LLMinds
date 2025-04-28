@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the best-performing model according to the BLEU score?",
+      "context": "So here is some results of the many probes that we did.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What type of attention model achieves the best performance?",
+      "context": "So the best performance in terms of BLEU score is achieved by the standard normal attention model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7152777777777778
+      }
+    },
+    {
+      "question": "What is the specific type of attention mentioned?",
+      "context": "And...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65625
+      }
+    },
+    {
+      "question": "Is the performance based on any other metric besides BLEU score?",
+      "context": "So here is some results of the many probes that we did.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7310606060606061
+      }
+    },
+    {
+      "question": "What type of model achieves the best performance according to the context?",
+      "context": "And...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6704545454545454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of model achieves the best performance according to the context?",
+      "context": "And...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6704545454545454
+      }
+    },
+    {
+      "question": "Is the performance based on any other metric besides BLEU score?",
+      "context": "So here is some results of the many probes that we did.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7310606060606061
+      }
+    },
+    {
+      "question": "What type of attention model achieves the best performance?",
+      "context": "So the best performance in terms of BLEU score is achieved by the standard normal attention model.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7152777777777778
+      }
+    }
+  ]
+}

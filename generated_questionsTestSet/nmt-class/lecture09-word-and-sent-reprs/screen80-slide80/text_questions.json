@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of using multiple heads in the inner attention mechanism?",
+      "context": "called the inner attention. So if you want to somehow give the system the flexibility to look at various inputs, various parts of the input sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6934523809523809
+      }
+    },
+    {
+      "question": "How does the decoder use the attention mechanism in a static way?",
+      "context": "You will use it only once before the decoder starts. So you will have the matrices that we have discussed in the transformer architecture",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8169856459330144
+      }
+    },
+    {
+      "question": "What is the effect of specifying a fixed number of views for the sentence?",
+      "context": "And then you specify upfront that you want to have four views of the sentence. And then you calculate these four views each with a separate",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What is being used in place of other attention mechanisms?",
+      "context": "But you will use this attention in a static way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "Why is it necessary to calculate the views separately?",
+      "context": "So if you want to somehow give the system the flexibility to look at various inputs, various parts of the input sentence",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7152777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of using multiple heads in the inner attention mechanism?",
+      "context": "called the inner attention. So if you want to somehow give the system the flexibility to look at various inputs, various parts of the input sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6934523809523809
+      }
+    },
+    {
+      "question": "How does the decoder use the attention mechanism in a static way?",
+      "context": "You will use it only once before the decoder starts. So you will have the matrices that we have discussed in the transformer architecture",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8169856459330144
+      }
+    },
+    {
+      "question": "Why is it necessary to calculate the views separately?",
+      "context": "So if you want to somehow give the system the flexibility to look at various inputs, various parts of the input sentence",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7152777777777778
+      }
+    }
+  ]
+}

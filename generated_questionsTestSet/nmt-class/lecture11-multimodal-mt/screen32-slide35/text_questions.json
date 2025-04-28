@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some potential issues with placing an object in relation to a person's mouth, hand, and body?",
+      "context": "They could put it too close to their mouth. They could put it too far from their mouth or too far below their hand.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6097222222222223
+      }
+    },
+    {
+      "question": "What is the implication of placing an object 'too close' to a person's mouth?",
+      "context": "They could put it too close to their mouth.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5773809523809524
+      }
+    },
+    {
+      "question": "How would one determine if an object placement is within the acceptable range?",
+      "context": "They could put it too far from their mouth or too far below their hand.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of object placement in relation to a person's mouth, hand, and body?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7960526315789473
+      }
+    },
+    {
+      "question": "Is there any specific guidance or recommendation provided on how to position an object in relation to a person's mouth, hand, and body?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8238636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some potential issues with placing an object in relation to a person's mouth, hand, and body?",
+      "context": "They could put it too close to their mouth. They could put it too far from their mouth or too far below their hand.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6097222222222223
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of object placement in relation to a person's mouth, hand, and body?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7960526315789473
+      }
+    },
+    {
+      "question": "What is the implication of placing an object 'too close' to a person's mouth?",
+      "context": "They could put it too close to their mouth.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5773809523809524
+      }
+    },
+    {
+      "question": "Is there any specific guidance or recommendation provided on how to position an object in relation to a person's mouth, hand, and body?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8238636363636364
+      }
+    }
+  ]
+}

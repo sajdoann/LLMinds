@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is parallel text used for?",
+      "context": "For the log-linear model, if you don't like equations, then the idea is that you have parallel text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How is the translation model derived?",
+      "context": "From this you derive the translation model, which is the conditional probability, the first one.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What type of text do you use to derive the language model?",
+      "context": "And then you have monolingual text, and from this you derive the language model...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "What is the purpose of using both translation and language models?",
+      "context": "So that's the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "What is the log-linear model used for?",
+      "context": "For the log-linear model, if you don't like equations, then the idea is that you have parallel text.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5982142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is parallel text used for?",
+      "context": "For the log-linear model, if you don't like equations, then the idea is that you have parallel text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the purpose of using both translation and language models?",
+      "context": "So that's the...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8636363636363636
+      }
+    },
+    {
+      "question": "How is the translation model derived?",
+      "context": "From this you derive the translation model, which is the conditional probability, the first one.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7083333333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the constraints on extracting phrases in SYNCHRONS 3 substitution grammars?",
+      "context": "The idea that you as your input have not only the sentence and word alignments but also the trees of the source and target sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7395833333333334
+      }
+    },
+    {
+      "question": "Why did experimental results show that sometimes the hierarchical model was better, while other times the phrase-based model was better?",
+      "context": "Experimental results showing that for various language pairs sometimes the hierarchical model was better, sometimes the phrase-based model was better and the syntactic model was most often worse.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6875,
+        "diversity_score": 0.8074229691876751
+      }
+    },
+    {
+      "question": "What is the main reason why the syntactic model performed poorly compared to other models?",
+      "context": "The statement that the syntactic model was most often worse.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6984126984126984
+      }
+    },
+    {
+      "question": "How do the phrase-based model and hierarchical model compare in terms of performance across different language pairs?",
+      "context": "The comparison between the hierarchical model and phrase-based model in experimental results.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "Why were fewer phrases extracted using SYNCHRONS 3 substitution grammars compared to previous models?",
+      "context": "The idea that you as your input have not only the sentence and word alignments but also the trees of the source and target sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7529761904761905
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why were fewer phrases extracted using SYNCHRONS 3 substitution grammars compared to previous models?",
+      "context": "The idea that you as your input have not only the sentence and word alignments but also the trees of the source and target sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7529761904761905
+      }
+    },
+    {
+      "question": "Why did experimental results show that sometimes the hierarchical model was better, while other times the phrase-based model was better?",
+      "context": "Experimental results showing that for various language pairs sometimes the hierarchical model was better, sometimes the phrase-based model was better and the syntactic model was most often worse.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6875,
+        "diversity_score": 0.8074229691876751
+      }
+    },
+    {
+      "question": "How do the phrase-based model and hierarchical model compare in terms of performance across different language pairs?",
+      "context": "The comparison between the hierarchical model and phrase-based model in experimental results.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7875
+      }
+    }
+  ]
+}

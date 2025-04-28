@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two main ways to address the memory of a neural Turing machine?",
+      "context": "The neural turing machine needs to address the memory somehow",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7390873015873016
+      }
+    },
+    {
+      "question": "How can the memory be used or addressed in relation to its content?",
+      "context": "memory can be addressed or used to be addressed either by position or by content",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "What is an example of how a neural Turing machine uses the memory to address similar items?",
+      "context": "this similarity / searching for similar items in the memory and this similarity",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.767379679144385
+      }
+    },
+    {
+      "question": "How does a neural Turing machine search for similar items in its memory?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "What is the purpose of addressing or using the memory of a neural Turing machine?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7884615384615384
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two main ways to address the memory of a neural Turing machine?",
+      "context": "The neural turing machine needs to address the memory somehow",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7390873015873016
+      }
+    },
+    {
+      "question": "How does a neural Turing machine search for similar items in its memory?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "How can the memory be used or addressed in relation to its content?",
+      "context": "memory can be addressed or used to be addressed either by position or by content",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "What is the purpose of addressing or using the memory of a neural Turing machine?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7884615384615384
+      }
+    }
+  ]
+}

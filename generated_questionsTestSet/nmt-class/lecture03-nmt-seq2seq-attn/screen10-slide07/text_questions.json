@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the backpropagation algorithm in training deep neural networks?",
+      "context": "para until to create like bottles in the network and then change a representation to something white again.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7689950980392157
+      }
+    },
+    {
+      "question": "How does the loss function specify how far the output is from the expected output?",
+      "context": "And if the expected output does not match, then. There is the backpropagation algorithm and we are not going to these details of training of deep neural networks, but the backpropagation algorithm will tell you exactly how to update the weights so that the output vector is closer to the expected output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8088400900900901
+      }
+    },
+    {
+      "question": "What type of computation structure does a feedforward neural network use?",
+      "context": "So the idea is that you construct the computation structure you specify how many matrices should there be and what the functionality functions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6909090909090909
+      }
+    },
+    {
+      "question": "How are the weights of a feedforward neural network updated during training?",
+      "context": "And this derivation will tell you in which direction you should change all the weights so that you are getting closer to that.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6383928571428571
+      }
+    },
+    {
+      "question": "What is the primary goal of a neural network during training?",
+      "context": "So essentially you need to derive, you need to calculate the derivative of all the parameters with respect to some loss function and this loss function specifies how far are you, what is the error penalty or whatever that you are getting, how far is your current output from the expected output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6755382775119617
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary goal of a neural network during training?",
+      "context": "So essentially you need to derive, you need to calculate the derivative of all the parameters with respect to some loss function and this loss function specifies how far are you, what is the error penalty or whatever that you are getting, how far is your current output from the expected output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6755382775119617
+      }
+    },
+    {
+      "question": "How does the loss function specify how far the output is from the expected output?",
+      "context": "And if the expected output does not match, then. There is the backpropagation algorithm and we are not going to these details of training of deep neural networks, but the backpropagation algorithm will tell you exactly how to update the weights so that the output vector is closer to the expected output.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8088400900900901
+      }
+    },
+    {
+      "question": "What type of computation structure does a feedforward neural network use?",
+      "context": "So the idea is that you construct the computation structure you specify how many matrices should there be and what the functionality functions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.6909090909090909
+      }
+    },
+    {
+      "question": "How are the weights of a feedforward neural network updated during training?",
+      "context": "And this derivation will tell you in which direction you should change all the weights so that you are getting closer to that.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6383928571428571
+      }
+    }
+  ]
+}

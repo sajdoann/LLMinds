@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the task that is being described in the document?",
+      "context": "The introduction paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "What does 'consult your phrase tables' mean in the context of machine translation?",
+      "context": "The sentence describing how MT works",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7900641025641025
+      }
+    },
+    {
+      "question": "How does the document suggest that translations should be considered when translating a phrase?",
+      "context": "The sentence comparing longer and shorter translations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8482142857142857
+      }
+    },
+    {
+      "question": "What is being translated from in this example (Janich going home)?",
+      "context": "The input sequence of words at the beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "How does the speaker's task relate to the concept of phrase tables?",
+      "context": "The introductory statement about consulting phrase tables",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8262987012987013
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being translated from in this example (Janich going home)?",
+      "context": "The input sequence of words at the beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8693181818181819
+      }
+    },
+    {
+      "question": "How does the speaker's task relate to the concept of phrase tables?",
+      "context": "The introductory statement about consulting phrase tables",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8262987012987013
+      }
+    },
+    {
+      "question": "What does 'consult your phrase tables' mean in the context of machine translation?",
+      "context": "The sentence describing how MT works",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7900641025641025
+      }
+    },
+    {
+      "question": "How does the document suggest that translations should be considered when translating a phrase?",
+      "context": "The sentence comparing longer and shorter translations",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8482142857142857
+      }
+    }
+  ]
+}

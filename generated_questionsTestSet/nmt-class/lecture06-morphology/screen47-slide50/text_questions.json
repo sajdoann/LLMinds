@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when morphological tags are added to a system that operates on word forms?",
+      "context": "The target side morphological tags actually increase the complexity of the search.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "Why is it necessary to specify the case for words like zelené?",
+      "context": "You have to say that zelené can be genitive, dative or nominative.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What effect does adding morphological tags have on the number of translation options?",
+      "context": "The ambiguity was collapsing the part of the search space. So there is a trade-off.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "What happens if the trade-off between complexity and power to select good combinations is not balanced?",
+      "context": "If the trade-off is not balanced well, if the complexity grows too much and the language model on tags does not like make use of this, then you are going to lose.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8738839285714286
+      }
+    },
+    {
+      "question": "What problem can arise when a system uses morphological tags that do not lead to useful results?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8897058823529411
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What problem can arise when a system uses morphological tags that do not lead to useful results?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8897058823529411
+      }
+    },
+    {
+      "question": "What effect does adding morphological tags have on the number of translation options?",
+      "context": "The ambiguity was collapsing the part of the search space. So there is a trade-off.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "Why is it necessary to specify the case for words like zelené?",
+      "context": "You have to say that zelené can be genitive, dative or nominative.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What happens if the trade-off between complexity and power to select good combinations is not balanced?",
+      "context": "If the trade-off is not balanced well, if the complexity grows too much and the language model on tags does not like make use of this, then you are going to lose.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8738839285714286
+      }
+    }
+  ]
+}

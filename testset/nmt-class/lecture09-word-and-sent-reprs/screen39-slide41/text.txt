@@ -1,0 +1,1 @@
+ But can we actually stuff the meaning of a whole sentence into a single fixed size vector? Well, Raymond Moody says that obviously this is not possible. And yes, there is problems. And you know that attention-based systems perform much better because this is exactly the bottleneck that they are not suffering from. They attend to all the words in the source sentence as they go.

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main source of the slides?",
+      "context": "So now let's look at the slides which essentially come from what Philip Kahn has presented at MT Marathon more than 10 years ago",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What is being experimented with in relation to the model?",
+      "context": "and as decoding how to translate with this model and then some experiments with that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Why are the slides from more than 10 years ago?",
+      "context": "So now let's look at the slides which essentially come from what Philip Kahn has presented at MT Marathon more than 10 years ago",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is being tested in relation to translating with the model?",
+      "context": "and as decoding how to translate with this model and then some experiments with that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Why are the questions about the document's content somewhat open-ended, while the answers can be directly inferred?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are the slides from more than 10 years ago?",
+      "context": "So now let's look at the slides which essentially come from what Philip Kahn has presented at MT Marathon more than 10 years ago",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What is being tested in relation to translating with the model?",
+      "context": "and as decoding how to translate with this model and then some experiments with that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "What is being experimented with in relation to the model?",
+      "context": "and as decoding how to translate with this model and then some experiments with that.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    }
+  ]
+}

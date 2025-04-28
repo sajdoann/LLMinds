@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of comparisons are being made in the pairwise judgments?",
+      "context": "Well, we do this simulated pairwise thing actually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8167613636363636
+      }
+    },
+    {
+      "question": "How many pairwise judgments does a screen create for four systems?",
+      "context": "one screen here creates six pairwise judgments because it's four systems and if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6758373205741627
+      }
+    },
+    {
+      "question": "What would be the case if you had five systems, according to the document?",
+      "context": "if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6576923076923077
+      }
+    },
+    {
+      "question": "How does the pairwise comparison for system A with each of the other systems relate to the judgments?",
+      "context": "A is compared with B and it is better. A is compared with C and it is better. A is compared with D and it is better and so on.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8347355769230769
+      }
+    },
+    {
+      "question": "What can be inferred about the number of pairwise comparisons for more than four systems?",
+      "context": "one screen here creates six pairwise judgments because it's four systems and if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.656140350877193
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of comparisons are being made in the pairwise judgments?",
+      "context": "Well, we do this simulated pairwise thing actually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8167613636363636
+      }
+    },
+    {
+      "question": "How does the pairwise comparison for system A with each of the other systems relate to the judgments?",
+      "context": "A is compared with B and it is better. A is compared with C and it is better. A is compared with D and it is better and so on.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8347355769230769
+      }
+    },
+    {
+      "question": "What would be the case if you had five systems, according to the document?",
+      "context": "if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.6576923076923077
+      }
+    },
+    {
+      "question": "What can be inferred about the number of pairwise comparisons for more than four systems?",
+      "context": "one screen here creates six pairwise judgments because it's four systems and if you have five systems it creates ten pairwise comparisons.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.656140350877193
+      }
+    }
+  ]
+}

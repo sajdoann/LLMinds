@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is a norm projectivity, and how does it differ from other instances of crossing brackets?",
+      "context": "The first paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5729166666666667
+      }
+    },
+    {
+      "question": "In Dutch syntax, what is the preferred word order for subjects and predicates in a cross-serial dependency?",
+      "context": "The second paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5572916666666667
+      }
+    },
+    {
+      "question": "What is the difference between a projective tree and a non-projective tree?",
+      "context": "The third paragraph",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5303030303030303
+      }
+    },
+    {
+      "question": "Why are context-free grammars limited in their ability to represent certain types of linguistic structures?",
+      "context": "The fourth paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6333333333333333
+      }
+    },
+    {
+      "question": "What technical device allows for the representation of trees with at most one gap and nestedness, beyond the capabilities of context-free grammar?",
+      "context": "The fifth paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "In Dutch syntax, what is the preferred word order for subjects and predicates in a cross-serial dependency?",
+      "context": "The second paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5572916666666667
+      }
+    },
+    {
+      "question": "What technical device allows for the representation of trees with at most one gap and nestedness, beyond the capabilities of context-free grammar?",
+      "context": "The fifth paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5916666666666667
+      }
+    },
+    {
+      "question": "What is a norm projectivity, and how does it differ from other instances of crossing brackets?",
+      "context": "The first paragraph",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5729166666666667
+      }
+    }
+  ]
+}

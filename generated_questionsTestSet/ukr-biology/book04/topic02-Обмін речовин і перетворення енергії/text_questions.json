@@ -1,0 +1,1348 @@
+{
+  "all_questions": [
+    {
+      "question": "Which groups of organic compounds exist in living organisms?",
+      "context": "Білки за їхнім складом можна розділити на дві великі групи — прості та складні.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9138515805182472
+      }
+    },
+    {
+      "question": "What is the main difference between organic and inorganic compounds?",
+      "context": "Чим відрізняються неорганічні речовин від органічних?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8435897435897436
+      }
+    },
+    {
+      "question": "What is the main function of fibroblast cells?",
+      "context": "Білків у живих організмах дуже багато, і виконують вони в них різноманітні функції.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7588757396449703
+      }
+    },
+    {
+      "question": "What are polysaccharides?",
+      "context": "Полісахариди є складними органічними сполуками, до складу молекул яких входять кілька груп: гідроксильна (–OH), карбоксильна (–COOH) або карбонільна (–COH).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8167641325536062
+      }
+    },
+    {
+      "question": "What are the main functions of lipids in living organisms?",
+      "context": "Основними функціями ліпідів у живих організмах є структурна, захисна, регуляторна, резервна, пластична й енергетична.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.815995115995116
+      }
+    },
+    {
+      "question": "What is the main function of steroids?",
+      "context": "Основними функціями ліпідів у живих організмах є структурна, захисна, регуляторна, резервна, пласична й енергетична.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7426739926739927
+      }
+    },
+    {
+      "question": "What are the main components of RNA and DNA molecules?",
+      "context": "Головною функцією нуклеїнових кислот є робота зі спадковою інформуванням, а саме: її зберігання, передача та реалізація.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8449252136752137
+      }
+    },
+    {
+      "question": "What is the biological role of carbohydrates?",
+      "context": "Вуглеводи: • Хітин є основою зо-",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7688237688237689
+      }
+    },
+    {
+      "question": "What is the function of phospholipids in cell membranes?",
+      "context": "Фосфоліпіди є осно-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7792022792022792
+      }
+    },
+    {
+      "question": "What is the difference between a closed and an open system?",
+      "context": "Що таке замкнена система? Що таке незамкнена система?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8765345765345766
+      }
+    },
+    {
+      "question": "What is exchange of substances and energy in biological systems?",
+      "context": "Живі організми загалом і їхні клітини зокрема є біологічними системами, елементи яких об’єднані спільним обміном речовин та перетворенням енергії.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8382366171839857
+      }
+    },
+    {
+      "question": "What is the purpose of the ATP molecule in cellular metabolism?",
+      "context": "...запасається вона у вигляді різних хімічних сполук, ..., Частина енергії не використовується організмом і виділяється у навколишнє середовище в якості тепла.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8034188034188035
+      }
+    },
+    {
+      "question": "What are the two main groups of cellular organelles?",
+      "context": "Organelli podiлюють на дві великі групи — мембранні й немембранні.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8244064577397912
+      }
+    },
+    {
+      "question": "Which organelle is the most important for protein synthesis?",
+      "context": "До найбільш важливих відносять рибосоми (немембранні органели), ядро, мітохондрії і плястиди (двомембранні) та ендоплазматичну сітку і комплекс Гольджі (одномембранні).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8995726495726496
+      }
+    },
+    {
+      "question": "What is the function of mitochondria in cellular metabolism?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7996201329534662
+      }
+    },
+    {
+      "question": "What is the main function of ribosomes?",
+      "context": "Рибосоми синтезують білки з аміно-\nкислот. вони мають складну фор-\nму і складаються з двох частин (суб-\nодиниць) — великої та малої, —\n які\nможуть розпадатися й об’єднуватися \nзнову.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7464387464387464
+      }
+    },
+    {
+      "question": "What is the difference between eukaryotic and prokaryotic ribosomes?",
+      "context": "Рибосоми прокаріотичного типу містяться в клітинах\nпрокаріотів, а також у мітохондріях і пластидах. А рибосоми еукаріотичного\nтипу — у клітках еукаріотів, у цитоплазмі та на ендоплазматичній сітці.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8316498316498316
+      }
+    },
+    {
+      "question": "What is the role of plastids in plants?",
+      "context": "Пластиди здійснюють процес фотосинтезу. вони синтезують необхідні для цього\nпроцесу білки. Можуть забезпечувати забарв-\nлення органів рослин і накопичувати резервні\nречовини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7745217745217745
+      }
+    },
+    {
+      "question": "What is the main function of chloroplasts?",
+      "context": "They can provide coloration to organs of plants and accumulate reserve substances.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7588013838013838
+      }
+    },
+    {
+      "question": "What type of transport are used for transporting products synthesized in the endoplasmic reticulum?",
+      "context": "Везикули можуть як зливатися з цистернами комплексу Гольджі, так і виокремлюватися від них.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8690241382549075
+      }
+    },
+    {
+      "question": "What is the main function of the endoplasmic reticulum?",
+      "context": "Основна функція гранулярної ендоплазматичної сітки — синтез білків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7852564102564102
+      }
+    },
+    {
+      "question": "What is the main function of the Golgi complex?",
+      "context": "Ця структура відповідає за модифікацію білків, упаковування синтезованих продуктів у гранули...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7808857808857809
+      }
+    },
+    {
+      "question": "What is the primary function of the cytoskeleton in cellular processes?",
+      "context": "Цитоскелет у процесах метаболізму виконує важливу транспортну функцію.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8069444444444445
+      }
+    },
+    {
+      "question": "What is the result of cellular respiration in terms of energy production for living organisms?",
+      "context": "Результатом клітинного дихання є запасання клітиюєnergії у вигляді макроергічного зв’язку молекул АТФ.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8463064713064713
+      }
+    },
+    {
+      "question": "What is the purpose of ATP molecules in cellular functions?",
+      "context": "Функції молекул АТФ виконують такі функції: передача сигналів із зовнішнього середовища до ядра клітини і назад.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8142628205128205
+      }
+    },
+    {
+      "question": "What is the difference between aerobic and anaerobic cellular respiration?",
+      "context": "Кисневий етап може відбуватися не завжди й не в усіх живих організмах (не відбувається, наприклад, у анаеробів).",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8394764957264957
+      }
+    },
+    {
+      "question": "What is the main energy source for cellular respiration?",
+      "context": "The process of cellular respiration involves the breakdown of complex organic matter into simpler substances, including glucose, which is then converted into ATP.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8331671415004749
+      }
+    },
+    {
+      "question": "What happens to the electrons in the dithiothreitol (DTT) cycle during cellular respiration?",
+      "context": "The electrons from the DTT cycle are passed through a series of electron carriers, ultimately resulting in the production of ATP.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.899928774928775
+      }
+    },
+    {
+      "question": "What type of cells can undergo anaerobic cellular respiration?",
+      "context": "Anaerobic cellular respiration does not require oxygen and can occur in cells such as yeast and some bacteria.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.902659069325736
+      }
+    },
+    {
+      "question": "What is the result of fermentation?",
+      "context": "У результаті с пиртового бродіння утворюються молекули етило-\nвого спирту, води й вуглекислого газу,  молочнокислого — молочна\nкислота, оцтовокислого — оцтова кислота",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.742979242979243
+      }
+    },
+    {
+      "question": "What is the key link in the process of cellular respiration?",
+      "context": "Ключовою ланкою процесу клітинного дихання, яка відбуваєть-\nся під час його другого етапу, є цикл Кребса",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8158119658119658
+      }
+    },
+    {
+      "question": "What is the overall formula for biological oxidation?",
+      "context": "Загальна формула біологічного окиснення: C 6 H 12 O 6 + 6O 2 →\n   6CO 2 + 6H 2 O + 38АТФ",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.844551282051282
+      }
+    },
+    {
+      "question": "What is ATP?",
+      "context": "6CO2 + 6H2O + 38ATФ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7482193732193732
+      }
+    },
+    {
+      "question": "Are all organisms autotrophic or heterotrophic?",
+      "context": "гетеротрофні Organisms не можуть утворювати органічні речовини з неорганічних.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9527540360873694
+      }
+    },
+    {
+      "question": "What is the main source of energy for all living organisms?",
+      "context": "основним джерелом енергії для всіх організмів є окиснення органічних молекул, що може відбуватися як з використанням кисню, так і без нього.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8163133163133163
+      }
+    },
+    {
+      "question": "What is the relationship between autotrophic and heterotrophic organisms in terms of energy production?",
+      "context": "як ви вже вивчали раніше, гетеротрофні організми не можуть утворювати органічні речовини з неорганічних. вони отримують їх від інших живих організмів у формі їжі, яку споживають.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8450267681036912
+      }
+    },
+    {
+      "question": "What is the main difference between autotrophic and heterotrophic organisms in terms of energy production?",
+      "context": "Основним джерелом енергії для всіх організмів є окиснення органічних молекул, що може відбуватися як з використанням кисню, так і без нього.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8398046398046398
+      }
+    },
+    {
+      "question": "What is the main source of energy for autotrophs?",
+      "context": "Фізичним джерелом енергії є випромінення Сонця.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7924976258309592
+      }
+    },
+    {
+      "question": "How do heterotrophic organisms synthesize amino acids?",
+      "context": "Деякі з амінокислот гетеротрофні організми можуть синтезувати себе самостійно. Для цього вони використовують енергію, отриману під час окиснення спожитих органічних сполук.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9725274725274725
+      }
+    },
+    {
+      "question": "What is the result of the process of photosynthesis?",
+      "context": "У результаті фотосинтезу з вугле-кислого газу й води за допомогою сонячної енергії утворюється глюкоза:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7649572649572649
+      }
+    },
+    {
+      "question": "What are the two main phases of photosynthesis?",
+      "context": "Цей процес складається з двох основних фаз — світлової й темнової.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8097804972804973
+      }
+    },
+    {
+      "question": "What is the process called when non-organic molecules are converted into organic ones using chemical reactions that utilize energy from these reactions?",
+      "context": "Віноді відбуватися лише у клітинах мікроорганізмів (мал. 18.3). Основу процесу хемосинтезу складають реакції окиснення водню або сполук Нітрогену, Феруму чи Сульфуру.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9262774262774263
+      }
+    },
+    {
+      "question": "What is the name of the process that occurs in living organisms where non-living molecules are converted into organic ones?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9001349527665317
+      }
+    },
+    {
+      "question": "Which type of reaction do ferments catalyze?",
+      "context": "Ферменти каталізують різні реакції, зокрема окисно-відновні реакції, перенесення функціональної групи та гідролази.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9381174381174381
+      }
+    },
+    {
+      "question": "What is the main function of ferments?",
+      "context": "Ферменти виконують функцію каталізу, тобто змінюють швидкість хімічних реакцій.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.760344593677927
+      }
+    },
+    {
+      "question": "Which enzyme is responsible for breaking down hydrogen peroxide in human cells?",
+      "context": "Фермент каталaza розщеплює в клітинах організму людини отруйний для них гідроген пероксид на воду й кисень.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9202279202279202
+      }
+    },
+    {
+      "question": "What is the name of the most abundant enzyme in all photosynthetic organisms?",
+      "context": "Найбільш поширеним ферментом на нашій планеті є рибулозо-біспфосфаткарбоксилаза (скорочено RuBisCo), який каталізує реакцію фіксації СО2 в циклі Кальвіна.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416429249762583
+      }
+    },
+    {
+      "question": "What is a cofactor?",
+      "context": "Ця сполука (її називають  кофактором ) приєднується до ферменту й також бере участь у процесі каталізу реакції.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7909125188536953
+      }
+    },
+    {
+      "question": "What is a regulator of enzyme activity?",
+      "context": "до цих ділянок приєднуються молекули речовин-регуляторів. після цього просторова структура молекули ферменту змінюється і, відповідно, змінюється швидкість його роботи.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8378582202111614
+      }
+    },
+    {
+      "question": "Відомий фермент, який був у предках змій і отримав токсичні властивості після мутацій, що дуплікувався та мутувався",
+      "context": "його введення в тіло жертви робило процес травлення швидшим, томущо в кишечнику ферменти діяли на тіло жертви і ззовнішні.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.981586224233283
+      }
+    },
+    {
+      "question": "Чим повинні бути коферменти для того, щоб деякі ферменти виконували свої функції?",
+      "context": "Чому без приєднання коферменту деякі ферменти не можуть виконувати свої функції?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.991064491064491
+      }
+    },
+    {
+      "question": "What are chitinases?",
+      "context": "нів хітиназ — ферментів, які розщеплюють хітин у травній системі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8044159544159544
+      }
+    },
+    {
+      "question": "What is the role of vitamins in metabolism?",
+      "context": ".Обмін речовин і перетворення енергії<br>Vітаміни… Жиророзчинні … А, D, E, K<br>Водорозчинні … C, PP, В 1 , В 12 , В 6 , В 2",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7647323436797121
+      }
+    },
+    {
+      "question": "How do vitamins affect the body?",
+      "context": ".Обмін речовин і перетворення енергії<br>Vітаміни… Жиророзчинні вітаміни виводи-ти з організму набагато важче.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8906695156695157
+      }
+    },
+    {
+      "question": "What is the relationship between vitamins and selenium?",
+      "context": "Обмін вітамінів може бути пов’язаний з обміном мінеральних ре-човин або інших вітамінів. Наприклад, на засвоєння вітамінів А, С, Е і К позитивно впливає наявність йонів Селену.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8251282051282052
+      }
+    },
+    {
+      "question": "What is the relationship between vitamin C and its transport?",
+      "context": "Слід зазначити, що проблеми з вітамінами в організмі можуть ви-никати не тільки через їх недостатнє або надмірне надходження. У деяких випадках організм стає неспроможним засвоювати вітаміни … Вітамін Соміже стати при-чиною порушення процесів метабо-лізму.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8550276520864756
+      }
+    },
+    {
+      "question": "What are endogenous lipovitaminoses?",
+      "context": "воювати вітаміни (так звані ендогенні гіповітамінози). це може статися через підвищен-ня кислотності шлункового соку, порушення утворення транспортних білків, порушення виділення жовчі тощо.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8655881155881155
+      }
+    },
+    {
+      "question": "What is the role of vitamins in metabolism?",
+      "context": "Вітаміни є достатньо великою групою речовин (організм людини potrzeбує надходження як мінімум 13 вітамінів), і виконують вони різноманітні функції у метаболічних процесах організму.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7599405425492383
+      }
+    },
+    {
+      "question": "What are minerals in the human body?",
+      "context": "Мінеральні речовини в організмі — це окремі низькомолекулярні мікроелементи, солі та йони солей, які підтримують нормальне функціонування організму.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8018247184913851
+      }
+    },
+    {
+      "question": "What is the function of ions in metabolism?",
+      "context": "Мінеральні речовини можуть перебуватися в організмі як у розчиненій формі (у вигляді йонів), так і в нерозчиненому вигляді.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7515711412770236
+      }
+    },
+    {
+      "question": "How do minerals enter the human body?",
+      "context": "Мінеральні речовини надходять в організм людини переважно з їжею і водою, тому є незамінними компонентами живлення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8836614774114774
+      }
+    },
+    {
+      "question": "What minerals are essential components of human nutrition?",
+      "context": "Мінеральні речовини надходять в організм людини переважно з їжею і водою, тому є незамінними компонентами живлення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8501602564102564
+      }
+    },
+    {
+      "question": "What are the consequences of a severe iodine deficiency?",
+      "context": "Порушення обміну Йоду. НестачаЙоду. Йододефіцит, розвиток зобу, порушення роботи щитоподібної залози, затримка росту, послаблення імунітету, кретинізм",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8558404558404559
+      }
+    },
+    {
+      "question": "What are the symptoms of a calcium deficiency?",
+      "context": "Порушення обміну Кальцію. Розвиток остеопорозу, підвищена хрупкість кісток",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    },
+    {
+      "question": "What is the role of estrogen in calcium metabolism?",
+      "context": "Підвищений рівень потреб у Кальції під час вагітності, нестача сполук Кальцію в раціоні, зловживання гормональними препаратами",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7909247388414056
+      }
+    },
+    {
+      "question": "How does the body regulate mineral exchange?",
+      "context": "Обмін мінеральних речовин в організмі точно врівноважується кількістю солей, що виділяється з організму.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.907861369399831
+      }
+    },
+    {
+      "question": "What is Manganeum?",
+      "context": "Нестача Ман-\nгану, Затримка росту, недороз-\nвинення гонад, порушен-\nня зсідання крові, пору-\nшення в роботі нервової \nсистеми, судоми",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7420902684060579
+      }
+    },
+    {
+      "question": "What are the consequences of a deficiency or excess of minerals in the human body?",
+      "context": "Причинами порушення обміну мінеральних речовин в організмі \nлюдини можуть бути: ... надто багато або неправильне вживання деяких \nлікарських препаратів;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8570365756600574
+      }
+    },
+    {
+      "question": "What is the relationship between mineral exchange and plant growth?",
+      "context": "... її nadлишок також може негативно вплинути на її розвиток.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.857977207977208
+      }
+    },
+    {
+      "question": "What is the minimum amount of mineral substances required for plant growth?",
+      "context": "Мал. 21.1. Наслідки нестачі певних мінеральних речовин у рослин",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8487654320987654
+      }
+    },
+    {
+      "question": "What is the significance of the ГДК (Graniчно допустима концентрація) parameter in determining the quality of drinking water?",
+      "context": "Важливим показником є ГДК —  гранично допустима концентрація pewної речовини. Для кожної речовині визначається своя величина ГДК, і якщо вона перевищує нормальне значення, то вода є шкід-ливою для здоров’я людини",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8758038258038258
+      }
+    },
+    {
+      "question": "What is the role of mineral water in human health?",
+      "context": "Мінеральною називають воду, яка містить розчинені солі різних елеменів. Часто до її складу входять потрібні організму людини мікроелементи і біологічно активні сполуки",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8083139083139084
+      }
+    },
+    {
+      "question": "What is the significance of the theme 'Раціональне харчування та харчовий раціон'?",
+      "context": "ТЕМА 2. Raціональне харчування та харчовий раціон",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.855977355977356
+      }
+    },
+    {
+      "question": "What is the relationship between age and nutrient intake for human organisms?",
+      "context": "У якому віці, молодому чи похилому, організм людини potrzebuє більше їжі?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.860981610981611
+      }
+    },
+    {
+      "question": "What groups of organic substances are essential for human nutrition?",
+      "context": "Які основні групи органічних речовин повинні надходити в організм людини з їжею?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8644586894586894
+      }
+    },
+    {
+      "question": "At what age does the human body need more food?",
+      "context": "організм людини потребує більше їжі",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8918803418803418
+      }
+    },
+    {
+      "question": "What are the main groups of organic compounds that should come into the organism from food?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9034188034188034
+      }
+    },
+    {
+      "question": "Why does the human body need minerals and vitamins?",
+      "context": "Навіщо організму людини потрібні мінеральні речовини й вітаміни",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9113841405508072
+      }
+    },
+    {
+      "question": "What are the basic requirements for a balanced diet?",
+      "context": "Правильно підібраний харчовий раціон є основою раціонального харчування людини, кількісне співвідношення якого можна проілю-струвати за допомогою харчової піраміди.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.879392212725546
+      }
+    },
+    {
+      "question": "What are the main types of toxic substances?",
+      "context": "Токсичні сполуки, утворені в процесі промислового виробництва, називають  токсикантами . До них відносять пестициди, лікарські препарати, побутову хімію, синтетичні наркотики.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8178418803418803
+      }
+    },
+    {
+      "question": "What is the difference between biochemical and ordinary chemical reactions in cells?",
+      "context": "Чим біохімічні реакції в клітинах живих організмів відрізняються від звичай-них хімічних реакцій?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8554131054131054
+      }
+    },
+    {
+      "question": "What is a tоксикант?",
+      "context": "Токсичні сполуки, утворені в процесі промислового виробництва, називають токсикантами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7859686609686609
+      }
+    },
+    {
+      "question": "What are some examples of toxins produced by organisms?",
+      "context": "Токсічні сполуки виробляють організми різних груп: мікроорганізми, гриби, рослини, тварини тощо.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8975222308555642
+      }
+    },
+    {
+      "question": "What is the effect of toxins on cells?",
+      "context": "На рівні клітин вони негативно впливають на роботу ферментів, клітинної мембрани або клітинної стінки.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8030626780626781
+      }
+    },
+    {
+      "question": "What is the role of toxins in defending against predators or competitors?",
+      "context": "Они можуть захищати їх від хижаків або паразитів (мал. 23.1) або допомагати вбиватиздобич або конкурентів у боротьбі за певні ресурси (мал. 23.2).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.840605787974209
+      }
+    },
+    {
+      "question": "What are the three main functions of organisms in relation to their daily activities?",
+      "context": "Orgанізмам для їхньої життєдіяльності. вони pueden захищат їх від хижаків або паразитів (мал. 23.1) або допомогою вбивати здобич або конкурентів у боротьбі за певні ресурси (мал. 23.2).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8723036223036224
+      }
+    },
+    {
+      "question": "What is the main organ responsible for biotransformation in the human body?",
+      "context": "Основним органом в організмі людини, в якому відбувається біотрансформація, є печінка.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8214063714063714
+      }
+    },
+    {
+      "question": "What happens to tоксічні речовини after entering the human body?",
+      "context": "Після потрапляння токсичних сполук в організм з ними відбувається один з двох процесів — біотрансформація або фіксація.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.882318376068376
+      }
+    },
+    {
+      "question": "What is the main function of the liver in terms of biotransformation?",
+      "context": "Основним функцією печінки в сенсі біотрансформації є виконування реакцій, які приєднують або відщеплюють молекули.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7926129426129426
+      }
+    },
+    {
+      "question": "What is the main organ in the human body where biotransformation occurs?",
+      "context": "Основним органом в організмі людини, в якому відбувається біотрансформація, є печінка.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8291763791763791
+      }
+    },
+    {
+      "question": "What is the role of the kidneys in removing toxic substances from the body?",
+      "context": "Найбільшу роль у виведенні токсичних речовин та продуктів, які з них утворилися, відіграють нирки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8224460724460725
+      }
+    },
+    {
+      "question": "How do the kidneys remove toxic substances from the blood?",
+      "context": "У нирках водорозчинні токсичні сполуки з крові потрапляють до капсули й канальців нефрону.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9163561984074805
+      }
+    },
+    {
+      "question": "What is the mechanism of removing toxic substances from the body through the liver?",
+      "context": "Через кишечник виводяться жиророзчинні сполуки та продукти розпаду токсинів, які утворюються в печінці.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.850235590620206
+      }
+    },
+    {
+      "question": "What is the role of the skin in removing toxic substances from the body?",
+      "context": "Шкіра, як і нирки, виділяє водорозчинні сполуки крізь свої потові залози.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8328800828800829
+      }
+    },
+    {
+      "question": "How do toxic substances from the gut and skin enter the bloodstream?",
+      "context": "Кров із токсичними речовинами.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9422105672105672
+      }
+    },
+    {
+      "question": "What is the source of acetone smell in humans?",
+      "context": "Its source — ketonoid tissues, which are formed in such situations in fatty tissue and partially excreted through the leg.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8034437946718649
+      }
+    },
+    {
+      "question": "What is diаліз?",
+      "context": "Diаліз — one of the most widely used methods of detoxification in humans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7346866096866096
+      }
+    },
+    {
+      "question": "What is hemоділазьор?",
+      "context": "Hemodialyzor — a special device that acts as a «mock kidney» and performs the function of artificial kidneys.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.739232445114798
+      }
+    },
+    {
+      "question": "What are antiдотами used for?",
+      "context": "Anti-otroteni (antitoxins) are often used to prevent absorption of toxins in the blood or to neutralize toxic reactions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8880844645550527
+      }
+    },
+    {
+      "question": "What is the name of the systems that regulate nervous and hormonal regulation in the human body?",
+      "context": "Які системи організму людини здійснюють нервову & і гуморальну регуляцію?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8512820512820513
+      }
+    },
+    {
+      "question": "What is the function of the sympathetic and parasympathetic nervous systems in regulating metabolic processes?",
+      "context": "Їхня одночасна та скоординована дія дозволяє дуже точно регулювати роботу внутрішніх органів.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8623829873829874
+      }
+    },
+    {
+      "question": "What is the role of the endocrine system in regulating metabolic processes through hormonal regulation?",
+      "context": "Гуморальна регуляція — це координація фізіологічних функцій організму за допомогою гормонів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.863941613941614
+      }
+    },
+    {
+      "question": "What is the effect of insulin and glucagon on glucose levels in the blood?",
+      "context": "Нiveau глюкози в крові людини kontrolуються дією двох гормонів підшлункової залози — інсуліну й глюкагону.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8437212360289283
+      }
+    },
+    {
+      "question": "What is the purpose of hormone regulation in the human body?",
+      "context": "Ної регуляції — робота її регуляторних речовин у взаємодії, адже гормони не діють поодинці, а тільки в комплексі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7988129154795822
+      }
+    },
+    {
+      "question": "How do the nervous and hormonal systems interact?",
+      "context": "Взаємодія нервової та гуморальної системи регуляції",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9173789173789174
+      }
+    },
+    {
+      "question": "What is the main source of energy for cellular respiration in organisms?",
+      "context": "Енергію для життєдіяльності отримують у результаті окиснення органічних речовин",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.807573599240266
+      }
+    },
+    {
+      "question": "What is the purpose of the Calvin cycle in photosynthesis?",
+      "context": "Темнова фаза\nСвітлова фаза\nO 2\nC 6 H 12 O 6",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8062678062678063
+      }
+    },
+    {
+      "question": "What is the main function of the Krebs cycle in cellular respiration?",
+      "context": "Цикл Кребса\n6O 2\nЕлектрони та Гідроген",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8115773115773116
+      }
+    },
+    {
+      "question": "What type of cells do autotrophic and heterotrophic organisms have different energy exchange characteristics?",
+      "context": "авто-трофічні та гетеротрофічні організми мають різне енергетичне обміну характеристик",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9188712522045855
+      }
+    },
+    {
+      "question": "What is the main function of organic compounds in cells?",
+      "context": "органічні речовини виконують структурну функцію в клітинах, на прикладі білків, ліпідів і вуглеводів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7838593030900723
+      }
+    },
+    {
+      "question": "What is the recommended usage of mineral water brands available in stores for people with different health conditions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9019468186134852
+      }
+    },
+    {
+      "question": "How do different methods of food preparation affect the loss of nutrients in products?",
+      "context": " different food preparation methods cause varying losses of nutrients",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9177076484768792
+      }
+    },
+    {
+      "question": "Who was Irina Dudka?",
+      "context": "тезу, обміну білків і нуклеїнових кислот. Автор понад 160 наукових публікацій.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9868881118881119
+      }
+    },
+    {
+      "question": "What was the main area of study for Mikhail Klokov?",
+      "context": "Ботанік, систематик, вивчав флору судинних рослин, професор, доктор біологічних наук.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8675213675213675
+      }
+    },
+    {
+      "question": "What is the name of the institute founded in 1921 by the Ukrainian Academy of Sciences?",
+      "context": "інститут ботаніки ім. М. Г. Холодного НАН України",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8691650230111768
+      }
+    },
+    {
+      "question": "What is the main focus of the Institute of Botany named after M. G. Holiaday in Ukraine?",
+      "context": "Main directions of activities: systematics, ecology, conservation and monitoring of phytobiont and mycobiont, research into the organization of plants and fungi at the level of organization, cell, and molecular levels in different environmental conditions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8704020259575815
+      }
+    },
+    {
+      "question": "What is the main focus of the Institute of Zoology named after I. I. Schmalgausen in Ukraine?",
+      "context": "Main directions of activities: studying the fauna of Ukraine, research into phylogenesis and systematics of the animal world of Ukraine, development of scientific foundations for conservation and rational use of natural resources of the animal world, development of methods for protection and increasing productivity of plants and animals.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.863060774351097
+      }
+    },
+    {
+      "question": "What is the main focus of the Institute of Biochemistry named after O. V. Paladin in Ukraine?",
+      "context": "Main directions of activities: research into white blood cell and superoxide molecule systems, clarification of biochemical mechanisms of regulation of metabolism, development of modern technologies in various fields of medicine, industry, and agriculture.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8718265273820829
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who was Irina Dudka?",
+      "context": "тезу, обміну білків і нуклеїнових кислот. Автор понад 160 наукових публікацій.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9868881118881119
+      }
+    },
+    {
+      "question": "What are the main groups of organic compounds that should come into the organism from food?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9034188034188034
+      }
+    },
+    {
+      "question": "What is the function of phospholipids in cell membranes?",
+      "context": "Фосфоліпіди є осно-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7792022792022792
+      }
+    },
+    {
+      "question": "What is the recommended usage of mineral water brands available in stores for people with different health conditions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9019468186134852
+      }
+    }
+  ]
+}

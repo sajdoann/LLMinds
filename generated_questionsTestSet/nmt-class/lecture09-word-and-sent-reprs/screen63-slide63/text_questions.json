@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is SenteVal used for?",
+      "context": "So, SenteVal is something that I definitely need to mention. It is a repository, so to say, or toolset for scoring sentence representations in many ways.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "How do you use SenteVal with a given sentence?",
+      "context": "So, someone gives you a string, a sentence, you convert it to a vector and then this vector is evaluated by SenteVal a sentence epilepsy reference.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8908730158730158
+      }
+    },
+    {
+      "question": "What are some well-known sentence representations compared using the sent evaluation toolkit?",
+      "context": "And then several representations were compared using this sent evaluation toolkit. So some well-known sentence representations are infrasent or skip thought or laser.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8764880952380952
+      }
+    },
+    {
+      "question": "What is the purpose of the Blackbox NLP workshop?",
+      "context": "And there is a workshop on this. There are a few years of a few instances of the workshop.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8258928571428572
+      }
+    },
+    {
+      "question": "What does the transformer representation know and what it doesn't know, according to recent research?",
+      "context": "So I highly recommend the papers because they study what the transformer representation has access to, what it knows and what it doesn't know.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8991071428571429
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of the Blackbox NLP workshop?",
+      "context": "And there is a workshop on this. There are a few years of a few instances of the workshop.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8258928571428572
+      }
+    },
+    {
+      "question": "What are some well-known sentence representations compared using the sent evaluation toolkit?",
+      "context": "And then several representations were compared using this sent evaluation toolkit. So some well-known sentence representations are infrasent or skip thought or laser.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8764880952380952
+      }
+    },
+    {
+      "question": "How do you use SenteVal with a given sentence?",
+      "context": "So, someone gives you a string, a sentence, you convert it to a vector and then this vector is evaluated by SenteVal a sentence epilepsy reference.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8908730158730158
+      }
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "all_questions": [
+    {
+      "question": "What are primary sexual characteristics?",
+      "context": "Primary sexual characteristics are distinctive anatomical and morphological features of the organism that ensure the formation of corresponding gametes and fertilization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.832253086419753
+      }
+    },
+    {
+      "question": "What is a secondary characteristic in men?",
+      "context": "Some secondary sexual characteristics of a person In womenIn men Well-developed mammary glands Less body hair Absence of hair on the chin Triangular shape of pubic hair Smaller waist, shorter, wider pelvis, wide hips Fatty tissue accumulates mainly around the hips and around the shoulder girdle",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.845655806182122
+      }
+    },
+    {
+      "question": "Where does fatty tissue accumulate on the body?",
+      "context": "Fatty tissue accumulates ¬ mainly around the hips and around the shoulder girdle",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.883364898989899
+      }
+    },
+    {
+      "question": "What are the internal female genital organs in humans?",
+      "context": "The internal female genital organs include the ovaries, fallopian tubes, uterus, and vagina (Fig. 55.1a, p. 192)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8551311728395061
+      }
+    },
+    {
+      "question": "What is the purpose of the acrosome in spermatozoa?",
+      "context": "It is necessary for the sperm to overcome the egg shell during fertilization: enzymes contained in the acrosome dissolve this shell.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.801078216374269
+      }
+    },
+    {
+      "question": "What sex cells are formed from primary sex cells?",
+      "context": "Reproduction of primary sex cells, from which eggs are formed, occurs only during embryonic development. After birth, a woman's body contains approximately 400 thousand immature primary sex cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8804754273504274
+      }
+    },
+    {
+      "question": "What is approximately the number of immature primary sex cells a woman's body contains after birth?",
+      "context": "Reproduction of primary sex cells, from which eggs are formed, occurs only during embryonic development. After birth, a woman's body contains approximately 400 thousand immature primary sex cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7692307692307693,
+        "diversity_score": 0.8717948717948718
+      }
+    },
+    {
+      "question": "What is the typical age range for the first menstruation in girls?",
+      "context": "The first menstruation in a girl usually occurs at the age of 12-14.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8121843434343434
+      }
+    },
+    {
+      "question": "What are the two hormones produced by the pituitary gland that directly regulate the work of the ovaries?",
+      "context": "The pituitary gland produces a number of the most important hormones, two of which directly regulate the work of the ovaries: follicle-stimulating hormone (FSH) and luteinizing hormone (LH).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8791245791245792
+      }
+    },
+    {
+      "question": "What is fertilization?",
+      "context": "Fertilization Fertilization is the process of fusion of mature male (sperm) and female (egg) sex cells, as a result of which one cell is formed - a zygote, which is the beginning of a new organism (Fig. 56.2, p. 196).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7550925925925926
+      }
+    },
+    {
+      "question": "What is necessary for the development of the fetus during pregnancy?",
+      "context": "an increased amount of nutrients and oxygen",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8045634920634921
+      }
+    },
+    {
+      "question": "How does the menstrual cycle manifest itself externally in a woman's body?",
+      "context": "in the form of menstruation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7761574074074074
+      }
+    },
+    {
+      "question": "When did the German scientist E. Haeckel propose the term 'ontogenesis'?",
+      "context": "The term \"ontogenesis\" was proposed by the German scientist E. Haeckel in 1866.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9217592592592593
+      }
+    },
+    {
+      "question": "What is the duration of the embryonic period of development?",
+      "context": "The embryonic (germinal) period lasts from the moment of formation of the zygote to the birth of the child.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7773771367521367
+      }
+    },
+    {
+      "question": "At what stage does the fetus gain its own environment?",
+      "context": "The fetus has its own environment, which consists of the embryonic membranes, amniotic fluid and umbilical cord.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8588541666666667
+      }
+    },
+    {
+      "question": "What is the name of the process by which the cells of the embryo form germ layers?",
+      "context": "On the 10th–14th day after fertilization, the cells of the embryo form germ layers, from which all organs and tissues are then formed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8504273504273504
+      }
+    },
+    {
+      "question": "How long is the period of infancy?",
+      "context": "The period of infancy (first 10 days): the organism undergoes restructuring due to adaptation to life outside the mother's body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8204948646125116
+      }
+    },
+    {
+      "question": "What is the duration of the first stage of human life called?",
+      "context": "The period of infancy (first 10 days): the organism undergoes restructuring due to adaptation to life outside the mother's body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8173202614379085
+      }
+    },
+    {
+      "question": "What is a notable characteristic of the thoracic period?",
+      "context": "The thoracic period (10 days - 1 year) is characterized by the highest rates of growth and development of all organ systems in the postembryonic period, as well as the strengthening of the musculoskeletal system, the formation of a large number of conditioned reflexes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8201706608569354
+      }
+    },
+    {
+      "question": "What stages of human life are described as periods of puberty?",
+      "context": "Adolescence (13–16 years in boys, 12–15 years in girls): beginning of the period of puberty; sharp increase in growth rates; significant hormonal changes in the body; beginning of functioning of the reproductive systems.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8819444444444444
+      }
+    },
+    {
+      "question": "What are the two main stages of human development?",
+      "context": "Human development consists of two main stages - embryonic and postembryonic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8128507295173961
+      }
+    },
+    {
+      "question": "How do reproductive functions in men change with age?",
+      "context": "Old age (61–74 years in men, 56–74 years in women): the reproductive functions in men continue to fade.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.933641975308642
+      }
+    },
+    {
+      "question": "What are the potential consequences of harmful substances on fetal development?",
+      "context": "The effect of harmful substances during fetal development is particularly dangerous.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8295454545454546
+      }
+    },
+    {
+      "question": "Which types of pathogens can cause sexually transmitted diseases?",
+      "context": "Sexually transmitted diseases are very dangerous for human health. The human body does not develop immunity to these diseases, so even after recovery, a person can get sick with them again.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9384259259259259
+      }
+    },
+    {
+      "question": "What is the difference between ascending and descending infections?",
+      "context": "What ways do you know about HIV transmission?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8966049382716049
+      }
+    },
+    {
+      "question": "What are some examples of causative agents of sexually transmitted diseases?",
+      "context": "protozoa (trichomoniasis), bacteria (gonorrhea and syphilis), viruses (genital herpes), microscopic fungi (candidiasis). Some parasitic infections, such as pediculosis, can also be transmitted sexually.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.9117149758454106
+      }
+    },
+    {
+      "question": "How is HIV infection typically transmitted?",
+      "context": "during sexual intercourse, microscopic damage to the mucous membranes of the genital organs very often occurs. They may not be noticeable to the naked eye, but they are like gates that allow the virus into the human body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9162326388888888
+      }
+    },
+    {
+      "question": "What is the primary sexual characteristic of a woman?",
+      "context": "a) a wide pelvis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8182870370370371
+      }
+    },
+    {
+      "question": "Where are female sex cells formed?",
+      "context": "b) ovaries",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9583333333333334
+      }
+    },
+    {
+      "question": "What is a follicle in relation to egg cell development?",
+      "context": "a) an egg cell",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "Where does fertilization typically occur?",
+      "context": "d) fallopian tubes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9675925925925926
+      }
+    },
+    {
+      "question": "What is the place in which fertilization usually occurs?",
+      "context": "The place in which the fertilization process usually occurs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7928240740740741
+      }
+    },
+    {
+      "question": "Where does ontogenesis begin?",
+      "context": "ontogenesis begins in early childhood",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9326388888888889
+      }
+    },
+    {
+      "question": "What is the age range for ontogenesis in boys?",
+      "context": "ontogenesis in boys corresponds to the age of 13–16 years",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7779320987654321
+      }
+    },
+    {
+      "question": "What are the three main functions of the regulatory system?",
+      "context": "The sympathetic system accelerates heart contractions, and the parasympathetic slows them down, insulin lowers the level of glucose in the blood, and glucagon increases it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8324514991181657
+      }
+    },
+    {
+      "question": "What role does the central nervous system play in maintaining homeostasis?",
+      "context": "The central nervous system plays an active role in maintaining homeostasis. It not only takes an active part in the processes of stress, nervous and humoral regulation, but also prevents homeostasis disruption by avoiding situations in which this disruption may occur.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.879159239453357
+      }
+    },
+    {
+      "question": "What is the integrative role of the circulatory, nervous, and endocrine systems?",
+      "context": "An important function of uniting parts of the body into a single system is performed by the circulatory, nervous and endocrine systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8314393939393939
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where does fertilization typically occur?",
+      "context": "d) fallopian tubes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9675925925925926
+      }
+    },
+    {
+      "question": "How is HIV infection typically transmitted?",
+      "context": "during sexual intercourse, microscopic damage to the mucous membranes of the genital organs very often occurs. They may not be noticeable to the naked eye, but they are like gates that allow the virus into the human body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9162326388888888
+      }
+    },
+    {
+      "question": "What is a follicle in relation to egg cell development?",
+      "context": "a) an egg cell",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "What is the difference between ascending and descending infections?",
+      "context": "What ways do you know about HIV transmission?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8966049382716049
+      }
+    },
+    {
+      "question": "Where does ontogenesis begin?",
+      "context": "ontogenesis begins in early childhood",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9326388888888889
+      }
+    }
+  ]
+}

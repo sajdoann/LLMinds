@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main challenge in finding pairs among the two heaps of texts in different languages?",
+      "context": "The description of the task and the observation made by the authors",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6583333333333333
+      }
+    },
+    {
+      "question": "Why was the Parkroll project unable to align whole documents between the two languages?",
+      "context": "The explanation provided by the authors about the limitations of the Parkroll project",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6759615384615385
+      }
+    },
+    {
+      "question": "What was the outcome of using the Common Crawl data for extracting English-Czech parallel sentences?",
+      "context": "The results presented by the authors on the number of extracted texts and their quality",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7115384615384616
+      }
+    },
+    {
+      "question": "Why did the authors conclude that using the Common Crawl data alone was not sufficient for their task?",
+      "context": "The explanation provided by the authors about the limitations of the Common Crawl data",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.695855614973262
+      }
+    },
+    {
+      "question": "What is the proposed next step in addressing the challenges mentioned in the document?",
+      "context": "The suggestion made by the authors for how to proceed with their task",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7528409090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the proposed next step in addressing the challenges mentioned in the document?",
+      "context": "The suggestion made by the authors for how to proceed with their task",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7528409090909091
+      }
+    },
+    {
+      "question": "Why did the authors conclude that using the Common Crawl data alone was not sufficient for their task?",
+      "context": "The explanation provided by the authors about the limitations of the Common Crawl data",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.695855614973262
+      }
+    },
+    {
+      "question": "Why was the Parkroll project unable to align whole documents between the two languages?",
+      "context": "The explanation provided by the authors about the limitations of the Parkroll project",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6759615384615385
+      }
+    },
+    {
+      "question": "What was the outcome of using the Common Crawl data for extracting English-Czech parallel sentences?",
+      "context": "The results presented by the authors on the number of extracted texts and their quality",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7115384615384616
+      }
+    }
+  ]
+}

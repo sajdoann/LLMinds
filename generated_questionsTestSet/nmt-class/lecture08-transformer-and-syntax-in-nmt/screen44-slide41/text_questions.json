@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What additional streams of information can be used with null MT to enhance word level embeddings?",
+      "context": "Some of the elements will come from the word form. Some of them will come from the dependency information in the CCG tag and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8480902777777778
+      }
+    },
+    {
+      "question": "How does a sequence-to-sequence network with interleaved sequences improve translation accuracy?",
+      "context": "The recurrent neural network, the decoder, just learns to interleave these two sequences. And while doing this interleaving, the information still flows.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8505681818181818
+      }
+    },
+    {
+      "question": "What is the effect of using multiple decoders in a sequence-to-sequence network on translation accuracy?",
+      "context": "We're using different decoders. And if you use two different decoders for the words and for their tags, then there is a clear risk that these two sequences will not match in length.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6609195402298851
+      }
+    },
+    {
+      "question": "What is the purpose of using multiple decoders in multilingual machine translation?",
+      "context": "You can split the network and then you can create multiple target sequences at the same time of varying length.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is the risk if two different decoders are used for words and tags in multilingual machine translation?",
+      "context": "if you use two different decoders for the words and for their tags, then there is a clear risk that these two sequences will not match in length.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.703525641025641
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does a sequence-to-sequence network with interleaved sequences improve translation accuracy?",
+      "context": "The recurrent neural network, the decoder, just learns to interleave these two sequences. And while doing this interleaving, the information still flows.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8505681818181818
+      }
+    },
+    {
+      "question": "What additional streams of information can be used with null MT to enhance word level embeddings?",
+      "context": "Some of the elements will come from the word form. Some of them will come from the dependency information in the CCG tag and so on.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8480902777777778
+      }
+    },
+    {
+      "question": "What is the risk if two different decoders are used for words and tags in multilingual machine translation?",
+      "context": "if you use two different decoders for the words and for their tags, then there is a clear risk that these two sequences will not match in length.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.703525641025641
+      }
+    }
+  ]
+}

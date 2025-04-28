@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the main difference in BLEU scores between translating from Czech into English and translating from English into Czech?",
+      "context": "2007 seminary discussion about BLEU scores",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.6432291666666667
+      }
+    },
+    {
+      "question": "Why do BLEU scores increase when using more references?",
+      "context": "Explanation of the effect of the number of references on BLEU scores",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "What is the main factor determining the value of a BLEU score?",
+      "context": "Discussion about the critical information for evaluating BLEU scores",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6527777777777778
+      }
+    },
+    {
+      "question": "How do different translation directions affect BLEU scores?",
+      "context": "Discussion about the effect of translation direction on BLEU scores",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "What is the implication of relying solely on pre-computed BLEU scores without evaluating them yourself?",
+      "context": "Conclusion about the importance of self-evaluation in assessing BLEU scores",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the main difference in BLEU scores between translating from Czech into English and translating from English into Czech?",
+      "context": "2007 seminary discussion about BLEU scores",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.11764705882352941,
+        "diversity_score": 0.6432291666666667
+      }
+    },
+    {
+      "question": "Why do BLEU scores increase when using more references?",
+      "context": "Explanation of the effect of the number of references on BLEU scores",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6944444444444444
+      }
+    },
+    {
+      "question": "How do different translation directions affect BLEU scores?",
+      "context": "Discussion about the effect of translation direction on BLEU scores",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "What is the implication of relying solely on pre-computed BLEU scores without evaluating them yourself?",
+      "context": "Conclusion about the importance of self-evaluation in assessing BLEU scores",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What is the main factor determining the value of a BLEU score?",
+      "context": "Discussion about the critical information for evaluating BLEU scores",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6527777777777778
+      }
+    }
+  ]
+}

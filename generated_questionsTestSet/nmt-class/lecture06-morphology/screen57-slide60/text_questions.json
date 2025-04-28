@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of using reverse self-training in phrase-based MT?",
+      "context": "The idea is that you have this translation model and you have this language model. And the language model now when you use the clever techniques and you train on text and things like that, that will allow you to select the good combination of the word forms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7369791666666667
+      }
+    },
+    {
+      "question": "How does the translation model propose the word forms to consider in phrase-based MT?",
+      "context": "So in the first place, your translation model has to propose the word forms to consider.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7225274725274725
+      }
+    },
+    {
+      "question": "What is the purpose of having a small parallel corpus that illustrates how the word 'cat' can be translated?",
+      "context": "The idea is that you have a small parallel corpus that illustrates how the word cat can be translated by two sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "What is the key difference in the Czech word forms of 'cat' depending on its role in the sentence?",
+      "context": "Because of different roles of the cat in the sentence, the Czech word forms differ. Kočka a kočku.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6505208333333333
+      }
+    },
+    {
+      "question": "How does reverse self-training help address the limitations of existing systems?",
+      "context": "So what do we do? Because of different roles of the cat in the sentence, the Czech word forms differ. Kočka a kočku. And in our monolingual data, we can see that we can also have other word form of this word.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7348484848484849
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the translation model propose the word forms to consider in phrase-based MT?",
+      "context": "So in the first place, your translation model has to propose the word forms to consider.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7225274725274725
+      }
+    },
+    {
+      "question": "What is the purpose of having a small parallel corpus that illustrates how the word 'cat' can be translated?",
+      "context": "The idea is that you have a small parallel corpus that illustrates how the word cat can be translated by two sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "What is the main goal of using reverse self-training in phrase-based MT?",
+      "context": "The idea is that you have this translation model and you have this language model. And the language model now when you use the clever techniques and you train on text and things like that, that will allow you to select the good combination of the word forms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7369791666666667
+      }
+    },
+    {
+      "question": "How does reverse self-training help address the limitations of existing systems?",
+      "context": "So what do we do? Because of different roles of the cat in the sentence, the Czech word forms differ. Kočka a kočku. And in our monolingual data, we can see that we can also have other word form of this word.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7348484848484849
+      }
+    }
+  ]
+}

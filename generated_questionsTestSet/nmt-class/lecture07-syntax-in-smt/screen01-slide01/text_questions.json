@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of machine translation approach is being focused on today?",
+      "context": "So welcome again to the lecture on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "Are phrase-based approaches included in today's discussion?",
+      "context": "but not the phrase-based ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8142857142857143
+      }
+    },
+    {
+      "question": "What specific topic is being discussed within pre-neural machine translation?",
+      "context": "So we're going to talk about syntax in pre-neural machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7863636363636364
+      }
+    },
+    {
+      "question": "Is there a distinction between pre-neural and phrase-based approaches?",
+      "context": "So we're going to focus only on the pre-neural approaches to machine translation, but not the phrase-based ones.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8055555555555556
+      }
+    },
+    {
+      "question": "What is the scope of discussion for today's lecture?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What specific topic is being discussed within pre-neural machine translation?",
+      "context": "So we're going to talk about syntax in pre-neural machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7863636363636364
+      }
+    },
+    {
+      "question": "Are phrase-based approaches included in today's discussion?",
+      "context": "but not the phrase-based ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8142857142857143
+      }
+    },
+    {
+      "question": "Is there a distinction between pre-neural and phrase-based approaches?",
+      "context": "So we're going to focus only on the pre-neural approaches to machine translation, but not the phrase-based ones.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8055555555555556
+      }
+    }
+  ]
+}

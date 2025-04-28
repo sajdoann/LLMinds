@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of setting does Martin Popel try in this area?",
+      "context": "Okay, so the best setting that we could do in this area is mixing all together.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7982954545454546
+      }
+    },
+    {
+      "question": "How many systems are being shown to people for comparison purposes?",
+      "context": "We are showing two or more systems so that people have like and idea what is the average performance there.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7994318181818182
+      }
+    },
+    {
+      "question": "What is one of the challenges with scoring the whole document?",
+      "context": "The whole document is often too long, so what we do is we just highlight 10 sentences in a row in this document and ask people to score these 10 sentences in a row.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8153846153846154
+      }
+    },
+    {
+      "question": "How many scores are being asked for each chunk of sentences?",
+      "context": "We are asking adequacy, fluency for each of the sentences and an overall quality. And then maybe one more score for the whole chunk of sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "Why cannot this approach be done with Turkers?",
+      "context": "So people really have to focus on that. So this is something we cannot do with the Turkers.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8069852941176471
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many scores are being asked for each chunk of sentences?",
+      "context": "We are asking adequacy, fluency for each of the sentences and an overall quality. And then maybe one more score for the whole chunk of sentences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8352272727272727
+      }
+    },
+    {
+      "question": "What is one of the challenges with scoring the whole document?",
+      "context": "The whole document is often too long, so what we do is we just highlight 10 sentences in a row in this document and ask people to score these 10 sentences in a row.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8153846153846154
+      }
+    },
+    {
+      "question": "How many systems are being shown to people for comparison purposes?",
+      "context": "We are showing two or more systems so that people have like and idea what is the average performance there.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7994318181818182
+      }
+    },
+    {
+      "question": "Why cannot this approach be done with Turkers?",
+      "context": "So people really have to focus on that. So this is something we cannot do with the Turkers.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8069852941176471
+      }
+    }
+  ]
+}

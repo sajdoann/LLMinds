@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the difference between polite and impolite pairs of sentences?",
+      "context": "The examples of pairs of sentences",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.4340909090909091
+      }
+    },
+    {
+      "question": "Can you give an example of a polite pair of sentences?",
+      "context": "A polite pair of sentences ('Can you please give me a minute?', 'May I talk to Mary?')",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.659375
+      }
+    },
+    {
+      "question": "How do the wordings differ between polite and impolite pairs of sentences?",
+      "context": "The comparison of polite and impolite pairs of sentences ('Can you please give me a minute?', 'I tried to call you were you busy?')",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.6026785714285714
+      }
+    },
+    {
+      "question": "What is the effect of using very polite or very rude wordings in a pair of sentences?",
+      "context": "The comparison of polite and impolite pairs of sentences ('Can you please give me a minute?', 'Close the door, close the damn door man')",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.6357142857142857
+      }
+    },
+    {
+      "question": "Why is it important to express the same meaning with different wordings?",
+      "context": "The introduction of polite and impolite pairs of sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6197916666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the difference between polite and impolite pairs of sentences?",
+      "context": "The examples of pairs of sentences",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.4340909090909091
+      }
+    },
+    {
+      "question": "Can you give an example of a polite pair of sentences?",
+      "context": "A polite pair of sentences ('Can you please give me a minute?', 'May I talk to Mary?')",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.659375
+      }
+    },
+    {
+      "question": "Why is it important to express the same meaning with different wordings?",
+      "context": "The introduction of polite and impolite pairs of sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6197916666666667
+      }
+    }
+  ]
+}

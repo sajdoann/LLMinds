@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of test set was created for testing challenge test set?",
+      "context": "We created a dedicated test set of our challenge test set that was focused on ambiguous words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8712121212121212
+      }
+    },
+    {
+      "question": "How many ambiguous words were found in the visual genome?",
+      "context": "We have searched the whole visual genome. It's automatic Hindi translation and in about three million strings of like this description of short of small regions in the image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8025
+      }
+    },
+    {
+      "question": "How many ambiguous words were subselected manually?",
+      "context": "So there were only too few ambiguities arising. But then we manually like subselected and we arrived at 19 words that are ambiguous on their own.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7821428571428571
+      }
+    },
+    {
+      "question": "What was the goal of translating sentences with these ambiguous words?",
+      "context": "The point was to translate sentences with these words and hopefully the image would have helped.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "Why did some ambiguous words not appear in the data set?",
+      "context": "And a word ambiguous like that could be mouse which could be translated as the rodent. The rodent mouse or the computer mouse. And there would be different Hindi words for that.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8127272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many ambiguous words were subselected manually?",
+      "context": "So there were only too few ambiguities arising. But then we manually like subselected and we arrived at 19 words that are ambiguous on their own.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7821428571428571
+      }
+    },
+    {
+      "question": "What was the goal of translating sentences with these ambiguous words?",
+      "context": "The point was to translate sentences with these words and hopefully the image would have helped.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8257575757575757
+      }
+    },
+    {
+      "question": "How many ambiguous words were found in the visual genome?",
+      "context": "We have searched the whole visual genome. It's automatic Hindi translation and in about three million strings of like this description of short of small regions in the image.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8025
+      }
+    }
+  ]
+}

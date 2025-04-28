@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of the subtitler in the system?",
+      "context": "The component that we had to develop for this",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6371527777777778
+      }
+    },
+    {
+      "question": "How does the segmenter's decision on punctuation placement affect the machine translation system?",
+      "context": "the segmenter will maybe decide after some more words arrive to put the punctuation at a different place",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8370098039215687
+      }
+    },
+    {
+      "question": "What is the concern about updating subtitles in response to changes made by the segmenter or machine translation system?",
+      "context": "that would be very annoying if suddenly something which has been already shown and moved out of the subtitle space of the two lines",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7077020202020202
+      }
+    },
+    {
+      "question": "Why is it important to avoid flickering subtitles in the system?",
+      "context": "So that the user will see the subtitles not flickering and what would be very annoying if suddenly something which has been already shown and moved out of the subtitle space",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "What is a consequence of having a limited space in the system?",
+      "context": "if you have a limited space then you may be forced to emit some output and update it afterwards",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7234848484848485
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is it important to avoid flickering subtitles in the system?",
+      "context": "So that the user will see the subtitles not flickering and what would be very annoying if suddenly something which has been already shown and moved out of the subtitle space",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6931818181818181
+      }
+    },
+    {
+      "question": "How does the segmenter's decision on punctuation placement affect the machine translation system?",
+      "context": "the segmenter will maybe decide after some more words arrive to put the punctuation at a different place",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8370098039215687
+      }
+    },
+    {
+      "question": "What is a consequence of having a limited space in the system?",
+      "context": "if you have a limited space then you may be forced to emit some output and update it afterwards",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7234848484848485
+      }
+    },
+    {
+      "question": "What is the concern about updating subtitles in response to changes made by the segmenter or machine translation system?",
+      "context": "that would be very annoying if suddenly something which has been already shown and moved out of the subtitle space of the two lines",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7077020202020202
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the alignment link after one iteration?",
+      "context": "the model will realize that the co-occur with la more often than it co-occur with meson and therefore the alignment link between the and la will get stronger.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6090277777777777
+      }
+    },
+    {
+      "question": "What happens to the alignment link after proceeding a little bit further?",
+      "context": "And if you proceed a little bit further,",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "Why does the alignment link between 'the' and 'la' get stronger?",
+      "context": "and therefore the alignment link between the and la will get stronger.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7102272727272727
+      }
+    },
+    {
+      "question": "What is being observed in the corpus?",
+      "context": "Observe that some of the words did co-occur in this corpus.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8133116883116883
+      }
+    },
+    {
+      "question": "How does the model update its understanding after one iteration?",
+      "context": "So after one iteration the model will realize that the co-occur with la more often than it co-occur with meson",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7477941176470588
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why does the alignment link between 'the' and 'la' get stronger?",
+      "context": "and therefore the alignment link between the and la will get stronger.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7102272727272727
+      }
+    },
+    {
+      "question": "What happens to the alignment link after proceeding a little bit further?",
+      "context": "And if you proceed a little bit further,",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "How does the model update its understanding after one iteration?",
+      "context": "So after one iteration the model will realize that the co-occur with la more often than it co-occur with meson",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7477941176470588
+      }
+    }
+  ]
+}

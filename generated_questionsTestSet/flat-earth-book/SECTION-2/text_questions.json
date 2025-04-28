@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to a ball thrown upwards from the mast-head of a moving vessel?",
+      "context": "The ball being thrown upwards in the direction A C, and the vessel moving from A to B, will cause it to pass in the direction A D, arriving at D when the vessel reaches B;",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7222222222222222
+      }
+    },
+    {
+      "question": "Why does a ball thrown upwards from the mast-head of a moving vessel fall behind the vessel?",
+      "context": "To bring the ball from D to S two forces would be required, as D H and D W; but as D W does not exist, the force of gravity operates alone,",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7598290598290598
+      }
+    },
+    {
+      "question": "What happens to a ball thrown upwards in rapid motion from a moving carriage?",
+      "context": "The ball will always drop more or less behind the carriage, according to the force first given to it in the direction A C and the time occupied in ascending to D, and thence descending to H.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7731990231990232
+      }
+    },
+    {
+      "question": "Why is it concluded that the Earth does not move upon axes?",
+      "context": "On making the experiment no such effect is observed, and therefore the conclusion is unavoidable, that the Earth DOES NOT MOVE UPON AXES!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7787037037037037
+      }
+    },
+    {
+      "question": "What is the expected outcome when a ball is shot upwards from an air-gun on a rotating Earth?",
+      "context": "The ball always fell back to the place of its detachment, should have fallen considerably more than one statute mile to the west of the air-gun!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8050595238095238
+      }
+    },
+    {
+      "question": "Why did the experiment conclude that the Earth does not move upon axes?",
+      "context": "The surface of the Earth would turn from under its direction, and it would fall behind or to the west of its line of descent.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7577972709551657
+      }
+    },
+    {
+      "question": "What is the purpose of the experiment described in the text?",
+      "context": "For it is difficult, if not impossible, to understand how the behaviour of the ball thrown from a vertical air-gun should be other in relation to the Earth’s forward motion in space than it is in regard to its motion upon axes.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7514029180695847
+      }
+    },
+    {
+      "question": "How does the experiment test for the existence of the Earth's axial motion?",
+      "context": "Besides, if it is proved not to move upon axes, the assumption that it moves in an orbit round the Sun is useless for theoretical purposes, and there is no necessity for either denying or in any way giving it farther consideration.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8236652236652237
+      }
+    },
+    {
+      "question": "What would be observed if the Earth had moved a single yard in an orbit through space?",
+      "context": "From which result it is concluded that in six months a given meridian upon the Earth has not moved a single[71] yard, and that therefore the Earth has not the slightest degree of orbital motion—or motion at right angles to the meridian of a given star!",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the Earth's orbital motion based on the signals received from space?",
+      "context": "But as no such difference in the direction of the tube is required, the conclusion is unavoidable that in six months a given meridian upon the Earth has not moved a single[71] yard, and that therefore the Earth has not the slightest degree of orbital motion—or motion at right angles to the meridian of a given star!",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7982549857549858
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is it concluded that the Earth does not move upon axes?",
+      "context": "On making the experiment no such effect is observed, and therefore the conclusion is unavoidable, that the Earth DOES NOT MOVE UPON AXES!",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7787037037037037
+      }
+    },
+    {
+      "question": "How does the experiment test for the existence of the Earth's axial motion?",
+      "context": "Besides, if it is proved not to move upon axes, the assumption that it moves in an orbit round the Sun is useless for theoretical purposes, and there is no necessity for either denying or in any way giving it farther consideration.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8236652236652237
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the Earth's orbital motion based on the signals received from space?",
+      "context": "But as no such difference in the direction of the tube is required, the conclusion is unavoidable that in six months a given meridian upon the Earth has not moved a single[71] yard, and that therefore the Earth has not the slightest degree of orbital motion—or motion at right angles to the meridian of a given star!",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7982549857549858
+      }
+    },
+    {
+      "question": "Why does a ball thrown upwards from the mast-head of a moving vessel fall behind the vessel?",
+      "context": "To bring the ball from D to S two forces would be required, as D H and D W; but as D W does not exist, the force of gravity operates alone,",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7598290598290598
+      }
+    }
+  ]
+}

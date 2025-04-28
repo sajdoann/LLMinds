@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the performance of the system from 2018 compared to humans in terms of translation quality?",
+      "context": "So here is the results from this pseudo-document-aware evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8027777777777778
+      }
+    },
+    {
+      "question": "Why did the system's performance change between 2018 and the current year?",
+      "context": "Well, having said this it is also important to realize that every year it is new texts.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "How do changes in text domain affect translation quality?",
+      "context": "So like having lost the human parity is something which sounds strange.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "What limitations are acknowledged by the evaluation method?",
+      "context": "It's important to realize that we know what are the limitations of the evaluation method.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "Why did the system's performance change in relation to human capabilities between consecutive years?",
+      "context": "So like in 2018 we would be saying, oh, we have beaten humans in translation and in 2019 we'll be saying, well, machines are no longer better than humans.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8526785714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the performance of the system from 2018 compared to humans in terms of translation quality?",
+      "context": "So here is the results from this pseudo-document-aware evaluation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8027777777777778
+      }
+    },
+    {
+      "question": "What limitations are acknowledged by the evaluation method?",
+      "context": "It's important to realize that we know what are the limitations of the evaluation method.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8660714285714286
+      }
+    },
+    {
+      "question": "Why did the system's performance change between 2018 and the current year?",
+      "context": "Well, having said this it is also important to realize that every year it is new texts.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "Why did the system's performance change in relation to human capabilities between consecutive years?",
+      "context": "So like in 2018 we would be saying, oh, we have beaten humans in translation and in 2019 we'll be saying, well, machines are no longer better than humans.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8526785714285714
+      }
+    }
+  ]
+}

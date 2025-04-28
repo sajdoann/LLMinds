@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What changes when moving from the analytical to the tectogrammatical level of representation?",
+      "context": "When you are moving from the analytical to the tectogrammatical, you need to hide all auxiliary words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What is the role of coreference in annotation at the deep syntactic level?",
+      "context": "And you could even do things like coreference, like pronouns, that this particular, it actually refers to something which was uttered in the previous sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the difference between the Czech and English auxiliaries?",
+      "context": "But the auxiliary words are very much so there is not really an English counterpart for this B, that's just conditional particle, and this Cent reflexive or passivization particle",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7986111111111112
+      }
+    },
+    {
+      "question": "What two elements make up the event of changing in the tectogrammatical tree?",
+      "context": "And also the pronoun for the it, of what should be changed. So that's the actor and patient in the event",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7910539215686274
+      }
+    },
+    {
+      "question": "What type of annotation is still ongoing at the deep syntactic level?",
+      "context": "We are still building further and better annotated trees with more details",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7604166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the role of coreference in annotation at the deep syntactic level?",
+      "context": "And you could even do things like coreference, like pronouns, that this particular, it actually refers to something which was uttered in the previous sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What changes when moving from the analytical to the tectogrammatical level of representation?",
+      "context": "When you are moving from the analytical to the tectogrammatical, you need to hide all auxiliary words",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7946428571428572
+      }
+    },
+    {
+      "question": "What type of annotation is still ongoing at the deep syntactic level?",
+      "context": "We are still building further and better annotated trees with more details",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7604166666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of repetition occurs when multiple sentences are formed from the same input sentence?",
+      "context": "So here all the sentences should have kind of the same meaning because they come from the same input sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7583333333333333
+      }
+    },
+    {
+      "question": "What is a key characteristic of sentences that are formed from the same input sentence?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How does the formation of new sentences from an original input sentence relate to meaning?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is a potential benefit of forming multiple sentences from the same input sentence?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "Can the formation of new sentences from an original input sentence be used to infer anything about the meaning or content of those sentences?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8522727272727273
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the formation of new sentences from an original input sentence relate to meaning?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is a key characteristic of sentences that are formed from the same input sentence?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is a potential benefit of forming multiple sentences from the same input sentence?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7410714285714286
+      }
+    }
+  ]
+}

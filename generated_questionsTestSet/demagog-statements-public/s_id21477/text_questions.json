@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Kolik percent navýšela vláda platy policistů a hasičů?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Které skupiny státních zaměstnanců měly platy zvyšovány pouze v rámci konsolidace veřejných financí?",
+      "context": "<a href=\\",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8028846153846154
+      }
+    },
+    {
+      "question": "Kteří ministři se dlouho vymezovali proti zmrazení platů policistů a hasičů?",
+      "context": "<a href=\\",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7784090909090909
+      }
+    },
+    {
+      "question": "What was the increase in salaries for state employees?",
+      "context": "val růst platů u&nbsp;těchto skupin o&nbsp;3,5&nbsp;%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How much did the government increase salaries for certain groups of state employees?",
+      "context": "Vláda Petra Fialy schválila růst platů vojáků, hasičů a&nbsp;policistů o&nbsp;700&nbsp;korun.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9173076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the increase in salaries for state employees?",
+      "context": "val růst platů u&nbsp;těchto skupin o&nbsp;3,5&nbsp;%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Kteří ministři se dlouho vymezovali proti zmrazení platů policistů a hasičů?",
+      "context": "<a href=\\",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7784090909090909
+      }
+    },
+    {
+      "question": "Kolik percent navýšela vláda platy policistů a hasičů?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    }
+  ]
+}

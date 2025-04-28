@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of information can be found in early neural machine translation papers?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.25
+      }
+    },
+    {
+      "question": "Why were early neural machine translation papers included in discussions?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.1875
+      }
+    },
+    {
+      "question": "Is it possible to infer the significance of early neural machine translation papers based on their inclusion in discussions?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.32236842105263164
+      }
+    },
+    {
+      "question": "What implications can be drawn from the fact that early neural machine translation papers were included in discussions?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.2847222222222222
+      }
+    },
+    {
+      "question": "How can the context of the discussion influence the interpretation of early neural machine translation papers?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.27884615384615385
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is it possible to infer the significance of early neural machine translation papers based on their inclusion in discussions?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.32236842105263164
+      }
+    },
+    {
+      "question": "What implications can be drawn from the fact that early neural machine translation papers were included in discussions?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.2847222222222222
+      }
+    },
+    {
+      "question": "Why were early neural machine translation papers included in discussions?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.1875
+      }
+    },
+    {
+      "question": "How can the context of the discussion influence the interpretation of early neural machine translation papers?",
+      "context": "So let's look at explicit information in neural machine translation and we'll come to the transformer model and the experiments very soon but some of the early papers are actually pre-transformer and that's why the explicit information was there.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.27884615384615385
+      }
+    }
+  ]
+}

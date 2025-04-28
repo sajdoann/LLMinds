@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the focus of the experiment in 2018?",
+      "context": "our experiment from 2018, where we tried to identify how much semantic the representations learned by the attention model",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6979166666666666
+      }
+    },
+    {
+      "question": "How did the BLEU score relate to semantics in the experiment?",
+      "context": "the equality of translation, the BLEU score",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What architecture was used in the experiment?",
+      "context": "sequence-to-sequence architecture",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7678571428571429
+      }
+    },
+    {
+      "question": "What was the goal of the experiment?",
+      "context": "identify how much semantic the representations learned by the attention model",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5916666666666667
+      }
+    },
+    {
+      "question": "What did the experiment relate to 'various measures of semantics'?",
+      "context": "to various levels or various measures of semantics",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8017857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How did the BLEU score relate to semantics in the experiment?",
+      "context": "the equality of translation, the BLEU score",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "What was the focus of the experiment in 2018?",
+      "context": "our experiment from 2018, where we tried to identify how much semantic the representations learned by the attention model",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6979166666666666
+      }
+    },
+    {
+      "question": "What was the goal of the experiment?",
+      "context": "identify how much semantic the representations learned by the attention model",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5916666666666667
+      }
+    }
+  ]
+}

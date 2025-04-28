@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected number of different possible outputs when handling eight different heads in parallel?",
+      "context": "This eight times longer output than we, than we were expecting.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "Can the eight different heads be handled simultaneously without any impact on the result?",
+      "context": "So you can you again can do all these heads in a constant time, like in parallel.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7239010989010989
+      }
+    },
+    {
+      "question": "How would one typically handle an eight times longer output than expected when dealing with multiple heads?",
+      "context": "You do the normal thing. You would just concatenate them and project them to the size that you wanted.",
+      "difficulty": "analytical",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.9225490196078432
+      }
+    },
+    {
+      "question": "Is there any indication in the text that the different heads are interdependent?",
+      "context": "These heads are totally independent of each other.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "What is the implication of being able to handle multiple heads simultaneously for the overall process?",
+      "context": "So you again, these heads are totally independent of each other. So you can you again can do all these heads in a constant time, like in parallel.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7488095238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the expected number of different possible outputs when handling eight different heads in parallel?",
+      "context": "This eight times longer output than we, than we were expecting.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "Can the eight different heads be handled simultaneously without any impact on the result?",
+      "context": "So you can you again can do all these heads in a constant time, like in parallel.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7239010989010989
+      }
+    },
+    {
+      "question": "What is the implication of being able to handle multiple heads simultaneously for the overall process?",
+      "context": "So you again, these heads are totally independent of each other. So you can you again can do all these heads in a constant time, like in parallel.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7488095238095238
+      }
+    },
+    {
+      "question": "Is there any indication in the text that the different heads are interdependent?",
+      "context": "These heads are totally independent of each other.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.71875
+      }
+    }
+  ]
+}

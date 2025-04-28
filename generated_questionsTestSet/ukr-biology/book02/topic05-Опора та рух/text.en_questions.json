@@ -1,0 +1,490 @@
+{
+  "all_questions": [
+    {
+      "question": "Why does the musculoskeletal system have certain features?",
+      "context": "How can the features of the vital activity of animals affect the structure of their musculoskeletal system?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8890532544378698
+      }
+    },
+    {
+      "question": "What is the result of upright walking on the human spine and pelvis?",
+      "context": "Consequences of upright walking Many features of the structure of the human musculoskeletal system are a consequence of its adaptation to upright walking.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8176638176638177
+      }
+    },
+    {
+      "question": "What type of tissue do bones and cartilage belong to?",
+      "context": "To what type of tissue do bones and cartilage belong? How does this type of tissue differ from others?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.9,
+        "diversity_score": 0.8440705128205128
+      }
+    },
+    {
+      "question": "What is the function of the yellow bone marrow in the diaphysis of a tubular bone?",
+      "context": "The middle part of tubular (or long) bones (Fig. 26.1) is called the diaphysis and contains a cavity in which yellow bone marrow is located, represented mainly by fatty tissue.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.842032967032967
+      }
+    },
+    {
+      "question": "What type of joint is formed by a thin layer of connective tissue between two bones?",
+      "context": "Fixed joint (suture) Formed by a thin layer of connective tissue between the bones.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8533577533577533
+      }
+    },
+    {
+      "question": "What type of movement do joints like the elbow and knee joints allow?",
+      "context": "To ensure effective movements, the joints have a rather complex structure. The joint is limited by the joint bag, which separates its contents from other structures of the body.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8411538461538461
+      }
+    },
+    {
+      "question": "What type of movement do triaxial joints carry out?",
+      "context": "According to the possible directions of movement of the bones relative to each other, three types of joints are distinguished: uniaxial, which perform movements in one direction (interphalangeal joints of the fingers); biaxial, which perform movements in two directions (radiocarpal joint); triaxial, which carry out movements in three directions (hip joint).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8613624937154349
+      }
+    },
+    {
+      "question": "What is the main function of the second cervical vertebra?",
+      "context": "The second cervical vertebra - the epistropheus - has a special outgrowth, which is the axis around which the skull rotates.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8251424501424501
+      }
+    },
+    {
+      "question": "What percentage of the human body is made up of bones?",
+      "context": "Approximately 20% of the mass of our The body is made up of a skeleton.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7903846153846155
+      }
+    },
+    {
+      "question": "What type of tissue are muscles made of?",
+      "context": "Before moving on to the study of human muscles, remember what types of tissues are in the human body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.8004807692307692
+      }
+    },
+    {
+      "question": "How does this type of tissue differ from others?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.933048433048433
+      }
+    },
+    {
+      "question": "What allows a person to move areas of the skin relative to each other?",
+      "context": "Mimic muscles are usually attached at one end to the bones of the skull, and at the other to a certain area of the skin.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8388871587252154
+      }
+    },
+    {
+      "question": "What is the shape of the tendon in large muscles?",
+      "context": "In large muscles, it usually has a cylindrical shape.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8190883190883191
+      }
+    },
+    {
+      "question": "What are protein fibers in tendons made of?",
+      "context": "protein fibers, intertwined with each other, which gives them extraordinary strength.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9067599067599068
+      }
+    },
+    {
+      "question": "How do muscle cells contract?",
+      "context": "As a result of the action of the nervous system signal, the protein filaments move away from each other, and the total length of the muscle fiber decreases.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9015151515151515
+      }
+    },
+    {
+      "question": "What is calcium ions role in muscle contraction?",
+      "context": "An important role in the processes of contraction and relaxation is played by calcium ions, which are a signal for the muscle to start working.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8242521367521367
+      }
+    },
+    {
+      "question": "What type of muscle fatigue occurs during static work?",
+      "context": "During static work, the nerve centers, the cells of which can no longer produce new signals for the muscles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8439751969163733
+      }
+    },
+    {
+      "question": "Why does muscle efficiency decrease in cold conditions?",
+      "context": "The efficiency of human muscles decreases in cold conditions. This allows the body to release more energy in the form of heat and maintain the required body temperature.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8977272727272727
+      }
+    },
+    {
+      "question": "What percentage is the efficiency of a muscle cell compared to its whole self?",
+      "context": "The efficiency of the work of an individual muscle cell is quite high - approximately 50%. But the efficiency of the muscle as a whole is lower - about 20%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8437118437118437
+      }
+    },
+    {
+      "question": "What type of energy production does lead to muscle fatigue during dynamic work?",
+      "context": "During dynamic work, muscle fatigue occurs due to a lack of oxygen, a decrease in energy production and the accumulation of decay products.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8473278857894242
+      }
+    },
+    {
+      "question": "What percentage is the efficiency of modern gasoline engines?",
+      "context": "Modern gasoline engines have an efficiency of 25–30%.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8192663817663818
+      }
+    },
+    {
+      "question": "What is hypodynamia?",
+      "context": "Insufficient motor activity is one of the most common problems of our time. This disease is called hypodynamia.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7417200854700855
+      }
+    },
+    {
+      "question": "What is hypodynamia?",
+      "context": "e is called hypodynamia.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7649572649572649
+      }
+    },
+    {
+      "question": "Why does bone growth stop at 22–24 years of age?",
+      "context": "Bone growth processes stop at 22–24 years of age, but throughout a person's life, processes of replacing old bone substance with new occur.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9224358974358975
+      }
+    },
+    {
+      "question": "What happens to muscle growth after childhood and adolescence?",
+      "context": "Muscle growth continues not only in childhood and adolescence, but also in adulthood.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8938746438746439
+      }
+    },
+    {
+      "question": "How does insufficient physical activity affect human health?",
+      "context": "Insufficient physical activity leads to significant problems with human health.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9471153846153846
+      }
+    },
+    {
+      "question": "What is the purpose of applying a splint in case of a fracture?",
+      "context": "Fig. 30.1. Applying a splint in case of a fracture of the arm (a) and leg (b)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.801010101010101
+      }
+    },
+    {
+      "question": "What happens if damage cannot be reliably disinfected?",
+      "context": "Diseases of the musculoskeletal system can occur not only as a result of mechanical injuries. Like other organ systems, the musculoskeletal system can be affected by infectious agents and parasites.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8908333333333334
+      }
+    },
+    {
+      "question": "What are some common causes of diseases in the musculoskeletal system?",
+      "context": "Diseases of the musculoskeletal system can be caused by metabolic disorders, infections or mechanical injuries.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8192696192696193
+      }
+    },
+    {
+      "question": "What is the purpose of generalization on the topic \"Support and Movement\"?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.87995337995338
+      }
+    },
+    {
+      "question": "What is a feature of the human skeleton that distinguishes it from animals?",
+      "context": "A feature of the human skeleton that distinguishes it from the skeleton of animals: ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8,
+        "diversity_score": 0.811278465124619
+      }
+    },
+    {
+      "question": "How do bones grow in thickness?",
+      "context": "The bone grows in thickness due to the division of cells:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8521367521367521
+      }
+    },
+    {
+      "question": "What types of bones are semi-movably connected to each other?",
+      "context": "The following are semi-movably connected to each other:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8240384615384615
+      }
+    },
+    {
+      "question": "What part of the skeleton protects the heart, lungs and spinal cord?",
+      "context": "The protection of the heart, lungs and spinal cord is provided by the skeleton of:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8239196700735163
+      }
+    },
+    {
+      "question": "How are muscles divided based on their functions?",
+      "context": "According to the functions performed, the muscles are divided into:",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8990384615384616
+      }
+    },
+    {
+      "question": "Which group of muscles does the tailor's muscle belong to?",
+      "context": "The tailor's muscle belongs to the muscles of:",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.826007326007326
+      }
+    },
+    {
+      "question": "What type of injuries are most common in the musculoskeletal system?",
+      "context": "Diseases of the musculoskeletal system can be caused by metabolic disorders, infections or mechanical injuries. The most common mechanical injuries to the musculoskeletal system are muscle and ligament sprains, bruises and fractures.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8198404159942622
+      }
+    },
+    {
+      "question": "What is the purpose of providing first aid in cases of different types of injuries?",
+      "context": "It is necessary to know the rules for providing first aid in cases of different types of injuries in order not to cause even greater harm to the victim.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8495644312952005
+      }
+    },
+    {
+      "question": "What is meant by generalization on the topic \"Support and Movement\"?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9102564102564102
+      }
+    },
+    {
+      "question": "What bones are mentioned?",
+      "context": ") the pelvic bones and the femur",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.780982905982906
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does insufficient physical activity affect human health?",
+      "context": "Insufficient physical activity leads to significant problems with human health.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9471153846153846
+      }
+    },
+    {
+      "question": "How does this type of tissue differ from others?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.933048433048433
+      }
+    },
+    {
+      "question": "How do muscle cells contract?",
+      "context": "As a result of the action of the nervous system signal, the protein filaments move away from each other, and the total length of the muscle fiber decreases.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9015151515151515
+      }
+    },
+    {
+      "question": "What is meant by generalization on the topic \"Support and Movement\"?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9102564102564102
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of representation is being described in the document?",
+      "context": "The bigger problem is that there is no relation between words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7375
+      }
+    },
+    {
+      "question": "Why does the one-hot representation have a problem with capturing word relationships?",
+      "context": "So if you are considering whether the next output word should be the zebra or sleeping or question mark, then all these words are like on the same level.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.755
+      }
+    },
+    {
+      "question": "What is a key issue with identical words in the one-hot representation?",
+      "context": "So if you have a cat and you have a cat and that's the identical word, or you have a cat and then you have a dog and that's distinct, but that's identically distinct as the cat is distinct from a willow or from a big goss.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6458333333333334
+      }
+    },
+    {
+      "question": "What kind of comparison is made between two similar candidates in the one-hot representation?",
+      "context": "So if you're searching for a replacement for a cat and you are considering kitten versus because, and they seem equally good candidates, there is something wrong with the representation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7281746031746033
+      }
+    },
+    {
+      "question": "What would be a more sensible question to ask when dealing with words in the one-hot representation?",
+      "context": "So if you are considering then that's like much more easier or much more sensible question to ask than the and zebra or whatever.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6922268907563025
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of representation is being described in the document?",
+      "context": "The bigger problem is that there is no relation between words.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7375
+      }
+    },
+    {
+      "question": "Why does the one-hot representation have a problem with capturing word relationships?",
+      "context": "So if you are considering whether the next output word should be the zebra or sleeping or question mark, then all these words are like on the same level.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.755
+      }
+    },
+    {
+      "question": "What kind of comparison is made between two similar candidates in the one-hot representation?",
+      "context": "So if you're searching for a replacement for a cat and you are considering kitten versus because, and they seem equally good candidates, there is something wrong with the representation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7281746031746033
+      }
+    }
+  ]
+}

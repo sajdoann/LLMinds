@@ -1,0 +1,457 @@
+{
+  "all_questions": [
+    {
+      "question": "What challenges does neural machine translation currently face?",
+      "context": "Current Challenges Neural machine translation has emerged as the most promising machine translation approach in recent years, showing superior performance on public benchmarks (Bojar et al., 2016) and rapid adoption in deployments by, e.g., Google (Wu et al., 2016), Systran (Crego et al., 2016), and WIPO (Junczys-Dowmunt et al., 2016).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8533208689458689
+      }
+    },
+    {
+      "question": "What limitations do neural machine translation systems have?",
+      "context": "Another challenge that we do not examine empirically. neural machine translation systems are much less interpretable. The answer to the question of why the training data leads these systems to decide on specific word choices during decoding is buried in large matrices of real-numbered values.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8222222222222222
+      }
+    },
+    {
+      "question": "What is the main challenge in translation that the author is trying to address?",
+      "context": "A known challenge in translation is that in different domains, 5 words have different translations and meaning is expressed in different styles.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8302015250544663
+      }
+    },
+    {
+      "question": "What approach is often used for domain adaptation in neural machine translation?",
+      "context": "A currently popular approach is to train a general domain system, followed by training on in-domain data for a few epochs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8240740740740741
+      }
+    },
+    {
+      "question": "How do the data needs of statistical machine translation and neural machine translation compare?",
+      "context": "While the in-domain neural and statistical machine translation systems are similar (neural machine translation is better for IT and Subtitles, statistical machine translation is better for Law, Medical, and Koran), the out-of-domain performance for the neural machine translation systems is worse in almost all cases, sometimes dramatically so.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8085648148148148
+      }
+    },
+    {
+      "question": "What type of training data leads to better results for statistical machine translation systems?",
+      "context": "A well-known property of statistical systems is that increasing amounts of training data lead to better results. In statistical machine translation systems, we have previously observed that doubling the amount of training data gives a fixed increase in BLEU scores.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8381076388888888
+      }
+    },
+    {
+      "question": "How do neural and statistical machine translations compare in terms of data needs?",
+      "context": "Neural machine translation promises both to generalize better (exploiting word similarity in embeddings) and condition on larger context (entire input and all prior output words).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8434383903133903
+      }
+    },
+    {
+      "question": "Why does neural machine translation perform worse with smaller training corpus sizes, while statistical machine translation holds up better?",
+      "context": "To illustrate this, see Figure 8.4. With 1 1024 of the training data, the output is completely unrelated to the input, some key words are properly translated with 1 512 and 1 256 of the data . for . , . or . for . ), and starting with 1 64 the translations become respectable.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9013587891296869
+      }
+    },
+    {
+      "question": "What type of machine translation holds up fairly well even with corrupted training data?",
+      "context": "Statistical machine translation systems hold up fairly well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8737599206349207
+      }
+    },
+    {
+      "question": "Why does the neural machine translation system degrade severely despite having a good balance between language model and input context?",
+      "context": "When training observes increasing ratios of training example, for which the input sentence is a meaningless distraction, it may generally learn to rely more on the output language model aspect, hence hallucinating fluent by inadequate output.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8823937908496732
+      }
+    },
+    {
+      "question": "What is the main purpose of using an alignment mechanism between source and target words in neural machine translation?",
+      "context": "But there is a clear need for an alignment mechanism between source and target words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.8172027290448343
+      }
+    },
+    {
+      "question": "What is the outcome when comparing the soft alignment matrix (attention vectors) with word alignments obtained by traditional word alignment methods?",
+      "context": "For most words, these match up pretty well. However, the attention model may settle on alignments that do not correspond with our intuition or alignment points obtained with fast-align.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8709215167548501
+      }
+    },
+    {
+      "question": "What is the problem being investigated in this research?",
+      "context": "But is the attention model in fact the proper means? To examine this, we compare the soft alignment matrix (the sequence of attention vectors) with word alignments obtained by traditional word alignment methods.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8006503527336861
+      }
+    },
+    {
+      "question": "What happens to the alignment points when comparing the attention model with fast-align for reverse language direction?",
+      "context": "All the alignment points appear to be off by one position. We are not aware of any intuitive explanation for this divergent behavior.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8452219202898551
+      }
+    },
+    {
+      "question": "What is the main goal of measuring how well the soft alignment (attention model) matches the alignments of fast-align?",
+      "context": "We measure how well the soft alignment (attention model) of the neural machine translation system match the alignments of fast-align with two metrics...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8347222222222221
+      }
+    },
+    {
+      "question": "What is the purpose of handling byte pair encoding and many-to-many alignments in alignment scores?",
+      "context": "In these scores, we have to handle byte pair encoding and many-to-many alignments",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8176638176638177
+      }
+    },
+    {
+      "question": "Why are drastic divergences for German.English alignment scores considered outliers?",
+      "context": "The results suggest that, while drastic, the divergence for German.English is an outlier.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8768518518518519
+      }
+    },
+    {
+      "question": "How do match scores and probability mass scores for output words are computed?",
+      "context": "The match scores and probability mass scores are computed as average over output word-level scores.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.8536706349206349
+      }
+    },
+    {
+      "question": "What happens to output words with no fast-align alignment point in the computation of match scores and probability mass scores?",
+      "context": "(5) If an output word has no fast-align alignment point, it is ignored in this computation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8423611111111111
+      }
+    },
+    {
+      "question": "How do the scores for multiple aligned words to a single input word are handled when computing match and probability mass scores?",
+      "context": "(6) If an output word is fast-aligned to multiple input words, then (6a) count it as correct if the . aligned words among the top . highest scoring words according to attention and (6b) for the probability mass score. add up their attention scores.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5294117647058824,
+        "diversity_score": 0.8766550641550641
+      }
+    },
+    {
+      "question": "What is the purpose of guided alignment training in attention models?",
+      "context": "Note that the attention model may produce better word alignments by guided alignment training (Chen et al., 2016b. Liu et al., 2016) where supervised word alignments (such as the ones produced by fast-align) are provided to model training.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7706907787552949
+      }
+    },
+    {
+      "question": "What is the task of decoding in neural machine translation?",
+      "context": "The task of decoding is to find the full sentence translation with the highest probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7007478632478632
+      }
+    },
+    {
+      "question": "How does beam search work in decoding for neural machine translation?",
+      "context": "(1) neural machine translation operates on subwords, but fast-align is run on full words.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8212898212898213
+      }
+    },
+    {
+      "question": "What is the effect of beam size parameter on the search techniques in decoding for neural machine translation?",
+      "context": "(7) If an input word is split into subwords by byte pair encoding, then we add their attention scores.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.79734262125903
+      }
+    },
+    {
+      "question": "How do output words with fast-align alignment points to multiple input words affect the computation of match and probability mass scores?",
+      "context": "(6b) for the probability mass score. add up their attention scores.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8326388888888889
+      }
+    },
+    {
+      "question": "What is the relationship between beam size parameter and the search techniques in decoding for neural machine translation?",
+      "context": "A common feature of these search techniques is a beam size parameter that limits the number of partial translations maintained per input word.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8053610333022098
+      }
+    },
+    {
+      "question": "What are the results of running fast-align on parallel data sets for German.English alignment scores?",
+      "context": "Table 8.3 shows alignment scores for the systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.799074074074074
+      }
+    },
+    {
+      "question": "How do supervised word alignments (such as those produced by fast-align) affect model training in attention models?",
+      "context": "Note that the attention model may produce better word alignments by guided alignment training (Chen et al., 2016b. Liu et al., 2016) where supervised word alignments (such as the ones produced by fast-align) are provided to model training.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8797965422728231
+      }
+    },
+    {
+      "question": "What is the purpose of using beam search in decoding for neural machine translation?",
+      "context": "(8.5 Beam Search The task of decoding is to find the full sentence translation with the highest probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7404513888888888
+      }
+    },
+    {
+      "question": "What are the implications of using beam size parameter in decoding for neural machine translation?",
+      "context": "(7) If an input word is split into subwords by byte pair encoding, then we add their attention scores.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.791569200779727
+      }
+    },
+    {
+      "question": "How do the results of beam search affect the BLEU score for German.English alignment scores?",
+      "context": "Table 8.3 shows alignment scores for the systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7966269841269842
+      }
+    },
+    {
+      "question": "What are the differences between guided alignment training and unsupervised word alignments in attention models?",
+      "context": "Note that the attention model may produce better word alignments by guided alignment training (Chen et al., 2016b. Liu et al., 2016) where supervised word alignments (such as the ones produced by fast-align) are provided to model training.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8210274790919952
+      }
+    },
+    {
+      "question": "What is the optimal beam size for improving translation quality?",
+      "context": "The optimal beam size varies from 4 (e.g., Czech.English) to around 30 (English.Romanian). Normalizing sentence level model scores by length of the output alleviates the problem somewhat and also leads to better optimal quality in most cases (5 of the 8 language pairs investigated). Optimal beam sizes are in the range of 30.50 in almost all cases, but quality still drops with larger beams.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8131263616557735
+      }
+    },
+    {
+      "question": "How does increasing the beam size affect translation quality?",
+      "context": "While there are diminishing returns for increasing the beam parameter, typically improvements in these scores can be expected with larger beams. However, as Figure 8.6 illustrates, increasing the beam size does not consistently improve translation quality.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8515712682379349
+      }
+    },
+    {
+      "question": "What is the main cause of deteriorating quality in translations under wider beams?",
+      "context": "The main cause of deteriorating quality are shorter translations under wider beams.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8069800569800569
+      }
+    },
+    {
+      "question": "What is the optimal beam size range for most cases?",
+      "context": "Optimal beam sizes are in the range of 30.50 in almost all cases, but quality still drops with larger beams.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7976608187134503
+      }
+    },
+    {
+      "question": "What is the main cause of deteriorating quality with wider beams?",
+      "context": "The main cause of deteriorating quality are shorter translations under wider beams.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8000841750841751
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why are drastic divergences for German.English alignment scores considered outliers?",
+      "context": "The results suggest that, while drastic, the divergence for German.English is an outlier.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8768518518518519
+      }
+    },
+    {
+      "question": "How do supervised word alignments (such as those produced by fast-align) affect model training in attention models?",
+      "context": "Note that the attention model may produce better word alignments by guided alignment training (Chen et al., 2016b. Liu et al., 2016) where supervised word alignments (such as the ones produced by fast-align) are provided to model training.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8797965422728231
+      }
+    },
+    {
+      "question": "What type of machine translation holds up fairly well even with corrupted training data?",
+      "context": "Statistical machine translation systems hold up fairly well.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.8737599206349207
+      }
+    },
+    {
+      "question": "What are the differences between guided alignment training and unsupervised word alignments in attention models?",
+      "context": "Note that the attention model may produce better word alignments by guided alignment training (Chen et al., 2016b. Liu et al., 2016) where supervised word alignments (such as the ones produced by fast-align) are provided to model training.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8210274790919952
+      }
+    }
+  ]
+}

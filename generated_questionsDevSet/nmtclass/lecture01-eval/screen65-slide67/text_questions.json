@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the outcome for Google in the ranking system, considering ties?",
+      "context": "So we have discussed the ranking and in the ranking in that year Google won when we were considering the ties.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6732954545454546
+      }
+    },
+    {
+      "question": "How did the outcome for Google change when comparing systems strictly, without considering ties?",
+      "context": "When we were not considering the ties, when we asked the comparison to be strict so that one system is strictly better than the other, then PC translator won.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8178571428571428
+      }
+    },
+    {
+      "question": "What method of evaluation was used in the quiz-based assessment, and how did it compare to Google?",
+      "context": "So there was the two people, one reading the sentence and the other, one correcting the sentence and the other checking whether it was corrected in line with the original meaning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.821524064171123
+      }
+    },
+    {
+      "question": "Why is it important to consider multiple evaluation methods, such as manual evaluations, in assessing system performance?",
+      "context": "Different evaluation methods, and most of them are manual evaluation methods, they will give you different results.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.9112394957983193
+      }
+    },
+    {
+      "question": "What were the outcomes for the best systems in terms of human-like scoring, but not in other assessments?",
+      "context": "This year in 2019 we have seen that the best systems match humans in the GCSE style scoring but they score worse in the pseudo document or direct assessments and they are absolutely terrible when translating agreements.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8359375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the outcome for Google in the ranking system, considering ties?",
+      "context": "So we have discussed the ranking and in the ranking in that year Google won when we were considering the ties.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6732954545454546
+      }
+    },
+    {
+      "question": "What method of evaluation was used in the quiz-based assessment, and how did it compare to Google?",
+      "context": "So there was the two people, one reading the sentence and the other, one correcting the sentence and the other checking whether it was corrected in line with the original meaning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.821524064171123
+      }
+    },
+    {
+      "question": "How did the outcome for Google change when comparing systems strictly, without considering ties?",
+      "context": "When we were not considering the ties, when we asked the comparison to be strict so that one system is strictly better than the other, then PC translator won.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8178571428571428
+      }
+    },
+    {
+      "question": "Why is it important to consider multiple evaluation methods, such as manual evaluations, in assessing system performance?",
+      "context": "Different evaluation methods, and most of them are manual evaluation methods, they will give you different results.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.9112394957983193
+      }
+    }
+  ]
+}

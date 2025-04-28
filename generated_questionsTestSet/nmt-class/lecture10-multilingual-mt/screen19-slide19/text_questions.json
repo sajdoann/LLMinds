@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when a model is trained first on the parent language and then continued training on the child language pair?",
+      "context": "And you see that when translating from English we get some improvement and when we translate into English we get a bigger improvement.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7397875816993464
+      }
+    },
+    {
+      "question": "Why does the decoder benefit more from additional English data during translation?",
+      "context": "And there the reason is probably that the additional English data directly help in the language model of the or like in the in the child model so so",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7770833333333333
+      }
+    },
+    {
+      "question": "What is the main difference between the improvement when translating from English and into Slovak/Czech?",
+      "context": "And you see that when translating from English we get some improvement and when we translate into English we get a bigger improvement.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.6286764705882353
+      }
+    },
+    {
+      "question": "How does the encoder's knowledge of English affect its ability to improve Slovak/Czech translation?",
+      "context": "In the setup where you go from English the encoder knows English better but it doesn't help it too much to improve producing Slovak because Slovak is obviously different than Czech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8637566137566137
+      }
+    },
+    {
+      "question": "What is the main reason for the difference in improvement between translating from and into English?",
+      "context": "is the difference of the BLEU course when the model is trained on the child language pair only or whether it is first trained on the parent and then the training continues on the child.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.771875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when a model is trained first on the parent language and then continued training on the child language pair?",
+      "context": "And you see that when translating from English we get some improvement and when we translate into English we get a bigger improvement.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7397875816993464
+      }
+    },
+    {
+      "question": "How does the encoder's knowledge of English affect its ability to improve Slovak/Czech translation?",
+      "context": "In the setup where you go from English the encoder knows English better but it doesn't help it too much to improve producing Slovak because Slovak is obviously different than Czech.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8637566137566137
+      }
+    },
+    {
+      "question": "Why does the decoder benefit more from additional English data during translation?",
+      "context": "And there the reason is probably that the additional English data directly help in the language model of the or like in the in the child model so so",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7770833333333333
+      }
+    },
+    {
+      "question": "What is the main reason for the difference in improvement between translating from and into English?",
+      "context": "is the difference of the BLEU course when the model is trained on the child language pair only or whether it is first trained on the parent and then the training continues on the child.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.771875
+      }
+    }
+  ]
+}

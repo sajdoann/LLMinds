@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What motion does the Sun appear to make over the Earth?",
+      "context": "SECTION 4",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6375
+      }
+    },
+    {
+      "question": "Why can't an object moving in an arc return to its starting point without completing a full circle?",
+      "context": "[76]",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8235294117647058
+      }
+    },
+    {
+      "question": "What do Captain Parry and his officers observe when they ascend high land near the north pole?",
+      "context": "[76]",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8382352941176471
+      }
+    },
+    {
+      "question": "What is notable about the Sun's motion that can be observed from any northern latitude?",
+      "context": "SECTION 4",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6916666666666667
+      }
+    },
+    {
+      "question": "Can the Sun return to its center without completing a circle, given its apparent circular motion?",
+      "context": "SECTION 4",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can the Sun return to its center without completing a circle, given its apparent circular motion?",
+      "context": "SECTION 4",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.65
+      }
+    },
+    {
+      "question": "Why can't an object moving in an arc return to its starting point without completing a full circle?",
+      "context": "[76]",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8235294117647058
+      }
+    },
+    {
+      "question": "What is notable about the Sun's motion that can be observed from any northern latitude?",
+      "context": "SECTION 4",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6916666666666667
+      }
+    },
+    {
+      "question": "What do Captain Parry and his officers observe when they ascend high land near the north pole?",
+      "context": "[76]",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8382352941176471
+      }
+    }
+  ]
+}

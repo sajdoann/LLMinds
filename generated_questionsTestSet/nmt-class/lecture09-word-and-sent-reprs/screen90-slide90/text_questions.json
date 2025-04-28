@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the effect of using attention in this context?",
+      "context": "And here what we see is that the attention actually harms the performance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "What is recommended as a better approach for improving performance?",
+      "context": "It is better to use just the final state of the encoder and decoder",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9086538461538461
+      }
+    },
+    {
+      "question": "Why would using only the final state of the encoder and decoder be beneficial across multiple evaluation tasks?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9558823529411765
+      }
+    },
+    {
+      "question": "What is being tested or evaluated in this context?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "What conclusion can be drawn about the use of attention in this specific task?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8839285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the effect of using attention in this context?",
+      "context": "And here what we see is that the attention actually harms the performance.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.76875
+      }
+    },
+    {
+      "question": "What is recommended as a better approach for improving performance?",
+      "context": "It is better to use just the final state of the encoder and decoder",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9086538461538461
+      }
+    },
+    {
+      "question": "What is being tested or evaluated in this context?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    }
+  ]
+}

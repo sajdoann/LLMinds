@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many pardons did Václav Havel give in total?",
+      "context": "additional context",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What was the reason for Martin Odložil's imprisonment before President Havel granted him clemency?",
+      "context": "<p>Martin Odložil, the son of the famous gymnast Věra Čáslavská, in 1993, during an argument <a href=\"https://zpravy.aktualne.cz/domaci/kajinek-neni-prvni-havel-a-klaus-take-davali-sporne-milosti/r~888b87d8372511e79680002590604f2e/v~sl:9e8fcf6d9cb6f33bc09339aea463d111/\">hit</a> his father Josef Odložil. He hit his head as a result of the unfortunate fall and died.</p>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "What was Marta Chadimová accused of in 1992, according to the Czech News Agency?",
+      "context": "<p>The then President Havel granted her a pardon in 1995. In the Czech News Agency, he said: \"She is in custody for the third time, (...) the trial has been going on for three and a half years, there is no end in sight, the verdict is not in sight and she is very seriously ill.\"</p>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8907807308970099
+      }
+    },
+    {
+      "question": "Why did Miloš Zeman compare Václav Havel's pardons to his own pardon of Miloš Balák?",
+      "context": "<p>He was <a href=\"https://www.ceskenoviny.cz/zpravy/prezident-zeman-udelil-milost-obvinenemu-sefovi-lanske-obory-balakovi/2184952\">finally</a> convicted of influencing a public procurement contract in the Lánská obor. President <a href=\"https://www.hrad.cz/cs/pro-media/tiskove-zpravy/aktualni-tiskove-zpravy/prezident-republiky-udelil-milost-16350#from-list\">Zeman</a> justified his decision to grant a pardon, among other things, by saying that Balák was <i>'an exceptionally hard-working and qualified senior employee'</i>.</p>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8868243243243243
+      }
+    },
+    {
+      "question": "How long had Marta Chadimová's trial dragged on when she finally accepted President Havel's pardon in 2003?",
+      "context": "<p>However, a final judgment was never issued, so this designation is again relatively simplistic. We therefore assess the statement as true with reservations.</p>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.899616368286445
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many pardons did Václav Havel give in total?",
+      "context": "additional context",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What was the reason for Martin Odložil's imprisonment before President Havel granted him clemency?",
+      "context": "<p>Martin Odložil, the son of the famous gymnast Věra Čáslavská, in 1993, during an argument <a href=\"https://zpravy.aktualne.cz/domaci/kajinek-neni-prvni-havel-a-klaus-take-davali-sporne-milosti/r~888b87d8372511e79680002590604f2e/v~sl:9e8fcf6d9cb6f33bc09339aea463d111/\">hit</a> his father Josef Odložil. He hit his head as a result of the unfortunate fall and died.</p>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "What was Marta Chadimová accused of in 1992, according to the Czech News Agency?",
+      "context": "<p>The then President Havel granted her a pardon in 1995. In the Czech News Agency, he said: \"She is in custody for the third time, (...) the trial has been going on for three and a half years, there is no end in sight, the verdict is not in sight and she is very seriously ill.\"</p>",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8907807308970099
+      }
+    }
+  ]
+}

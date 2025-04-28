@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "When did the Max-Planck-Gesellschaft establish an Arbeitsgruppe to research its own past?",
+      "context": "Als eine der ersten Einrichtungen ließ die Max-Planck-Gesellschaft 1997 eine Arbeitsgruppe zur Erforschung ihrer eigenen Vergangenheit einrichten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9328703703703703
+      }
+    },
+    {
+      "question": "What was the reason behind the establishment of such an initiative, according to Rüdiger vom Bruch?",
+      "context": "Der wesentliche Grund aber war nicht, dass man sich schuldig fühlte. Es geschah nicht aus einem Schuldgefühl heraus.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9061728395061728
+      }
+    },
+    {
+      "question": "Who were the affected individuals?",
+      "context": "Weil zum Teil verehrte Lehrerpersönlichkeiten betroffen waren, wo man sich nicht getraut hat, Fragen zu stellen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "What was the original intention of the Project Gedenkort Charité?",
+      "context": "Der Chef der Charité, Prof. Dr. Karl-Max Einhäupel, erzählt, welche Ziele man verfolgte.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8873456790123457
+      }
+    },
+    {
+      "question": "Who were the artists involved in creating the Gedenksäulen?",
+      "context": "Man wollte etwas schaffen, ins Leben rufen, das von bekannten, namhaften Künstlern erstellt wurde.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9156746031746031
+      }
+    },
+    {
+      "question": "Wie viele jüdische Dozenten und Professoren haben die Medizinhistoriker verfolgen können?",
+      "context": "Wir wissen inzwischen von weit über 180 jüdischen Dozenten und Professoren.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9646464646464646
+      }
+    },
+    {
+      "question": "Wie war der berufliche Neuanfang für die Mediziner, die ins Ausland flohen?",
+      "context": "Allerdings war der berufliche Neuanfang in der neuen Heimat aus verschiedenen Gründen nicht einfach, sagt Udo Schagen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9397095959595959
+      }
+    },
+    {
+      "question": "Warum ist es wichtig, dass Ärzte heute mit dem Verhalten von Ärzten im Dritten Reich auseinandersetzen?",
+      "context": "Dass sich Studierende heute mit dem Verhalten von Ärzten im Dritten Reich auseinandersetzen, ist für Charité-Chef Karl Max Einhäupel ein wichtiger Teil der Ausbildung in medizinischer Ethik.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9691358024691358
+      }
+    },
+    {
+      "question": "Wie soll das Projekt Gedenkort Charité dienen?",
+      "context": "Das Projekt Gedenkort Charité soll nicht nur an die Vergangenheit erinnern, sondern auch einer neuen Generation von Ärzten als Mahnung dienen.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.873015873015873
+      }
+    },
+    {
+      "question": "What is the main purpose of the Projekt Gedenkort Charité?",
+      "context": "Das Projekt Gedenkort Charité soll nicht nur an die Vergangenheit erinnern, sondern auch einer neuen Generation von Ärzten als Mahnung dienen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8324514991181657
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When did the Max-Planck-Gesellschaft establish an Arbeitsgruppe to research its own past?",
+      "context": "Als eine der ersten Einrichtungen ließ die Max-Planck-Gesellschaft 1997 eine Arbeitsgruppe zur Erforschung ihrer eigenen Vergangenheit einrichten.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9328703703703703
+      }
+    },
+    {
+      "question": "Wie viele jüdische Dozenten und Professoren haben die Medizinhistoriker verfolgen können?",
+      "context": "Wir wissen inzwischen von weit über 180 jüdischen Dozenten und Professoren.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9646464646464646
+      }
+    },
+    {
+      "question": "Wie war der berufliche Neuanfang für die Mediziner, die ins Ausland flohen?",
+      "context": "Allerdings war der berufliche Neuanfang in der neuen Heimat aus verschiedenen Gründen nicht einfach, sagt Udo Schagen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9397095959595959
+      }
+    },
+    {
+      "question": "Warum ist es wichtig, dass Ärzte heute mit dem Verhalten von Ärzten im Dritten Reich auseinandersetzen?",
+      "context": "Dass sich Studierende heute mit dem Verhalten von Ärzten im Dritten Reich auseinandersetzen, ist für Charité-Chef Karl Max Einhäupel ein wichtiger Teil der Ausbildung in medizinischer Ethik.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9691358024691358
+      }
+    },
+    {
+      "question": "What was the reason behind the establishment of such an initiative, according to Rüdiger vom Bruch?",
+      "context": "Der wesentliche Grund aber war nicht, dass man sich schuldig fühlte. Es geschah nicht aus einem Schuldgefühl heraus.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9061728395061728
+      }
+    }
+  ]
+}

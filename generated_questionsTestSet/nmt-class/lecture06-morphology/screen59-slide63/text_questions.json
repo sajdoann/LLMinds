@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of training a reverse system that backs off to lemmas?",
+      "context": "In the reverse translation, we can back off to lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7958333333333334
+      }
+    },
+    {
+      "question": "How does the Czech lemma kočka relate to its English translation?",
+      "context": "So here the same thing will hold. In Czech there is not the distinction of cases.",
+      "difficulty": "medium",
+      "category": "inferred",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8037878787878787
+      }
+    },
+    {
+      "question": "What type of system is described in the document as being trained?",
+      "context": "It will not know how to translate the form kočce, but it will know how to",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7490530303030303
+      }
+    },
+    {
+      "question": "Why is there a distinction between cases in Czech and English?",
+      "context": "In English there is not the distinction of cases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7765151515151515
+      }
+    },
+    {
+      "question": "What will the reverse system be able to do despite not knowing how to translate kočce?",
+      "context": "It will know how to",
+      "difficulty": "medium",
+      "category": "inferred",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7333333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of training a reverse system that backs off to lemmas?",
+      "context": "In the reverse translation, we can back off to lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7958333333333334
+      }
+    },
+    {
+      "question": "How does the Czech lemma kočka relate to its English translation?",
+      "context": "So here the same thing will hold. In Czech there is not the distinction of cases.",
+      "difficulty": "medium",
+      "category": "inferred",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8037878787878787
+      }
+    },
+    {
+      "question": "What will the reverse system be able to do despite not knowing how to translate kočce?",
+      "context": "It will know how to",
+      "difficulty": "medium",
+      "category": "inferred",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7333333333333334
+      }
+    }
+  ]
+}

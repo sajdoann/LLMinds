@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Are the systems trained and tested on corpora that are utterance segmented?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.5227272727272727
+      }
+    },
+    {
+      "question": "What is the purpose of segmenting corpora in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "Is segmentation of corpora a requirement for these systems' training and testing?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.44791666666666663
+      }
+    },
+    {
+      "question": "What kind of data do the corpora represent in this context?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.46590909090909094
+      }
+    },
+    {
+      "question": "Is segmentation of corpora a guarantee for the systems' training and testing?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.41666666666666663
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Are the systems trained and tested on corpora that are utterance segmented?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.5227272727272727
+      }
+    },
+    {
+      "question": "Is segmentation of corpora a requirement for these systems' training and testing?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.44791666666666663
+      }
+    },
+    {
+      "question": "Is segmentation of corpora a guarantee for the systems' training and testing?",
+      "context": "But remember, these systems are trained and tested on corpora which are utterance segmented by themselves.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.41666666666666663
+      }
+    },
+    {
+      "question": "What is the purpose of segmenting corpora in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8
+      }
+    }
+  ]
+}

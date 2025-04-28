@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who started and finished the careful structure of processing steps?",
+      "context": "This is a little bit more complicated.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8357142857142857
+      }
+    },
+    {
+      "question": "What is the benefit of using this approach in the text?",
+      "context": "The benefit of this approach is thatQu pinta przycd bounds.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What type of data are used to train statistically important deciding steps?",
+      "context": "Some of these steps are rule-based and the important deciding ones are statistically trained on various types of data.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9111519607843137
+      }
+    },
+    {
+      "question": "Is it guaranteed that the output sentence will be grammatical if this approach is followed?",
+      "context": "So if you follow this approach, it is absolutely sure that the output sentence will be grammatical.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8697478991596639
+      }
+    },
+    {
+      "question": "What is the potential risk associated with following this approach?",
+      "context": "But there is risk of errors along the path.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7763888888888889
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is it guaranteed that the output sentence will be grammatical if this approach is followed?",
+      "context": "So if you follow this approach, it is absolutely sure that the output sentence will be grammatical.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8697478991596639
+      }
+    },
+    {
+      "question": "What is the potential risk associated with following this approach?",
+      "context": "But there is risk of errors along the path.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7763888888888889
+      }
+    },
+    {
+      "question": "What is the benefit of using this approach in the text?",
+      "context": "The benefit of this approach is thatQu pinta przycd bounds.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What type of data are used to train statistically important deciding steps?",
+      "context": "Some of these steps are rule-based and the important deciding ones are statistically trained on various types of data.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.9111519607843137
+      }
+    }
+  ]
+}

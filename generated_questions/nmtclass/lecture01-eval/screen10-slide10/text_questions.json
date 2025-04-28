@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of evaluation was used to assess machine translation systems in 2018?",
+      "context": "The mention of 'result from 2018' and 'evaluation, the direct assessment, and it was switched to source-based, not reference-based'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7166289592760181
+      }
+    },
+    {
+      "question": "How did the assessors evaluate machine translation systems in addition to comparing them to the source?",
+      "context": "The mention of 'people, the assessors, were evaluating...but also the human professional translation'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6688311688311689
+      }
+    },
+    {
+      "question": "What was notable about the result from 2018 in terms of the performance of machine translation systems?",
+      "context": "The mention of 'system trained by Martin Popel, was significantly better than the professional translation'",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7160714285714286
+      }
+    },
+    {
+      "question": "How did the Edinburgh machine translation system compare to human professional translations in terms of quality?",
+      "context": "The mention of 'the professionals were on par, indistinguishable, in quality from the Edinburgh machine translation system'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7109375
+      }
+    },
+    {
+      "question": "Why is it suspicious that Martin Popel's machine translation system performed significantly better than human professional translations?",
+      "context": "The mention of 'already is suspicious' and the bars indicating significance",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.7566176470588235
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of evaluation was used to assess machine translation systems in 2018?",
+      "context": "The mention of 'result from 2018' and 'evaluation, the direct assessment, and it was switched to source-based, not reference-based'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7166289592760181
+      }
+    },
+    {
+      "question": "How did the Edinburgh machine translation system compare to human professional translations in terms of quality?",
+      "context": "The mention of 'the professionals were on par, indistinguishable, in quality from the Edinburgh machine translation system'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7109375
+      }
+    },
+    {
+      "question": "How did the assessors evaluate machine translation systems in addition to comparing them to the source?",
+      "context": "The mention of 'people, the assessors, were evaluating...but also the human professional translation'",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6688311688311689
+      }
+    },
+    {
+      "question": "Why is it suspicious that Martin Popel's machine translation system performed significantly better than human professional translations?",
+      "context": "The mention of 'already is suspicious' and the bars indicating significance",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.7566176470588235
+      }
+    }
+  ]
+}

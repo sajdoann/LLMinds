@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main challenges to fight in the large search space?",
+      "context": "So what we need to do now is to fight the large search space.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8356643356643356
+      }
+    },
+    {
+      "question": "How can the same input string be translated with different lengths of phrases?",
+      "context": "the candidate hypothesis the partial hypothesis in this example could be it is as two separate like expansion steps or it is covering the two words at once.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8452797202797203
+      }
+    },
+    {
+      "question": "Why do people only choose the high-scoring translation instead of summing probabilities?",
+      "context": "What people do in practice is only choose the high scoring one.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "How can the search space be reduced by recombining hypotheses?",
+      "context": "So there is no point if one of these hypotheses for example this single step one is higher scoring one there is no point in expanding all the continuation of this and also all the continuation of this.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the effect of recombining hypotheses on the future scores of candidate translations?",
+      "context": "Unfortunately this safe recombination does not change the scores of the future.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8371212121212122
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the main challenges to fight in the large search space?",
+      "context": "So what we need to do now is to fight the large search space.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8356643356643356
+      }
+    },
+    {
+      "question": "How can the same input string be translated with different lengths of phrases?",
+      "context": "the candidate hypothesis the partial hypothesis in this example could be it is as two separate like expansion steps or it is covering the two words at once.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8452797202797203
+      }
+    },
+    {
+      "question": "What is the effect of recombining hypotheses on the future scores of candidate translations?",
+      "context": "Unfortunately this safe recombination does not change the scores of the future.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8371212121212122
+      }
+    }
+  ]
+}

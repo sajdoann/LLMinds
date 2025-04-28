@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What problem does using a separate head solve in attention mechanisms?",
+      "context": "It corresponds to a separate head.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7367424242424243
+      }
+    },
+    {
+      "question": "How does the decoder access information from the encoder's heads?",
+      "context": "So the network has the capacity to attend to various parts of the sentence but it has a fixed and limited number of these views",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8243055555555556
+      }
+    },
+    {
+      "question": "What is the name of the attention mechanism described in the document?",
+      "context": "So either the decoder will get this inner attention of the encoder as one concatenated vector ... that's the attention context.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7541666666666667
+      }
+    },
+    {
+      "question": "What are the two ways the decoder can operate with the attention mechanism?",
+      "context": "So the decoder operates on the entire embedding of the sentence ... or the decoder can even attend to this summary of attention.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7544191919191919
+      }
+    },
+    {
+      "question": "What is the primary benefit of using a separate head in attention mechanisms?",
+      "context": "So we have the sentence representation. And so this is something that you can do with the sequence to sequence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7227564102564102
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What problem does using a separate head solve in attention mechanisms?",
+      "context": "It corresponds to a separate head.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7367424242424243
+      }
+    },
+    {
+      "question": "How does the decoder access information from the encoder's heads?",
+      "context": "So the network has the capacity to attend to various parts of the sentence but it has a fixed and limited number of these views",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8243055555555556
+      }
+    },
+    {
+      "question": "What is the name of the attention mechanism described in the document?",
+      "context": "So either the decoder will get this inner attention of the encoder as one concatenated vector ... that's the attention context.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7541666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What field do you need to carefully examine in order to determine the winner of the MT system?",
+      "context": "If you have these scores, how do you get the winner of the MT system?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.5594951923076923
+      }
+    },
+    {
+      "question": "What are the 'screens of annotations' or 'blocks' that people provide when interpreting middle ranks?",
+      "context": "So when interpreting these middle ranks, what you are getting from people is these screens of annotations or we can maybe call them blocks.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.6384057971014493
+      }
+    },
+    {
+      "question": "What evaluation method do you need to establish in order to work effectively in your field?",
+      "context": "So here is a little intermezzo. If you have these scores, how do you get the winner of the MT system? And the main message from this is whatever field you are working in, whatever evaluation method is established there, you need to very carefully see what is behind the scenes and what is actually being done.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.658685064935065
+      }
+    },
+    {
+      "question": "What do these 'screens of annotations' or 'blocks' reveal about how people interpret middle ranks?",
+      "context": "So when interpreting these middle ranks, what you are getting from people is these screens of annotations or we can maybe call them blocks.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.6384057971014493
+      }
+    },
+    {
+      "question": "What is the main message that the document wants to convey about working in your field?",
+      "context": "So here is a little intermezzo. If you have these scores, how do you get the winner of the MT system? And the main message from this is whatever field you are working in, whatever evaluation method is established there, you need to very carefully see what is behind the scenes and what is actually being done.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6759469696969697
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What field do you need to carefully examine in order to determine the winner of the MT system?",
+      "context": "If you have these scores, how do you get the winner of the MT system?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.5594951923076923
+      }
+    },
+    {
+      "question": "What is the main message that the document wants to convey about working in your field?",
+      "context": "So here is a little intermezzo. If you have these scores, how do you get the winner of the MT system? And the main message from this is whatever field you are working in, whatever evaluation method is established there, you need to very carefully see what is behind the scenes and what is actually being done.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.6759469696969697
+      }
+    },
+    {
+      "question": "What evaluation method do you need to establish in order to work effectively in your field?",
+      "context": "So here is a little intermezzo. If you have these scores, how do you get the winner of the MT system? And the main message from this is whatever field you are working in, whatever evaluation method is established there, you need to very carefully see what is behind the scenes and what is actually being done.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.658685064935065
+      }
+    }
+  ]
+}

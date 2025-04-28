@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does Bayes' law allow us to do with conditional probability?",
+      "context": "It's non-decomposable. You don't know what to do with that.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.884090909090909
+      }
+    },
+    {
+      "question": "How does the argmax function help in simplifying the formula?",
+      "context": "So you can just ignore the probability of that constant.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7652777777777777
+      }
+    },
+    {
+      "question": "What is the result of applying Bayes' law to the conditional probability formula?",
+      "context": "First class, we could see the probability of the target sentence given the source into two separate probabilities, Probability of the source given the target.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7775735294117647
+      }
+    },
+    {
+      "question": "What is being compared when the argmax function searches for the highest scoring element?",
+      "context": "And all elements in this comparison are divided by the same number, the probability of the source sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7518028846153846
+      }
+    },
+    {
+      "question": "What is being simplified when considering the probability of a target sentence given a source sentence?",
+      "context": "And if you have a set of elements and all of them are divided by the same number, you can find the highest scoring element even without actually dividing it by the number.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8212962962962963
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is being simplified when considering the probability of a target sentence given a source sentence?",
+      "context": "And if you have a set of elements and all of them are divided by the same number, you can find the highest scoring element even without actually dividing it by the number.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8212962962962963
+      }
+    },
+    {
+      "question": "What is the result of applying Bayes' law to the conditional probability formula?",
+      "context": "First class, we could see the probability of the target sentence given the source into two separate probabilities, Probability of the source given the target.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7775735294117647
+      }
+    },
+    {
+      "question": "How does the argmax function help in simplifying the formula?",
+      "context": "So you can just ignore the probability of that constant.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7652777777777777
+      }
+    }
+  ]
+}

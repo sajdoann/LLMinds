@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal of machine translation?",
+      "context": "So machine translation obviously critically depends on the meaning of the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "Why do human translators ask colleagues for help when translating complex topics?",
+      "context": "They will go and talk to persons who build houses in each of the languages and they will match the expressions so that the translation is accurate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8570075757575757
+      }
+    },
+    {
+      "question": "What do translators do when they are unsure about the meaning of an original text?",
+      "context": "And then they either try to preserve the ambiguity. So make it exactly ambiguous or as close ambiguous as possible in the target language.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8154761904761905
+      }
+    },
+    {
+      "question": "What is the purpose of translator's comments in a book?",
+      "context": "So there are like translator's comments. So in good books, they, you can see them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8553571428571429
+      }
+    },
+    {
+      "question": "Why might translators mention that the original text was not clear?",
+      "context": "If the author is no longer available to resolve any ambiguities, then translators may resort to just mentioning that the origin text was not clear.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8769762845849802
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of translator's comments in a book?",
+      "context": "So there are like translator's comments. So in good books, they, you can see them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8553571428571429
+      }
+    },
+    {
+      "question": "Why might translators mention that the original text was not clear?",
+      "context": "If the author is no longer available to resolve any ambiguities, then translators may resort to just mentioning that the origin text was not clear.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8769762845849802
+      }
+    },
+    {
+      "question": "Why do human translators ask colleagues for help when translating complex topics?",
+      "context": "They will go and talk to persons who build houses in each of the languages and they will match the expressions so that the translation is accurate.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8570075757575757
+      }
+    }
+  ]
+}

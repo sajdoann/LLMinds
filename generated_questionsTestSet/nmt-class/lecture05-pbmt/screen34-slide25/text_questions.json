@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Why can two competing hypotheses have the same number of source words?",
+      "context": "So they compete on the same stack. But one of them does the easy part first and one of them does the hard part of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7430555555555556
+      }
+    },
+    {
+      "question": "What is the purpose of a heuristic in the A star search algorithm?",
+      "context": "So, this is this is the future cost estimate and this future cost estimate when considered for these easy first or hard first hypothesis will the comparison fair.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7340909090909091
+      }
+    },
+    {
+      "question": "Why does a system prefer to keep a hypothesis that translates only the easy words?",
+      "context": "So, if we prune based on the score so far, the cost based so far, we would probably drop the hypothesis which translates the hard part of the sentence first. And that is not fair because later on it will have a chance to recover its score.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7490601503759399
+      }
+    },
+    {
+      "question": "What happens if a system uses only the current score without future estimation cost?",
+      "context": "So the system would keep this one on the stack and it would prune the the monotone translation and that is something which we do not want.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7288961038961039
+      }
+    },
+    {
+      "question": "Why does a hypothesis with a higher future cost estimate have a lower overall score?",
+      "context": "Yeah so here the example is the tourism initiative addresses this for the first time and the tourism initiative is a pretty rare thing so it would be hard to translate the first time is something which is easy to easy to translate so based on these scores without future estimation cost then this translation of the first time seems higher scoring.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7793151969981238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens if a system uses only the current score without future estimation cost?",
+      "context": "So the system would keep this one on the stack and it would prune the the monotone translation and that is something which we do not want.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7288961038961039
+      }
+    },
+    {
+      "question": "Why does a system prefer to keep a hypothesis that translates only the easy words?",
+      "context": "So, if we prune based on the score so far, the cost based so far, we would probably drop the hypothesis which translates the hard part of the sentence first. And that is not fair because later on it will have a chance to recover its score.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7490601503759399
+      }
+    },
+    {
+      "question": "Why can two competing hypotheses have the same number of source words?",
+      "context": "So they compete on the same stack. But one of them does the easy part first and one of them does the hard part of the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7430555555555556
+      }
+    },
+    {
+      "question": "Why does a hypothesis with a higher future cost estimate have a lower overall score?",
+      "context": "Yeah so here the example is the tourism initiative addresses this for the first time and the tourism initiative is a pretty rare thing so it would be hard to translate the first time is something which is easy to easy to translate so based on these scores without future estimation cost then this translation of the first time seems higher scoring.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7793151969981238
+      }
+    }
+  ]
+}

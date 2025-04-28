@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'fluency' refer to in the context of translation quality?",
+      "context": "They are also checking for fluency, which is the spelling, typography and the style or register of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6711229946524064
+      }
+    },
+    {
+      "question": "Why is it crucial to consider 'verity' in translation quality?",
+      "context": "So that's like the local applicability. If the translation will fit the local context of where it is going to be used.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7690789473684211
+      }
+    },
+    {
+      "question": "What types of errors are checked for in terms of 'accuracy'?",
+      "context": "For accuracy they are checking for omission or mistranslation and addition.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "How does the translation industry's standardization of quality metrics relate to other industries that use similar metrics?",
+      "context": "This is something which got later standardized and the translation industry also uses that, so I need to mention this multi-dimensional quality metrics.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8469251336898396
+      }
+    },
+    {
+      "question": "What would happen if a translation from German into English contains instructions for driving on the left-hand side in Australia or the UK?",
+      "context": "So that's like the local applicability. If you are translating driving instructions from German into English and you are doing it for driving in Australia or in the UK and you are saying drive on the left-hand side and you preserve the side of the road then it will cause crashes in those countries.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6470588235294118,
+        "diversity_score": 0.861842105263158
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What types of errors are checked for in terms of 'accuracy'?",
+      "context": "For accuracy they are checking for omission or mistranslation and addition.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "How does the translation industry's standardization of quality metrics relate to other industries that use similar metrics?",
+      "context": "This is something which got later standardized and the translation industry also uses that, so I need to mention this multi-dimensional quality metrics.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8469251336898396
+      }
+    },
+    {
+      "question": "Why is it crucial to consider 'verity' in translation quality?",
+      "context": "So that's like the local applicability. If the translation will fit the local context of where it is going to be used.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7690789473684211
+      }
+    }
+  ]
+}

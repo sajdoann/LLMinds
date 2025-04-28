@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What benefit does using linguistic information from the source side provide to machine translation?",
+      "context": "for the translation. And here is a summary of various evaluations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5925324675324675
+      }
+    },
+    {
+      "question": "How can using explicit linguistic information improve machine translation predictions?",
+      "context": "Indeed, it helps. So that's a good thing that we can use explicitly available linguistic information on the source side and improve the prediction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.629891304347826
+      }
+    },
+    {
+      "question": "What type of information is being used in machine translation?",
+      "context": "for the translation. And here is a summary of various evaluations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6193181818181819
+      }
+    },
+    {
+      "question": "Why does using linguistic information from the source side have a positive effect on machine translation predictions?",
+      "context": "Indeed, it helps. So that's a good thing that we can use explicitly available linguistic information on the source side and improve the prediction.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6806265984654731
+      }
+    },
+    {
+      "question": "What is the overall implication of using explicit linguistic information in machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of information is being used in machine translation?",
+      "context": "for the translation. And here is a summary of various evaluations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6193181818181819
+      }
+    },
+    {
+      "question": "Why does using linguistic information from the source side have a positive effect on machine translation predictions?",
+      "context": "Indeed, it helps. So that's a good thing that we can use explicitly available linguistic information on the source side and improve the prediction.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6806265984654731
+      }
+    },
+    {
+      "question": "How can using explicit linguistic information improve machine translation predictions?",
+      "context": "Indeed, it helps. So that's a good thing that we can use explicitly available linguistic information on the source side and improve the prediction.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.629891304347826
+      }
+    }
+  ]
+}

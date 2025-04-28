@@ -1,0 +1,842 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main function of катіони Гідрогену (H+) in a cell?",
+      "context": "Катіони Гідрогену (H + ) забезпечують кислотно-лужний баланс (підтримують станість внутрішньоклітинного середовища)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8485915492957746
+      }
+    },
+    {
+      "question": "What is the role of слаборозчинні солі in a cell?",
+      "context": "Слаброзчинні солі забезпечують опорну структуру (наприклад, у кістках хребетних)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8155712050078248
+      }
+    },
+    {
+      "question": "What are the main components of nerve impulses?",
+      "context": "нціалів між умістом клітині і на-вколишнім середовищем, забезпечують проведення нерво-вого імпульсу",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8377880921895007
+      }
+    },
+    {
+      "question": "What are the main functions of ions in living organisms?",
+      "context": "Йони металічних еле-ментів, Є компонентами багатьох гормонів, ферментів та вітамінів чи беруть участь у їх активації",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8422535211267606
+      }
+    },
+    {
+      "question": "What is the role of water in living organisms?",
+      "context": "Водя виконує багато функцій: розчинну, транспортну, метаболічну, терморегуляторну, структурну.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8176838810641627
+      }
+    },
+    {
+      "question": "What are the main organic compounds found in living organisms?",
+      "context": "Органічні речовини живих організмів входять органічні речовини (мал. 3.1).Orgанічних речовин у світі набагаються білки, вуглеводи, ліпіди, нуклеїнові кислоти.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.869718309859155
+      }
+    },
+    {
+      "question": "What are the main organic compounds found in living organisms?",
+      "context": "У яких продуктахorganічні речовини містяться в найбільшій кількості?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8565140845070423
+      }
+    },
+    {
+      "question": "What are the main categories of organic molecules?",
+      "context": "Органічні молекули. Біополімери. Групи: білки, вуглеводи, ліпіди й нуклеїнові кислоти.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8336267605633803
+      }
+    },
+    {
+      "question": "What is a polymer?",
+      "context": "Органічні молекули за їхнім розміром поділяють на дві групи — мали й великі молекули (макромолекули). Макромолекули мають масу понад 1000 Да.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7524647887323943
+      }
+    },
+    {
+      "question": "What is a biopolymer?",
+      "context": "Полімери, які виробляються живими організмами, називають біополімерами . Наприклад, капрон, який виробляють штучно, — це полімер, а шовк, який виробляють комахи, — біополімер.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.755281690140845
+      }
+    },
+    {
+      "question": "What are amino acids?",
+      "context": "Амінокислоти — це органічні молекули, до складу яких обов’язово входить дві групи атомів — аміногрупа (–NH2 ) і карбоксильна група (–COOH).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8408450704225352
+      }
+    },
+    {
+      "question": "What is the structure of a protein molecule?",
+      "context": "Білкова молекула — лінійний полімер, який складається з мономерів - амінокислот, які з’єднані у вигляді ланцюжка.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7856514084507042
+      }
+    },
+    {
+      "question": "What is the function of amino acids in a protein molecule?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8405889884763125
+      }
+    },
+    {
+      "question": "What is the name of the chemical bond that forms between amino acids to create a polypeptide chain?",
+      "context": "Пептидний зв’язок виникає внаслідок хімічної реакції між аміногрупою (–NH 2 ) одної амінокислоти й карбоксильною групою (–COOH) іншої амінокислоти.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.893014433349322
+      }
+    },
+    {
+      "question": "What is the structure of a polypeptide chain?",
+      "context": "Білок — це лінійний полімер, який складається з великої кількості амінокислот, з’єднаних у ланцюжок і згорнутих у просторі певним чи-ном.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7888250555967383
+      }
+    },
+    {
+      "question": "What is the main difference between primary and secondary structures of a protein?",
+      "context": "Первинна структура білка забезпечує об’єднання амінокислот в один ланцюжок. Цей ланцюжок має лінійну структуру (тобо-",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8512820512820513
+      }
+    },
+    {
+      "question": "What is the function of the hydrogen bond in a polypeptide chain?",
+      "context": "Цей зв’язок є ковалентним, а отже, найміцнішим у молекулі білка.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.817157490396927
+      }
+    },
+    {
+      "question": "What is the difference between α- and β-structures in a protein?",
+      "context": "і тільки в такому вигляді вона може нормально виконувати свої унікальні функції.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8433098591549295
+      }
+    },
+    {
+      "question": "What is the main difference in the way secondary structures are formed in proteins?",
+      "context": "They [secondary structures] forms за допомогою водневих зв’язків, що виникають між амінокислотними залишками, що розташовані поряд. Зкурсом хімії ви вже знаєте,що водневі зв’язки виникають між атомами Оксигену та Гідрогену різних молекул.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8676224010731053
+      }
+    },
+    {
+      "question": "What is the role of disulfide bonds in protein structure?",
+      "context": "Більше значення має утворення дисульфідних зв’язків, або ді­сульфідуних містників. Вони утворюються між двома радикалами амі-нокислоти цистеїну внаслідок взаємодії атомів Сульфуру в цих ра- дікалах.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8268779342723005
+      }
+    },
+    {
+      "question": "What is the significance of hydrophobic interactions in protein structure?",
+      "context": "Гідрофобна взаємодія виникає між радикалами гідрофобних амі- nokислот. Такі радикали часто скупчуються разом, коли білкова молекула міститься у водному розчині.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.831338028169014
+      }
+    },
+    {
+      "question": "What is the main difference between tertiary and quaternary structures of proteins?",
+      "context": "Четвертинна структура білків виникає в разі, коли кілька білко-вих молекул сполучаються між собою.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8476886962802456
+      }
+    },
+    {
+      "question": "What is hydrophobicity?",
+      "context": "гідрофобні радікалі «ховаються» усередині молекули, а гідрофільні розташовуються ззовню, стикаючись із водним середовищем.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7267966775009029
+      }
+    },
+    {
+      "question": "What is denaturation?",
+      "context": "Просторова структура білків може порушуватися під впливом змін температури, хімічного середовища, фізичних факторів. вони призводять до послідовного руйнування четвертинної, третинної та вторинної структур білка.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7194835680751175
+      }
+    },
+    {
+      "question": "What is renaturation?",
+      "context": "У випадку руйнування і первинної структури говорять про деструкцію білка. Інколи після денатурації білокCanBe самостійно відно-вити свою структуру. Таке відновлення структури білка називається renatuрацією.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7208614002857727
+      }
+    },
+    {
+      "question": "What are the four levels of protein structure?",
+      "context": "Відповідno до складу такої групи розрізняють різні протеїди. Так, нуклеопротеїди крім білків містять нуклеїнові кислоти, глікопротеїди — вуглеводи, а ліпопротеїди — ліпіди.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8451123407109322
+      }
+    },
+    {
+      "question": "What is a proteic group?",
+      "context": "Складні білки також можуть містити залівку ортофосфатної кислоти або атоми металічних елементів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.802699530516432
+      }
+    },
+    {
+      "question": "What is hemoglobin?",
+      "context": "Гем забезпечує забарвлення молекули білка.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7187793427230047
+      }
+    },
+    {
+      "question": "What is a globular protein?",
+      "context": "Молекули глобулярних білків мають вигляд нитки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7938967136150235
+      }
+    },
+    {
+      "question": "What are the main functions of proteins in living organisms?",
+      "context": "Практично всі функції живих організмів тією чи іншою мірою пов’язані з роботою певних груп білків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8535211267605634
+      }
+    },
+    {
+      "question": "What is a structural protein?",
+      "context": "Компонентами опорних структур та покривів організмів є білки, які входять до складу тканиннутрішнього середовища тварин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7830985915492957
+      }
+    },
+    {
+      "question": "What is a signal protein?",
+      "context": "Білки є основними рецепторними молекулами, розташованими на мембранах клітин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7923317683881064
+      }
+    },
+    {
+      "question": "What are the main types of transport proteins?",
+      "context": "Білки відповідають за транспорт (переміщення) багатьох речовин крізь клітинні мембрани.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8424295774647887
+      }
+    },
+    {
+      "question": "What is a toxic protein?",
+      "context": "Білки-токсини можуть бути як засобом захисту, так і засобом нападу.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.794679186228482
+      }
+    },
+    {
+      "question": "What is the role of proteins in the immune system?",
+      "context": "вони утворюють комп-\ncomplexи з чужими білками, \nзнешкоджуючи їх",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8153364632237872
+      }
+    },
+    {
+      "question": "What is the function of ferments in cells?",
+      "context": "Ферменти є унікальними молекулами. \nВони виконують функцію каталізу, тобто змінюють швидкість хіміч-\nних реакцій",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7969064386317908
+      }
+    },
+    {
+      "question": "What is the role of co-factors in enzymes?",
+      "context": "в деяких випадках для роботи ферменту потрібний і небілковий \nкомпонент. це сполука (її називають кофактором), яка приєднується до ферменту й також бере участь у процесі каталізу реакції",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7854821235102926
+      }
+    },
+    {
+      "question": "Що таке вуглеводи?",
+      "context": "Вугlevоди є складними органічными речовинами",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9830985915492958
+      }
+    },
+    {
+      "question": "Найбільш поширеними вуглеводами є глюкоза, сахароза, лактоза, целюлоза, хітин, крохмаль.",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "Часто живі организми використовують молекули вуглеводів, які складаються з двох моносахаридів.",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.998719590268886
+      }
+    },
+    {
+      "question": "What is Ribaza?",
+      "context": "Рибоза - лінійна або кільцева молекула, містить 5 атомів Карбону",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7244131455399061
+      }
+    },
+    {
+      "question": "What type of molecule is Glukosa?",
+      "context": "Глюкоза - нерозчинна сполука, не солодка на смак",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8051643192488263
+      }
+    },
+    {
+      "question": "Чому з їжею до організму повинні надходити ліпіди?",
+      "context": "Ліпіди є групою речовин, які об’єднали, найбільше поширеними ліпідами є жири, олії, воски та стероїди.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.982645875251509
+      }
+    },
+    {
+      "question": "Які функції виконують ліпіди в організмі людини?",
+      "context": "Термін ‘жири’ не є синонімом терміну ‘ліпіди’. Так називають тільки частину ре-\nшини з цієї групи.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9874245472837022
+      }
+    },
+    {
+      "question": "До яких негативних наслідків може призвести їх нестача?",
+      "context": "До яких негативних наслідківмає нестача ліпідів в організмі людини?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9803403755868545
+      }
+    },
+    {
+      "question": "What is the difference between oleic acid and stearic acid?",
+      "context": "Стеаринова кислота (насичена) та Oleїнова кислота (ненасичена)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8643192488262911
+      }
+    },
+    {
+      "question": "What is the significance of the hydroxyl (-OH) groups in glycerol?",
+      "context": "Гліцерол … три ОН-групи, які можуть взаємодіяти з кислотами.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8339593114241002
+      }
+    },
+    {
+      "question": "What is the difference between triglycerides and phospholipids?",
+      "context": "Тригліцериди і фосфоліпіди … відмінність їхніх властивостей.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8319919517102616
+      }
+    },
+    {
+      "question": "What is the role of glycerol in the composition of waxes and steroids?",
+      "context": "У складі восків і стероїдів глицерол відсутній.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8283336381927932
+      }
+    },
+    {
+      "question": "What is the main function of тригліцериди?",
+      "context": "Тригліцериди виконують структурну функцію, які становлять основу клітинних мембран.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7796780684104628
+      }
+    },
+    {
+      "question": "What is the role of вітаміни в обміні речовин у тваринах?",
+      "context": "Вітаміни, які належать до групи ліпідів, грають важливу роль в обінах речовин у тваринах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8439729284799707
+      }
+    },
+    {
+      "question": "What is the main function of жирова тканина у тваринах?",
+      "context": "Жирова тканина грає важливу роль в збереженні тепла та protection органів тварин.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8334507042253521
+      }
+    },
+    {
+      "question": "What are lipids?",
+      "context": "Ліпіди — це велика група гідрофобних органічних речовин, до якої належать тригліцериди, воски, сте-роїди та інші сполуки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8007456503728252
+      }
+    },
+    {
+      "question": "What is the function of steroid hormones?",
+      "context": "Поживними речовинами є регуляторна функція, яку виконують гормони стероїди (тестостерон, естроген).",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7898298884214378
+      }
+    },
+    {
+      "question": "What are nucleotides?",
+      "context": "Молекули нуклеїнових кислот є великими органічними молеку-ми — біополімерами, мономерами яких є нуклеотиди.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7975352112676056
+      }
+    },
+    {
+      "question": "What is the structure of a nucleotide?",
+      "context": "Кожний нуклеотид складається з трьох компонентів — нітрогеновмісної основи, моносахариду (рибози або дезоксирибозі) і залишку ортофосфатної кислоти.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7685524914191029
+      }
+    },
+    {
+      "question": "What is ATP?",
+      "context": "ATF",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7300469483568075
+      }
+    },
+    {
+      "question": "What type of molecule are nucleotides?",
+      "context": "нуклеотиди розташовані послідно один за одним",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8450704225352113
+      }
+    },
+    {
+      "question": "What is the role of nucleic acids in storing and transmitting information?",
+      "context": "Головною функцією нуклеїнових кислот є робота зі спадковою інформацією.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8513302034428795
+      }
+    },
+    {
+      "question": "What type of energy is released when ATP molecules are broken down?",
+      "context": "Цю енергію й використовують ферменти для роботи. А чому саме АТФ? Томуце зв’язок залишків ортофосфатної кислоти в цій молекулі є не звичайним, а макроергічним (багатим на енергію) (мал. 8.5). Для утворення цього зв’язку потрібно багато енергії, але під час його руйнування енергія виділяється у великій кількості.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8825757575757576
+      }
+    },
+    {
+      "question": "What is the role of ATP in cellular processes?",
+      "context": "Велика кількість молекул АТФ утворюється в процесах клітинного дихання та фотосинтезу. Ця молекула відіграє роль універсального джерела енергії для біохімічних реакцій.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.810641627543036
+      }
+    },
+    {
+      "question": "What is the process by which energy is released from ATP molecules?",
+      "context": "Молекули АТФ під час взаємодії з ферментами розпадаються на дві молеколи — ортофосфатної кислоти і АДФ. При цьому виділяється енергія:",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.876056338028169
+      }
+    },
+    {
+      "question": "Why is ATP specifically used for energy transfer?",
+      "context": "Під час синтезу нових(orgанічних) сполук макроергічні зв’язки руйнуються й забезпечують відповідні процеси енергією.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9393959913326111
+      }
+    },
+    {
+      "question": "What is the role of nucleic acids in viruses?",
+      "context": "Ліше коли вірус потrapляється в клітині-хазяїна, він зазвичай починає синтезувати і ДНК, та РНК.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8034875922199866
+      }
+    },
+    {
+      "question": "What is the significance of nucleotides in energy transfer?",
+      "context": "Для цього до нуклеотидів моноортофосфатів (наприклад, АМФ) приєднується один або два залишки ортофосфатної кислоти й утворюється молекула ді- чи триортофосфатів (відповідно, АДФ чи АТФ).",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8148261549976186
+      }
+    },
+    {
+      "question": "What is DNA?",
+      "context": "ДНК частіше за все має вигляд одинарного ланцюга.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7186032863849765
+      }
+    },
+    {
+      "question": "What is RNA?",
+      "context": "РНК частіше за все має вигляд одinaрного ланцюга.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7186032863849765
+      }
+    },
+    {
+      "question": "What are the names of organic compound groups to which the given molecule belongs?",
+      "context": "[а) прогестерон, б) гемоглобін, в) крохмаль, г) інсулін, д) фруктоза, е) тестостерон. Групиorganічні речовини",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9085280916266831
+      }
+    },
+    {
+      "question": "What is the structural formula of the molecule shown?",
+      "context": "N\\nN\\nO\\nO\\nO\\nN\\nN\\nO –\\nO –\\nO –",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8257042253521127
+      }
+    },
+    {
+      "question": "What is the complementary DNA sequence for the given codon?",
+      "context": "А Т Т Г А Ц Ц Ц Г А Т Т А ГЦ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8693270735524257
+      }
+    },
+    {
+      "question": "What type of chemical bond forms between atoms with a partially positive charge and an atom with a partially negative charge?",
+      "context": "Виникає між позитивно й не-гативно зарядженими функціональними групами (до-датковими карбоксильними та аміногрупами), що містяться в радикалах лізину, аргініну, гістидину, аспарагінової та глу­тамінової кислот.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9259852041542183
+      }
+    },
+    {
+      "question": "What type of chemical bond is formed between atoms with a partially positive charge and an atom with a partially negative charge?",
+      "context": "Виникає в молекулі білка між радикалами гідрофобних амі-нокислот.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958487768717569
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Найбільш поширеними вуглеводами є глюкоза, сахароза, лактоза, целюлоза, хітин, крохмаль.",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 1.0
+      }
+    },
+    {
+      "question": "Часто живі организми використовують молекули вуглеводів, які складаються з двох моносахаридів.",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.998719590268886
+      }
+    },
+    {
+      "question": "What is the function of amino acids in a protein molecule?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8405889884763125
+      }
+    },
+    {
+      "question": "What is the role of nucleic acids in storing and transmitting information?",
+      "context": "Головною функцією нуклеїнових кислот є робота зі спадковою інформацією.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8513302034428795
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Is it decidable whether a computer program will stop or not?",
+      "context": "If you have computer programs, the semantics of what the program will give, the expected output of that program.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7563920454545454
+      }
+    },
+    {
+      "question": "What can be discussed about the meaning of sentences?",
+      "context": "Now if you are talking about the meaning of sentences, you can also discuss many things.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7055555555555556
+      }
+    },
+    {
+      "question": "What is the relationship between a program's semantics and its expected output?",
+      "context": "the semantics of what the program will give, the expected output of that program.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7130681818181819
+      }
+    },
+    {
+      "question": "Is it possible to determine whether a sentence is meaningful or not just by analyzing the words used?",
+      "context": "So there could be like, the answer could be that this sentence is a",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8566176470588236
+      }
+    },
+    {
+      "question": "What are some possible topics of discussion when considering the meaning of sentences?",
+      "context": "Now if you are talking about the meaning of sentences, you can also discuss many things.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7229166666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is it decidable whether a computer program will stop or not?",
+      "context": "If you have computer programs, the semantics of what the program will give, the expected output of that program.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7563920454545454
+      }
+    },
+    {
+      "question": "Is it possible to determine whether a sentence is meaningful or not just by analyzing the words used?",
+      "context": "So there could be like, the answer could be that this sentence is a",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8566176470588236
+      }
+    },
+    {
+      "question": "What can be discussed about the meaning of sentences?",
+      "context": "Now if you are talking about the meaning of sentences, you can also discuss many things.",
+      "difficulty": "medium",
+      "category": "factual/inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7055555555555556
+      }
+    }
+  ]
+}

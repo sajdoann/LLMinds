@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some limitations of manual evaluation in terms of consistency?",
+      "context": "The first paragraph where it's mentioned that manual evaluation is subjective and can lead to different results from one judge to another",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6839285714285714
+      }
+    },
+    {
+      "question": "What are the main goals of black box evaluation for users or sponsors?",
+      "context": "The first paragraph where it's mentioned that black box evaluation is important for users or sponsors who just want to know who is the best",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7277097902097902
+      }
+    },
+    {
+      "question": "What type of evaluation allows for comparison with humans?",
+      "context": "The second paragraph where it's mentioned that source-based evaluation allows us to compare our system with humans",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6691176470588236
+      }
+    },
+    {
+      "question": "Why is sentence-level evaluation becoming less relevant in certain language pairs?",
+      "context": "The third paragraph where it's mentioned that the sentence level is no longer relevant for any language pair where there is enough large enough training data",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7840909090909091
+      }
+    },
+    {
+      "question": "What was achieved by a system in 2018, but not replicated since?",
+      "context": "The last sentence of the document where it's mentioned that beating humans at the level of sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7425595238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some limitations of manual evaluation in terms of consistency?",
+      "context": "The first paragraph where it's mentioned that manual evaluation is subjective and can lead to different results from one judge to another",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6839285714285714
+      }
+    },
+    {
+      "question": "What was achieved by a system in 2018, but not replicated since?",
+      "context": "The last sentence of the document where it's mentioned that beating humans at the level of sentences",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7425595238095238
+      }
+    },
+    {
+      "question": "What are the main goals of black box evaluation for users or sponsors?",
+      "context": "The first paragraph where it's mentioned that black box evaluation is important for users or sponsors who just want to know who is the best",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7277097902097902
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of evaluation did the system undergo?",
+      "context": "And then you evaluate in these pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "Why was the system evaluated?",
+      "context": "how often the system was better than its competitors.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.725
+      }
+    },
+    {
+      "question": "What is the purpose of pairwise comparisons in the evaluation process?",
+      "context": "And then you evaluate in these pairwise comparisons how often the system was better than its competitors.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How does the document relate to the comparison between the system and its competitors?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of pairwise comparisons in the evaluation process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of evaluation did the system undergo?",
+      "context": "And then you evaluate in these pairwise comparisons",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of pairwise comparisons in the evaluation process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    },
+    {
+      "question": "What is the purpose of pairwise comparisons in the evaluation process?",
+      "context": "And then you evaluate in these pairwise comparisons how often the system was better than its competitors.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Why was the system evaluated?",
+      "context": "how often the system was better than its competitors.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.725
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the proposed solution to improve translation results?",
+      "context": "So now what was the proposed solution? And that is the extension of the phrase-based model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7549603174603174
+      }
+    },
+    {
+      "question": "How does the factored phrase-based model translate words and morphological tags?",
+      "context": "It's called the factored phrase-based model. And the idea is to separate the translation of the word itself from its morphology.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8093434343434344
+      }
+    },
+    {
+      "question": "What is the purpose of the generation step in the system?",
+      "context": "And we can use some morphological module or a generation step in the system, as we'll see in a second...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7569444444444444
+      }
+    },
+    {
+      "question": "What is the benefit of using the factored lemma and morphological tag?",
+      "context": "...the final user doesn't like to see. by the factored lemma and morphological tag.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7540584415584415
+      }
+    },
+    {
+      "question": "Can the generation step be trained independently of parallel data?",
+      "context": "...which can be extracted from just the monolingual corpus. And that will give you the benefit of producing even instrumental for kneecaps, something which was not available in normally sized parallel data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.839516129032258
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the proposed solution to improve translation results?",
+      "context": "So now what was the proposed solution? And that is the extension of the phrase-based model.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7549603174603174
+      }
+    },
+    {
+      "question": "How does the factored phrase-based model translate words and morphological tags?",
+      "context": "It's called the factored phrase-based model. And the idea is to separate the translation of the word itself from its morphology.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8093434343434344
+      }
+    },
+    {
+      "question": "Can the generation step be trained independently of parallel data?",
+      "context": "...which can be extracted from just the monolingual corpus. And that will give you the benefit of producing even instrumental for kneecaps, something which was not available in normally sized parallel data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.839516129032258
+      }
+    }
+  ]
+}

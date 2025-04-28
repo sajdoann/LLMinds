@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the three main types of evaluation methods for machine translation systems?",
+      "context": "The black box method, grey box evaluation, and glass box evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8514957264957265
+      }
+    },
+    {
+      "question": "How do adequacy and fluency scores relate to each other in human judgments?",
+      "context": "These two scales are also correlated",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.969551282051282
+      }
+    },
+    {
+      "question": "What is the main challenge of task-based evaluation for machine translation systems?",
+      "context": "This method is very costly but this is actually what you are after",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8106060606060606
+      }
+    },
+    {
+      "question": "Why is direct assessment important in machine translation evaluation?",
+      "context": "It uses just one scale normally, which is revisited today",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8902777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of checking if a translated text serves its original purpose through comprehension tests?",
+      "context": "To check whether the sentence preserves the meaning in some way",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.925
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How do adequacy and fluency scores relate to each other in human judgments?",
+      "context": "These two scales are also correlated",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.969551282051282
+      }
+    },
+    {
+      "question": "What is the purpose of checking if a translated text serves its original purpose through comprehension tests?",
+      "context": "To check whether the sentence preserves the meaning in some way",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.925
+      }
+    },
+    {
+      "question": "What are the three main types of evaluation methods for machine translation systems?",
+      "context": "The black box method, grey box evaluation, and glass box evaluation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8514957264957265
+      }
+    }
+  ]
+}

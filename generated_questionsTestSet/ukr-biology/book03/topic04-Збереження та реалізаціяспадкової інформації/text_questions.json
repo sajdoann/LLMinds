@@ -1,0 +1,798 @@
+{
+  "all_questions": [
+    {
+      "question": "В якому місці розташовано геном organisms?",
+      "context": "В яких структурах розташовані гени? У продуктах генів вони зосереджені у великій кільцевій молекулі ДНК (це нуклеоїд або бактеріальна хромосома). Крім того, вони є в невеликих кільцевих молекулах ДНК — плазмідах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9755892255892256
+      }
+    },
+    {
+      "question": "Як працюють гени?",
+      "context": "Для утворення продукту гена на відповідній ділянці ДНК ферменти спочатку синтезують (утворюють) odpowiedній їй за будовою молекулу РНК. Далі ця молекула може використовуватися в різних процесях у клітині. Або за інформацією з цієї РНК може синтезуватися молекула білка, яка і є продуктом гена.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9793560606060606
+      }
+    },
+    {
+      "question": "What is the main function of a gene?",
+      "context": "Структурні  гени містять інформацію про будову молекул білків та РНК клітини, які входять до складу органел або цитоплазми клітин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7912181020733653
+      }
+    },
+    {
+      "question": "What is the purpose of regulatory genes?",
+      "context": "Регуляторні  гени теж містять інформацію про структуру молекул білків або РНК. Але їхнє завдання — регулювати роботу структурних генів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7778537252221462
+      }
+    },
+    {
+      "question": "Which information is stored in the form of a genetic code?",
+      "context": "амінокислота ен",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8870523415977961
+      }
+    },
+    {
+      "question": "What is an operon?",
+      "context": "Гени еукаріотичних organisingмів містять некодуючі (інтрони) і кодуючі (екзони) ділянки ДНК. Крім того, ці гени мають у своєму складі регуляторні ділянки, які змінюють швидкість їхньої роботи.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.803939393939394
+      }
+    },
+    {
+      "question": "What is the difference between prokaryotic and eukaryotic genomes?",
+      "context": "Особливості геномів прокаріотів та еукаріотів.Prокаріоти\nПрисутні у вигляді хромосоми, що розташовані в ядрі клітини. Бактеріальна хромосома (нуклеоїд) — велика кіль-\nцева молекула ДНК.\nІнші місця розміщення \nгенів\nПлазміди — невеликі кіль-\nцеві молекули ДНК",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8527462121212122
+      }
+    },
+    {
+      "question": "What is the main location of most genes in a cell?",
+      "context": "Місце розташування більшістю генів геному",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8453168044077135
+      }
+    },
+    {
+      "question": "What type of RNA plays a crucial role in protein synthesis?",
+      "context": "Рибосомальна РНК (рРНК) входить до складу рибосом, які здійснюють синтез білків",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8849862258953168
+      }
+    },
+    {
+      "question": "Where do ribosomes synthesize proteins in eukaryotic cells?",
+      "context": "Рибосоми, молекули тРНК та іРНК, АТФ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9532828282828283
+      }
+    },
+    {
+      "question": "What is the purpose of methylation of DNA in eukaryotic cells?",
+      "context": "Метильвання ДНК",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7878787878787878
+      }
+    },
+    {
+      "question": "How do regulatory mechanisms control gene expression in eukaryotic cells?",
+      "context": "Перший механізм — взаємодія продуктів регуляторних генів (за-звичай білків) з певними структурами генів",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9555555555555556
+      }
+    },
+    {
+      "question": "What is the role of chromatin packaging in regulating gene expression?",
+      "context": "Крім того, регуляція можлива й на більш пізніх етапах, коли клітина блокує роботу РНК або білків, які є продуктами роботи гена.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.839761248852158
+      }
+    },
+    {
+      "question": "How do eukaryotic cells regulate the expression of genes that produce specific proteins?",
+      "context": "Але й ті гени, які працюють, не завжди працюють однаково.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9322843822843823
+      }
+    },
+    {
+      "question": "What is the main purpose of methylation in DNA?",
+      "context": "If to them is attached methyl radical (CNS 3), then reading information from the DNA segment with that nucleotide becomes impossible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8148148148148149
+      }
+    },
+    {
+      "question": "What is the function of RNA polymerase?",
+      "context": "РНК-полімераза",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7965367965367965
+      }
+    },
+    {
+      "question": "What is the principle of complementarity in the structure of DNA and RNA?",
+      "context": "нуклеотиди приєднуються до її ланцюга за принципом комплементарності (мал. 22.1)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365702479338843
+      }
+    },
+    {
+      "question": "What is the role of RNA polymerase in transcription?",
+      "context": "Принцип комплементарності в розміщенні нуклеотидів у ланцюгах ДНК і РНК (мал. 22.1)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7771464646464646
+      }
+    },
+    {
+      "question": "What is the purpose of processing (proofreading) RNA?",
+      "context": "Дозрівання РНК є важливим етапом реалізації спадкової інформації в еукаріотів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7892045454545454
+      }
+    },
+    {
+      "question": "What is the process of alternative splicing?",
+      "context": "Процес дозрівання дозволяє клітинам еукаріотів проводити так званий альтернативний сплайсінг, під час якого з однієї молеку-",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7720508658008658
+      }
+    },
+    {
+      "question": "What is the role of splicing in RNA processing?",
+      "context": "Процес дозрівання дозволяє клітинам еукаріотів проводити так званий альтернативний сплайсінг,під час якого з однієї молеку-",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7962962962962963
+      }
+    },
+    {
+      "question": "What is the purpose of polyaadenylation in RNA processing?",
+      "context": "Додавання до кінця молекули РНК кількох молекул аденілових нуклеотидів (поліаденілювання), який допомагає транспортувати її в цитоплазму.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7887731481481481
+      }
+    },
+    {
+      "question": "What is the role of reverse transcription?",
+      "context": "Крім процесу транскрипції в клітинаходить відбуватися процес",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7673160173160174
+      }
+    },
+    {
+      "question": "What is RNA splicing?",
+      "context": "Процес дозрівання дозволяє клітинам еукаріотів проводити так званий альтернативний сплайсинг, під час якого з однієї молекули РНК можуть утворюватися різні комбінації екзонів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7794421487603306
+      }
+    },
+    {
+      "question": "What is reverse transcription?",
+      "context": "Крім процесу транскрипції в клітинах може відбуватися процес зворотної транскripції. У цьому процесі події відбуваються у зворотному порядку порівняно зі звичайною транскрипцією.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7966269841269842
+      }
+    },
+    {
+      "question": "What is the principle of base pairing in DNA and RNA?",
+      "context": "Принцип побудови також базується на явищі компlementарності. Навпроти гуанілового нуклеотиду РНК в ланцюжку ДНК розташовуєсь цитиділовий нуклеотид, а напроти цитиділового — гуаніловий.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8336776859504132
+      }
+    },
+    {
+      "question": "What is the purpose of reverse transcription in viruses?",
+      "context": "Особливо часто цей процес використовують віруси, у яких нуклеїнова кислота представлена РНК (мал. 22.4). вони проникають у клітини живих організмів і там, за допомогою ферменту ревертаза, з ЇЇ РНК утворюють ДНК.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.798386160455126
+      }
+    },
+    {
+      "question": "What is the process of translocation in RNA splicing?",
+      "context": "При цьому з молекули РНК видаляються інтрони і до неї прикріплюються додаткові нуклеотиди, які допомагають під час транспортування молекули з ядра до цитоплазми.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7936447811447811
+      }
+    },
+    {
+      "question": "Why do amino acids in a protein molecule need to be arranged in a specific order for normal functioning?",
+      "context": "Біосинтез білка... амінокислоти в ньому повинні розміщуватися у певному порядку.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9596702317290553
+      }
+    },
+    {
+      "question": "What is the main function of a codon?",
+      "context": "...іРНК синтезується поліпептидний ланцюг молекули білка. Кожному триплету нуклеотидів іРНК відповідає певна амінокислота.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8057255244755245
+      }
+    },
+    {
+      "question": "What is the role of a ribosome in protein synthesis?",
+      "context": "Процес трансляції відбувається в рибосомі, яка міститься у ци-топлазмі клітини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7992424242424243
+      }
+    },
+    {
+      "question": "What is the process called when a ribosome adds an amino acid to a polypeptide chain?",
+      "context": "Процес подовження поліпептидного ланцюга молекули білка після розпізнавання рибосомою стоп-кодону.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8992424242424243
+      }
+    },
+    {
+      "question": "What is the purpose of the termination stage in translation?",
+      "context": "Третій етап трансляції — термінація, який закінчує трансляцію (мал. 23.1, Б).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8033363942454852
+      }
+    },
+    {
+      "question": "What happens to the subunits of the ribosome after the synthesis of a polypeptide chain is complete?",
+      "context": "Субодиниці рибосоми після завершення синтезу поліпептидного ланцюга можуть приєднатися до нової молекuli іРНК, а молекули тРНК — захопити нові молекули амінокислот і транспортувати їх до місця синтезу іншого білка.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8771645021645021
+      }
+    },
+    {
+      "question": "What happens to the amino acids on the ends of the protein chain after maturation?",
+      "context": " Nasлідком дозрівання є втрата деяких амінокислот, розташованих на кінцях ланцюга, та остаточне формування вторинної, третинної і четвер틴ної структур молекули.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.900564347932769
+      }
+    },
+    {
+      "question": "What is the purpose of using a genetic code table on the cover of a textbook?",
+      "context": " Для того щоб встановити послідовність амінокислот, яка закодована на ділянці ДНК, слід використовувати таблицю генетичного коду на форзаці підручника.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.872960372960373
+      }
+    },
+    {
+      "question": "What is the primary consequence of a mutation in a DNA sequence that affects the coding sequence?",
+      "context": " Наслідок такі пошкоджень для клітин podem бути негативними. Гени, структура яких порушується, можуть перестати ви-робляти свої продукти — РНК або білки.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8753968253968254
+      }
+    },
+    {
+      "question": "What are some common causes of DNA damage?",
+      "context": " Причинами для таких пошкоджень може бути bastante багато (мал. 24.1). Часто ДНК пошкоджують ультрафіолетове та радіоактивне випромінення.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8966688948306596
+      }
+    },
+    {
+      "question": "What is the purpose of the process called 'спіралізація' (spiralization) or 'конденсації' (condensation)?",
+      "context": "Процес, який дозволяє живим організмам усувати пошкодження, називають  репарацією . Більшість репараційних механізмів базуються на тому, що ДНК — це дволанцюгова молекула. Тобто в клітині є дві копії генетичної інформації. Якщо одна з них пошкоджується, то її можна відновити за допомогою другої копії, взявши її за зразок.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8531144781144782
+      }
+    },
+    {
+      "question": "What are the components of the chromatin complex?",
+      "context": "Хроматин має вигляд нитки (подвійного ланцюга) ДНК, яка намотується навколо невеличких білкових кульок, утворених спеціальними білками —  гістонами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8454785954785955
+      }
+    },
+    {
+      "question": "What is the result of the process called 'спіралізація' (spiralization) or 'конденсації' (condensation)?",
+      "context": "Процес, який дозволяє живим організмам усувати пошкодження, називають  репарацією . Більшість репараційних механізмів базуються на тому, що ДНК — це дволанцюгова молекула.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8565197428833793
+      }
+    },
+    {
+      "question": "What is the purpose of chromosome condensation?",
+      "context": "Хроматину стає най­дужчою, бо так наба­ґато легше правильно розподілити ДНК між клітинами, які утворяться внаслі­dock поділу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7796266233766234
+      }
+    },
+    {
+      "question": "What is the result of the process of chromosome condensation?",
+      "context": "Наслідком такого ступеня спіралізації є утворення хромосом — компактних структур із ДНК і білків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7950487012987013
+      }
+    },
+    {
+      "question": "What is the purpose of the process of chromosome condensation during cell division?",
+      "context": "Але перед поділом клітини відбувається надзвичайно важливий процес - подвоєння всієї ДНК клітини.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8415448188175461
+      }
+    },
+    {
+      "question": "What is the process called when a cell divides to produce two daughter cells?",
+      "context": "Мітотичний поділ — це поділ клітин, який відбувається під час нестатевого розмноження, а такожпід час росту й розвитку організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8873185637891521
+      }
+    },
+    {
+      "question": "What is the main difference between mitotic and meiotic cell division?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8911845730027548
+      }
+    },
+    {
+      "question": "What is meiosis?",
+      "context": "Мейоз - це поділ клітин, який відбувається під час гаметогенезу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7313131313131314
+      }
+    },
+    {
+      "question": "How many daughter cells are produced by meiosis?",
+      "context": "Результатом мейозу є утворення статевих клітин (гамет). При цьому дочірні клітини отримують удвічі меншу кількість хромосом і половину генетичного матеріалу, які мала материнська клітина.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9775883838383839
+      }
+    },
+    {
+      "question": "What is the purpose of meiosis?",
+      "context": "Результатом мейозу є утворення статевих клітин (гamet).",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7377344877344877
+      }
+    },
+    {
+      "question": "What is krosinover?",
+      "context": "У кросинговері беруть участь гомологічні хро-мосоми. Вони розрізаються спеціальними ферментами в кількох місцях, а потім обмінюються одна-ковими ділянками і знову зшиваються ферментами в цілу хромосому.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7456082564778217
+      }
+    },
+    {
+      "question": "What is the purpose of сперматозоїд?",
+      "context": "Головка має особливий поверхневий шар цитоплазми і спеціальні оболонки, що її покривають. Містить запасні поживні речовини у вигляді жовтка, необхідні для розвитку нового організму",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7468434343434344
+      }
+    },
+    {
+      "question": "What is the main function of статеві клітини?",
+      "context": "Статеві клітини (мал. 26.2) утворюються в результаті гаметогенезу. Вони містять тільки по одній хромосомі з кожної пари гомологічних хромосом.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8048245614035088
+      }
+    },
+    {
+      "question": "What is the function of the male gamete in fertilization?",
+      "context": "Функції. Доставляє генетичний матеріал сам-ців до яйцеклітин самок",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8208122895622896
+      }
+    },
+    {
+      "question": "What is meiosis?",
+      "context": "Мейоз — це поділ клітин, у результаті якого утворюються статеві клітини (гамети), які містять удвіче менше ДНК, ніж звичайні клітини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7294191919191919
+      }
+    },
+    {
+      "question": "What is the difference between internal and external fertilization?",
+      "context": "Запліднення. Розрізняють зовнішнє і внутрішнє запліднення.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8570707070707071
+      }
+    },
+    {
+      "question": "What is the main difference in the number of developmental periods between water plants and terrestrial plants?",
+      "context": "У водоростях часто трапляються складні життєві цикли. У наземних рослин різноманітність варіантів онтогенезу не така велика.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8896780303030303
+      }
+    },
+    {
+      "question": "What is the purpose of the postgenerative period in plant development?",
+      "context": "Постгенеративний. З моменту закінчення функціонування генеративних органів до загибелі рослини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8227272727272728
+      }
+    },
+    {
+      "question": "What is the name of the stage in plant development when the genetic organs start functioning?",
+      "context": "Генеративний. З моменту початку формування генеративних органів",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8728354978354979
+      }
+    },
+    {
+      "question": "Кількість нуклеотидів, які входять до складу кодона?",
+      "context": "в) 3",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9853896103896104
+      }
+    },
+    {
+      "question": "Яка фаза є передостанньою фазою мітозу?",
+      "context": "г) телофaza",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9962121212121212
+      }
+    },
+    {
+      "question": "Видаляється в процесі дозрівання молекули РНК:",
+      "context": "в) екзон",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9848484848484849
+      }
+    },
+    {
+      "question": "Етап, під час якого за інформацією, що міститься в іРНК, синтезується поліпептидний ланцюг молекули білка?",
+      "context": "г) трансляція",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9946969696969697
+      }
+    },
+    {
+      "question": "Водневий зв’язок у тРНК з’єднує:",
+      "context": "а) ланцюги двох молекул РНК",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9772727272727273
+      }
+    },
+    {
+      "question": "Яйцеклітини ссавців:",
+      "context": "в) мають два джгутики",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9924242424242424
+      }
+    },
+    {
+      "question": "Визначте продукти, які утворюються внаслідок транскripції і наступної трансляції ділянки ДНК: ТАЦААГГГГТТГАТЦ.",
+      "context": "б) пептидна цільна молекула",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9823232323232324
+      }
+    },
+    {
+      "question": "Визначте продукти, які утворюються внаслідок транскripції і наступної трансляції ділянки ДНК: ТАЦАААГГАТТЦАЦТ.",
+      "context": "в) пептидна цільна молекула",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9766414141414141
+      }
+    },
+    {
+      "question": "Установіть відповідність між типами РНК та функціями, які вони виконують.",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9977272727272727
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Етап, під час якого за інформацією, що міститься в іРНК, синтезується поліпептидний ланцюг молекули білка?",
+      "context": "г) трансляція",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9946969696969697
+      }
+    },
+    {
+      "question": "How do eukaryotic cells regulate the expression of genes that produce specific proteins?",
+      "context": "Але й ті гени, які працюють, не завжди працюють однаково.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9322843822843823
+      }
+    },
+    {
+      "question": "What is the main difference between mitotic and meiotic cell division?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8911845730027548
+      }
+    },
+    {
+      "question": "What is the primary consequence of a mutation in a DNA sequence that affects the coding sequence?",
+      "context": " Наслідок такі пошкоджень для клітин podem бути негативними. Гени, структура яких порушується, можуть перестати ви-робляти свої продукти — РНК або білки.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8753968253968254
+      }
+    },
+    {
+      "question": "What is the difference between internal and external fertilization?",
+      "context": "Запліднення. Розрізняють зовнішнє і внутрішнє запліднення.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8570707070707071
+      }
+    }
+  ]
+}

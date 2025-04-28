@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the title of the first lecture in the class?",
+      "context": "Good morning, welcome to the class on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "What topic will be covered in the first lecture?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the main subject of the document?",
+      "context": "Good morning, welcome to the class on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6607142857142857
+      }
+    },
+    {
+      "question": "Is there any specific aspect or goal mentioned in relation to machine translation quality?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9464285714285714
+      }
+    },
+    {
+      "question": "What is the main purpose of presenting a class on statistical machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the title of the first lecture in the class?",
+      "context": "Good morning, welcome to the class on statistical machine translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "Is there any specific aspect or goal mentioned in relation to machine translation quality?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9464285714285714
+      }
+    },
+    {
+      "question": "What topic will be covered in the first lecture?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

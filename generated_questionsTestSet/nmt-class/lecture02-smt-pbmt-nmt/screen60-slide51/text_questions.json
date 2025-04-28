@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the primary goal of classical statistical machine translation?",
+      "context": "The goal of classical statistical machine translation, as I said previously, was to find minimum translation units",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.6757352941176471
+      }
+    },
+    {
+      "question": "How does a neural network architecture in machine translation work?",
+      "context": "And the closer you are to your intended input and output, the better. The network will learn all the transformations by itself.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7861111111111111
+      }
+    },
+    {
+      "question": "What is a challenge in building neural machine translation models?",
+      "context": "Because with the complexity you are adding too many free parameters and the training will never converge.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7265625
+      }
+    },
+    {
+      "question": "Why is it important to balance the size of the training data, number of parameters, and computation time in machine translation?",
+      "context": "Because you don't want these models to be finished in a year of training.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.818609022556391
+      }
+    },
+    {
+      "question": "What is the main difference between classical statistical machine translation and neural machine translation?",
+      "context": "The goal of classical statistical machine translation, as I said previously, was to find minimum translation units, which can be seen as graph partitions. These minimum translation units need to be free across many sentence pairs",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7124689826302729
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the primary goal of classical statistical machine translation?",
+      "context": "The goal of classical statistical machine translation, as I said previously, was to find minimum translation units",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.6757352941176471
+      }
+    },
+    {
+      "question": "Why is it important to balance the size of the training data, number of parameters, and computation time in machine translation?",
+      "context": "Because you don't want these models to be finished in a year of training.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.818609022556391
+      }
+    },
+    {
+      "question": "How does a neural network architecture in machine translation work?",
+      "context": "And the closer you are to your intended input and output, the better. The network will learn all the transformations by itself.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7861111111111111
+      }
+    },
+    {
+      "question": "What is a challenge in building neural machine translation models?",
+      "context": "Because with the complexity you are adding too many free parameters and the training will never converge.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7265625
+      }
+    }
+  ]
+}

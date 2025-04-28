@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main topic of the document?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6339285714285714
+      }
+    },
+    {
+      "question": "Why is the machine translation talk recommended?",
+      "context": "The final sentence of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What specific part of the lecture will be skipped?",
+      "context": "The phrase 'illustration part'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6111111111111112
+      }
+    },
+    {
+      "question": "Why is the illustration part being skipped?",
+      "context": "The sentence immediately after the phrase 'illustration part'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6785714285714286
+      }
+    },
+    {
+      "question": "What resource provides illustrations and animations of the discussed algorithm?",
+      "context": "The phrase 'my machine translation talk number 10'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.80625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What resource provides illustrations and animations of the discussed algorithm?",
+      "context": "The phrase 'my machine translation talk number 10'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.80625
+      }
+    },
+    {
+      "question": "Why is the machine translation talk recommended?",
+      "context": "The final sentence of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Why is the illustration part being skipped?",
+      "context": "The sentence immediately after the phrase 'illustration part'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6785714285714286
+      }
+    }
+  ]
+}

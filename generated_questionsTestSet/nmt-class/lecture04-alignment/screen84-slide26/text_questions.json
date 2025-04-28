@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the related unsupervised approach?",
+      "context": "There is a related approach which is unsupervised",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7901785714285714
+      }
+    },
+    {
+      "question": "How does the modal in the RIS approach distinguish between content-bearing and non-content-bearing words?",
+      "context": "the idea here is that you distinguish explicitly in the modal which of the words are content-bearing or headwords and which of these words are auxiliaries",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8451923076923077
+      }
+    },
+    {
+      "question": "What happens to non-headwords according to the RIS approach?",
+      "context": "the non-headwords are always attached within the given language",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "Can the headwords be aligned across languages in the RIS approach?",
+      "context": "So that's exactly RIS, the same assumption that lies behind the techo-chromatic layer where the auxiliaries are specific to a given language and you attach the auxiliaries within the language to their headwords",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7980769230769231
+      }
+    },
+    {
+      "question": "What do machine learning methods promise for the revival of this approach?",
+      "context": "And, obviously, you can also delete some some headwords and and like introduce uh insert some some headwords",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8381410256410257
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the related unsupervised approach?",
+      "context": "There is a related approach which is unsupervised",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7901785714285714
+      }
+    },
+    {
+      "question": "How does the modal in the RIS approach distinguish between content-bearing and non-content-bearing words?",
+      "context": "the idea here is that you distinguish explicitly in the modal which of the words are content-bearing or headwords and which of these words are auxiliaries",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8451923076923077
+      }
+    },
+    {
+      "question": "Can the headwords be aligned across languages in the RIS approach?",
+      "context": "So that's exactly RIS, the same assumption that lies behind the techo-chromatic layer where the auxiliaries are specific to a given language and you attach the auxiliaries within the language to their headwords",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7980769230769231
+      }
+    }
+  ]
+}

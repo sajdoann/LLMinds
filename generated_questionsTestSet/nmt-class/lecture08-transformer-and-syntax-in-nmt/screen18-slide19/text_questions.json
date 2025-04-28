@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are keys, queries, and values in self-attention?",
+      "context": "So the self-attention introduces this concept of keys, queries, and values.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.6022727272727273
+      }
+    },
+    {
+      "question": "How are keys, queries, and values obtained?",
+      "context": "So there's one matrix which specifies how the queries are generated from the input tokens. Another matrix which specifies is how the keys are generated and how the values are then used or are then computed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6459627329192547
+      }
+    },
+    {
+      "question": "What determines what should serve as key, query, and value?",
+      "context": "It's up to the network to decide what should serve as key. keys, what should serve as queries, and what should serve as values.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What happens if the projection matrices for keys, queries, and values are identical?",
+      "context": "If these matrices would be identical, yes you could you could take the whole vector of the word.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7948717948717949
+      }
+    },
+    {
+      "question": "What is the purpose of projection matrices in self-attention?",
+      "context": "So there's one matrix which specifies how the queries are generated from the input tokens. Another matrix which specifies is how the keys are generated and how the values are then used or are then computed.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.731280193236715
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are keys, queries, and values in self-attention?",
+      "context": "So the self-attention introduces this concept of keys, queries, and values.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.6022727272727273
+      }
+    },
+    {
+      "question": "What is the purpose of projection matrices in self-attention?",
+      "context": "So there's one matrix which specifies how the queries are generated from the input tokens. Another matrix which specifies is how the keys are generated and how the values are then used or are then computed.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.731280193236715
+      }
+    },
+    {
+      "question": "How are keys, queries, and values obtained?",
+      "context": "So there's one matrix which specifies how the queries are generated from the input tokens. Another matrix which specifies is how the keys are generated and how the values are then used or are then computed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.6459627329192547
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of attention mechanism is being described?",
+      "context": "We've also looked at the attention, the inner attention that the network learns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6576704545454546
+      }
+    },
+    {
+      "question": "How many heads are in the compound attention model?",
+      "context": "And you can see when the sentence is producing one particular output word, where are the heads looking.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7761437908496732
+      }
+    },
+    {
+      "question": "What does the inner attention mechanism learn?",
+      "context": "We've also looked at the attention, the inner attention that the network learns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.650974025974026
+      }
+    },
+    {
+      "question": "What is being referred to as a 'compound attention'?",
+      "context": "So this is the attention-attention model, the compound attention with eight heads.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8396464646464646
+      }
+    },
+    {
+      "question": "What can be inferred about the behavior of the attention mechanism when it produces an output word?",
+      "context": "And you can see when the sentence is producing one particular output word, where are the heads looking.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7596507352941176
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of attention mechanism is being described?",
+      "context": "We've also looked at the attention, the inner attention that the network learns.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6576704545454546
+      }
+    },
+    {
+      "question": "What is being referred to as a 'compound attention'?",
+      "context": "So this is the attention-attention model, the compound attention with eight heads.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8396464646464646
+      }
+    },
+    {
+      "question": "How many heads are in the compound attention model?",
+      "context": "And you can see when the sentence is producing one particular output word, where are the heads looking.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7761437908496732
+      }
+    },
+    {
+      "question": "What can be inferred about the behavior of the attention mechanism when it produces an output word?",
+      "context": "And you can see when the sentence is producing one particular output word, where are the heads looking.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7596507352941176
+      }
+    }
+  ]
+}

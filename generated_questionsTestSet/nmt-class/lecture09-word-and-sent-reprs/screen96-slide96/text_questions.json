@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Where does the most attention get put when translating?",
+      "context": "So the question is where is the most attention put when translating? So the question is where on average across all the sentences do the heads look?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What happens to the decoder after it uses a subject head to spot and translate the subject of the sentence?",
+      "context": "one would expect and we had these experiments mentioned in the previous lectures that one of the heads and another head would search for the subject of the sentence and then the decoder would use this subject head to spot the subject of the sentence, translate it, so produce the translation of the subject, then it would move on to the predicate",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8655849358974359
+      }
+    },
+    {
+      "question": "What is unique about the structure of sentences in this context?",
+      "context": "What we see here is different. There is not a head for verbs, there is not a head for punctuation symbols, there is not a head for numbers, there is the head for the first eighth of the sentence, there is the head for the second eighth of the sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "How does the recurrent neural model use attention in this context?",
+      "context": "So if you have eight heads, this inner attention with the recurrent neural model will actually learn to divide the sentence equidistant.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7981601731601732
+      }
+    },
+    {
+      "question": "What happens when the input is a complete sentence in this context?",
+      "context": "we need to enter the sentence, no further, the end of the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6856060606060606
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Where does the most attention get put when translating?",
+      "context": "So the question is where is the most attention put when translating? So the question is where on average across all the sentences do the heads look?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What happens to the decoder after it uses a subject head to spot and translate the subject of the sentence?",
+      "context": "one would expect and we had these experiments mentioned in the previous lectures that one of the heads and another head would search for the subject of the sentence and then the decoder would use this subject head to spot the subject of the sentence, translate it, so produce the translation of the subject, then it would move on to the predicate",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8655849358974359
+      }
+    },
+    {
+      "question": "How does the recurrent neural model use attention in this context?",
+      "context": "So if you have eight heads, this inner attention with the recurrent neural model will actually learn to divide the sentence equidistant.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.7981601731601732
+      }
+    }
+  ]
+}

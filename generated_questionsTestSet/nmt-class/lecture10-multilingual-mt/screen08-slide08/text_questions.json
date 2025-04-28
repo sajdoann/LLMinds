@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the simplest technique for achieving transfer learning?",
+      "context": "How to do that? How to achieve this transfer learning?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What are some key components of a parent corpus in transfer learning?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666666
+      }
+    },
+    {
+      "question": "What is the goal of training a system on a parent corpus until convergence?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8173076923076923
+      }
+    },
+    {
+      "question": "How does one determine the language pair of interest in transfer learning?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the implication of training on a parent corpus before targeting a specific language pair?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of training a system on a parent corpus until convergence?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8173076923076923
+      }
+    },
+    {
+      "question": "How does one determine the language pair of interest in transfer learning?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What are some key components of a parent corpus in transfer learning?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666666
+      }
+    }
+  ]
+}

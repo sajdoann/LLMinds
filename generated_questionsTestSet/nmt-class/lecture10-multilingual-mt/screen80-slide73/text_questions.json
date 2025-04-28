@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of reducing the size of the network?",
+      "context": "message to remember. So there is even further work again by Orhan Ferden and colleagues.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7770833333333333
+      }
+    },
+    {
+      "question": "How do the experts help in translating?",
+      "context": "They try to again reduce the size so you're using kind of special type of these experts. These experts are for the different languages",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8095238095238095
+      }
+    },
+    {
+      "question": "What is the purpose of the tunable sublayer?",
+      "context": "So most of the network is pre-trained on the big mixed corpus on the main languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6771978021978022
+      }
+    },
+    {
+      "question": "How does the model select which experts to use for translation?",
+      "context": "contagioning on these small adapter layers. So most of the network remains the same but throughout their network there are a few experts.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8133116883116883
+      }
+    },
+    {
+      "question": "What is the result of having the model loaded with most of the network's language pair at hand?",
+      "context": "And then at runtime you will have than most of the network loaded language pair at hand and then it will the model will translate.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8359649122807018
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of reducing the size of the network?",
+      "context": "message to remember. So there is even further work again by Orhan Ferden and colleagues.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7770833333333333
+      }
+    },
+    {
+      "question": "How does the model select which experts to use for translation?",
+      "context": "contagioning on these small adapter layers. So most of the network remains the same but throughout their network there are a few experts.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8133116883116883
+      }
+    },
+    {
+      "question": "How do the experts help in translating?",
+      "context": "They try to again reduce the size so you're using kind of special type of these experts. These experts are for the different languages",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8095238095238095
+      }
+    }
+  ]
+}

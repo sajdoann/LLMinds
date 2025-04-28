@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected performance of a baseline model with only 10,000 sensors in English-Estonian language pairs?",
+      "context": "The blue score will be close to two points",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7401960784313726
+      }
+    },
+    {
+      "question": "How does the performance of a model trained on a small parent model with 10,000 English-Estonian sentence pairs compare to a well-trained baseline model?",
+      "context": "The blue score increases by 10 points",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7559523809523809
+      }
+    },
+    {
+      "question": "What is the effect of using transfer learning when training on a small parent model compared to a large child model?",
+      "context": "The gain in performance is bigger with a larger difference in training data sizes",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7355769230769231
+      }
+    },
+    {
+      "question": "What is the relationship between the size of the training data for the child and parent models and the expected gain from using transfer learning?",
+      "context": "The bigger the difference, the bigger the gain",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.7125
+      }
+    },
+    {
+      "question": "What is an example scenario in which transfer learning can be beneficial for a model?",
+      "context": "Training on a small parent model with 10,000 English-Estonian sentence pairs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8325757575757575
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an example scenario in which transfer learning can be beneficial for a model?",
+      "context": "Training on a small parent model with 10,000 English-Estonian sentence pairs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8325757575757575
+      }
+    },
+    {
+      "question": "How does the performance of a model trained on a small parent model with 10,000 English-Estonian sentence pairs compare to a well-trained baseline model?",
+      "context": "The blue score increases by 10 points",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7559523809523809
+      }
+    },
+    {
+      "question": "What is the relationship between the size of the training data for the child and parent models and the expected gain from using transfer learning?",
+      "context": "The bigger the difference, the bigger the gain",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05555555555555555,
+        "diversity_score": 0.7125
+      }
+    },
+    {
+      "question": "What is the effect of using transfer learning when training on a small parent model compared to a large child model?",
+      "context": "The gain in performance is bigger with a larger difference in training data sizes",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.7355769230769231
+      }
+    }
+  ]
+}

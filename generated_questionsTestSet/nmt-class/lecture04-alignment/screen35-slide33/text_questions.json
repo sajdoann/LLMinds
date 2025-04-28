@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is being collected from all the possible translations?",
+      "context": "We have defined the probability, the lexical probability of the English word given the German word. So this is what we want to collect for all the possible...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5917874396135266
+      }
+    },
+    {
+      "question": "What type of probability is being referred to?",
+      "context": "We have defined the probability, the lexical probability of the English word given the German word.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5036057692307692
+      }
+    },
+    {
+      "question": "Why do you want to collect this information for all possible translations?",
+      "context": "So this is what we want to collect for all the possible...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What is a lexical probability in the context of language translation?",
+      "context": "the lexical probability of the English word given the German word.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.4974747474747475
+      }
+    },
+    {
+      "question": "What does 'we have defined' imply about the process or state of this collection?",
+      "context": "We have defined the probability, the lexical probability of the English word given the German word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5728021978021978
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do you want to collect this information for all possible translations?",
+      "context": "So this is what we want to collect for all the possible...",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What does 'we have defined' imply about the process or state of this collection?",
+      "context": "We have defined the probability, the lexical probability of the English word given the German word.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5728021978021978
+      }
+    },
+    {
+      "question": "What type of probability is being referred to?",
+      "context": "We have defined the probability, the lexical probability of the English word given the German word.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.5036057692307692
+      }
+    },
+    {
+      "question": "What is a lexical probability in the context of language translation?",
+      "context": "the lexical probability of the English word given the German word.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.4974747474747475
+      }
+    }
+  ]
+}

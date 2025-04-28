@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the EU's external policy strategy for culture?",
+      "context": "The cultural dimension of the EU's external policy cannot be given enough importance. As you have already said, we therefore need a coherent EU strategy for culture in EU foreign policy.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8328544061302682
+      }
+    },
+    {
+      "question": "What is the significance of designating Sarajevo as European Capital of Culture 2014?",
+      "context": "By designating Sarajevo as European Capital of Culture 2014, we could send an important signal in favour of the multi-ethnic character of the city and the state of Bosnia-Herzegovina, which could perhaps also prompt the country's political class to rethink its position.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "What was the historical significance of Sarajevo on May 28, 1992?",
+      "context": "Let me remind you of one day, 28 May 1992 in Sarajevo. The cellist Vedrans Maljovic, dressed in black, was playing the Adagio by Tomasino Albino on his instrument.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7941919191919192
+      }
+    },
+    {
+      "question": "What event occurred on May 28, 1992 in Sarajevo?",
+      "context": "One day, 28 May 1992 in Sarajevo.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7559523809523809
+      }
+    },
+    {
+      "question": "Why does the speaker support Sarajevo's application for a title?",
+      "context": "Bosnia-Herzegovina and Sarajevo need a sign right now that all is not lost, that Europe also supports these endeavours.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9152777777777777
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the EU's external policy strategy for culture?",
+      "context": "The cultural dimension of the EU's external policy cannot be given enough importance. As you have already said, we therefore need a coherent EU strategy for culture in EU foreign policy.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8328544061302682
+      }
+    },
+    {
+      "question": "Why does the speaker support Sarajevo's application for a title?",
+      "context": "Bosnia-Herzegovina and Sarajevo need a sign right now that all is not lost, that Europe also supports these endeavours.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9152777777777777
+      }
+    },
+    {
+      "question": "What is the significance of designating Sarajevo as European Capital of Culture 2014?",
+      "context": "By designating Sarajevo as European Capital of Culture 2014, we could send an important signal in favour of the multi-ethnic character of the city and the state of Bosnia-Herzegovina, which could perhaps also prompt the country's political class to rethink its position.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "What was the historical significance of Sarajevo on May 28, 1992?",
+      "context": "Let me remind you of one day, 28 May 1992 in Sarajevo. The cellist Vedrans Maljovic, dressed in black, was playing the Adagio by Tomasino Albino on his instrument.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7941919191919192
+      }
+    }
+  ]
+}

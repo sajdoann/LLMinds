@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of grammars does the document refer to as 'Synchronous Tree Substitution Grammars'?",
+      "context": "The introduction of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "How do full subtrees in this grammar system differ from productions in other grammars?",
+      "context": "The sentence explaining synchronous tree substitution grammars",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7802197802197802
+      }
+    },
+    {
+      "question": "What color represents the NP-JOHN part of the tree, and what does it correspond to in the full subtree?",
+      "context": "The sentence describing NP-JOHN and its correspondence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How many slots are in the red part of the tree, and what do they represent?",
+      "context": "The sentence explaining the slots in the red part",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What is being suggested about lexicalization in this grammar system, despite some limitations?",
+      "context": "The final sentence of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.698076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What color represents the NP-JOHN part of the tree, and what does it correspond to in the full subtree?",
+      "context": "The sentence describing NP-JOHN and its correspondence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How do full subtrees in this grammar system differ from productions in other grammars?",
+      "context": "The sentence explaining synchronous tree substitution grammars",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7802197802197802
+      }
+    },
+    {
+      "question": "How many slots are in the red part of the tree, and what do they represent?",
+      "context": "The sentence explaining the slots in the red part",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "What is being suggested about lexicalization in this grammar system, despite some limitations?",
+      "context": "The final sentence of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.698076923076923
+      }
+    }
+  ]
+}

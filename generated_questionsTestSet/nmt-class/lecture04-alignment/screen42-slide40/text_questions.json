@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What auxiliary symbol does the source sentence have?",
+      "context": "One more auxiliary symbol to the source sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "Can the target language drop words in addition to the source sentence?",
+      "context": "We can also explicitly drop words in the other language, in the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7679924242424243
+      }
+    },
+    {
+      "question": "What happens when a word in one language is mapped to a position in the zeroth position of another language?",
+      "context": "So we can map the word just to this position of zero, indicating that it has no counterpart in the other language.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.834733893557423
+      }
+    },
+    {
+      "question": "Is the mapping of words from one language to another a straightforward process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the source and target languages based on this mapping process?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9117647058823529
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What auxiliary symbol does the source sentence have?",
+      "context": "One more auxiliary symbol to the source sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "Is the mapping of words from one language to another a straightforward process?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "Can the target language drop words in addition to the source sentence?",
+      "context": "We can also explicitly drop words in the other language, in the target language.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7679924242424243
+      }
+    }
+  ]
+}

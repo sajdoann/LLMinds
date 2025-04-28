@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the goal of using encoders and decoders in a multi-source, multi-language setup?",
+      "context": "So you train on pairs of sentences, you don't have multiparl corpus, and then you suddenly want to use these encoders and decoders to process a sentence which is already available in more languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7779761904761905
+      }
+    },
+    {
+      "question": "How can the context vectors from multiple language pairs be combined?",
+      "context": "And here what you can do is you can simply use these two encoders at once and just combine the context vectors, so the result after applying attention, you can just combine them together and have the decoder process this joint knowledge.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7574573863636364
+      }
+    },
+    {
+      "question": "What is the purpose of averaging the combined context vectors?",
+      "context": "And either you can do this averaging of context vectors and then based on this improved context vector generate the output words or",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How does the decoder process the joint knowledge from multiple language pairs?",
+      "context": "And either you can well this context vector then also is processed by the decoder and helps the decoder to modify its state or you can do this prediction of the best word later.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.744949494949495
+      }
+    },
+    {
+      "question": "What happens when running the decoders separately for each language pair?",
+      "context": "So in any case it is possible to train independent encoders and decoders for each of the language pairs and then put these network pieces together to process input which has both source information mutters and Mister how",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7834415584415584
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of using encoders and decoders in a multi-source, multi-language setup?",
+      "context": "So you train on pairs of sentences, you don't have multiparl corpus, and then you suddenly want to use these encoders and decoders to process a sentence which is already available in more languages.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7779761904761905
+      }
+    },
+    {
+      "question": "How can the context vectors from multiple language pairs be combined?",
+      "context": "And here what you can do is you can simply use these two encoders at once and just combine the context vectors, so the result after applying attention, you can just combine them together and have the decoder process this joint knowledge.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.7574573863636364
+      }
+    },
+    {
+      "question": "How does the decoder process the joint knowledge from multiple language pairs?",
+      "context": "And either you can well this context vector then also is processed by the decoder and helps the decoder to modify its state or you can do this prediction of the best word later.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.744949494949495
+      }
+    },
+    {
+      "question": "What happens when running the decoders separately for each language pair?",
+      "context": "So in any case it is possible to train independent encoders and decoders for each of the language pairs and then put these network pieces together to process input which has both source information mutters and Mister how",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7834415584415584
+      }
+    },
+    {
+      "question": "What is the purpose of averaging the combined context vectors?",
+      "context": "And either you can do this averaging of context vectors and then based on this improved context vector generate the output words or",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7
+      }
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "Wie funktionieren Impfungen?",
+      "context": "Impfstoffe bringen unseren Körper durch einen Trick dazu, Gedächtniszellen zu bilden und immun gegen Krankheiten zu werden: Sie tun so, als wären sie eine gefährliche Infektion.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Warum müssen wir uns Sorgen um Lebendimpfstoffe machen?",
+      "context": "Ein wehrhafter Feind ist nämlich eine größere Herausforderung als ein toter. Aber das hört sich wie eine ganz furchtbare Idee an.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9473684210526315
+      }
+    },
+    {
+      "question": "Was ist das Grundprinzip von Impfungen?",
+      "context": "Das schafft man nur mit Lebendimpfstoffen. Ein wehrhafter Feind ist nämlich eine größere Herausforderung als ein toter.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9155092592592593
+      }
+    },
+    {
+      "question": "Wie viele Kinder würden in einem Industrienation mit getrennten Impfungen ums Leben kommen?",
+      "context": "12.000 Kinder alleine werden sie umbringen.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9031339031339032
+      }
+    },
+    {
+      "question": "Wie viele Kinder unter schwereren Auswirkungen von Masern leiden?",
+      "context": "Insgesamt werden also ca. 2,5 Millionen Kinder unter schwereren Auswirkungen von Masern leiden.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8774928774928775
+      }
+    },
+    {
+      "question": "Wie viele Kinder sterben an Masern?",
+      "context": "Masern sind viele, viele Tausend Mal gefährlicher für unsere Kinder, als der absolut schlimmste Fall von Impf-Nebenwirkungen.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8131808278867102
+      }
+    },
+    {
+      "question": "Wie viele Kinder sterben nach einer Impfung mit dem MMR-Impfstoff?",
+      "context": "Man muss schon mit einer riesigen Lupe nach tödlichen Nebenwirkungen von Impfungen suchen, und auch dann ist es schwer, bestätigte Fälle zu finden.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8893719806763285
+      }
+    },
+    {
+      "question": "Wie viele Kinder sterben an Masern im Durchschnitt jährlich?",
+      "context": "Statistisch gesehen sterben heute 300 Kinder an Masern, eines seit dieses Video begonnen hat.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8871252204585538
+      }
+    },
+    {
+      "question": "What is Herdenimmunität?",
+      "context": "Herdenimmunität bedeutet, dass so viele Menschen immun gegen eine Krankheit sind, dass sich der Erreger nicht ausbreiten kann, sondern stirbt, bevor er seine Opfer erreichen kann.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.942962962962963
+      }
+    },
+    {
+      "question": "What is the requirement for achieving Herdenimmunität against Masern?",
+      "context": "Um das bei Masern zu erreichen, müssen 95% aller Menschen um dich rum geimpft sein.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9537037037037037
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was ist das Grundprinzip von Impfungen?",
+      "context": "Das schafft man nur mit Lebendimpfstoffen. Ein wehrhafter Feind ist nämlich eine größere Herausforderung als ein toter.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9155092592592593
+      }
+    },
+    {
+      "question": "What is Herdenimmunität?",
+      "context": "Herdenimmunität bedeutet, dass so viele Menschen immun gegen eine Krankheit sind, dass sich der Erreger nicht ausbreiten kann, sondern stirbt, bevor er seine Opfer erreichen kann.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.942962962962963
+      }
+    },
+    {
+      "question": "Wie viele Kinder würden in einem Industrienation mit getrennten Impfungen ums Leben kommen?",
+      "context": "12.000 Kinder alleine werden sie umbringen.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9031339031339032
+      }
+    },
+    {
+      "question": "Warum müssen wir uns Sorgen um Lebendimpfstoffe machen?",
+      "context": "Ein wehrhafter Feind ist nämlich eine größere Herausforderung als ein toter. Aber das hört sich wie eine ganz furchtbare Idee an.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9473684210526315
+      }
+    }
+  ]
+}

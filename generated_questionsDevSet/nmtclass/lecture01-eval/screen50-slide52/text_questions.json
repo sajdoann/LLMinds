@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is considered an action in this context?",
+      "context": "action",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.46875
+      }
+    },
+    {
+      "question": "Who participates in an action alongside 'there' and 'again who'?",
+      "context": "taking part in that action",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the relationship between 'some other circumstances' and the action?",
+      "context": "and some other circumstances",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.71875
+      }
+    },
+    {
+      "question": "How many entities are mentioned in this context besides 'action'?",
+      "context": "taking part in that action and some other circumstances",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What does the phrase 'again who was taking part in that action' imply about the context?",
+      "context": "action and there is again who was taking part in that action and some other circumstances.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7732142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is considered an action in this context?",
+      "context": "action",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.46875
+      }
+    },
+    {
+      "question": "How many entities are mentioned in this context besides 'action'?",
+      "context": "taking part in that action and some other circumstances",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Who participates in an action alongside 'there' and 'again who'?",
+      "context": "taking part in that action",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.625
+      }
+    }
+  ]
+}

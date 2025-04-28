@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the year when the direct assessment was introduced to the competition of WMT?",
+      "context": "The introduction of the direct assessment",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6395833333333334
+      }
+    },
+    {
+      "question": "How does the direct assessment work in terms of scoring?",
+      "context": "The mechanics of the direct assessment",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "What is a common challenge faced by crowdsourcing platforms when it comes to scoring translations?",
+      "context": "The limitations of crowdsourcing platforms",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8
+      }
+    },
+    {
+      "question": "Why do researchers evaluate some languages in the competition but not others?",
+      "context": "The language evaluation strategy",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What can be done to mitigate the problem of unreliable assessors on crowdsourcing platforms?",
+      "context": "Potential solutions to the assessment challenge",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7857142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do researchers evaluate some languages in the competition but not others?",
+      "context": "The language evaluation strategy",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "How does the direct assessment work in terms of scoring?",
+      "context": "The mechanics of the direct assessment",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "What is a common challenge faced by crowdsourcing platforms when it comes to scoring translations?",
+      "context": "The limitations of crowdsourcing platforms",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8
+      }
+    }
+  ]
+}

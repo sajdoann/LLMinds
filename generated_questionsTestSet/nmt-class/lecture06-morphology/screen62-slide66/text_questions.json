@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What approach is used in reverse translation to create synthetic parallel data for English?",
+      "context": "So the technical way how to do this is again use alternative decoding paths for the reverse step and instead of translating only form to form, kočce into something unknown",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "How would one approach Turkish translation in a similar manner?",
+      "context": "For other languages you would have to apply other linguistic expertise. So when you were doing this for Turkish, you should simplify Turkish by dropping Turkish morphology in a way that is appropriate for Turkish",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9008928571428572
+      }
+    },
+    {
+      "question": "What type of organization is implied by the term 'militaristic' in the context of translation?",
+      "context": "It is. Yeah. It is. It is. It is. It is a giga certain. It is.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7568681318681318
+      }
+    },
+    {
+      "question": "What is the implied scope or period for the model being discussed?",
+      "context": "Can we all go in this model 1993? least things is, of course, this model remote politicization?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8416666666666667
+      }
+    },
+    {
+      "question": "What type of process is implied by the term 'forgetfulization'?",
+      "context": "To and忘ulization. It is. It is.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of process is implied by the term 'forgetfulization'?",
+      "context": "To and忘ulization. It is. It is.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What approach is used in reverse translation to create synthetic parallel data for English?",
+      "context": "So the technical way how to do this is again use alternative decoding paths for the reverse step and instead of translating only form to form, kočce into something unknown",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "What is the implied scope or period for the model being discussed?",
+      "context": "Can we all go in this model 1993? least things is, of course, this model remote politicization?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ]
+}

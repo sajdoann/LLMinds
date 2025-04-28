@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of problem is the end-to-end spoken language translation expected to avoid?",
+      "context": "The end-to-end spoken language translation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "Why is the end-to-end spoken language translation considered a good approach?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8181818181818182
+      }
+    },
+    {
+      "question": "What exactly does the document mean by 'problems' in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9090909090909091
+      }
+    },
+    {
+      "question": "Can you infer why the author is moving to end-to-end spoken language translation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "Is there any specific reason mentioned in the document for why this approach is better?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8928571428571429
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any specific reason mentioned in the document for why this approach is better?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8928571428571429
+      }
+    },
+    {
+      "question": "Can you infer why the author is moving to end-to-end spoken language translation?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "Why is the end-to-end spoken language translation considered a good approach?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8181818181818182
+      }
+    },
+    {
+      "question": "What exactly does the document mean by 'problems' in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9090909090909091
+      }
+    }
+  ]
+}

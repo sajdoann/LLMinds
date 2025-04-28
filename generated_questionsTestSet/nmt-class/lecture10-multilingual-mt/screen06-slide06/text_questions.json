@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'curve' refer to in this context?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "What does 'transfer learning' imply?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.30000000000000004
+      }
+    },
+    {
+      "question": "What is the relationship between 'curve' and 'transfer learning'?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.38888888888888884
+      }
+    },
+    {
+      "question": "What does 'better curve' imply?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.32499999999999996
+      }
+    },
+    {
+      "question": "What is the purpose of 'putting in the additional data'?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.4027777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'curve' refer to in this context?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.375
+      }
+    },
+    {
+      "question": "What is the relationship between 'curve' and 'transfer learning'?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.38888888888888884
+      }
+    },
+    {
+      "question": "What does 'transfer learning' imply?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.30000000000000004
+      }
+    },
+    {
+      "question": "What is the purpose of 'putting in the additional data'?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.4027777777777778
+      }
+    },
+    {
+      "question": "What does 'better curve' imply?",
+      "context": "If we somehow, in a clearer way, put in the additional data from the other task, from the other language, then we would hope for this better curve, the curve with transfer learning.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.32499999999999996
+      }
+    }
+  ]
+}

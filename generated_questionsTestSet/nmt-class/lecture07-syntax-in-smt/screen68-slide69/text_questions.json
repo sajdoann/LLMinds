@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of word is 'machine' in this sentence?",
+      "context": "Then you fill in some morphological information which describes that this to be was in particular grammatical category.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6119281045751634
+      }
+    },
+    {
+      "question": "What part of speech does the word 'translation' serve as in the sentence?",
+      "context": "This machine was a noun which served as an attribute to this translation that served as the subject to the verb and is served as the complement to the verb.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5104166666666666
+      }
+    },
+    {
+      "question": "What type of relationship does 'machine' have with 'translation' in the sentence?",
+      "context": "This machine was a noun which served as an attribute to this translation that served as the subject to the verb and is served as the complement to the verb.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.46875
+      }
+    },
+    {
+      "question": "What is the function of 'machine' in the sentence?",
+      "context": "This machine was a noun which served as an attribute to this translation that served as the subject to the verb and is served as the complement to the verb.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.390625
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between 'machine' and other words in the sentence based on its grammatical category?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9013157894736842
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of word is 'machine' in this sentence?",
+      "context": "Then you fill in some morphological information which describes that this to be was in particular grammatical category.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6119281045751634
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between 'machine' and other words in the sentence based on its grammatical category?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9013157894736842
+      }
+    },
+    {
+      "question": "What part of speech does the word 'translation' serve as in the sentence?",
+      "context": "This machine was a noun which served as an attribute to this translation that served as the subject to the verb and is served as the complement to the verb.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5104166666666666
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "How many competitions did B take part in?",
+      "context": "B took part in six competitions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8854166666666666
+      }
+    },
+    {
+      "question": "In how many of these competitions was B better?",
+      "context": "it was better in four of them",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.871031746031746
+      }
+    },
+    {
+      "question": "What can be inferred about the outcomes of the six competitions?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    },
+    {
+      "question": "Did B have any losses or did it perform equally in all competitions?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "What is the relationship between the number of better performances and the total number of competitions?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What can be inferred about the outcomes of the six competitions?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    },
+    {
+      "question": "What is the relationship between the number of better performances and the total number of competitions?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9375
+      }
+    },
+    {
+      "question": "In how many of these competitions was B better?",
+      "context": "it was better in four of them",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.871031746031746
+      }
+    }
+  ]
+}

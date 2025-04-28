@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'statefulness' refer to in the context of decoder representation?",
+      "context": "The concept of statefulness and its relation to the decoder's state representation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Why is it necessary for human processing tasks involving language, such as processing jokes?",
+      "context": "The role of Polnes in human language processing tasks",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8418803418803419
+      }
+    },
+    {
+      "question": "What is the main problem with the 'stateless' meaning in decoder representation?",
+      "context": "The issues with stateless decoder representation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.696969696969697
+      }
+    },
+    {
+      "question": "How does the concept of 'statefulness' relate to models with attention?",
+      "context": "The connection between statefulness and models with attention",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7769886363636364
+      }
+    },
+    {
+      "question": "What is the purpose of one expression mapping deterministically to some representation?",
+      "context": "The goal of decoder representation in language processing tasks",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6840277777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'statefulness' refer to in the context of decoder representation?",
+      "context": "The concept of statefulness and its relation to the decoder's state representation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "Why is it necessary for human processing tasks involving language, such as processing jokes?",
+      "context": "The role of Polnes in human language processing tasks",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8418803418803419
+      }
+    },
+    {
+      "question": "How does the concept of 'statefulness' relate to models with attention?",
+      "context": "The connection between statefulness and models with attention",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7769886363636364
+      }
+    }
+  ]
+}

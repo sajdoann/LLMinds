@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the process called when each element compares to all other elements in a sentence?",
+      "context": "How are these queries and keys and values used?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How are query vectors and key vectors calculated?",
+      "context": "So you simply calculate the dot product between...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8839285714285714
+      }
+    },
+    {
+      "question": "What is the purpose of comparing a word's query vector with its own key vector?",
+      "context": "...so that needs the RT.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "Why are all positions compared to each other in this process?",
+      "context": "You also compare the word at position one with its query...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8522727272727273
+      }
+    },
+    {
+      "question": "What is the significance of using a square matrix to perform these comparisons?",
+      "context": "...because you are comparing every position with every position.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8161057692307692
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the process called when each element compares to all other elements in a sentence?",
+      "context": "How are these queries and keys and values used?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is the purpose of comparing a word's query vector with its own key vector?",
+      "context": "...so that needs the RT.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8583333333333334
+      }
+    },
+    {
+      "question": "How are query vectors and key vectors calculated?",
+      "context": "So you simply calculate the dot product between...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8839285714285714
+      }
+    }
+  ]
+}

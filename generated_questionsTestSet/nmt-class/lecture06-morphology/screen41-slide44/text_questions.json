@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'both paths' refer to in this context?",
+      "context": "So if you do these both paths then you do get the improvement that you wanted.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8141025641025641
+      }
+    },
+    {
+      "question": "What is the expected outcome of doing both paths?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "What improvement is being referred to in the sentence?",
+      "context": "You are improving over the baseline by far.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020833333333334
+      }
+    },
+    {
+      "question": "What does 'baseline' refer to in this context?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the relationship between doing both paths and getting an improvement?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'both paths' refer to in this context?",
+      "context": "So if you do these both paths then you do get the improvement that you wanted.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8141025641025641
+      }
+    },
+    {
+      "question": "What is the expected outcome of doing both paths?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "What does 'baseline' refer to in this context?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is the relationship between doing both paths and getting an improvement?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8958333333333334
+      }
+    }
+  ]
+}

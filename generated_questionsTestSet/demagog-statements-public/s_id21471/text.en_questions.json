@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "When did Prime Minister Petr Fiala send a letter to the President of the European Commission?",
+      "context": "statement",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the main request made by the Czech Republic in its letter to the President of the European Commission?",
+      "context": "additional context<p>The letter mentioned by Petr Fiala</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7741596638655462
+      }
+    },
+    {
+      "question": "What resolution did the Chamber of Deputies vote on, and what was its main request?",
+      "context": "<p>The statement also mentions a resolution of the Czech Parliament. On December 14, 2021...</p>",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.6964285714285714
+      }
+    },
+    {
+      "question": "What is the position of the Czech government regarding gas and nuclear energy in the EU taxonomy?",
+      "context": "statement<p>The letter mentioned by Petr Fiala</p><p>...formulates the position of the Czech government supporting the inclusion of gas and nuclear energy...</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7931372549019609
+      }
+    },
+    {
+      "question": "Why does the Chamber of Deputies consider nuclear energy to be an important part of the solution for decarbonizing the economy?",
+      "context": "<p>The statement also mentions a resolution of the Czech Parliament. On December 14, 2021...</p>",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.7420634920634921
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When did Prime Minister Petr Fiala send a letter to the President of the European Commission?",
+      "context": "statement",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the position of the Czech government regarding gas and nuclear energy in the EU taxonomy?",
+      "context": "statement<p>The letter mentioned by Petr Fiala</p><p>...formulates the position of the Czech government supporting the inclusion of gas and nuclear energy...</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7931372549019609
+      }
+    },
+    {
+      "question": "What is the main request made by the Czech Republic in its letter to the President of the European Commission?",
+      "context": "additional context<p>The letter mentioned by Petr Fiala</p>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.7741596638655462
+      }
+    },
+    {
+      "question": "Why does the Chamber of Deputies consider nuclear energy to be an important part of the solution for decarbonizing the economy?",
+      "context": "<p>The statement also mentions a resolution of the Czech Parliament. On December 14, 2021...</p>",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.26666666666666666,
+        "diversity_score": 0.7420634920634921
+      }
+    }
+  ]
+}

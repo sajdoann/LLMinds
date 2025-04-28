@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the formula used within the argmax?",
+      "context": "The first sentence of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.46071428571428574
+      }
+    },
+    {
+      "question": "What does the fraction within the argmax represent?",
+      "context": "The middle part of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.49642857142857144
+      }
+    },
+    {
+      "question": "Why is it unnecessary to calculate the sum across all sentences?",
+      "context": "The second sentence of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5954545454545455
+      }
+    },
+    {
+      "question": "What can be concluded about the distribution of points based on the use of the fraction within the argmax?",
+      "context": "The third and fourth sentences of the document",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6773809523809524
+      }
+    },
+    {
+      "question": "What is the main purpose of distributing points to define feature points?",
+      "context": "The last part of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.55
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main purpose of distributing points to define feature points?",
+      "context": "The last part of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.55
+      }
+    },
+    {
+      "question": "Why is it unnecessary to calculate the sum across all sentences?",
+      "context": "The second sentence of the document",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5954545454545455
+      }
+    },
+    {
+      "question": "What does the fraction within the argmax represent?",
+      "context": "The middle part of the document",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.49642857142857144
+      }
+    }
+  ]
+}

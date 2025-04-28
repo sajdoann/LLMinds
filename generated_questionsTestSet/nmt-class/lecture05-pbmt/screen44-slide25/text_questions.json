@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two most important weights in the baseline phrase-based model?",
+      "context": "The illustration of the effect of weights on the hypothesis that are considered",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8329545454545455
+      }
+    },
+    {
+      "question": "How does the phrase penalty control the segmentation of the input sentence?",
+      "context": "The language model score and the phrase penalty. So the phrase penalty controls whether the system prefers many segments when segmenting the input sentence or few segments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "What happens to the output sentence if the weight combination is very strange?",
+      "context": "This garbage can suddenly with bad weight setting can arise so and it can be selected in the in the beam search.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7465277777777778
+      }
+    },
+    {
+      "question": "Under what conditions should the phrase bonus be used?",
+      "context": "So if you if you are a Czech speaker and if you start looking at the at the negative language model scores. so they are the candidate translations when the weight for the language model score is negative then you will see that based on the fixed this is fixed input based on the fixed input words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8006535947712419
+      }
+    },
+    {
+      "question": "What happens to the output sentence if there is a bad match between the training data and the test domain?",
+      "context": "So if your test data matches very well your training data then the phrase bonus can be pretty low the phrase penalty in other words can be pretty high so it's good to use long phrases if there is the good match if there is the bad match between and the training data then it would probably be better to use shorter phrases and translate individual words.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8472222222222222
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the two most important weights in the baseline phrase-based model?",
+      "context": "The illustration of the effect of weights on the hypothesis that are considered",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8329545454545455
+      }
+    },
+    {
+      "question": "Under what conditions should the phrase bonus be used?",
+      "context": "So if you if you are a Czech speaker and if you start looking at the at the negative language model scores. so they are the candidate translations when the weight for the language model score is negative then you will see that based on the fixed this is fixed input based on the fixed input words.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8006535947712419
+      }
+    },
+    {
+      "question": "How does the phrase penalty control the segmentation of the input sentence?",
+      "context": "The language model score and the phrase penalty. So the phrase penalty controls whether the system prefers many segments when segmenting the input sentence or few segments.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "What happens to the output sentence if there is a bad match between the training data and the test domain?",
+      "context": "So if your test data matches very well your training data then the phrase bonus can be pretty low the phrase penalty in other words can be pretty high so it's good to use long phrases if there is the good match if there is the bad match between and the training data then it would probably be better to use shorter phrases and translate individual words.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What happens to the output sentence if the weight combination is very strange?",
+      "context": "This garbage can suddenly with bad weight setting can arise so and it can be selected in the in the beam search.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7465277777777778
+      }
+    }
+  ]
+}

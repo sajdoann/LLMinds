@@ -1,0 +1,930 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main forms of reproduction of living organisms?",
+      "context": "There are several main forms of reproduction of living organisms. First of all, sexual (during which sex cells are formed) and asexual (during which sex cells are not formed) reproduction are distinguished.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.827940577940578
+      }
+    },
+    {
+      "question": "What is the significant advantage of asexual reproduction?",
+      "context": "This method of reproduction is common in all groups of living organisms and is the original method of reproduction for cellular forms. A significant advantage of asexual reproduction is that in this variant, all individuals can produce new offspring, while in the case of sexual reproduction only females are capable of this.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7900641025641026
+      }
+    },
+    {
+      "question": "What is asexual reproduction?",
+      "context": "A significant advantage of asexual reproduction is that in this variant, all individuals can produce new offspring, while in the case of sexual reproduction only females are capable of this.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7614644970414202
+      }
+    },
+    {
+      "question": "What is regeneration?",
+      "context": "Regeneration is the ability of living organisms to restore their damaged or lost structures.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6929181929181929
+      }
+    },
+    {
+      "question": "What are the two forms of regeneration?",
+      "context": "two forms of regeneration - intracellular and cellular.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7668269230769231
+      }
+    },
+    {
+      "question": "When does physiological regeneration occur in humans?",
+      "context": "This type of regeneration occurs throughout a person's life (Fig. 44.1). For example, due to physiological regeneration",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9187843406593407
+      }
+    },
+    {
+      "question": "What happens when a transplant rejection occurs?",
+      "context": "In the case of incomplete regeneration, the restoration of functions occurs at the expense of the surrounding tissues, and the site of damage is filled with connective tissue, which forms a scar.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8583150183150183
+      }
+    },
+    {
+      "question": "Why are transplants from donors who are not identical in genome to the recipient rejected?",
+      "context": "This option is used most often, because it is the easiest to implement in practice. To overcome problems with the immune system, transplants are selected that are most similar in antigen set to the donor organs.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.902014652014652
+      }
+    },
+    {
+      "question": "What is an allotransplantation?",
+      "context": "Allotransplantation The donor is a person with a genotype different from the recipient's genotype.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7516025641025641
+      }
+    },
+    {
+      "question": "Who proposed the principles of biological ethics?",
+      "context": "These principles are: the principle of autonomy (an individual has the right to manage his or her own health); ... The basic principles of bioethics, which it is desirable to adhere to in order to avoid ethical problems, were proposed by American scientists T. L. Beauchamp and J. F. Childress.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.882166283329074
+      }
+    },
+    {
+      "question": "What is the main difference between the growth of prokaryotic cells and eukaryotic cells?",
+      "context": "The growth of cells in living organisms can occur at different speeds. This speed depends on the structural features of the cell itself (prokaryotic cells divide faster) and environmental conditions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8296351084812623
+      }
+    },
+    {
+      "question": "What is the term for the process of forming specialized cells that acquire certain structural features?",
+      "context": "Cell differentiation in the human body is an irreversible process. Cell differentiation is the process of forming specialized cells that acquire certain structural features that enable them to perform the necessary functions with high efficiency.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8509873268493958
+      }
+    },
+    {
+      "question": "What happens to a cell that retains the ability to divide and remain undifferentiated?",
+      "context": "Such cells that retain the ability to divide and remain undifferentiated are called stem cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8536817882971729
+      }
+    },
+    {
+      "question": "What are the two main ways of cell death in multicellular living organisms?",
+      "context": "In multicellular living organisms (including humans), two main ways of cell death are distinguished - apoptosis and necrosis (Fig. 46.1).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8433431952662722
+      }
+    },
+    {
+      "question": "What is the difference between apoptosis and necrosis?",
+      "context": "Apoptosis is a programmed cell death. It is initiated by special molecular signals and occurs according to a certain algorithm of events in the cell. In the case of apoptosis, the cell membrane is not destroyed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7955586080586081
+      }
+    },
+    {
+      "question": "What happens to apoptotic bodies after they are formed?",
+      "context": "As a result of apoptosis, so-called apoptotic bodies are formed from cells, which are absorbed by macrophages or neighboring cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8833783175888439
+      }
+    },
+    {
+      "question": "What is the difference between apoptosis and necrosis in terms of cell membrane destruction?",
+      "context": "Apoptosis is an accidental or pathological cell death. It can occur under the influence of physical, chemical or biological factors and is less orderly than apoptosis. During necrosis, the cell membrane is destroyed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8379120879120879
+      }
+    },
+    {
+      "question": "What is the result of apoptosis that leads to inflammation?",
+      "context": "During necrosis, the cell membrane is destroyed and the contents of the cell enter the external environment. This often causes inflammation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7846530920060332
+      }
+    },
+    {
+      "question": "What is a benign tumor?",
+      "context": "Benign tumors are neoplasms in the body caused by uncontrolled but limited cell proliferation that do not spread to neighboring tissues (not capable of invasion) and distant organs (do not form metastases).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7950785773366419
+      }
+    },
+    {
+      "question": "What types of tissue do benign tumors usually arise from?",
+      "context": "The diversity of benign tumors is high. They are classified according to the type of tissue from which they arose. Common types of benign tumors Name of tumor Tissue from which cells are formed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.862263099219621
+      }
+    },
+    {
+      "question": "What can be a consequence of a benign tumor if it transforms into another type of tumor?",
+      "context": "They do not cause pain, but can disrupt the functioning of organs, and in some cases can transform into malignant tumors.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8763888888888889
+      }
+    },
+    {
+      "question": "What is a common method used to treat benign tumors?",
+      "context": "Surgical intervention is often used to treat benign tumors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8716524216524216
+      }
+    },
+    {
+      "question": "What is the main consequence of ionizing radiation on the body?",
+      "context": "the action of ionizing radiation can affect any organ or tissue with subsequent tumor formation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.805982905982906
+      }
+    },
+    {
+      "question": "Why are malignant tumors also called cancerous tumors?",
+      "context": "The term cancerous tumor or cancer is often used for malignant tumors (Fig. 48.2). This term was proposed by Hippocrates, who described a tumor that",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9228678929765887
+      }
+    },
+    {
+      "question": "What are the characteristic features of malignant tumors?",
+      "context": "The characteristic features of malignant tumors are: rapid uncontrolled growth; penetration into neighboring tissues with the formation of local metastases (invasions); movement of individual tumor cells through lymphatic and blood vessels to distant organs and tissues (metastasis formation);",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8250291375291375
+      }
+    },
+    {
+      "question": "What type of tissue do cancer cells in melanoma come from?",
+      "context": "Melanocytes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925990675990676
+      }
+    },
+    {
+      "question": "What types of cells can be distinguished among malignant tumors?",
+      "context": "in malignant tumors are poorly differentiated, so cells of different types can be distinguished among them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8681891025641025
+      }
+    },
+    {
+      "question": "What is combination therapy used for?",
+      "context": "ten, to increase the effectiveness of treatment, combination therapy is used, in which several methods of destroying the tumor are used simultaneously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8077991452991453
+      }
+    },
+    {
+      "question": "How effective is early diagnosis of cancer?",
+      "context": "The chances of curing cancer in the early stages are more than 90%.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8224206349206349
+      }
+    },
+    {
+      "question": "What is the significance of early diagnosis in cancer treatment?",
+      "context": "The chances of curing cancer in the early stages are more than 90%. Therefore, regular examination to detect early stages of cancer can also be attributed to the means of preventing severe forms of cancer (Fig. 48.3).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.813366571699905
+      }
+    },
+    {
+      "question": "What is gametogenesis?",
+      "context": "The process of formation of sex cells in the gonads is called gametogenesis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6480186480186481
+      }
+    },
+    {
+      "question": "What is gametogenesis?",
+      "context": "They prevent the penetration of more than one sperm into the egg and contribute to the rooting of the embryo in the mucous membrane of the uterus. The process of formation of sex cells in the gonads is called gametogenesis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7076465201465201
+      }
+    },
+    {
+      "question": "What is spermatogenesis?",
+      "context": "Spermatogenesis occurs in the seminiferous tubules of the male gonad - the testis. The process of spermatogenesis is complex, it ends during puberty with the formation of spermatozoa - mature male germ cells capable of fertilization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7162228796844181
+      }
+    },
+    {
+      "question": "What are the four periods in spermatogenesis?",
+      "context": "Four periods of spermatogenesis are distinguished: reproduction, growth, maturation and formation. During the reproduction period, spermatozoa (primary male germ cells) divide several times by mitosis.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8087912087912088
+      }
+    },
+    {
+      "question": "What is meiosis?",
+      "context": "As a result, they become first-order spermatocytes. During the maturation period, subsequent phases of meiosis occur and second-order spermatocytes (after the first division) are formed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7219551282051282
+      }
+    },
+    {
+      "question": "What is oogenesis?",
+      "context": "Oogenesis in humans Second-order oocyte I meiotic division II meiotic division Polar bodies Mature egg cell Fig. 49.2. Oogenesis in humans",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7546741452991453
+      }
+    },
+    {
+      "question": "What is oogenesis?",
+      "context": "Oogenesis is the process of egg cell development (Fig. 49.2).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6549145299145299
+      }
+    },
+    {
+      "question": "How many full-fledged mature gametes are formed from one initial cell in oogenesis?",
+      "context": "Thus, unlike spermatogenesis, during oogenesis, only one full-fledged mature gamete is formed from one initial cell.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9369165023011177
+      }
+    },
+    {
+      "question": "How many meiotic divisions occur in the maturation period of oogenesis?",
+      "context": "During the maturation period, two meiotic divisions occur, as a result of which half of the chromosomes remain in the nucleus of the germ cell (23 instead of 46).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8681210094253573
+      }
+    },
+    {
+      "question": "What is the characteristic feature of oogenesis compared to spermatogenesis?",
+      "context": "Thus, unlike spermatogenesis, during oogenesis, only one full-fledged mature gamete is formed from one initial cell.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8382478632478633
+      }
+    },
+    {
+      "question": "What happens to the periods of reproduction and growth in oogenesis compared to spermatogenesis?",
+      "context": "A characteristic feature of oogenesis is that the periods of reproduction and growth of gametes occur in the embryonic period.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7890706578489384
+      }
+    },
+    {
+      "question": "What is the characteristic feature of oogenesis?",
+      "context": "In addition, a characteristic feature of oogenesis is that the periods of reproduction and growth of gametes occur in the embryonic period",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7198310948310949
+      }
+    },
+    {
+      "question": "What genes regulate gametogenesis in humans?",
+      "context": "The process of gamete formation in humans depends on genetic, hormonal and other factors. Gametogenesis in humans is regulated by four genes, three of which (O, T, Tif) are located on the X chromosome, and one (Rtif) is on the Y chromosome",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8492618492618492
+      }
+    },
+    {
+      "question": "What is the effect of the Rtif gene on gametogenesis?",
+      "context": "If the cell has a Y chromosome, the Rtif gene blocks the Tif gene. In such a situation, the T gene works and the body produces spermatozoa",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8126780626780628
+      }
+    },
+    {
+      "question": "What factors can disrupt gametogenesis?",
+      "context": "Alcohol, smoking and drug use, as well as some environmental factors (radiation, certain chemicals, etc.) have an extremely negative effect on this process",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8893356643356644
+      }
+    },
+    {
+      "question": "Where are gametes formed in the human body?",
+      "context": "ion) of mature male (sperm) and female (egg) sex cells, as a result of which one cell (zygote) is formed, which is the beginning of a new organism.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8512054069119286
+      }
+    },
+    {
+      "question": "What is the structural feature of human sperm cells?",
+      "context": "Overcoming the outer shells of the egg cell by the sperm - the lustrous membrane and the radiant corona.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7806267806267806
+      }
+    },
+    {
+      "question": "Where does the zygote form in the human body?",
+      "context": "Formation of the zygote The gamete nuclei fuse inside the egg cell, forming a zygote.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8563856015779092
+      }
+    },
+    {
+      "question": "What are socio-economic factors that affect human families?",
+      "context": "The living conditions of human families are also largely shaped by socio-economic factors, which affects both the psychological state of people and their health.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8704108391608392
+      }
+    },
+    {
+      "question": "What is reproductive medicine used to treat?",
+      "context": "Reproductive medicine is a branch of medicine that deals with the prevention, diagnosis and treatment of infertility in humans.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7849062702003878
+      }
+    },
+    {
+      "question": "What is the main reason for the impossibility of conception?",
+      "context": "tion is impossible due to a disease of the man or woman (fallopian tube obstruction, damage to the sperm ducts, etc.).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7869245763982606
+      }
+    },
+    {
+      "question": "What are some of the main prospects for reproductive medicine?",
+      "context": "Prospects for reproductive medicine Reproductive medicine is a field that is currently actively developing. Its main prospects are related to solving such issues as overcoming infertility, birth control, reducing the risk of pregnancy pathologies, and reducing infant and maternal mortality.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8331070889894419
+      }
+    },
+    {
+      "question": "What factor can significantly change in different social environments?",
+      "context": "The interaction of the biological and social components also affects human reproduction. The basis of reproductive behavior are instinctive programs that have been established for millions of years in the process of human evolution.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8739316239316239
+      }
+    },
+    {
+      "question": "Why did monogamous marriages become common in Europe?",
+      "context": "For example, the basis of agriculture in Europe was the plow, and then the plow. Working with them required high physical exertion, and, accordingly, the main cultivation of the land was carried out by men.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9121905393457117
+      }
+    },
+    {
+      "question": "What is a possible reason for the common use of hoes in African agriculture?",
+      "context": "That is why the coats of arms of several African countries (Angola, Mozambique, Tanzania, etc.) depict a hoe.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8155569920275803
+      }
+    },
+    {
+      "question": "Why did monogamous marriages become common in African cultures?",
+      "context": "This contributed to the spread and consolidation of monogamous marriages (one man and one woman) in the cultural tradition.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.877325289089995
+      }
+    },
+    {
+      "question": "Why did men with many wives have an advantage in passing on genetic and material inheritance?",
+      "context": "That is why the coats of arms of several African countries (Angola, Mozambique, Tanzania, etc.) depict a hoe.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8950556184012066
+      }
+    },
+    {
+      "question": "What was the main cause of mortality among children in Ukraine in 1910?",
+      "context": "The main cause of mortality was disease, and during periods of crop failure, hunger.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8139381985535832
+      }
+    },
+    {
+      "question": "Why did people give birth to six to eight children?",
+      "context": "And people got used to giving birth to six to eight children, because this was the only way to survive in conditions of high infant mortality.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9117118791031835
+      }
+    },
+    {
+      "question": "Why is regulating reproduction important for the planet's ecosystems?",
+      "context": "And the capacity of the planet's ecosystems is not infinite and they cannot feed more than a certain number of people.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8411680911680912
+      }
+    },
+    {
+      "question": "What is the term for the individual development of an organism from the moment of conception to natural death?",
+      "context": "The ontogenesis of a certain organism is based on the process of sequential and irreversible implementation of its hereditary information.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8236236802413273
+      }
+    },
+    {
+      "question": "What are the three subperiods of the embryonic period of development?",
+      "context": "The embryonic (germinal) period lasts from the moment of formation of the zygote to the birth of the child.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7984878369493754
+      }
+    },
+    {
+      "question": "What is formed from a single cell during the embryonic period?",
+      "context": "During this period, all tissues and organ systems of the organism are formed from a single cell.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.807760866584396
+      }
+    },
+    {
+      "question": "What are the three subperiods of human embryonic development?",
+      "context": "into three subperiods: initial (first week), embryonic (2–8 weeks) and the period of fetal development (from the 9th week to birth).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8186609686609687
+      }
+    },
+    {
+      "question": "What is embryonic induction?",
+      "context": "This interaction is the cause of the so-called embryonic induction. The essence of this phenomenon is that in certain areas of the embryo, so-called organizer cells function.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7528677462887989
+      }
+    },
+    {
+      "question": "What is the duration of the postembryonic period for boys?",
+      "context": "The postembryonic period can be divided into several stages, the duration of which differs in men and women; Second childhood (8–12 years in boys, 8–11 years in girls):",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8016381766381766
+      }
+    },
+    {
+      "question": "What is the main function of the umbilical cord?",
+      "context": "The umbilical cord is a cord-like organ that extends from the placenta and connects the fetus to the mother's body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7703148567119156
+      }
+    },
+    {
+      "question": "What is the typical age range for adolescence in boys and girls?",
+      "context": "Adolescence (13–16 years in boys, 12–15 years in girls): beginning of the period of puberty; sharp increase in growth rates; significant hormonal changes in the body; beginning of the functioning of the reproductive systems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8493357487922706
+      }
+    },
+    {
+      "question": "What is the typical age range for old age in men and women?",
+      "context": "Old age (61–74 years in men, 56–74 years in women): the state of the body depends significantly on the characteristics of the lifestyle that a person led in previous periods.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8382107023411371
+      }
+    },
+    {
+      "question": "What is the main difference between isotransplantation and allotransplantation?",
+      "context": "Types of transplantation\\nTypeFeatures\\nAutotransplantationThe recipient is a donor for himself\\nIsotransplantationThe donor is a person with a genotype completely identical to the recipient's genotype\\nAllotransplantationThe donor is a person with a genotype different from the recipient's genotype",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8013888888888889
+      }
+    },
+    {
+      "question": "What is a person with a genotype different from the recipient's genotype?",
+      "context": "person with a genotype different from the recipient's genotype",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.811698717948718
+      }
+    },
+    {
+      "question": "What was Aristotle's contribution to the classification of animals?",
+      "context": "Aristotle created the first natural classification of animals (he distinguished groups of plants\nand animals, expressed the idea of the existence in nature of gradual\ntransitions from inanimate bodies to plants and from them to animals).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8328584995251662
+      }
+    },
+    {
+      "question": "Why is Haeckel's 'Atlas of Natural Forms' notable?",
+      "context": "He developed the theory of the origin of multicellular organisms (the theory of gastrula), formulated the biogenetic law, and built the first genealogical tree of the animal kingdom.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8751602564102564
+      }
+    },
+    {
+      "question": "What is notable about Darwin's approach to learning new species?",
+      "context": "Darwin Charles (1809–1882) An English scientist and traveler who created the theory of evolution, together with Alfred Russell proposed the principles of natural selection.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.872027972027972
+      }
+    },
+    {
+      "question": "Who introduced the concept of four kingdoms in biology?",
+      "context": "Copeland Herbert Faulkner (1902–1968) An American biologist born in the family of the botanist Edwin Copeland.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8537037037037036
+      }
+    },
+    {
+      "question": "What was Linnaeus's notable achievement in classification?",
+      "context": "194. Linnaeus Carl (1707–1778)\nSwedish naturalist (botanist, zoologist, mineralogist) and physician.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8973526473526474
+      }
+    },
+    {
+      "question": "Linnaeus Carl (1707–1778)\nSwedish naturalist (botanist, zoologist, mineralogist) and physician.",
+      "context": "Lunin Nikolay Ivanovich (1854–1937) Physician, researcher, author of the theory of vitamins.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9178904428904429
+      }
+    },
+    {
+      "question": "Where did Otto von Munchausen create one of the first English landscape parks in Europe?",
+      "context": "He created one of the first English landscape parks in Europe on the territory of his own estate in Schwebber.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8828557063851181
+      }
+    },
+    {
+      "question": "At what age did Lynn Margulis begin studying at the University of Chicago?",
+      "context": "At 14 (!) years old, she began studying at the University of Chicago,",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8504273504273504
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of tissue do cancer cells in melanoma come from?",
+      "context": "Melanocytes",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925990675990676
+      }
+    },
+    {
+      "question": "Why are malignant tumors also called cancerous tumors?",
+      "context": "The term cancerous tumor or cancer is often used for malignant tumors (Fig. 48.2). This term was proposed by Hippocrates, who described a tumor that",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9228678929765887
+      }
+    },
+    {
+      "question": "Linnaeus Carl (1707–1778)\nSwedish naturalist (botanist, zoologist, mineralogist) and physician.",
+      "context": "Lunin Nikolay Ivanovich (1854–1937) Physician, researcher, author of the theory of vitamins.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9178904428904429
+      }
+    },
+    {
+      "question": "Why did monogamous marriages become common in Europe?",
+      "context": "For example, the basis of agriculture in Europe was the plow, and then the plow. Working with them required high physical exertion, and, accordingly, the main cultivation of the land was carried out by men.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9121905393457117
+      }
+    },
+    {
+      "question": "Why is regulating reproduction important for the planet's ecosystems?",
+      "context": "And the capacity of the planet's ecosystems is not infinite and they cannot feed more than a certain number of people.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8411680911680912
+      }
+    }
+  ]
+}

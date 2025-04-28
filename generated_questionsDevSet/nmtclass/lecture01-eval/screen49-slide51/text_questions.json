@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'This is easier to do' indicate about the complexity of the task?",
+      "context": "This is easier to do because this is fluent sentence, so there is",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.6644230769230769
+      }
+    },
+    {
+      "question": "How does the use of a comma affect the tone of the sentence?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What does 'because' indicate about the relationship between clauses in the sentence?",
+      "context": "This is easier to do because this is fluent sentence, so there ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.678409090909091
+      }
+    },
+    {
+      "question": "Is the sentence 'This is easier to do' a complex or simple sentence?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What does 'fluent sentence' imply about the speaker's writing style?",
+      "context": "so there is an ",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.675
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is the sentence 'This is easier to do' a complex or simple sentence?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What does 'because' indicate about the relationship between clauses in the sentence?",
+      "context": "This is easier to do because this is fluent sentence, so there ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.678409090909091
+      }
+    },
+    {
+      "question": "What does 'fluent sentence' imply about the speaker's writing style?",
+      "context": "so there is an ",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.675
+      }
+    }
+  ]
+}

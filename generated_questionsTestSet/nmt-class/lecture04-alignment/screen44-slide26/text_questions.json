@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the calculation used to determine the probability of the whole sentence in IBM Model One?",
+      "context": "The IBM model one defines how do we calculate the probability of the whole sentence given given the alignments and given the words and given the source sentence",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7152777777777778
+      }
+    },
+    {
+      "question": "How are lexical probabilities used in the calculation?",
+      "context": "for each of these words in our lexical translation table we know that does can be translated as the that which who and so on and we know the the lexical so there is the probability regardless any context",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "What happens when direct alignment is considered?",
+      "context": "if you consider the direct alignment where the words the words corresponded like monotonically to each other then the probability of the whole sentence in model one in IBM model one is this normalization times the product of the lexical probabilities of the words",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7577380952380952
+      }
+    },
+    {
+      "question": "How are word alignments determined?",
+      "context": "the was aligned to does so we take this point seven multiplied with this point eight which corresponds to house that's so you see that this the particular sentence that we had on the previous slide was the most likely lexical translation of the source sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8477272727272727
+      }
+    },
+    {
+      "question": "What is the purpose of normalization in the calculation?",
+      "context": "the probability of the whole sentence in model one in IBM model one is this normalization times the product of the lexical probabilities of the words",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5643382352941176
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How are word alignments determined?",
+      "context": "the was aligned to does so we take this point seven multiplied with this point eight which corresponds to house that's so you see that this the particular sentence that we had on the previous slide was the most likely lexical translation of the source sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8477272727272727
+      }
+    },
+    {
+      "question": "What happens when direct alignment is considered?",
+      "context": "if you consider the direct alignment where the words the words corresponded like monotonically to each other then the probability of the whole sentence in model one in IBM model one is this normalization times the product of the lexical probabilities of the words",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7577380952380952
+      }
+    },
+    {
+      "question": "What is the purpose of normalization in the calculation?",
+      "context": "the probability of the whole sentence in model one in IBM model one is this normalization times the product of the lexical probabilities of the words",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.5643382352941176
+      }
+    },
+    {
+      "question": "How are lexical probabilities used in the calculation?",
+      "context": "for each of these words in our lexical translation table we know that does can be translated as the that which who and so on and we know the the lexical so there is the probability regardless any context",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7458333333333333
+      }
+    }
+  ]
+}

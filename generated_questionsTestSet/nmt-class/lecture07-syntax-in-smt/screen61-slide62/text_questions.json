@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the approach that uses a tectogrammatic layer?",
+      "context": "The first sentence of the text",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What are the layers in the analysis transfer synthesis pipeline for machine translation?",
+      "context": "The phrase 'analysis transfer synthesis pipeline' itself",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7633928571428572
+      }
+    },
+    {
+      "question": "How does the tecto-empty approach work?",
+      "context": "The phrase 'worked reasonably well. And that is the tecto-empty approach.'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7125
+      }
+    },
+    {
+      "question": "What type of syntax is analyzed using the shallow syntax layer?",
+      "context": "The phrase 'shallow syntax and tectogrammatic'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7208333333333333
+      }
+    },
+    {
+      "question": "How does the tecto-empty approach relate to other approaches in machine translation?",
+      "context": "The phrase 'transfer-based approach to machine translation' itself",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the approach that uses a tectogrammatic layer?",
+      "context": "The first sentence of the text",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.775
+      }
+    },
+    {
+      "question": "What are the layers in the analysis transfer synthesis pipeline for machine translation?",
+      "context": "The phrase 'analysis transfer synthesis pipeline' itself",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7633928571428572
+      }
+    },
+    {
+      "question": "What type of syntax is analyzed using the shallow syntax layer?",
+      "context": "The phrase 'shallow syntax and tectogrammatic'",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7208333333333333
+      }
+    },
+    {
+      "question": "How does the tecto-empty approach relate to other approaches in machine translation?",
+      "context": "The phrase 'transfer-based approach to machine translation' itself",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

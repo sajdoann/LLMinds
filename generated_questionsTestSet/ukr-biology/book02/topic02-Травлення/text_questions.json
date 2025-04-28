@@ -1,0 +1,380 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main function of the ravenous cavity?",
+      "context": "Травна система складається з кількох ділянок (відділів) і цілої низки залоз. Її відділами є ротова порожнина, глотка, стравохід, шлунок, тонкий та товстий кишечник.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7827898550724638
+      }
+    },
+    {
+      "question": "What is the main function of the small intestine?",
+      "context": "Тонкий кишечник — ділянка всмоктування води та накопичення неперетравлених речовин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7595833333333333
+      }
+    },
+    {
+      "question": "What is the function of the stravohod in the digestive system?",
+      "context": "Стравохід являє собою м’язову трубку, по якій їжа потрапляє з ротової порожнини у шлунок.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7794973544973545
+      }
+    },
+    {
+      "question": "What is the main function of the liver and gallbladder in the digestive system?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8236111111111111
+      }
+    },
+    {
+      "question": "What is the composition of the thin intestine?",
+      "context": "Тонкий кишечник складається з трьох відділів — дванадцяти-палої, порожньої та клубової кишок.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7716269841269842
+      }
+    },
+    {
+      "question": "What is the main function of the pancreas in the digestive system?",
+      "context": "Печінка виробляє жовч, яка полегшує травлення жирів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.790952380952381
+      }
+    },
+    {
+      "question": "What are the main organs that make up the digestive system in humans?",
+      "context": "Органи, які входять до складу цієї системи. На які відділи поділяється травна система людини?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8706196581196581
+      }
+    },
+    {
+      "question": "What are the main functions of the small intestine in the digestive system?",
+      "context": "Середовище залишається лужним, тому там ще якийсь час триває процесс розщеплення вуглеводів за допомогою амілази слини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8203598484848486
+      }
+    },
+    {
+      "question": "What is the role of амілази слини in the digestive process?",
+      "context": "тому там ще якийсь час триває процес розщеплення вуглеводів за допомогою амілази солі",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8158974358974359
+      }
+    },
+    {
+      "question": "What is the purpose of the ворсинки in the small intestine?",
+      "context": "М’які у стінках шлунка по вільно скорочуються та перемішують його вміст. Відтак частково перетравлена їжа порціями переціліся в кишечник.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8017543859649123
+      }
+    },
+    {
+      "question": "What is the main function of the intestinal muscles in the thin part of the intestine?",
+      "context": "Рух вмісту тонкого кишечника забезпечують його м’язи.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.826984126984127
+      }
+    },
+    {
+      "question": "What role do symbiotic microorganisms play in the work of the large intestine?",
+      "context": "Значну роль у роботі товстого кишечника відіграють симбіотичні мікроорганізми, такі як кишкова паличка.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8663461538461539
+      }
+    },
+    {
+      "question": "How long is the large intestine in a human?",
+      "context": "Товстий кишечник завдовжки лише 1,5–2 м.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is the main function of the apendix in humans?",
+      "context": "На межі тонкого й товстого кишечника розташований невеликий сліпий відрос–ток — апендикс.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7805555555555556
+      }
+    },
+    {
+      "question": "What is the approximate mass of microorganisms in a human's intestine?",
+      "context": "Мasa мікроорганізмів кишечника людини може становити від 1 до 3 кг.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8272727272727273
+      }
+    },
+    {
+      "question": "What is the role of symbiotic microorganisms in the digestive system?",
+      "context": "SIMбіотічні мікроорганізми живуть у кишечнику людини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7983333333333333
+      }
+    },
+    {
+      "question": "What are the main risks of smoking for the digestive system?",
+      "context": "Найбільшу небезпеку для органів травлення становлять домішки, які містяться в тютюні. Серед них є багато канцерогенних речовин, що можуть стати причиною розвитку ракових пухлин в органах ро-\nтової порожнини, стравоході та шлунку.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8302688172043011
+      }
+    },
+    {
+      "question": "What are the main consequences of excessive alcohol consumption for the digestive system?",
+      "context": "Через надмірне споживання алкоголю в людине може розвинутися гастрит — запалення слизової оболонки шлунка.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8569444444444444
+      }
+    },
+    {
+      "question": "What are the main causes and symptoms of caries?",
+      "context": "Виникає внаслідок руйнування покривів зубів під дією бактерій або фізичних чи хімічних чинників. Ознаки карієсу: утворення дірок у зубах",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8175438596491228
+      }
+    },
+    {
+      "question": "What are the main causes and symptoms of food poisoning?",
+      "context": "Виникають унаслідок потрапляння до організму з їжею отруйних продуктів. Ознаки отруєння: біль у животі, блювота, пронос, головний біль, запаморочення",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8289473684210527
+      }
+    },
+    {
+      "question": "What are the main causes and symptoms of salmonellosis?",
+      "context": "Сальмо-\nнельоз Виникає внаслідок потрапляння до організму бактерій із групи сальмонел від хворих людей або тварин. також джерелом зараження можуть бути зовні здорові люди, які є носіями інфекції.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "What is sальмонельоз?",
+      "context": "Сальмо-нельоз Виникає внаслідок потрапляння до організму бактерій із групи сальмонел від хворих людей чи тварин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7466666666666667
+      }
+    },
+    {
+      "question": "What causes ботулізм?",
+      "context": "Виникає внаслідок потрапляння до організму токсину, який виробляють палички бotuлізму.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8216666666666667
+      }
+    },
+    {
+      "question": "What is a symptom of дизентерія?",
+      "context": "Ознаки дизентерії: слабкість, нездужання, nudota, іноді блювота, пронос, підвищення температури",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8111111111111111
+      }
+    },
+    {
+      "question": "What is a precaution to prevent холера?",
+      "context": "Дотримання правил особистої гігієни, уживання в їжу тільки якісних продуктів, які пройшли кулінарну обробку",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.888095238095238
+      }
+    },
+    {
+      "question": "What is a symptom of гельмінтози?",
+      "context": "Загальними ознаками є втрата ваги, нездужання, дратівливість",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8099206349206349
+      }
+    },
+    {
+      "question": "Кількість типів зубів у людини",
+      "context": "У завданнях 1–10 об'єднайте одну правильну відповідь.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9823809523809524
+      }
+    },
+    {
+      "question": "Ферменти, що містяться в слині, розщеплюють",
+      "context": "б) жири",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9722222222222222
+      }
+    },
+    {
+      "question": "Середовище шлунка",
+      "context": "б) лужне",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9833333333333333
+      }
+    },
+    {
+      "question": "Травні ферменти соку підшлункової залози розщеплюють",
+      "context": "а) жири й білки",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9861111111111112
+      }
+    },
+    {
+      "question": "Орган, у який відкривається протока підшлункової залозі",
+      "context": "б) тонкий кишечник",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9507936507936507
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How long is the large intestine in a human?",
+      "context": "Товстий кишечник завдовжки лише 1,5–2 м.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "Травні ферменти соку підшлункової залози розщеплюють",
+      "context": "а) жири й білки",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9861111111111112
+      }
+    },
+    {
+      "question": "Ферменти, що містяться в слині, розщеплюють",
+      "context": "б) жири",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9722222222222222
+      }
+    }
+  ]
+}

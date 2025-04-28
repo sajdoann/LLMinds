@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the trick that swaps the sums and products in the next step?",
+      "context": "The next step that happens here",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "How does one realize this swap of sum and product using algebraic manipulation?",
+      "context": "This is just an exercise for homework to realize...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.9284188034188035
+      }
+    },
+    {
+      "question": "What formula can be used to estimate the probability of a target sentence given a source?",
+      "context": "...the probability of the target sentence given the source can be estimated by multiplying over all the target positions...",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.9026041666666667
+      }
+    },
+    {
+      "question": "What is being mapped in the calculation of lexical probabilities?",
+      "context": "...considering their lexical probabilities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "Why does this calculation involve multiplying over target positions and summing over source words?",
+      "context": "...the target can be mapped to considering their lexical probabilities.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8423076923076923
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the trick that swaps the sums and products in the next step?",
+      "context": "The next step that happens here",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8958333333333334
+      }
+    },
+    {
+      "question": "How does one realize this swap of sum and product using algebraic manipulation?",
+      "context": "This is just an exercise for homework to realize...",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.9284188034188035
+      }
+    },
+    {
+      "question": "Why does this calculation involve multiplying over target positions and summing over source words?",
+      "context": "...the target can be mapped to considering their lexical probabilities.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8423076923076923
+      }
+    }
+  ]
+}

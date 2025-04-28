@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Can we drop source language words without mapping them to any target language word?",
+      "context": "Another thing that we can easily do is to drop the words of the source language, because we can simply ignore that word.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.7069838056680162
+      }
+    },
+    {
+      "question": "What happens if a source word does not map to any target language word?",
+      "context": "If none of the target language words maps to that, there will be no alignment link and that source words will be dropped.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7839285714285714
+      }
+    },
+    {
+      "question": "What is the purpose of adding new information?",
+      "context": "And if we add...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "Can we ignore source language words to simplify the alignment process?",
+      "context": "Another thing that we can easily do is to drop the words of the source language, because we can simply ignore that word.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7087320574162679
+      }
+    },
+    {
+      "question": "What would happen if adding new information were not considered?",
+      "context": "And if we add...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.675
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can we ignore source language words to simplify the alignment process?",
+      "context": "Another thing that we can easily do is to drop the words of the source language, because we can simply ignore that word.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7087320574162679
+      }
+    },
+    {
+      "question": "What happens if a source word does not map to any target language word?",
+      "context": "If none of the target language words maps to that, there will be no alignment link and that source words will be dropped.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7839285714285714
+      }
+    },
+    {
+      "question": "What would happen if adding new information were not considered?",
+      "context": "And if we add...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.675
+      }
+    },
+    {
+      "question": "What is the purpose of adding new information?",
+      "context": "And if we add...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.671875
+      }
+    }
+  ]
+}

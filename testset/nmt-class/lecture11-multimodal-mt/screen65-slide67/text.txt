@@ -1,0 +1,1 @@
+ And this evaluation goes against the... Or there is again the problem with segmentation. So you have some golden segmentation into sentences, but your systems may decide to segment the input sound differently. And in the evaluation you need to handle this mismatch.

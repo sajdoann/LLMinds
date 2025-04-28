@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the mechanism for automatic increase of pensions when inflation rises above 5%?",
+      "context": "Ten mechanismus (zvyšování důchodů, pozn. Demagog.cz) je daný zákonem (...), pokud od posledního měsíce, který se bral pro valorizaci důchodů, která proběhla od ledna, toto je červen loňského roku, Vzroste inflace o víc jak 5 % souhrnně, pak se automaticky valorizují důchody a valorizují se podle výše inflace v tom posledním měsíci, ke kterému došlo k tomu souhrnnému růstu přes 5 %.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8210506424792139
+      }
+    },
+    {
+      "question": "What is the condition for automatic increase of pensions in case of rapid rising inflation?",
+      "context": "<p>Ministr Jurečka ve svém výroku popisuje mechanismus mimořádné valorizace důchodů, který se podle zákona o&nbsp;<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8029336734693878
+      }
+    },
+    {
+      "question": "What is the expected date for implementing the extraordinary increase in pensions?",
+      "context": "To vláda musí vydat do <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7291280148423005
+      }
+    },
+    {
+      "question": "When did the cumulative inflation rate start to exceed 5%?",
+      "context": "Předpokládáme, že dojde v&nbsp;lednu k&nbsp;takovému cenovém růstu, že kumulovaná inflace od července 2021 překročí pět procent a&nbsp;že bude provedena valorizace v&nbsp;mimořádném termínu, která zahrne celý cenový vývoj do ledna 2022.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8376847290640395
+      }
+    },
+    {
+      "question": "What was the inflation rate in December 2021?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4196428571428571
+      }
+    },
+    {
+      "question": "What was the expected inflation rate for 2022 according to the Ministry of Finance?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45329670329670324
+      }
+    },
+    {
+      "question": "What was the inflation rate in December 2021 compared to the previous year?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48809523809523814
+      }
+    },
+    {
+      "question": "What was the expected inflation rate for 2022 according to the Ministry of Finance?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.45329670329670324
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the condition for automatic increase of pensions in case of rapid rising inflation?",
+      "context": "<p>Ministr Jurečka ve svém výroku popisuje mechanismus mimořádné valorizace důchodů, který se podle zákona o&nbsp;<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8029336734693878
+      }
+    },
+    {
+      "question": "When did the cumulative inflation rate start to exceed 5%?",
+      "context": "Předpokládáme, že dojde v&nbsp;lednu k&nbsp;takovému cenovém růstu, že kumulovaná inflace od července 2021 překročí pět procent a&nbsp;že bude provedena valorizace v&nbsp;mimořádném termínu, která zahrne celý cenový vývoj do ledna 2022.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8376847290640395
+      }
+    },
+    {
+      "question": "What is the mechanism for automatic increase of pensions when inflation rises above 5%?",
+      "context": "Ten mechanismus (zvyšování důchodů, pozn. Demagog.cz) je daný zákonem (...), pokud od posledního měsíce, který se bral pro valorizaci důchodů, která proběhla od ledna, toto je červen loňského roku, Vzroste inflace o víc jak 5 % souhrnně, pak se automaticky valorizují důchody a valorizují se podle výše inflace v tom posledním měsíci, ke kterému došlo k tomu souhrnnému růstu přes 5 %.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8210506424792139
+      }
+    }
+  ]
+}

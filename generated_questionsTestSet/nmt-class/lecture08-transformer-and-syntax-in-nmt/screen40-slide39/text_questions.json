@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the motivation behind encoding syntactic information at each token in linguistic models?",
+      "context": "This idea which days back to Mark Steenman's combinatory category grammars and CCGs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.856456043956044
+      }
+    },
+    {
+      "question": "How do neural networks utilize super tags to construct syntactic trees in a sentence?",
+      "context": "So the super tags are labels, but these labels are not really atomic.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the purpose of labeling tokens with super tags in linguistic models?",
+      "context": "You label the tokens with something that is happening in the surrounding sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7532051282051282
+      }
+    },
+    {
+      "question": "How do CCG tags encode valency frames and subcategorization information in a sentence?",
+      "context": "So if you have some linguistic background, the CCG tag will put this in a compact label yeah so if we know this CCG tag...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8347069597069596
+      }
+    },
+    {
+      "question": "What is the advantage of using super tags over relying on natural language sequence or word modification for encoding syntactic information?",
+      "context": "So either you when putting the information together you rely on the sequence that the order of the bits of information...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.8482142857142857
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of labeling tokens with super tags in linguistic models?",
+      "context": "You label the tokens with something that is happening in the surrounding sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7532051282051282
+      }
+    },
+    {
+      "question": "How do neural networks utilize super tags to construct syntactic trees in a sentence?",
+      "context": "So the super tags are labels, but these labels are not really atomic.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the advantage of using super tags over relying on natural language sequence or word modification for encoding syntactic information?",
+      "context": "So either you when putting the information together you rely on the sequence that the order of the bits of information...",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.17647058823529413,
+        "diversity_score": 0.8482142857142857
+      }
+    }
+  ]
+}

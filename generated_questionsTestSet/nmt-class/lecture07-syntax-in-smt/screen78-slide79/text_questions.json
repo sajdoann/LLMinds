@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of linguistic analysis did the author perform on 'demorphology'?",
+      "context": "And you finally generate the word forms based on demorphology.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9204545454545454
+      }
+    },
+    {
+      "question": "Is 'demorphology' a part of speech or a grammatical concept?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of generating word forms based on demorphology?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "Is 'demorphology' a term commonly used in linguistics or another field?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9431818181818181
+      }
+    },
+    {
+      "question": "What does the phrase 'generate word forms' imply about demorphology?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is 'demorphology' a term commonly used in linguistics or another field?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9431818181818181
+      }
+    },
+    {
+      "question": "What does the phrase 'generate word forms' imply about demorphology?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.925
+      }
+    },
+    {
+      "question": "Is 'demorphology' a part of speech or a grammatical concept?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9027777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of generating word forms based on demorphology?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

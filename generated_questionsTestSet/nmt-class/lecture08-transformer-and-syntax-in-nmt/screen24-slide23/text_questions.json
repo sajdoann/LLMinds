@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the term 'hat' refer to in the context of the transformer model?",
+      "context": "In the transformer model, this idea of a node or an item in the sequence observing all other items in the sequence is used several times in parallel and each of these views or considerations of the input sequence is called a hat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.5375
+      }
+    },
+    {
+      "question": "What is the main idea behind using multiple 'hats' (views) of the input sequence in the transformer model?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How does the processing described as a series of 'nodes or items' relate to the concept of parallel views or considerations of the input sequence?",
+      "context": "In the transformer model, this idea of a node or an item in the sequence observing all other items in the sequence is used several times in parallel and each of these views or considerations of the input sequence is called a hat.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45,
+        "diversity_score": 0.6395833333333334
+      }
+    },
+    {
+      "question": "What does the term 'processing' refer to in this context?",
+      "context": "So we have discussed the processing which ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7589285714285714
+      }
+    },
+    {
+      "question": "How many 'views or considerations of the input sequence' are called 'hats' according to the document?",
+      "context": "In the transformer model, this idea of a node or an item in the sequence observing all other items in the sequence is used several times in parallel and each of these views or considerations of the input sequence is called a hat.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the term 'hat' refer to in the context of the transformer model?",
+      "context": "In the transformer model, this idea of a node or an item in the sequence observing all other items in the sequence is used several times in parallel and each of these views or considerations of the input sequence is called a hat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.5375
+      }
+    },
+    {
+      "question": "What is the main idea behind using multiple 'hats' (views) of the input sequence in the transformer model?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How many 'views or considerations of the input sequence' are called 'hats' according to the document?",
+      "context": "In the transformer model, this idea of a node or an item in the sequence observing all other items in the sequence is used several times in parallel and each of these views or considerations of the input sequence is called a hat.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.6125
+      }
+    }
+  ]
+}

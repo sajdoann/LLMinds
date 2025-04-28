@@ -1,0 +1,908 @@
+{
+  "all_questions": [
+    {
+      "question": "What types of environmental problems affect Ukraine?",
+      "context": "Among them are global environmental problems that affect Ukraine in the same way as other regions of the planet.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8273036487322202
+      }
+    },
+    {
+      "question": "What is a major environmental problem for certain regions of Ukraine?",
+      "context": "The destruction of steppes is one of the problems that is relevant for certain regions. It is the most acute for the southern regions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8241956906729634
+      }
+    },
+    {
+      "question": "What does the Ministry of Health of Ukraine define as the quality of the natural environment?",
+      "context": "the quality of the natural environment is the state of natural and human-transformed ecosystems that preserves their ability to constantly exchange substances and energy, as well as reproduce life.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8480143045360437
+      }
+    },
+    {
+      "question": "What is anthropogenic pollution?",
+      "context": "pollution can be natural or anthropogenic. Until the moment when human civilization began to develop, environmental pollution was only natural (volcanic eruptions, meteorite falls, the activity of organisms, etc.). But now the largest on the planet is anthropogenic pollution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.796886936592819
+      }
+    },
+    {
+      "question": "What is the maximum permissible concentration (MPC)?",
+      "context": "The concept of maximum permissible concentration (MPC) was introduced to solve the issue of what amount of a certain substance is considered pollution.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8,
+        "diversity_score": 0.8040816326530612
+      }
+    },
+    {
+      "question": "What are the three types of environmental pollution?",
+      "context": "Environmental pollution can be very diverse, and according to the nature of pollution, three types are distinguished: physical, chemical and biological.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7938311688311688
+      }
+    },
+    {
+      "question": "What is biological pollution?",
+      "context": "Most often, biological pollution is considered to be the introduction of microorganisms (primarily pathogenic) into an ecosystem.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7690030557677616
+      }
+    },
+    {
+      "question": "Why can a small amount of pollutant in the environment cause death to some organisms?",
+      "context": "the ability of many chemical pollutants to accumulate in organisms and to move over long distances through trophic chains.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8508658008658009
+      }
+    },
+    {
+      "question": "What is the main problem caused by exporting household waste to landfills in poor countries?",
+      "context": "This alleviates the situation in places where garbage is generated, but worsens the state of ecosystems in the countries where it is exported.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.835930735930736
+      }
+    },
+    {
+      "question": "What are some significant sources of pollution caused by plastic?",
+      "context": "Plastic is dangerous for the life of many organisms (for example, it causes the death of whales that swallow it with food). And during its combustion, very toxic compounds are formed.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8615027829313544
+      }
+    },
+    {
+      "question": "What is the main substance that enters the atmosphere in excessive quantities?",
+      "context": "The main substances that enter the atmosphere in excessive quantities: carbon (IV) oxide CO2; carbon (II) oxide CO; nitrogen oxides;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8421418154038475
+      }
+    },
+    {
+      "question": "What is a color used to indicate the degree of danger according to the air quality index?",
+      "context": "The main substances that enter the atmosphere in excessive quantities: carbon (IV) oxide CO2; carbon (II) oxide CO; nitrogen oxides;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8487140310669723
+      }
+    },
+    {
+      "question": "What is being transmitted to humans by airborne droplets?",
+      "context": "What pathogens ¬are transmitted to humans by airborne droplets?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.8932178932178932
+      }
+    },
+    {
+      "question": "Why can the presence of certain substances in the air cause allergies in humans?",
+      "context": "Why can the presence of certain substances in the air cause allergies in humans?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8338744588744589
+      }
+    },
+    {
+      "question": "What are the main substances that enter the atmosphere in excessive quantities?",
+      "context": "The main substances that enter the atmosphere in excessive quantities: carbon (IV) oxide CO 2 ; carbon (II) oxide CO ; nitrogen oxides;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8571100616555163
+      }
+    },
+    {
+      "question": "What is the source of methane, one of the largest producers?",
+      "context": "The atmosphere is significantly polluted by livestock farms (ruminants are one of the largest producers of methane) and landfills (microorganisms in the process of waste processing produce significant amounts of methane, CO 2 and other gases).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8178932178932179
+      }
+    },
+    {
+      "question": "What is the result of atmospheric pollution on ecosystems?",
+      "context": "Precipitation with increased acidity worsens the state of ecosystems, results in the degradation of forests and destroys artificial structures (in particular, historical monuments, old houses, etc.).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8062770562770563
+      }
+    },
+    {
+      "question": "How does acid rain form?",
+      "context": "The formation of sulfur oxides in production ¬ processes.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8836940836940836
+      }
+    },
+    {
+      "question": "What is the main color used to indicate air quality level according to the index?",
+      "context": "Index color Digital value Air quality level GoodSatisfactoryModerately polluted PollutedHeavily polluted Hazardous",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9086368177277269
+      }
+    },
+    {
+      "question": "What are some negative consequences of atmospheric pollution?",
+      "context": "Another extremely negative consequence of atmospheric pollution is an increase in the concentration of greenhouse gases in it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.827922077922078
+      }
+    },
+    {
+      "question": "What happens to the ozone layer when it's damaged?",
+      "context": "The state of the ozone layer is also negatively affected by emissions of freons (they are used in refrigerators), which interact with ozone, and by jet flights (ozone is destroyed during the combustion of fuel in their engines).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8522087231764651
+      }
+    },
+    {
+      "question": "What contributes to smog formation?",
+      "context": "Smog can be formed due to the terrain and the features of urban development, which make it difficult for the wind to blow through the streets and contribute to the concentration of pollutants in a certain area.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8363188535602328
+      }
+    },
+    {
+      "question": "What causes smog?",
+      "context": "The formation of smog is caused by exhaust gases from transport and dust that rises during its movement, emissions from heating systems and industrial enterprises.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8074534161490683
+      }
+    },
+    {
+      "question": "Why should city dwellers limit their stay outdoors during smog?",
+      "context": "To reduce the harmful effects of smog on the body, it is advisable to follow some recommendations: avoid walking in the morning, reduce your stay on the street during this period of the day;",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9294205794205794
+      }
+    },
+    {
+      "question": "What international document aimed at regulating greenhouse gas emissions into the atmosphere was adopted in 1997?",
+      "context": "Also in 1997, the Kyoto Protocol was adopted - an international document aimed at regulating greenhouse gas emissions into the atmosphere.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8333333333333334,
+        "diversity_score": 0.9008928571428572
+      }
+    },
+    {
+      "question": "What are the main substances that enter the hydrosphere?",
+      "context": "The main substances that enter the hydrosphere: clay, silt and other substances; petroleum products; salts of heavy metals; surfactants; pesticides; microorganisms (from food production and wastewater); radionuclides; household waste, polyethylene, etc.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.852076802507837
+      }
+    },
+    {
+      "question": "What is the consequence of human influence on the hydrosphere that has affected the state of both aquatic and terrestrial ecosystems?",
+      "context": "A large number of pollutants caused a mass death of organisms in fresh and salt water bodies. Both animals, plants and microorganisms died.",
+      "difficulty": "medium",
+      "category": "consequential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8707070707070708
+      }
+    },
+    {
+      "question": "Why is the shortage of drinking water a significant problem?",
+      "context": "There is a lot of water on our planet. But most of it is salty or contained in glaciers of polar regions and mountainous areas. And for normal life and economic activity, people need fresh water.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8555090071219104
+      }
+    },
+    {
+      "question": "What are the main substances that contribute to the growth and reproduction of algae in water bodies?",
+      "context": "The reason for this effect is a large number of substances that enter water bodies as a result of anthropogenic activity and create good conditions for the growth and reproduction of algae. Such substances include compounds of Phosphorus, Nitrogen and Carbon.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.854099025974026
+      }
+    },
+    {
+      "question": "What can happen to aquatic organisms as a result of water blooms?",
+      "context": "This results in the death of many aquatic organisms from suffocation. Some algae can also release toxins into the water, which increases the scale of the death of organisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8618953510257858
+      }
+    },
+    {
+      "question": "What causes water blooms and what color can they be?",
+      "context": "The color of the water in the event of a bloom depends on which algae are multiplying.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.851010101010101
+      }
+    },
+    {
+      "question": "What substances do plants and animals absorb from the soil?",
+      "context": "Human impact on soils Soil pollution has become a significant problem for many regions of the planet.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8521008403361345
+      }
+    },
+    {
+      "question": "What are some major causes of soil degradation?",
+      "context": "Unsuccessful land reclamation often ends in soil salinization (Fig. 39.3, p. 144). Excessive grazing of livestock destroys the grass cover and causes the destruction of the fertile soil layer through erosion.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8565416065416065
+      }
+    },
+    {
+      "question": "Why is international cooperation needed for soil protection?",
+      "context": "Soil protection requires international efforts, although it can be effective within the borders of one country. But soil degradation in other countries will still affect the situation, because countries with degraded soils will be threatened with famine.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9022832006702974
+      }
+    },
+    {
+      "question": "What is a result of hostilities on the environment?",
+      "context": "The state of the soil is also adversely affected by hostilities. Explosives, which are widely used, enter the soil, because during any explosion, absolutely complete combustion of the explosive does not occur.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8084415584415585
+      }
+    },
+    {
+      "question": "What is the basis of correct crop rotation?",
+      "context": "The basis of correct crop rotation is the phenomenon of natural restoration of soil fertility.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7702922077922078
+      }
+    },
+    {
+      "question": "Why is the use of fertilizers important?",
+      "context": "Their use creates optimal conditions for the vital activity of soil biocenosis and plant cultivation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7918985776128633
+      }
+    },
+    {
+      "question": "What types of fertilizers are used for agricultural purposes?",
+      "context": "The use of rect fertilizers (both mineral and organic) is also important.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8098845598845599
+      }
+    },
+    {
+      "question": "What is the primary reason for the extinction of the thylacine marsupial wolf?",
+      "context": "The Tasmanian marsupial wolf was completely exterminated after a hundred years of settlement by white settlers, and farmers believed it could be a potential threat to sheep.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8255835074016893
+      }
+    },
+    {
+      "question": "What is the impact of goats on island ecosystems?",
+      "context": "Goats are excellent climbers, they climb trees and eat leaves. Excessive reproduction of this species without controlling predators has turned many islands into bare rocks with almost no vegetation.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8265163954819127
+      }
+    },
+    {
+      "question": "How did the introduction of non-native species affect island ecosystems?",
+      "context": "People settled the islands and easily destroyed the small populations of local animal and plant species. Pigs, cats, dogs, rats destroyed bird nests, caught and ate adult animals of all local species.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8916883116883116
+      }
+    },
+    {
+      "question": "What happens to islands with many goats due to excessive reproduction without controlling predators?",
+      "context": "Excessive reproduction of this species without controlling predators has turned many islands into bare rocks with almost no vegetation, which led to the devastation and death of other species.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.9001712573141145
+      }
+    },
+    {
+      "question": "What is reacclimatization?",
+      "context": "If the organism once lived in this region and its introduction was repeated, then such a process is called reacclimatization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7326839826839827
+      }
+    },
+    {
+      "question": "Why is biodiversity valuable to humans?",
+      "context": "The presence of a large number of species makes connections in ecosystems more diverse. Diverse connections and branched trophic webs increase the resistance of ecosystems to external influences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8568605307735743
+      }
+    },
+    {
+      "question": "What is the main reason for reacclimatization?",
+      "context": "The main reason for reacclimatization is an attempt to restore lost biodiversity.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7838589981447124
+      }
+    },
+    {
+      "question": "What happened to the ginkgo tree?",
+      "context": "But this plant once almost completely died out and has survived only in artificial cultivation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8231601731601732
+      }
+    },
+    {
+      "question": "Why was the Mauritian dodo extinct?",
+      "context": "It took less than a hundred years to exterminate it. This large (up to 20 kg) flightless representative of the pigeon family was hunted for meat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8677489177489177
+      }
+    },
+    {
+      "question": "Why is it important to preserve habitats and not just species, when it comes to nature conservation?",
+      "context": "If you preserve the habitats, but destroy the species that this animal feeds on, or bring emissions into the water it drinks to a toxic level, the result will be the same - extinction.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9218614718614718
+      }
+    },
+    {
+      "question": "What is the main idea of sustainable development?",
+      "context": "The main idea of the Concept was that development should meet the needs of the present generation without harming future generations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7818945760122231
+      }
+    },
+    {
+      "question": "Why can deforestation of the Amazon in Brazil affect the environmental situation in Europe?",
+      "context": "Why can deforestation of the Amazon in Brazil affect the environmental situation in Europe?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8382034632034632
+      }
+    },
+    {
+      "question": "Why is sustainable development important?",
+      "context": "After all, we cannot leave future generations without any resources for life.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9148268398268398
+      }
+    },
+    {
+      "question": "What is the goal of using fertilizers in agriculture?",
+      "context": "But the ways of applying fertilizers can be different. And the effectiveness of the application can be different.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7552308802308803
+      }
+    },
+    {
+      "question": "What is the most effective way to implement the Sustainable Development Concept?",
+      "context": "The implementation of sustainable development tasks can be carried out at different levels.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8257651439469621
+      }
+    },
+    {
+      "question": "Who must understand the need for sorting garbage and energy-saving technologies in order for them to be implemented?",
+      "context": "It is impossible to implement energy-saving technologies if voters do not support those politicians who want to adopt the relevant laws.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.9171695951107716
+      }
+    },
+    {
+      "question": "What level of cooperation is required to successfully implement sustainable development tasks?",
+      "context": "Only the scale of this cooperation differs. The simplest cooperation takes place at the family level, when people jointly make decisions about separate garbage collection or insulation of their own home.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8711519961519961
+      }
+    },
+    {
+      "question": "What is required for successful implementation of sustainable development tasks at a local community level?",
+      "context": "But the results will also be more extensive. It already becomes possible when local governments and the interaction of a large number of people are involved.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8581168831168831
+      }
+    },
+    {
+      "question": "What level of decision-making requires the participation of local governments and a large number of people for success?",
+      "context": "In this case, success is impossible without the participation of local governments and the interaction of a large number of people.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8323863636363636
+      }
+    },
+    {
+      "question": "What is the phrase \"Ignorance of the law does not exempt from responsibility\" referring to?",
+      "context": "The phrase “Ignorance of the law does not exempt from responsibility” is particularly relevant when considering ecological knowledge.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.8520953836079886
+      }
+    },
+    {
+      "question": "What was a consequence of trying to eradicate birds of prey in the Soviet Union?",
+      "context": "The destruction of birds of prey caused the massive reproduction of rodents, the number of which they controlled.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8357713714856572
+      }
+    },
+    {
+      "question": "What was needed to solve the problem of prickly pear cactus in Australia?",
+      "context": "The problem was solved only by importing from America a natural regulator of the number of prickly pears - the cactus moth.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8352437036647563
+      }
+    },
+    {
+      "question": "What was imported from America to control the spread of prickly pears in Australia?",
+      "context": "The problem was solved only by importing from America a natural regulator of the number of prickly pears - the cactus moth.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8430573186212285
+      }
+    },
+    {
+      "question": "Why did Australian farmers sow clover in their fields?",
+      "context": "To better feed the imported livestock, Australian farmers began to sow clover. But the clover in their fields did not want to reproduce, although it grew well.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9312770562770563
+      }
+    },
+    {
+      "question": "Why didn't bees pollinate the clover flowers?",
+      "context": "Bees could not do this. Bumblebees also had to be imported to Australia.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9156617192331478
+      }
+    },
+    {
+      "question": "What is ecological thinking?",
+      "context": "Ecological thinking Therefore, without comprehensive knowledge of ecology, human interaction with natural ecosystems can cause real ecological disasters. ... Ecological thinking is the consideration of phenomena and events and decision-making taking into account the interactions of man and humanity with the natural environment based on diverse and deep knowledge about the environment and a responsible attitude to nature and human health.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8030428873452129
+      }
+    },
+    {
+      "question": "What is the effect of ecological thinking on decision-making?",
+      "context": "Ecological thinking allows us to understand that all organisms and processes on our planet are interconnected. Accordingly, the need for international cooperation to solve environmental problems becomes clear, because it is impossible to do this alone. Ecological thinking is necessary for critical perception of information. It allows us to draw the right conclusions and make adequate decisions.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8199134199134199
+      }
+    },
+    {
+      "question": "What is ecological thinking?",
+      "context": "ecological thinking is necessary for critical perception of information.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7693001443001444
+      }
+    },
+    {
+      "question": "How can humans destroy the conditions for their existence on Earth?",
+      "context": "Ecosystems that are comfortable for humanity to live in can be destroyed quite easily by humans themselves.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9067296340023613
+      }
+    },
+    {
+      "question": "What was the consequence of blocking the Dnieper riverbed and building dams?",
+      "context": "The dams built blocked the Dnieper riverbed, hid the Dnieper rapids and provided many metallurgical enterprises with electricity (Fig. 43.3). But the consequence of this was flooding large areas with fertile soils, the need to resettle a large number of settlements, the difficulty of the Dnieper self-purification processes and obstacles to fish spawning in the upper reaches of the river.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8593531204524862
+      }
+    },
+    {
+      "question": "Why would destroying all dams at once cause ecological harm?",
+      "context": "Yes, if all the dams of power plants are eliminated at the same time now, nothing good will happen to local ecosystems. Local ecosystems have long adapted to the existing groundwater level. After the dams are destroyed, this level will drop significantly. The result will be a massive drying out of forests throughout the Dnieper basin, because the trees simply will not have time to rebuild their root system to the new location of the water horizons.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9561688311688312
+      }
+    },
+    {
+      "question": "What was the problem caused by the use of freon as a coolant in refrigerators?",
+      "context": "A classic example of the implementation of ecological thinking was the understanding of the role of refrigerators in the emergence of the problem of the ozone layer of the atmosphere. The use of freon as a coolant turned out to be a very convenient technological solution.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8568336425479283
+      }
+    },
+    {
+      "question": "What was the result of replacing Freon with other coolants?",
+      "context": "The solution was found by replacing Freon with other coolants.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8318181818181818
+      }
+    },
+    {
+      "question": "What are some types of environmental pollution?",
+      "context": "Physical, Chemical, Biological",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8815708101422387
+      }
+    },
+    {
+      "question": "What is the purpose of sustainable development?",
+      "context": "reduction of CO2 emissions, environmental protection and preservation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.75139146567718
+      }
+    },
+    {
+      "question": "What are some common methods of waste disposal?",
+      "context": "household waste recycling, poor disposal",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9048701298701298
+      }
+    },
+    {
+      "question": "When did scientific methods become used in breeding?",
+      "context": "Scientific methods were not used at first stages of selection, but this was compensated by the rich practical experience of people who had been engaged in this all their lives, and the considerable duration of the selection process.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.925521448248721
+      }
+    },
+    {
+      "question": "When did genetics emerge as a theoretical basis for breeding?",
+      "context": "It was then that selection received a theoretical basis for its work.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9356060606060606
+      }
+    },
+    {
+      "question": "What is the main goal of selection tasks in Selection studies?",
+      "context": "Selection tasks are aimed at meeting the needs of human life: obtaining high-quality agricultural products, in particular food products and industrial crops.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8043093270365997
+      }
+    },
+    {
+      "question": "What was the result of the 'Green Revolution' in world agriculture?",
+      "context": "The result of selection work was the creation of thousands of varieties of cultivated plants and dozens and hundreds of breeds of domestic animals. 163",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8238816738816739
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why did Australian farmers sow clover in their fields?",
+      "context": "To better feed the imported livestock, Australian farmers began to sow clover. But the clover in their fields did not want to reproduce, although it grew well.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9312770562770563
+      }
+    },
+    {
+      "question": "Why should city dwellers limit their stay outdoors during smog?",
+      "context": "To reduce the harmful effects of smog on the body, it is advisable to follow some recommendations: avoid walking in the morning, reduce your stay on the street during this period of the day;",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9294205794205794
+      }
+    },
+    {
+      "question": "Who must understand the need for sorting garbage and energy-saving technologies in order for them to be implemented?",
+      "context": "It is impossible to implement energy-saving technologies if voters do not support those politicians who want to adopt the relevant laws.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.9171695951107716
+      }
+    },
+    {
+      "question": "When did genetics emerge as a theoretical basis for breeding?",
+      "context": "It was then that selection received a theoretical basis for its work.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.9356060606060606
+      }
+    }
+  ]
+}

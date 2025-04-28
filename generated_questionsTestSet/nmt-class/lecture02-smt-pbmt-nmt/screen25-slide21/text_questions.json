@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary goal when implementing feature functions for phrase-based systems?",
+      "context": "from neural networks. Okay. So, I've talked about the source sentence, the target sentence, and then suddenly the probability of the target given the source.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8898026315789473
+      }
+    },
+    {
+      "question": "Can language models be used to propose candidate translations, and if so, how would this operation work?",
+      "context": "So, the idea is that the phrase translation probabilities are used for construction of the candidates and we will discuss that in more detail.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8445378151260504
+      }
+    },
+    {
+      "question": "What limitations do counts or penalties have when using them to construct candidate translations?",
+      "context": "The counts or penalties obviously cannot be used for construction because they only observe the count of the words. They don't deal with the words themselves at all.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8995535714285714
+      }
+    },
+    {
+      "question": "Would proposing target sentences using language models make sense in terms of system operation?",
+      "context": "Think about like the operation of the system. How if you have you are given an input sentence and you have all tables of summarizing the observations that you made on the training data, whatever and how would that operate?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8500615763546798
+      }
+    },
+    {
+      "question": "How would proposing target sentences using language models impact the translation model's performance?",
+      "context": "So... So... Basically, this is from there. Yeah, yeah, exactly.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.84375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary goal when implementing feature functions for phrase-based systems?",
+      "context": "from neural networks. Okay. So, I've talked about the source sentence, the target sentence, and then suddenly the probability of the target given the source.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8898026315789473
+      }
+    },
+    {
+      "question": "What limitations do counts or penalties have when using them to construct candidate translations?",
+      "context": "The counts or penalties obviously cannot be used for construction because they only observe the count of the words. They don't deal with the words themselves at all.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8995535714285714
+      }
+    },
+    {
+      "question": "Can language models be used to propose candidate translations, and if so, how would this operation work?",
+      "context": "So, the idea is that the phrase translation probabilities are used for construction of the candidates and we will discuss that in more detail.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8445378151260504
+      }
+    },
+    {
+      "question": "Would proposing target sentences using language models make sense in terms of system operation?",
+      "context": "Think about like the operation of the system. How if you have you are given an input sentence and you have all tables of summarizing the observations that you made on the training data, whatever and how would that operate?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8500615763546798
+      }
+    }
+  ]
+}

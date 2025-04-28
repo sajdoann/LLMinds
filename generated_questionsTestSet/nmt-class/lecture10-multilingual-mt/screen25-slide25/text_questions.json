@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why did the experiments always have English on the same side?",
+      "context": "The previous experiments, the experiments so far, always had English on the same side.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7145833333333333
+      }
+    },
+    {
+      "question": "What was found when the English position was swapped in the parent model?",
+      "context": "Now the parent has always some language with English. But the English is on the other side in the parent than it is on the child.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6752392344497608
+      }
+    },
+    {
+      "question": "What was the main factor that helped improve performance when the English position was swapped?",
+      "context": "The thing that helps is the shared vocabulary, obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7403846153846154
+      }
+    },
+    {
+      "question": "Why did the improvement in performance not vary significantly whether the parent model had English on the correct or wrong side?",
+      "context": "The improvements were bigger when the parent had the English on the correct side, but the difference is not too big, it is big, but we still get an improvement over the baseline even when the parent model has English on the wrong side.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5625,
+        "diversity_score": 0.8006578947368421
+      }
+    },
+    {
+      "question": "What was found about the effect of the size of the parent model on performance?",
+      "context": "Note that it's always the case when the parent was bigger, so we didn't attempt the smaller parent anymore because we country knows that it doesn't help, and there is some improvement.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7708333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the main factor that helped improve performance when the English position was swapped?",
+      "context": "The thing that helps is the shared vocabulary, obviously.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.7403846153846154
+      }
+    },
+    {
+      "question": "Why did the improvement in performance not vary significantly whether the parent model had English on the correct or wrong side?",
+      "context": "The improvements were bigger when the parent had the English on the correct side, but the difference is not too big, it is big, but we still get an improvement over the baseline even when the parent model has English on the wrong side.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5625,
+        "diversity_score": 0.8006578947368421
+      }
+    },
+    {
+      "question": "What was found when the English position was swapped in the parent model?",
+      "context": "Now the parent has always some language with English. But the English is on the other side in the parent than it is on the child.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6752392344497608
+      }
+    }
+  ]
+}

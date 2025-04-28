@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of structure is being referred to in the partial ordered set of sentences?",
+      "context": "You would find that structure of the partial ordered set of sentences in that space.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8475274725274725
+      }
+    },
+    {
+      "question": "Why is there a need to compare different continuous representations with manually collected data?",
+      "context": "So this is one way and we are",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7700892857142857
+      }
+    },
+    {
+      "question": "What kind of representation is being compared for its match with the manually collected data?",
+      "context": "The question is which continuous representation will have a better match with the manually collected data.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8166666666666667
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose of comparing different representations?",
+      "context": "So this is one way and we are",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "Can it be determined from the document what type of data is being collected manually?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8416666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of structure is being referred to in the partial ordered set of sentences?",
+      "context": "You would find that structure of the partial ordered set of sentences in that space.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8475274725274725
+      }
+    },
+    {
+      "question": "Why is there a need to compare different continuous representations with manually collected data?",
+      "context": "So this is one way and we are",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7700892857142857
+      }
+    },
+    {
+      "question": "What can be inferred about the purpose of comparing different representations?",
+      "context": "So this is one way and we are",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7230113636363636
+      }
+    },
+    {
+      "question": "What kind of representation is being compared for its match with the manually collected data?",
+      "context": "The question is which continuous representation will have a better match with the manually collected data.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8166666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the important guidelines mentioned in the document?",
+      "context": "IMPORTANT GUIDELINES section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6614583333333334
+      }
+    },
+    {
+      "question": "How many questions should be generated based on the document?",
+      "context": "Introduction section",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.475
+      }
+    },
+    {
+      "question": "What type of questions can be answered using only the information in the document?",
+      "context": "General section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5240384615384616
+      }
+    },
+    {
+      "question": "How should external knowledge be used when answering questions about the document?",
+      "context": "General section",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.53125
+      }
+    },
+    {
+      "question": "What is the purpose of providing a list of questions based on the document?",
+      "context": "Introduction section",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5208333333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the important guidelines mentioned in the document?",
+      "context": "IMPORTANT GUIDELINES section",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.6614583333333334
+      }
+    },
+    {
+      "question": "How should external knowledge be used when answering questions about the document?",
+      "context": "General section",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.53125
+      }
+    },
+    {
+      "question": "How many questions should be generated based on the document?",
+      "context": "Introduction section",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.475
+      }
+    },
+    {
+      "question": "What is the purpose of providing a list of questions based on the document?",
+      "context": "Introduction section",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5208333333333333
+      }
+    }
+  ]
+}

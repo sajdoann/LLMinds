@@ -1,0 +1,50 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main task?",
+      "context": "than the main task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9
+      }
+    },
+    {
+      "question": "What are some hand drawing examples?",
+      "context": "So here is some hand drawing examples.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9166666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some hand drawing examples?",
+      "context": "So here is some hand drawing examples.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9166666666666666
+      }
+    },
+    {
+      "question": "What is the main task?",
+      "context": "than the main task.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9
+      }
+    }
+  ]
+}

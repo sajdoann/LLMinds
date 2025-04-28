@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does A-Star Search guarantee?",
+      "context": "The basis for the artificial intelligence in the narrow sense, searching through the space of possible solutions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.6857142857142857
+      }
+    },
+    {
+      "question": "Under what condition will A-Star Search find the best option?",
+      "context": "searching through the space of possible solutions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6964285714285714
+      }
+    },
+    {
+      "question": "What is an admissible heuristic in A-Star Search?",
+      "context": "the one which is optimistic which never overestimate the future cost.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5277777777777778
+      }
+    },
+    {
+      "question": "How does an admissible heuristic relate to the future cost in A-Star Search?",
+      "context": "never overestimate the future cost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.5557692307692308
+      }
+    },
+    {
+      "question": "What is the relationship between optimism and admissibility of a heuristic in A-Star Search?",
+      "context": "the one which is optimistic which never overestimate the future cost.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6349206349206349
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an admissible heuristic in A-Star Search?",
+      "context": "the one which is optimistic which never overestimate the future cost.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5277777777777778
+      }
+    },
+    {
+      "question": "Under what condition will A-Star Search find the best option?",
+      "context": "searching through the space of possible solutions.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6964285714285714
+      }
+    },
+    {
+      "question": "How does an admissible heuristic relate to the future cost in A-Star Search?",
+      "context": "never overestimate the future cost.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.5557692307692308
+      }
+    },
+    {
+      "question": "What is the relationship between optimism and admissibility of a heuristic in A-Star Search?",
+      "context": "the one which is optimistic which never overestimate the future cost.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6349206349206349
+      }
+    }
+  ]
+}

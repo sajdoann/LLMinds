@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of combination is used for combining parts of the source image with an additional encoder of the image?",
+      "context": "the parts of the source image and then you have one decoder that produces the output words",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8534313725490196
+      }
+    },
+    {
+      "question": "How does this setup compare to the multilingual lecture last week?",
+      "context": "this is exactly the same type of combination that we had with multiple text inputs in the multilingual lecture last week.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7602272727272728
+      }
+    },
+    {
+      "question": "What is the purpose of the additional encoder in this setup?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "Is the decoder used in this setup the same type as before?",
+      "context": "this is exactly the same type of combination that we had with multiple text inputs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7166666666666667
+      }
+    },
+    {
+      "question": "What does 'multilingual lecture last week' refer to?",
+      "context": "the multilingual lecture last week",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.771875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of combination is used for combining parts of the source image with an additional encoder of the image?",
+      "context": "the parts of the source image and then you have one decoder that produces the output words",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8534313725490196
+      }
+    },
+    {
+      "question": "How does this setup compare to the multilingual lecture last week?",
+      "context": "this is exactly the same type of combination that we had with multiple text inputs in the multilingual lecture last week.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7602272727272728
+      }
+    },
+    {
+      "question": "What is the purpose of the additional encoder in this setup?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What does 'multilingual lecture last week' refer to?",
+      "context": "the multilingual lecture last week",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.771875
+      }
+    }
+  ]
+}

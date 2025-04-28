@@ -1,0 +1,457 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main organ of respiration in humans?",
+      "context": "Основним органом дихання людини є легені",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8101851851851852
+      }
+    },
+    {
+      "question": "What is the function of the nosa porожнина?",
+      "context": "Клітини слизової оболонки виділяють слиз, що зволожує вдихуване повітря",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7835097001763669
+      }
+    },
+    {
+      "question": "What is the structure of the гортань?",
+      "context": "Гортань — це струк-\nтура, яка з’єднує носову й ротову порожнину з наступними ділянка-\nми дихальної системи",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7569444444444444
+      }
+    },
+    {
+      "question": "What is the function of the bronchi?",
+      "context": "Бронхіола — це спеціальна область в трахеї, що містить судини",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7462962962962962
+      }
+    },
+    {
+      "question": "What is the main function of the trachea?",
+      "context": "Основна функція трахеї — забезпечити проходження повітря з гортані до бронхів і назад.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7586996336996337
+      }
+    },
+    {
+      "question": "What is the main difference between bronchi and trachea?",
+      "context": "Бронхи — це повітропровідні шляхи, що відходять від трахеї (мал. 11.5) . вони схожі на трахею й містять хрящові напівкільця, однак діаметр бронхів менший.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8501157407407407
+      }
+    },
+    {
+      "question": "What is the volume of a person's lungs?",
+      "context": "Об’єм легень у більшості людей становить 3–4 л.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8211805555555556
+      }
+    },
+    {
+      "question": "How does the diaphragm work in the process of breathing?",
+      "context": "Під час черевного дихання переважає м’язове зусилля, що створюється діафрагмою.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8756172839506173
+      }
+    },
+    {
+      "question": "What is the role of plievra in the process of breathing?",
+      "context": "Внутрішній листок укриває легені, а зовнішній вистилає грудну по-рожнину. Між цими листками є тоненький простір з невеликою кількістю рідини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8230181936322287
+      }
+    },
+    {
+      "question": "What happens to the pressure inside the lung during inhalation and exhalation?",
+      "context": "Тимчасом тиск усередині ле-гень дорівнює атмосферному (адже легені сполучаються з атмосферою). Через різ-ницю тисків легені розтягуються, і в них іззовні заходить повітря  (мал. 12.1) .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9115109427609428
+      }
+    },
+    {
+      "question": "How does gas exchange occur between air and blood in the lungs?",
+      "context": "Газообмін між повітрям і кров’ю від-бувається в альвеолах. Усього в легенях налічується близько 700 млн альвеол, а їхня загальна площа поверхні в різних людей становить від 60 до 120 м 2 .",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9358796296296297
+      }
+    },
+    {
+      "question": "What is the main function of the respiratory system?",
+      "context": "Одна з основних функцій дихальної системи людини — утворення звуків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7611111111111111
+      }
+    },
+    {
+      "question": "How do voice vibrations work in the human throat?",
+      "context": "Голосові зв’язки складаються з еластичних пружних волокон. Вони натягнуті впоперек гортані паралельно одна одній, а між ними розташована голосова щілина.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9295524691358025
+      }
+    },
+    {
+      "question": "What happens to the ability of hemoglobin to transport oxygen when there is a small amount of carbon dioxide in the blood?",
+      "context": "Ультаті гемоглобін утрачає здатність переносити кисень, тому навіть незначна кількість чадного газу в крові стає небезпEKою для життя людини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.918859649122807
+      }
+    },
+    {
+      "question": "What type of speech is made without the involvement of vocal cords?",
+      "context": "Шепіт — це тихе мовлення, під час якого слова вимовляються без участі голо-\nсів зв’язок. Під час шепоту зв’язки не вібрують, як за звичайного мовлення.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8711023276240668
+      }
+    },
+    {
+      "question": "What is the main function of the diaphragm in respiration?",
+      "context": "Процес дихання людини головним чином забезпечується рухами діафрагми та міжреберних м’язів.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7999438832772167
+      }
+    },
+    {
+      "question": "What is the role of the diaphragm in regulating breathing?",
+      "context": "Процес дихання та основні функціональні показники дихальної системи … Перед тим як перейти до вивчення регуляції ро-\nботи дихальної системи людини, пригадайте основні \nоргани дихальної системи.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7871773288439955
+      }
+    },
+    {
+      "question": "What is the function of the diaphragm in regulating breathing?",
+      "context": "Процес дихання та основні функціональні показники дихальної системи … Перед тим як перейти до вивчення регуляції ро-\nботи дихальної системи людини, пригадайте основні \nоргани дихальної системи.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7810044893378227
+      }
+    },
+    {
+      "question": "What is the role of the diaphragm in regulating breathing?",
+      "context": "Регуляція дихання та основні функціональні показники дихальної системи … Діхальний \nцентр, який контрольє работа дихальної системи лю-\nдини, розміщений у довгастому мозку.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7954475308641975
+      }
+    },
+    {
+      "question": "What are functional indicators of the respiratory system?",
+      "context": "Функціональні показники дихальної системи",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What are the pathogens that can enter the respiratory system through the lungs?",
+      "context": "Мікроорганізми (бактерії або віруси) можуть легко проникати прямо всередину організму людини через дихальну систему.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9102633477633477
+      }
+    },
+    {
+      "question": "What are some common causes of respiratory system diseases?",
+      "context": "Причини виникнення Захворювання органів дихальної системи можуть бути викликані дією живих організмів, або впливом звišнього середовища.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8825231481481481
+      }
+    },
+    {
+      "question": "What is the difference between respiratory and allergic diseases?",
+      "context": "Слід також звертати увагу на те, що деякі Захворювання дихальної системи можуть бути викликані не тільки дією живих організмів, а й впливом звішнього середовища.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.841820987654321
+      }
+    },
+    {
+      "question": "What is Tracheitis?",
+      "context": "Ураження слизової оболонки трахеї під час розвитку інфекційних захворювань",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7546296296296297
+      }
+    },
+    {
+      "question": "What causes Bronchitis?",
+      "context": "Запалення бронхів унаслідок розвитку інфекційних захворювань або впливу де­яких речовин (отруйних, алергенів тощо)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8596866096866097
+      }
+    },
+    {
+      "question": "What is Bronchiectasis?",
+      "context": "Порушення прохідності бронхів унаслідок спазму мускулатури дрібних бронхів, наібраці слизової оболонки й закупорення їх в’язкіми виділеннями",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7682291666666667
+      }
+    },
+    {
+      "question": "What is Pneumonia?",
+      "context": "(запалення легень)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "Чи має куріння негативний вплив на органи дихання?",
+      "context": "Куріння може стати причиною раку легень чи інших органів дихання.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9875
+      }
+    },
+    {
+      "question": "Чи є зв'язок між курінням та зміной голосу?",
+      "context": "Під впливом тютюнового диму голосові зв’язки втрачають свою еластичність.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9598765432098766
+      }
+    },
+    {
+      "question": "Чи є зв’язок між курінням та силікозом?",
+      "context": "В наявності у повітрі, яке вдихає людина, великої кількості пилу може призвести до розвитку силікозу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9503968253968254
+      }
+    },
+    {
+      "question": "Чи є зв’язок між курінням та алергійним аспергільозом?",
+      "context": "Органічні компоненти середовища також mohou уражати органи дихальної системи, зокрема алергічний аспERGільоз.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9548611111111112
+      }
+    },
+    {
+      "question": "Чи є зв’язок між курінням та захворюванням органів дихальної системи?",
+      "context": "Захворювання органів дихальної системи можуть спричиняти як хвороботворні організми, так і шкідливі речовини.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.9429487179487179
+      }
+    },
+    {
+      "question": "What is the function of bronchi?",
+      "context": "Функція бронхів: а) проведення повітря ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7518518518518518
+      }
+    },
+    {
+      "question": "What happens to the air we breathe after it enters our nose?",
+      "context": "Вдихуване повітря з носової порожнини спочатку потрапляє до: б) глотки ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9138888888888889
+      }
+    },
+    {
+      "question": "What is the main content of the air we breathe?",
+      "context": "Вміст кисню у видихуваному повітрі становить: а) 20,9 % ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8348765432098766
+      }
+    },
+    {
+      "question": "Where is the diaphragm located?",
+      "context": "Відділ мозку, у якому розташований дихальний центр: б) середній ",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8478395061728394
+      }
+    },
+    {
+      "question": "What are the main organs of the respiratory system?",
+      "context": "[вказіть назви органів, які зображені на малюнках.]",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8432539682539683
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the volume of a person's lungs?",
+      "context": "Об’єм легень у більшості людей становить 3–4 л.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8211805555555556
+      }
+    },
+    {
+      "question": "Чи є зв’язок між курінням та алергійним аспергільозом?",
+      "context": "Органічні компоненти середовища також mohou уражати органи дихальної системи, зокрема алергічний аспERGільоз.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9548611111111112
+      }
+    },
+    {
+      "question": "Чи є зв’язок між курінням та силікозом?",
+      "context": "В наявності у повітрі, яке вдихає людина, великої кількості пилу може призвести до розвитку силікозу.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9503968253968254
+      }
+    },
+    {
+      "question": "Where is the diaphragm located?",
+      "context": "Відділ мозку, у якому розташований дихальний центр: б) середній ",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8478395061728394
+      }
+    }
+  ]
+}

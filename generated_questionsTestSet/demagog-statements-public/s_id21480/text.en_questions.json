@@ -1,0 +1,149 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of inflation do economists attribute to international influences?",
+      "context": "Economists say that roughly half of it (inflation, note: Demagog.cz) is caused by international influences.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8222222222222222
+      }
+    },
+    {
+      "question": "What type of inflation is caused by an increase in the prices of inputs to production?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8574074074074074
+      }
+    },
+    {
+      "question": "What is causing rising inflation?",
+      "context": "caused by an increase in the prices of inputs to production.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.803030303030303
+      }
+    },
+    {
+      "question": "What are some factors contributing to high inflation, according to economist Helena Horská?",
+      "context": "the abolition of the super-gross wage, the increase in pensions beyond the framework of valorization, the abolition of the property acquisition tax, and other steps that have loosened budgetary discipline so much that even after the pandemic subsides, the state treasury is expected to be short of almost 400 billion crowns during a time of economic boom.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8632154882154882
+      }
+    },
+    {
+      "question": "What is one of the main reasons for inflation, according to Helena Horská?",
+      "context": "<i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.782051282051282
+      }
+    },
+    {
+      "question": "What is another significant cause of inflation, according to the CNB?",
+      "context": "<i>the high growth of industrial producer prices in the world due to disruptions in supply chains, to which is added a significant increase in the price of many raw materials and materials",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7884615384615384
+      }
+    },
+    {
+      "question": "Does the government's budgetary policy contribute to today's inflation level, according to CNB Governor Rusnok?",
+      "context": "The fact that the government's budgetary policy is at least partly causing today's inflation level was previously <a href=\\",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8249559082892417
+      }
+    },
+    {
+      "question": "Does the government's budgetary policy contribute to today's inflation level, according to CNB Councilor Aleš Michl?",
+      "context": "<i>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8185185185185185
+      }
+    },
+    {
+      "question": "Who attributes equal credit for rising inflation to international factors and the previous government's economic management, according to Petr Fiala?",
+      "context": "Economists and the CNB attribute equal credit for rising inflation to international factors and the previous government's economic management.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8548331613347093
+      }
+    },
+    {
+      "question": "Is Petr Fiala's statement about economists and the CNB attributing the main responsibility for inflation to international influences correct?",
+      "context": "We therefore assess Fiala's statement as false.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8981481481481481
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of inflation is caused by an increase in the prices of inputs to production?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8574074074074074
+      }
+    },
+    {
+      "question": "What are some factors contributing to high inflation, according to economist Helena Horská?",
+      "context": "the abolition of the super-gross wage, the increase in pensions beyond the framework of valorization, the abolition of the property acquisition tax, and other steps that have loosened budgetary discipline so much that even after the pandemic subsides, the state treasury is expected to be short of almost 400 billion crowns during a time of economic boom.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8632154882154882
+      }
+    },
+    {
+      "question": "Does the government's budgetary policy contribute to today's inflation level, according to CNB Councilor Aleš Michl?",
+      "context": "<i>",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8185185185185185
+      }
+    }
+  ]
+}

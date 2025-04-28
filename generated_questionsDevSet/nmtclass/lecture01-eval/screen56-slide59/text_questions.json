@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What area of studies would be relevant for working with deep syntactic representation?",
+      "context": "This sentence (from the beginning of the document)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.47664835164835173
+      }
+    },
+    {
+      "question": "Who are H. Mann and Hume mentioned in relation to tectogrammatics?",
+      "context": "This sentence (from the beginning of the document)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5422077922077922
+      }
+    },
+    {
+      "question": "What is the Prague dependency treebank used for?",
+      "context": "This sentence (from the middle of the document)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5401785714285714
+      }
+    },
+    {
+      "question": "How could an evaluation measure be built based on deep syntax?",
+      "context": "This sentence (from the end of the document)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5081168831168832
+      }
+    },
+    {
+      "question": "What tools are available for working with deep syntax?",
+      "context": "This sentence (from the end of the document)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4285714285714286
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who are H. Mann and Hume mentioned in relation to tectogrammatics?",
+      "context": "This sentence (from the beginning of the document)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5422077922077922
+      }
+    },
+    {
+      "question": "What is the Prague dependency treebank used for?",
+      "context": "This sentence (from the middle of the document)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5401785714285714
+      }
+    },
+    {
+      "question": "What tools are available for working with deep syntax?",
+      "context": "This sentence (from the end of the document)",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4285714285714286
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of neural network is used to handle variable-size inputs?",
+      "context": "Recurrent neural networks",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "How does the transformation function update the state of the network?",
+      "context": "Combining the current input with the current state given a transformation function",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8680555555555556
+      }
+    },
+    {
+      "question": "What is the purpose of unrolling the computation in time for networks that process variable-length inputs?",
+      "context": "To prepare the network to process input samples of some length up to a fixed length limit",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7803571428571429
+      }
+    },
+    {
+      "question": "Why are the unused variables in networks that process variable-length inputs filled with zeros or other specific values?",
+      "context": "To fill all the unused space and not affect the training",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8652777777777778
+      }
+    },
+    {
+      "question": "What is typically used to pad the unused space in networks that process variable-length inputs?",
+      "context": "Padding with zeros",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.775
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of unrolling the computation in time for networks that process variable-length inputs?",
+      "context": "To prepare the network to process input samples of some length up to a fixed length limit",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.7803571428571429
+      }
+    },
+    {
+      "question": "What type of neural network is used to handle variable-size inputs?",
+      "context": "Recurrent neural networks",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8863636363636364
+      }
+    },
+    {
+      "question": "Why are the unused variables in networks that process variable-length inputs filled with zeros or other specific values?",
+      "context": "To fill all the unused space and not affect the training",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8652777777777778
+      }
+    }
+  ]
+}

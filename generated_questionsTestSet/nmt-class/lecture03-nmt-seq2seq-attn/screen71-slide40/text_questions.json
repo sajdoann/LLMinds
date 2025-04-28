@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main issue with the fixed-size vector representation of input sentences in neural networks?",
+      "context": "If you consider this setup, here is a horrible bottleneck in the network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How does injecting the encoding of the input sentence into every step of the network help alleviate the problem?",
+      "context": "So what we could do is that we could inject this encoding of the input sentence to every step of the network.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.7972222222222223
+      }
+    },
+    {
+      "question": "What happens to the fixed-size representation of the whole sentence as it progresses through the decoder?",
+      "context": "Because again the information consumed at the beginning is kind of all written as the encoder was digesting the input sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "What approach was used in early implementations to mitigate the problem of fabulation?",
+      "context": "So in the reverse order the... the beginning of the sentence was consumed last.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7067307692307692
+      }
+    },
+    {
+      "question": "Why is reversing the input sentence not considered a systematic or desirable approach?",
+      "context": "But at least the beginning of the sentence was... was good. So it like... the decoder started in a reasonable sub space of the space of its states.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.805506993006993
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main issue with the fixed-size vector representation of input sentences in neural networks?",
+      "context": "If you consider this setup, here is a horrible bottleneck in the network.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How does injecting the encoding of the input sentence into every step of the network help alleviate the problem?",
+      "context": "So what we could do is that we could inject this encoding of the input sentence to every step of the network.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.7972222222222223
+      }
+    },
+    {
+      "question": "Why is reversing the input sentence not considered a systematic or desirable approach?",
+      "context": "But at least the beginning of the sentence was... was good. So it like... the decoder started in a reasonable sub space of the space of its states.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.805506993006993
+      }
+    },
+    {
+      "question": "What happens to the fixed-size representation of the whole sentence as it progresses through the decoder?",
+      "context": "Because again the information consumed at the beginning is kind of all written as the encoder was digesting the input sentence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7638888888888888
+      }
+    }
+  ]
+}

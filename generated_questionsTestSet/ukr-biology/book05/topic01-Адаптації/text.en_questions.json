@@ -1,0 +1,1480 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the definition of a mutation?",
+      "context": "A mutation (from the Latin mutatio - change) is a change in an organism's characteristic, which is caused by a change in hereditary structures, a restructuring of the genetic apparatus.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7791660648081276
+      }
+    },
+    {
+      "question": "What are point mutations?",
+      "context": "Point mutations\nPoint mutations\nNorm\nSilent\nNonsense\nMissense\nConservative – Nonconservative — valent",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8953488372093024
+      }
+    },
+    {
+      "question": "What is Tetraploidy?",
+      "context": "Tetrasomy <br>1<br>2<br>3<br>4",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8126614987080103
+      }
+    },
+    {
+      "question": "Why do dolphins have a streamlined body shape?",
+      "context": "Why do dolphins have a streamlined body shape? How do organisms maintain their homeostasis? What animals migrate and why?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.9172049956933678
+      }
+    },
+    {
+      "question": "What is the main property of adaptations according to the text?",
+      "context": "adaptation to the action of one and the same factor can be carried out in different ways",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.781782945736434
+      }
+    },
+    {
+      "question": "Who proposed Bergmann's rule?",
+      "context": "Bergmann's rule was proposed by the German ecologist K. Bergmann",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9478682170542636
+      }
+    },
+    {
+      "question": "What is the main idea behind Bergmann's rule?",
+      "context": "According to Bergmann's rule, the body size of animals of the same species (or several closely related species of the same genus) is larger in the colder parts of its range and smaller in the warmer parts.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.825958225667528
+      }
+    },
+    {
+      "question": "What is the main idea behind Allen's rule?",
+      "context": "According to Allen's rule, the smallest size of protruding body parts are in animals that live in the coldest regions, and the largest - in the inhabitants of the warmest regions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8205749354005167
+      }
+    },
+    {
+      "question": "What is Allen's rule?",
+      "context": "Allen's rule, like Bergman's rule, also reflects the adaptations of animals to heat exchange with the environment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7765503875968992
+      }
+    },
+    {
+      "question": "What is a preadaptation?",
+      "context": "Adaptations of living organisms do not arise from nothing. Their development is based on the structures and capabilities that these organisms already have.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.764799154334038
+      }
+    },
+    {
+      "question": "What is the purpose of fins in brush-footed fish before they adapted to life on land?",
+      "context": "In the process of adaptation of brush-footed fish to life on land, the fins lost their old main function. And the auxiliary function became a new main one for them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8418679189028027
+      }
+    },
+    {
+      "question": "Why do giraffes have longer necks than okapis?",
+      "context": "An adaptation to this type of nutrition was the elongation of the neck. However, the degree of elongation depended on the shape and size of the crowns of the trees whose leaves the animals consumed.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9161821705426356
+      }
+    },
+    {
+      "question": "What determines the number of legs in the descendants of fish that adapted to life on land?",
+      "context": "The number of fins also determined the number of legs in the descendants of these fish. They all became four-legged.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8503875968992248
+      }
+    },
+    {
+      "question": "What is an example of a postadaptation?",
+      "context": "Adaptations that have arisen in the organism are not complete, they are constantly being improved. Evolutionary changes that improve the already existing adaptations of organisms are called postadaptations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.801218161683278
+      }
+    },
+    {
+      "question": "How do plants adapt to different environmental conditions?",
+      "context": "Plants in the forest can adapt to different options for environmental conditions: either they become tall and occupy the upper tiers of the forest, or low and occupy its lower tiers.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8902706000574218
+      }
+    },
+    {
+      "question": "What is a K-strategy of reproduction?",
+      "context": "Animals that have the r -strategy give birth to many offspring (the moonfish lays up to 300 million eggs). But these offspring are small, and the parents do not care for them or care for them little.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7975118779694924
+      }
+    },
+    {
+      "question": "What is an example of a r-strategy of reproduction?",
+      "context": "Animals with the K -strategy of reproduction give birth to few offspring (the female elephant gives birth to one baby). But these offspring are more developed or the parents show great care for them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8256782945736434
+      }
+    },
+    {
+      "question": "What is an example of a K-strategy in reproduction?",
+      "context": "Animals that have the r -strategy give birth to many offspring (the moonfish lays up to 300 million eggs).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8318260120585702
+      }
+    },
+    {
+      "question": "What is an example of a K-strategy in reproduction?",
+      "context": "But these offspring are small, and the parents do not care for them or care for them little.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8074074074074074
+      }
+    },
+    {
+      "question": "What is the K-strategy of reproduction?",
+      "context": "Animals with the K-strategy of reproduction give birth to few offspring (the female elephant gives birth to one baby).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7620459036327709
+      }
+    },
+    {
+      "question": "Why do Galapagos finches have different adaptations?",
+      "context": "The conditions of existence in different places are different.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8382551987203151
+      }
+    },
+    {
+      "question": "When did Charles Darwin study Galapagos finches?",
+      "context": "They are often called Darwin's finches, because Charles Darwin studied them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.971005738447599
+      }
+    },
+    {
+      "question": "Approximately how many years ago did the ancestral species of Galapagos finches reach the Galapagos Islands?",
+      "context": "Approximately 2–3 million years ago, their ancestor reached the Galapagos Islands and settled them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9100221483942414
+      }
+    },
+    {
+      "question": "How did the birds adapt to different living conditions on each of the islands?",
+      "context": "On each of the islands, the birds had to adapt to slightly different living conditions. They adapted to different types of food and habitats.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8747293098578288
+      }
+    },
+    {
+      "question": "What type of adaptation did orangutans and gibbons develop?",
+      "context": "At the same time, gibbons developed a very specific way of moving through trees using their forelimbs - brachiation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8562264835214652
+      }
+    },
+    {
+      "question": "How did chimpanzees and gorillas adapt to different conditions?",
+      "context": "Chimpanzees began to spend a lot of time not in trees, but on the ground. And gorillas almost completely switched to a terrestrial lifestyle.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8819395505442017
+      }
+    },
+    {
+      "question": "What type of adaptation did humans undergo?",
+      "context": "People switched to walking upright on their hind limbs and moved to the savannas.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8309907147116449
+      }
+    },
+    {
+      "question": "When did human ancestors spread to different continents and adapt to different conditions?",
+      "context": "Although all other species, except Homo sapiens, are extinct. In the process of evolution, our ancestors spread to different continents and adapted to different conditions (Fig. 4.5).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9011134601832276
+      }
+    },
+    {
+      "question": "What is ecological plasticity?",
+      "context": "Ecological plasticity is the ability of an organism to exist in a certain range of values of an environmental factor.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7482330141358869
+      }
+    },
+    {
+      "question": "What is eurybionts?",
+      "context": "Koalas are ¬divided into eurybionts (species that are able to exist in a wide range of conditions) and stenobionts (species that are able to exist only in a narrow range of conditions).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7364341085271318
+      }
+    },
+    {
+      "question": "What is the measure of the adaptive capabilities of a species in changing environmental conditions?",
+      "context": "The measure of the adaptive capabilities of a species in changing environmental conditions is called the adaptive potential of the species.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8,
+        "diversity_score": 0.806400318028225
+      }
+    },
+    {
+      "question": "What are stenobionts?",
+      "context": "Koalas are ¬divided into eurybionts (species that are able to exist in a wide range of conditions) and stenobionts (species that are able to exist only in a narrow range of conditions).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7829457364341086
+      }
+    },
+    {
+      "question": "What is ecological plasticity?",
+      "context": "The larger the range of values, the higher the ecological plasticity of the species for a certain factor.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7560375670840787
+      }
+    },
+    {
+      "question": "Why can plants not live at great depths, but animals can?",
+      "context": "In animals that live in water, breathing ¬is much more often carried out using gills, not lungs.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3,
+        "diversity_score": 0.950493305144468
+      }
+    },
+    {
+      "question": "What is the difference between eurybionts and stenobionts?",
+      "context": "Koalas are divided into eurybionts (species that are able to exist in a wide range of conditions) and stenobionts (species that are able to exist only in a narrow range of conditions).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8132382798080473
+      }
+    },
+    {
+      "question": "Why is it easier for species with high ecological plasticity to adapt to changes in the environment?",
+      "context": "Eurybionts usually have a greater adaptive potential than stenobionts.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9160475882859603
+      }
+    },
+    {
+      "question": "Why can plants not live at great depths, but animals can?",
+      "context": "Plants produce interesting adaptations to life in the aquatic environment. For them, sunlight is a very important factor of existence, which provides energy for the process of photosynthesis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9080902043692741
+      }
+    },
+    {
+      "question": "What is photosynthesis?",
+      "context": "For them, sunlight is a very important factor of existence, which provides energy for the process of photosynthesis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.729328165374677
+      }
+    },
+    {
+      "question": "What is the primary function of the root and shoot in trees?",
+      "context": "The root provides mineral nutrition, and the shoot - photosynthesis.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8223709967896015
+      }
+    },
+    {
+      "question": "How do moles loosen soil for digging passages?",
+      "context": "However, the method of loosening the soil for digging passages in these animals is different. The mole uses its front paws for this, and the mole uses its incisors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.906800563777308
+      }
+    },
+    {
+      "question": "What adaptations do trees in mangrove forests have?",
+      "context": "They are located on the border of land and ocean and are flooded with salt water during high tides. Therefore, the trees in these forests had to develop unique adaptations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8635156474303761
+      }
+    },
+    {
+      "question": "Which group of organisms has a greater variety of biochemical processes in cells?",
+      "context": "Representatives of which group - prokaryotes or eukaryotes - are characterized by a greater variety of biochemical processes in cells?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8971791559000861
+      }
+    },
+    {
+      "question": "What is the role of vision in organisms adapted to life in the soil?",
+      "context": "Vision loses its importance. But hearing and tactile sensitivity come to the fore",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8241403299542834
+      }
+    },
+    {
+      "question": "What type of adaptation occurs at the molecular level?",
+      "context": "A small change in just one molecule can cause significant changes in the chances of survival of organisms.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8203326873385013
+      }
+    },
+    {
+      "question": "How do mammals adapt to life on land with moisture deficiency?",
+      "context": "Mammals adapted to this situation by replacing ammonia with urea, which is much less toxic.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9251115809255344
+      }
+    },
+    {
+      "question": "What changes in hemoglobin molecules cause them to carry oxygen worse?",
+      "context": "This mutation causes the replacement of one of the amino acids in the protein molecule with another, which changes its conformation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8709380627985279
+      }
+    },
+    {
+      "question": "Why do individuals heterozygous for a certain gene have a better chance of survival during malaria infection?",
+      "context": "This mutation causes the replacement of one of the amino acids in the protein molecule with another, which changes its conformation.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8906922911283377
+      }
+    },
+    {
+      "question": "What is the primary reason for the adaptation to excrete ammonia in fish?",
+      "context": "In fish, these products are excreted in the form of ammonia, which is very soluble, but is a toxic compound and requires a large amount of water for excretion.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.835968992248062
+      }
+    },
+    {
+      "question": "What solubility requirement does urea have compared to ammonia?",
+      "context": "Mammals adapted to this situation by replacing ammonia with urea, which is much less toxic.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8988802756244617
+      }
+    },
+    {
+      "question": "What type of adaptation did plants develop to save moisture in arid conditions?",
+      "context": "To provide a small number of cells with carbon dioxide, the plant can open only part of the stomata. In both cases, the light and dark phases of photosynthesis are separated.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8557278208440999
+      }
+    },
+    {
+      "question": "What type of photosynthesis is used by plants like corn and prickly pear cactus?",
+      "context": "the first option, in plants with C 4 photosynthesis (Fig. 7.4), the light and dark phases of photosynthesis are spatially separated and occur in different cells.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8639887244538407
+      }
+    },
+    {
+      "question": "What is the purpose of haustoria in parasitic fungi?",
+      "context": "The formation of haustoria in parasitic fungi is also an adaptation at the cellular level. Haustoria are lateral outgrowths of hyphae that penetrate the inside of the host cell.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8154327229150282
+      }
+    },
+    {
+      "question": "What is the significance of upright walking in human evolution?",
+      "context": "The vertical position of the body during locomotion began to form in human ancestors while they were still living in trees.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8147082823337413
+      }
+    },
+    {
+      "question": "What was one way that human ancestors adapted to life in the savannah?",
+      "context": "This facilitated orientation, allowed carrying young and food, and freed the forelimbs to use sticks and stones as tools to protect against predators.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8872391174716756
+      }
+    },
+    {
+      "question": "Why do you think human ancestors used a method of moving through trees that orangutans exhibited?",
+      "context": "Most likely, this method of moving through trees became the main one for human ancestors, and after changing the habitat from arboreal to terrestrial, it turned out to be a successful prerequisite for life in a new ecological niche.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.9053433001107419
+      }
+    },
+    {
+      "question": "What was an external sign of a decrease in testosterone levels in human ancestors?",
+      "context": "One of the possible ways was a decrease in the level of testosterone in the body.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.826003776585172
+      }
+    },
+    {
+      "question": "How did the loss of body hair and strong sweat glands help human ancestors in their ecological niche?",
+      "context": "The loss of body hair and the strong development of sweat glands allowed human ancestors to effectively prevent overheating during the hottest period of the day.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8931647594438292
+      }
+    },
+    {
+      "question": "What was the effect of the presence of thick hair on the head in human ancestors?",
+      "context": "This allowed for a sharp increase in hunting efficiency, because due to the risk of overheating, their victims could not escape for a long time, and predators could not attack.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8539057841383423
+      }
+    },
+    {
+      "question": "What is thermoregulation?",
+      "context": "Thermoregulation is a set of processes that allow maintaining the body temperature of an organism at a certain level.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.733546131630947
+      }
+    },
+    {
+      "question": "Why do most reptile species live in warm regions?",
+      "context": "most reptile species live in warm ¬-regions",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.625,
+        "diversity_score": 0.9153439153439153
+      }
+    },
+    {
+      "question": "How do ducks manage not to lose too much heat through their paws?",
+      "context": "although their paws do not have coverings that retain heat.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.947376267143709
+      }
+    },
+    {
+      "question": "What type of organisms cannot maintain their body temperature higher than the ambient temperature?",
+      "context": "Poikilotherm organisms (Fig. 8.1) cannot maintain their body temperature higher than the ambient temperature by more than 1–2 degrees.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6923076923076923,
+        "diversity_score": 0.8934271382971793
+      }
+    },
+    {
+      "question": "Why do some poikilotherm organisms acquire postadaptations to regulate their body temperature?",
+      "context": "This occurs in the form of the emergence of various postadaptations. For example, tuna lives in cold waters and has a high speed of movement.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8903193060169804
+      }
+    },
+    {
+      "question": "How do social insects like bees maintain a constant temperature?",
+      "context": "Bees form a cluster, inside which a fairly high and relatively constant temperature is maintained.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9223698781838316
+      }
+    },
+    {
+      "question": "What is the method of thermoregulation used by leatherback turtles?",
+      "context": "This maintains a constant body temperature without special energy expenditure for heat production.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8650268336314848
+      }
+    },
+    {
+      "question": "Why do small mammals have to spend a lot of energy to maintain a constant body temperature?",
+      "context": "The ratio of surface area to body volume in them is extremely high.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8432915921288014
+      }
+    },
+    {
+      "question": "What are life forms?",
+      "context": "Life forms of organisms adapt to certain conditions of existence regardless of their systematic position. Often, adaptation to the same conditions of existence causes the appearance of similar morphological forms of different organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8332069430401079
+      }
+    },
+    {
+      "question": "Why are sharks and dolphins classified as representatives of different systematic groups despite looking similar?",
+      "context": "Crucian carp and seahorse are representatives of bony fish. Crucian carp has a streamlined body shape, while seahorses do not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9131782945736434
+      }
+    },
+    {
+      "question": "What is the main characteristic used to classify life forms of plants by I. G. Serebryakov?",
+      "context": "Life formCharacteristic featuresRepresentativesWoody ¬plantsPerennial plants that have woody stems.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9036929371231697
+      }
+    },
+    {
+      "question": "How are life forms of animals classified according to O. M. Formozov?",
+      "context": "Classifications of life forms of animals, as well as plants, are extremely diverse. Very often they are divided into groups according to their habitat and the nature of movement in it.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8894631065173702
+      }
+    },
+    {
+      "question": "What are the three main types of animal life forms mentioned?",
+      "context": "arboreal, aerial, and subterranean animals",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.859830866807611
+      }
+    },
+    {
+      "question": "What is the main difference between a theoretically possible niche and a realized niche?",
+      "context": "The complete set of all possible variations of environmental conditions in which a species can exist is called a theoretically possible niche. But in reality, a species never occupies the entire niche.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8518187239117472
+      }
+    },
+    {
+      "question": "What determines the width of an ecological niche?",
+      "context": "The main parameters are its width and overlap with other niches. The width of a niche is a relative parameter, and it is determined in comparison with other species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8053646934460887
+      }
+    },
+    {
+      "question": "Why do competition and adaptations occur for ecological niches?",
+      "context": "Competition between two species can arise for several resources, but it never covers all the resources of a certain species, because the ecological ¬niche of each species is unique.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.9068276684555754
+      }
+    },
+    {
+      "question": "What happens to an ecological niche when a species disappears from an ecosystem?",
+      "context": "In the event of the disappearance of a species from the ecosystem (for example, as a result of its extinction), the ecological niche that belonged to it will be occupied by other species or divided between them.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8753875968992249
+      }
+    },
+    {
+      "question": "Why are there no free niches in an ecosystem according to the rule of mandatory filling?",
+      "context": "There is a rule of mandatory filling of an ecological niche, which states that there is no niche without a species and no species without a niche.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8818339453284374
+      }
+    },
+    {
+      "question": "Why did marsupial mammals become extinct in Eurasia?",
+      "context": "in Eurasia, marsupial mammals became extinct, and placental mammals occupied all ecological niches.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.9255490956072352
+      }
+    },
+    {
+      "question": "What is the consequence of overlapping ecological niches between two species?",
+      "context": "The concept of “resources” includes not only food sources. This can be, for example, a source of water or a convenient place for raising offspring.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8387949260042283
+      }
+    },
+    {
+      "question": "Why did the black cockroach lose its niche to the red cockroach?",
+      "context": "Their ecological niches overlap quite a lot. Therefore, one of these species began to displace the other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8765908054553746
+      }
+    },
+    {
+      "question": "What is an example of significant overlap of ecological niches between two species?",
+      "context": "As, for example, happened with two species of the genus Man - Neanderthals and sapiens (Fig. 10.3).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8445052439580483
+      }
+    },
+    {
+      "question": "What is a possible outcome when two species have overlapping ecological niches?",
+      "context": "There are two possible outcomes: either the species evolve further and expand their niches in different directions until the level of competition for resources decreases, or one of the two species becomes extinct.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.86812476928756
+      }
+    },
+    {
+      "question": "What is coevolution?",
+      "context": "Coevolution occurs in different types of interspecific interactions.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7302971576227391
+      }
+    },
+    {
+      "question": "Why do plants produce poisonous substances to defend against phytophages?",
+      "context": "Herbivorous organisms eat leaves, and plants in response produce substances that are poisonous to such phytophages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9105135658914729
+      }
+    },
+    {
+      "question": "What is an example of coadaptation between hummingbirds and plants?",
+      "context": "Plants form long tubular corollas in their flowers, which can only be penetrated by the hummingbird's long beak.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8401504787961697
+      }
+    },
+    {
+      "question": "How do pollination of flowers and other organisms besides insects carry out flower pollination?",
+      "context": "Give examples of mutually beneficial coexistence of different species.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.9116140642303433
+      }
+    },
+    {
+      "question": "What is an example of coadaptation?",
+      "context": "Plants form long tubular corollas in their flowers, which can only be penetrated by the hummingbird's long beak.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7948016415868673
+      }
+    },
+    {
+      "question": "What is the consequence of unsuccessful coadaptation between a predator and a prey?",
+      "context": "If these processes are balanced, then the system can remain stable for a long time. And the balance of processes is achieved precisely due to the coadaptation of the components of the ecosystem.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8293579805207713
+      }
+    },
+    {
+      "question": "What benefits can hares bring from their interaction with wolves?",
+      "context": "And the predator itself will lose one of the resources that ensure its existence.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8654144305307097
+      }
+    },
+    {
+      "question": "What is mutualism?",
+      "context": "Mutualism is a mutually beneficial form of coexistence of two species in nature.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7238372093023255
+      }
+    },
+    {
+      "question": "Why do termites and microorganisms have a symbiotic relationship?",
+      "context": "The solution to this problem is provided by mutualistic microorganisms living in their intestines. Termites provide them with food and a place to live, and microorganisms break down cellulose for them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8925187646117879
+      }
+    },
+    {
+      "question": "What are the benefits of symbiosis?",
+      "context": "Symbiosis provides significant advantages for both species.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8398855666297527
+      }
+    },
+    {
+      "question": "What is the solution to termites' problem of breaking down cellulose?",
+      "context": "A they feed on plants. The solution to this problem is provided by mutualistic microorganisms living in their intestines.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8208337969659879
+      }
+    },
+    {
+      "question": "What type of relationship between organisms does parasitism represent?",
+      "context": "one form of symbiosis is parasitism - a certain type of relationship between organisms, in which one of the organisms (parasite) lives at the expense of the other (host).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8484439950567352
+      }
+    },
+    {
+      "question": "What do lice get from their interaction with humans?",
+      "context": "Lice use humans as a source of food (suck their blood) and a place to live (live on their bodies). In addition, on the human body they are protected from predators and have a comfortable temperature for development.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8724453840732911
+      }
+    },
+    {
+      "question": "What is the difference between parasitism and predation?",
+      "context": "Parasitism is somewhat similar to predation, when the victim is also a source of food for the predator. But the parasite does not kill the victim instantly.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8195912614517266
+      }
+    },
+    {
+      "question": "What is the main difference between ectoparasitism and endoparasitism?",
+      "context": "Ectoparasites (Fig. 13.2) live on the surface of the host's body or generally come into contact with it only during their feeding period.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8441586406702686
+      }
+    },
+    {
+      "question": "Why do endoparasites usually have dense outer covers?",
+      "context": "Endoparasites usually have dense outer covers that protect them from the effects of the host's immune system.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.9154554263565892
+      }
+    },
+    {
+      "question": "What are endoparasites?",
+      "context": "endoparasites usually have dense outer covers that protect them from the effects of the host's immune system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7988533591731266
+      }
+    },
+    {
+      "question": "What type of parasitism involves an animal using the nest of another or its own species to raise its offspring?",
+      "context": "Another type of parasitism is nest parasitism, in which an animal uses the nest of animals of another or its own species to raise its offspring.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7647058823529411,
+        "diversity_score": 0.8604343546204012
+      }
+    },
+    {
+      "question": "What are some examples of organisms that exhibit social parasitism?",
+      "context": "In the case of social parasitism, the parasite does not directly harm individual individuals of the species, but it consumes the resources of the colony.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.865687474500204
+      }
+    },
+    {
+      "question": "What is superparasitism?",
+      "context": "An interesting case of parasitism is superparasitism, in which the host of the parasite is another parasite that parasitizes on some type of non-parasitic organism.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7354651162790697
+      }
+    },
+    {
+      "question": "What order of insects are commonly associated with superparasitism?",
+      "context": "Superparasitism is common among representatives of the order Hymenoptera.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8251507321274764
+      }
+    },
+    {
+      "question": "What is superparasitism?",
+      "context": "An interesting case of parasitism is superparasitism, in which the host of the parasite is another parasite that parasitizes on some type of non-parasitic organism.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7354651162790697
+      }
+    },
+    {
+      "question": "What is the purpose of homeostasis for parasites?",
+      "context": "The organism, as a habitat for parasites, has its own characteristic features. It provides them with stable living conditions. Temperature, humidity, pH level and other parameters of such an environment change within very narrow limits.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8257751937984497
+      }
+    },
+    {
+      "question": "What type of adaptation allows ectoparasites to effectively attack the host?",
+      "context": "What adaptations ¬\ncan ectoparasites have to effectively attack the host?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.8424947145877378
+      }
+    },
+    {
+      "question": "What structural feature indicates that fleas are adapted to ectoparasitism?",
+      "context": "What structural features of fleas indicate their adaptation to ectoparasitism?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8751937984496124
+      }
+    },
+    {
+      "question": "What are examples of organisms that belong to endoparasites?",
+      "context": "he host's body along with parts of plants on which they settle.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8458225667527993
+      }
+    },
+    {
+      "question": "What adaptations can ectoparasites have to effectively attack the host?",
+      "context": "What adaptations ¬can ectoparasites have to effectively attack the host?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 1.0,
+        "diversity_score": 0.8562015503875969
+      }
+    },
+    {
+      "question": "What is the purpose of the interaction between parasites and their hosts at the organism level?",
+      "context": "The result of the interaction of a parasite with a host at the organism level is a deterioration in the condition of the host.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8207018272425249
+      }
+    },
+    {
+      "question": "What happens to the parasite after its life cycle is designed for the death of the host?",
+      "context": "Or it may not die if its life cycle is designed for the death of the host.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8455264857881137
+      }
+    },
+    {
+      "question": "What benefit can the interaction between parasites and their hosts have at the population and ecosystem levels?",
+      "context": "If the host species reproduces excessively, then the defeat of its representatives by the parasite can adjust the population size to the optimal level and maintain balance in the ecosystem.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.35714285714285715,
+        "diversity_score": 0.8754005167958656
+      }
+    },
+    {
+      "question": "What is the result of the interaction between a parasite and its host at the population and ecosystem levels?",
+      "context": "Moreover, such an interaction can be beneficial for the entire ecosystem.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.863107822410148
+      }
+    },
+    {
+      "question": "Can parasites control the behavior of their hosts?",
+      "context": "parasites can quite often influence the behavior of their hosts and even completely control it ¬ in some cases (Fig. 14.3).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.8708241048357328
+      }
+    },
+    {
+      "question": "What substance does Toxoplasma produce that affects the brain of rodents?",
+      "context": "The primary host of Toxoplasma is a cat, and the intermediate host is a mouse-like rodent. Toxoplasma cysts enter the rodent’s body.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8426929175475687
+      }
+    },
+    {
+      "question": "How does Toxoplasma infect humans?",
+      "context": "Toxoplasma can infect not only mice, but also humans. In the body of a healthy adult, Toxoplasma usually turns into a cyst and does not affect ¬ health.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9141085271317829
+      }
+    },
+    {
+      "question": "What happens to Toxoplasma in a healthy adult's body?",
+      "context": "Toxoplasma usually turns into a cyst and does not affect health.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8705269751781379
+      }
+    },
+    {
+      "question": "How do biological rhythms affect living organisms?",
+      "context": "Biological rhythms are divided into internal and external. Internal biorhythms are determined by biochemical and physiological processes in the body.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9138492606344863
+      }
+    },
+    {
+      "question": "What is photoperiodism?",
+      "context": "photoperiodism ¬ one of the most noticeable factors in daily rhythms is the daily rhythm of light, which is determined by the ratio of the duration of day and night. In accordance with the daily rhythm of light, most living organisms change the intensity of their physiological processes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.753021588730516
+      }
+    },
+    {
+      "question": "What is Bergman's rule?",
+      "context": "Bergman's rule The body size of animals of the same species (or several close species of the same genus) is larger in the colder parts of the range and smaller in the warmer parts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7773845635321874
+      }
+    },
+    {
+      "question": "What is Allen's Rule?",
+      "context": "Allen's RuleThe smallest sizes of protruding body parts are possessed by animals that live in the coldest regions, and the largest by inhabitants of the warmest regions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7791118975396023
+      }
+    },
+    {
+      "question": "What is Bergman's rule?",
+      "context": "Bergman's rule The body size of animals of the same species (or several close species of the same genus) is larger in the colder parts of the range and smaller in the warmer parts.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7773845635321874
+      }
+    },
+    {
+      "question": "What type of organisms maintain a constant body temperature regardless of environmental conditions?",
+      "context": "Homeothermic organismsCan maintain a constant temperature of the most important parts of the body regardless of environmental conditions. They are divided into animals with true (swallow, dolphin, wild boar) and inertial (leatherette turtle) homeothermy.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.75,
+        "diversity_score": 0.8769900808535467
+      }
+    },
+    {
+      "question": "What happens when two species with strongly overlapping ecological niches are found in the same area?",
+      "context": "3. Explain what will happen iftwo species of living organisms (red and black cockroaches or black and gray rats) with strongly overlapping ecological niches are found in the same area.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.75,
+        "diversity_score": 0.88500138427464
+      }
+    },
+    {
+      "question": "Explain what will happen iftwo species of living organisms (red and black cockroaches or black and gray rats) with strongly overlapping ecological niches are found in the same area.",
+      "context": "Substantiate the adaptive significance of photoperiodism for living organisms.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16,
+        "diversity_score": 0.8574504737295435
+      }
+    },
+    {
+      "question": "At what age do people get sick more often?",
+      "context": "16. At what age do people get sick more often: in childhood or in old ¬\nage? Why? What factors affect human health?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.875,
+        "diversity_score": 0.9213732004429679
+      }
+    },
+    {
+      "question": "At what age do people get sick more often: in childhood or in old ¬\nage? Why? What factors affect human health?",
+      "context": "Why? What factors affect human health? What adaptations in a person help him not to get sick in conditions of ¬\nlow temperatures?",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5789473684210527,
+        "diversity_score": 0.9096806939830195
+      }
+    },
+    {
+      "question": "What adaptations help a person not to get sick in conditions of low temperatures?",
+      "context": "The causes of such a process can be different. Sometimes they are associated with hereditary characteristics of the body, but in most cases diseases arise as reactions to a certain lifestyle of a person, his reckless behavior, factors of the external ¬\nenvironment, etc.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.879246355990542
+      }
+    },
+    {
+      "question": "What is the state where the body finds itself when its structure, metabolism or its own functioning as a whole or its parts are disturbed?",
+      "context": "The concept of health Health is one of the main values of human life and occupies a very high place in the hierarchy of his needs.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.866297526762643
+      }
+    },
+    {
+      "question": "What are the main categories of study in this document?",
+      "context": "Healthy lifestyle In order to maintain health, a person must follow certain rules in his everyday life.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.85765503875969
+      }
+    },
+    {
+      "question": "What is a healthy lifestyle?",
+      "context": "A lifestyle based on the rational use of one's life potential and adherence to scientifically sound recommendations from various spheres of life is called a healthy lifestyle (HL).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7992894056847545
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "When did Charles Darwin study Galapagos finches?",
+      "context": "They are often called Darwin's finches, because Charles Darwin studied them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.971005738447599
+      }
+    },
+    {
+      "question": "Why is it easier for species with high ecological plasticity to adapt to changes in the environment?",
+      "context": "Eurybionts usually have a greater adaptive potential than stenobionts.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.9160475882859603
+      }
+    },
+    {
+      "question": "Why do plants produce poisonous substances to defend against phytophages?",
+      "context": "Herbivorous organisms eat leaves, and plants in response produce substances that are poisonous to such phytophages.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.9105135658914729
+      }
+    },
+    {
+      "question": "Which group of organisms has a greater variety of biochemical processes in cells?",
+      "context": "Representatives of which group - prokaryotes or eukaryotes - are characterized by a greater variety of biochemical processes in cells?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8181818181818182,
+        "diversity_score": 0.8971791559000861
+      }
+    }
+  ]
+}

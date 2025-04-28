@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one way to classify errors without requiring syntactic knowledge?",
+      "context": "project",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545454545454546
+      }
+    },
+    {
+      "question": "How many categories are there for distinguishing whether a word's meaning doesn't fit the sentence well?",
+      "context": "two categories",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.96875
+      }
+    },
+    {
+      "question": "What can happen if a content word is missing?",
+      "context": "missing, a missing content word or a missing auxiliary word",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.9305555555555556
+      }
+    },
+    {
+      "question": "What type of error involves the word being too far away from its best position?",
+      "context": "long-range word-level error",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "How were words labeled for errors by colleague students?",
+      "context": "we have asked our colleague students to label words which are wrong",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9583333333333334
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How were words labeled for errors by colleague students?",
+      "context": "we have asked our colleague students to label words which are wrong",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.9583333333333334
+      }
+    },
+    {
+      "question": "How many categories are there for distinguishing whether a word's meaning doesn't fit the sentence well?",
+      "context": "two categories",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.96875
+      }
+    },
+    {
+      "question": "What type of error involves the word being too far away from its best position?",
+      "context": "long-range word-level error",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9666666666666667
+      }
+    }
+  ]
+}

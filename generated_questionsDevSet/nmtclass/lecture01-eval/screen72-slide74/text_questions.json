@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the relationship between the BLEU score and human rank in phrase-based systems?",
+      "context": "2008 results",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692308
+      }
+    },
+    {
+      "question": "How does the commercial system differ from the proposed deep syntax system in terms of scoring?",
+      "context": "Commercial system vs. Deep syntax system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7053571428571429
+      }
+    },
+    {
+      "question": "What is the implication of the commercial system's focus on user experience versus n-grams for its BLEU score and human rank?",
+      "context": "The commercial system did not care about n-grams",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.859375
+      }
+    },
+    {
+      "question": "Can the proposed deep syntax system be said to correlate badly with humans in terms of BLEU score?",
+      "context": "BLEU score correlates badly with humans",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Does the proposed deep syntax system apply to phrase-based systems, or is it unique to other approaches?",
+      "context": "Proposed deep syntax system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7421875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can the proposed deep syntax system be said to correlate badly with humans in terms of BLEU score?",
+      "context": "BLEU score correlates badly with humans",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8611111111111112
+      }
+    },
+    {
+      "question": "Does the proposed deep syntax system apply to phrase-based systems, or is it unique to other approaches?",
+      "context": "Proposed deep syntax system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7421875
+      }
+    },
+    {
+      "question": "How does the commercial system differ from the proposed deep syntax system in terms of scoring?",
+      "context": "Commercial system vs. Deep syntax system",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.38461538461538464,
+        "diversity_score": 0.7053571428571429
+      }
+    },
+    {
+      "question": "What is the implication of the commercial system's focus on user experience versus n-grams for its BLEU score and human rank?",
+      "context": "The commercial system did not care about n-grams",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.859375
+      }
+    }
+  ]
+}

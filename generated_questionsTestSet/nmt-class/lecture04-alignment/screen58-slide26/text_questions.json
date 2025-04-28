@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of this slide?",
+      "context": "This slide",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.3571428571428572
+      }
+    },
+    {
+      "question": "Why does it say 'so what' at the beginning of the slide?",
+      "context": "This slide",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5340909090909091
+      }
+    },
+    {
+      "question": "What is being sarcastic about in this context?",
+      "context": "This slide",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.515625
+      }
+    },
+    {
+      "question": "Is the tone of the speaker or writer neutral, negative, or positive?",
+      "context": "This slide",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5125
+      }
+    },
+    {
+      "question": "What is the intended audience for this type of slide?",
+      "context": "[The document does not provide explicit information about the intended audience. However, based on the content of the slide, it can be inferred that the audience is likely someone familiar with the topic.]",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of this slide?",
+      "context": "This slide",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.3571428571428572
+      }
+    },
+    {
+      "question": "Why does it say 'so what' at the beginning of the slide?",
+      "context": "This slide",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5340909090909091
+      }
+    },
+    {
+      "question": "Is the tone of the speaker or writer neutral, negative, or positive?",
+      "context": "This slide",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5125
+      }
+    },
+    {
+      "question": "What is being sarcastic about in this context?",
+      "context": "This slide",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.515625
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "all_questions": [
+    {
+      "question": "In what year was the agreement between the opposition and the coalition concluded?",
+      "context": "sometime in (…) about 2015",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8321678321678322
+      }
+    },
+    {
+      "question": "What is the purpose of the 'old-new machine' for salaries of MPs and other constitutional officials?",
+      "context": "the agreement concluded around 2015 by the then government coalition and the opposition, whose aim was to automate the growth of politicians’ salaries",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8392857142857143
+      }
+    },
+    {
+      "question": "In what year did the Automatic mechanism for the growth of these salaries become part of the law?",
+      "context": "January <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7102564102564103
+      }
+    },
+    {
+      "question": "When was the automatic mechanism for the growth of MPs' salaries part of the law?",
+      "context": "Its version at that time based on the salary base from which salaries are further calculated, on the average wage in&nbsp;<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8070512820512821
+      }
+    },
+    {
+      "question": "Why were salaries of constitutional officials frozen from 2008 to 2010?",
+      "context": "The last mentioned freeze for the years 2011–2014 was implemented during the economic crisis by the former Nečas's government.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8929195804195804
+      }
+    },
+    {
+      "question": "What was the planned increase in constitutional officials' salaries if legislators had not approved another amendment?",
+      "context": "If legislators had not approved another amendment to the law by then, there would have been a sudden <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8355769230769231
+      }
+    },
+    {
+      "question": "What two salary bases were introduced in the new mechanism?",
+      "context": "Unlike the <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6615384615384615
+      }
+    },
+    {
+      "question": "What was the new base for politicians' salaries in relation to the average wage from 2015?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6230769230769231
+      }
+    },
+    {
+      "question": "What salary base adjustment was made in 2018?",
+      "context": "set a gradual increase in the salary base, which in 2018 corresponded to 2.5 times the average wage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7860576923076923
+      }
+    },
+    {
+      "question": "Why did the salary base return to its previous value of 2.75 times the average wage from 2019?",
+      "context": "from 2019 the base would return to <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7883358471593765
+      }
+    },
+    {
+      "question": "Why did all three deputies of the Mayors abstain from voting on the amendment in 2014?",
+      "context": "all three deputies of the Mayors <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7977564102564103
+      }
+    },
+    {
+      "question": "What was the initial proposed salary base adjustment by Jan Hamáček's proposal?",
+      "context": "The initial version of the amendment only envisaged a simple freezing of the base at around 52,000 CZK (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8122171945701357
+      }
+    },
+    {
+      "question": "What was the proposed increase in salary for MPs and senators starting in 2015?",
+      "context": "For 2015 it already envisaged a salary base reaching 2.5 times the average wage.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7781065088757396
+      }
+    },
+    {
+      "question": "What was the outcome of the negotiations on the automatic mechanism for increasing politicians' salaries?",
+      "context": "Although the media published some information about how negotiations on the automatic mechanism took place at the turn of 2014 and 2015, based on the available sources, it is impossible to confirm or deny whether representatives of the STAN movement participated in these agreements.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8435066957334163
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the planned increase in constitutional officials' salaries if legislators had not approved another amendment?",
+      "context": "If legislators had not approved another amendment to the law by then, there would have been a sudden <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8355769230769231
+      }
+    },
+    {
+      "question": "Why did all three deputies of the Mayors abstain from voting on the amendment in 2014?",
+      "context": "all three deputies of the Mayors <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7977564102564103
+      }
+    },
+    {
+      "question": "Why did the salary base return to its previous value of 2.75 times the average wage from 2019?",
+      "context": "from 2019 the base would return to <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7883358471593765
+      }
+    },
+    {
+      "question": "Why were salaries of constitutional officials frozen from 2008 to 2010?",
+      "context": "The last mentioned freeze for the years 2011–2014 was implemented during the economic crisis by the former Nečas's government.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8929195804195804
+      }
+    }
+  ]
+}

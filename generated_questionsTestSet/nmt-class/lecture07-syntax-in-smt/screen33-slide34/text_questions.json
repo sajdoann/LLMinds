@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the user want to move away from in their explanation?",
+      "context": "constituency syntax",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "Is there another empty talk related to the topic being discussed?",
+      "context": "an illustration and animation",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6505681818181819
+      }
+    },
+    {
+      "question": "Can this user recommend something else for an example?",
+      "context": "an illustration and animation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6076388888888888
+      }
+    },
+    {
+      "question": "What is the user's goal in recommending a different topic?",
+      "context": "a recommendation for an illustration and animation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7642857142857142
+      }
+    },
+    {
+      "question": "Is there something else that this user can provide as an alternative example?",
+      "context": "an empty talk related to the topic",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8406593406593407
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does the user want to move away from in their explanation?",
+      "context": "constituency syntax",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9270833333333334
+      }
+    },
+    {
+      "question": "Can this user recommend something else for an example?",
+      "context": "an illustration and animation",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6076388888888888
+      }
+    },
+    {
+      "question": "Is there something else that this user can provide as an alternative example?",
+      "context": "an empty talk related to the topic",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8406593406593407
+      }
+    },
+    {
+      "question": "What is the user's goal in recommending a different topic?",
+      "context": "a recommendation for an illustration and animation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7642857142857142
+      }
+    }
+  ]
+}

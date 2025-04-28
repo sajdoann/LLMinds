@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected outcome for a well-regulized model in neural machine translation systems?",
+      "context": "The implementation in transfer learning",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7107142857142857
+      }
+    },
+    {
+      "question": "How does the performance of the development set relate to the training progress?",
+      "context": "This is like a well-regulized model and the training data is sufficient, so you don't see any degradation of the performance as the training progresses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.762987012987013
+      }
+    },
+    {
+      "question": "What happens to the performance on the development set over time?",
+      "context": "The performance on the development set grows and then stays stable",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Why is there no degradation of performance during training for a well-regulated model?",
+      "context": "This is like a well-regulized model and the training data is sufficient",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7447552447552448
+      }
+    },
+    {
+      "question": "What is the implication of the development set's stable performance on the overall model performance?",
+      "context": "The implementation in transfer learning",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6461538461538461
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the performance on the development set over time?",
+      "context": "The performance on the development set grows and then stays stable",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How does the performance of the development set relate to the training progress?",
+      "context": "This is like a well-regulized model and the training data is sufficient, so you don't see any degradation of the performance as the training progresses.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.762987012987013
+      }
+    },
+    {
+      "question": "Why is there no degradation of performance during training for a well-regulated model?",
+      "context": "This is like a well-regulized model and the training data is sufficient",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7447552447552448
+      }
+    }
+  ]
+}

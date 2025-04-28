@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the typical range for a score to be considered reasonable?",
+      "context": "It's often written as 0 to 100.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8288690476190477
+      }
+    },
+    {
+      "question": "Why is it suggested to use four different translations as references in the original paper, but not in competitions?",
+      "context": "So I've said that the original paper expects people to use four different translations as the reference, but the standard in all these competitions is to have just one.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.828525641025641
+      }
+    },
+    {
+      "question": "What is a common problem with using just one reference for BLEU scores?",
+      "context": "Yeah BLEU score for individual sentences is not reliable. It works only reasonably well if the document is larger and more so if there is only one reference.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8325320512820513
+      }
+    },
+    {
+      "question": "Why was it determined that four translations were sufficient in the original paper?",
+      "context": "The further you would go the better but it was shown that four is kind of enough.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8100961538461539
+      }
+    },
+    {
+      "question": "What is the main reason why one reference is not considered enough for BLEU scores?",
+      "context": "But that means that one is not really enough. And everybody uses one.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7142857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the typical range for a score to be considered reasonable?",
+      "context": "It's often written as 0 to 100.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8288690476190477
+      }
+    },
+    {
+      "question": "What is a common problem with using just one reference for BLEU scores?",
+      "context": "Yeah BLEU score for individual sentences is not reliable. It works only reasonably well if the document is larger and more so if there is only one reference.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8325320512820513
+      }
+    },
+    {
+      "question": "Why is it suggested to use four different translations as references in the original paper, but not in competitions?",
+      "context": "So I've said that the original paper expects people to use four different translations as the reference, but the standard in all these competitions is to have just one.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.828525641025641
+      }
+    }
+  ]
+}

@@ -1,0 +1,3240 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main purpose of classifying living organisms?",
+      "context": "Відомий давньогрецький учений Арістотель розділив живі організми на два великі царства — Рослини і Тварини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8185185185185185
+      }
+    },
+    {
+      "question": "Why is it important to have a common language for scientific names?",
+      "context": "Саме тому й до-велося знайти спільну мову та розробляти правила класифікації.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9326862373737373
+      }
+    },
+    {
+      "question": "What is the difference between a species and a breed?",
+      "context": "Вид не слід плутати з породою. Породи утворюються внаслідок діяльності людини, яка створює їх для своїх цілей, і не є різними видами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8455963403880071
+      }
+    },
+    {
+      "question": "What is a group of species called?",
+      "context": "Схожі роди вчені об’єднають у групи. Ці групи називаються родами.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8206597222222223
+      }
+    },
+    {
+      "question": "What is the main focus of Carl von Linné's work in systematics?",
+      "context": "Головну увагу вченого приділяв систематиці живих організмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8719204695767195
+      }
+    },
+    {
+      "question": "How do scientists determine the classification of a new species?",
+      "context": "Якщо вчені натрапляють на якийсь новий вид, то вони спершу класифікують його, тобто визначають, до якої групи тварин він належить.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9017361111111111
+      }
+    },
+    {
+      "question": "What is the significance of classification in understanding a species?",
+      "context": "Це, по-перше, дає змогу науковцям розуміти, про який вид ідеться в тому чи іншому дослідженні, а по-друге, дозволяє приблизно з’ясувати, що можна отримати від цього виду.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8320779914529914
+      }
+    },
+    {
+      "question": "What is the relationship between external similarity and familial connections?",
+      "context": "Не завжди зовнішня схожість є показником близьніх родинних зв’язків.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875462962962963
+      }
+    },
+    {
+      "question": "What is the main characteristic of Kissvoporgninny animals?",
+      "context": "Кишковопорожнинні мають дуже просту будову.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8096788194444444
+      }
+    },
+    {
+      "question": "How do meduzi move through water?",
+      "context": "Плавають медузи за принципом реактивного руху: вони виштовхують воду зсередини свого «дзвона» і рухаються у протилежний від на-пряму струменя води бік.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9606481481481481
+      }
+    },
+    {
+      "question": "What is the typical behavior of polipy?",
+      "context": "Поліпи ведуть переважно малорухомий спосіб життя: вони прикріплюються до ґрунту або предметів своєю підошвою.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7969990079365079
+      }
+    },
+    {
+      "question": "What is unique about the body structure of meduzi?",
+      "context": "Їхнє тіло за формою нагадує дзвін, а ротовий отвір і щупальця розміщуються знизу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8279172602089269
+      }
+    },
+    {
+      "question": "What is the purpose of the special mechanism used by Medusa to move through water?",
+      "context": "Плавають медузи за принципом реактивного руху: вони виштовхують воду зсередини свого «дзвона» і рухаються у протилежний від на-пряму струменя води бік.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8802910052910053
+      }
+    },
+    {
+      "question": "What is the characteristic of the special organ found on the outside of the jellyfish cells?",
+      "context": "На зовнішньому боці клітини є чутлива волосина. Усередині — спірально закручена нитка із загостреним кінцем.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8649594907407407
+      }
+    },
+    {
+      "question": "What is the method of reproduction in hydras?",
+      "context": "Зустрівшись, чоловіча й жіноча клітини зливаються між собою й утворюють одну клітьину, з якої виростає нова тварина.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.810546875
+      }
+    },
+    {
+      "question": "What is the term for the process of reproduction in corals?",
+      "context": "після брунькування дочірня особина не «розлучається» з материнською — так утворюється колонія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8285879629629629
+      }
+    },
+    {
+      "question": "What is the term for the process of reproduction in hydras?",
+      "context": "Брунькування, а випин — брунькою (мал. 6.3, с. 26)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8263503086419753
+      }
+    },
+    {
+      "question": "What is the term for the process of reproduction in corals?",
+      "context": "після брунькування дочірня особина не «розлучається» з материнською — так утворюється колонія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8285879629629629
+      }
+    },
+    {
+      "question": "What is the term for the process of reproduction in corals?",
+      "context": "після брунькування дочірня особина не «розлучається» з материнською — так утворюється колонія",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8285879629629629
+      }
+    },
+    {
+      "question": "What is coral a part of?",
+      "context": "корали з твердим скелетом ведуть виключно прикріплений спосіб життя, їх навіть колись вважали рослинами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8480076058201058
+      }
+    },
+    {
+      "question": "How do coral colonies form?",
+      "context": "після брунькування дочірня особина не «розлучається» з материнською — так утворюється колонія (мал. 6.6).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9511160714285715
+      }
+    },
+    {
+      "question": "What is the Great Barrier Reef?",
+      "context": "Великий Бар’єрний риф біля східних берегів Австралії. Він простягнувся на 2 тис. км, а завширшки має 70 км.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8152006172839507
+      }
+    },
+    {
+      "question": "What is a nematode?",
+      "context": "Кішковопорожнинні — багатоклітинні водяні організми. Тіло двошарове, складається з екто- та енто-дермi.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7657696759259259
+      }
+    },
+    {
+      "question": "What do earthworms eat?",
+      "context": "Серед них трапляються хижаки, які полюють на інші тварин. Є й такі, що живляться рештками мертвих організмів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8500051062091503
+      }
+    },
+    {
+      "question": "What is the average size of an earthworm?",
+      "context": "Розміри тіла кільчаків дуже різноманітні. Є крихітні види, за-воджки менші за 1 мм. А найбільші представники мають довжину тіла більше ніж 3 м.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8218315972222222
+      }
+    },
+    {
+      "question": "What are annelids primarily used for by other animals?",
+      "context": "Їх їдять риби, жаби, птахи, звірі, комахи, раки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9357397762345679
+      }
+    },
+    {
+      "question": "What is unique about the body structure of annelids?",
+      "context": "Кільчаста будова",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8402777777777778
+      }
+    },
+    {
+      "question": "What are the distinctive features of annelid movement?",
+      "context": "Багато видів кільчаків мають бокові вирос-\nти на сегментах тіла — параподії (мал. 7.2), які\nвони використовують для руху, наприклад нереїс.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8492786871693121
+      }
+    },
+    {
+      "question": "What is a characteristic ofannelid worms?",
+      "context": "Характерною ознакою кільчаків є кільчасте тіло.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8344907407407407
+      }
+    },
+    {
+      "question": "What is a major group of annelids?",
+      "context": "Багатощетинкові — це найбільша група кільчаків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8071676587301587
+      }
+    },
+    {
+      "question": "What is the main characteristic of the bodies of chlensotognih insects?",
+      "context": "Їх тіло вкрите панциром, а ноги складається з окремих члеників, тому їх і називають членистоногими.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8205880731922399
+      }
+    },
+    {
+      "question": "Why are some chlensotognih insects parasitic?",
+      "context": "Існують паразитичні види, що завдають шкоди людині та тваринам.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9678819444444444
+      }
+    },
+    {
+      "question": "What is a characteristic of the habitats where chlensotognih insects can be found?",
+      "context": "Представники членистоногих можна побачити будь-де. вони жиють на землі й під землею, у воді, у повітрі та на інших живих організмах.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8611462550607287
+      }
+    },
+    {
+      "question": "What is a characteristic of the diet of chlensotognih insects?",
+      "context": "У членистоногах (і ракоподібних зокрема) можна спостерігати всі можливі варіанти живлення тварин.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8230613425925926
+      }
+    },
+    {
+      "question": "What is a way in which chlensotognih insects are eaten?",
+      "context": "Їх самих поїдає величезна кількість живих organisмів: ...птахів, звірі й, певна річ, інші членистоногі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8921875
+      }
+    },
+    {
+      "question": "What is the largest and smallest member of the group of Chelicerata?",
+      "context": "Найбільшим є японський краб-павук: власне самого його тіло має дожину близько 45 см, а от розмах ніг досягає 4 м. Вага цього краба — до 20 кг",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8460326646090535
+      }
+    },
+    {
+      "question": "What is the smallest organ of a Chelicerata?",
+      "context": "Найменшим є паразитичний рачок, довжина тіла якого — 0,1 мм",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7950954861111111
+      }
+    },
+    {
+      "question": "What is the purpose of the claws on a Chelicerata?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298611111111112
+      }
+    },
+    {
+      "question": "What do the legs of a crab turn into?",
+      "context": "Ноги, розташовані на голові, видозмінилися й стали щелепами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.843653549382716
+      }
+    },
+    {
+      "question": "Why are there no doves in deserts?",
+      "context": "Мокриці — єдина група ракоподібних, які живуть і розмножуються на суходолі (мал. 8.4).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9451884920634921
+      }
+    },
+    {
+      "question": "What do the legs of a crab use to filter food from water?",
+      "context": "Морські качечки ведуть сидячий спо-сіб життя — оселяються на каменях і днищах кораблів (мал. 8.5).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8739049145299145
+      }
+    },
+    {
+      "question": "What is the main source of food for crabs?",
+      "context": "Криль — представник промислових ракоподібних.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8126543209876543
+      }
+    },
+    {
+      "question": "What do marine crabs use to attach themselves to objects?",
+      "context": "прикріплюються до опори спеціальною ніжкою",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9234182098765432
+      }
+    },
+    {
+      "question": "Why can't pawns stick to their webs?",
+      "context": "Чому павук не прилипає до своєї павутини? Радіальні нитки, по яких він бігає, неклейкі, а на спіральних є краплі клейкої рідини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9650297619047619
+      }
+    },
+    {
+      "question": "What is the main purpose of a spider's web?",
+      "context": "Вона застигає на повітрі, утворюючи павутину.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8077739197530864
+      }
+    },
+    {
+      "question": "What do pavukopodibni eat?",
+      "context": "А найменшим у світі є павук Patu marplesi. У За-\nхідному Самоа був знайдений екземпляр завдовжки трохи більше 4 мм.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8605400219298246
+      }
+    },
+    {
+      "question": "What is the difference between a karakurt and a tarrantula's venom?",
+      "context": "Отрута його самки у 15 разів сильніша за отруту гримучої змії.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8626262626262626
+      }
+    },
+    {
+      "question": "What is the name of the disease caused by the ixodid tick?",
+      "context": "Іксодовий кліщ — кровосос, переносяник енцефаліту",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8458333333333333
+      }
+    },
+    {
+      "question": "What is the main source of food for pedsipalpae?",
+      "context": "Павутинні кліщі паразитують на рослинах.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8150848765432099
+      }
+    },
+    {
+      "question": "What is the main purpose of beneficial insects like pavs and scorpions?",
+      "context": "Контролюють чисельність шкідливих комах та інших дрібних організмів (павуки, скорпіoni тощо).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8667534722222222
+      }
+    },
+    {
+      "question": "How do pavs reproduce?",
+      "context": "Павучі розмножуються статевим способом. Самка в них більша за розмірами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9527777777777777
+      }
+    },
+    {
+      "question": "What is a unique way that some insects eat?",
+      "context": "Їдять усе, і їх їдять усі.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8635416666666667
+      }
+    },
+    {
+      "question": "What do termites eat?",
+      "context": "Терміти їдять деревину",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8684895833333334
+      }
+    },
+    {
+      "question": "What do oses feed on?",
+      "context": "Оси вигодовують своїми личинок м'ясом",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8972222222222223
+      }
+    },
+    {
+      "question": "What is the purpose of a long ovipositor in female insects?",
+      "context": "на черевці в самок деяких видів може бути довгий яйцеклад.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8310290404040404
+      }
+    },
+    {
+      "question": "Why do some insects have hard, protective covers on their wings?",
+      "context": "у жуків передня пара перетворилася на тверді захисні надкрила.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9586665263748597
+      }
+    },
+    {
+      "question": "What is the significance of camouflage and coloration in insects?",
+      "context": "забарвлення та форма тіла допомогають комасі ніби злитися з навколишнім середовищем.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8400726010101011
+      }
+    },
+    {
+      "question": "Why do some insects accumulate toxins in their bodies?",
+      "context": "отруту вони можуть simplement накопичувати у своєму тілі.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9474344135802469
+      }
+    },
+    {
+      "question": "What is the main characteristic of combs that allows them to be venomous?",
+      "context": "Отруйні комахи щоб бути отруйними, комахам зовсім не обов’язково мати жало.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.872923951048951
+      }
+    },
+    {
+      "question": "What is the main purpose of metamorphosis in insects?",
+      "context": "Особливості розвитку з неповним перетворенням (без метаморфозу).",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8152006172839507
+      }
+    },
+    {
+      "question": "What is the main difference between development with incomplete metamorphosis and development with complete metamorphosis?",
+      "context": "Перевагою розвитку з неповним перетворенням є те, що ріст ко-маخی відбувається поступово. Для її перетворення на дорослу особину не потрібна нерухома стадія, яка може бути вразливою для хижаків.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8896604938271605
+      }
+    },
+    {
+      "question": "What is the main advantage of development with complete metamorphosis?",
+      "context": "Перевагою розвитку з повним перетворенням є те, що дорослі особини й личінки живляться різною їжею (мал. 11.5). це зменшує конкуренцію між особинами виду, які можуть проживати на одній ділянці місцевості, і збільшує їхню кількість.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8383884803921569
+      }
+    },
+    {
+      "question": "What is the main disadvantage of development with complete metamorphosis?",
+      "context": "Недоліком є те, що для перетворення личинки на дорослу особину потрібно нерухома стадія, яка може бути вразливою для хижаків.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8389274691358024
+      }
+    },
+    {
+      "question": "What is the difference between development with and without metamorphosis?",
+      "context": "Development with metamorphosis: яйце — лялечка — доросла комаха. Development without metamorphosis: яйце — личинка — доросла комаха.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8743055555555556
+      }
+    },
+    {
+      "question": "What is the purpose of metamorphosis in insect development?",
+      "context": "розвіток з повним і неповним перетворенням має свої переваги й недоліки.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8163930976430976
+      }
+    },
+    {
+      "question": "What is the main food source of комахи (insects)?",
+      "context": "Рівнокрилі мають сисні ротові/orgани й живються соками рослин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8260030864197531
+      }
+    },
+    {
+      "question": "What is the purpose of бабки (adult butterflies) in regulating the population of комахи?",
+      "context": "Бабки є регуляторами чисельності комах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8600983796296297
+      }
+    },
+    {
+      "question": "What is a unique characteristic of Цикада гірська (mountain cicada) that allows it to make noise?",
+      "context": "Цикада гірська «співає» вдень за ясної погоди",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.9101717509920635
+      }
+    },
+    {
+      "question": "What is the method of controlling шкідники (pests) like Капустянка (caterpillar) using комахи?",
+      "context": "Природним ворогом попелиці є хижий жук сонечко. Цю комаху на-вмисно розводять і випускають на поля та сади.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8799333836098542
+      }
+    },
+    {
+      "question": "What do popelichnyk insects feed on?",
+      "context": "Вони ведуть нічний спосіб життя, жив-ся рештками їжі, сміттям тощо.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9061921296296296
+      }
+    },
+    {
+      "question": "What is a termit's life cycle?",
+      "context": "Серед термітів існує поділ на касти: є солдати, робочі особи-ни, самці та самка (цариця) (мал. 12.8).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8366247106481481
+      }
+    },
+    {
+      "question": "What is the main characteristic of a wasp?",
+      "context": "Воша головна",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8018663194444444
+      }
+    },
+    {
+      "question": "What is the significance of the moth's life cycle?",
+      "context": "Шовковичний шовкопряд (мал. 13.1) є свійською твариною, одомашненою майже дві тисячі роки тому.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8196614583333334
+      }
+    },
+    {
+      "question": "How do two-winged flies fly?",
+      "context": "Ці комахи літають за допомогою передньої пари крил, а zadня пара в них зменшилася й перетворилася на дзижчальця (органи рівноваги).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9535590277777778
+      }
+    },
+    {
+      "question": "When did the practice of getting a natural hook start?",
+      "context": "й отримувати натуральний шовк. Уперше це почали робити в Стародавньому Китаї.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9093118686868686
+      }
+    },
+    {
+      "question": "What is unique about the flight of two-winged insects?",
+      "context": "Ці комахи літають за допомогою передньої пари крил, а задня пара в них зменшилася й перетворилася на дзижчальця (органи рівноваги).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8205632716049382
+      }
+    },
+    {
+      "question": "What is a common food source for certain types of flies?",
+      "context": "Самці комарів живляться нектаром або соками рослин, а самки багатьох видів є кровососами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8648018648018648
+      }
+    },
+    {
+      "question": "What is a unique feature of certain types of flies?",
+      "context": "Мухи (мал. 13.3) мають лижучий ротовий апарат.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8455412257495591
+      }
+    },
+    {
+      "question": "What is a common food source for cockroaches?",
+      "context": "Її червоподібні личинки живляться гNILами рештками.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8723234953703703
+      }
+    },
+    {
+      "question": "What is a unique feature of certain types of flies?",
+      "context": "Мухи цеце переносять збудника співу хвороби — найпростішу тварину трипаносому.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8454668209876544
+      }
+    },
+    {
+      "question": "What is a common food source for certain types of flies?",
+      "context": "Личинки цибулинної та капустяної мух пошкоджують корені та стебла рослин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8752630471380471
+      }
+    },
+    {
+      "question": "What is a unique feature of certain types of flies?",
+      "context": "Дуже шкодять тваринництву ґедзі й оводи.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8432677469135803
+      }
+    },
+    {
+      "question": "When did the practice of getting a natural hook start?",
+      "context": "й отримувати натуральний шовк. Уперше це почали робити в Стародавньому Китаї.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9093118686868686
+      }
+    },
+    {
+      "question": "What is unique about the flight of certain insects?",
+      "context": "Ці комахи літають за допомогою передньої пари крил, а задня пара в них зменшилася й перетворилася на дзижчальця (органи рівноваги).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8190200617283951
+      }
+    },
+    {
+      "question": "What is a common food source for certain types of flies?",
+      "context": "Самці комарів живляться нектаром або соками рослин, а самки багатьох видів є кровососами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8648018648018648
+      }
+    },
+    {
+      "question": "What is a unique feature of certain types of flies?",
+      "context": "Мухи цеце переносять збудника співу хвороби — найпростішу тварину трипаносому.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8454668209876544
+      }
+    },
+    {
+      "question": "What is a common feature of certain types of flies?",
+      "context": "Личинки цибулинної та капустяної мух пошкоджують корені та стебла рослин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557098765432098
+      }
+    },
+    {
+      "question": "What is a unique feature of certain types of flies?",
+      "context": "Дуже шкодять тваринництву ґедзі й оводи.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8432677469135803
+      }
+    },
+    {
+      "question": "What is the main characteristic of the hard exoskeleton of these insects?",
+      "context": "Головную особливість цих комах є тверді та міцні надкрила, що захищають другу пару м’яких і складених крил",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8395424836601307
+      }
+    },
+    {
+      "question": "What is the role of scorpions in controlling the number of pests?",
+      "context": "Хижі жуки контролюють чисельність багатьох шкідників.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8522569444444444
+      }
+    },
+    {
+      "question": "What is unique about the behavior of social insects like bees and ants?",
+      "context": "У багатьох видів самки мають довгий яйцеклад, який може ви­конувати функцію жала, як-от в оси, бджоли, джмеля.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8707657742584214
+      }
+    },
+    {
+      "question": "Why is the domestic bee considered a unique species?",
+      "context": "Домашня бджола є свійською твариною",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8837577160493827
+      }
+    },
+    {
+      "question": "What is the main purpose of honeybees?",
+      "context": "Домашня бджола (мал. 13.7) є своя твариїна, яку людина роз-54",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7766369047619048
+      }
+    },
+    {
+      "question": "What is the primary way that mollusks reproduce?",
+      "context": "Розмножються молюски статевим способом.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8576388888888888
+      }
+    },
+    {
+      "question": "What is the purpose of the external shell in mollusks?",
+      "context": "Черепашка в більшості значно редукована й розміщується під шкірою або ヴалій відсутня.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8186728395061729
+      }
+    },
+    {
+      "question": "What is the significance of the shell in ancient China, Tibet, and Thailand?",
+      "context": "Черепашки каурі правили за монети в Стародавньому Китаї, Тибеті, Таїланді, тощо",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8639914772727273
+      }
+    },
+    {
+      "question": "What is the purpose of the foot-like structures in some mollusks?",
+      "context": "Тільки наутилуси (мал. 14.4) зберегли дуже гарну зовнішню черепашку.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8401813271604939
+      }
+    },
+    {
+      "question": "What is the significance of the shell in ancient China, Tibet, and Thailand?",
+      "context": "Корабельний черв’як тередо — це молюск, схожий на черв ‘яка. Стулки його черепашки подібні до свердла.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8538411458333333
+      }
+    },
+    {
+      "question": "What is the purpose of the shell in some mollusks?",
+      "context": "Деякі двостулкові молюски, на- приклад гребінці, можуть розвивати досить значну швидкість, використовуючи реактивний спосіб руху.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8277777777777777
+      }
+    },
+    {
+      "question": "What is the significance of the shell in ancient China, Tibet, and Thailand?",
+      "context": "Кальмари зовні схожі на ракету. Деякі з них здіймаються у повітря і якусь відстань летять над водою.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8550602532679739
+      }
+    },
+    {
+      "question": "What is the main source of perlin and perlmutter?",
+      "context": "Двостулкові",
+      "difficulty": "factual",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8331404320987654
+      }
+    },
+    {
+      "question": "Why are some mollusks considered important in controlling water numbers?",
+      "context": "Очищують воду у водоймах",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9545138888888889
+      }
+    },
+    {
+      "question": "What is the main advantage of endoparasites over ectoparasites?",
+      "context": "Ендопаразитам доводиться проникати всередину органіzm-хазяїна. Це не так легко. До того ж набагато важче шукати нових хазяїв. Але є й відчутні переваги. Середовище всередині хазяїна стале, немає суттєвих коливань температури.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8318865740740741
+      }
+    },
+    {
+      "question": "What is the main disadvantage of ectoparasites compared to endoparasites?",
+      "context": "Ектопаразитам значно легше змінювати хазяїна: слід лише дочекатися, поки поряд із ним з'явиться ще одна особина this виду. Але й хазяїну легше боротися з такими паразитами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8456597222222222
+      }
+    },
+    {
+      "question": "What is the primary purpose of special features in a parasite's body?",
+      "context": "Особливості розмноження та розвитку. • Гермафродитизм. У тілі хазяїна іноді неможливо зустріти особину іншої статі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.854542824074074
+      }
+    },
+    {
+      "question": "Why do parasites need to spend time on fresh air after hatching?",
+      "context": "Розвиток ли-чинки у яйці. Яйця у фекаліях. Мал. 15.2. Життєвий цикл аскариди.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9734190867003367
+      }
+    },
+    {
+      "question": "What is the significance of the high reproductive rate and complex development cycles of parasites?",
+      "context": "Висока плодючість і складні цикли розвитку. У яєць або ли-чинок дуже малий шанс потрапити в тіло хазяїна, а ці два фактори збільшують їх.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8766664344109997
+      }
+    },
+    {
+      "question": "How do parasites adapt to different environments?",
+      "context": "Стійкість яєць до впливу хімічних і фізичних факторів. Яйця зазнають впливу несприятливих факторів як у тілі хазяїна, так і в зовнішньому середовищі.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9547867063492064
+      }
+    },
+    {
+      "question": "What is Ascarida?",
+      "context": "Паразитїв можна знайти в будь-якій групі живих організмів. Вони є і серед червів (аскариди),",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7316054894179894
+      }
+    },
+    {
+      "question": "What is the purpose of Ascarida in humans?",
+      "context": "Використовуються в медичних цілях (лікування алергії).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8025896990740741
+      }
+    },
+    {
+      "question": "Why are gelsminths a threat to humans?",
+      "context": "Паразитичні черви є небезпечними для людини паразитичними тваринами, що спричиняють серйозні захворювання — гельмінтози.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9410962301587301
+      }
+    },
+    {
+      "question": "What is the range of sizes for helminths?",
+      "context": "Розміри тіла гельмінтів дуже різні. Найменші досягають довжини всього кілька міліметрів, а от найбільші буvaleмося до кількох метрів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8188175154320988
+      }
+    },
+    {
+      "question": "How do parasite worms reproduce?",
+      "context": "добре розвинена статева система дозволяє мати Великезну кількість нащадків. Складні цикли розвитку дають змогу паразитам проникати в тіла хазяїв, яких може бути декілька, й успішно розселятися.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9622195512820513
+      }
+    },
+    {
+      "question": "What is the main characteristic of strobilaceous worms?",
+      "context": "Їхнє тіло, вкрите кутикулою, складається із члеників, яких може бути понад 1000. Дорослий черв’як нагадує живий конвеєр: постійно утворюються нові членики, а зрілі, заповнені яйцями, виводяться назовні з фекаліями.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8122605363984674
+      }
+    },
+    {
+      "question": "What is a notable example of a parasitic roundworm?",
+      "context": "Серед круглих червів є такі паразити людині, як гострики, трихінели, філярії, аскариди.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.843677662037037
+      }
+    },
+    {
+      "question": "What can happen if there are too many Ascaridy in one person's intestines?",
+      "context": "Якщо ці гельмінти будуть надто багато, то це може призвести до розриву кишечника й можливої загибелі людини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9424490950226244
+      }
+    },
+    {
+      "question": "How can a person prevent getting infected with the Rishta disease?",
+      "context": "Для профілактики зараження dostateчно просто кип’ятити воду перед споживанням.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9487584175084175
+      }
+    },
+    {
+      "question": "What is a common way for Guestry to enter the human body?",
+      "context": "А осно́вний спосіб потрапляння гостьрика в організм — через брудні руки під час їди.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8704530423280423
+      }
+    },
+    {
+      "question": "How common is the Ascarida disease worldwide?",
+      "context": "У 1986 р. було зареєстровано 3,5 млн ви-падків цього захворювання у 20 різних країнах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8917315323565324
+      }
+    },
+    {
+      "question": "What is a common type of parasite that infects humans?",
+      "context": "Серед круглих червів є такі пара-зітися людина, як гострики, трихінели, філярії, аскариди.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8658564814814815
+      }
+    },
+    {
+      "question": "What can happen if Ascaridy are not removed from the human body?",
+      "context": "У кишечнику однієї людини може жити кілька аскарид. Якщо ці гельмінти будуть надто багато, то це може призвести до розриву кишечника й можливої загибелі людини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191984953703703
+      }
+    },
+    {
+      "question": "What is the most common type of parasite among humans?",
+      "context": "Паразитичні черви називаються гельмінтами, а наука, що їх вивчає,— гельмінтологією.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8487847222222222
+      }
+    },
+    {
+      "question": "What is the main source of infection for gelleminths?",
+      "context": "Одне з головних джерел зараження — фекальні маси.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.816382137345679
+      }
+    },
+    {
+      "question": "What is the name of the scientific study of parasites?",
+      "context": "Паразитські черви називаються гельмінтами, а наука, що їх вивчає,— гельмінтологією.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8182725694444444
+      }
+    },
+    {
+      "question": "What is the main way that humans can transmit diseases through parasites?",
+      "context": "Паразитичні павукоподібні й комахи, як прави-\nло, мають ротові органи колючо-сисного типу й\nживляться кров’ю.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875868055555556
+      }
+    },
+    {
+      "question": "What is the name of the parasite that can carry multiple diseases?",
+      "context": "Слід зазначити,що такі кліщі є паразитами, хоча вони не живуть усе-\nредині тіла хазяїна. Іксодовий кліщ\n(мал. 17.2) може мати у своїй слині\nодночасно збудників двох або навіть трьох інфекційних захворювань, якими\nлюдина може заразитися даже після одного укусу.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8594040736310473
+      }
+    },
+    {
+      "question": "What is a tick?",
+      "context": "иксодовий кліщ (мал. 17.2) може мати у своїй слині одночасно збудників двох або навіть трьох інфекційних захворювань, якими людиномає заразитися даже після одного укусу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7716290509259259
+      }
+    },
+    {
+      "question": "What is a lice?",
+      "context": "Кліщ коростяний свербун (мал. 17.3), що спричиняє коросту,— це ендопаразит, бо він живе у шкірі людини.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7670355902777778
+      }
+    },
+    {
+      "question": "What is a tick's ability to transmit diseases?",
+      "context": "їхнє тіло здатне розтягуватися і збільшуватися в розмірах, вони можуть довгий час не живитися, їхній ротовий апарат здатний проколоти шкіру (мал. 17.4), очі редуковані або відсутні.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.868739983974359
+      }
+    },
+    {
+      "question": "What is a vector for the transmission of diseases?",
+      "context": "Для попередження захворювань, які переносяться кліщами, у небезпечних регіонах людинам роблять профілактичні щеплення.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8213141025641025
+      }
+    },
+    {
+      "question": "What is a pederma?",
+      "context": "Яйця вošей, які вони прикріплюють на волосьо або одяг, називають гнидами.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7636521464646464
+      }
+    },
+    {
+      "question": "What is a flea?",
+      "context": "Воші є невеличкими безкрилими комахами. Вони живляться кров’ю людини й можуть переносити збудників хвороб.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7646329365079365
+      }
+    },
+    {
+      "question": "What is pediculosis?",
+      "context": "Зараження вошами називають педикульозом.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7484085648148149
+      }
+    },
+    {
+      "question": "What is pediкульozom?",
+      "context": "Зараження вошами називають педикульозом.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7484085648148149
+      }
+    },
+    {
+      "question": "What are the risks of human lice?",
+      "context": "Людська блоха (мал. 17.6) та де­ Мал. 17.6. Людська блоха — це ектопаразити, що живються кров’ю. Небезпечні вони тим,що possono переносити збудників хвороб.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8347387566137566
+      }
+    },
+    {
+      "question": "What diseases can lice spread?",
+      "context": "Блохи можуть поширювати ще й енцефаліт і туляремію.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8946180555555555
+      }
+    },
+    {
+      "question": "What is the origin of clothing?",
+      "context": "Виявилося, що вид вошей, який живе в одязі (платтяна voша), відокремився від інших вошей приблизно 70 тис. років тому.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7681377923976608
+      }
+    },
+    {
+      "question": "How many species of malaria-carrying mosquitoes can transmit the disease?",
+      "context": "Збудників малярії можуть переносити близько 100 видів малярійних комарів анофелісів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9272569444444444
+      }
+    },
+    {
+      "question": "How many species of fish exist?",
+      "context": "Риби налічують понад 20 тис. видів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9386574074074074
+      }
+    },
+    {
+      "question": "What is the purpose of protecting clean body, hair, and premises from parasites?",
+      "context": "Профілактичні заходи полягають у підтриманні чисто-\nти тіла, волосся, приміщень та громадських місць...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8775373931623931
+      }
+    },
+    {
+      "question": "What is the smallest species of fish?",
+      "context": "Її довжина — від 7 до 11 мм.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7789868551587302
+      }
+    },
+    {
+      "question": "How large can the oselédцевий король (king salmon) grow?",
+      "context": "А найбільшим представником кіст-\nкових риб є оселедцевий король \n(мал. 18.1). вінIDGE до \n17 м зав довжки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.944217501815541
+      }
+    },
+    {
+      "question": "What is the purpose of the anal fin in a fish?",
+      "context": "Анальний плавець не дає рибі надто сильно відхилятися від напрям-\nку руху.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8310474537037037
+      }
+    },
+    {
+      "question": "How do fish reproduce?",
+      "context": "Більшість кісткових риб — роздільностатеві \nорганізми. Запліднення, як правило, зовнішнє, \nвідбувається у воді, куди статеві клітини виво-\nдються через спеціальні протоки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9502521494708995
+      }
+    },
+    {
+      "question": "What is the primary method of reproduction for most fish?",
+      "context": "Більшість кісткових риб — роздільностатеві органіми. Запліднення, як правило, зовнішнє, відбувається у воді, куди статеві клітини виво-дються через спеціальні протоки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8449652777777777
+      }
+    },
+    {
+      "question": "How long does it take for a fertilized egg to develop into a larva?",
+      "context": "У заплідненій ікринці зародокρωσηється від кількох днів до кільких місяців (залежно від виду риби та температурі води).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9649188701923077
+      }
+    },
+    {
+      "question": "What is the purpose of the specific mating behavior in fish?",
+      "context": "Для нересту характерна особлива шлюбна поведінка.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8450810185185185
+      }
+    },
+    {
+      "question": "Why do some fish migrate to different bodies of water?",
+      "context": "Їх називають прохідними. Це такі промислові риби: осетер, кета, горбуша, лосось.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9381944444444444
+      }
+    },
+    {
+      "question": "What is the purpose of the migration pattern in fish?",
+      "context": "Величезні зграї цих риб, рухаючись проти течії, підіймаються у верхів’я річок, де колись вони з’явилися на світ.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8199664124909223
+      }
+    },
+    {
+      "question": "What is the main difference between ossetrovii and other fish groups?",
+      "context": "Осетрові — це невелика за кількісцю група давніх риб, що мають багато спільного з хрящовими рибами.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8687559185606061
+      }
+    },
+    {
+      "question": "What is the significance of ossetrovii fish in commercial fisheries?",
+      "context": "Осетрові риби — осетер (мал. 18.4), бі-луга, стерлядь — є цінними промисло-вими видами.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8328414351851852
+      }
+    },
+    {
+      "question": "What is the purpose of oselедцеподібні in commercial fisheries?",
+      "context": "Оселедцеподібні посідають перше місце в промислі.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8220486111111112
+      }
+    },
+    {
+      "question": "What are oselедцеподібні fish?",
+      "context": "Оселедцеподібні оселедцеподібні посідають перше місце в промислі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8748553240740741
+      }
+    },
+    {
+      "question": "What is the purpose of goldfish in ancient China?",
+      "context": "Близько 5 тис. років тому в Стародавньому Китаї були виведені декоративні акваріумні золоті рибки, предком яких був сріблястий карась.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.828520955165692
+      }
+    },
+    {
+      "question": "What is a characteristic of хрящові риби?",
+      "context": "Хрящові риби є менш чисельною групою тварин, ніж кісткові.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8192791005291005
+      }
+    },
+    {
+      "question": "What is a unique feature of акули?",
+      "context": "Полюють на інші риби, які є більшими від них за розміром.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7975965007215007
+      }
+    },
+    {
+      "question": "What is the size range of sharks?",
+      "context": "Акул їдять інші риби, які є більшими від них за розміром. У тому часі й інші акули. Полюють на них і великі зубаті кіти (напри-клад, кашалоти).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7862619874338624
+      }
+    },
+    {
+      "question": "What is the length of a shark's body?",
+      "context": "Розміри тіла. До хрящових риб належить най-більша риба на Землі — китова акула. Її довжина сягає 20 м.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7994550540123457
+      }
+    },
+    {
+      "question": "What is the smallest shark species?",
+      "context": "Анальний плавець",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8197337962962963
+      }
+    },
+    {
+      "question": "What is the purpose of postponing egg-laying in fish?",
+      "context": "They postpone laying eggs because they consume less energy and organic materials.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8314043209876543
+      }
+    },
+    {
+      "question": "What type of reproduction do some fish have, where the zygote receives nutrients from the mother's body?",
+      "context": "This is called internal fertilization.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9250434027777777
+      }
+    },
+    {
+      "question": "Why are electric eels considered the most dangerous to humans?",
+      "context": "They can deliver a powerful electric shock, and have been known to attack humans in boats and even on land.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.95015533625731
+      }
+    },
+    {
+      "question": "What is unique about the organs of some catfish that can produce electricity?",
+      "context": "These organs are able to generate electric discharges, which they use to hunt and defend themselves.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8804309116809117
+      }
+    },
+    {
+      "question": "What do all aulacosteids (sharks with cartilaginous skeletons) have in common?",
+      "context": "They all live in salty water, but some can also survive in freshwater for short periods.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9411195286195286
+      }
+    },
+    {
+      "question": "What distinguishes the organs of skates from those of other fish?",
+      "context": "Their skin is smooth and lacks scales, and their jaws are not mouth-like but rather have sharp teeth for crushing crustaceans.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8927083333333333
+      }
+    },
+    {
+      "question": "What type of shark can grow up to 7 meters in length?",
+      "context": "The manta is a species of ray that can be found in deeper waters and feeds on plankton and small fish.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.9246238425925926
+      }
+    },
+    {
+      "question": "What is the name given to the growths on the heads of some sharks?",
+      "context": "These growths are thought to be made of cartilage, similar to the rest of their skeleton.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8773561507936508
+      }
+    },
+    {
+      "question": "What is the main difference in teeth shape between a catfish and a shark?",
+      "context": "They have an okroundled head, no mouthparts, bare skin, zyabrovych slitni are located on back. On distinction from aukil, the teeth of the catfish are blunt, since they need to break shells of mollusks and pansies of crustaceans.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8876368856837606
+      }
+    },
+    {
+      "question": "What is the name given to mantas due to their unique head growth?",
+      "context": "They are called \"sea devil\" because of their head growths, which look like horns.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8974867724867724
+      }
+    },
+    {
+      "question": "What is the largest land-dwelling amphibian?",
+      "context": "Найбільшим представником сучасних земноводних вважають китайську велетенську саламандру. Довжина її тіла може сягати 180 см, а вага — 70 кг.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136863425925926
+      }
+    },
+    {
+      "question": "What is the purpose of the skin and mucus on amphibians?",
+      "context": "Шкіра гола, вкрита слизм, який захищає її від мікроорганізмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.848707561728395
+      }
+    },
+    {
+      "question": "How do amphibians breathe?",
+      "context": "Слуховий отвір",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.96484375
+      }
+    },
+    {
+      "question": "What is the primary source of food for young frogs?",
+      "context": "Останнім зникає хвіст, і молода жаба починають живитися тваринною їжею.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "What is the main difference between the skin of frogs and other amphibians?",
+      "context": "іхня шкіра грубіша й містить більше залоз (мал. 20.3).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.859326774691358
+      }
+    },
+    {
+      "question": "What is unique about the way Quaker crickets move?",
+      "context": "Квакші — дрібні деревні жаби, які живуть на різних континентах. вони вправно лазять по деревах, бо мають спеціальні присоски на кінчиках пальців.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.855406746031746
+      }
+    },
+    {
+      "question": "What is the main characteristic that distinguishes reptiles from other animals?",
+      "context": "Земноводні — це хребетні тварини, що займають про-\nміжне положення між рибами та наземними хребет-\nними організмами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8704136957813429
+      }
+    },
+    {
+      "question": "Why do some reptiles have special features for catching prey?",
+      "context": "Більшість плазунів — жителі теплих країн. Особливо багато їх у тропіках.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.953945707070707
+      }
+    },
+    {
+      "question": "What is the main way that reptiles hunt for food?",
+      "context": "На плазунів можуть полювати птахи, ссавці та інші плазуни.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8561728395061728
+      }
+    },
+    {
+      "question": "Why are some reptiles able to fly?",
+      "context": "Мал. 21.2. Летючий дракон — ящірка, яка \nможе здійснювати планеруючий політ",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9608134920634921
+      }
+    },
+    {
+      "question": "Летючий дракон — ящірка, яка \nможе здійснювати планеруючий політ",
+      "context": "Хвostatі\nХвостаті — це нечисленна група земноводних, до яких належать \nсаламандри та тритони (мал. 20.4).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.9790509259259259
+      }
+    },
+    {
+      "question": "What do most reptiles eat?",
+      "context": "Більшість рептилій — це хижаки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8638888888888889
+      }
+    },
+    {
+      "question": "Can birds, mammals, and other reptiles hunt plazunis?",
+      "context": "Птахів, ссавців та інших плазунів можна полювати.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9768105158730158
+      }
+    },
+    {
+      "question": "What do crocodiles cry about?",
+      "context": "'Крокодилові сльози'",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9003472222222222
+      }
+    },
+    {
+      "question": "Why do reptiles cry?",
+      "context": "Ці рептилії справді плячуть, коли їдять своїх жертв.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.95703125
+      }
+    },
+    {
+      "question": "What is a characteristic of the ottrujny (non-venomous) snakes in Ukraine?",
+      "context": "Представники неотруйних змій",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.852114898989899
+      }
+    },
+    {
+      "question": "How much can the Slough Viper weigh?",
+      "context": "Супові, або зелених, черепах масою до 450 кг",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9351438492063492
+      }
+    },
+    {
+      "question": "What is a unique feature of penguins' wings in the evolution process?",
+      "context": "іх передні кінцівки в процесі еволюції перетворилися на крила.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8448591820987654
+      }
+    },
+    {
+      "question": "What do most birds mainly feed on?",
+      "context": "Більшість птахів — хижаки",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8947792658730158
+      }
+    },
+    {
+      "question": "What is the main way penguins hunt other animals?",
+      "context": "А окремі види навіть перейшли на живлен–ня нектаром.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8494646990740741
+      }
+    },
+    {
+      "question": "How do birds move during flight?",
+      "context": "Він міг бути махаючим і ширяючим.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9577546296296297
+      }
+    },
+    {
+      "question": "What is the smallest bird in the world?",
+      "context": "Колібрі-бджілка — найменший у світі птах, який живе на Кубі",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8050099206349206
+      }
+    },
+    {
+      "question": "What is the main function of contour feathers?",
+      "context": "Контурне перо несуть основне наван-tage-ження під час польоту, а пух і пухові пера, які розташовані під ними, слугують для збереження тепла.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8119791666666667
+      }
+    },
+    {
+      "question": "What is the purpose of the undercoat in a bird's feathers?",
+      "context": "Пухові пера мають ознаки контурних і пуху.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8247023809523809
+      }
+    },
+    {
+      "question": "What is the main function of the beak in birds?",
+      "context": "Білкова оболонка (білок)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8296682098765432
+      }
+    },
+    {
+      "question": "Why do penguins have modified wings instead of legs?",
+      "context": "Пінгвіни",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.947337962962963
+      }
+    },
+    {
+      "question": "What is unique about the feathers of ostriches?",
+      "context": "Африканські страуси (мал. 23.3, с. 91)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.810474537037037
+      }
+    },
+    {
+      "question": "How do penguins stay warm in cold temperatures?",
+      "context": "Пінгвіни",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9674479166666666
+      }
+    },
+    {
+      "question": "What is unique about the penguins' ability to withstand low temperatures?",
+      "context": "найбільші серед пінгвінів (150 см заввишки), витримують низькі темпера-turi завдяки шару підшкірного жиру, щільному пір’ю, а ще зігрівають один одного, збиваючись у групі.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8828914141414141
+      }
+    },
+    {
+      "question": "Why do ostriches have long legs and necks?",
+      "context": "Африканські страуси (мал. 23.3, с. 91) — це великі птахи заввишки понад 275 см. Вони мають довгі ноги й шию, що дозволяє їм своєчасно помітити ворога, втекти від нього або прийняти бій.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9575737847222222
+      }
+    },
+    {
+      "question": "What is the purpose of the cupric acid gland in birds?",
+      "context": "недорозвинені, кістки важкі, пір’я не має борідок, куприкова залоза відсутня.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8447916666666666
+      }
+    },
+    {
+      "question": "Why do leopards have unique characteristics?",
+      "context": "Лелекоподібні — це великі птахи з довгою шиєю та довгими ногами, з видовженим дзьобом, схожим на долото.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9420934606481481
+      }
+    },
+    {
+      "question": "What do leopards primarily feed on?",
+      "context": "Живляться лелеки ящірками, зміями, жабами, молюсками, комахами.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9107969576719577
+      }
+    },
+    {
+      "question": "What is unique about the black swallowtail and its behavior?",
+      "context": "Добре відомі чорний лелека (мал. 24.5), який уникає людям, і білий лелека, який гніздиться біля осель і є символом родинного благополуччя.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8669590643274854
+      }
+    },
+    {
+      "question": "What is the significance of leopards in mythology?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8177083333333334
+      }
+    },
+    {
+      "question": "What type of birds are mentioned as being able to see characteristic sounds by clicking their beaks?",
+      "context": "Але вони можуть видавати характерні звуки, клацаючи дзьобом.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9388020833333334
+      }
+    },
+    {
+      "question": "What is unique about the black swallowtail mentioned in the text?",
+      "context": "Добре відомі чорний лелека (мал. 24.5), який уникає люди, і бі-лий лелека, який гніздиться біля осель і є символом родинного благопочуття.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8617507309941521
+      }
+    },
+    {
+      "question": "What is a distinctive feature of the birds in the group of diurnal carnivorous birds?",
+      "context": "Цім птахам властивий гарний зір, який дозволяє відстежувати здобич.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8708748812915479
+      }
+    },
+    {
+      "question": "What are the main groups of birds?",
+      "context": "Горобцеподібні - це найчисленніша група птахів, яка об’єднує до 5 тис. видів, тобто близько половини сучасних птахів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8302550186741363
+      }
+    },
+    {
+      "question": "What is the main difference between penguins and other birds?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8756944444444444
+      }
+    },
+    {
+      "question": "How do birds adapt to different environments?",
+      "context": "Пристосовуючись до певних умов існування, птахи різних груп набувають схожих рис будови.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.962756283068783
+      }
+    },
+    {
+      "question": "What is the purpose of the secretions from a bird's beak?",
+      "context": "Куприкова залоза виділяє секрет, яким птах змащує своє пір’я. Завдяки цьому секрету воно не намокає у воді.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8376633986928105
+      }
+    },
+    {
+      "question": "What is the main purpose of a duck's beak?",
+      "context": "Птахи, що живуть біля водойм (пелікани, чайки, гуси), відзначаються перетинчастими кінцівками, міцним дзьобом, добре розвиненою куприковою залозою.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8179466230936819
+      }
+    },
+    {
+      "question": "What do squirrels use to protect themselves from water?",
+      "context": "Завдяки чому секрету воно не намокає у воді.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9144241898148148
+      }
+    },
+    {
+      "question": "Why are squirrels important for the environment?",
+      "context": "Сойка — один з головних поширювачів дубів. Завдяки її діяльності дубові ліси збільшують свою площу",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9229497354497355
+      }
+    },
+    {
+      "question": "What do different types of birds use to obtain food?",
+      "context": "Птахів можуть бути комахоїдними, як синиці. Загостреними дзьобами вони знімають комах з листків або дістають із шпарин.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8991727941176471
+      }
+    },
+    {
+      "question": "What is the purpose of squirrels in controlling numbers of garden pests?",
+      "context": "Вигодовуючи пташенят, горобці контролюють чисельність садових шкідників",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8623286435786436
+      }
+    },
+    {
+      "question": "What is the role of birds that eat fish in creating a fertilizer?",
+      "context": "Велике значення мають також пта-хів, які живляться рибою. Вони утворюють послід, у якому дуже багато сполук Нітрогену й Фосфору.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.858320681511471
+      }
+    },
+    {
+      "question": "Why are birds important for human life?",
+      "context": "Пташі рятують наші поля та сади від нашесть комах-шкідників і мишоподібних гризунів, прикрашають природу, є об’єктом промислу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9645337301587301
+      }
+    },
+    {
+      "question": "What is the significance of birds in creating a fertilizer?",
+      "context": "Той послід на-копичується в місцях масового гніздування рибоїдних птахів, під впливом бактерій та атмосферного повітря він розкладається й перетворюється на гуано.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8262814153439153
+      }
+    },
+    {
+      "question": "What is the role of humans in protecting birds?",
+      "context": "Кожна людині повинна брати участь в охороні птахів. Під час гніз-",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8277918069584737
+      }
+    },
+    {
+      "question": "What is the importance of protecting birds in Ukraine?",
+      "context": "До Червоної книги України занесено 67 видів птахів (мал. 25.10). Кожна людині повинна брати участь в охороні птахів.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8256172839506173
+      }
+    },
+    {
+      "question": "How much can an indic weigh?",
+      "context": "Індик — другий за розміром домашній птах після страуса. Дорослий індикозі важити до 35 кг",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9747106481481481
+      }
+    },
+    {
+      "question": "What is the main goal of protecting birds?",
+      "context": "Охорона птахів — обов’язок кожного.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.79921875
+      }
+    },
+    {
+      "question": "Why is it important to reduce human noise during bird breeding season?",
+      "context": "В лісі не можна шуміти, руйнувати гнізда, брати до рук яйця і пташенят.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9412281873219374
+      }
+    },
+    {
+      "question": "What do all mammals eat?",
+      "context": "Серед ссавців трапляються і хижа-\nкi, і травоїдні, і споживачі мертвих \nорганізмів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8848958333333333
+      }
+    },
+    {
+      "question": "What is the smallest mammal on Earth?",
+      "context": "Сункус етруський — найменший ссавець на Землі",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8179563492063492
+      }
+    },
+    {
+      "question": "Why do mammals have hair or fur?",
+      "context": "Волосся, або шерсть, слугує\nоздбільшого для збереження тепла, як і пухове пір’я птахів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9621680402930403
+      }
+    },
+    {
+      "question": "What are vibrisas in mammals?",
+      "context": "Довгі волоски на морді, череві, кінцівках ссавців називаються вібрисами,\nвони допомогуть сприймати простір.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8788728632478633
+      }
+    },
+    {
+      "question": "What is the purpose of hair in mammals?",
+      "context": "Волосся, або шерсть, слугує здебільшого для збереження тепла, як і пухове пір’я птахів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8004306891025641
+      }
+    },
+    {
+      "question": "How do mammals give birth to their offspring?",
+      "context": "Вагітність закінчується пологами. При цьому стінки матки скорочуються, і зародок з’являється на світ.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9579326923076923
+      }
+    },
+    {
+      "question": "What is the role of milk in mammalian reproduction?",
+      "context": "Самки вигодовують малят молоком — особливою поживною ріdioю, яка виробляється в їхніх молочних залозах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8255483906525574
+      }
+    },
+    {
+      "question": "What is the characteristic of mammalian parental care?",
+      "context": "Самки ссавців — самовіддані дбайливі батьки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.806568287037037
+      }
+    },
+    {
+      "question": "What do mothers of mammals care for?",
+      "context": "Ще до пологів самки влаштовують лігво або гніздо. після пологів мати вилизує малюків, зігріває їх своїм тім, стежить за чистотою лігва.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8772197420634921
+      }
+    },
+    {
+      "question": "What is unique about the behavior of mammal mothers?",
+      "context": "Самки ссавців — самовіддані дбайливі батьки (мал. 26.7). Описані випадки, коли мати, рятуючи своїх дитинчат, не тільки ризикувала своїм життям й наражалася на серйозну небезпеку, але навіть гинула, проте не залишала їх у біді.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8245475589225589
+      }
+    },
+    {
+      "question": "What do mammals use to feed their offspring?",
+      "context": "Ссавці вигодовують свої малят молоком, що виробляється в їхньому організмі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9114583333333334
+      }
+    },
+    {
+      "question": "What is a characteristic of mammal behavior?",
+      "context": "Характерною рисою ссавців є складна поведінка.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8133680555555556
+      }
+    },
+    {
+      "question": "What is the main difference in how mammals give birth compared to other animals?",
+      "context": "Воно заповзає до сумки, де розташовані sosки, і повисає на одному з них.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8795978327228328
+      }
+    },
+    {
+      "question": "Why do koalas only eat leaves from the eucalyptus tree?",
+      "context": "особельно цікаві коали: вони їдять тільки листя евкаліпта, отруйне для інших тварин",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9430555555555555
+      }
+    },
+    {
+      "question": "What is unique about the way koalas move and support their bodies?",
+      "context": "Серед деревних видів сумчастих добре відомі сумчасті білки, сумчасті соні, сумчасті ведмеді коала.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8901515151515151
+      }
+    },
+    {
+      "question": "What is the primary way that koalas protect themselves from danger?",
+      "context": "Із часом воно переходить на доросле живлення, але ще ховається від небезпеки в сумці матері.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8814604377104377
+      }
+    },
+    {
+      "question": "What do koalas primarily eat?",
+      "context": " particularively ці-каві коали: вони їдять тільки листя евкаліпта, отруйне для інших тварин (мал. 27.5).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8845486111111112
+      }
+    },
+    {
+      "question": "What is unique about the diet of koalas?",
+      "context": "Ок, спираючись на хвіст. передні кінцівки невеликі. Серед деревних видів сумчастих добре відомі сумчасті білки, сумчасті соні, сумчасті ведмеді коала.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8121865354938271
+      }
+    },
+    {
+      "question": "What is distinctive about the head of krotts?",
+      "context": "Кроти живуть у ґрунті, риють там ходи й добувають собі їжу: червів, молюсків і комах. Крoti добре пристосовані до життя під землею.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8120265151515151
+      }
+    },
+    {
+      "question": "What is unique about the head of krotts?",
+      "context": "Їжаки (мал. 27.7) відомі svoєю колючою «шубкою». У разі небезпеки вони не тікають, а згортаються клубком.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8030598958333334
+      }
+    },
+    {
+      "question": "What is the main purpose of the fur of kraits?",
+      "context": "Їх хутро крітів здавна цінується, тому кріт є промисловою твариною.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.80546875
+      }
+    },
+    {
+      "question": "Why are hares not easily caught by cars?",
+      "context": "Їжаки не тікають в разі небезпеки, а згортаються клубком.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.970654899691358
+      }
+    },
+    {
+      "question": "What is unique about the ears of flying squirrels?",
+      "context": "Представники рукокрилих — єдиної ссавці, які здатні літати (мал. 28.1). Їхні крила утворені шкірястими пере-\nтинками, що розташовані між пальця-\nми передніх кінцівок, тулубом, задніми \nкінцевками й хвостом.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8297577711640212
+      }
+    },
+    {
+      "question": "What is the main way that flying squirrels navigate during flight?",
+      "context": "Багато видів рукокрилих здатних до ехолокації. вони видають ультразвуки, \nякі, відбиваючись від перешкоди, по-\nвертаються до тварини.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8799124053030303
+      }
+    },
+    {
+      "question": "What do bats use to navigate when returning to their hibernation site?",
+      "context": "Руко-criлі можуть літати в абсолютній темряві, неershтовхуючись на перепони, хотя зір у них досить слабкий.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9269465488215488
+      }
+    },
+    {
+      "question": "What do rodents have to help them disperse and spread plant species?",
+      "context": "Білки сприяють поширенню рослин",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9460358796296297
+      }
+    },
+    {
+      "question": "Why are waterhogs (bobs) important for the ecosystem?",
+      "context": "Бобри — майстерні будівельники: зво-",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9219184027777778
+      }
+    },
+    {
+      "question": "What is the unique feature of water hogs that allows them to survive in cold and wet conditions?",
+      "context": "Багато водяних гризунів мають цінне хутро, якому не страшні ні мороз, ні волога.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8997395833333334
+      }
+    },
+    {
+      "question": "Why are water hogs considered masters of building?",
+      "context": "Бобри — майстерні будівельники: зво-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9299479166666667
+      }
+    },
+    {
+      "question": "What is the main reason why the grey squirrel takes priority over other rodents in terms of productivity and destructiveness?",
+      "context": "Сірі пацюки посідають сірі пацюків і хатніх мишей",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9033912907268171
+      }
+    },
+    {
+      "question": "How long do the young squirrels stay with their mother before they start eating independently?",
+      "context": "Зайченята живляться самостійно за 18–20 днів",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9585069444444444
+      }
+    },
+    {
+      "question": "What is the main adaptation that allows the pigmy hogs to survive in their environment?",
+      "context": "використовуючи під час приземління то одну, то другу передню кінцівку для пересування",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8967013888888888
+      }
+    },
+    {
+      "question": "What is unique about the teeth of the elephants?",
+      "context": "Ікл немає, арізці добре розвинені. Щоправда, їх не чотири, а цілих шість: чотири у верхній щелепі й два — у нижній",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8018663194444444
+      }
+    },
+    {
+      "question": "What is the main way that the elephants use their trunks?",
+      "context": "Їхній хобот — це видозмінені зрослі ніс і верхня губа. Ним слони обмацують, обнюхувати їжу й кладуть її до рота",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8588541666666667
+      }
+    },
+    {
+      "question": "What are the distinctive features of the skin of elephants?",
+      "context": "У слонів товста, майже позбавлена волосся шкіра.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8564298115079365
+      }
+    },
+    {
+      "question": "Why do some hoofed mammals have a symbiotic relationship with single-celled organisms in their digestive system?",
+      "context": "Перетравлювати клітковину їм допомагають симбіотичні одноклітинні, що живуть у їхній травній системі.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.958984375
+      }
+    },
+    {
+      "question": "What is the main source of food for elephants?",
+      "context": ", обнюхують їжу й кладуть її до рота. Верхні різці в слона пере-творені на величезні бивні, що ростуть протягом усього життя, ними вони зо-рюють ґрунт у пошуках їжі.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8161375661375662
+      }
+    },
+    {
+      "question": "What is unique about the dental structure of hoofed mammals?",
+      "context": "Копитні ссавці — це великі рослиноїдні тварини, пристосовані до швидкого бігу. У процесі еволюції їхніх кін-цівок набули змін, копитні спираються на пальці, які «вдягнені» в роговий chol — копито.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8370306069958848
+      }
+    },
+    {
+      "question": "What is the main reason for the extinction of some hoofed mammal species?",
+      "context": "Носороги живуть в Азії й Африці, шкіра в них майно гола, на голові є один або два роги. Ці роги вважали цілющі, тому носорогів нещадно знищували.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.858292824074074
+      }
+    },
+    {
+      "question": "What is the main characteristic of parah hoofed mammals?",
+      "context": "Це переважно наземні тварини, які zdатні до швидкого бігу. Дикий кабан є родоначальником свійської свині.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8221836419753087
+      }
+    },
+    {
+      "question": "What is the main adaptation of parah hoofed mammals?",
+      "context": "Більшість парнокопитних, до яких належать корови, олені, антилопи, зу-бри (мал. 29.3), лосі (мал. 29.4), козли, барани, жирафи, мають складний шлунок і називаються жуйними.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8297383557800224
+      }
+    },
+    {
+      "question": "What is the unique feature of antelopes?",
+      "context": "Зу-бри (мал. 29.3), лосі (мал. 29.4)...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7855654761904762
+      }
+    },
+    {
+      "question": "What is the main way of life for kitted whales?",
+      "context": "Китоподібні — це досить великі ссавці, які повністю перейшли до водного способу життя.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.831156517094017
+      }
+    },
+    {
+      "question": "What do vusati kiti eat?",
+      "context": "Гігант синій кит є саме вусатим китом. Основна його їжа — це криль, морські рачки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8803240740740741
+      }
+    },
+    {
+      "question": "What is unique about the respiratory system of kitted whales?",
+      "context": "Легені величезні, що дозволяє китові глибоко пірнати й довгий час перебувати під водою.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8450320512820513
+      }
+    },
+    {
+      "question": "What do vusati kiti use to filter food from water?",
+      "context": "Вусаті кити живляться планктоном, фільтруючи воду через так званий китовий вус — особливий роговий утвір.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9252893518518519
+      }
+    },
+    {
+      "question": "What is a distinctive sound made by some kitted whales during breathing?",
+      "context": "Морська свиня при диханні видає звук, схожий на порохкування",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9108314043209876
+      }
+    },
+    {
+      "question": "What do Giant Blue Whales eat?",
+      "context": "Гігант синій кит є саме вусатим китом. Основна його їжа — це криль, морські рачки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.897800925925926
+      }
+    },
+    {
+      "question": "What do Cetaceans use to filter water?",
+      "context": "Вусаті кити живляться планктоном, фільтруючи воду через так званий китовий вус — особливий роговий утвір.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9040839947089947
+      }
+    },
+    {
+      "question": "What do Cetaceans use to breathe?",
+      "context": "Морська свиня при диханні видає звук, схожий на порохкування",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8915895061728395
+      }
+    },
+    {
+      "question": "What is a characteristic of the group of carnivorous animals that includes dogs, wolves, and foxes?",
+      "context": "До групи собачих, або вовчих, нале-\nжать собаки, вовки (мал. 30.1), лисиці \n(мал. 30.2),...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8798700142450142
+      }
+    },
+    {
+      "question": "What is the primary function of a fox's dental structure?",
+      "context": "...я克, наприклад, у ведмедів і борсуків. \nУ хижаків добре розвинені ікла й так \nзвані хижі зуби із сильним ріжучим ...\n",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8384777046783626
+      }
+    },
+    {
+      "question": "What is a notable characteristic of the group of carnivorous animals that includes cats?",
+      "context": "...Група котячі об’єднує найбільш \nграціозних і незалежних хижаків, які ...\n",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8667735042735043
+      }
+    },
+    {
+      "question": "What is a distinctive feature of the group of carnivorous animals that includes bears?",
+      "context": "...Група ведмежі об’єднує великих хи-\nжих тварин, які під час ходьби спи-\nраються на всю стопу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8686815571581197
+      }
+    },
+    {
+      "question": "What is a notable behavior exhibited by the group of carnivorous animals that includes weasels?",
+      "context": "...Кігті в ці хижаків, окрім гепарда, \nвтяжні, що забезпечує їм безшумність.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8838909932659933
+      }
+    },
+    {
+      "question": "What is a notable characteristic of the group of carnivorous animals that includes ferrets?",
+      "context": "...До куницевих належать дрібні хи-\nжаки. У них видовжене в’юнке тільце, ...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8685674857549858
+      }
+    },
+    {
+      "question": "What is the main food source of polar bears?",
+      "context": "Живиться переважно тюленями.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8368055555555556
+      }
+    },
+    {
+      "question": "Why do primates have high-level nervous system development?",
+      "context": "Однією з основних характерних ознак приматів є досить високий рівень розвитку нервової системи.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9666800213675214
+      }
+    },
+    {
+      "question": "Why do primates have forward-facing eyes?",
+      "context": "Очі, як правило, спрямовані вперед, що забезпечує об’ємний зір.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9646990740740741
+      }
+    },
+    {
+      "question": "What is a characteristic of primates that distinguishes them from other animals?",
+      "context": "Однією з основних характерних ознак приматів є досить високий рівень розвитку нервової системи.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.879585113960114
+      }
+    },
+    {
+      "question": "How do great apes, such as gorillas and orangutans, move around?",
+      "context": "По землі вони ходять на задніх кінцівках, зігнувшись і спираючись на передні кінцівки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9642387415824916
+      }
+    },
+    {
+      "question": "What is unique about the way bonobos communicate with each other?",
+      "context": "Окрім того, бонобо — менш агресивні та більш соціальні істоти, хоча вони й не використовують знарядь праці.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8751114081996435
+      }
+    },
+    {
+      "question": "What is a distinctive feature of pavanis that allows them to cover long distances?",
+      "context": "Павіани у пошуках їжі можуть за один день подолати кілька десятків кілометрів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.894448578042328
+      }
+    },
+    {
+      "question": "What is a characteristic that groups of carnivorous mammals share?",
+      "context": "Група хижі об’єднує ссавців, пристосованих до хижецького способу життя.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8649112654320987
+      }
+    },
+    {
+      "question": "What is a notable feature of primates that sets them apart from other animals?",
+      "context": "До групи приматів відносять такі високорозвинених тварин, як людиноподібні мавпи. До них належить також людина.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8991815476190477
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many species of fish exist?",
+      "context": "Риби налічують понад 20 тис. видів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9386574074074074
+      }
+    },
+    {
+      "question": "How do penguins stay warm in cold temperatures?",
+      "context": "Пінгвіни",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9674479166666666
+      }
+    },
+    {
+      "question": "How do amphibians breathe?",
+      "context": "Слуховий отвір",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.96484375
+      }
+    },
+    {
+      "question": "Why are some reptiles able to fly?",
+      "context": "Мал. 21.2. Летючий дракон — ящірка, яка \nможе здійснювати планеруючий політ",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9608134920634921
+      }
+    },
+    {
+      "question": "What is the main difference between penguins and other birds?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8756944444444444
+      }
+    }
+  ]
+}

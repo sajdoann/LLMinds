@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of kindergartens, primary and secondary schools participated in the strike?",
+      "context": "In total, 74% of kindergartens, primary and secondary schools participated in the strike",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "What was the main aim of the trade union strike?",
+      "context": "<a href=\"https://web.archive.org/web/20231204205016/https:/www.ceskenoviny.cz/zpravy/2442475\">promote</a> a higher budget for education",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.798941798941799
+      }
+    },
+    {
+      "question": "Who was the Minister of Agriculture during the government of Bohuslav Sobotka?",
+      "context": "When Marian Jurečka was Minster of Agriculture, Lukáš Jurečka served as his advisor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What position did Lukáš Jurečka hold in the Pooslaví cooperative from 2 February 2010 to 28 June 2021?",
+      "context": "Previously, he was actively involved in the management of the cooperative as a member of the board of directors and later as its vice-chairman.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8299220272904484
+      }
+    },
+    {
+      "question": "What was Lukáš Jurečka's role at the Pooslaví cooperative?",
+      "context": "In the past, for example, half a million subsidies for the cooperative were laundered on the project of demonstration farms, which was a new subsidy project introduced under Marian Jurečka. Minister Jurečka's brother Lukáš Jurečka is the director of the cooperative and in the past he served as a member of the board of directors and later as vice-chairman of the board of directors.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8102928509905254
+      }
+    },
+    {
+      "question": "Why did Petr Fiala visit the Agro School?",
+      "context": "It should be added that Prime Minister Fiala was criticized for visiting the Vysočina region during the union strike <a href=",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8479166666666667
+      }
+    },
+    {
+      "question": "What did Petr Fiala say about his conversation with Minister Jurečka's brother?",
+      "context": "Petr Fiala in an interview verified by us (similar to <a href=",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8819444444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What percentage of kindergartens, primary and secondary schools participated in the strike?",
+      "context": "In total, 74% of kindergartens, primary and secondary schools participated in the strike",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8263888888888888
+      }
+    },
+    {
+      "question": "Why did Petr Fiala visit the Agro School?",
+      "context": "It should be added that Prime Minister Fiala was criticized for visiting the Vysočina region during the union strike <a href=",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8479166666666667
+      }
+    },
+    {
+      "question": "Who was the Minister of Agriculture during the government of Bohuslav Sobotka?",
+      "context": "When Marian Jurečka was Minster of Agriculture, Lukáš Jurečka served as his advisor.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "What did Petr Fiala say about his conversation with Minister Jurečka's brother?",
+      "context": "Petr Fiala in an interview verified by us (similar to <a href=",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8819444444444444
+      }
+    }
+  ]
+}

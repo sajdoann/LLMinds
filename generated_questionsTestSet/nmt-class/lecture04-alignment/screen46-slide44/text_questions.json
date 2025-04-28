@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the EM algorithm designed for?",
+      "context": "That's where the EM algorithm comes in.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7321428571428572
+      }
+    },
+    {
+      "question": "How does one initialize model parameters in the EM algorithm?",
+      "context": "initialize the model parameters some way, in some way, randomly or uniformly.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What happens to the data after improving it with a current bad model?",
+      "context": "you improve your data with the current bad model. That creates some new version of the data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8467548076923077
+      }
+    },
+    {
+      "question": "How does the EM algorithm complete missing data?",
+      "context": "You use this improved model parameters to complete the data and so on.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7475961538461539
+      }
+    },
+    {
+      "question": "What is the outcome of iterating through a better version of the model in the EM algorithm?",
+      "context": "So you iterate because you have now a better version of the model. So let's...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7788461538461539
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the data after improving it with a current bad model?",
+      "context": "you improve your data with the current bad model. That creates some new version of the data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8467548076923077
+      }
+    },
+    {
+      "question": "How does one initialize model parameters in the EM algorithm?",
+      "context": "initialize the model parameters some way, in some way, randomly or uniformly.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "How does the EM algorithm complete missing data?",
+      "context": "You use this improved model parameters to complete the data and so on.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7475961538461539
+      }
+    },
+    {
+      "question": "What is the outcome of iterating through a better version of the model in the EM algorithm?",
+      "context": "So you iterate because you have now a better version of the model. So let's...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7788461538461539
+      }
+    }
+  ]
+}

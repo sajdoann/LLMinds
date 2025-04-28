@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some of the shared tasks used in visually supported translation run?",
+      "context": "This is the summary table again from the survey by Sulubacak.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7230769230769231
+      }
+    },
+    {
+      "question": "What is hierarchical attention among the best approaches used in the task?",
+      "context": "The hierarchical attention is among the best ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7224025974025974
+      }
+    },
+    {
+      "question": "How do parallel attention and imagination work together in the multi-task setup?",
+      "context": "People also use imagination and just theût aprender. And that is another multi-task setup there.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8511904761904763
+      }
+    },
+    {
+      "question": "What is the objective of training the encoder in visually supported translation run?",
+      "context": "The encoder is processing the input text. And it is trained with the objective to produce the target text and produce the target image representation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6973039215686274
+      }
+    },
+    {
+      "question": "What is the need for a dataset that includes input text, image, and output text in visually supported translation run?",
+      "context": "So you need the dataset which has for the training, which has the input text, the image, and the output text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.8041666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the need for a dataset that includes input text, image, and output text in visually supported translation run?",
+      "context": "So you need the dataset which has for the training, which has the input text, the image, and the output text.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.8041666666666667
+      }
+    },
+    {
+      "question": "What is hierarchical attention among the best approaches used in the task?",
+      "context": "The hierarchical attention is among the best ones.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7224025974025974
+      }
+    },
+    {
+      "question": "What is the objective of training the encoder in visually supported translation run?",
+      "context": "The encoder is processing the input text. And it is trained with the objective to produce the target text and produce the target image representation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6973039215686274
+      }
+    },
+    {
+      "question": "How do parallel attention and imagination work together in the multi-task setup?",
+      "context": "People also use imagination and just theût aprender. And that is another multi-task setup there.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8511904761904763
+      }
+    }
+  ]
+}

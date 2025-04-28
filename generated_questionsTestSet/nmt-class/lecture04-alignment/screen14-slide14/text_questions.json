@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to translation quality when proprietary translations that are out of domain are included?",
+      "context": "If we include the proprietary translations which are out of the domain, then the translation quality is a little bit better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7669172932330828
+      }
+    },
+    {
+      "question": "How does including proprietary translations affect sentence structure?",
+      "context": "The sentences are a little bit well formed, a tiny little bit.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.66875
+      }
+    },
+    {
+      "question": "What is the impact of including proprietary translations on vocabulary rate?",
+      "context": "And just the vocabulary rate is reduced to a similar level.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7159090909090909
+      }
+    },
+    {
+      "question": "How does including proprietary translations that are out of domain affect word sequence frequency?",
+      "context": "So maybe the sequences of words are more common.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7291666666666667
+      }
+    },
+    {
+      "question": "What is the overall effect of including proprietary translations on translation quality?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to translation quality when proprietary translations that are out of domain are included?",
+      "context": "If we include the proprietary translations which are out of the domain, then the translation quality is a little bit better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.7669172932330828
+      }
+    },
+    {
+      "question": "How does including proprietary translations that are out of domain affect word sequence frequency?",
+      "context": "So maybe the sequences of words are more common.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.7291666666666667
+      }
+    },
+    {
+      "question": "How does including proprietary translations affect sentence structure?",
+      "context": "The sentences are a little bit well formed, a tiny little bit.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.66875
+      }
+    },
+    {
+      "question": "What is the overall effect of including proprietary translations on translation quality?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7916666666666667
+      }
+    }
+  ]
+}

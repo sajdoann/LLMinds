@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the four possible alignments for the sentence pair 'la mezon the house'?",
+      "context": "And also this is simplified in that we do not consider the null alignment. So we have four different possible alignments for this given sentence pair.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.78125
+      }
+    },
+    {
+      "question": "What is the IBM model one, and how is it calculated?",
+      "context": "And it is defined as the product of the word level the lexical probabilities and the normalization constant. So we ignore the normalization constant here or maybe it comes out to one I'm sure.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7648148148148148
+      }
+    },
+    {
+      "question": "What is the purpose of normalizing probabilities in the IBM model?",
+      "context": "We normalize having observed all the possible alignments calculated their probabilities in IBM model one. We normalize them and we know that this will sum to one",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6541666666666667
+      }
+    },
+    {
+      "question": "What is the effect of normalizing probabilities on the alignment links?",
+      "context": "So when the was linked with la we can consider this with more weight and this was less weight",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6305555555555555
+      }
+    },
+    {
+      "question": "What is the purpose of adjusting assumptions in the model?",
+      "context": "ints here were equally likely but now we have adjusted our assumptions our estimates of that because we already know that there was some previous knowledge there was the model and we we have considered all the alignments and we have calculated the probability of each of these alignments.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6977124183006536
+      }
+    },
+    {
+      "question": "How does the expectation step refine the knowledge?",
+      "context": "the idea here is that you first don't know which words to align to which you allow that all of them align to all of them equally likely but you have some lexical knowledge you apply the model to the data so that is the expectation step and that refines the knowledge you now know that this alignment this interpretation of the sentence is more likely",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8026315789473684
+      }
+    },
+    {
+      "question": "What happens to the weight of words in the maximization step?",
+      "context": "So when the was linked with la we can consider this with more weight and this was less weight less weight and this would not contribute to that at all.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6924242424242424
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of normalizing probabilities in the IBM model?",
+      "context": "We normalize having observed all the possible alignments calculated their probabilities in IBM model one. We normalize them and we know that this will sum to one",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6541666666666667
+      }
+    },
+    {
+      "question": "How does the expectation step refine the knowledge?",
+      "context": "the idea here is that you first don't know which words to align to which you allow that all of them align to all of them equally likely but you have some lexical knowledge you apply the model to the data so that is the expectation step and that refines the knowledge you now know that this alignment this interpretation of the sentence is more likely",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8026315789473684
+      }
+    },
+    {
+      "question": "What are the four possible alignments for the sentence pair 'la mezon the house'?",
+      "context": "And also this is simplified in that we do not consider the null alignment. So we have four different possible alignments for this given sentence pair.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.78125
+      }
+    }
+  ]
+}

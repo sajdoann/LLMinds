@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of evaluation was used for the machine translation systems in 2018?",
+      "context": "The mention of 'result from 2018' and the description of the evaluation process",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7423076923076923
+      }
+    },
+    {
+      "question": "Why were assessors able to mix reference materials among the systems during the evaluation?",
+      "context": "The sentence explaining that the reference was available 'sitting aside'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8963675213675214
+      }
+    },
+    {
+      "question": "What type of translation system performed significantly better than a professional translation in 2018?",
+      "context": "The statement comparing the system's performance to the human professional translation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.8002136752136753
+      }
+    },
+    {
+      "question": "What was unusual about the outcome of the evaluation in 2018?",
+      "context": "The phrase 'that already is suspicious' and its context",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7416666666666667
+      }
+    },
+    {
+      "question": "How did the performance of the Edinburgh machine translation system compare to that of a professional translation?",
+      "context": "The comparison of the systems' quality, specifically the phrase 'on par, indistinguishable'",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8166666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of evaluation was used for the machine translation systems in 2018?",
+      "context": "The mention of 'result from 2018' and the description of the evaluation process",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7423076923076923
+      }
+    },
+    {
+      "question": "Why were assessors able to mix reference materials among the systems during the evaluation?",
+      "context": "The sentence explaining that the reference was available 'sitting aside'",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8963675213675214
+      }
+    },
+    {
+      "question": "What was unusual about the outcome of the evaluation in 2018?",
+      "context": "The phrase 'that already is suspicious' and its context",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7416666666666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What trick was performed by reversing the order of a full stop and a quote mark?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.5666666666666667
+      }
+    },
+    {
+      "question": "Who was given this trick?",
+      "context": "I reversed the order of full stop and quote mark, and then gave him",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "What was the result of reversing the order of a full stop and a quote mark?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    },
+    {
+      "question": "Was the action performed on purpose or by mistake?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6138888888888889
+      }
+    },
+    {
+      "question": "What can be inferred about the speaker's attitude towards performing this trick?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6520833333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the result of reversing the order of a full stop and a quote mark?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8365384615384616
+      }
+    },
+    {
+      "question": "Who was given this trick?",
+      "context": "I reversed the order of full stop and quote mark, and then gave him",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8461538461538461
+      }
+    },
+    {
+      "question": "Was the action performed on purpose or by mistake?",
+      "context": "Yes, I did these tricks.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6138888888888889
+      }
+    }
+  ]
+}

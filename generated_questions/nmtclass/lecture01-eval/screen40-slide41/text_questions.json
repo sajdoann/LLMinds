@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of machine translation system has been used to translate agreements?",
+      "context": "we've used these superhuman machine translation systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9196428571428572
+      }
+    },
+    {
+      "question": "How is a sub-lease agreement presented to a tenant in Prague?",
+      "context": "So this is a sub-lease agreement, something that you could easily be signing if you are living in Prague",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7805555555555556
+      }
+    },
+    {
+      "question": "What happens when a Czech tenant lives somewhere else and wants to translate an English-subleased agreement into Czech?",
+      "context": "And then if you are Czech living somewhere else, you may get the agreement in English and you want to machine translate it into Czech",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4666666666666667,
+        "diversity_score": 0.8511904761904763
+      }
+    },
+    {
+      "question": "What is the purpose of showing a tenant a double-sided sub-lease agreement?",
+      "context": "One side will be in Czech, you don't understand it at all. The other side will be in English, some vague, some maybe bad English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136363636363637
+      }
+    },
+    {
+      "question": "Why should the reader not read the sub-lease agreement as a whole?",
+      "context": "Let's not read this as a whole",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8733766233766234
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of machine translation system has been used to translate agreements?",
+      "context": "we've used these superhuman machine translation systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.9196428571428572
+      }
+    },
+    {
+      "question": "What is the purpose of showing a tenant a double-sided sub-lease agreement?",
+      "context": "One side will be in Czech, you don't understand it at all. The other side will be in English, some vague, some maybe bad English",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136363636363637
+      }
+    },
+    {
+      "question": "How is a sub-lease agreement presented to a tenant in Prague?",
+      "context": "So this is a sub-lease agreement, something that you could easily be signing if you are living in Prague",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7805555555555556
+      }
+    }
+  ]
+}

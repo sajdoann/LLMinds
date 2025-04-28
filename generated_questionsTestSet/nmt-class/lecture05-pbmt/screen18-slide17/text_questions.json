@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the possible ways to expand the initial hypothesis?",
+      "context": "We also translate the second word differently and we also can translate the first word first.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6805555555555556
+      }
+    },
+    {
+      "question": "What is the new translation of the first word 'er' as 'he'?",
+      "context": "the translation of the first word er as he and also the first word now as it",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6695075757575757
+      }
+    },
+    {
+      "question": "How many hypotheses cover different source words and produce different translations?",
+      "context": "So there are three hypotheses that cover different source words and produce different translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.9490384615384615
+      }
+    },
+    {
+      "question": "What is the meaning of 'the first word now' in this context?",
+      "context": "the translation of the first word er as he and also the first word now as it",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6770833333333333
+      }
+    },
+    {
+      "question": "Why are different translations possible?",
+      "context": "We also translate the second word differently and we also can translate the first word first.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many hypotheses cover different source words and produce different translations?",
+      "context": "So there are three hypotheses that cover different source words and produce different translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7272727272727273,
+        "diversity_score": 0.9490384615384615
+      }
+    },
+    {
+      "question": "Why are different translations possible?",
+      "context": "We also translate the second word differently and we also can translate the first word first.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What is the new translation of the first word 'er' as 'he'?",
+      "context": "the translation of the first word er as he and also the first word now as it",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.6695075757575757
+      }
+    },
+    {
+      "question": "What is the meaning of 'the first word now' in this context?",
+      "context": "the translation of the first word er as he and also the first word now as it",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6770833333333333
+      }
+    }
+  ]
+}

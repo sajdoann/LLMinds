@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Is the space of linguistic expressions considered continuous?",
+      "context": "The introduction section, where the author discusses the relationship between neural networks and linguistic spaces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6911057692307692
+      }
+    },
+    {
+      "question": "Did Markus Dreyer and Daniel Marku's experiment involve translating Chinese sentences into English?",
+      "context": "The second paragraph of the document, where the authors describe their experiment with Arabic and Chinese sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7147435897435898
+      }
+    },
+    {
+      "question": "How many possible translations did Markus Dreyer and Daniel Marku's experiment result in?",
+      "context": "The second paragraph of the document, where the authors describe their experiment with Arabic sentences.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7211538461538461
+      }
+    },
+    {
+      "question": "Why are neural networks used to map expressions into a continuous space?",
+      "context": "The first sentence of the document, where the author discusses the relationship between neural networks and linguistic spaces.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What is the author's current understanding about the continuity of linguistic meanings?",
+      "context": "The introduction section, where the author reflects on their own knowledge and questions about linguistic spaces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7795454545454545
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the author's current understanding about the continuity of linguistic meanings?",
+      "context": "The introduction section, where the author reflects on their own knowledge and questions about linguistic spaces.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7795454545454545
+      }
+    },
+    {
+      "question": "Why are neural networks used to map expressions into a continuous space?",
+      "context": "The first sentence of the document, where the author discusses the relationship between neural networks and linguistic spaces.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "Did Markus Dreyer and Daniel Marku's experiment involve translating Chinese sentences into English?",
+      "context": "The second paragraph of the document, where the authors describe their experiment with Arabic and Chinese sentences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3076923076923077,
+        "diversity_score": 0.7147435897435898
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of having a second person check the corrected sentences?",
+      "context": "And the second person checks whether these corrected sentences, blindly corrected sentences, preserve the meaning.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "How does evaluating the proportion of correctly understood sentences by a first person help in evaluation?",
+      "context": "So that's the, that's the computation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8484375
+      }
+    },
+    {
+      "question": "What is meant by 'blindly corrected sentences'?",
+      "context": "blindly corrected sentences",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How does the evaluation process ensure that the first person's understanding of the system output is accurate?",
+      "context": "And this is a nice way of evaluation.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What is the main advantage of using this method of evaluation?",
+      "context": "Again, it is costly in some way, but it's nice because it easily, it directly tells you the proportion of sentences that were correctly understood by the first person who didn't have access to anything else.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8234848484848485
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of having a second person check the corrected sentences?",
+      "context": "And the second person checks whether these corrected sentences, blindly corrected sentences, preserve the meaning.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "How does evaluating the proportion of correctly understood sentences by a first person help in evaluation?",
+      "context": "So that's the, that's the computation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8484375
+      }
+    },
+    {
+      "question": "How does the evaluation process ensure that the first person's understanding of the system output is accurate?",
+      "context": "And this is a nice way of evaluation.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8375
+      }
+    }
+  ]
+}

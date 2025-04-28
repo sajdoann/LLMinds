@@ -1,0 +1,908 @@
+{
+  "all_questions": [
+    {
+      "question": "Who is credited with the discovery of cells?",
+      "context": "Роберт Гук — англійський фізик, який працував в Оксфордському університеті. Він удосконалив конструкцію мікроскопа й дослідив з його допомогою різні об’єкти, зокрема кору коркового дуба.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8651644736842106
+      }
+    },
+    {
+      "question": "Who formulated the cell theory in 1839?",
+      "context": "Теодор Шванн (мал. 9.2), порівнюючи клітини рослин і тварин і спираючись на висновки Шлейдена, сформулював клітинну теорію.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9341517857142857
+      }
+    },
+    {
+      "question": "What is the main difference between optical and electron microscopy?",
+      "context": "Існує два основних типи мікроскопії — оптична й електронна (мал. 9.3). В  оптичній мікроскопії  для розглядання структур клітини викорис-\nтовують промені світла, а в  електрон­\nній  — пучки електронів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8706983805668016
+      }
+    },
+    {
+      "question": "What is the purpose of centrifugation in cell research?",
+      "context": "Під час  центрифугування  клітини спочатку руйнують, а потім поміщають у пробірки зі спеціальним розчином і крутять на центрифугах (мал. 9.4).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8348318713450292
+      }
+    },
+    {
+      "question": "What is the main function of cell membranes?",
+      "context": "Найважливішими функціями біологічних мембран є бар’єрна, рецепторна й транспортна.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7953216374269005
+      }
+    },
+    {
+      "question": "What is the structure of cell membranes?",
+      "context": "Клітинні мембрани — це структури, які оточують клітину й формують усередині неї ряд органел. Це так звані мембранні органи – ядро, мітохондрії, вакуолі тощо.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7979731938542007
+      }
+    },
+    {
+      "question": "What is the main function of biological membranes?",
+      "context": "Найважливішими функціями біологічних мембран є бар’єрна, рецепторна й транспортна.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8002558479532164
+      }
+    },
+    {
+      "question": "What is the mechanism of passive transport of substances through biological membranes?",
+      "context": "Шляхом простої дифузії здійснюється тільки пасивний transporte речовин (кисень, вуглекислий газ).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.881578947368421
+      }
+    },
+    {
+      "question": "What is aquaporin?",
+      "context": "Цей білок перекачує йони Na + з клітини, йони K + — у клітину.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7620614035087719
+      }
+    },
+    {
+      "question": "How does active transport work through the cell membrane?",
+      "context": "Використовується енергія молекул АТФ для перенесення йонів Na + з клітини та йонів K + — у клітину.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9321089181286549
+      }
+    },
+    {
+      "question": "What is the main function of citoplasma?",
+      "context": "Цитоплазма являє собою основний вміст клітин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.786967418546366
+      }
+    },
+    {
+      "question": "What are organelli?",
+      "context": "Органели називають структури у складі клітин живих organismyзів, які мають характерну будову й виконують певні функції.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8554002192982456
+      }
+    },
+    {
+      "question": "What is the difference between mембранні organelli and немембранні organelli?",
+      "context": "Мембранні органели відокремлені від інших частин клітини плазматічними мембранами, які їх вкривають. Немембранні органели не мають у своїй структурі плазматичних мембран.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8792763157894736
+      }
+    },
+    {
+      "question": "What is the main function of цитоскелет?",
+      "context": "Цітоскелет це система мікрониток і мікротрубочок, утвореної спеціальними білками.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7825814536340853
+      }
+    },
+    {
+      "question": "What is the main function of цитоплазма?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7913533834586466
+      }
+    },
+    {
+      "question": "What is the function of mikronitki?",
+      "context": "Це система мікрониток й мікrotрубочок утворено спеціальною білкою.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7584978070175439
+      }
+    },
+    {
+      "question": "What type of ribosomes are found in eukaryotic cells?",
+      "context": "У цитоплазмі еукаріотичних клітин розташовані рибосоми еукаріотичного типу.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8680555555555556
+      }
+    },
+    {
+      "question": "What is the purpose of the cytoskeleton?",
+      "context": "Це система мікрониток й мікротрубочок, утво-\nрених спеціальною\nбілкою.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7726608187134503
+      }
+    },
+    {
+      "question": "How do mikrotrubochki and mikronitki contribute to the shape of a cell?",
+      "context": "Мікротрубочки й мікронитки утворюють каркас клітини й за-\nбезпечують підтри-\nмання її форми.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.924890350877193
+      }
+    },
+    {
+      "question": "What is the role of the cytoskeleton in cell division?",
+      "context": "Клітинний центр відіграє важливу роль у поділі клітин тварин та деяких рослин.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8300438596491229
+      }
+    },
+    {
+      "question": "What is the purpose of the chloroplasts in plant cells?",
+      "context": "Наприклад, щоб хлоропласти краще освітлювалися променями сонця.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8406432748538012
+      }
+    },
+    {
+      "question": "What is the main component of all cell structures?",
+      "context": "Цитоплазма становить основу всіх клітин.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8349415204678363
+      }
+    },
+    {
+      "question": "Which type of RNA and protein are found in eukaryotic ribosomes?",
+      "context": "Еукаріотичні рибосоми містять чо­тири типи РНК і близько ста білків.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9136363636363636
+      }
+    },
+    {
+      "question": "What is the main difference between eukaryotic and prokaryotic ribosomes?",
+      "context": "Прокаріотічні — три типи РНК та кількість білків, меншу, ніж в еу-каріотічних рибосомах.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8552631578947368
+      }
+    },
+    {
+      "question": "What are the two main types of membrane-bound organelles?",
+      "context": "Jak ви вже знаєте, органели клітин поділятся на дві великі grupи — мембранні й немембранні.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8590643274853801
+      }
+    },
+    {
+      "question": "What are the characteristics of dual membrane-bound organelles?",
+      "context": "Двомембранними органелами є ядра, мітохондрії та пластиди.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8656015037593985
+      }
+    },
+    {
+      "question": "What are the main types of membranous organelles?",
+      "context": "Різноманітність мембранних органел",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8580043859649122
+      }
+    },
+    {
+      "question": "How do mitochondria and plastids differ from other membranous organelles?",
+      "context": "Двомембранні органели",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9782894736842105
+      }
+    },
+    {
+      "question": "What is the function of mitochondria?",
+      "context": "Внутрішня мембrana мітохондрій утворює вирости — кристи. Така будова мембрани дозволяє розмістити на ній багато білкових комплексів, які здійснюють процеси біологічного окиснення.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7655502392344498
+      }
+    },
+    {
+      "question": "What is the function of plastids?",
+      "context": "Здійснюють про-цес фотосинтезу. Синтезують ряд необхідних для цього процесу білків.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7708333333333333
+      }
+    },
+    {
+      "question": "What is the function of endoplasmic reticulum?",
+      "context": "Орга-нела Особливості будови Функції Гранулярна Агранулярна Агранулярна ендоплазма-тична сітка здійснює синтез ліпідів і деяких полісахаридів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8040413533834586
+      }
+    },
+    {
+      "question": "What is the difference between прокаріотичний and еукаріотичний types of cell organization?",
+      "context": "Усі живі організми, які мають клітинну будову, можна поділити на протокаріотичні (прокаріоти) та еукаріотичні (еукаріоти). до прокаріотів належать бактерії, до еукаріотів — рослини, тварини й гриби.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8648684210526316
+      }
+    },
+    {
+      "question": "What is the characteristic that distinguishes prokaryotic cells from eukaryotic cells?",
+      "context": "Клітини прокаріотичного типу відрізняються від еукаріотичних за відсутністю у їхніх клітинах ядра.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8804824561403509
+      }
+    },
+    {
+      "question": "What is the main difference in the structure of prokaryotic and eukaryotic cells?",
+      "context": "Клітини прокаріотів та еукаріотів відрізняються наявністю чи відсутності в їхній будові певних органел.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8373819163292848
+      }
+    },
+    {
+      "question": "What is unique about the structure of eukaryotic cells compared to prokaryotic cells?",
+      "context": "Еукаріотічні клітини мають склад-ну структуру клітин, який відрізняється від прокаріотичних.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8739372469635627
+      }
+    },
+    {
+      "question": "What is the main function of the cytoplasm in prokaryotic cells?",
+      "context": "Цитоплазма прокаріотів містить рибосоми, та нуклеоїдом (кільцевою молекулою ДНК).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8198099415204678
+      }
+    },
+    {
+      "question": "What is the role of the cytoplasm in eukaryotic cells?",
+      "context": "Внутрішня складова клітини еукаріотів містить структури, які відсутні у прокаріотичних організмах.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8127325890483785
+      }
+    },
+    {
+      "question": "What is the main function of the cytoskeleton in eukaryotic cells?",
+      "context": "Цитоскелет в еукаріотічних клітинах має більш склад­ну будову.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8254934210526316
+      }
+    },
+    {
+      "question": "What is the main difference between the size of prokaryotic and eukaryotic cells?",
+      "context": "Середній розмір клітин прокаріотів — від 0,1 до 10 мкм.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8359649122807018
+      }
+    },
+    {
+      "question": "What is the main function of the cytoplasm in eukaryotic cells?",
+      "context": "Цитоплазма еукаріотичних клітин містить органели, такі як лізосоми та ядро.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8144736842105263
+      }
+    },
+    {
+      "question": "What is the main difference between the size of prokaryotic and eukaryotic cells?",
+      "context": "Середній розмір клітин еукаріотів — близько 50 мкм.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8316885964912281
+      }
+    },
+    {
+      "question": "What is the main function of the cytoskeleton in prokaryotic cells?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8322368421052632
+      }
+    },
+    {
+      "question": "What is the average size of eukaryotic cells?",
+      "context": "Середній розмір клітин еукаріо-\nтів — близько 50 мкм.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8009868421052632
+      }
+    },
+    {
+      "question": "В jakих організмах клітини не містять ядра та мембранних органел?",
+      "context": "Прокаріотичні клітини не містять ядра та мембранних органел.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.9782894736842105
+      }
+    },
+    {
+      "question": "В jakих організмах клітинна стінка є найважливішою?",
+      "context": "У більшості випадків основу стінки становить хітин.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.9868421052631579
+      }
+    },
+    {
+      "question": "What is the function of DNA?",
+      "context": "ДНК",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7741228070175439
+      }
+    },
+    {
+      "question": "What is ATP?",
+      "context": "ATФ",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7763157894736842
+      }
+    },
+    {
+      "question": "Which organelle is marked with number 3 on the diagram?",
+      "context": "гладеньку ендоплазматичну сітку",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.906140350877193
+      }
+    },
+    {
+      "question": "What type of membrane does complex Golgi contain?",
+      "context": "гладеньку ендоплазматичну сітку",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8582785087719298
+      }
+    },
+    {
+      "question": "Which organelle is marked with number 3 on the diagram?",
+      "context": "Гранулярну ендоплазматичну сітку на мал. 3 позначено цифрою:",
+      "difficulty": "easy",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9097039473684211
+      }
+    },
+    {
+      "question": "What is the function of mitochondria?",
+      "context": "мітохондрія",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7730263157894737
+      }
+    },
+    {
+      "question": "Which organelle does not contain ribosomes?",
+      "context": "а) не містить рибосом",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9413377192982456
+      }
+    },
+    {
+      "question": "What type of membrane does a Golgi apparatus contain?",
+      "context": "голجی",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8742690058479532
+      }
+    },
+    {
+      "question": "Which organelle is responsible for transportation?",
+      "context": "війка",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8903508771929824
+      }
+    },
+    {
+      "question": "What type of membrane does a lysosome contain?",
+      "context": "лізосома",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8001644736842105
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis?",
+      "context": "рибосоми",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8834586466165414
+      }
+    },
+    {
+      "question": "What type of membrane does a nucleus contain?",
+      "context": "ядро",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.852796052631579
+      }
+    },
+    {
+      "question": "Which organelle is responsible for DNA storage and replication?",
+      "context": "ядро",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9130116959064327
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    },
+    {
+      "question": "Which organelle is responsible for protein degradation?",
+      "context": "лізосома",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8298872180451128
+      }
+    },
+    {
+      "question": "What type of membrane does a vacuole contain?",
+      "context": "вакуоль",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7927631578947368
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Which organelle is responsible for DNA storage and replication?",
+      "context": "ядро",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9130116959064327
+      }
+    },
+    {
+      "question": "How do mitochondria and plastids differ from other membranous organelles?",
+      "context": "Двомембранні органели",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9782894736842105
+      }
+    },
+    {
+      "question": "Which organelle is marked with number 3 on the diagram?",
+      "context": "гладеньку ендоплазматичну сітку",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.906140350877193
+      }
+    },
+    {
+      "question": "What is the main function of the cytoskeleton in prokaryotic cells?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8322368421052632
+      }
+    },
+    {
+      "question": "What is the main function of цитоплазма?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7913533834586466
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does the sub-word 'incantus veze' translate to in English?",
+      "context": "If the sub-word is for incantus veze, s to English translated would be quid.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8160714285714286
+      }
+    },
+    {
+      "question": "How does the system handle words with multiple meanings?",
+      "context": "There are many words that have more meanings and the system has to identify what is the possible meaning of that word and it decides based on the other words in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "What disambiguates a word's meaning when it appears alone?",
+      "context": "So here, if it sees granti alone, it will translate it as grants.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8813131313131313
+      }
+    },
+    {
+      "question": "How does the system use context to disambiguate words with multiple meanings?",
+      "context": "And if it sees me and this joining mark and then granti, it will know already it should use the word migrants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the effect of support units on the system's ability to disambiguate words?",
+      "context": "So here, yes, there is a new ambiguity. So in the source, the source is always ambiguous.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8427197802197802
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What disambiguates a word's meaning when it appears alone?",
+      "context": "So here, if it sees granti alone, it will translate it as grants.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.8813131313131313
+      }
+    },
+    {
+      "question": "How does the system handle words with multiple meanings?",
+      "context": "There are many words that have more meanings and the system has to identify what is the possible meaning of that word and it decides based on the other words in the sentence.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7916666666666667
+      }
+    },
+    {
+      "question": "How does the system use context to disambiguate words with multiple meanings?",
+      "context": "And if it sees me and this joining mark and then granti, it will know already it should use the word migrants.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ]
+}

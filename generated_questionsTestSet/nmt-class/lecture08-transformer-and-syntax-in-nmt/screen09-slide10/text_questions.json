@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main approach of a transformer model?",
+      "context": "So what is transformer? At the high level, at the highest level, it is very similar to the... it is just an encoder decoder approach again.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7131944444444445
+      }
+    },
+    {
+      "question": "How many layers of encoders and decoders are typically used in a transformer model?",
+      "context": "And the original paper said six is the best number. So it's six layers of encoders and six layers of decoders.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7505952380952381
+      }
+    },
+    {
+      "question": "What happens to the input sequence after processing by the first decoder?",
+      "context": "The first decoder processes it to some intermediate sequence of representation. And then these new words, whatever they encode, are processed by the next decoder and so on.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "How do the decoders in a transformer model refine their predictions?",
+      "context": "And each of these decoders gradually refines the predictions of the previous decoder so the network can produce the final sentence in sequence of gradual refinements whatever it finds appropriate",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7336363636363636
+      }
+    },
+    {
+      "question": "Why is residual connections important in a deep transformer model?",
+      "context": "a network this deep it is often very important that you keep some linear flow of information the network some residual connections so all of these and decoders and decoders can be also skipped",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7504310344827586
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main approach of a transformer model?",
+      "context": "So what is transformer? At the high level, at the highest level, it is very similar to the... it is just an encoder decoder approach again.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7131944444444445
+      }
+    },
+    {
+      "question": "What happens to the input sequence after processing by the first decoder?",
+      "context": "The first decoder processes it to some intermediate sequence of representation. And then these new words, whatever they encode, are processed by the next decoder and so on.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8409090909090909
+      }
+    },
+    {
+      "question": "How many layers of encoders and decoders are typically used in a transformer model?",
+      "context": "And the original paper said six is the best number. So it's six layers of encoders and six layers of decoders.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.7505952380952381
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to partial translations when they are combined with the rule?",
+      "context": "So for these partial translations, no language model score was yet applied.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "Why is it important to apply the rule before scoring partial translations?",
+      "context": "It is only after the rule has been applied and after the rule has put these two items together to form the bigger icon.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8238304093567251
+      }
+    },
+    {
+      "question": "What is a state in the hierarchical model?",
+      "context": "So the states were labeled with the non-terminal and each of the states indicated that from this position to this position there is a valid derivation that covers the whole span and that valid derivation is of type NP.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6706730769230769
+      }
+    },
+    {
+      "question": "What is the purpose of using boxes in bottom-up parsing?",
+      "context": "So these boxes correspond to the grammar rules. The grammar says which of these smaller bits that are on the table should you now take and wrap them in a box.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.682716049382716
+      }
+    },
+    {
+      "question": "What is the purpose of state splitting in the context of language model scoring on boxes?",
+      "context": "So that you can use them in the combination. Now for the purposes of the language model scoring on your box, you must put not only the label of the non-terminal, but you also need to put there the exact words that the hypothesis ended with and started with.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7396616541353384
+      }
+    },
+    {
+      "question": "What is the main difference between state splitting in phrase-based MT and the described method?",
+      "context": "Now it's all bottom up, so we have like two ends of history that needs to be taken care of.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7595238095238095
+      }
+    },
+    {
+      "question": "What is the effect of using state splitting in the system?",
+      "context": "Your search space, all the labels of the boxes that you have on your table are split to contain more information.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6482456140350877
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of state splitting in the context of language model scoring on boxes?",
+      "context": "So that you can use them in the combination. Now for the purposes of the language model scoring on your box, you must put not only the label of the non-terminal, but you also need to put there the exact words that the hypothesis ended with and started with.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7396616541353384
+      }
+    },
+    {
+      "question": "What happens to partial translations when they are combined with the rule?",
+      "context": "So for these partial translations, no language model score was yet applied.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8472222222222222
+      }
+    },
+    {
+      "question": "What is the main difference between state splitting in phrase-based MT and the described method?",
+      "context": "Now it's all bottom up, so we have like two ends of history that needs to be taken care of.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7595238095238095
+      }
+    }
+  ]
+}

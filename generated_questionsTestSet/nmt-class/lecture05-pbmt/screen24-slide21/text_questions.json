@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the name of the well-known NP complete task related to the back optimization problem?",
+      "context": "The introduction of the minimum set cover task",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "How do we map nodes to words in the direction and what is the purpose of this mapping?",
+      "context": "The explanation of the back optimization problem and node-word mapping",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5318627450980392
+      }
+    },
+    {
+      "question": "What is the task of finding the minimum set of sets so that all input nodes are covered, and what is it called?",
+      "context": "The explanation of the back optimization problem and the minimum set cover task",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5711722488038278
+      }
+    },
+    {
+      "question": "How does the reduction relate to machine translation, and what words or phrases are used to represent allowed sets of source words?",
+      "context": "The explanation of how the back optimization problem is related to machine translation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6235119047619048
+      }
+    },
+    {
+      "question": "What is the result of running the magical machine translation system with the conversion method, and what implications does this have for the complexity of machine translation?",
+      "context": "The explanation of how the back optimization problem was solved using machine translation",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6354166666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the name of the well-known NP complete task related to the back optimization problem?",
+      "context": "The introduction of the minimum set cover task",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "What is the task of finding the minimum set of sets so that all input nodes are covered, and what is it called?",
+      "context": "The explanation of the back optimization problem and the minimum set cover task",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.5711722488038278
+      }
+    },
+    {
+      "question": "How do we map nodes to words in the direction and what is the purpose of this mapping?",
+      "context": "The explanation of the back optimization problem and node-word mapping",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.5318627450980392
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main components of a sequence in this factor phrase-based MT system?",
+      "context": "The mapping steps or translation steps",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "How do the generation steps ensure vertical coherence in this schema?",
+      "context": "These generation steps somehow produce new factors from already known target side factors.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8706293706293706
+      }
+    },
+    {
+      "question": "What kind of tagging does the generative model perform on the fly?",
+      "context": "And so here we see case things like dvia can go to feminine noun and dva can go to masculine nominative.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8609625668449198
+      }
+    },
+    {
+      "question": "What is the role of the target side language model in ensuring coherence?",
+      "context": "That's the target side language model that ensures the horizontal coherence as we already know like the coherence in the sequence of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8196271929824561
+      }
+    },
+    {
+      "question": "Can this factor phrase-based MT system be applied to other languages beyond the first one?",
+      "context": "But now this can be applicable not only to the first factor to the word forms, but we could have another language model applied to the morphological tags.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8815217391304347
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the main components of a sequence in this factor phrase-based MT system?",
+      "context": "The mapping steps or translation steps",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7910714285714285
+      }
+    },
+    {
+      "question": "What kind of tagging does the generative model perform on the fly?",
+      "context": "And so here we see case things like dvia can go to feminine noun and dva can go to masculine nominative.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8609625668449198
+      }
+    },
+    {
+      "question": "What is the role of the target side language model in ensuring coherence?",
+      "context": "That's the target side language model that ensures the horizontal coherence as we already know like the coherence in the sequence of words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5555555555555556,
+        "diversity_score": 0.8196271929824561
+      }
+    },
+    {
+      "question": "Can this factor phrase-based MT system be applied to other languages beyond the first one?",
+      "context": "But now this can be applicable not only to the first factor to the word forms, but we could have another language model applied to the morphological tags.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8815217391304347
+      }
+    }
+  ]
+}

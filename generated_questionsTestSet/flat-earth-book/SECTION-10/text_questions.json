@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main cause of tides according to the text?",
+      "context": "As by the action of the[108] atmosphere the Earth is slowly depressed, the water moves towards the receding shores and produces the flood tide; and when by the reaction of the resisting oceanic medium the Earth gradually ascends the waters recede, and the ebb tide is produced. This is the general cause of tides.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8572222222222222
+      }
+    },
+    {
+      "question": "What happens to water at great depths during a storm?",
+      "context": "This motion of the surface of the sea is not perceptible to a great depth. In the strongest[107] gale it is supposed not to extend beyond 72 feet below the surface; and at the depth of 90 feet the sea is perfectly still.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8666666666666667
+      }
+    },
+    {
+      "question": "What causes tides?",
+      "context": "the action or pressure upon it of the atmosphere, and the reaction or resistance to it of the water",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7051282051282051
+      }
+    },
+    {
+      "question": "Why do larger vessels move less rapidly than smaller ones?",
+      "context": "the largest and heaviest will move the least rapidly",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8775
+      }
+    },
+    {
+      "question": "What is the author's inference about the unexplored regions around the North Pole?",
+      "context": "These tides therefore must have been born in that cold sea, having their cradle about the North Pole; and we infer that most, if not all, the unexplored regions about the Pole are covered with deep water; for, were this unexpected area mostly land, or shallow water, it could not give birth to regular tides.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8872727272727272
+      }
+    },
+    {
+      "question": "What is the reason why a musical string's vibrations cannot pass beyond a certain point?",
+      "context": "the vibrations of a musical string can pass with its notes a ‘fret’ upon which the musician has placed his finger.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.8706766917293234
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why do larger vessels move less rapidly than smaller ones?",
+      "context": "the largest and heaviest will move the least rapidly",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8775
+      }
+    },
+    {
+      "question": "What is the author's inference about the unexplored regions around the North Pole?",
+      "context": "These tides therefore must have been born in that cold sea, having their cradle about the North Pole; and we infer that most, if not all, the unexplored regions about the Pole are covered with deep water; for, were this unexpected area mostly land, or shallow water, it could not give birth to regular tides.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8872727272727272
+      }
+    },
+    {
+      "question": "What is the main cause of tides according to the text?",
+      "context": "As by the action of the[108] atmosphere the Earth is slowly depressed, the water moves towards the receding shores and produces the flood tide; and when by the reaction of the resisting oceanic medium the Earth gradually ascends the waters recede, and the ebb tide is produced. This is the general cause of tides.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8572222222222222
+      }
+    }
+  ]
+}

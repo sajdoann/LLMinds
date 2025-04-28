@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'naturally' imply in relation to John?",
+      "context": "So from this sentence pair you learned that naturally John can be translated as naturally John has.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6385416666666667
+      }
+    },
+    {
+      "question": "How do you extend the translation of 'John' using morphological text or part of speech text?",
+      "context": "If you want to extend this and use also the morphological text or part of speech text.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7392156862745098
+      }
+    },
+    {
+      "question": "What is the relationship between 'John' and its translation in a sentence?",
+      "context": "So from this sentence pair you learned that naturally John can be translated as naturally John has.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.58125
+      }
+    },
+    {
+      "question": "Why would you want to extend the translation of 'John' beyond its direct meaning?",
+      "context": "If you want to extend this and use also the morphological text or part of speech text.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7148109243697479
+      }
+    },
+    {
+      "question": "What type of information is provided in the sentence about 'John'?",
+      "context": "So from this sentence pair you learned that naturally John can be translated as naturally John has.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.603030303030303
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'naturally' imply in relation to John?",
+      "context": "So from this sentence pair you learned that naturally John can be translated as naturally John has.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6385416666666667
+      }
+    },
+    {
+      "question": "How do you extend the translation of 'John' using morphological text or part of speech text?",
+      "context": "If you want to extend this and use also the morphological text or part of speech text.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7392156862745098
+      }
+    },
+    {
+      "question": "Why would you want to extend the translation of 'John' beyond its direct meaning?",
+      "context": "If you want to extend this and use also the morphological text or part of speech text.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7148109243697479
+      }
+    }
+  ]
+}

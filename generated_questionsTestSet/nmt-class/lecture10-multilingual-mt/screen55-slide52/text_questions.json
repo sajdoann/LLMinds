@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of using a pivot translation approach for zero-shot translation?",
+      "context": "The Zero-shot translation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5357142857142857
+      }
+    },
+    {
+      "question": "How would one typically train independent systems for two-way translations, and what are the limitations of this approach?",
+      "context": "So one way to do it would be to train independent systems and explicitly go via English, but that is like two steps, so it takes twice the time,",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8237179487179487
+      }
+    },
+    {
+      "question": "What is the key difference between a multilingual system's ability to pivot and the zero-shot translation approach?",
+      "context": "So can we use this model for a Zero-shot training? So we know that the encoders were trained on Spanish, and the decoders were trained on French, but they were never paired together.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7746394230769231
+      }
+    },
+    {
+      "question": "How would one design a zero-shot translation system using a multi-way encoder-decoder model?",
+      "context": "So that is pivoting with a multilingual system. But the Zero-shot is different.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is the benefit of using a single model for multiple language pairs in zero-shot translation?",
+      "context": "So that is the output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5359375
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the benefit of using a single model for multiple language pairs in zero-shot translation?",
+      "context": "So that is the output.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5359375
+      }
+    },
+    {
+      "question": "How would one typically train independent systems for two-way translations, and what are the limitations of this approach?",
+      "context": "So one way to do it would be to train independent systems and explicitly go via English, but that is like two steps, so it takes twice the time,",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8237179487179487
+      }
+    },
+    {
+      "question": "What is the key difference between a multilingual system's ability to pivot and the zero-shot translation approach?",
+      "context": "So can we use this model for a Zero-shot training? So we know that the encoders were trained on Spanish, and the decoders were trained on French, but they were never paired together.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7746394230769231
+      }
+    }
+  ]
+}

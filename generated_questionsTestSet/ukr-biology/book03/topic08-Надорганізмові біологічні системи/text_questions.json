@@ -1,0 +1,666 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main difference between autotrophic and heterotrophic organisms?",
+      "context": "Гетеротрофні організми відминуються потрібними їм органічні речовини з інших organisмів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8694444444444445
+      }
+    },
+    {
+      "question": "What is a biocenosis?",
+      "context": "Біоценози — це не просто сукупність мешканців певної екосистеми. Живі організми, які входять до складу біоcenозу, діють активно між собою та абіотичними компонентами екосистеми.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7584541062801933
+      }
+    },
+    {
+      "question": "What is a bioценоз?",
+      "context": "Біоcenози — це не просто сукупність мешканців певної екосистем-",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7541152263374485
+      }
+    },
+    {
+      "question": "How do organisms in a bioценоз interact with each other and their environment?",
+      "context": "Живі організми, які входять до складу біоценозу, активно взаємодіють між собою й абіотичними компонентами екосистеми.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9562678062678063
+      }
+    },
+    {
+      "question": "What is a biozone?",
+      "context": "У біоценозі można виділити і горизонтальну структуру.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7738095238095238
+      }
+    },
+    {
+      "question": "What are the three main types of ecosystems?",
+      "context": "В умовах нашої планети виділяють три основні групи екосистем — наземні, прісноводні й морські (солоноводні).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8406635802469136
+      }
+    },
+    {
+      "question": "What is the role of autotrophs in an ecosystem?",
+      "context": "Автотрофні організми синтезують ці речовини самостійно, а гетеротрофні отримують різними способами.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7952674897119342
+      }
+    },
+    {
+      "question": "What is the difference between consumers and producers in an ecosystem?",
+      "context": "Продуценти — це автотрофні організми, які продукують органічні речовини. Консументи є гетеротрофними організмами екосистем, яких живлячись іншими живими organise-\nмami.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8423400673400674
+      }
+    },
+    {
+      "question": "What is the role of decomposers in an ecosystem?",
+      "context": "Редуценти — це гетеротрофні організми екосистем, які отримують органічні речовини, живлячись рештками живих організмів або продуктів їхньої життєдіяльності.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7803497942386831
+      }
+    },
+    {
+      "question": "What is a redutant?",
+      "context": "Редуценти — це гетеротрофні організми екосистем, які отримують органічні речовини, живлячись рештками живих organisмів або продуктами їхньої життєдіяльності.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7546296296296297
+      }
+    },
+    {
+      "question": "What is the purpose of redutants in an ecosystem?",
+      "context": "Редуценти перетворюють мертву органіку на прості органічні та неорганічні речовини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7895061728395062
+      }
+    },
+    {
+      "question": "What are the main components of an ecological pyramid?",
+      "context": "екологічна піраміда є графічним відображенням трофічної структури ланцюга живлення",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.838477366255144
+      }
+    },
+    {
+      "question": "What is the purpose of an ecological circle?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8043981481481481
+      }
+    },
+    {
+      "question": "What is a biological optimum?",
+      "context": "Такі умови називають біологічним оптимумом для певного виду організмів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8006172839506173
+      }
+    },
+    {
+      "question": "Why do organisms need to adapt to environmental factors?",
+      "context": "Для того щоб адаптуватися до відповідного середовища існування, живим органі-\nзмам треба виробляти пристосування, щоб запобігти негативному впливу такіх\nфакторів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9857456140350878
+      }
+    },
+    {
+      "question": "What are limiting factors in ecology?",
+      "context": "Фактор, який найбільше впливає на виживання, називають обмежувальним (лімітуючим). Лімітуючими\nфакторами можуть бути температура, тиск, солоність води, хижаки тощо.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.887264457439896
+      }
+    },
+    {
+      "question": "What is the concept of ecological stability?",
+      "context": "Такі умови називають біологічним оптимумом для певного виду організмів.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7786596119929454
+      }
+    },
+    {
+      "question": "What is the limiting factor in an ecosystem?",
+      "context": "Фактор, який найбільше впливає на виживання, називають  обмежувальним (лімітуючим) .",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8013888888888889
+      }
+    },
+    {
+      "question": "What is the name of the process by which an ecosystem restores its balance after a disturbance?",
+      "context": "Така здатність системи відновлювати свій стан після свого порушення називається  саморегуляцією  .",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8892746913580247
+      }
+    },
+    {
+      "question": "What are some of the main forms of interaction between living organisms in an ecosystem?",
+      "context": "Найбільш поширеними формами взаємодії є конкуренція, хижа-цтво, мутуалізм, паразитизм та коменсалізм.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8746392496392497
+      }
+    },
+    {
+      "question": "What is the name of the process by which one organism benefits and another is harmed?",
+      "context": "Кожен з видів живих організмів пов’язаний з багатьма іншими видами. Навіть на прикладі людини можна продемонструвати всі можливі варіанти взаємодії.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8806042884990254
+      }
+    },
+    {
+      "question": "What is commensalism?",
+      "context": "Білінiці є коменсалами, бо використовують будинки для розміщення своїх гнізд.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7324074074074074
+      }
+    },
+    {
+      "question": "What is competition for resources among individuals of the same species?",
+      "context": "Конкуренція зебр i антилоп за траву, якою вони харчуються",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8701833146277591
+      }
+    },
+    {
+      "question": "What type of relationship involves one organism benefiting and another being harmed or unaffected?",
+      "context": "Хижацтво Тип відносин між популяці-нями двох видів організмів (хижака і жертви)",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9261063011063011
+      }
+    },
+    {
+      "question": "What happens when the influence of a factor is too strong?",
+      "context": "Якщо вплив якогось фактора є надто сильним, динамічна рівновага в еко-системі порушується.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8470819304152637
+      }
+    },
+    {
+      "question": "What type of relationship involves one organism providing a resource to another?",
+      "context": "Вовки й зайці, шпаки й комахи, дельфіни й риби",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9092813051146384
+      }
+    },
+    {
+      "question": "What is the main cause of disrupting a balance in an ecosystem?",
+      "context": "цеоміze porušення рівноваги в екосистемі",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8242283950617284
+      }
+    },
+    {
+      "question": "What type of factor can disrupt the balance of an ecosystem?",
+      "context": "абіотичний, біотичний чи антропогenny",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8601851851851852
+      }
+    },
+    {
+      "question": "How are human-made systems different from natural ones?",
+      "context": " Штучні екосистеми часто розглядають як окремий тип екосистем (агроценози). Вони створюються людиною й використовуються нею для господарських цілей",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9768518518518519
+      }
+    },
+    {
+      "question": "What is a characteristic of human-made systems?",
+      "context": "Існувати без підтримки людини такі екосистеми не можуть. вона також постійно вилучає із систем речовини",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8134920634920635
+      }
+    },
+    {
+      "question": "What is the main goal of regulating human-made systems?",
+      "context": "вона також постійно вилучає із sistem речовин",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8305408583186361
+      }
+    },
+    {
+      "question": "Which domain contains the highest number of species?",
+      "context": "Який із цих доменів містить найбільшу кількість видів?",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9074074074074074
+      }
+    },
+    {
+      "question": "What is the biosphere?",
+      "context": "Біосфера — це сукупність усіх біогеоценозів Землі, єдина глобальна екосистема вищого порядку.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.720679012345679
+      }
+    },
+    {
+      "question": "What is the significance of biodiversity?",
+      "context": "Видове різноманіття служить для людини джерелом усіх природних ресурсів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.756687242798354
+      }
+    },
+    {
+      "question": "Why is genetic diversity important for species survival?",
+      "context": "Генетична різноманітність необхідна будь-якому виду для збереження репродуктивної життєздатності, стійкості до захворювань, здатності до адаптації в умовах, що змінюються.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9381430041152263
+      }
+    },
+    {
+      "question": "What is the purpose of the Red Book?",
+      "context": "Червона книга — це затверджений перелік рідкісних видів і таких, що зникають, який містить короткі відомості про їхню біологію, поширення та заходи охорони.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7864619277662757
+      }
+    },
+    {
+      "question": "What is the purpose of nature reserves in Ukraine?",
+      "context": "В Україні є кілька видів природоохоронних територій.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8040858318636097
+      }
+    },
+    {
+      "question": "What is an ecosystem?",
+      "context": "екосистема – сукупність живих організмів, що мешкають у певному середо­вищі існування й утворюють з ним єдине ціле, — це екосистема",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7339181286549707
+      }
+    },
+    {
+      "question": "What type of ecosystem is characterized by the mixing of fresh and saltwater?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What is an example of a terrestrial ecosystem?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136574074074074
+      }
+    },
+    {
+      "question": "What type of organism is the tree's product in a forest ecosystem?",
+      "context": "В екосистемі лісу продуцентом є липа",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8202160493827161
+      }
+    },
+    {
+      "question": "Which insect parasite lives on the bark of coniferous trees like spruce?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9429012345679012
+      }
+    },
+    {
+      "question": "What factor affects the temperature of a mouse living in a forest ecosystem?",
+      "context": "Температура повітря",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8734567901234568
+      }
+    },
+    {
+      "question": "Which predator affects the population size of a specific insect species in a forest ecosystem?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9226190476190477
+      }
+    },
+    {
+      "question": "What is the winter mouse?",
+      "context": "оmor б) миша",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7888888888888889
+      }
+    },
+    {
+      "question": "What type of fungus destroys dead trees of topolia?",
+      "context": "7 Опеньок осінній, який паразитує на деревах сосни, є:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8900462962962963
+      }
+    },
+    {
+      "question": "What is the temperature air for a mouse living in a broadleaf forest?",
+      "context": "9 Абіотичним фактором для миші, що живе в широколистяному лісі, є:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8690375982042648
+      }
+    },
+    {
+      "question": "What is an example of parasitism?",
+      "context": "10 Прикладом хижацтва є взаємодія між:',\n    ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7716049382716049
+      }
+    },
+    {
+      "question": "What is an example of mutualism?",
+      "context": "11 Прикладом мутуалізму є взаємодія між:",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7700617283950617
+      }
+    },
+    {
+      "question": "What is an example of competition?",
+      "context": "12 Прикладом конкуренції є взаємодія між:",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7700617283950617
+      }
+    },
+    {
+      "question": "What are the components of biota?",
+      "context": "13 Напишіть назви компонентів біосфери, до яких належать ука­зані списки об’єктів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7835297418630752
+      }
+    },
+    {
+      "question": "What are the components of lithosphere?",
+      "context": "13 Напишіть назви компонентів біосфери, до яких належать ука­зані списки об’єктів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7835297418630752
+      }
+    },
+    {
+      "question": "What are the components of atmosphere?",
+      "context": "13 Напишіть назви компонентів біосфери, до яких належать ука­зані списки об’єктів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7835297418630752
+      }
+    },
+    {
+      "question": "Why is conservation of natural reserves important?",
+      "context": "15 Охорона природних угруповань є важливою для збереження біосфери.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8794826572604351
+      }
+    },
+    {
+      "question": "What are the rules for preserving the environment?",
+      "context": "16 Сформулюйте й обґрунтуйте правила, яких ви будете дотри-муватися для збереження навколишнього середовища.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8653846153846154
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is an example of a terrestrial ecosystem?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8136574074074074
+      }
+    },
+    {
+      "question": "What type of ecosystem is characterized by the mixing of fresh and saltwater?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How are human-made systems different from natural ones?",
+      "context": " Штучні екосистеми часто розглядають як окремий тип екосистем (агроценози). Вони створюються людиною й використовуються нею для господарських цілей",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9768518518518519
+      }
+    },
+    {
+      "question": "Which insect parasite lives on the bark of coniferous trees like spruce?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9429012345679012
+      }
+    },
+    {
+      "question": "Which predator affects the population size of a specific insect species in a forest ecosystem?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9226190476190477
+      }
+    }
+  ]
+}

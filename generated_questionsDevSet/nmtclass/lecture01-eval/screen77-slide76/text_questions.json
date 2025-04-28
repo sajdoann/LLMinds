@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the outcome of applying a similar tokenization to the reference and MT output in an experiment?",
+      "context": "me a better improvement and then also I applied a similar tokenization to the reference and my MT output",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8088235294117647
+      }
+    },
+    {
+      "question": "What is the main conclusion drawn from this experiment regarding the impact of tokenization on BLEU scores?",
+      "context": "the impression was that complicated methods bring more",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7890625
+      }
+    },
+    {
+      "question": "Why is it emphasized to run the same processing pipeline on outputs when comparing systems?",
+      "context": "You cannot copy numbers from any paper because you don't know what type of tokenization they use and all that.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.887280701754386
+      }
+    },
+    {
+      "question": "What was the specific improvement in BLEU score reported as a result of the experiment?",
+      "context": "So obviously this just highlights that I was very young and stupid and I didn't know that the tokenization absolutely has to match",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7660714285714285
+      }
+    },
+    {
+      "question": "What insight is gained from recognizing that huge jumps in BLEU scores are due to superficial properties?",
+      "context": "And for this reason, it is absolutely critical that when you are comparing your system with other systems, that you get the outputs",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8462885154061625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the outcome of applying a similar tokenization to the reference and MT output in an experiment?",
+      "context": "me a better improvement and then also I applied a similar tokenization to the reference and my MT output",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.8088235294117647
+      }
+    },
+    {
+      "question": "Why is it emphasized to run the same processing pipeline on outputs when comparing systems?",
+      "context": "You cannot copy numbers from any paper because you don't know what type of tokenization they use and all that.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.887280701754386
+      }
+    },
+    {
+      "question": "What is the main conclusion drawn from this experiment regarding the impact of tokenization on BLEU scores?",
+      "context": "the impression was that complicated methods bring more",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7890625
+      }
+    }
+  ]
+}

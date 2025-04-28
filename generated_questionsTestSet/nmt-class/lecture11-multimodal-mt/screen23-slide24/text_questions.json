@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the central component in the project's architecture that serves as a hub for all the different workers?",
+      "context": "This is the architecture that we have in our project.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7794117647058824
+      }
+    },
+    {
+      "question": "How do the clients gather sound data to be subtitle, and what is the next step after that?",
+      "context": "So if we want to subtitle a session, we will start a client of this and the client will gather the sound.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8088235294117647
+      }
+    },
+    {
+      "question": "What types of errors can the current architecture resist, but not all types of errors?",
+      "context": "And this architecture is resilient to some types of errors, but not to all types of errors.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.8056318681318682
+      }
+    },
+    {
+      "question": "What are the independent systems developed at the participating universities and institutes working on?",
+      "context": "These workers are the independent systems developed at the participating universities and institutes. So there are people who work on the speech recognition.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8572115384615384
+      }
+    },
+    {
+      "question": "What is the final step in the presentation pipeline before it reaches the web?",
+      "context": "So there is then the final presentation. And that presentation goes to the web where it is observed or watched by walled the participants.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7916666666666667
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the central component in the project's architecture that serves as a hub for all the different workers?",
+      "context": "This is the architecture that we have in our project.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7794117647058824
+      }
+    },
+    {
+      "question": "How do the clients gather sound data to be subtitle, and what is the next step after that?",
+      "context": "So if we want to subtitle a session, we will start a client of this and the client will gather the sound.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.8088235294117647
+      }
+    },
+    {
+      "question": "What are the independent systems developed at the participating universities and institutes working on?",
+      "context": "These workers are the independent systems developed at the participating universities and institutes. So there are people who work on the speech recognition.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.7,
+        "diversity_score": 0.8572115384615384
+      }
+    }
+  ]
+}

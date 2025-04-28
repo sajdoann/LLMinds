@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "How many translation options does the search space contain?",
+      "context": "This search space, the search of possible hypotheses is pretty big. We have many translation options and we have many translation options for each particle span",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7965277777777777
+      }
+    },
+    {
+      "question": "What are the spans that contribute to the number of hypotheses?",
+      "context": "We have also many spans.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Why is it important to consider partial hypotheses in this search space?",
+      "context": "the number of hypotheses, the partial hypotheses that we should...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What are some factors affecting the number of translation options for each particle span?",
+      "context": "We have many translation options and we have many translation options for each particle span",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7267857142857144
+      }
+    },
+    {
+      "question": "What is the main goal of considering partial hypotheses in this search space?",
+      "context": "(no specific context provided)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692308
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many translation options does the search space contain?",
+      "context": "This search space, the search of possible hypotheses is pretty big. We have many translation options and we have many translation options for each particle span",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7965277777777777
+      }
+    },
+    {
+      "question": "What are some factors affecting the number of translation options for each particle span?",
+      "context": "We have many translation options and we have many translation options for each particle span",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7267857142857144
+      }
+    },
+    {
+      "question": "What are the spans that contribute to the number of hypotheses?",
+      "context": "We have also many spans.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "Why is it important to consider partial hypotheses in this search space?",
+      "context": "the number of hypotheses, the partial hypotheses that we should...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "What is the main goal of considering partial hypotheses in this search space?",
+      "context": "(no specific context provided)",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692308
+      }
+    }
+  ]
+}

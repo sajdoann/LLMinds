@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the baseline model used for translation?",
+      "context": "The first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.53125
+      }
+    },
+    {
+      "question": "How does late averaging help in translation compared to early averaging?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.49242424242424243
+      }
+    },
+    {
+      "question": "What is the effect of using early averaging alone on the translation model?",
+      "context": "The second paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4375
+      }
+    },
+    {
+      "question": "What happens when combining late averaging with the information from source languages?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48958333333333337
+      }
+    },
+    {
+      "question": "Is using a combination of late and early averaging better than using either one alone?",
+      "context": "The last sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7142857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is using a combination of late and early averaging better than using either one alone?",
+      "context": "The last sentence of the first paragraph",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7142857142857143
+      }
+    },
+    {
+      "question": "How does late averaging help in translation compared to early averaging?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.49242424242424243
+      }
+    },
+    {
+      "question": "What happens when combining late averaging with the information from source languages?",
+      "context": "The second paragraph",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48958333333333337
+      }
+    },
+    {
+      "question": "What is the effect of using early averaging alone on the translation model?",
+      "context": "The second paragraph",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4375
+      }
+    }
+  ]
+}

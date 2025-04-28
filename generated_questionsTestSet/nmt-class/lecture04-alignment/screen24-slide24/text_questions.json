@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What was one of the simple ideas tested in Zarbrikan to mine the web for parallel corpora?",
+      "context": "The very simple idea that was tested in one of the theses in Zarbrikan",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8307291666666667
+      }
+    },
+    {
+      "question": "How does the tool 'Bitexter' work to obtain parallel texts?",
+      "context": "So that's something that I can highly recommend.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.809375
+      }
+    },
+    {
+      "question": "Why did people move away from using search engines as a way to get seed URLs for parallel corpora?",
+      "context": "It turned out in our experiments that actually getting the seed URLs is the problem.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.8759398496240601
+      }
+    },
+    {
+      "question": "What are quasi comparable or comparable corpora, and how can they be used for machine translation?",
+      "context": "So these are texts on the same topic and but they are written independently of each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8703125
+      }
+    },
+    {
+      "question": "What is 'lightly supervised training', and how does it relate to unsupervised training and machine translation?",
+      "context": "This is a workshop on building and using comparable corpora, And the method that I would like to highlight here is called lightly supervised training.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8539855072463768
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was one of the simple ideas tested in Zarbrikan to mine the web for parallel corpora?",
+      "context": "The very simple idea that was tested in one of the theses in Zarbrikan",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8307291666666667
+      }
+    },
+    {
+      "question": "What are quasi comparable or comparable corpora, and how can they be used for machine translation?",
+      "context": "So these are texts on the same topic and but they are written independently of each other.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8703125
+      }
+    },
+    {
+      "question": "How does the tool 'Bitexter' work to obtain parallel texts?",
+      "context": "So that's something that I can highly recommend.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.809375
+      }
+    }
+  ]
+}

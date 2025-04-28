@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What were the main differences between the two papers?",
+      "context": "The introduction of the FastEx paper",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.596875
+      }
+    },
+    {
+      "question": "Why did the authors of one paper choose not to release their code?",
+      "context": "The introduction of the current paper",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.5634615384615385
+      }
+    },
+    {
+      "question": "What is the significance of the FastEx paper having 3,000 citations?",
+      "context": "The comparison with the current paper",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.575
+      }
+    },
+    {
+      "question": "How does one paper's code and implementation relate to spreading an idea in publications?",
+      "context": "The introduction of the current paper",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6142857142857143
+      }
+    },
+    {
+      "question": "What is the implication of finding the same idea across many publications, according to the FastEx paper?",
+      "context": "The comparison with the FastEx paper",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What were the main differences between the two papers?",
+      "context": "The introduction of the FastEx paper",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.596875
+      }
+    },
+    {
+      "question": "How does one paper's code and implementation relate to spreading an idea in publications?",
+      "context": "The introduction of the current paper",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6142857142857143
+      }
+    },
+    {
+      "question": "Why did the authors of one paper choose not to release their code?",
+      "context": "The introduction of the current paper",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.5634615384615385
+      }
+    },
+    {
+      "question": "What is the implication of finding the same idea across many publications, according to the FastEx paper?",
+      "context": "The comparison with the FastEx paper",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.625
+      }
+    }
+  ]
+}

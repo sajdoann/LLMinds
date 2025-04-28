@@ -1,0 +1,171 @@
+{
+  "all_questions": [
+    {
+      "question": "Kde se nacházejí Starostové pro Liberecký kraj?",
+      "context": "<p>Starostové pro <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.7775974025974026
+      }
+    },
+    {
+      "question": "Kdo byl kandidát TOP 09 v volbách do Poslanecké sněmovny v roce 2013?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5833333333333333
+      }
+    },
+    {
+      "question": "When did the automatic mechanism of growing salaries for politicians and other constitutional figures start?",
+      "context": "Automatický mechanismus růstu těchto platů se stal součástí zákona v lednu <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.8328671328671329
+      }
+    },
+    {
+      "question": "What is the purpose of the Staronový automat?",
+      "context": "Platy poslanců a&amp;dalších ústavních činitelů upravuje <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.775974025974026
+      }
+    },
+    {
+      "question": "Kdy byla first automaticky navázána na průměrnou mzdu v nepodnikatelské sféře?",
+      "context": "Zákon tedy automatický mechanismus obsahoval už před rokem 2015, o котором Vít Rakušan mluví, v některých letech ale využíván was Parliament rozhodl platy zmrazit.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.9709022038567493
+      }
+    },
+    {
+      "question": "Proč byla automatická mechanismus pro výpočet platů zavedena do praxe?",
+      "context": "Parlamentem nakonec prošla novela, která opět navázala platy politiků na průměrnou mzdu v nepodnikatelské sféře, a znovu tak po více než pěti letech zavedla do praxe automatický mechanismus pro výpočet platů.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.9643695014662756
+      }
+    },
+    {
+      "question": "What percentage of the average salary in the non-business sector will be the basis for the politician's salary?",
+      "context": "Bude platová základna politiků od roku 2015 odpovídat <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.843939393939394
+      }
+    },
+    {
+      "question": "What is the effect on the politician's salary basis in 2020?",
+      "context": "<a href=",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5136363636363637
+      }
+    },
+    {
+      "question": "Who presented the implemented plan for emovna-zmrazeni-platu-platu-politiku-navazani-na-prumernou-mzdu.A201112_062129_domaci_kop",
+      "context": "ANO a&nbsp;Pirátů <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.724025974025974
+      }
+    },
+    {
+      "question": "What role did Miroslav Kalousk as the head of the common parliamentary club TOP&nbsp;09 and Starostů play in the dohoda regarding the increase of poslanecky-plat?",
+      "context": "Zároveň zpravodajské servery citovaly tehdejšího předsedu společného poslaneckého klubu TOP&nbsp;09 a&nbsp;Starostů <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.895937395937396
+      }
+    },
+    {
+      "question": "Who is responsible for the automatic mechanism of growing politician salaries?",
+      "context": "<i>„nakonec (…) i&nbsp;ve Sněmovně se všemi kluby“.&nbsp;</i>Tehdejší předseda rozpočtového výboru <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.824724517906336
+      }
+    },
+    {
+      "question": "Was the automatic mechanism of growing politician salaries adopted by the Sněmovna?",
+      "context": "Výslednou podobu novely, která automatický mechanismus znovu zavedla, při hlasování později <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8264462809917356
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was the automatic mechanism of growing politician salaries adopted by the Sněmovna?",
+      "context": "Výslednou podobu novely, která automatický mechanismus znovu zavedla, při hlasování později <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8264462809917356
+      }
+    },
+    {
+      "question": "What role did Miroslav Kalousk as the head of the common parliamentary club TOP&nbsp;09 and Starostů play in the dohoda regarding the increase of poslanecky-plat?",
+      "context": "Zároveň zpravodajské servery citovaly tehdejšího předsedu společného poslaneckého klubu TOP&nbsp;09 a&nbsp;Starostů <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.895937395937396
+      }
+    },
+    {
+      "question": "Who is responsible for the automatic mechanism of growing politician salaries?",
+      "context": "<i>„nakonec (…) i&nbsp;ve Sněmovně se všemi kluby“.&nbsp;</i>Tehdejší předseda rozpočtového výboru <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.824724517906336
+      }
+    }
+  ]
+}

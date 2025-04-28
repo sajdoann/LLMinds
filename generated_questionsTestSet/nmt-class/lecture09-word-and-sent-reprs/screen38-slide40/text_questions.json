@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of representation do the vectors in Satzkever's paper from 2014 plot down in two dimensions?",
+      "context": "If you look at these vectors, and the example from Satzkever's paper from 2014 plots the 8,000-dimensional space down in two dimensions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What is the purpose of plotting the sentences in the lower part of the screen?",
+      "context": "The more important was the message of the sentence. Who is receiving the card?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6704545454545454
+      }
+    },
+    {
+      "question": "How many sentences are plotted in the example from Satzkever's paper from 2014?",
+      "context": "If we look at what these sentences say, then we'll realize that this fixed-size representation reflects the meaning of the sentence in some way",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7771739130434783
+      }
+    },
+    {
+      "question": "What is the main difference between the sentences in the upper and lower parts of the screen?",
+      "context": "So the sentences that are in the lower part of the screen are all similar in that I was giving the card. The sentences in the upper part are similar in that I was receiving the card",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7316729323308271
+      }
+    },
+    {
+      "question": "What aspect of the sentence is considered more important than word order?",
+      "context": "But superficially, if you look at the word order, there are many pairs that go across this. was not too important",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7738095238095238
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of representation do the vectors in Satzkever's paper from 2014 plot down in two dimensions?",
+      "context": "If you look at these vectors, and the example from Satzkever's paper from 2014 plots the 8,000-dimensional space down in two dimensions",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6428571428571429,
+        "diversity_score": 0.7875
+      }
+    },
+    {
+      "question": "What is the main difference between the sentences in the upper and lower parts of the screen?",
+      "context": "So the sentences that are in the lower part of the screen are all similar in that I was giving the card. The sentences in the upper part are similar in that I was receiving the card",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.7316729323308271
+      }
+    },
+    {
+      "question": "What is the purpose of plotting the sentences in the lower part of the screen?",
+      "context": "The more important was the message of the sentence. Who is receiving the card?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.6704545454545454
+      }
+    },
+    {
+      "question": "What aspect of the sentence is considered more important than word order?",
+      "context": "But superficially, if you look at the word order, there are many pairs that go across this. was not too important",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7738095238095238
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the first action mentioned in the document?",
+      "context": "The last part of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48124999999999996
+      }
+    },
+    {
+      "question": "Is there a specific task or action described in the document?",
+      "context": "The entire document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4545454545454546
+      }
+    },
+    {
+      "question": "Can the reader infer any information about what 'You should identify' means?",
+      "context": "The first part of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5916666666666667
+      }
+    },
+    {
+      "question": "What is the general tone or intent behind the document's instructions?",
+      "context": "The entire document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48750000000000004
+      }
+    },
+    {
+      "question": "Is there any specific detail or requirement mentioned in the document that the reader needs to follow?",
+      "context": "The first part of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.55
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there any specific detail or requirement mentioned in the document that the reader needs to follow?",
+      "context": "The first part of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.55
+      }
+    },
+    {
+      "question": "What is the general tone or intent behind the document's instructions?",
+      "context": "The entire document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.48750000000000004
+      }
+    },
+    {
+      "question": "Is there a specific task or action described in the document?",
+      "context": "The entire document",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4545454545454546
+      }
+    },
+    {
+      "question": "Can the reader infer any information about what 'You should identify' means?",
+      "context": "The first part of the document",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.5916666666666667
+      }
+    }
+  ]
+}

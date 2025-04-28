@@ -1,0 +1,182 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the expected outcome of the proposed amendment to the act regulating pension valorization?",
+      "context": "<i>approved by the government within the next week</i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8031968031968032
+      }
+    },
+    {
+      "question": "Who does Marian Jurečka plan to negotiate with regarding the amendment to the act regulating pension valorization?",
+      "context": "I will also negotiate (…) with colleagues from the SPD and also with representatives of trade unions and employers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8096590909090909
+      }
+    },
+    {
+      "question": "When did Minister Jurečka plan to submit fundamental changes to the valorization mechanisms to the government?",
+      "context": "The spokeswoman made the same statement on Monday March 20 for the daily Právo, which published her quote the following day (Právo, March 21, 2023, p. 1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8639404074186683
+      }
+    },
+    {
+      "question": "What did MP Schillerová criticize Minister Jurečka for on her Twitter account?",
+      "context": "“The information that [Minister of Labor and Social Affairs Marian Jurečka] plans to submit fundamental changes to the valorization mechanisms to the government at the beginning of April, effective from July, is absolutely shocking.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8086468129571578
+      }
+    },
+    {
+      "question": "Who was present at the meeting between Minister Jurečka and representatives of the opposition?",
+      "context": "I have started negotiations with representatives of the opposition, in the next few days I will also negotiate (…) with colleagues from the SPD and also with representatives of trade unions and employers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8161421911421911
+      }
+    },
+    {
+      "question": "Who is MP Schillerová and what did she say about Minister Jurečka on Twitter?",
+      "context": "MP Schillerová criticized Minister Jurečka on her Twitter account, where she wrote: “The information that [Minister of Labor and Social Affairs Marian Jurečka] plans to submit fundamental changes to the valorization mechanisms to the government at the beginning of April, effective from July, is absolutely shocking. Especially if the meeting with us, the strongest opposition party, is to take place at the same time. That is a mockery.”",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8180637544273908
+      }
+    },
+    {
+      "question": "What is the Minister of Labor and Social Affairs' stance on the valorization mechanisms?",
+      "context": "Minister Jurečka then announced his intention to discuss with representatives of the opposition, unions and employers repeated even after the government meeting on March 21, at which the cabinet agreed that it wants to slow down the valorization.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8139654463183875
+      }
+    },
+    {
+      "question": "What is the proposed change in pension valuation from what is currently the case?",
+      "context": "According to the ČT24 server, the government coalition wants to count only a third of the growth in real wages into the proper increase in pensions, not half, as is the case now.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8728191000918274
+      }
+    },
+    {
+      "question": "What did Marian Jurečka say about his intention to discuss with representatives of the opposition and social partners?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7373737373737373
+      }
+    },
+    {
+      "question": "What did Marian Jurečka say about his intention to reduce the benefits of early retirement?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7303030303030303
+      }
+    },
+    {
+      "question": "What was announced by Minister Jureček after his meeting?",
+      "context": "After this meeting, he <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8661616161616161
+      }
+    },
+    {
+      "question": "Why did the Czech-Moravian Confederation of Trade Unions criticize Minister Jureček?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7603305785123967
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was announced by Minister Jureček after his meeting?",
+      "context": "After this meeting, he <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8661616161616161
+      }
+    },
+    {
+      "question": "Who was present at the meeting between Minister Jurečka and representatives of the opposition?",
+      "context": "I have started negotiations with representatives of the opposition, in the next few days I will also negotiate (…) with colleagues from the SPD and also with representatives of trade unions and employers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8161421911421911
+      }
+    },
+    {
+      "question": "Who does Marian Jurečka plan to negotiate with regarding the amendment to the act regulating pension valorization?",
+      "context": "I will also negotiate (…) with colleagues from the SPD and also with representatives of trade unions and employers.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8096590909090909
+      }
+    },
+    {
+      "question": "Why did the Czech-Moravian Confederation of Trade Unions criticize Minister Jureček?",
+      "context": "<a href=",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7603305785123967
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'So, uh, with...' indicate?",
+      "context": "The beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Is there a specific topic or subject being discussed in this document?",
+      "context": "The lack of clear content in the provided text",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    },
+    {
+      "question": "Can we identify any main ideas or themes in this document?",
+      "context": "The absence of explicit statements about specific topics",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "Are there any transitions or connections between sentences in the document?",
+      "context": "The informal tone and lack of cohesive language",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7258522727272727
+      }
+    },
+    {
+      "question": "Is this document intended to be a formal or informative piece?",
+      "context": "The use of colloquial expressions and the informal opening sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7815656565656566
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'So, uh, with...' indicate?",
+      "context": "The beginning of the document",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Is this document intended to be a formal or informative piece?",
+      "context": "The use of colloquial expressions and the informal opening sentence",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7815656565656566
+      }
+    },
+    {
+      "question": "Can we identify any main ideas or themes in this document?",
+      "context": "The absence of explicit statements about specific topics",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "Is there a specific topic or subject being discussed in this document?",
+      "context": "The lack of clear content in the provided text",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.734375
+      }
+    }
+  ]
+}

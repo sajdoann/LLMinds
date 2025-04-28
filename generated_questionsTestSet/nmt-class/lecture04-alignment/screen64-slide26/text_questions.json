@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main idea of the trick being described?",
+      "context": "If you want some summarization of the trick, this is the target sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6111111111111112
+      }
+    },
+    {
+      "question": "How do you calculate the sum of all pairs in a graph when each pair is a multiplication of things?",
+      "context": "In one of the calculations you are considering the sum of all pairs, so all the full graph.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.5932539682539683
+      }
+    },
+    {
+      "question": "What kind of mathematical operation is described as regrouping into a product of summations?",
+      "context": "And that full graph, the sum of all the pairs, where each pair is a multiplication of the things",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.703125
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the target sentence and the source sentence?",
+      "context": "If you want some summarization of the trick, this is the target sentence. In one of the calculations you are considering the sum of all pairs, so all the full graph.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6923076923076923
+      }
+    },
+    {
+      "question": "What kind of calculation or operation is being described in the document?",
+      "context": "In one of the calculations you are considering the sum of all pairs, so all the full graph.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.49255952380952384
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main idea of the trick being described?",
+      "context": "If you want some summarization of the trick, this is the target sentence",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6111111111111112
+      }
+    },
+    {
+      "question": "How do you calculate the sum of all pairs in a graph when each pair is a multiplication of things?",
+      "context": "In one of the calculations you are considering the sum of all pairs, so all the full graph.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5333333333333333,
+        "diversity_score": 0.5932539682539683
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the target sentence and the source sentence?",
+      "context": "If you want some summarization of the trick, this is the target sentence. In one of the calculations you are considering the sum of all pairs, so all the full graph.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.6923076923076923
+      }
+    }
+  ]
+}

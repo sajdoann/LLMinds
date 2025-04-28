@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the task of statistical machine translation?",
+      "context": "We have a source sentence in a foreign language, so F1 till Fj.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7135416666666667
+      }
+    },
+    {
+      "question": "How do we search for a target sentence that maximizes the probability of the target sentence given the source?",
+      "context": "And this is the particular sentence that we will Is it? Or takim on the該 shoulder sentiment Boss",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8107843137254902
+      }
+    },
+    {
+      "question": "Can multiple sentences have the same probability of being the target sentence given a source sentence?",
+      "context": "More sentences can have the same probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7940476190476191
+      }
+    },
+    {
+      "question": "What does the term 'argmax' imply about dealing with ambiguity in finding the optimal target sentence?",
+      "context": "So now the question is how do we define this probability, this conditional probability of the target sentences given the source sentences?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8328947368421052
+      }
+    },
+    {
+      "question": "What is the ultimate goal of statistical machine translation?",
+      "context": "We will use it regardless of the source and target languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6830808080808081
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can multiple sentences have the same probability of being the target sentence given a source sentence?",
+      "context": "More sentences can have the same probability.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.7940476190476191
+      }
+    },
+    {
+      "question": "How do we search for a target sentence that maximizes the probability of the target sentence given the source?",
+      "context": "And this is the particular sentence that we will Is it? Or takim on the該 shoulder sentiment Boss",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8107843137254902
+      }
+    },
+    {
+      "question": "What is the ultimate goal of statistical machine translation?",
+      "context": "We will use it regardless of the source and target languages.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.6830808080808081
+      }
+    },
+    {
+      "question": "What does the term 'argmax' imply about dealing with ambiguity in finding the optimal target sentence?",
+      "context": "So now the question is how do we define this probability, this conditional probability of the target sentences given the source sentences?",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.8328947368421052
+      }
+    }
+  ]
+}

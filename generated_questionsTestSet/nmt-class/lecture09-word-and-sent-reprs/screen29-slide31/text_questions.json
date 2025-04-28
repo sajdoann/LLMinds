@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the estimated accuracy of the test set for semantic questions?",
+      "context": "This test set by Tomáš Mikolov had about 8,000 semantic and about 10,000 syntactic or morphosyntactic questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7478693181818181
+      }
+    },
+    {
+      "question": "What type of relations were studied in the original test set?",
+      "context": "So it's only the country and city and country and currency and then the masculine family member going to feminine family member.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6981534090909092
+      }
+    },
+    {
+      "question": "How many distinct word pairs were used in the original test set?",
+      "context": "And actually per question, it's only 35 different, so the network could exploit this regularity in, in some way...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7412280701754386
+      }
+    },
+    {
+      "question": "Why is the original test set considered a risky evaluation?",
+      "context": "...it was just by combining the words together and starting from too small seed.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7535714285714286
+      }
+    },
+    {
+      "question": "What limitations were found in the original test set for syntactic or morphosyntactic questions?",
+      "context": "...we have looked at the test set in some closer detail and we've realized that the semantic questions are only of three types.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7329545454545454
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the estimated accuracy of the test set for semantic questions?",
+      "context": "This test set by Tomáš Mikolov had about 8,000 semantic and about 10,000 syntactic or morphosyntactic questions.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.7478693181818181
+      }
+    },
+    {
+      "question": "What type of relations were studied in the original test set?",
+      "context": "So it's only the country and city and country and currency and then the masculine family member going to feminine family member.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6981534090909092
+      }
+    },
+    {
+      "question": "How many distinct word pairs were used in the original test set?",
+      "context": "And actually per question, it's only 35 different, so the network could exploit this regularity in, in some way...",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7412280701754386
+      }
+    }
+  ]
+}

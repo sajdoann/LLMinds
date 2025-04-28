@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the basic architecture of the encoder-decoder model?",
+      "context": "So here it is in picture. So the encoder, decoder architecture is nothing more complex than two recurrent neural networks attached to each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7443181818181819
+      }
+    },
+    {
+      "question": "How does the decoder make predictions for the output sentence?",
+      "context": "the second recurrent neural network and that's the decoder and the decoder is fed at the beginning with the beginning of sentence symbol and with this state it like decides what is the most likely first word in the output and then again gets this gets its prediction or out selection of the distribution as the input",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8162393162393162
+      }
+    },
+    {
+      "question": "What is the purpose of using shared embeddings for source and target languages?",
+      "context": "One is to convert the source language words into the continuous representation that the encoder digest and there is also the target site or output embeddings that are used to convert the target language words to the representation that the decoder can digest.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7457264957264957
+      }
+    },
+    {
+      "question": "How does using shared embeddings benefit the model during training?",
+      "context": "Often these two embeddings the embeddings are shared because even if you translate between languages with a different script there are sometimes words that should be copied so it makes sense to have a single vocabulary for both of the languages. And the benefit of all these shared embeddings is also that you have only one embedding matrix in your training and the same matrix is updated both during the backpropagation through the decoder",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What happens to the embedding matrix during backpropagation through the decoder?",
+      "context": "And the benefit of all these shared embeddings is also that you have only one embedding matrix in your training and the same matrix is updated both during the backpropagation through the decoder",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7041666666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the basic architecture of the encoder-decoder model?",
+      "context": "So here it is in picture. So the encoder, decoder architecture is nothing more complex than two recurrent neural networks attached to each other.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7443181818181819
+      }
+    },
+    {
+      "question": "How does the decoder make predictions for the output sentence?",
+      "context": "the second recurrent neural network and that's the decoder and the decoder is fed at the beginning with the beginning of sentence symbol and with this state it like decides what is the most likely first word in the output and then again gets this gets its prediction or out selection of the distribution as the input",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8162393162393162
+      }
+    },
+    {
+      "question": "What is the purpose of using shared embeddings for source and target languages?",
+      "context": "One is to convert the source language words into the continuous representation that the encoder digest and there is also the target site or output embeddings that are used to convert the target language words to the representation that the decoder can digest.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7457264957264957
+      }
+    },
+    {
+      "question": "How does using shared embeddings benefit the model during training?",
+      "context": "Often these two embeddings the embeddings are shared because even if you translate between languages with a different script there are sometimes words that should be copied so it makes sense to have a single vocabulary for both of the languages. And the benefit of all these shared embeddings is also that you have only one embedding matrix in your training and the same matrix is updated both during the backpropagation through the decoder",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

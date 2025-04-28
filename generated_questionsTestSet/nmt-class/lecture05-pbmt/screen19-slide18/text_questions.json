@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What does 'ja' translate to in English?",
+      "context": "the translation of the third word, ja, which can be translated as yes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8869047619047619
+      }
+    },
+    {
+      "question": "Is the sequence 'He, yes' considered a nice one?",
+      "context": "He, yes, that doesn't seem as a nice sequence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is the translation of 'ja nicht'?",
+      "context": "we can translate this ja nicht as does not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.751984126984127
+      }
+    },
+    {
+      "question": "What is the outcome of adding further words to the sequence?",
+      "context": "For example, the go filling the gap in the coverage vector and then finally translating this last these last two words nach Hause into home.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8454545454545455
+      }
+    },
+    {
+      "question": "What is the final hypothesis that covers the whole output and input?",
+      "context": "And it if we backtrack it.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8560606060606061
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What does 'ja' translate to in English?",
+      "context": "the translation of the third word, ja, which can be translated as yes.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8869047619047619
+      }
+    },
+    {
+      "question": "Is the sequence 'He, yes' considered a nice one?",
+      "context": "He, yes, that doesn't seem as a nice sequence.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is the outcome of adding further words to the sequence?",
+      "context": "For example, the go filling the gap in the coverage vector and then finally translating this last these last two words nach Hause into home.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8454545454545455
+      }
+    }
+  ]
+}

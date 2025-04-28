@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the main advantages of phrase-based and hierarchical approaches over syntactic approaches?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.3076923076923077
+      }
+    },
+    {
+      "question": "What is the implication of using syntactic approaches compared to phrase-based or hierarchical approaches?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.2678571428571428
+      }
+    },
+    {
+      "question": "What do you gain or lose when using syntactic approaches compared to phrase-based or hierarchical approaches?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.30833333333333335
+      }
+    },
+    {
+      "question": "What is the impact of using syntactic approaches on the extracted rule tables?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.30208333333333326
+      }
+    },
+    {
+      "question": "What do you mean by 'too few rules in your extracted rule tables'?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.42307692307692313
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are the main advantages of phrase-based and hierarchical approaches over syntactic approaches?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.3076923076923077
+      }
+    },
+    {
+      "question": "What do you gain or lose when using syntactic approaches compared to phrase-based or hierarchical approaches?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.30833333333333335
+      }
+    },
+    {
+      "question": "What is the implication of using syntactic approaches compared to phrase-based or hierarchical approaches?",
+      "context": "True syntax is hard. The reason is that you are losing some of the coverage of your rules by these additional constraints and you are not licensing the rules to be used.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.2678571428571428
+      }
+    }
+  ]
+}

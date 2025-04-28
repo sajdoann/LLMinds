@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of model does the language model produce?",
+      "context": "the technical device which you can feed with the representation of the full source",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.671875
+      }
+    },
+    {
+      "question": "How does the language model propose the next word in a sentence?",
+      "context": "a calculation which takes its previous state, the word it has just produced, and it proposes the next word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8048128342245989
+      }
+    },
+    {
+      "question": "What is the role of the decoder in the language model process?",
+      "context": "So this is exactly that formula.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Can you feed the representation of a full source sentence into the decoder, and then step by step produce the target words one at a time?",
+      "context": "and in later stages the source sentence is still there, and you also have the access to all the words that were produced so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3157894736842105,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "What type of device do you give information to the decoder to get the next word?",
+      "context": "and you always give it the information which words of the candidates you have chosen",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7589285714285714
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of device do you give information to the decoder to get the next word?",
+      "context": "and you always give it the information which words of the candidates you have chosen",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7589285714285714
+      }
+    },
+    {
+      "question": "Can you feed the representation of a full source sentence into the decoder, and then step by step produce the target words one at a time?",
+      "context": "and in later stages the source sentence is still there, and you also have the access to all the words that were produced so far.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3157894736842105,
+        "diversity_score": 0.875
+      }
+    },
+    {
+      "question": "How does the language model propose the next word in a sentence?",
+      "context": "a calculation which takes its previous state, the word it has just produced, and it proposes the next word.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8048128342245989
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ So what do you do with the beam search is that your candidate is the prefix up to the current word and you compute the score of the extended hypothesis. You simply multiply the score of the prefix with the probability of the next word which comes after that and that gives you hypothesis one word longer. And the

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was a problem with machine translation in this experiment?",
+      "context": "the questions revealed too much",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "How did the translator's ability to spot mentioned information affect the outcome of the task?",
+      "context": "you were able to spot even if there was some error in the translation, you were able to spot whether something is mentioned or not",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8509615384615384
+      }
+    },
+    {
+      "question": "Why did machine translation with low quality for a language that you don't speak work well?",
+      "context": "if you have the context what's the question",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8069196428571428
+      }
+    },
+    {
+      "question": "What kind of information was sufficient to answer the questions in this task?",
+      "context": "mentioning was sufficient",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8621794871794872
+      }
+    },
+    {
+      "question": "Why did the experiment's outcome show that gisting machine translation worked well?",
+      "context": "if you know what you are after, you will find it even in some very badly translated output",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8203125
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of information was sufficient to answer the questions in this task?",
+      "context": "mentioning was sufficient",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8621794871794872
+      }
+    },
+    {
+      "question": "What was a problem with machine translation in this experiment?",
+      "context": "the questions revealed too much",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "Why did machine translation with low quality for a language that you don't speak work well?",
+      "context": "if you have the context what's the question",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.8069196428571428
+      }
+    },
+    {
+      "question": "Why did the experiment's outcome show that gisting machine translation worked well?",
+      "context": "if you know what you are after, you will find it even in some very badly translated output",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8203125
+      }
+    }
+  ]
+}

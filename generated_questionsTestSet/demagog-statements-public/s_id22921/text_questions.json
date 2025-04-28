@@ -1,0 +1,160 @@
+{
+  "all_questions": [
+    {
+      "question": "What percentage of the population in the Czech Republic is composed of foreigners?",
+      "context": "<p>Poslední data o&nbsp;počtu obyvatel <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.821969696969697
+      }
+    },
+    {
+      "question": "What was the percentage of foreigners in the Czech Republic's population in 2020?",
+      "context": "<p>Podle Českého statistické úřadu (ČSÚ) v&nbsp;roce 2020 na území ČR žilo celkem 10&nbsp;701&nbsp;777&nbsp;obyvatel (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.793030303030303
+      }
+    },
+    {
+      "question": "What was the percentage of foreigners in the Czech Republic's population in 2020 compared to 2023?",
+      "context": "<p>Zastoupení cizinců ve společnosti tak koncem roku 2020 činilo přibližně 5,9&nbsp;% (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.7906593406593407
+      }
+    },
+    {
+      "question": "Proč se počet cizinců v populaci zdvojnásobil?",
+      "context": "Výtahuje se, že počet cizinců zhruba zdvojnásobil.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.8785714285714286
+      }
+    },
+    {
+      "question": "O jakém procentu se zastoupení cizinců v populaci zvýšilo oproti roku 2020?",
+      "context": "Zastoupení cizinců v populaci increased o 3,4 procentního bodu.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8777777777777778
+      }
+    },
+    {
+      "question": "Proč používají policie Čechy twohy k výpočtu podílu cizinců na trestné činnosti?",
+      "context": "Používáme dva údaje – počet objasněných trestných činů, tedy takových, kdy k zahájení i dokončení trestního řízení došlo ve stejném roce. Druhým údajem je pak počet skutků, který z těch-то objasněných trestných činů spáchali cizinci (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.9279411764705883
+      }
+    },
+    {
+      "question": "Jaký percentages podíl cizinců na trestné činnosti v roce 2020?",
+      "context": "Statistika za rok 2020 (<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.785
+      }
+    },
+    {
+      "question": "Jaký percentage podíl cizinců na trestné činnosti v ersten polovině roku 2023?",
+      "context": "Cizinci tak v první polovině roku 2023 byli odpovědní za přibližně 10,9&nbsp;% objasněných trestných činů.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8275
+      }
+    },
+    {
+      "question": "Jak se porovládá percentage podíl cizinců na trestné činnosti v roce 2022 a v první polovině roku 2023?",
+      "context": "Ve srovnání s rokem 2022 tak tento podíl narostl o přibližně 2,7 procentního bodu.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35294117647058826,
+        "diversity_score": 0.8672268907563025
+      }
+    },
+    {
+      "question": "What percentage of the population are foreigners in the Czech Republic?",
+      "context": "V roce 2020 podíl cizinců v populaci činil 5,9 %",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7572222222222222
+      }
+    },
+    {
+      "question": "What is the percentage of foreigners involved in criminal activity in the Czech Republic?",
+      "context": "according to data Policie ČR se cizinci na trestné činnosti v roce 2020 podíleli z 8,2 %",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8267156862745098
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What percentage of the population in the Czech Republic is composed of foreigners?",
+      "context": "<p>Poslední data o&nbsp;počtu obyvatel <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.821969696969697
+      }
+    },
+    {
+      "question": "What is the percentage of foreigners involved in criminal activity in the Czech Republic?",
+      "context": "according to data Policie ČR se cizinci na trestné činnosti v roce 2020 podíleli z 8,2 %",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8267156862745098
+      }
+    },
+    {
+      "question": "What percentage of the population are foreigners in the Czech Republic?",
+      "context": "V roce 2020 podíl cizinců v populaci činil 5,9 %",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7572222222222222
+      }
+    }
+  ]
+}

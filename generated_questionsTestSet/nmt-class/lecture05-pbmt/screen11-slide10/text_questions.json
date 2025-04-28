@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the task to be performed when scoring phrase pairs?",
+      "context": "Look at the internal dots of the phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6850649350649352
+      }
+    },
+    {
+      "question": "How does lexical weighting affect the translation of multi-word expressions?",
+      "context": "but if each of these components are common, are frequent enough then the lexically weighted phrase translation probably will be high.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "What is the purpose of looking at the end of the sentence?",
+      "context": "Let's look at the end of the sentence, righle and full stop, faster and full stop.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7745726495726496
+      }
+    },
+    {
+      "question": "How do smaller units relate to the extraction of phrase pairs?",
+      "context": "So this is a phrase which is longer unit also the smaller units would be extracted as as one word phrases, but now we're, we're considering the two-word phrases.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.770541958041958
+      }
+    },
+    {
+      "question": "What effect does word alignment have on the translation of phrase pairs?",
+      "context": "but if each of these components are common, are frequent enough then the lexically weighted phrase translation probably will be high. So for this phrase which is like a multi word expression it doesn't make, make so much sense.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7256944444444444
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the task to be performed when scoring phrase pairs?",
+      "context": "Look at the internal dots of the phrases.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.125,
+        "diversity_score": 0.6850649350649352
+      }
+    },
+    {
+      "question": "How does lexical weighting affect the translation of multi-word expressions?",
+      "context": "but if each of these components are common, are frequent enough then the lexically weighted phrase translation probably will be high.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7
+      }
+    },
+    {
+      "question": "How do smaller units relate to the extraction of phrase pairs?",
+      "context": "So this is a phrase which is longer unit also the smaller units would be extracted as as one word phrases, but now we're, we're considering the two-word phrases.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.770541958041958
+      }
+    },
+    {
+      "question": "What is the purpose of looking at the end of the sentence?",
+      "context": "Let's look at the end of the sentence, righle and full stop, faster and full stop.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.7745726495726496
+      }
+    }
+  ]
+}

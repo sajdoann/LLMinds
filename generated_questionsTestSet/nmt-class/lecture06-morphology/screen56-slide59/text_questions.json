@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of data was used in the experiment?",
+      "context": "We also manually evaluated this interesting setup which used small parallel data and large monolingual data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6970486111111112
+      }
+    },
+    {
+      "question": "How did the two annotators agree on the setup?",
+      "context": "But they didn't agree on which sentences it was better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "What was the conclusion about the two-step setup?",
+      "context": "So it's like unclear whether this two-step setup is worthwhile.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7410714285714286
+      }
+    },
+    {
+      "question": "How many annotators were involved in evaluating the setup?",
+      "context": "We also manually evaluated this interesting setup which used small parallel data and large monolingual data. And there the conclusion was that we had two annotators.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7239583333333334
+      }
+    },
+    {
+      "question": "What was the outcome for the two-step setup based on the annotation of the two annotators?",
+      "context": "And there the conclusion was that we had two annotators and each of them slightly preferred the two-step setup.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7890271493212669
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of data was used in the experiment?",
+      "context": "We also manually evaluated this interesting setup which used small parallel data and large monolingual data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6970486111111112
+      }
+    },
+    {
+      "question": "How did the two annotators agree on the setup?",
+      "context": "But they didn't agree on which sentences it was better.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "What was the outcome for the two-step setup based on the annotation of the two annotators?",
+      "context": "And there the conclusion was that we had two annotators and each of them slightly preferred the two-step setup.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7890271493212669
+      }
+    },
+    {
+      "question": "What was the conclusion about the two-step setup?",
+      "context": "So it's like unclear whether this two-step setup is worthwhile.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7410714285714286
+      }
+    }
+  ]
+}

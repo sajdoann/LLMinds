@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the starting point for further analysis?",
+      "context": "So you are starting with the empty hypothesis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What does 'going further' imply in this context?",
+      "context": "and you are going further.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.840625
+      }
+    },
+    {
+      "question": "What is the purpose or goal of analyzing the empty hypothesis?",
+      "context": "(no specific information provided)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "Is there any additional context or detail provided about what 'further' means in this case?",
+      "context": "(no specific information provided)",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.15384615384615385,
+        "diversity_score": 0.7916666666666666
+      }
+    },
+    {
+      "question": "What can be inferred about the nature of the analysis from the verb 'going further'?",
+      "context": "(implied by the context, but not explicitly stated)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8978365384615384
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the starting point for further analysis?",
+      "context": "So you are starting with the empty hypothesis",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.828125
+      }
+    },
+    {
+      "question": "What does 'going further' imply in this context?",
+      "context": "and you are going further.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.840625
+      }
+    },
+    {
+      "question": "What can be inferred about the nature of the analysis from the verb 'going further'?",
+      "context": "(implied by the context, but not explicitly stated)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8978365384615384
+      }
+    },
+    {
+      "question": "What is the purpose or goal of analyzing the empty hypothesis?",
+      "context": "(no specific information provided)",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

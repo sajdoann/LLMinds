@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the core problem in integrating sequence-of-words data with individual correct sentences in machine translation output?",
+      "context": "The integration of these two components and the core of the problems of the integration",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "How can the ASR system predict the correct punctuation directly to improve the setup?",
+      "context": "You could also change the ASR to predict the correct punctuation directly and that would be a better setup than we have now",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8579545454545454
+      }
+    },
+    {
+      "question": "What is a limitation of end-to-end spoken language translation systems?",
+      "context": "The current SLT system end-to-end are always trained and tested on datasets which already come in isolated utterances",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What would be the impact of identifying utterances in a spoken language translation system?",
+      "context": "So if you still have to identify where the utterances are, the errors will be much greater, much larger than the SLT system alone would suggest",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7399068322981366
+      }
+    },
+    {
+      "question": "What would happen to the accuracy of a spoken language translation system if someone had to identify where the utterances are?",
+      "context": "If you can take a reminder, what's your framework for the Anti-Fondon %10 certification",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7904135338345865
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the core problem in integrating sequence-of-words data with individual correct sentences in machine translation output?",
+      "context": "The integration of these two components and the core of the problems of the integration",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.8229166666666667
+      }
+    },
+    {
+      "question": "How can the ASR system predict the correct punctuation directly to improve the setup?",
+      "context": "You could also change the ASR to predict the correct punctuation directly and that would be a better setup than we have now",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8579545454545454
+      }
+    },
+    {
+      "question": "What would be the impact of identifying utterances in a spoken language translation system?",
+      "context": "So if you still have to identify where the utterances are, the errors will be much greater, much larger than the SLT system alone would suggest",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7399068322981366
+      }
+    },
+    {
+      "question": "What is a limitation of end-to-end spoken language translation systems?",
+      "context": "The current SLT system end-to-end are always trained and tested on datasets which already come in isolated utterances",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

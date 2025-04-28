@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why would it be impossible to map the two constituency trees together using Synchronous context-free grammar?",
+      "context": "between the source and target languages. So if we had this John fell in love with Mary, and in Czech if you really wanted to, and you represented Czech with the constituency tree as Jan Miluje Marii, then there would be no way to map these two trees together with the Synchronous context-free grammar, because the English tree is deeper.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7552083333333334
+      }
+    },
+    {
+      "question": "What is the difference between the number of productions or rule applications in the two constituency trees?",
+      "context": "The number of productions or number of rule applications in these two trees is different.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5833333333333334,
+        "diversity_score": 0.6275641025641026
+      }
+    },
+    {
+      "question": "What would be a consequence of representing Czech with the constituency tree as Jan Miluje Marii?",
+      "context": "if you really wanted to, and you represented Czech with the constituency tree as Jan Miluje Marii, then there would be no way to map these two trees together with the Synchronous context-free grammar, because the English tree is deeper.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.7071428571428572
+      }
+    },
+    {
+      "question": "What type of grammar is mentioned in the document as being unable to map the two constituency trees?",
+      "context": "Synchronous context-free grammar",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.6862745098039216
+      }
+    },
+    {
+      "question": "Why is it that the English tree is deeper than the Czech tree?",
+      "context": "The number of productions or number of rule applications in these two trees is different.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6555944055944056
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why would it be impossible to map the two constituency trees together using Synchronous context-free grammar?",
+      "context": "between the source and target languages. So if we had this John fell in love with Mary, and in Czech if you really wanted to, and you represented Czech with the constituency tree as Jan Miluje Marii, then there would be no way to map these two trees together with the Synchronous context-free grammar, because the English tree is deeper.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7142857142857143,
+        "diversity_score": 0.7552083333333334
+      }
+    },
+    {
+      "question": "What would be a consequence of representing Czech with the constituency tree as Jan Miluje Marii?",
+      "context": "if you really wanted to, and you represented Czech with the constituency tree as Jan Miluje Marii, then there would be no way to map these two trees together with the Synchronous context-free grammar, because the English tree is deeper.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6153846153846154,
+        "diversity_score": 0.7071428571428572
+      }
+    },
+    {
+      "question": "Why is it that the English tree is deeper than the Czech tree?",
+      "context": "The number of productions or number of rule applications in these two trees is different.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.6555944055944056
+      }
+    }
+  ]
+}

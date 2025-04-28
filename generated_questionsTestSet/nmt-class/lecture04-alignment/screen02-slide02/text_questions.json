@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What will be the main interest at this department?",
+      "context": "And then after discussing the effect that the data has on the translation quality, we'll briefly describe all the techniques.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7655228758169934
+      }
+    },
+    {
+      "question": "What techniques will be discussed?",
+      "context": "So we'll start with collecting the documents. for documents, then doing the document alignment, and then going further down to sentence alignment and word level alignment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7021739130434783
+      }
+    },
+    {
+      "question": "What is the final topic of discussion?",
+      "context": "And we'll finally close with some discussion of the adequacy of the task of word alignment.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7486263736263736
+      }
+    },
+    {
+      "question": "What type of processing would be linguistically adequate?",
+      "context": "And then we'll also mention what would be the linguistically adequate type of processing.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.765625
+      }
+    },
+    {
+      "question": "How will the talk be structured?",
+      "context": "So here is the overview of today's talk. It all boils down to data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7648809523809524
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What techniques will be discussed?",
+      "context": "So we'll start with collecting the documents. for documents, then doing the document alignment, and then going further down to sentence alignment and word level alignment.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7021739130434783
+      }
+    },
+    {
+      "question": "How will the talk be structured?",
+      "context": "So here is the overview of today's talk. It all boils down to data.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7648809523809524
+      }
+    },
+    {
+      "question": "What is the final topic of discussion?",
+      "context": "And we'll finally close with some discussion of the adequacy of the task of word alignment.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7486263736263736
+      }
+    },
+    {
+      "question": "What type of processing would be linguistically adequate?",
+      "context": "And then we'll also mention what would be the linguistically adequate type of processing.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.875,
+        "diversity_score": 0.765625
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one reason why multilingual machine translation systems struggle with languages that are considered 'low resource'?",
+      "context": "The document explains how many languages, especially those spoken by native speakers of Indian states, lack sufficient parallel data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7852167182662539
+      }
+    },
+    {
+      "question": "How does learning one language affect the ability to learn other related languages?",
+      "context": "The document mentions that knowing more languages makes it easier to learn further languages because words become similar and grammatical constructions are shared.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8020104895104895
+      }
+    },
+    {
+      "question": "What is a potential benefit of automatic systems being able to exploit language similarity between related languages?",
+      "context": "The document explains how knowing more languages can make it easier to learn and work with other languages, including those from the same family.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7359335038363172
+      }
+    },
+    {
+      "question": "What is one way that having multiple translations of a single text in different languages can improve translation quality?",
+      "context": "The document mentions how knowing the gender and cases of various things in another language can make it easier to produce a translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7488038277511961
+      }
+    },
+    {
+      "question": "Why is building independent models for each of the many languages spoken by countries like those within EuroSci considered impractical?",
+      "context": "The document explains how this would be time-consuming and consume a lot of resources at runtime.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.7890625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is one reason why multilingual machine translation systems struggle with languages that are considered 'low resource'?",
+      "context": "The document explains how many languages, especially those spoken by native speakers of Indian states, lack sufficient parallel data.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.7852167182662539
+      }
+    },
+    {
+      "question": "How does learning one language affect the ability to learn other related languages?",
+      "context": "The document mentions that knowing more languages makes it easier to learn further languages because words become similar and grammatical constructions are shared.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.18181818181818182,
+        "diversity_score": 0.8020104895104895
+      }
+    },
+    {
+      "question": "What is one way that having multiple translations of a single text in different languages can improve translation quality?",
+      "context": "The document mentions how knowing the gender and cases of various things in another language can make it easier to produce a translation.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.7488038277511961
+      }
+    }
+  ]
+}

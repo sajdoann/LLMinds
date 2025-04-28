@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of task is being described in the conversion from a string describing a movie evaluation to some scale?",
+      "context": "And if you want to process, if you want to perform this task, using some neural network representations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8280075187969925
+      }
+    },
+    {
+      "question": "What tool is used in the conversion process to predict the score?",
+      "context": "And then you will give these representations to the Senteval tool and it will train or just observe similarities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7259358288770054
+      }
+    },
+    {
+      "question": "What is the goal of using a good representation in the conversion process?",
+      "context": "So that will indicate that your representation is good.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6145833333333333
+      }
+    },
+    {
+      "question": "How does the Senteval evaluation tool learn to process representations?",
+      "context": "And it will learn to process your representations, your continuous representation of the sentences in such so that it can predict the score and it will check how often it was able to find the good score.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.8116071428571429
+      }
+    },
+    {
+      "question": "What happens if the representation contains relevant features?",
+      "context": "So that will indicate that your representation is good.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.65625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What tool is used in the conversion process to predict the score?",
+      "context": "And then you will give these representations to the Senteval tool and it will train or just observe similarities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7259358288770054
+      }
+    },
+    {
+      "question": "What is the goal of using a good representation in the conversion process?",
+      "context": "So that will indicate that your representation is good.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.6145833333333333
+      }
+    },
+    {
+      "question": "What type of task is being described in the conversion from a string describing a movie evaluation to some scale?",
+      "context": "And if you want to process, if you want to perform this task, using some neural network representations",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8280075187969925
+      }
+    }
+  ]
+}

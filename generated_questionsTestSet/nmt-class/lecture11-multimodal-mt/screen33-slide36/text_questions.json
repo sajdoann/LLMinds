@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens when a microphone and loudspeaker are both receiving the same sound?",
+      "context": "And they could also stand in front of the loudspeakers, in which case the microphone would be also receiving the same sound with a little delay.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7124125874125874
+      }
+    },
+    {
+      "question": "Why might this situation negatively affect ASR quality?",
+      "context": "So maybe this would not be recognized by the audience, but this double sound wave could be already damaging the ASR quality, because obviously it is not trained on",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.809375
+      }
+    },
+    {
+      "question": "What does the author mean when they say the microphone is 'receiving the same sound'?",
+      "context": "And they could also stand in front of the loudspeakers, in which case the microphone would be also receiving the same sound with a little delay.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7316433566433567
+      }
+    },
+    {
+      "question": "How might the author's statement relate to the training data for ASR?",
+      "context": "So maybe this would not be recognized by the audience, but this double sound wave could be already damaging the ASR quality, because obviously it is not trained on",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7795454545454545
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the loudspeaker and microphone in terms of audio reception?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9296875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens when a microphone and loudspeaker are both receiving the same sound?",
+      "context": "And they could also stand in front of the loudspeakers, in which case the microphone would be also receiving the same sound with a little delay.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7124125874125874
+      }
+    },
+    {
+      "question": "What can be inferred about the relationship between the loudspeaker and microphone in terms of audio reception?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9296875
+      }
+    },
+    {
+      "question": "Why might this situation negatively affect ASR quality?",
+      "context": "So maybe this would not be recognized by the audience, but this double sound wave could be already damaging the ASR quality, because obviously it is not trained on",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.809375
+      }
+    }
+  ]
+}

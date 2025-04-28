@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the initial state of the model when initializing the dictionary?",
+      "context": "We initialize the dictionary, we initialize the model with uniform probabilities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "How many sentence pairs are in the corpus used for alignment?",
+      "context": "The corpus has in this case three sentence pairs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8876262626262627
+      }
+    },
+    {
+      "question": "What is the implication of observing that Bili and White were equally likely, given that Bili summed to one?",
+      "context": "We know that Bili summed to one. So Bili was surely linked to something.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8713235294117647
+      }
+    },
+    {
+      "question": "Why can we rule out the chance of White having the meaning of black based on the first observation?",
+      "context": "White was never linked to Cerni. So there was not a single sentence where White would co-occur with Cerni and Cerni in Czech means black.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.13333333333333333,
+        "diversity_score": 0.8842329545454546
+      }
+    },
+    {
+      "question": "How does the model improve over iterations, based on the description?",
+      "context": "We are gradually improving the model and gradually improving the data.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.80625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the initial state of the model when initializing the dictionary?",
+      "context": "We initialize the dictionary, we initialize the model with uniform probabilities.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.79375
+      }
+    },
+    {
+      "question": "How many sentence pairs are in the corpus used for alignment?",
+      "context": "The corpus has in this case three sentence pairs.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8876262626262627
+      }
+    },
+    {
+      "question": "What is the implication of observing that Bili and White were equally likely, given that Bili summed to one?",
+      "context": "We know that Bili summed to one. So Bili was surely linked to something.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.8713235294117647
+      }
+    }
+  ]
+}

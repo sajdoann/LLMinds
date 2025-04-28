@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to BLEU score when using a community translation set outside the domain?",
+      "context": "out of domain",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.38095238095238093
+      }
+    },
+    {
+      "question": "How does using in-domain training data for out-of-domain translation affect vocabulary quality?",
+      "context": "in-domain training data, out of domain",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.53125
+      }
+    },
+    {
+      "question": "What is the purpose of the in-domain training data?",
+      "context": "of the domain",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.5260416666666667
+      }
+    },
+    {
+      "question": "How does using in-domain training data for out-of-domain translation impact translation quality?",
+      "context": "in-domain training data, out of domain",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.5265151515151515
+      }
+    },
+    {
+      "question": "What is the relationship between BLEU score and vocabulary rate when using a community translation set outside the domain?",
+      "context": "out of domain",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4027777777777778
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of the in-domain training data?",
+      "context": "of the domain",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.5260416666666667
+      }
+    },
+    {
+      "question": "What is the relationship between BLEU score and vocabulary rate when using a community translation set outside the domain?",
+      "context": "out of domain",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.4027777777777778
+      }
+    },
+    {
+      "question": "How does using in-domain training data for out-of-domain translation affect vocabulary quality?",
+      "context": "in-domain training data, out of domain",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.53125
+      }
+    },
+    {
+      "question": "How does using in-domain training data for out-of-domain translation impact translation quality?",
+      "context": "in-domain training data, out of domain",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.5265151515151515
+      }
+    }
+  ]
+}

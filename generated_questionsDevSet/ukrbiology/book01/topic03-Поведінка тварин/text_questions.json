@@ -1,0 +1,611 @@
+{
+  "all_questions": [
+    {
+      "question": "What is eymology?",
+      "context": "Наука про поведінку тварин у природному середовищі існування називається етологією (від грец. «етос» — звичай, характер і «ло-гос» — слово, наука).",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.744
+      }
+    },
+    {
+      "question": "What is a method of studying eology?",
+      "context": "В етології використовують такі біологічні методи: спостереження, порівняльно-описовий метод, експеримент, моніторинг, моделювання.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8266666666666667
+      }
+    },
+    {
+      "question": "What is an experiment in the context of studying animal behavior?",
+      "context": "Експеримент — це метод дослідження, у якому активно втручаєсь дослідник.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8189090909090909
+      }
+    },
+    {
+      "question": "What is a specific method used to study group interactions in animals?",
+      "context": "Моделювання — метод дослідження, в основі якого лежить імітація складних процесїв. Особливо цікавим є застосування такого методу для вивчення групових взаємовідносин.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8759523809523809
+      }
+    },
+    {
+      "question": "What is instinct?",
+      "context": "інстинкт (від латин. ",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7533333333333334
+      }
+    },
+    {
+      "question": "What are reflexes in the context of animal behavior?",
+      "context": "В основі поведінки лежать рефлекси — відповідні реакції(orgа-нізму на дію зовнішнього середовища за участю центральної нервової системи. вони можуть бути безумовними (природженими) й умовни-",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8266666666666667
+      }
+    },
+    {
+      "question": "What is the purpose of conditionally reflexes?",
+      "context": "Умовні рефлекси мають важливе пристосувальне значення й дають змогу тваринам пристосуватися до мінливих умов сере­довища.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8041904761904761
+      }
+    },
+    {
+      "question": "What is the role of scientific learning in relation to instinct?",
+      "context": "Науковіння В основі наукового знання лежать умовні рефлекси. Умовні рефlexи, пов’язують безумовні нейтральні подразники з умовними, дозволяють тварині пристосовуватися до зміни зовнішнього середовища.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8436363636363636
+      }
+    },
+    {
+      "question": "What is the form of learning used by birds in the experiment?",
+      "context": "Формою науковіння є імпритінг (мал. 44.2), що базується на вро-\nдженій реакції, до якої додається індивідуальний досвід.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8483422459893049
+      }
+    },
+    {
+      "question": "What is the main reason why birds migrate?",
+      "context": "Проте з логічне питання: а чому ж вони не залишаються в теплих краях назовсім? Усе дуже просто: конкуренція.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8334722222222222
+      }
+    },
+    {
+      "question": "What is the purpose of homing instinct in animals?",
+      "context": "Postає логічне питання: а чому ж вони не залишаються в теплих краях назовсім? Усе дуже просто: конкуренція.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.801437908496732
+      }
+    },
+    {
+      "question": "What do animals use to navigate and orient themselves?",
+      "context": "Для орієнтації у просторі тварини використовують усі свої органи чуття.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8921111111111111
+      }
+    },
+    {
+      "question": "What is the main purpose of territorial behavior in animals?",
+      "context": "Територіальна поведінка зумовлює розподіл території, яку займає певне угруповання, на окремі ділянки.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8193333333333334
+      }
+    },
+    {
+      "question": "Why do animals engage in territorial behavior?",
+      "context": "Тварини захищають свою територію, бо від неї залежить безпека, кормова база, можливість вибору найліпшого шлюбного партнера тощо.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9045378151260504
+      }
+    },
+    {
+      "question": "How do animals mark their territory?",
+      "context": "Тварини мітять свою територію, захищають її, захоплюють одне в одного. Наприклад, собаки мітають сечею, ведмеді — сечею, дряпанням та погризами кори дерев, птахів — співом тощо.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9454166666666667
+      }
+    },
+    {
+      "question": "What happens to animals after a conflict in territorial behavior?",
+      "context": "Вікиду у кров мавп-переможців гормонів. Ці hormони викуляють у них відчуття задоволення й ейфорії.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8796153846153846
+      }
+    },
+    {
+      "question": "What is the function of rhesus monkey's display of aggression?",
+      "context": "Виагодувати єйфорію, задоволення, радощі! У разі поразки — зажура й сум.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8383838383838385
+      }
+    },
+    {
+      "question": "What is the purpose of parental behavior in animals?",
+      "context": "Батьківська поведінки проявляються в турботі про potomство. особливо вона розчинена у тварин, які мають невелику кількість potomків.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7947712418300654
+      }
+    },
+    {
+      "question": "Why do animals exhibit parental behavior?",
+      "context": "Птахів будують гнізда, зігрівають і пеевертають яйця, годують пташенят, навчають їх.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9178787878787878
+      }
+    },
+    {
+      "question": "What is the origin of parental behavior in animals?",
+      "context": "Більшість дорослих динозаврів були надто великими, тому вони не могли самі доглядати Мал",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8094017094017094
+      }
+    },
+    {
+      "question": "What is parental behavior?",
+      "context": "Птахи будують гнізда, зігрівають і пе-\nревертають яйця, годувать пташенят, навчають їх.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7658333333333334
+      }
+    },
+    {
+      "question": "Why do some animals build nests?",
+      "context": "Більшість дорослих динозаврів були надто великими, тому вони не могли самі доглядати Мал.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9455128205128205
+      }
+    },
+    {
+      "question": "What is foraging behavior?",
+      "context": "Харчова поведінка (мал. 46.5) у тварин ха-\nрактеризується великою різноманітністю.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.76
+      }
+    },
+    {
+      "question": "What is territorial behavior?",
+      "context": "Дослідницька поведінка є обов’язковою частиною поведінки будь-якої тварини. Коли тварина шукає їжу, воду, укриття, шлюбного партнера, то вона здійснює дослідницьку поведінки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.758452380952381
+      }
+    },
+    {
+      "question": "What is aggressive behavior?",
+      "context": "Оборонна, або захисна, поведінка спрямована на уникнення не-\nбезпеки. Вона manifestedляється в загрозливих позах, звуках, нападах, заподіянні травм.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7652777777777777
+      }
+    },
+    {
+      "question": "What is exploratory behavior?",
+      "context": "Дослідницька поведінка є обов’язковою частиною поведінки будь-якої тварини.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7462500000000001
+      }
+    },
+    {
+      "question": "What is the purpose of a dog's aggressive behavior?",
+      "context": "Досить часто такий тип агресивної поведінки трапляється в собак. Хоча помітити її можна і в інших тварин — котів, півнів, левів",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8064444444444445
+      }
+    },
+    {
+      "question": "Why do animals conduct research behavior?",
+      "context": "Дослідницька поведінка є обов’язковою частиною поведінки будь-якої тварини.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8995833333333334
+      }
+    },
+    {
+      "question": "What is the importance of gregarious behavior for animals?",
+      "context": "Гігієнічна behavedенка є дуже важливою для виявлення твариною небезпеки.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.83
+      }
+    },
+    {
+      "question": "How do social behaviors of animals help them survive?",
+      "context": "Соціальна, або суспільна, поведінка є одним з tipos поведінки. Тварини утворюють тимчасові або постійні угруповання, з якими пов’язані behavesиокі реакції...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9216666666666666
+      }
+    },
+    {
+      "question": "What is the purpose of communication in social behaviors?",
+      "context": "...бо тваринам треба узгоджувати свої дії. Наприклад, люди спілкуються за допомогою звуків (мова, сміх, удари долонь), жести, поз тіла тощо.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8168888888888889
+      }
+    },
+    {
+      "question": "What is social behavior?",
+      "context": "Сукупність таких реакцій і називають соціальною поведінкою.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7635714285714286
+      }
+    },
+    {
+      "question": "How do animals communicate with each other?",
+      "context": "Люди спілкуються за допомогою звуків (мова, сміх, удари долонь), жестів, поз тіла тощо. Птахів спілкується за допомогою звуків, поз, кольорів.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9563492063492064
+      }
+    },
+    {
+      "question": "What is the role of pheromones in animal communication?",
+      "context": "Вони допомагають самцям метеликів знаходити шлях до самок за декілька кілометрів.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.815050505050505
+      }
+    },
+    {
+      "question": "What is the concept of hierarchy in social behavior?",
+      "context": "Крім того, у таких угрупованнях кожна тварина виконує певну роль, тобто виникає явище ієрархії.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8020634920634921
+      }
+    },
+    {
+      "question": "What determines the position of an animal in a hierarchy?",
+      "context": "Становище тварини в ієрархії зазвичай визначається розмірами, силою, агресивністю й залишається у птахів постійним у певному угрупованні.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.836125
+      }
+    },
+    {
+      "question": "What is the main purpose of an hierarchy in a group of animals?",
+      "context": "Наприклад, у курнику встановлюється лінійна ієрархія, згідно з якою курка А буде дзьобати будь-яку курку, курка Б — усіх, крім курки А, курка В — усіх, крім курки А та курки Б та т. п.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.825
+      }
+    },
+    {
+      "question": "What is the main advantage of having a social hierarchy in an animal group?",
+      "context": "Ієрархія має велике позитивне значення в житті угруповання. Вона зменшує прояви агресивності, яка пов’язана з їжею, вибором шлюбного партнера тощо.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8517857142857144
+      }
+    },
+    {
+      "question": "What type of organization is characterized by a clear structure and specialization among individuals?",
+      "context": "Чим більш стійкі угруповання утворюють тварини, тим виший у них рівень спеціалізації, коли кожна тварина виконує певну роль.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9030952380952381
+      }
+    },
+    {
+      "question": "What is the main difference between a collective and an organized group of animals?",
+      "context": "Угруповання відрізняються від скупчень саме тим, що тварини в них можуть розрізняти «своїх» і «чужих».",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8546666666666667
+      }
+    },
+    {
+      "question": "What is the difference between a collective and an alliance in animal groups?",
+      "context": "Тварини можуть збиратися разом, утворюючи скупчення й угру-повання. Скупчення є простою сукупністю тварин, які зібралися в одному місці.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8547058823529412
+      }
+    },
+    {
+      "question": "How do animals in a closed alliance group react to outsiders?",
+      "context": "У закритих анонімних угрупованнях члени групи зустрічають «чужих» дуже агресивно.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9210909090909091
+      }
+    },
+    {
+      "question": "What is the characteristic of individualized alliances in animal groups?",
+      "context": "У цих угрупованнях тварини знають одна одну «в обличчя». Індивідуалізовані угру-повання побудовані на особистих контактах тварин між собою.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8261111111111111
+      }
+    },
+    {
+      "question": "What is the main difference between anonomistic and individualistic group behavior?",
+      "context": "Анонімні угруповання складаються з особин, які ін-\ndividуально не розрізняють члена своєї групи. Але\nна небезпеку вони реагують усі разом, орієнтуючись на сигнали, які подають одна одній.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8673090909090909
+      }
+    },
+    {
+      "question": "Can any animal be considered intelligent based on its ability to use tools?",
+      "context": "Будь-який хазяїн домашньої тварини знає, що його собака (кіт, папуга тощо) bardzo розумний.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9746153846153847
+      }
+    },
+    {
+      "question": "What is the example of a small animal that uses tools to gather food?",
+      "context": "Невеликі поодинокі оси з родів Сфекс і Амофіла використовують камінці, будуючи нірки для своїх нащадків у сипучому піску.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8676984126984126
+      }
+    },
+    {
+      "question": "Which animal is considered to be one of the best examples of using tools after humans?",
+      "context": "Серед ссавців головним претендентом на dru-\nге місце після людини з використання знарядь\nпраці є шимпанзе (мал. 49.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9033333333333333
+      }
+    },
+    {
+      "question": "What is the main tool used by chimpanzees for work?",
+      "context": "Серед ссавців головним претендентом на дру-\nregorе місце після людини з використання знарядь праці є шимпанзе (мал. 49.1).",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8656666666666667
+      }
+    },
+    {
+      "question": "Why do chimpanzees use sticks to hunt?",
+      "context": "це, наприклад, камені, за допомогою яких \nвони лущать горіхи; палички з обідом корою для ловіння мурах і термітів;",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9428571428571428
+      }
+    },
+    {
+      "question": "What type of animal has the most advanced cognitive abilities?",
+      "context": "З-поміж ссавців най розумнішими є мавпи, дельфіни, слони, хижаки.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8846666666666667
+      }
+    },
+    {
+      "question": "How does the brain of a chimpanzee compare to that of a human?",
+      "context": "Рекордний розмір словника мала горила Коко, яка знALA близько 1000 знаків мови жестів.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9274125874125874
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Can any animal be considered intelligent based on its ability to use tools?",
+      "context": "Будь-який хазяїн домашньої тварини знає, що його собака (кіт, папуга тощо) bardzo розумний.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9746153846153847
+      }
+    },
+    {
+      "question": "Why do some animals build nests?",
+      "context": "Більшість дорослих динозаврів були надто великими, тому вони не могли самі доглядати Мал.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9455128205128205
+      }
+    },
+    {
+      "question": "How do animals mark their territory?",
+      "context": "Тварини мітять свою територію, захищають її, захоплюють одне в одного. Наприклад, собаки мітають сечею, ведмеді — сечею, дряпанням та погризами кори дерев, птахів — співом тощо.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9454166666666667
+      }
+    },
+    {
+      "question": "How do social behaviors of animals help them survive?",
+      "context": "Соціальна, або суспільна, поведінка є одним з tipos поведінки. Тварини утворюють тимчасові або постійні угруповання, з якими пов’язані behavesиокі реакції...",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9216666666666666
+      }
+    }
+  ]
+}

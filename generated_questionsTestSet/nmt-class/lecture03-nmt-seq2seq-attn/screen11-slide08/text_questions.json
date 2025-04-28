@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What are the two input coordinates required for a four-layer neural network?",
+      "context": "So here is again an example of what a four layer network can do with the coordinate system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "How does the neural network learn to separate points in the x and y plane into red and blue categories?",
+      "context": "So we have two coordinates x and y as the input and we are always given a point and we need to say the color of the point.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7424242424242424
+      }
+    },
+    {
+      "question": "What is the purpose of the bus vector in each layer of the neural network?",
+      "context": "So there will be four weight matrices, each transforming two input coordinates into two input coordinates. I'm not pretty sure, have a look at the block.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "How do the weights in the neural network get updated during training?",
+      "context": "So this is how the training gradually progresses, how it's getting better and better at separating these two sets of points.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7338516746411483
+      }
+    },
+    {
+      "question": "What is the significance of the neural network being able to interpolate between points that are close to or between known training examples?",
+      "context": "It is important to realize that there are also many other points on the X and Y input plane, but no one is going to ask what is the color of this other point or this other point.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.29411764705882354,
+        "diversity_score": 0.801008064516129
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the significance of the neural network being able to interpolate between points that are close to or between known training examples?",
+      "context": "It is important to realize that there are also many other points on the X and Y input plane, but no one is going to ask what is the color of this other point or this other point.",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.29411764705882354,
+        "diversity_score": 0.801008064516129
+      }
+    },
+    {
+      "question": "How does the neural network learn to separate points in the x and y plane into red and blue categories?",
+      "context": "So we have two coordinates x and y as the input and we are always given a point and we need to say the color of the point.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7424242424242424
+      }
+    },
+    {
+      "question": "How do the weights in the neural network get updated during training?",
+      "context": "So this is how the training gradually progresses, how it's getting better and better at separating these two sets of points.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.7338516746411483
+      }
+    },
+    {
+      "question": "What is the purpose of the bus vector in each layer of the neural network?",
+      "context": "So there will be four weight matrices, each transforming two input coordinates into two input coordinates. I'm not pretty sure, have a look at the block.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1,
+        "diversity_score": 0.75
+      }
+    }
+  ]
+}

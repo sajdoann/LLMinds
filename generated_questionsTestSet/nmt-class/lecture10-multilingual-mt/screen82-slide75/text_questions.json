@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What language is the document initially written in?",
+      "context": "This is when translating out of English.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8571428571428572
+      }
+    },
+    {
+      "question": "Who/what is being referred to as having adapters with more importance?",
+      "context": "the different target",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8901515151515151
+      }
+    },
+    {
+      "question": "What is the significance of the adapters in this context?",
+      "context": "the importance of the adapters more prominent.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "Is translating out of English relevant to the content of the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of adapters from the context?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is translating out of English relevant to the content of the document?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8875
+      }
+    },
+    {
+      "question": "Who/what is being referred to as having adapters with more importance?",
+      "context": "the different target",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8901515151515151
+      }
+    },
+    {
+      "question": "What can be inferred about the importance of adapters from the context?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8863636363636364
+      }
+    }
+  ]
+}

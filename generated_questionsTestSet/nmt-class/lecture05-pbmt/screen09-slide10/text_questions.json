@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of phrases are extracted from the parallel corpus?",
+      "context": "This huge list of phrase pairs, that is exactly your set of observations.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.7895833333333333
+      }
+    },
+    {
+      "question": "How do you determine which translations are most likely for a given phrase?",
+      "context": "For the same phrase you will see which of these translations is most likely later on.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8852163461538461
+      }
+    },
+    {
+      "question": "What is the purpose of word alignment in the phrase extraction process?",
+      "context": "The consistency with word alignment makes sure that no word is forgotten.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.8068181818181819
+      }
+    },
+    {
+      "question": "How does the system handle phrases that are shorter than the 10-word limit?",
+      "context": "If your sentence is shorter than the 10 word limit, then you also extract the whole sentence as one translation unit.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8612938596491229
+      }
+    },
+    {
+      "question": "What is the significance of using smaller pieces to reconstruct the output from the phrase table?",
+      "context": "So you can reconstruct the same output using the smaller pieces or the longer pieces.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.853021978021978
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does the system handle phrases that are shorter than the 10-word limit?",
+      "context": "If your sentence is shorter than the 10 word limit, then you also extract the whole sentence as one translation unit.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8612938596491229
+      }
+    },
+    {
+      "question": "How do you determine which translations are most likely for a given phrase?",
+      "context": "For the same phrase you will see which of these translations is most likely later on.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8852163461538461
+      }
+    },
+    {
+      "question": "What is the significance of using smaller pieces to reconstruct the output from the phrase table?",
+      "context": "So you can reconstruct the same output using the smaller pieces or the longer pieces.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.853021978021978
+      }
+    }
+  ]
+}

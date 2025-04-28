@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the Gulf of Mexico?",
+      "context": "The Gulf of Mexico was probably one of the biggest environmental disasters of recent years.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7604166666666667
+      }
+    },
+    {
+      "question": "Why is deep-sea drilling a special risk?",
+      "context": "Deep-sea drilling in particular is a special risk.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8816964285714286
+      }
+    },
+    {
+      "question": "What is the proposed control mechanism for preventing environmental disasters?",
+      "context": "We believe that it would be a good idea if the mandate of the Emser in Lisbon were extended and they could also take care of these things.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8375
+      }
+    },
+    {
+      "question": "What are some of the concerns raised by the speaker regarding deep-sea oil drilling?",
+      "context": "We also need to get an overview of the liability and insurance law for deep-sea oil drilling.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8156108597285068
+      }
+    },
+    {
+      "question": "What challenges do smaller companies face in deep-sea oil drilling, according to the speaker?",
+      "context": "How can they cope? How can they insure themselves? Do they need solidarity funds? Are collective solutions needed so that the victims can also get their money?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8685064935064934
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the Gulf of Mexico?",
+      "context": "The Gulf of Mexico was probably one of the biggest environmental disasters of recent years.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.7604166666666667
+      }
+    },
+    {
+      "question": "Why is deep-sea drilling a special risk?",
+      "context": "Deep-sea drilling in particular is a special risk.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6,
+        "diversity_score": 0.8816964285714286
+      }
+    },
+    {
+      "question": "What are some of the concerns raised by the speaker regarding deep-sea oil drilling?",
+      "context": "We also need to get an overview of the liability and insurance law for deep-sea oil drilling.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3,
+        "diversity_score": 0.8156108597285068
+      }
+    },
+    {
+      "question": "What challenges do smaller companies face in deep-sea oil drilling, according to the speaker?",
+      "context": "How can they cope? How can they insure themselves? Do they need solidarity funds? Are collective solutions needed so that the victims can also get their money?",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.8685064935064934
+      }
+    }
+  ]
+}

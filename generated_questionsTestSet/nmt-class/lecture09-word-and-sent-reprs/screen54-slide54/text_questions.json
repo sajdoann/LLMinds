@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What are some examples of modification in sentence construction?",
+      "context": "How much the speaker is willing or able to do the action expressed in the sentence.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7708333333333334
+      }
+    },
+    {
+      "question": "Can sentences be simple and complex at the same time?",
+      "context": "They can be long and short and still express the.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.975
+      }
+    },
+    {
+      "question": "What are some types of negation in sentence construction?",
+      "context": "There is many types of negation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Can sentences express different levels of politeness or modification?",
+      "context": "We could ask people to make the sentence more in the future or more in the past.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8867521367521367
+      }
+    },
+    {
+      "question": "What is meant by 'generality' in sentence construction?",
+      "context": "The generality. to be.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What are some types of negation in sentence construction?",
+      "context": "There is many types of negation.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.8125
+      }
+    },
+    {
+      "question": "Can sentences express different levels of politeness or modification?",
+      "context": "We could ask people to make the sentence more in the future or more in the past.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.8867521367521367
+      }
+    },
+    {
+      "question": "Can sentences be simple and complex at the same time?",
+      "context": "They can be long and short and still express the.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.375,
+        "diversity_score": 0.975
+      }
+    }
+  ]
+}

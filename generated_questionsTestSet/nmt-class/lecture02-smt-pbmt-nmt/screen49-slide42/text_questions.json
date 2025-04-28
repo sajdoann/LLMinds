@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why does the matrix have to be tall?",
+      "context": "The problem statement",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.640625
+      }
+    },
+    {
+      "question": "How many Czech word forms are in the matrix?",
+      "context": "The explanation of the matrix size",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7166666666666667
+      }
+    },
+    {
+      "question": "What is a problem with current machines handling the matrix?",
+      "context": "The consequence of the matrix being tall",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7208333333333333
+      }
+    },
+    {
+      "question": "What do you infer about the processing power required to handle the matrix?",
+      "context": "The implication of the problem statement",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.70625
+      }
+    },
+    {
+      "question": "Why is it mentioned that machines cannot handle the matrix quickly?",
+      "context": "The reason for the difficulty in processing the matrix",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.7905844155844156
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is a problem with current machines handling the matrix?",
+      "context": "The consequence of the matrix being tall",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7208333333333333
+      }
+    },
+    {
+      "question": "How many Czech word forms are in the matrix?",
+      "context": "The explanation of the matrix size",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7166666666666667
+      }
+    },
+    {
+      "question": "What do you infer about the processing power required to handle the matrix?",
+      "context": "The implication of the problem statement",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.70625
+      }
+    }
+  ]
+}

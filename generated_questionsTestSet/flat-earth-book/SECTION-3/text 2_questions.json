@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is plane trigonometry used for?",
+      "context": "As it is now demonstrated that the Earth is a plane, the distance of the Sun and Stars may readily be measured by plane trigonometry.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7878787878787878
+      }
+    },
+    {
+      "question": "What is the hypothenuse of in Figure 26?",
+      "context": "The altitude at L or B, with the length of L S or B S, will then give the vertical distance of the Sun S from E, or the place which is immediately underneath it. This distance will be thus found to be considerably less than 4,000 miles.",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7847222222222222
+      }
+    },
+    {
+      "question": "Why is all the visible objects in the firmament contained within a certain distance?",
+      "context": "The same method of measuring distances applies equally to the Stars; and it is easy to demonstrate, beyond the possibility of doubt, so long as assumed premises are excluded, that all the visible objects in the firmament are contained within the distance of 6,000 miles!",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7873931623931624
+      }
+    },
+    {
+      "question": "What is the distance between the two stations?",
+      "context": "The distance between the two stations, 800 statute miles.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.6,
+        "diversity_score": 0.7165178571428572
+      }
+    },
+    {
+      "question": "How far away are all visible objects in the firmament from Earth?",
+      "context": "all the visible objects in the firmament are contained within the distance of 6,000 miles!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7043269230769231
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Why is all the visible objects in the firmament contained within a certain distance?",
+      "context": "The same method of measuring distances applies equally to the Stars; and it is easy to demonstrate, beyond the possibility of doubt, so long as assumed premises are excluded, that all the visible objects in the firmament are contained within the distance of 6,000 miles!",
+      "difficulty": "easy",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7873931623931624
+      }
+    },
+    {
+      "question": "What is plane trigonometry used for?",
+      "context": "As it is now demonstrated that the Earth is a plane, the distance of the Sun and Stars may readily be measured by plane trigonometry.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7878787878787878
+      }
+    },
+    {
+      "question": "How far away are all visible objects in the firmament from Earth?",
+      "context": "all the visible objects in the firmament are contained within the distance of 6,000 miles!",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.7043269230769231
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of setup is being described in this context?",
+      "context": "This is the multiway and multi-source setup.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7982142857142858
+      }
+    },
+    {
+      "question": "How do models perform when translating into English, compared to Spanish-English models that have seen other language data?",
+      "context": "These models perform better when translating into English.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35294117647058826,
+        "diversity_score": 0.8887867647058824
+      }
+    },
+    {
+      "question": "What happens to a model's performance when the direction of translation is reversed, compared to the baseline model that only uses Spanish-English data?",
+      "context": "The other language data is not helping performance with Spanish.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.058823529411764705,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "Can you infer what type of data the models are being trained on, based on their performance in translation tasks?",
+      "context": "It is trained on independent pairwise corpora across many languages.",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What would happen to a model's performance if it were trained only on Spanish-English data, compared to the baseline model that uses all available language data?",
+      "context": "The baseline using just the English-Spanish data is better for the other direction.",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05,
+        "diversity_score": 0.7790909090909091
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of setup is being described in this context?",
+      "context": "This is the multiway and multi-source setup.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7982142857142858
+      }
+    },
+    {
+      "question": "How do models perform when translating into English, compared to Spanish-English models that have seen other language data?",
+      "context": "These models perform better when translating into English.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.35294117647058826,
+        "diversity_score": 0.8887867647058824
+      }
+    },
+    {
+      "question": "What happens to a model's performance when the direction of translation is reversed, compared to the baseline model that only uses Spanish-English data?",
+      "context": "The other language data is not helping performance with Spanish.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.058823529411764705,
+        "diversity_score": 0.7458333333333333
+      }
+    },
+    {
+      "question": "Can you infer what type of data the models are being trained on, based on their performance in translation tasks?",
+      "context": "It is trained on independent pairwise corpora across many languages.",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What would happen to a model's performance if it were trained only on Spanish-English data, compared to the baseline model that uses all available language data?",
+      "context": "The baseline using just the English-Spanish data is better for the other direction.",
+      "difficulty": "analytical",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.05,
+        "diversity_score": 0.7790909090909091
+      }
+    }
+  ]
+}

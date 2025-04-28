@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the primary feature function used in phrase-based MT that scores phrases independently of each other?",
+      "context": "Make things really correct. So now the features.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8033088235294118
+      }
+    },
+    {
+      "question": "How does the phrase translation probability feature affect the model's choice of phrase length in a given segmentation?",
+      "context": "So the phrase translation probability that scores phrases independently of each other. So when the feature function is launched over the whole sentence given a fixed segmentation already, the feature actually just multiplies the probabilities of.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8041666666666667
+      }
+    },
+    {
+      "question": "What two types of counts are considered in phrase-based MT to control the length of the output?",
+      "context": "We have already briefly mentioned that we have various counts. So we have word count which only considers the number of words in the target sentence and also phrase count or phrase penalty.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7858974358974359
+      }
+    },
+    {
+      "question": "Under what conditions would a model prefer to use shorter phrases rather than longer ones?",
+      "context": "And again, this phrase count or phrase penalty controls whether the system will prefer to use longer phrases or or shorter phrases. And this is an important parameter which allows the model to react to the match of the training data and the test data.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8818181818181818
+      }
+    },
+    {
+      "question": "How does the language model probability feature differ from the phrase translation probability feature?",
+      "context": "And there is obviously the feature which we have discussed in the past and that is the language model probability.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.7526041666666666
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the primary feature function used in phrase-based MT that scores phrases independently of each other?",
+      "context": "Make things really correct. So now the features.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.8033088235294118
+      }
+    },
+    {
+      "question": "Under what conditions would a model prefer to use shorter phrases rather than longer ones?",
+      "context": "And again, this phrase count or phrase penalty controls whether the system will prefer to use longer phrases or or shorter phrases. And this is an important parameter which allows the model to react to the match of the training data and the test data.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.46153846153846156,
+        "diversity_score": 0.8818181818181818
+      }
+    },
+    {
+      "question": "How does the phrase translation probability feature affect the model's choice of phrase length in a given segmentation?",
+      "context": "So the phrase translation probability that scores phrases independently of each other. So when the feature function is launched over the whole sentence given a fixed segmentation already, the feature actually just multiplies the probabilities of.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5,
+        "diversity_score": 0.8041666666666667
+      }
+    }
+  ]
+}

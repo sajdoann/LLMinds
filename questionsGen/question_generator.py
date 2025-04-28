@@ -41,7 +41,7 @@ class QuestionGenerator:
         except Exception as e:
             raise Exception(f"Error reading file {file_path}: {str(e)}")
     
-    def generate_questions_from_text(self, document_text: str, num_questions: Optional[int] = None, json_mode = False) -> List[Dict[str, Any]]:
+    def generate_questions_from_text(self, document_text: str, num_questions: Optional[int] = None) -> List[Dict[str, Any]]:
         """Generate questions from text content.
         
         Args:
@@ -51,20 +51,182 @@ class QuestionGenerator:
         Returns:
             A list of question dictionaries
         """
-        prompt = self._create_question_generation_prompt(document_text, num_questions)
+        # For shorter texts, try the standard approach
+        if len(document_text) < 4000:
+            try:
+                prompt = self._create_question_generation_prompt(document_text, num_questions)
+                response = self.llm.generate_completion(prompt, max_tokens=2000, temperature=0.7)
+                return self._extract_json_from_response(response)
+            except Exception as e:
+                print(f"Failed with standard approach: {str(e)}. Falling back to chunking.")
         
-        response = self.llm.generate_completion(prompt, max_tokens=2000, temperature=0.7)
+        # Fallback for longer texts or if parsing failed: chunk the document
+        return self._generate_questions_with_chunking(document_text, num_questions)
 
-        if not json_mode:
-            return response
+    def _generate_questions_with_chunking(self, document_text: str, total_questions: Optional[int] = None) -> List[Dict[str, Any]]:
+        """Generate questions by splitting document into chunks and processing each separately.
+        
+        Args:
+            document_text: The document text content
+            total_questions: Total number of questions to generate
+            
+        Returns:
+            A list of question dictionaries from all chunks combined
+        """
+        # Determine how many questions to generate
+        if total_questions is None:
+            total_questions = 5  # Default if not specified
+        
+        # Split the document into chunks
+        chunks = self._split_into_chunks(document_text)
+        print(f"Split document into {len(chunks)} chunks for processing")
+        
+        # Calculate questions per chunk, ensuring we get at least the requested number
+        questions_per_chunk = max(1, total_questions // len(chunks))
+        extra_questions = total_questions % len(chunks)
+        
+        all_questions = []
+        
+        for i, chunk in enumerate(chunks):
+            # Determine how many questions for this chunk
+            num_for_chunk = questions_per_chunk + (1 if i < extra_questions else 0)
+            
+            try:
+                # Create a simpler prompt for a single chunk
+                prompt = self._create_chunk_question_prompt(chunk, num_for_chunk)
+                response = self.llm.generate_completion(prompt, max_tokens=1500, temperature=0.7)
+                
+                # Extract questions from this chunk's response
+                try:
+                    chunk_questions = self._extract_json_from_response(response)
+                    all_questions.extend(chunk_questions)
+                    print(f"Generated {len(chunk_questions)} questions from chunk {i+1}")
+                except Exception as e:
+                    # If JSON extraction fails, try a more aggressive approach
+                    chunk_questions = self._extract_questions_manually(response)
+                    all_questions.extend(chunk_questions)
+                    print(f"Used fallback parsing for chunk {i+1}, got {len(chunk_questions)} questions")
+            except Exception as e:
+                print(f"Error processing chunk {i+1}: {str(e)}")
+        
+        return all_questions
 
-        # Parse the response into a list of questions
-        try:
-            questions = self._extract_json_from_response(response)
-            return questions
-        except Exception as e:
-            raise Exception(f"Failed to parse LLM response into questions: {str(e)}\nResponse: {response}")
-    
+    def _split_into_chunks(self, text: str, chunk_size: int = 3000, overlap: int = 500) -> List[str]:
+        """Split text into overlapping chunks of approximately chunk_size characters.
+        
+        Args:
+            text: The text to split
+            chunk_size: Target size of each chunk in characters
+            overlap: Number of characters to overlap between chunks
+            
+        Returns:
+            List of text chunks
+        """
+        if len(text) <= chunk_size:
+            return [text]
+        
+        chunks = []
+        start = 0
+        
+        while start < len(text):
+            end = start + chunk_size
+            
+            # Don't cut in the middle of a paragraph if possible
+            if end < len(text):
+                # Look for paragraph break
+                paragraph_break = text.rfind('\n\n', start, end)
+                if paragraph_break != -1 and paragraph_break > start + chunk_size // 2:
+                    end = paragraph_break
+                else:
+                    # Look for sentence break
+                    sentence_break = max(
+                        text.rfind('. ', start, end),
+                        text.rfind('! ', start, end),
+                        text.rfind('? ', start, end)
+                    )
+                    if sentence_break != -1 and sentence_break > start + chunk_size // 2:
+                        end = sentence_break + 1  # Include the period
+            
+            chunks.append(text[start:end])
+            
+            # Move start position for next chunk, considering overlap
+            start = end - overlap if end < len(text) else len(text)
+        
+        return chunks
+
+    def _create_chunk_question_prompt(self, chunk_text: str, num_questions: int = 1) -> str:
+        """Create a simpler prompt for generating questions from a document chunk.
+        
+        Args:
+            chunk_text: The document chunk text
+            num_questions: Number of questions to generate for this chunk
+            
+        Returns:
+            The formatted prompt
+        """
+        # Simpler prompt focused on a single chunk
+        prompt = f"""
+        I'll provide you with a part of a document. Please create {num_questions} question(s) based solely on this text.
+
+        For each question, include:
+        - The question text
+        - The specific part of the text containing the answer (context)
+        - Difficulty (easy, medium, or hard)
+        - Category (factual, inferential, or analytical)
+
+        IMPORTANT: Format your response as valid JSON like this example:
+        [
+          {{
+            "question": "What is X?",
+            "context": "X is a technology used for Y.",
+            "difficulty": "easy",
+            "category": "factual"
+          }}
+        ]
+
+        Only respond with the JSON array and nothing else.
+
+        TEXT:
+        {chunk_text}
+        """
+        return prompt
+
+    def _extract_questions_manually(self, response: str) -> List[Dict[str, Any]]:
+        """Extract questions when JSON parsing fails.
+        
+        Args:
+            response: The LLM response text
+            
+        Returns:
+            List of question dictionaries constructed from the response
+        """
+        import re
+        
+        questions = []
+        
+        # Look for question patterns
+        q_patterns = re.finditer(r'(?:(?:\d+\.\s+)|(?:"question":\s*"))([^"]+)(?:")?', response)
+        c_patterns = re.finditer(r'(?:"context":\s*")([^"]+)(?:")', response)
+        d_patterns = re.finditer(r'(?:"difficulty":\s*")([^"]+)(?:")', response)
+        cat_patterns = re.finditer(r'(?:"category":\s*")([^"]+)(?:")', response)
+        
+        # Extract the matched text
+        qs = [match.group(1) for match in q_patterns]
+        contexts = [match.group(1) for match in c_patterns]
+        difficulties = [match.group(1) for match in d_patterns]
+        categories = [match.group(1) for match in cat_patterns]
+        
+        # Construct as many complete questions as we can
+        for i in range(min(len(qs), len(contexts), len(difficulties), len(categories))):
+            questions.append({
+                "question": qs[i],
+                "context": contexts[i],
+                "difficulty": difficulties[i].lower(),
+                "category": categories[i].lower()
+            })
+        
+        return questions
+
     def _create_question_generation_prompt(self, document_text: str, num_questions: Optional[int] = None) -> str:
         """Create a prompt for generating questions.
         
@@ -90,11 +252,6 @@ class QuestionGenerator:
            - A difficulty rating (easy, medium, hard)
            - A category (factual, inferential, analytical)
 
-        5. Tell me only the questions
-        DOCUMENT:
-        {document_text}
-        """
-        json_prompt = """
         Format your response as a JSON array of objects with this structure:
         ```json
         [
@@ -106,7 +263,12 @@ class QuestionGenerator:
           }},
           ...
         ]
+        ```
+
+        DOCUMENT:
+        {document_text}
         """
+        
         return prompt
     
     def _extract_json_from_response(self, response: str) -> List[Dict[str, Any]]:

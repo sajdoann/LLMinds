@@ -1,0 +1,149 @@
+{
+  "all_questions": [
+    {
+      "question": "When will the novel of the law proposing to change parametr rules for regular valorization of pensions be presented to the government?",
+      "context": "Šéf resortu práce a sociálních věcí na to reagoval slovy, že se v najbližší době nechystá novelu předložit.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0625,
+        "diversity_score": 0.8518518518518519
+      }
+    },
+    {
+      "question": "Who will the minister of labor and social affairs meet with in the next few days to discuss the change of parametr rules for regular valorization of pensions?",
+      "context": "Já jsem começal jednat se zástupci opozice, v těch příštích dnech budu ještě jednat také … s kolegy z SPD a také i s zástupci odborů a зaměstnavatelů.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8848631239935588
+      }
+    },
+    {
+      "question": "Who is Marian Jurečka?",
+      "context": "<a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "Who is Alena Schillerová?",
+      "context": "Poslankyně Schillerová mj.&nbsp;kvůli tomu ministra Jurečku <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "What is the controversy about?",
+      "context": "Ministr práce a sociálních věcí Marian Jurečka kritizoval na svém twitteru, že </i>plánuje předložit vládě zásadní úpravy valorizačních mechanismů</i>.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8502923976608188
+      }
+    },
+    {
+      "question": "Why is Marian Jurečka's plan controversial?",
+      "context": "Jasně jsem řekl, že to bude projednáno s opozicí a sociálními partnery.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8703703703703703
+      }
+    },
+    {
+      "question": "When will the government discuss the change of rules for valorization of pensions?",
+      "context": "Mluvčí MPSV Eva Davidová v pátek 17. března ČTK řekla, že se vláda Petra Fialy chystá návrh změny pravidel valorizace důchodů projednat už v týdnu od 20. do 26. březen.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8406478578892372
+      }
+    },
+    {
+      "question": "března ČTK řekla, že se vláda Petra Fialy chystá návrh změny pravidel valorizace důchodů projednat už v týdnu od 20. do 26. březen.",
+      "context": "Podle něj má nejdříve proběhnout jednání se zástupci opozice, odborů a zaměstnavatelů a až následně má návrh zamířit do připomínkového zřízení.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21739130434782608,
+        "diversity_score": 0.9532163742690059
+      }
+    },
+    {
+      "question": "Why is the government not discussing the change of rules for valorization of pensions in January?",
+      "context": "<i>„Vláda ignoruje sociální dialog. Ty realmente důležité materiály posílá často pozdě a popírá svá propia slova.“</i>",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8606150793650794
+      }
+    },
+    {
+      "question": "Who made the statement about the government ignoring social dialogue?",
+      "context": "To, že návrh bude nejdříve projednán s opozicí a dalším partnery, realmente Marian Jurečka napsal na twitter pod příspěvek Aleny Schillerové.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8738977072310405
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Who is Alena Schillerová?",
+      "context": "Poslankyně Schillerová mj.&nbsp;kvůli tomu ministra Jurečku <a href=",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8888888888888888
+      }
+    },
+    {
+      "question": "Why is Marian Jurečka's plan controversial?",
+      "context": "Jasně jsem řekl, že to bude projednáno s opozicí a sociálními partnery.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8703703703703703
+      }
+    },
+    {
+      "question": "března ČTK řekla, že se vláda Petra Fialy chystá návrh změny pravidel valorizace důchodů projednat už v týdnu od 20. do 26. březen.",
+      "context": "Podle něj má nejdříve proběhnout jednání se zástupci opozice, odborů a zaměstnavatelů a až následně má návrh zamířit do připomínkového zřízení.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.21739130434782608,
+        "diversity_score": 0.9532163742690059
+      }
+    }
+  ]
+}

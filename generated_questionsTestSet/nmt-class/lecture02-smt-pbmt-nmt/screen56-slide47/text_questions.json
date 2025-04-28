@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What was the context of Kyun Kun Cho's first successful use of neural networks in machine translation?",
+      "context": "Numerical issues. So the first time neural networks were successfully used in machine translation was when they were, when Kyun Kun Cho scored phrases in the phrase-based system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7353125
+      }
+    },
+    {
+      "question": "What is the main purpose of an encoder-decoder architecture in this context?",
+      "context": "So there was a standard phrase-based system and that has this feature which scores how well a short sequence of words corresponds to a short sequence of the target words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7754166666666666
+      }
+    },
+    {
+      "question": "How did Kyun Kun Cho's use of neural networks improve the original phrase-based pipeline?",
+      "context": "So this is where he first used the encoder-decoder architecture. So an encoder consumed the source words in the phrase and the decoder produced or looked at the target phrase and checked if it's a likely translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.756547619047619
+      }
+    },
+    {
+      "question": "What was the impact of using the new scoring method on the machine translation process?",
+      "context": "So this was a new scoring for an old component in the original phrase-based pipeline. And that helped a lot.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.7302631578947368
+      }
+    },
+    {
+      "question": "Why did Kyun Kun Cho use phrases of varying lengths in his machine translation experiment?",
+      "context": "But these phrases are of varying length, the number of of words in these phrases varies.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7520833333333333
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What was the context of Kyun Kun Cho's first successful use of neural networks in machine translation?",
+      "context": "Numerical issues. So the first time neural networks were successfully used in machine translation was when they were, when Kyun Kun Cho scored phrases in the phrase-based system.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5714285714285714,
+        "diversity_score": 0.7353125
+      }
+    },
+    {
+      "question": "What is the main purpose of an encoder-decoder architecture in this context?",
+      "context": "So there was a standard phrase-based system and that has this feature which scores how well a short sequence of words corresponds to a short sequence of the target words.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.7754166666666666
+      }
+    },
+    {
+      "question": "How did Kyun Kun Cho's use of neural networks improve the original phrase-based pipeline?",
+      "context": "So this is where he first used the encoder-decoder architecture. So an encoder consumed the source words in the phrase and the decoder produced or looked at the target phrase and checked if it's a likely translation.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.756547619047619
+      }
+    },
+    {
+      "question": "Why did Kyun Kun Cho use phrases of varying lengths in his machine translation experiment?",
+      "context": "But these phrases are of varying length, the number of of words in these phrases varies.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.21428571428571427,
+        "diversity_score": 0.7520833333333333
+      }
+    }
+  ]
+}

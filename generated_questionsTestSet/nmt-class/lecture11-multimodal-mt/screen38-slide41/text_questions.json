@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the speaker's occupation?",
+      "context": "Oh really? Yes, actually, I work for them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "Why did the system fail to recognize speech in the experiment?",
+      "context": "So, if the system cannot really trust the pronunciation and it cannot really trust the sequence of words because the grammar is wrong, then it is very likely to choose some wrong wordings.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.665
+      }
+    },
+    {
+      "question": "What was the performance of human-level speech recognition in the experiment?",
+      "context": "So, if the system cannot really trust the pronunciation and it cannot really trust the sequence of words because the grammar is wrong, then it is very likely to choose some wrong wordings. So, the human level of performance would be four words in ten to be wrong.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6727941176470589
+      }
+    },
+    {
+      "question": "Why did the speaker wear high heels instead of sneakers?",
+      "context": "The best segment as recognized by Google is why do you wear those instead of those high heels if you would wear some sneakers?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8226190476190476
+      }
+    },
+    {
+      "question": "What were the limitations of speech recognition in this experiment?",
+      "context": "And yet, obviously, they made various grammatical errors and the grammatical errors then, combined with the pronunciation errors, the sequence of words difficult to properly recognize.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.7172619047619048
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the speaker's occupation?",
+      "context": "Oh really? Yes, actually, I work for them.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.85
+      }
+    },
+    {
+      "question": "Why did the speaker wear high heels instead of sneakers?",
+      "context": "The best segment as recognized by Google is why do you wear those instead of those high heels if you would wear some sneakers?",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7777777777777778,
+        "diversity_score": 0.8226190476190476
+      }
+    },
+    {
+      "question": "What was the performance of human-level speech recognition in the experiment?",
+      "context": "So, if the system cannot really trust the pronunciation and it cannot really trust the sequence of words because the grammar is wrong, then it is very likely to choose some wrong wordings. So, the human level of performance would be four words in ten to be wrong.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.6727941176470589
+      }
+    }
+  ]
+}

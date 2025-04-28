@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main difference between constituency trees and dependency trees?",
+      "context": "And to summarize the difference, I've already sketched briefly that constituency trees represent the bracketing...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.864448051948052
+      }
+    },
+    {
+      "question": "How do verb subcategorizations work in relation to nouns and adjectives?",
+      "context": "...the verb anticipates nouns in particular cases or with particular prepositions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9659090909090909
+      }
+    },
+    {
+      "question": "What kind of dependencies are indicated by dependency trees?",
+      "context": "And they indicate which words depend on which...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8715277777777778
+      }
+    },
+    {
+      "question": "Why do linguists design dependencies along the edges of a sentence?",
+      "context": "And these dependencies were designed by linguists so that some conditioning happens along that edge.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8961038961038961
+      }
+    },
+    {
+      "question": "What is the implication of having 'networking' in terms of platform allyship?",
+      "context": "...such networking means that the platform,érable, for their own existing ally.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.875
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What kind of dependencies are indicated by dependency trees?",
+      "context": "And they indicate which words depend on which...",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8715277777777778
+      }
+    },
+    {
+      "question": "Why do linguists design dependencies along the edges of a sentence?",
+      "context": "And these dependencies were designed by linguists so that some conditioning happens along that edge.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.8961038961038961
+      }
+    },
+    {
+      "question": "How do verb subcategorizations work in relation to nouns and adjectives?",
+      "context": "...the verb anticipates nouns in particular cases or with particular prepositions.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2222222222222222,
+        "diversity_score": 0.9659090909090909
+      }
+    },
+    {
+      "question": "What is the implication of having 'networking' in terms of platform allyship?",
+      "context": "...such networking means that the platform,érable, for their own existing ally.",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.875
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What language pairs require additional information to be edited or guessed from the source side?",
+      "context": "In some cases, for some language pairs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "Why is case identification necessary for noun phrases when translating from English into German or Czech?",
+      "context": "you need to identify the case for noun phrases.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8029513888888888
+      }
+    },
+    {
+      "question": "What type of nouns require guessing even the number when translating from Chinese to English?",
+      "context": "And you can extract it monolingually on the source side.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    },
+    {
+      "question": "What is the purpose of figuring out what pronouns refer to during translation?",
+      "context": "when you are doing from pronoun translation, again, you need to figure out what they refer to.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.8567708333333334
+      }
+    },
+    {
+      "question": "Why is additional information needed when translating from Chinese to English?",
+      "context": "And you can extract it monolingually on the source side.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6443181818181818
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What language pairs require additional information to be edited or guessed from the source side?",
+      "context": "In some cases, for some language pairs",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "Why is case identification necessary for noun phrases when translating from English into German or Czech?",
+      "context": "you need to identify the case for noun phrases.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2857142857142857,
+        "diversity_score": 0.8029513888888888
+      }
+    },
+    {
+      "question": "Why is additional information needed when translating from Chinese to English?",
+      "context": "And you can extract it monolingually on the source side.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6443181818181818
+      }
+    },
+    {
+      "question": "What type of nouns require guessing even the number when translating from Chinese to English?",
+      "context": "And you can extract it monolingually on the source side.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6875
+      }
+    }
+  ]
+}

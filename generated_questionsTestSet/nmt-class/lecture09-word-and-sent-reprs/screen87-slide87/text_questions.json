@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What effect does having more heads in the attention on the score?",
+      "context": "Then we also observed that the more heads we have in that attention, that's the constant that we specified",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.4318181818181819
+      }
+    },
+    {
+      "question": "What is the implication of having more heads in the attention on the score?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "Is there a specific constant that determines the effect of having more heads in the attention on the score?",
+      "context": "Then we also observed that the more heads we have in that attention, that's the constant that we specified",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4166666666666667,
+        "diversity_score": 0.5294117647058824
+      }
+    },
+    {
+      "question": "What does 'that's the constant' refer to?",
+      "context": "Then we also observed that the more heads we have in that attention, that's the constant that we specified",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    },
+    {
+      "question": "Is there a relationship between having more heads in the attention and the score?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Is there a relationship between having more heads in the attention and the score?",
+      "context": "",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.75
+      }
+    },
+    {
+      "question": "What is the implication of having more heads in the attention on the score?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6979166666666667
+      }
+    },
+    {
+      "question": "What does 'that's the constant' refer to?",
+      "context": "Then we also observed that the more heads we have in that attention, that's the constant that we specified",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.625
+      }
+    }
+  ]
+}

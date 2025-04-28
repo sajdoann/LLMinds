@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "Why did the Facebook system appear significantly better than the professional translation in English to German?",
+      "context": "The comparison between the Facebook system and professional translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7645833333333334
+      }
+    },
+    {
+      "question": "How many systems participated in the English to German task, compared to Czech?",
+      "context": "The number of participating systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1111111111111111,
+        "diversity_score": 0.5645833333333333
+      }
+    },
+    {
+      "question": "What is the reason for the lack of distinguishable performance among 20 systems in the English to German task?",
+      "context": "The statistical analysis of the results",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6808823529411765
+      }
+    },
+    {
+      "question": "Can we conclude that all systems participated in the English to German task are on par with each other?",
+      "context": "The comparison between the systems' performance",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.23076923076923078,
+        "diversity_score": 0.6736842105263158
+      }
+    },
+    {
+      "question": "How many systems were found to be worse than humans in the English to German task?",
+      "context": "The conclusion about the relative performance of the systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6404761904761904
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How many systems were found to be worse than humans in the English to German task?",
+      "context": "The conclusion about the relative performance of the systems",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.09090909090909091,
+        "diversity_score": 0.6404761904761904
+      }
+    },
+    {
+      "question": "Why did the Facebook system appear significantly better than the professional translation in English to German?",
+      "context": "The comparison between the Facebook system and professional translation",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7645833333333334
+      }
+    },
+    {
+      "question": "What is the reason for the lack of distinguishable performance among 20 systems in the English to German task?",
+      "context": "The statistical analysis of the results",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.08333333333333333,
+        "diversity_score": 0.6808823529411765
+      }
+    }
+  ]
+}

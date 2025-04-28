@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is one problem at the beginning of the pipeline?",
+      "context": "You have to acquire the sound and then you have to present the output to the user.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.702020202020202
+      }
+    },
+    {
+      "question": "Why do you want to prevent overloading the user?",
+      "context": "You don't want to overload the the user.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6488095238095238
+      }
+    },
+    {
+      "question": "What is the goal of presenting output to the user?",
+      "context": "You want some stable and correct output as soon as possible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "How can exposing the user to all candidates affect the system's performance?",
+      "context": "You don't want to expose the user to all the possible candidates that you are considering.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.798951048951049
+      }
+    },
+    {
+      "question": "What is one challenge of dealing with algorithms in this context?",
+      "context": "There is, if you want to deploy the system, there are further things and I'll talk about them today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8093434343434344
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the goal of presenting output to the user?",
+      "context": "You want some stable and correct output as soon as possible.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.7083333333333334
+      }
+    },
+    {
+      "question": "What is one challenge of dealing with algorithms in this context?",
+      "context": "There is, if you want to deploy the system, there are further things and I'll talk about them today.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8093434343434344
+      }
+    },
+    {
+      "question": "Why do you want to prevent overloading the user?",
+      "context": "You don't want to overload the the user.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6488095238095238
+      }
+    },
+    {
+      "question": "How can exposing the user to all candidates affect the system's performance?",
+      "context": "You don't want to expose the user to all the possible candidates that you are considering.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4444444444444444,
+        "diversity_score": 0.798951048951049
+      }
+    }
+  ]
+}

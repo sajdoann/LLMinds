@@ -1,0 +1,127 @@
+{
+  "all_questions": [
+    {
+      "question": "Kde je zásadní rozdíl mezi novélou a původním zákonem?",
+      "context": "Tato pravomoc by nicméně i nadále byla omezena na dobu 60 dní, poté by pobyt vojsk mimo ČR musel schvalovat Parlament, stejně jako je tomu nyní.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.125,
+        "diversity_score": 0.9533333333333334
+      }
+    },
+    {
+      "question": "Který zákon prohlásil výrok o tom, že vláda může vyslat vojáky do zahraničí bez souhlasu Parlamentu?",
+      "context": ".pdf (str. 1). Ve své odpovědi předseda hnutí ANO uvedl, že návrh na změnu pravidel pravomocí vlády pochází ještě „z jeho vlády“ a ve spojitosti s tímto návrhem zmínil jen případ záchrany Čechů v zahraničí.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1875,
+        "diversity_score": 0.9803921568627451
+      }
+    },
+    {
+      "question": "What is the current limit for deploying troops abroad?",
+      "context": "moc by nicméně i&nbsp;nadále byla omezena na dobu 60&nbsp;dní",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7685185185185186
+      }
+    },
+    {
+      "question": "Why are there ongoing efforts to extend the limits for deploying troops abroad?",
+      "context": "Současný návrh tak <a href=\"https://advokatnidenik.cz/2022/06/13/ministerstvo-obrany-predklada-vlade-upravu-vysilani-vojaku-do-zahranici/\">rozšiřuje</a> okruh vymezených případů, kdy vláda může maximálně na 60&nbsp;dní bez předchozího parlamentního souhlasu vyslat vojáky mimo české území.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8896321070234113
+      }
+    },
+    {
+      "question": "What is the purpose of the proposed changes to the Constitution?",
+      "context": "Navržené změny tak měly vládě umožnit „operativně rozhodovat o vyslání ozbrojených sil ČR mimo území ČR a o pobytu ozbrojených sil jiných států na území ČR bez specifikace účelu vyslání, resp. pobytu“ (<a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7642195767195767
+      }
+    },
+    {
+      "question": "What is the main argument against the proposed changes to the Constitution?",
+      "context": "<i>„podle dosavadní úpravy by například bylo mimořádně obtížné včasné vyslání ozbrojených sil ČR za účelem záchrany životů občanů ČR protiprávně zadržovaných v zahraničí“</i> (<a href=",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7833333333333333
+      }
+    },
+    {
+      "question": "What is the main argument in favor of the proposed changes to the Constitution?",
+      "context": "Mezi <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the current limit for deploying troops abroad?",
+      "context": "moc by nicméně i&nbsp;nadále byla omezena na dobu 60&nbsp;dní",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7685185185185186
+      }
+    },
+    {
+      "question": "Why are there ongoing efforts to extend the limits for deploying troops abroad?",
+      "context": "Současný návrh tak <a href=\"https://advokatnidenik.cz/2022/06/13/ministerstvo-obrany-predklada-vlade-upravu-vysilani-vojaku-do-zahranici/\">rozšiřuje</a> okruh vymezených případů, kdy vláda může maximálně na 60&nbsp;dní bez předchozího parlamentního souhlasu vyslat vojáky mimo české území.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8896321070234113
+      }
+    },
+    {
+      "question": "What is the main argument in favor of the proposed changes to the Constitution?",
+      "context": "Mezi <a href=",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7638888888888888
+      }
+    },
+    {
+      "question": "What is the main argument against the proposed changes to the Constitution?",
+      "context": "<i>„podle dosavadní úpravy by například bylo mimořádně obtížné včasné vyslání ozbrojených sil ČR za účelem záchrany životů občanů ČR protiprávně zadržovaných v zahraničí“</i> (<a href=",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7833333333333333
+      }
+    }
+  ]
+}

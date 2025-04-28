@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the effect of having more heads in the same setup on performance in semantics tasks?",
+      "context": "And also, the more heads we have in the same setup, the worse the performance in the semantics tasks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7964285714285715
+      }
+    },
+    {
+      "question": "How does having attention and more heads affect translation performance?",
+      "context": "So this was on a sample of... (previous slide)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What type of tasks is the document discussing?",
+      "context": "(no specific context provided, but can be inferred from the content) The document appears to be discussing performance in semantics tasks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.740953947368421
+      }
+    },
+    {
+      "question": "Can you infer that having more heads and attention is beneficial for translation?",
+      "context": "So this was on a sample of... (previous slide)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "What type of analysis would be required to fully understand the relationship between heads, attention, and performance in semantics tasks?",
+      "context": "(no specific context provided, but can be inferred from the content) The document requires some level of analysis to fully understand the complex relationships mentioned.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.8426630434782609
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the effect of having more heads in the same setup on performance in semantics tasks?",
+      "context": "And also, the more heads we have in the same setup, the worse the performance in the semantics tasks.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5454545454545454,
+        "diversity_score": 0.7964285714285715
+      }
+    },
+    {
+      "question": "Can you infer that having more heads and attention is beneficial for translation?",
+      "context": "So this was on a sample of... (previous slide)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7692307692307692
+      }
+    },
+    {
+      "question": "How does having attention and more heads affect translation performance?",
+      "context": "So this was on a sample of... (previous slide)",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7625
+      }
+    },
+    {
+      "question": "What type of analysis would be required to fully understand the relationship between heads, attention, and performance in semantics tasks?",
+      "context": "(no specific context provided, but can be inferred from the content) The document requires some level of analysis to fully understand the complex relationships mentioned.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.4117647058823529,
+        "diversity_score": 0.8426630434782609
+      }
+    }
+  ]
+}

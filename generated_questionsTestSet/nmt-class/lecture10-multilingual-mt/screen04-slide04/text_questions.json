@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the main goal of using transfer learning in child language pairs?",
+      "context": "So let's look at the first setup that I mentioned the transfer learning in transfer learning The goal is to improve the translation quality in one target or Well, let's call it child language pair",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5975274725274725
+      }
+    },
+    {
+      "question": "Where does the concept of transfer learning originate from?",
+      "context": "The goal is to improve the translation quality in one target or Well, let's call it child language pair and we can reuse data for other languages and the the transfer learning is a technique known from Neural networks in general, so it's not limited to machine translation obviously",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5650406504065041
+      }
+    },
+    {
+      "question": "What type of data can be reused using transfer learning?",
+      "context": "The goal is to improve the translation quality in one target or Well, let's call it child language pair and we can reuse data for other languages",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2,
+        "diversity_score": 0.5384615384615384
+      }
+    },
+    {
+      "question": "How does transfer learning relate to machine translation?",
+      "context": "The goal is to improve the translation quality in one target or Well, let's call it child language pair and we can reuse data for other languages and the the transfer learning is a technique known from Neural networks in general, so it's not limited to machine translation obviously",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5754573170731707
+      }
+    },
+    {
+      "question": "What are some potential applications of transfer learning beyond machine translation?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8409090909090909
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the main goal of using transfer learning in child language pairs?",
+      "context": "So let's look at the first setup that I mentioned the transfer learning in transfer learning The goal is to improve the translation quality in one target or Well, let's call it child language pair",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.5975274725274725
+      }
+    },
+    {
+      "question": "How does transfer learning relate to machine translation?",
+      "context": "The goal is to improve the translation quality in one target or Well, let's call it child language pair and we can reuse data for other languages and the the transfer learning is a technique known from Neural networks in general, so it's not limited to machine translation obviously",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.5754573170731707
+      }
+    },
+    {
+      "question": "Where does the concept of transfer learning originate from?",
+      "context": "The goal is to improve the translation quality in one target or Well, let's call it child language pair and we can reuse data for other languages and the the transfer learning is a technique known from Neural networks in general, so it's not limited to machine translation obviously",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.25,
+        "diversity_score": 0.5650406504065041
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "Who is the speaker?",
+      "context": "Ich heiße Erik Nielsen und ich leite die ökonomische Abteilung von Unicredit Global.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What are the criteria for introducing the Euro in a member state?",
+      "context": "Es gibt auch die Ausnahme des Großbritanniens und Dänemarks, die Euro nicht einführen müssen. Für die Einführung gibt es bestimmte Kriterien, die man erst erfüllen muss.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9074675324675324
+      }
+    },
+    {
+      "question": "What was the initial reaction to the introduction of the Euro in Slovakia?",
+      "context": "Einige Prognosen waren am Anfang negativ. Aber ich denke, dass wir jetzt sagen können, dass die Slowakei eine Werbung auf Erfolg, was die Euro-Einführung betrifft.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8992094861660079
+      }
+    },
+    {
+      "question": "Was waren die beiden neuen Länder, die sich aus der Tschechoslowakei entwickelten?",
+      "context": "Tschechoslowakei hat sich in zwei neue Länder geteilt. Es entstand die Tschechische Republik.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9388111888111889
+      }
+    },
+    {
+      "question": "Wie viel ist der Unterschied im BIP pro Jahr zwischen Tschechien und der Slowakei?",
+      "context": "Das Ergebnis war folgend. Das Unterschied im BIP pro Koff zwischen Tschechien und der Slowakei ist gesunken. Von 21% auf 7% im Jahre 2015.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7857142857142857,
+        "diversity_score": 0.9619755244755245
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "Was waren die beiden neuen Länder, die sich aus der Tschechoslowakei entwickelten?",
+      "context": "Tschechoslowakei hat sich in zwei neue Länder geteilt. Es entstand die Tschechische Republik.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.9388111888111889
+      }
+    },
+    {
+      "question": "Wie viel ist der Unterschied im BIP pro Jahr zwischen Tschechien und der Slowakei?",
+      "context": "Das Ergebnis war folgend. Das Unterschied im BIP pro Koff zwischen Tschechien und der Slowakei ist gesunken. Von 21% auf 7% im Jahre 2015.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.7857142857142857,
+        "diversity_score": 0.9619755244755245
+      }
+    },
+    {
+      "question": "What are the criteria for introducing the Euro in a member state?",
+      "context": "Es gibt auch die Ausnahme des Großbritanniens und Dänemarks, die Euro nicht einführen müssen. Für die Einführung gibt es bestimmte Kriterien, die man erst erfüllen muss.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.9074675324675324
+      }
+    },
+    {
+      "question": "What was the initial reaction to the introduction of the Euro in Slovakia?",
+      "context": "Einige Prognosen waren am Anfang negativ. Aber ich denke, dass wir jetzt sagen können, dass die Slowakei eine Werbung auf Erfolg, was die Euro-Einführung betrifft.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.8992094861660079
+      }
+    }
+  ]
+}

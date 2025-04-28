@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What happens to the hypothesis when the standard phrase-based approach is used?",
+      "context": "When we cover the standard phrase-based approach. You sort the hypothesis by the score and you emit the best one.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7563920454545454
+      }
+    },
+    {
+      "question": "What action is taken to the sorted hypotheses in the standard phrase-based approach?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7604166666666666
+      }
+    },
+    {
+      "question": "What is emitted as a result of the standard phrase-based approach?",
+      "context": "You emit the best one.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6477272727272727
+      }
+    },
+    {
+      "question": "Why are hypotheses sorted in the standard phrase-based approach?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    },
+    {
+      "question": "What is the purpose of emitting a hypothesis in the context of natural language processing?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692307
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What happens to the hypothesis when the standard phrase-based approach is used?",
+      "context": "When we cover the standard phrase-based approach. You sort the hypothesis by the score and you emit the best one.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.7563920454545454
+      }
+    },
+    {
+      "question": "What is the purpose of emitting a hypothesis in the context of natural language processing?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8557692307692307
+      }
+    },
+    {
+      "question": "What action is taken to the sorted hypotheses in the standard phrase-based approach?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7604166666666666
+      }
+    },
+    {
+      "question": "Why are hypotheses sorted in the standard phrase-based approach?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.7777777777777778
+      }
+    }
+  ]
+}

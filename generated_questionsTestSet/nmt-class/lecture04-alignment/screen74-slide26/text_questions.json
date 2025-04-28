@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the initial processing step for a source sentence in IBM Model 4?",
+      "context": "This source sentence is first processed with the Fertility Model that for some words says they don't have any translation, for some words it's like prepare slots",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7485119047619048
+      }
+    },
+    {
+      "question": "How does the lexical translation probability work in IBM Model 4?",
+      "context": "The particle is strange thing here is that we use the the same entry in the lexical translation probability for translating these three versions of slap",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7613636363636364
+      }
+    },
+    {
+      "question": "What is the purpose of the distortion model in IBM Model 4?",
+      "context": "And then finally there is some distortion model which allows the words to be further reordered",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.64375
+      }
+    },
+    {
+      "question": "Why might a standardized control system not be used in favor of another approach?",
+      "context": "So I've got two things now, assume you repeat the time for the time.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8798076923076923
+      }
+    },
+    {
+      "question": "What is being questioned about the use of IBM Model 4 in word alignment?",
+      "context": "And this does not mean the answer, this is the question of what I asked what I said was on when the standardized control system is each to get used in a favor.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.2727272727272727,
+        "diversity_score": 0.7748015873015873
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the initial processing step for a source sentence in IBM Model 4?",
+      "context": "This source sentence is first processed with the Fertility Model that for some words says they don't have any translation, for some words it's like prepare slots",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7485119047619048
+      }
+    },
+    {
+      "question": "Why might a standardized control system not be used in favor of another approach?",
+      "context": "So I've got two things now, assume you repeat the time for the time.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8798076923076923
+      }
+    },
+    {
+      "question": "How does the lexical translation probability work in IBM Model 4?",
+      "context": "The particle is strange thing here is that we use the the same entry in the lexical translation probability for translating these three versions of slap",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7613636363636364
+      }
+    }
+  ]
+}

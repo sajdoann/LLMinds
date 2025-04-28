@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is the purpose of keeping a set of candidates and preserving only k of them for the next step?",
+      "context": "These candidate hypothesis by their score.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8823529411764706
+      }
+    },
+    {
+      "question": "How does the phrase-based approach provide insight into this process?",
+      "context": "So you keep a set of candidates and you for the next step you preserve only k of them again.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    },
+    {
+      "question": "What is the significance of preserving only k of the candidates for the next step?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "How does this process relate to selecting hypotheses based on their scores?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9583333333333334
+      }
+    },
+    {
+      "question": "What is the meaning of 'phrase-based approach' in this context?",
+      "context": "",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is the purpose of keeping a set of candidates and preserving only k of them for the next step?",
+      "context": "These candidate hypothesis by their score.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.06666666666666667,
+        "diversity_score": 0.8823529411764706
+      }
+    },
+    {
+      "question": "How does this process relate to selecting hypotheses based on their scores?",
+      "context": "",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9583333333333334
+      }
+    },
+    {
+      "question": "How does the phrase-based approach provide insight into this process?",
+      "context": "So you keep a set of candidates and you for the next step you preserve only k of them again.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9125
+      }
+    }
+  ]
+}

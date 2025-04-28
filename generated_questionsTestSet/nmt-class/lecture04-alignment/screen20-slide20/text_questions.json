@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of plots are shown in the document?",
+      "context": "And we have two more plots here. One is when we include professional translation and when we use all the professional translations that we have.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6776315789473684
+      }
+    },
+    {
+      "question": "Why do the community translations have higher BLEU scores?",
+      "context": "So the BLEU scores are somewhat higher for the professional translations, Defence! The freebrade is about the same.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6888888888888889
+      }
+    },
+    {
+      "question": "What is being compared in the plots?",
+      "context": "And we have two more plots here. One is when we include professional translation and when we use all the professional translations that we have.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.6240601503759399
+      }
+    },
+    {
+      "question": "Why might the community translations be out of domain?",
+      "context": "You see that the community translations are maybe even more out of domain for this out of domain dataset or they are not nice and fluent sentences.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8019323671497585
+      }
+    },
+    {
+      "question": "What is being compared in terms of BLEU scores?",
+      "context": "So the BLEU scores are somewhat higher for the professional translations, Defence! The freebrade is about the same.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.42857142857142855,
+        "diversity_score": 0.6472222222222221
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of plots are shown in the document?",
+      "context": "And we have two more plots here. One is when we include professional translation and when we use all the professional translations that we have.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.6776315789473684
+      }
+    },
+    {
+      "question": "Why might the community translations be out of domain?",
+      "context": "You see that the community translations are maybe even more out of domain for this out of domain dataset or they are not nice and fluent sentences.",
+      "difficulty": "medium",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.625,
+        "diversity_score": 0.8019323671497585
+      }
+    },
+    {
+      "question": "Why do the community translations have higher BLEU scores?",
+      "context": "So the BLEU scores are somewhat higher for the professional translations, Defence! The freebrade is about the same.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.375,
+        "diversity_score": 0.6888888888888889
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What problem does self-attention aim to solve?",
+      "context": "So how does the self-attention work? We want to aggregate the information from an input which is arbitrarily long into a fixed size vector and we want this to be in a trainable way so that the network itself can decide what is important and what is not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.5,
+        "diversity_score": 0.541988416988417
+      }
+    },
+    {
+      "question": "How does self-attention aggregate information from an input?",
+      "context": "So how does the self-attention work? We want to aggregate the information from an input which is arbitrarily long into a fixed size vector and we want this to be in a trainable way so that the network itself can decide what is important and what is not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.5933277027027026
+      }
+    },
+    {
+      "question": "Why does self-attention need to be trainable?",
+      "context": "We want this to be in a trainable way so that the network itself can decide what is important and what is not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.4821428571428572
+      }
+    },
+    {
+      "question": "What effect does self-attention have on the input data?",
+      "context": "We want to aggregate the information from an input which is arbitrarily long into a fixed size vector",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.5694444444444444
+      }
+    },
+    {
+      "question": "Why is the goal of self-attention important?",
+      "context": "so that the network itself can decide what is important and what is not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.49702380952380953
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How does self-attention aggregate information from an input?",
+      "context": "So how does the self-attention work? We want to aggregate the information from an input which is arbitrarily long into a fixed size vector and we want this to be in a trainable way so that the network itself can decide what is important and what is not.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.8571428571428571,
+        "diversity_score": 0.5933277027027026
+      }
+    },
+    {
+      "question": "Why is the goal of self-attention important?",
+      "context": "so that the network itself can decide what is important and what is not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.49702380952380953
+      }
+    },
+    {
+      "question": "Why does self-attention need to be trainable?",
+      "context": "We want this to be in a trainable way so that the network itself can decide what is important and what is not.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.16666666666666666,
+        "diversity_score": 0.4821428571428572
+      }
+    }
+  ]
+}

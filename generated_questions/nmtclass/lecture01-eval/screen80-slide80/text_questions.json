@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What units can be used to evaluate coarser forms instead of exact word forms?",
+      "context": "We can evaluate coarser units, so not exact word forms, but lemmas or deep-lemmas.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.5384615384615384,
+        "diversity_score": 0.8839285714285714
+      }
+    },
+    {
+      "question": "What is an alternative metric to the BLEU score that is simpler and correlates better with humans?",
+      "context": "That's something which is equally simple to the BLEU score calculation and it should be popular because it is simpler and correlates better with humans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9154829545454546
+      }
+    },
+    {
+      "question": "What type of sequences can be used instead of longer ones?",
+      "context": "So these other metrics are a bit more complicated and there is a number of, a large number of other metrics. And another option is that you could use shorter and gapy sequences.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.36363636363636365,
+        "diversity_score": 0.8153846153846154
+      }
+    },
+    {
+      "question": "How using references created from MT outputs affects the accuracy of the model?",
+      "context": "If you use more references alone that helps, but it is costly. If you use references which are created from the MT outputs, then you will indeed have a mismatch only when there was an error that the post editor had to fix.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8333333333333334
+      }
+    },
+    {
+      "question": "How using references based on MB outputs can improve the model's accuracy?",
+      "context": "So if you have references that are based on the MB outputs, then they will serve better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7990196078431373
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "How using references based on MB outputs can improve the model's accuracy?",
+      "context": "So if you have references that are based on the MB outputs, then they will serve better.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.4,
+        "diversity_score": 0.7990196078431373
+      }
+    },
+    {
+      "question": "What is an alternative metric to the BLEU score that is simpler and correlates better with humans?",
+      "context": "That's something which is equally simple to the BLEU score calculation and it should be popular because it is simpler and correlates better with humans.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6363636363636364,
+        "diversity_score": 0.9154829545454546
+      }
+    },
+    {
+      "question": "How using references created from MT outputs affects the accuracy of the model?",
+      "context": "If you use more references alone that helps, but it is costly. If you use references which are created from the MT outputs, then you will indeed have a mismatch only when there was an error that the post editor had to fix.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.45454545454545453,
+        "diversity_score": 0.8333333333333334
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What is expected to happen if only the correctly labeled Community Supply Translations are relied upon?",
+      "context": "Our first run",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9140625
+      }
+    },
+    {
+      "question": "How high will the BLEU score be in this scenario?",
+      "context": "terribly low",
+      "difficulty": "hard",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8625
+      }
+    },
+    {
+      "question": "What percentage of words are expected not to be translated and thus unreadable?",
+      "context": "about 5%",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9038461538461539
+      }
+    },
+    {
+      "question": "What can be inferred about the usefulness of the translations in this scenario?",
+      "context": "they don't make much sense",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What is stated as the next step after dealing with the low BLEU score and high out-of-vocabulary rate?",
+      "context": "Then we can...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191176470588235
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What is expected to happen if only the correctly labeled Community Supply Translations are relied upon?",
+      "context": "Our first run",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9140625
+      }
+    },
+    {
+      "question": "What can be inferred about the usefulness of the translations in this scenario?",
+      "context": "they don't make much sense",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.8645833333333334
+      }
+    },
+    {
+      "question": "What is stated as the next step after dealing with the low BLEU score and high out-of-vocabulary rate?",
+      "context": "Then we can...",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.0,
+        "diversity_score": 0.9191176470588235
+      }
+    }
+  ]
+}

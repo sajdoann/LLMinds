@@ -1,0 +1,105 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of sequence is grammatically wrong in terms of morphological information?",
+      "context": "A combination of determiner in singular followed by a noun in plural",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8852272727272728
+      }
+    },
+    {
+      "question": "Why should the language model remove this sequence?",
+      "context": "To avoid grammatically wrong sequences and allow for efficient training on all possible determiners and nouns.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.840625
+      }
+    },
+    {
+      "question": "What is one advantage of considering both part of speech tag and full morphological information?",
+      "context": "Discussing the improvement at length beforehand",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.07142857142857142,
+        "diversity_score": 0.9107142857142857
+      }
+    },
+    {
+      "question": "What type of knowledge should the language model not have to relearn for every combination of a noun and determiner?",
+      "context": "Knowledge of agreement between determiners and nouns",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8543233082706767
+      }
+    },
+    {
+      "question": "Why is training on all possible determiners and nouns beneficial for the language model?",
+      "context": "Allowing it to remove grammatically wrong sequences",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8392857142857143
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What type of sequence is grammatically wrong in terms of morphological information?",
+      "context": "A combination of determiner in singular followed by a noun in plural",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.2,
+        "diversity_score": 0.8852272727272728
+      }
+    },
+    {
+      "question": "What type of knowledge should the language model not have to relearn for every combination of a noun and determiner?",
+      "context": "Knowledge of agreement between determiners and nouns",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8543233082706767
+      }
+    },
+    {
+      "question": "Why should the language model remove this sequence?",
+      "context": "To avoid grammatically wrong sequences and allow for efficient training on all possible determiners and nouns.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.0,
+        "diversity_score": 0.840625
+      }
+    },
+    {
+      "question": "Why is training on all possible determiners and nouns beneficial for the language model?",
+      "context": "Allowing it to remove grammatically wrong sequences",
+      "difficulty": "hard",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": false,
+        "context_relevance": 0.1,
+        "diversity_score": 0.8392857142857143
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "all_questions": [
+    {
+      "question": "What type of system was used for training the single model, and how did it differ from the pairwise system?",
+      "context": "You will see the 100 languages or 103 languages and the baseline is all in the relative performance of the BLUE score. So we always train or Google always trained or always trained the pairwise system for that particle language paired with English.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "What token was used to identify the desired target language in the multilingual model?",
+      "context": "And again he used the standard thing, the XPR token, to identify the desired target language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7747252747252747
+      }
+    },
+    {
+      "question": "What is the finding regarding the comparison of BLUE scores between the multilingual system and the baseline pairwise system?",
+      "context": "And this picture which was trained for many months, I will and this is the low resource languages. And this picture clearly confirms that it's the low resource languages that benefit from the multilingual setting.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.14285714285714285,
+        "diversity_score": 0.75375
+      }
+    },
+    {
+      "question": "What is the expected outcome for high-resource languages when using a normal transformer size in the multilingual model?",
+      "context": "And the high resource languages, if you use the normal transformer size, will actually suffer.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7678571428571428
+      }
+    },
+    {
+      "question": "At what point do the benefits of using a multilingual model over a pairwise system start to diminish?",
+      "context": "Because at some point the languages become low resource compared to the average.",
+      "difficulty": "hard",
+      "category": "analytical",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.07692307692307693,
+        "diversity_score": 0.7487745098039216
+      }
+    }
+  ],
+  "selected_questions": [
+    {
+      "question": "What token was used to identify the desired target language in the multilingual model?",
+      "context": "And again he used the standard thing, the XPR token, to identify the desired target language.",
+      "difficulty": "easy",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.6666666666666666,
+        "diversity_score": 0.7747252747252747
+      }
+    },
+    {
+      "question": "What type of system was used for training the single model, and how did it differ from the pairwise system?",
+      "context": "You will see the 100 languages or 103 languages and the baseline is all in the relative performance of the BLUE score. So we always train or Google always trained or always trained the pairwise system for that particle language paired with English.",
+      "difficulty": "medium",
+      "category": "factual",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3125,
+        "diversity_score": 0.8143939393939394
+      }
+    },
+    {
+      "question": "What is the expected outcome for high-resource languages when using a normal transformer size in the multilingual model?",
+      "context": "And the high resource languages, if you use the normal transformer size, will actually suffer.",
+      "difficulty": "medium",
+      "category": "inferential",
+      "evaluation": {
+        "answerable": true,
+        "context_relevance": 0.3333333333333333,
+        "diversity_score": 0.7678571428571428
+      }
+    }
+  ]
+}

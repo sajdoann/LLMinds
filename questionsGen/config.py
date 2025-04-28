@@ -19,8 +19,8 @@ class Config:
         # Default
         self._config = {
             "llm": {
-                "provider": "ollama", # huggingface, ollama or gpt4o
-                "api_key": os.environ.get("OPENAI_API_KEY", ""),
+                "provider": "azure", # huggingface, ollama or gpt4o
+                "api_key": os.environ.get("AZURE_GPT35_KEY", ""), #OPENAI_API_KEY
                 "model_path": "deepseek-r1:1.5b",
                 "temperature": 0.7,
                 "max_tokens": 2000

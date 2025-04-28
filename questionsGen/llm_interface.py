@@ -4,6 +4,8 @@ from typing import List, Dict, Any, Optional
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import requests
+import os
+from openai import AzureOpenAI
 
 
 class LLMInterface(ABC):
@@ -157,6 +159,42 @@ class HuggingFaceInterface(LLMInterface):
         completion = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
         return completion[len(prompt):].strip()
 
+class AzureLLMInterface(LLMInterface):
+    """Azure OpenAI deployment via azure.ai.openai.OpenAIClient."""
+    def __init__(
+        self,
+        endpoint: str,
+        api_key: str,
+        deployment_name: str,
+        api_version: str = "2024-12-01-preview",
+    ):
+        """
+        Args:
+            endpoint: Your Azure OpenAI endpoint, e.g. "https://<your-resource>.openai.azure.com/"
+            api_key:    Your Azure OpenAI API key
+            deployment_name: The name you gave your model deployment in the Portal/CLI
+            api_version:     (optional) Azure API version
+        """
+        credential = AzureKeyCredential(api_key)
+        # note: you can also pass api_version into OpenAIClient(...) if you need a non-default
+        self.client = OpenAIClient(api_version = "2024-12-01-preview",
+        endpoint=endpoint, credential=credential)
+        self.deployment_name = deployment_name
+
+    def generate_completion(
+        self,
+        prompt: str,
+        max_tokens: int = 1000,
+        temperature: float = 0.7
+    ) -> str:
+        resp = self.client.get_completions(
+            deployment_name=self.deployment_name,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=max_tokens,
+            temperature=temperature
+        )
+        return resp.choices[0].text
+
 
 
 def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
@@ -185,5 +223,16 @@ def get_llm_interface(provider: str, **kwargs) -> LLMInterface:
             raise ValueError("Model name (model_path) is required for Hugging Face interface")
         device = kwargs.get('device', None)
         return HuggingFaceInterface(model_name=model_name, device=device)
+    elif provider == 'azure':
+        endpoint = "https://sajdoann-student.openai.azure.com/"
+        api_key = kwargs.get('api_key') or os.getenv("AZURE_OPENAI_KEY")
+        deployment_name = kwargs.get('deployment_name')
+        if not all([endpoint, api_key, deployment_name]):
+            raise ValueError("Azure requires endpoint, api_key and deployment_name")
+        return AzureLLMInterface(
+            endpoint=endpoint,
+            api_key=api_key,
+            deployment_name=deployment_name
+        )
     else:
         raise ValueError(f"Unsupported LLM provider: {provider}")

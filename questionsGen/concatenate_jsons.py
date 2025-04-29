@@ -9,17 +9,21 @@ output = {}
 
 for root_dir in root_dirs:
     for dirpath, dirnames, filenames in os.walk(root_dir):
+        print(dirpath)
         # Filter only .json files containing "questions" in their name
         json_files = [f for f in filenames if f.endswith(".json") and "questions" in f]
 
         if not json_files:
+            print(f"ERROR")
             continue  # No JSON files in this folder
+
 
         # Prefer 'text.en_questions.json' if present
         if "text.en_questions.json" in json_files:
             selected_file = "text.en_questions.json"
         else:
-            selected_file = sorted(json_files)[0]  # Pick the first available one alphabetically
+            selected_file = sorted(json_files)[-1]  # Pick the last available one alphabetically
+            print(f"[*] {selected_file}")
 
         file_path = os.path.join(dirpath, selected_file)
         relative_folder = os.path.relpath(dirpath, root_dir).replace("\\", "/")

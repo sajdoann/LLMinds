@@ -1,0 +1,7 @@
+[
+    "How does the allocation of partial hypotheses into stacks potentially create unfair competition between hypotheses covering the same number of source words?",
+    "Why is it problematic to prune hypotheses purely based on the score so far during translation, especially when considering the sequence of translating easy versus hard parts?",
+    "What is the role of the heuristic function in the A* search algorithm as applied to translation hypotheses, and how does it influence the fairness of the search process?",
+    "How does considering only the translation of individual phrases contribute to estimating the future cost in the translation process?",
+    "Why is ignoring the reordering cost and boundary effects considered an optimistic estimate in the future cost calculation, and what are the implications of this assumption?"
+]

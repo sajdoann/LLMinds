@@ -1,0 +1,5 @@
+[
+    "What would happen to the child model's performance if it is initialized with the weights of the parent language pair instead of being trained randomly?",
+    "What would happen to the performance of a child model if it is not initialized with random weights, but instead continued training on the same data as the parent language pair?",
+    "What happens when a model is trained on a small dataset and then tested on a larger, unseen dataset, leading to poor performance?"
+]

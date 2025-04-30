@@ -1,0 +1,5 @@
+[
+    "What is the relationship between the performance of multilingual systems and whether the target languages are shared or distinct in the context of transfer learning?",
+    "What is the impact of having shared versus distinct target languages on the performance of multilingual systems in the context of transfer learning?",
+    "The complication arises because when target languages are distinct, maintaining performance across multiple languages becomes challenging. Fine-tuning a model for one language can negatively affect its performance on others, making independent training more effective in such cases."
+]

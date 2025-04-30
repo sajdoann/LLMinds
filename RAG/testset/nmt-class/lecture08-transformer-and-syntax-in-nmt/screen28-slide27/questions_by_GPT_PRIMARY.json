@@ -1,0 +1,7 @@
+[
+    "What are the three main applications of self-attention within the Transformer architecture, and how do they differ in their mechanisms and purposes?",
+    "How does the self-attention mechanism utilize multiple heads, and what is the significance of concatenating the outputs from these heads?",
+    "Why is masking crucial in decoder self-attention, and what could potentially happen if this masking were not implemented?",
+    "How can the attention weights derived from specific heads in a Transformer help interpret the model’s understanding of an input sentence?",
+    "What does the example of the pronoun 'it' in the sentence reveal about the capabilities of the Transformer’s attention heads?"
+]

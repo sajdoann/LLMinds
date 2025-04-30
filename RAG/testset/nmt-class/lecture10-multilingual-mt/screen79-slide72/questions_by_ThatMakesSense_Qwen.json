@@ -1,0 +1,5 @@
+[
+    "The main bottleneck when using a large model with multiple target languages is that if you try to include too many target languages without increasing the model's capacity, the high-resource languages will lose performance compared to when they are trained individually.",
+    "What is the advantage of using a gating network with experts in a large transformer model?",
+    "The trade-off when using a large model with a mixture of experts for multiple languages involves balancing model capacity against the number of languages to maintain performance. While increasing the model size can improve performance, adding too many languages without scaling the model capacity can lead to degraded performance, particularly for high-resource languages that may require more focused training. Low-resource languages might not fully utilize the model's capacity due to limited data. Thus, the trade-off involves optimizing the model's size and the number of languages to ensure effective performance across all included languages."
+]

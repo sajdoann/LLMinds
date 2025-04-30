@@ -1,0 +1,16 @@
+[
+    "What are the main advantages that have led neural machine translation to become a leading approach in recent years?",
+    "What are the key challenges that neural machine translation still faces despite recent successes?",
+    "Why do neural machine translation systems tend to be less interpretable compared to traditional methods?",
+    "How are neural machine translation systems typically trained and evaluated in comparison to phrase-based statistical systems?",
+    "What role does domain adaptation play in the development of machine translation systems, and what challenges does it pose?",
+    "How does the amount of training data influence the performance of statistical and neural machine translation systems?",
+    "What are the implications of the observed out-of-domain performance issues for practical deployment of neural machine translation?",
+    "How does the amount of training data affect the performance of neural machine translation compared to statistical machine translation?",
+    "What influences the quality of translations when the training data size is small in neural machine translation?",
+    "How does noise in the training data differently impact neural versus statistical machine translation systems?",
+    "In the context of word alignment in machine translation, what are the limitations of the attention model in neural systems?",
+    "What are the challenges in using beam search during neural machine translation decoding?",
+    "How does increasing the beam size parameter affect the quality and score of translations in neural translation models?",
+    "What is the relationship between the model score of translations and their quality scores, such as BLEU, in neural machine translation?"
+]

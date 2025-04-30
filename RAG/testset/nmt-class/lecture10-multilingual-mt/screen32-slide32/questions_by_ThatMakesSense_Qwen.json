@@ -1,0 +1,5 @@
+[
+    "What effect does training a parent model on sentences of different lengths have on the BLEU score and the length of the translated outputs?",
+    "How does training the parent model on sentences of varying lengths affect its translation performance, as measured by BLEU score and output length?",
+    "When the parent model was trained on sentences with 20 to 40 words, the BLEU score was significantly lower compared to training on a balanced range of sentence lengths. Additionally, the output sentences were longer than the average length of 15 words, leading to a decrease in BLEU score due to precision issues with n-grams and brevity penalties."
+]

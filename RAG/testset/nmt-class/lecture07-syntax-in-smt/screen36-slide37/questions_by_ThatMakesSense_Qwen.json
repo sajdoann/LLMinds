@@ -1,0 +1,5 @@
+[
+    "How does the dependency tree approach compare to n-grams in capturing word relationships, and what statistics support this?",
+    "The text suggests that dependency trees effectively capture grammatical relationships in language processing, often connecting words that are adjacent, but also handling non-adjacent words through their structural dependencies. This approach is more efficient than n-grams, which rely on adjacency and require longer sequences to capture similar relationships.",
+    "Question: Explain why dependency trees are more effective than n-grams in predicting lexical choices and grammatical categories, using the example of the words \"grass\" and \"cut,\" and discuss the statistics provided about edges in the Czech tree bank."
+]

@@ -1,0 +1,7 @@
+[
+    "Why is it important for neural network models to consider the mutual dependencies between words in a sequence?",
+    "What challenges arise when trying to encode positional information in models where tokens are processed independently?",
+    "How do positional encoding vectors help a neural network differentiate the positions of words, and what is the significance of their construction method?",
+    "Why might introducing randomness into positional vectors still surprisingly produce effective positional encoding, and what does this imply about model design?",
+    "In what ways does the addition of positional encoding vectors to word embeddings influence the network's understanding of language structure?"
+]

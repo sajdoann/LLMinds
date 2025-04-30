@@ -1,0 +1,5 @@
+[
+    "What is the problem that arises when an NP from a multi-word expression like \"checkpoints\" cannot be plugged into a slot expecting a plural noun in substitution grammar?",
+    "The problem arises because the synchronous tree substitution grammar expects specific non-terminals to match when plugging in phrases, but multi-word noun phrases like \"checkpoints\" are parsed as NPs, which cannot be substituted into slots expecting a single noun due to a lack of appropriate licensing rules.",
+    "What is the specific issue that arises when trying to plug the NP (noun phrase) into the slot expecting a noun in plural, given the context of the grammar system described?"
+]

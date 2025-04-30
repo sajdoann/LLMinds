@@ -1,0 +1,11 @@
+[
+    "What is the main topic of this document?",
+    "What are the input and output tokens for the source language (x) in the model?",
+    "What are the input and output tokens for the target language (y) in the model?",
+    "What is the initial state of the Encoder in the model?",
+    "What is the formula for the n-th state of the Encoder in the model?",
+    "What is the initial state of the Decoder in the model?",
+    "What is the formula for the n-th state of the Decoder in the model?",
+    "What is the formula for the word score at each step of the Decoder in the model?",
+    "How is the output of the Decoder determined in the model?"
+]

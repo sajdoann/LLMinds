@@ -1,0 +1,1 @@
+ So the idea is that you are translating from English. Machine translation should be easy. That's the input. You have the morphological layer. Each word has a node. And then you have the analytic layer. Again, each word still has a node. And they are also labeled. And you know that should is the root of this tree. And you need to first go to the deep syntactic tree.

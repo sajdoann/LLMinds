@@ -1,0 +1,7 @@
+[
+    "What is the main issue with the fixed-size vector representation of input sentences in neural networks?",
+    "How does injecting the encoding of the input sentence into every step of the network help alleviate the problem?",
+    "What happens to the fixed-size representation of the whole sentence as it progresses through the decoder?",
+    "What approach was used in early implementations to mitigate the problem of fabulation?",
+    "Why is reversing the input sentence not considered a systematic or desirable approach?"
+]

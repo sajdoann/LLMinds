@@ -1,0 +1,22 @@
+[
+    "How do neural networks improve upon basic linear models in terms of their computational capabilities?",
+    "In what ways do neural networks utilize multiple layers to process inputs differently than linear models?",
+    "Why is the use of non-linear activation functions essential in neural networks, and how does it affect their performance?",
+    "How does the addition of bias units enhance the functionality of neural networks during inference?",
+    "What is the significance of training neural networks through methods like back-propagation, and what challenges might it address?",
+    "Why is moving against the gradient a strategically sound approach when optimizing neural network weights?",
+    "How does the gradient descent method adapt when optimizing multiple parameters simultaneously in neural networks?",
+    "What is the purpose of calculating the derivative of the activation function in neural network training?",
+    "Why is it important to initialize weights within a specific range before training a neural network?",
+    "What are the reasons for adopting early stopping based on validation error during neural network training?",
+    "What is the purpose of incorporating a momentum term in neural network training, especially when weights are far from their optimal values?",
+    "How does reducing the learning rate over time benefit the training of neural network models?",
+    "In what way does the Adagrad algorithm adjust the learning rate for each parameter during neural network training?",
+    "What is the core idea behind the Adam optimization algorithm in neural network training?",
+    "Why might the problem of local optima occur in neural network training, and what is one common method to address this issue?",
+    "What role does layer normalization play in deep neural networks, particularly in the context of training neural machine translation models?",
+    "What are mini-batches, and how do they influence the training process of neural networks?",
+    "How do vector and matrix operations facilitate the training of neural networks, and why are GPUs well-suited for these computations?",
+    "What is the purpose of layer normalization in neural network training?",
+    "Why is the development of methods to adjust the learning rate important in gradient descent optimization?"
+]

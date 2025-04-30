@@ -1,0 +1,5 @@
+[
+    "What would happen to the machine translation if the ASR emits uncertain outputs, and a NBEST list is not used in between the two components?",
+    "What would happen to the machine translation if the ASR emitted only one output instead of multiple candidates?",
+    "What happens if the ASR is unsure about the meaning of a word, such as \"ice cream\"?"
+]

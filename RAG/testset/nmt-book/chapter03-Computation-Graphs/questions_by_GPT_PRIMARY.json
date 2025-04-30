@@ -1,0 +1,12 @@
+[
+    "How do computational graphs simplify the process of training neural networks?",
+    "What advantages do viewing neural networks as computation graphs provide over traditional equation-based representations?",
+    "Why is it important that a computation graph for neural networks is acyclic, and what implications does this have for its structure?",
+    "In what ways do software frameworks like Theano, Torch, and TensorFlow facilitate the development of neural networks?",
+    "How does the backward pass in a computation graph contribute to neural network training?",
+    "How do different neural network frameworks vary in terms of their focus and functionality?",
+    "Why is defining input data as a matrix advantageous in neural network implementations?",
+    "What is the purpose of defining functions such as 'h_function' and 'predict' in neural network code?",
+    "How does gradient descent facilitate neural network training?",
+    "What is the significance of defining a cost function like the L2 norm in neural network training?"
+]

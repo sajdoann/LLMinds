@@ -1,0 +1,7 @@
+[
+    "What type of setup is being described in this context?",
+    "How do models perform when translating into English, compared to Spanish-English models that have seen other language data?",
+    "What happens to a model's performance when the direction of translation is reversed, compared to the baseline model that only uses Spanish-English data?",
+    "Can you infer what type of data the models are being trained on, based on their performance in translation tasks?",
+    "What would happen to a model's performance if it were trained only on Spanish-English data, compared to the baseline model that uses all available language data?"
+]

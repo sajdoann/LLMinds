@@ -1,0 +1,5 @@
+[
+    "What is the process used in the model to determine the optimal translation of a source sentence into the target language, considering the context and probabilities of word combinations?",
+    "What is the main idea behind the described method for machine translation?",
+    "The process described generalizes the Hidden Markov Model by using a tree structure instead of a linear sequence, where each node's translation choice is influenced by its context. It combines translation probabilities (emission) and language model probabilities (transition) in a bottom-up manner to find the optimal translation path."
+]

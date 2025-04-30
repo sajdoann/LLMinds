@@ -1,0 +1,12 @@
+[
+    "What is the purpose of weight optimization in phrase-based machine translation?",
+    "Why is it necessary to retranslate with different weights during the training process?",
+    "How does data about phrase co-occurrence and target language n-grams facilitate translation quality assessment?",
+    "What is the role of a golden truth or oracle in evaluating translation quality?",
+    "Why might a seemingly good translation score internally not correspond to a high-quality external score?",
+    "In what way can adjusting feature weights alter the ranking of translation hypotheses?",
+    "How does the phrase penalty influence the segmentation of input sentences in machine translation?",
+    "What issues can arise if the language model score is weighted too negatively?",
+    "Why is it important for the held-out set used in training to resemble the test domain?",
+    "What is a key advantage of tuning only the weights rather than the entire model components in phrase-based translation?"
+]

@@ -3,7 +3,7 @@
 # === CONFIG ===
 PROJECT_DIR=~/LLMinds/RAG
 VENV_DIR=$PROJECT_DIR/rag_env
-MODEL_NAME=distqwen-1.5b  # options: llama-7b, neo-small, qwen
+MODEL_NAME=mistral-7b  #distqwen-1.5b  # options: llama-7b, neo-small, qwen
 TOP_K=20
 
 # === Select datasets to run ===

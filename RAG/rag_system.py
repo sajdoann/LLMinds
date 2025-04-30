@@ -18,6 +18,7 @@ available_models = {
 
     "distqwen-1.5b": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",  # 🔥 added
 
+    "mixtral-8x7b": "mistralai/Mixtral-8x7B-Instruct-v0.1",
 }
 
 def ask_and_answer(question, model, tokenizer, retriever, top_k, max_retireve_tokens, instruction, answer_prompt):

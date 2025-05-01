@@ -1,0 +1,5 @@
+[
+    "How does the neural network determine whether a point is in the center or on the circumference of the circle?",
+    "How does the neural network determine if a point is in the center of a circle or on its circumference?",
+    "The neural network determines whether a point is in the center or on the circumference by using three hidden neurons, each acting as a line separator. These neurons' weights define their lines, which are adjusted during training. The combination of these lines forms a triangular area. If all three hidden neurons activate correctly (indicating the point is within the triangle), the output neuron classifies it as the center. If any neuron activates incorrectly, the point is classified as on the circumference."
+]

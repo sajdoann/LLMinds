@@ -1,0 +1,10 @@
+[
+    "How does the Logliner model utilize feature functions and weights to evaluate translation candidates?",
+    "In what way does the Logdiner model serve as a generalization of the noisy channel approach in machine translation?",
+    "Why can the weights in the Logdiner model be adjusted for the language model feature to control the influence on translation scoring?",
+    "What are the primary features used in phrase-based machine translation, and how do they contribute to scoring translation hypotheses?",
+    "What issue arises when comparing longer and shorter sentences using language models based on n-grams, and how is it addressed?",
+    "Why is the number of segments used in translation models an important feature, and how does it influence translation quality?",
+    "How does the language model assess word order in translations, and why is this assessment important?",
+    "What is the role of phrase translation probabilities in constructing candidate translations, and why can't they be used directly for scoring?"
+]

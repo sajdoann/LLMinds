@@ -1,0 +1,19 @@
+[
+    "What is the significance of the alignment model in neural machine translation architectures?",
+    "How does the encoder-decoder approach facilitate translation in neural models?",
+    "Why might the final hidden state in a basic sequence-to-sequence model be insufficient for accurate translation of long sentences?",
+    "What are some strategies proposed to improve the handling of longer sentences in neural translation models?",
+    "In what ways does the attention mechanism enhance the capabilities of neural translation models?",
+    "How does the error calculation for a sentence pair in neural machine translation models relate to the errors of individual words?",
+    "What challenges do different training objectives, like BLEU scores, present in the practical training of neural machine translation models?",
+    "Why is batching multiple sentence pairs important in neural machine translation training, and what are the associated challenges?",
+    "How do sequence length differences affect the training and batching process in neural machine translation models?",
+    "What is the purpose of sorting sentence pairs by length into mini-batches during training, and how does this improve efficiency?",
+    "Why do neural machine translation models typically require early stopping based on validation set performance?",
+    "What is the process of generating translations with neural models using greedy and beam search techniques?",
+    "What are the potential drawbacks of greedy search in neural translation decoding, and how does beam search address them?",
+    "How does the scoring and normalization of hypotheses in beam search influence the quality of the final translation?",
+    "Why can't hypotheses be combined in neural network-based translation decoding like in traditional statistical models?",
+    "How does the interpolation weight influence the prediction of the next hidden state in the decoder?",
+    "What is the purpose of adding a reconstruction step in the attention model according to Tu et al. (2017)?"
+]

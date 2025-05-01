@@ -1,0 +1,5 @@
+[
+    "What is a potential solution to the problem of the decoder forgetting the original input sentence in a sequence-to-sequence model?",
+    "What is a potential approach to mitigate the \"fabulation\" problem in the decoder, where it forgets the original input and produces nonsensical words towards the end of the sentence?",
+    "What approach helped in early implementations to improve the representation of the input sentence in the decoder state, but still resulted in \"fabulation\" towards the end of the sentence?"
+]

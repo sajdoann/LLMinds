@@ -1,4 +1,4 @@
-from loader_saver import load_questions, save_responses
+from loader_saver import load_questions, save_responses, is_answer_already_computed
 from retriever import Retriever
 from loading_spinner import generate_response
 from model_loader import load_model
@@ -102,7 +102,7 @@ def main():
         help=f"Answer saved to outdir (default: {outdir})"
    )
 
-    data_name = "def"
+    data_name = f"all"
     parser.add_argument(
         "--data",
         type=str,
@@ -117,9 +117,18 @@ def main():
     interactive = args.interactive
     questions_filepath = args.questions
     outdir = args.outdir
-    document_filepath  =args.document
+    document_filepath = args.document
     data_name = args.data
+    if data_name == "all":
+        data_name = f"all_{args.model}"
 
+    key = questions_filepath.split('/', 1)[1]
+    save_filename = f"{outdir}/{data_name}.json"
+
+    if is_answer_already_computed(save_filename, key):
+        print(f"ALREADY DONE FOR KEY {key}"
+              f"RETURN")
+        return
 
     print(f"[INFO] Loading model: {model_name}")
     model, tokenizer = load_model(model_name, verbose=True)
@@ -139,10 +148,11 @@ def main():
     responses = []
 
     if not interactive:
-        questions, golden_answers = load_questions(questions_filepath)
+        questions, _ = load_questions(questions_filepath)
         for question in questions:
             max_retrieve_tokens = max_retrieve_tokens_all - tokenizer(question, return_tensors="pt")["input_ids"].shape[1] #subtract question tokens
-            response = ask_and_answer(question, model, tokenizer, retriever, top_k, max_retrieve_tokens, instruction_prompt, answer_prompt)
+            response =  ask_and_answer(question, model, tokenizer, retriever, top_k, max_retrieve_tokens, instruction_prompt, answer_prompt)
+            mock_response = ["""INSTRUCTIONS:mock instructionsCONTEXT:mock contextQUESTION:mock questionANSWER:modek answer"""]
             responses.append(response)
     else:
         print("Entering interactive mode. Type 'exit', 'quit', or 'q' to stop.")
@@ -156,7 +166,7 @@ def main():
             responses.append(response)
 
     # Save responses to a file
-    save_responses(responses, args,outdir,data_name) # careful about the response structure, extract regex
+    save_responses(responses,key,outdir,save_filename) # careful about the response structure, extract regex
 
 if __name__ == "__main__":
     main()

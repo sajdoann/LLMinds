@@ -1,0 +1,1 @@
+ Here it's the same thing presented in formulas. You have the decoder state which will be gradually containing more and more information or information about what has been produced so far. You have the encoder state, the bidirectional recurrent networks. Then you have the attention energies which decide how important each of the state is and you normalize it with the softmax

@@ -1,0 +1,5 @@
+[
+    "What is the process of self-attention in a transformer model, and how is the final representation obtained?",
+    "The final Z vector in self-attention is created by concatenating the outputs of all eight attention heads and then applying a projection matrix to reduce the dimensionality back to the original representation size.",
+    "The weight matrices in each head of the self-attention mechanism are responsible for projecting the input sequence into keys, queries, and values. These matrices allow each head to independently focus on different parts of the input, enabling the computation of attention scores and the generation of a weighted sum of values. This process allows each head to capture diverse information from the input sequence."
+]

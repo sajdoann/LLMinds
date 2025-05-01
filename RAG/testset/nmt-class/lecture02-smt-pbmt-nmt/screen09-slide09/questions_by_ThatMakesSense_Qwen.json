@@ -1,0 +1,5 @@
+[
+    "What is the technical problem with setting translation probabilities to one if a pair has been seen and zero otherwise?",
+    "What is the technical problem that arises when a sentence in the brute force machine translation system has multiple translations, and how is it addressed in the described approach?",
+    "The text describes a technical issue with a brute force machine translation system that uses translation memories. The problem arises when a source sentence can be translated into multiple target sentences, causing the assigned probabilities for each translation to sum to more than one. This violates probability theory, which requires that the sum of probabilities for all possible outcomes should be exactly one. Therefore, the question is:\n\nWhat is the technical problem when a source sentence can be translated into multiple target sentences in a brute force machine translation system based on translation memories?"
+]

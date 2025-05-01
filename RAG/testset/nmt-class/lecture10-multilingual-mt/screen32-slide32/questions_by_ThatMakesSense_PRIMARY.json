@@ -1,0 +1,7 @@
+[
+    "Will training a neural machine translation system on short sentences result in lower BLEU scores?",
+    "What is the average number of output words when training on a full range of sentence lengths using the parent model?",
+    "How does training on sentences with 20 to 40 words affect the BLEU score compared to the baseline?",
+    "Why are long outputs penalized in the brevity penalty?",
+    "What is the effect of different parents on the output length of the neural machine translation system?"
+]

@@ -1,0 +1,5 @@
+[
+    "What approach was described to make the model more flexible by allowing certain substitutions while imposing penalties for unexpected ones?",
+    "How are substitution costs handled in a parsing model to make it robust for real inputs, considering the differences between STSG and higher-level approaches, and how does this relate to David Cheng's work on allowing necessary substitutions with penalties?",
+    "David Cheng's paper focuses on enhancing the flexibility of the model by allowing certain substitutions based on the data, while imposing penalties for substitutions that are not anticipated by the grammar."
+]

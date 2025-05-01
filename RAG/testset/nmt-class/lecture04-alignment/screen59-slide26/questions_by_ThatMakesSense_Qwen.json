@@ -1,0 +1,5 @@
+[
+    "What does IBM Model 1 use according to the chain rule as mentioned in the text?",
+    "What is the probability of alignment between source and target sentences in IBM Model 1, and how does it use the chain rule to incorporate lexical translation probabilities and the full probability of the target given the source across all alignments?",
+    "The probability of the alignment given the source and target sentences in the IBM Model 1 is derived using the chain rule, which factors the joint probability into a product of conditional probabilities. Specifically, the alignment probability is expressed as the product of translation probabilities for each target word given its aligned source word, considering all possible alignments. This can be represented as:\n\nP(alignment) = ∏_{j=1}^{n} P(y_j|x_i), \n\nwhere y_j is the j-th target word aligned to the i-th source word x_i. This formula encapsulates the chain rule's application in breaking down the alignment probability into a sequence of conditional probabilities, essential for calculating the full target probability given the source in IBM Model 1."
+]

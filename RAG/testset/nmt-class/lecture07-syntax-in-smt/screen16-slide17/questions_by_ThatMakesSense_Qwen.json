@@ -1,0 +1,5 @@
+[
+    "Why is it impossible to map the constituency trees of the English sentence \"John fell in love with Mary\" and the Czech sentence \"Jan Miluje Marii\" using a Synchronous context-free grammar?",
+    "Why is it impossible to map the English tree John fell in love with Mary to the Czech tree Jan Miluje Marii using the Synchronous context-free grammar?",
+    "The trees for the English and Czech sentences have different depths, which leads to a mismatch in the number of rule applications required for mapping. This difference in structure prevents the use of Synchronous context-free grammar for translation."
+]

@@ -1,0 +1,5 @@
+[
+    "The translation system is composed of two main components. The first component is a phrase-based system that translates English into lemmatized Czech, handling structural changes like word reordering and count without dealing with case. The second component converts this simplified lemmatized Czech into fully inflected Czech using a larger dataset, focusing on word-level translations without reordering, thus preserving morphological details.",
+    "What are the two main steps in the translation process described in the text, and what is the purpose of each step?",
+    "What is the purpose of the two-step translation process described in the text?"
+]

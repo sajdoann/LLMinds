@@ -1,0 +1,5 @@
+[
+    "Question: Why did the BLEU score drop when moving from the part-of-speech model to the linguistically adequate morphological generation model?",
+    "The BLEU score dropped by 5 points when moving to the morphological generation model because unnecessary independence assumptions were introduced by decomposing words into lemmas and tags, causing information loss and reducing translation quality.",
+    "Why did the BLEU score drop by 5 points when transitioning to the linguistically adequate morphological generation model?"
+]

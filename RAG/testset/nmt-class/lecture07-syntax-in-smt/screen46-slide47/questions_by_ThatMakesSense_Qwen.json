@@ -1,0 +1,5 @@
+[
+    "What is the purpose of decomposing trees into smaller treelets and using substitution grammars synchronously on the source and target sides?",
+    "The process involves decomposing source sentence structures (trees) into smaller units called treelets, which are stored in a dictionary. These treelets are then used alongside substitution grammars to align and translate sentences between languages, allowing for the construction of target sentences by applying these units synchronously on both source and target sides.",
+    "Which step comes first in the described process: decomposing the trees into smaller treelets, extracting the treelets, creating a dictionary of treelets, or using substitution grammars to apply them synchronously?"
+]

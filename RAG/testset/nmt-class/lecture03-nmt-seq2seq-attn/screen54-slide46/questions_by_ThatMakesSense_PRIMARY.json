@@ -1,0 +1,7 @@
+[
+    "What is the purpose of starting the network's outputs with something that may not be the best scoring individual word?",
+    "How does beam search approach allow the network to produce less likely beginnings of sentences?",
+    "What is the benefit of allowing the network to produce less likely words and then benefiting from the highly probable final sentence?",
+    "How does greedy decoding differ from the described approach?",
+    "What is the goal of the network's output in this approach?"
+]

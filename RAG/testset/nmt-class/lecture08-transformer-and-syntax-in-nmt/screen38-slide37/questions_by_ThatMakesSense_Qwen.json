@@ -1,0 +1,5 @@
+[
+    "The structure that allows each node to access information from its governor and children is the dependency tree. In this structure, each node has one governor (a parent node) and can have multiple children. The computation respects this dependency structure, with one weight matrix determining how each node uses information from its governor and another weight matrix aggregating information from its children.",
+    "How does the computation in graph convolution networks respect the dependency tree structure, and what role do weight matrices play in this process?",
+    "How do graph convolution networks integrate dependency parse structures into their computation, and what is the purpose of the weight matrices in this integration?"
+]

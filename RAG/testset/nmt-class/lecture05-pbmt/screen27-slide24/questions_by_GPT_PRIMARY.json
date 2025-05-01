@@ -1,0 +1,7 @@
+[
+    "Why is simply limiting the search space considered insufficient in the context of hypothesis pruning during translation?",
+    "How can hypotheses with different outputs still be considered similar enough to be merged in the translation process?",
+    "Why is it appropriate to consider only the last two words in a trigram language model when scoring hypotheses?",
+    "How do the scores of future paths become identical for hypotheses ending with the same last two words?",
+    "How does the concept of safe pruning in translation systems leverage the idea that the history beyond certain recent words becomes irrelevant?"
+]

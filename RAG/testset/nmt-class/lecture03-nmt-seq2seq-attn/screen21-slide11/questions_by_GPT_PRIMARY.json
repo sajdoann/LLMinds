@@ -1,0 +1,8 @@
+[
+    "What innovations have enabled deeper neural networks to train effectively, specifically regarding the development of LSTMs and GRUs?",
+    "How does the previous state and current input contribute to the output in recurrent neural networks like GRUs?",
+    "What challenges are associated with selective copying or destination selection of information in neural nodes, and how are they addressed?",
+    "What is the significance of choosing which previous values to preserve in sequence models like GRUs?",
+    "How does the gating mechanism in GRUs decide the proportion of old versus new information to be integrated into the current state?",
+    "Why are two different nonlinear functions—tanh and sigmoid—used within GRUs, and what roles do they serve?"
+]

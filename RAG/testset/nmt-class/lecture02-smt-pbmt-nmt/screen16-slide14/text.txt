@@ -1,0 +1,1 @@
+ If I hide the solution for a second, if you define the probability of a sentence as a product of trigram probabilities, where does it struggle? Where does it break? Exactly. So that's it. This probability is again not smooth enough. There is a big risk that one of the n-grams will not be observed at all.

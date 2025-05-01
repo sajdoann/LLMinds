@@ -1,0 +1,7 @@
+[
+    "What model do you use when defining the conditional probability of the target sentence given the source?",
+    "How do you score each of the candidates with all the features?",
+    "What happens to the probability estimate within the argmax?",
+    "Why do you only want to know which sentence will win in this competition?",
+    "What is the purpose of running the log linear model?"
+]

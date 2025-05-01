@@ -1,0 +1,5 @@
+[
+    "What happens to the child model's performance when it is initialized with the parent model's weights instead of random weights?",
+    "How does initializing the child model with weights from a parent model trained on a related language pair help mitigate overfitting, and what is the outcome compared to training the child model from scratch with random weights?",
+    "What is the result of applying transfer learning when training the child model on a small dataset?"
+]

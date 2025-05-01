@@ -1,0 +1,1 @@
+ We will have pairs of sentences that are in French and Spanish. And we can take the network as we have it with two encoders, two decoders. They were trained in the two pairs but never across. And now we will continue training. We will fine-tune with these data that go across. They go from Spanish into French.

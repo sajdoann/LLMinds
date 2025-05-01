@@ -1,0 +1,5 @@
+[
+    "How is the attention mechanism handled in the model when dealing with different language pairs?",
+    "The key idea is that the attention mechanism remains consistent and unchanged across all language pairs, allowing each encoder-decoder pair to be trained separately while sharing the same attention mechanism.",
+    "Does the attention mechanism change when training with different language pairs, and why or why not?"
+]

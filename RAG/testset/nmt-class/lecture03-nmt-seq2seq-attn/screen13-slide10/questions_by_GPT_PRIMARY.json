@@ -1,0 +1,6 @@
+[
+    "How does the transformation function in a vanilla recurrent neural network process input and state to generate a new state?",
+    "Why is it necessary to scale the vector within the transformation A to any size using the weight matrix and bias?",
+    "What are the implications of a network's state radically changing at each time step for the interpretation and training of recurrent neural networks?",
+    "How does the absence of continuity in the state representation affect the training process and the interpretability of recurrent neural networks?"
+]

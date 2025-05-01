@@ -1,0 +1,9 @@
+[
+    "What are the different quantities involved in the expectation maximization algorithm for machine translation?",
+    "How does the model accommodate different possible alignments between source and target words?",
+    "What is the significance of the product of lexical probabilities in the IBM model one?",
+    "How does the EM algorithm utilize the corpus and possible alignments to improve translation models?",
+    "Why is normalization an essential step in the expectation step of the EM algorithm in this context?",
+    "How are partial counts used to update lexical probabilities in the maximization step?",
+    "What challenges are involved in estimating the most probable alignment for a sentence pair?"
+]

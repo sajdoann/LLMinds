@@ -1,0 +1,5 @@
+[
+    "How does the performance of the transformer model with a dummy diagonal parse compare to using the actual dependency parse in terms of translation quality?",
+    "What role does the positioning of parse information within the layers of the transformer network play in translation quality?",
+    "Why might peaked self-attention matrices, such as those encouraged by a diagonal parse, contribute to better translation outcomes?"
+]

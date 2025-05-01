@@ -1,0 +1,5 @@
+[
+    "What is the main issue with using traditional methods like concatenation for sentence representation in models with a bidirectional encoder and attention mechanism?",
+    "How does the use of attention mechanisms in sequence-to-sequence models with a bidirectional encoder impact the ability to generate a single sentence embedding for semantic processing tasks?",
+    "Why is concatenation of vectors from each decoding step not feasible in a sequence-to-sequence model with bidirectional encoders and attention mechanisms?"
+]

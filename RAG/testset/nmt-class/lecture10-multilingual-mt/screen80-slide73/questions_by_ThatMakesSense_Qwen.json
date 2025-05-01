@@ -1,0 +1,5 @@
+[
+    "Which technique involves using a main pre-trained network with additional tunable sublayers (adapters) specifically trained for different language pairs to reduce model size and enable efficient translation?",
+    "Orhan Ferden and his colleagues reduced the model size by introducing tunable sublayers, which act as language-specific experts. These sublayers, or adapter layers, are trained in a supervised manner for particular language pairs, while the majority of the network remains pre-trained on a large mixed corpus of main languages. This approach allows the model to efficiently handle different language pairs during runtime without significantly increasing the overall model size.",
+    "What is the role of the tunable sublayers in the model?"
+]

@@ -1,0 +1,5 @@
+[
+    "What matrix is used in the final step of the decoder's output projection to produce the output word, and what operation is performed on it to determine the highest scoring element?",
+    "Where is the scaling to the output vocabulary applied, and what is the size of the matrix used for this scaling?",
+    "What are the two main uses of the decoder's output state in the described recurrent neural network?"
+]

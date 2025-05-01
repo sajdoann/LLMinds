@@ -1,0 +1,5 @@
+[
+    "How does IBM Model One calculate the probability of the most likely target sentence given a source sentence, using lexical probabilities and word alignments?",
+    "What does IBM Model One compute for a given source sentence using the lexical probabilities of each word and their alignment?",
+    "The source sentence with the highest probability in IBM Model One, given the target sentence \"the house east client,\" is \"does house east client.\" This is because each source word (\"does,\" \"house,\" \"east,\" \"client\") was aligned to the corresponding target word using the highest probability from the lexical translation table, maximizing the overall sentence probability."
+]

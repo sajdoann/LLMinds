@@ -1,0 +1,5 @@
+[
+    "Which model type shows better performance when translating into English versus translating from English into other languages, such as French or German, and why?",
+    "Question: In which scenarios is the multilingual model more effective, and why? Explain the performance difference based on the test set BLEU scores.",
+    "The multilingual model demonstrates superior performance when translating into English, whereas single paired models are more effective when translating from English into other languages such as French, Czech, German, Russian, or Finnish. This highlights that the multilingual model's advantage is specifically when the target language is English, likely due to its broader training data, while single paired models excel in other translation directions."
+]

@@ -5,7 +5,8 @@ VENV_DIR="$PROJECT_DIR/rag_env"
 SELECTOR_MODEL=llama-7b   # options: llama-7b, qwen-1.5b, neo-small, distqwen-1.5b, mistral-7b, …
 
 # === Select datasets to ensemble ===
-# DATASETS=("bio1" "bio2" "bio3" "nmt" "popular")
+# Use the SAME dataset keys that were used when generating the individual model answers
+# DATASETS=("bio1" "bio2" "bio3" "nmt" "popular")  # ← edit as needed
 DATASETS=("bio1")
 
 echo "🔁 Activating environment …"
@@ -18,8 +19,9 @@ for DATA in "${DATASETS[@]}"; do
   python3 ensemble_rag.py \
     --data "$DATA" \
     --selector_model "$SELECTOR_MODEL" \
-    --include_candidates # add "--include_candidates" above if you want raw answers in the output
-    
+    --include_candidates \
+    --outdir ensemble_responses
+    # add "--include_candidates" above if you want raw answers in the output
 
   echo "✅ Finished ensemble for $DATA"
   echo "---------------------------"

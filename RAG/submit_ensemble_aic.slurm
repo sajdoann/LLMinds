@@ -7,6 +7,7 @@
 #SBATCH --mem=32G                  # usually enough – adjust per model
 #SBATCH --time=00:10:00
 #SBATCH --output=out/%j_ensemble.out
+#SBATCH --constraint=gpuram24G
 
 echo "🏁 Ensemble job started at $(date) on $(hostname)"
 

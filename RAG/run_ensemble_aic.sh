@@ -4,10 +4,9 @@ PROJECT_DIR=~/LLMinds/RAG
 VENV_DIR="$PROJECT_DIR/rag_env"
 SELECTOR_MODEL=llama-7b   # options: llama-7b, qwen-1.5b, neo-small, distqwen-1.5b, mistral-7b, …
 
-# === Select datasets to ensemble ===
 # Use the SAME dataset keys that were used when generating the individual model answers
-# DATASETS=("bio1" "bio2" "bio3" "nmt" "popular")  # ← edit as needed
-DATASETS=("bio1")
+DATASETS=("bio1" "bio2" "bio3" "nmt" "popular")
+# DATASETS=("bio1")
 
 echo "🔁 Activating environment …"
 source "$VENV_DIR/bin/activate"
@@ -23,7 +22,7 @@ for DATA in "${DATASETS[@]}"; do
     --outdir ensemble_responses
     # add "--include_candidates" above if you want raw answers in the output
 
-  echo "✅ Finished ensemble for $DATA"
+  echo "Finished ensemble for $DATA"
   echo "---------------------------"
 done
 

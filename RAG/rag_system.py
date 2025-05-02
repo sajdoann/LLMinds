@@ -44,8 +44,9 @@ def ask_and_answer(question, model, tokenizer, retriever, top_k, max_retireve_to
 
 
 def main():
-    torch.cuda.empty_cache()
-    gc.collect()
+    print(f"cuda avilable {torch.cuda.is_available()}")  # should be True
+    #torch.cuda.empty_cache()
+    #gc.collect()
 
     # Optional: forcibly close all active CUDA contexts
     #torch.cuda.reset_peak_memory_stats()

@@ -30,11 +30,11 @@ while read -r DIR; do
     QUESTIONS_COUNT=$((QUESTIONS_COUNT + CUR_QUESTION_COUNT))
     echo "CUR_QUESTION_COUNT: $CUR_QUESTION_COUNT"
     echo "so far generated: $QUESTIONS_COUNT"
-    python3 rag_system.py \
-         --model $MODEL_NAME \
-         --top_k $TOP_K \
-         --document "$TEXT_FILE" \
-         --questions "$QUESTION_FILE"
+    #python3 rag_system.py \
+    #     --model $MODEL_NAME \
+    #     --top_k $TOP_K \
+    #     --document "$TEXT_FILE" \
+    #     --questions "$QUESTION_FILE"
 done < <(find "$ROOT_DIR" -type d)
 
 echo "Total questions: $QUESTIONS_COUNT"

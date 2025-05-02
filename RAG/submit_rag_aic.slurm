@@ -17,7 +17,7 @@ cd ~/LLMinds/RAG
 source rag_env/bin/activate
 
 # Run script
-./testset_run_script.sh
+./run_choices2.sh
 
 echo "✅ Job finished at $(date)"
 

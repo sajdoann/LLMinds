@@ -7,6 +7,16 @@ import torch
 import gc
 from tqdm import tqdm
 
+from transformers import StoppingCriteria, StoppingCriteriaList
+
+class StopOnNewlineCriteria(StoppingCriteria):
+    def __init__(self, tokenizer):
+        self.newline_token_id = tokenizer.encode('\n', add_special_tokens=False)[0]
+
+    def __call__(self, input_ids, scores, **kwargs):
+        return input_ids[0, -1] == self.newline_token_id
+
+
 available_models = {
     "tiny": "sshleifer/tiny-gpt2",
     "neo-small-125M": "EleutherAI/gpt-neo-125M",
@@ -75,12 +85,14 @@ def main():
             tokenized = tokenizer(prompts, return_tensors="pt", padding=True, truncation=True).to(model.device)
             try:
                 with torch.no_grad():
+                    stopping_criteria = StoppingCriteriaList([StopOnNewlineCriteria(tokenizer)])
                     outputs = model.generate(
                         **tokenized,
                         max_new_tokens=100,
                         do_sample=True,
                         temperature=0.7,
-                        pad_token_id=tokenizer.eos_token_id
+                        pad_token_id=tokenizer.eos_token_id,
+                        stopping_criteria=stopping_criteria
                     )
                 decoded = tokenizer.batch_decode(outputs, skip_special_tokens=True)
                 responses.extend(decoded)

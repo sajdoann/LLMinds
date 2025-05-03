@@ -70,7 +70,7 @@ def save_responses(responses, key, outdir, filename):
     # Save back to file
     with open(filename, mode='w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=2)
-
+    print(f"NEW DATA: {data[key]}")
     print(f"\nSUCCESS SAVED FOR '{key}' to: {filename}")
 
 def is_answer_already_computed(json_path, questions_key):

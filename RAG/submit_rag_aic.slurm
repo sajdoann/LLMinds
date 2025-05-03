@@ -6,6 +6,7 @@
 #SBATCH --mem=64G #32 sometimes enough
 #SBATCH --time=50:00:00
 #SBATCH --output=out/%j.out
+#SBATCH --constraint=gpuram24G
 
 echo "🏁 Job started at $(date) on $(hostname)"
 

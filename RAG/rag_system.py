@@ -29,8 +29,9 @@ available_models = {
 }
 
 def main():
-    #torch.cuda.empty_cache()
-    #gc.collect()
+    torch.cuda.empty_cache()
+    gc.collect()
+    torch.cuda.ipc_collect()
 
     parser = argparse.ArgumentParser(description="RAG Chatbot")
     parser.add_argument("--model", type=str, choices=available_models.keys(), default="neo-small")
@@ -56,6 +57,7 @@ def main():
 
     print(f"[INFO] Loading model: {model_name}")
     model, tokenizer = load_model(model_name, verbose=True)
+    tokenizer.pad_token = tokenizer.eos_token
 
     retriever = Retriever()
     retriever.load_documents(args.document)
@@ -71,7 +73,7 @@ def main():
 
     if not args.interactive:
         questions, _ = load_questions(questions_filepath)
-        batch_size = 8
+        batch_size = 1 # llama needs small. qwen cna have 8
         for i in tqdm(range(0, len(questions), batch_size), desc="Generating"):
             batch = questions[i:i + batch_size]
             prompts = []
